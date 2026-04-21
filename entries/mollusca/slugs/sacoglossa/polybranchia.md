@@ -1,0 +1,159 @@
+---
+title: Bushy slug (Polybranchia orientalis)
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: "polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug, sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+attributes: [30, 90]
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+sea slugs [text
+index](../../molluscaindex.htm#sacoglossa) | [photo index](../../slugfi.htm)
+Phylum [Mollusca](../../mollusca.htm)
+> Class [Gastropoda](../../gastropoda.htm) > [sea
+slugs](../../slug.htm) > Order [Sacoglossa](sacoglossa.htm)
+**Bushy
+slug**  
+***Polybranchia orientalis*  
+Family Caliphyllidae***updated
+Jun 2020*
+
+---
+
+**Where
+seen?** This slug looks just like a bit of boring seaweed,
+so it's often overlooked unless you know what to look for. It is sometimes
+seen on our Northern shores moving among seaweeds at night. This slug
+was previously called *Phyllobranchus* or *Phyllobranchillus
+orientalis*.  
+  
+**Features:**  4-5cm.
+Body with a lot of large leaf-like extensions (called cerata). So
+it does appear like a tiny bush. The cerata contain fine branching
+digestive glands. The cerata drop off easily when the animal is handled,
+and tend to stick to the hand. New cerata grow back in a few days.
+In addition, a distasteful milky secretion is produced by glands on
+the edges of the cerata. It has an internal shell, a pair of tentacles
+(called rhinophores) that are branched. The tentacles are sually hidden
+by the cerata.  
+  
+**What does it eat?** Like other sap-sucking
+slugs, it eats seaweeds. It is believed that the colour of the animal
+varies with the colour of the seaweed that it last ate. Thus, they
+may be green, brown or red. They may be transparent if they haven't
+eaten much. On Cyrene Reef, several individuals were seen nestled
+in a large clump of *[Caulerpa
+racemosa](../../../plants/seaweed/chlorophyta/racemosa.htm)*.
+
+![](polybranchia/110519chgd2177m3.jpg)  
+Out of water, the internal parts can be seen. *Changi, May 11*
+
+![](polybranchia/110519chgd2177m3a.jpg)  
+Branched rhinophores.
+
+![](polybranchia/110519chgd2177m3d.jpg)
+
+![](polybranchia/050819cjg1522m3.jpg)  
+Mating? *Chek Jawa, Aug 05*
+
+![](polybranchia/050806skdg0455m3.jpg)  
+ *Pulau Sekudu, Aug 05*
+
+---
+
+**Bushy
+slugs on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Polybranchia%20orientalis) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Polybranchia%20orientalis/map?&fLat=1.2605&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+![](polybranchia/210528chg7tch3.jpg)  
+*Changi Carpark 7, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159484924213713&set=a.10159484959768713).
+
+![](polybranchia/180714cjtch1.jpg)  
+*Chek Jawa, Jul 18*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156654587868713&set=a.10156654571338713&type=3&theater).
+
+![](polybranchia/230803skdky3.jpg)  
+*Pulau Sekudu, Aug 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168620794700112&set=a.10168620780985112).
+
+---
+
+![](polybranchia/070714bbmn1.jpg)  
+*Beting Bronok, Jul 07*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/808728333/).
+
+![](polybranchia/130723ecplks.JPG)  
+*East Coast Park, Jul 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24266792294/in/album-72157607719316847/).
+
+---
+
+**Links**
+
+- [The
+  Sea Slug Forum](http://www.seaslugforum.net/) by Dr Bill Rudman: photos and fact sheet on
+  [*Polybranchia
+  orientalis*](http://www.seaslugforum.net/factsheet.cfm?base=polyorie).
+- [The
+  Slug Site](http://slugsite.us/)
+  Branch of the Week: photo and fact sheet on *[Polybranchia
+  orientalis](http://slugsite.us/bow/nudwk353.htm)*
+
+**References**
+
+- Tan Siong
+  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+  Checklist of The Molluscs of Singapore* (pdf), Raffles
+  Museum of Biodiversity Research, National University of Singapore.
+- Debelius,
+  Helmut, 2001. *Nudibranchs
+  and Sea Snails: Indo-Pacific Field Guide*
+  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
+- Wells, Fred
+  E. and Clayton W. Bryce. 2000. *Slugs
+  of Western Australia: A guide to the species from the Indian to
+  West Pacific Oceans*.
+  Western Australian Museum. 184 pp.
+- Humann, Paul
+  and Ned Deloach. 2010. *Reef
+  Creature Identification: Tropical Pacific* New World Publications.
+  497pp.
+- Kuiter, Rudie
+  H and Helmut Debelius. 2009. *World
+  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
+- Coleman,
+  Neville. 2001. *1001
+  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
+  Coleman�s Underwater Geographic Pty Ltd, Australia.144pp.
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

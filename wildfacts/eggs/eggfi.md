@@ -1,0 +1,136 @@
+---
+title: "Marine eggs: photo index for the Shores of Singapore"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "small, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+eggs [text
+index](eggindex)
+**Photo
+index of marine eggs on Singapore shores**
+
+---
+
+![](../mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg)  
+[Spiral   
+melongena snail](../mollusca/gastropoda/melogenidae/cochlidium)   
+*Pugilina cochlidium*
+
+![](../mollusca/gastropoda/muricidae/chunky/050110skdd9489m.jpg)  
+[Drills](../mollusca/gastropoda/muricidae/muricidae)  
+Family Muricidae
+
+![](eggs/050608cftg7378ma.jpg)  
+[Egg string](string)  *awaiting identification*
+
+![](eggs/050726chgg0399m.jpg)  
+[Egg
+string](string)  *awaiting identification*
+
+![](eggs/050611kusg7835m.jpg)  
+[Egg string](string)  *awaiting identification*
+
+Capsules
+about 1.5cm tall, yellow or beige. Laid upright in rows on hard surfaces.
+Common on our Northern shores.
+Capsules
+about 1cm, slender, yellow turning purple. Laid on rocks near high
+water mark. Common on our Northern shores.
+Long
+strings of eggs in mucus, looks like noodles. Laid among seaweeds,
+seagrasses, or on rocks. Seasonally common on some of our Northern
+shores.
+Small
+string of eggs laid in a coil on seagrass blade. Sometimes seen on
+our Northern shores.
+Sausage-like
+4-6cm long, 0.5cm wide. Fragile, usually transparent. Laid among seaweeds.
+Seasonally common on all our shores.
+
+![](../mollusca/slugs/nudibranchia/eggs/050309smkg3146m.jpg)[Nudibranch  
+egg mass](../mollusca/slugs/nudibranchia/eggs)   
+Order Nudibranchia
+
+![](../mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg)  
+[Sand collar](../mollusca/gastropoda/naticidae/sandcollar)   
+Family Naticidae
+
+![](eggs/110418tmftd8998m.jpg) [Egg blobs](blobs)   
+possibly sea slugs
+
+Egg
+mass to 1cm wide, white or beige. Frilly ribbons laid in spirals on
+hard surfaces, seaweeds and seagrasses. Seasonally common on our undisturbed
+shores.
+Egg
+mass 6-8cm wide, made up of sand and mucus. Not attached. Common on
+our Northern shores.
+ 
+ 
+10cm
+long. Translucent blob, when submerged teardrop or light-bulb shaped.
+Sometimes seen in mudflats and sandflats.
+
+![](../mollusca/gastropoda/volutidae/nobilis/030619bbd0247ma.jpg)  
+[Noble volute](../mollusca/gastropoda/volutidae/nobilis)   
+*Cymbiola nobilis*
+
+![](../mollusca/cephalopoda/cepeggs/020715chgd3359m.jpg)[Cephalopod  
+egg capsules](../mollusca/cephalopoda/cepeggs)   
+Order Cephalopoda
+
+![](../mollusca/cephalopoda/cepeggs/031030sntd0022m.jpg)[Cephalopod  
+egg capsules](../mollusca/cephalopoda/cepeggs)   
+Order Cephalopoda
+
+ 
+ 
+Capsules
+about 10cm long, elongated with angular bumps. Not attached. Common
+on our undisturbed Northern shores.
+Tear-drop
+shaped capsules (1.5-2cm) joined together in a 'string' about 10-15cm
+long, attached to a tubeworm tube or other hard surface. Sometimes
+seen on our Northern shores.
+Sausage-like
+capsules 6-8cm long. Bunches of several 'sausages' attached to seaweeds.
+Sometimes seen on many of our shores.
+ 
+ 
+**NOT
+eggs**
+
+![](../ascidiacea/bubble/120820sisd0781m.jpg)  
+[Bubble ascidians](bubble) *awaiting identification*
+
+![](../ascidiacea/jelly/100726chgd9196m.jpg)  
+[Jelly sea squirt](jelly) *awaiting identification*
+
+![](../ascidiacea/eudistoma/050311labg3270m.jpg)  
+[Yellow clustered   
+bead ascidians](eudistoma) *Eudistoma* sp.
+
+ 
+ 
+Each
+bubble about 1-3cm, translucent with two openings, in clusters under
+and on rocks on some of our shores.
+2-3cm,
+translucent blob stuck under stones with fine red bars at one opening.
+Sometimes seen on our Northern shores.
+Each
+blob about 1cm across. Clusters of blobs on boulders and larger rocks,
+usually near base and under overhands. Also on jetty pilings. Commonly
+seen on our Northern shores.
+
+[links](../links)
+| [references](../references)
+| [about](../about)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

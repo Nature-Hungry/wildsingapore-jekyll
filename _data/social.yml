@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://hello@wildsingapore.com
+  icon: fas fa-envelope
+- title: Instagram
+  url: https://instagram.com/riawildsingapore
+  icon: fab fa-instagram
+- title: GitHub
+  url: https://github.com/Wild-Singapore/wild-singapore.github.io
+  icon: fab fa-github

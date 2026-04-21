@@ -1,0 +1,123 @@
+---
+title: "Lyre sea fan (Ctenocella pectinata) on the Shores of Singapore"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../indexl)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
+
+gorgonian
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
+
+Phylum [Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
+> Subclass Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
+**Lyre
+sea fan*****Ctenocella
+pectinata\**  
+Family Ellisellidae***updated Dec 2019*
+
+---
+
+**Where
+seen?** This elegant sea fan resembles a comb, harp or lyre.
+It is sometimes seen on Beting Bronok and Changi. In deeper water,
+they can grow to 1.5m across.  
+  
+**Features:** 15-20cm long. Colony
+comprises long unbranched stems emerging from a lower horizontal branch.
+The vertical stems arise parallel to one another, on one plane. The
+overall shape resembles a lyre or harp; or teeth of a comb.  The cylindrical
+stems are smooth and thin. When the polyps are retracted, they form
+small mounds on the stem. Colours red, brown and white.
+
+*![](lyre/060812bbd6033m3la.jpg)  
+Beting Bronok, May 06*
+
+*![](lyre/060812bbd6033m3b.jpg)*
+
+---
+
+*![](lyre/040604bbad0076m3.jpg)  
+Beting Bronok, Jun 04*
+
+*![](lyre/030520bbd0332m3.jpg)  
+Beting Bronok, May 03*
+
+*![](lyre/120704chgd6848m3.jpg)  
+Changi, Jul 12*
+
+  
+*\***Species
+are difficult to positively identify without close examination.**On this website, they are grouped by external
+features for convenience of display*
+
+---
+
+**Lyre
+sea fans on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Ctenocella pectinata) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/ctenocella%2520pectinata/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](lyre/240706ubnlks1.jpg)  
+Changi-Loyang, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158).
+
+![](lyre/240706ubnlks1a.jpg)
+
+---
+
+**Links**
+
+- [*Ctenocella*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Ctenocella)
+  on [Reef
+  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+
+**References**
+
+- Fabricius,
+  Katharina and Philip Alderslade, 2001. *Soft
+  Corals and Sea Fans*.
+  Australian Institute of Marine Science and the Museum and Art
+  Gallery of the Northern Territoriy. 264 pp.
+- Goh, N.K.C.
+  and Chou, L.M. 20 December 1996. *An
+  annotated checklist of the gorgonians (Anthozoa: Octocorallia)
+  of Singapore, with a discussion of gorgonian diversity in the
+  Indo-West Pacific*. Raffles
+  Museum Bulletin of Zoology Pp. 435-459.
+
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

@@ -1,0 +1,123 @@
+---
+# _layouts/home.html
+# Used by: index (the wildfactsheets homepage)
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ page.title | default: "Wild Fact Sheets" }}</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  {% include sidebar.html %}
+
+  <!-- ── Main content ───────────────────────────────────────────────────── -->
+  <div class="site-wrapper">
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <img
+            src="{{ '/assets/images/photos/wildfactsheet3.gif' | relative_url }}"
+            alt="Wild Fact Sheets"
+            width="180"
+            height="57">
+        </a>
+        <div class="site-tagline">
+          <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
+          <span class="site-tagline__sub">wild shores of singapore</span>
+        </div>
+      </div>
+    </header>
+
+    <main class="page-content home-content" id="main-content">
+
+      <div class="photo-grid">
+
+        <div class="photo-grid__item">
+          <a href="{{ '/animals/' | relative_url }}">
+            <img src="{{ '/assets/images/animal.jpg' | relative_url }}" alt="Animals" width="144" height="145">
+          </a>
+          <p class="caption"><a href="{{ '/animals/' | relative_url }}"><strong>animals</strong></a></p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/plants/' | relative_url }}">
+            <img src="{{ '/assets/images/plant.jpg' | relative_url }}" alt="Plants" width="144" height="145">
+          </a>
+          <p class="caption"><a href="{{ '/plants/' | relative_url }}"><strong>plants</strong></a></p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/photoindex/' | relative_url }}">
+            <img src="{{ '/assets/images/whazzat.jpg' | relative_url }}" alt="Photo index" width="144" height="145">
+          </a>
+          <p class="caption">
+            don't know the name?<br>
+            Try the <a href="{{ '/photoindex/' | relative_url }}"><strong>photo index</strong></a>
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/concepts/' | relative_url }}">
+            <img src="{{ '/assets/images/concept.jpg' | relative_url }}" alt="Concepts" width="144" height="145">
+          </a>
+          <p class="caption">
+            <strong>some <a href="{{ '/concepts/' | relative_url }}">concepts</a> explained</strong><br>
+            ecosystems, feeding methods<br>
+            what causes the tides, etc
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/redlist/' | relative_url }}">
+            <img src="{{ '/assets/images/redlist.jpg' | relative_url }}" alt="Singapore red list" width="144" height="146">
+          </a>
+          <p class="caption">
+            <a href="{{ '/redlist/' | relative_url }}"><strong>the Singapore red list</strong></a><br>
+            threatened lifeforms
+          </p>
+        </div>
+
+        <div class="photo-grid__item">
+          <a href="{{ '/forguides/' | relative_url }}">
+            <img src="{{ '/assets/images/fornatureguides.jpg' | relative_url }}" alt="For nature guides" width="144" height="146">
+          </a>
+          <p class="caption">
+            <a href="{{ '/forguides/' | relative_url }}"><strong>for nature guides</strong></a><br>
+            tips and stories for<br>
+            guiding on the shores
+          </p>
+        </div>
+
+      </div><!-- .photo-grid -->
+
+      <div class="home-links">
+        <p><strong>Pulau Semakau <a href="{{ '/checklist/' | relative_url }}">Checklist</a></strong></p>
+        <p><a href="https://www.wildsingapore.com/places/">info for visitors to our wild shores</a></p>
+        <p><strong><a href="{{ '/about/' | relative_url }}">about this site</a></strong></p>
+      </div>
+
+      {% if content and content != "" %}
+      <div class="home-extra">{{ content }}</div>
+      {% endif %}
+
+    </main>
+
+  </div><!-- .site-wrapper -->
+
+</body>
+</html>

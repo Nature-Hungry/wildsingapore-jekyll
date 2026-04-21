@@ -1,0 +1,144 @@
+---
+title: "Putat sungei (Barringtonia racemosa)"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "barringtonia, racemosa, lecythidaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+plants [text index](../../plantindex.htm) | [photo
+index](../../plantfi.htm)
+[coastal
+plants](../../coastal/coastalplants.htm) 
+**Putat sungei   
+*Barringtonia racemosa*  
+Family Lecythidaceae***updated
+Jun 2020*
+
+---
+
+ **Where seen?** This tree with hanging garlands of pretty pink
+fluffy flowers is now rare in the wild. It is, however, being planted
+in some of our coastal parks and reserves. Wild trees are found in
+damp places near mangroves, tidal rivers, sandy or rocky shores, freshwater
+swamps, peat swamp forests. And even banks of tidal creeks and muddy
+ditches in rice-fields in Malaya.  
+  
+ **Features:** A shrub or small, straggling
+tree (5-27m tall).   
+  
+Leaves (20-30cm) thin leathery, midrib and veins often yellow. The
+leaves are finely toothed at the edges. Old leaves wither orange to
+red.
+*![](racemosa/090418admd0144m3a.jpg)*Leaf
+edge finely toothed.
+![](racemosa/080720cjd8101m3.jpg)  
+Blooming flowers on a long hanging spike.
+
+*![](racemosa/090329cjo3291633m6l.jpg)*Planted tree. *Chek Jawa, Mar 09*
+
+*![](racemosa/080720cjd8100m3.jpg)*After the stamens have fallen.
+
+*![](racemosa/090329cjd8703m3.jpg)*Fruits egg- or pear-shaped with angles.
+
+Flowers small (3-5cm) a pom-pom of many short pink stamens with small
+pink petals. The flowers emerge from a long hanging spike (40-100cm
+long). According to Giesen, the night-blooming flowers have "a
+very strong fragrant scent" and are pollinated by moths and small
+bats. Flowering occurs year round.   
+  
+Fruit (3-8cm long) egg- or pear-shaped, sometimes weakly angled or
+with four faint grooves, green ripening to flushed reddish. The fruit
+floats and may travel in seawater for many months. Each fruit usually
+contains only one seed (2-4cm long).  
+  
+It is the food plant for caterpillars of the moths [Attacus atlas](../../../insecta/atlas.htm) (*Atlas Moth*), *Gnathmocerodes tonsoria*,
+and *Thosea andamanica*.   
+  
+ **Human uses:** The plant contains a toxin called saponin,
+concentrated mainly in the seeds but also found in other parts of
+the plant. According to Burkill, the leaves are used in a poultice
+for itching and chicken-pox, as well as to treat sore throats. The
+young leaves are eaten raw in Eastern Malaysia, and in the Philippines
+the fruits are used to poison wild pigs.   
+  
+**Status and threats:** It is listed
+as 'Critically Endangered' on the Red List of threatened plants of
+Singapore.
+
+---
+
+**Putat
+sungei on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Barringtonia racemosa) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Barringtonia%2520racemosa/map?&fLat=1.2626&fLon=103.8726&zl=11&order_by=recent)
+
+---
+
+**Links**
+
+- *[Barringtonia
+  racemosa](http://floraofsingapore.wordpress.com/2010/08/04/barringtonia-racemosa/)* on Total Vascular Flora of Singapore Online:
+  photos and fact sheet.
+- *[Barringtonia
+  racemosa](http://floraofsingapore.wordpress.com/2010/08/04/barringtonia-racemosa/)* on the NParks Flora and Fauna website: photos
+  and fact sheet.
+- Giesen, Wim
+  and Stephan Wulffraat, Max Zieren and Liesbeth Scholten. 2006.
+  [*Mangrove
+  Guidebook for Southeast Asia*](http://www.fao.org/docrep/010/ag132e/ag132e00.htm) (PDF online downloadable).
+  RAP publication 2006/07 Food and Agriculture Organization of the
+  United Nations Regional Office for Asia and the Pacific Bangkok.
+
+**References**
+
+- Hsuan Keng,
+  S.C. Chin and H. T. W. Tan. 1990, *The
+  Concise Flora of Singapore: Gymnosperms and Dicotyledons*.
+  Singapore University Press. 222 pp.
+- Corners,
+  E. J. H., 1997. *Wayside
+  Trees of Malaya: in two volumes*.
+  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
+  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
+- Tomlinson,
+  P. B., 1986. *The
+  Botany of Mangroves* Cambridge University Press. USA. 419 pp.
+- Davison,
+  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+  Red Data Book: Threatened plants and animals of Singapore*.
+  Nature Society (Singapore). 285 pp.
+- Burkill,
+  I. H., 1993. *A
+  Dictionary of the Economic Products of the Malay Peninsula*.
+  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
+  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

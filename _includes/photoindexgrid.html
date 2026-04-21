@@ -1,0 +1,58 @@
+{% assign items = include.items %}
+{% assign col_count = 4 %}
+{% assign col = 0 %}
+{% assign in_row = false %}
+
+<div class="pig-wrap">
+
+{% for item in items %}
+
+  {% if item.header %}
+
+    {% comment %} Close any open row before a header {% endcomment %}
+    {% if in_row %}
+      {% assign remaining = col_count | minus: col %}
+      {% for i in (1..remaining) %}<div class="pig-cell pig-cell--empty"></div>{% endfor %}
+      </div>
+      {% assign in_row = false %}
+      {% assign col = 0 %}
+    {% endif %}
+
+    <div class="pig-header">
+      <a href="{{ item.url | relative_url }}" class="btn">{{ item.label }}</a>
+    </div>
+
+  {% else %}
+
+    {% if col == 0 %}<div class="pig-row">{% assign in_row = true %}{% endif %}
+
+    <div class="pig-cell">
+      {% if item.imgs %}
+      <div class="pig-strip">
+        {% for photo in item.imgs %}
+        <img src="{{ photo.src | relative_url }}" alt="{{ photo.alt | default: '' }}" class="pig-thumb">
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if item.url and item.label %}
+        <a href="{{ item.url | relative_url }}" class="btn pig-btn">{{ item.label }}</a>
+      {% else %}
+        <div class="pig-btn-gap"></div>
+      {% endif %}
+    </div>
+
+    {% assign col = col | plus: 1 %}
+    {% if col == col_count %}</div>{% assign in_row = false %}{% assign col = 0 %}{% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+{% if in_row %}
+  {% assign remaining = col_count | minus: col %}
+  {% for i in (1..remaining) %}<div class="pig-cell pig-cell--empty"></div>{% endfor %}
+  </div>
+{% endif %}
+
+</div><!-- .pig-wrap -->

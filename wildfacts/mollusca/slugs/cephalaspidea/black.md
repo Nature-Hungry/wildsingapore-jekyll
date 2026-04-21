@@ -1,0 +1,103 @@
+---
+title: "Black tailed-slug (Chelidonura sp.)"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "black, tailed, slug, chelidonura, aglajidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+slugs [text
+index](../../molluscaindex.htm#cephalaspidea) | [photo index](../../slugfi.htm)
+Phylum [Mollusca](../../mollusca.htm)
+> Class [Gastropoda](../../gastropoda.htm) > [sea
+slugs](../../slug.htm)
+> Order [Cephalaspidea](cephalaspidea.htm) > Family [Aglajidae](aglajidae.htm)
+**Black
+tailed-slug**  ***Chelidonura* sp.\*  
+Family Aglajidae**  
+*updated
+May 2020*
+
+---
+
+**Where
+seen?** This small black slug is sometimes seen
+on some of our shores, burrowing among seagrasses and near living
+reefs.  
+  
+**Features:** 1-2cm. A long, cylindrical
+body that appears to be made up of two parts. A pair of 'tails', one a lot longer and narrower than the other. It has a
+tiny internal shell. Included here are slugs that are all black and those that are black with speckles and other touches of colour.
+
+![](black/150219cyrd1284m3a.jpg)  
+*Cyrene Reef, Feb 12*
+
+![](black/150219cyrd1284m6l.jpg)  
+*Cyrene Reef, Feb 12*
+
+![](black/150219cyrd1306m6l.jpg)  
+*Cyrene Reef, Feb 12*
+
+![](black/150219cyrd1306m3.jpg)
+
+[![Black tailed slug (Chelidonura sp.)](https://live.staticflickr.com/5687/23632426449_33a491eee3_z.jpg)](https://www.flickr.com/photos/wildsingapore/23632426449/in/photolist-2gAuupc-C1jn3r-rQ4DCC-rSeN3Y-rQ4DuG-rSgXQi-ry2N3V-rSmCmx-rSgXKZ-rSgXHK-rSgXGn "Black tailed slug (Chelidonura sp.)")
+ *\*Species are difficult
+to positively identify without close examination.  
+On this website, they are grouped by external features for convenience of
+display.*
+
+---
+
+**Black
+tailed-slugs on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Black%20Chelidonura) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Black%2520Chelidonura/map?&fLat=1.2616&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](black/211107pcnlks1.jpg)* *East Coast (PCN), Nov 21*  
+Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159546435718158&set=a.10159546441833158).
+
+![](black/230606cjky2.jpg)  
+*Chek Jawa, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168426590055112/638750728275186).
+
+---
+
+![](black/131203cyrlks.JPG)  
+*Cyrene Reef, Dec 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/11660832953/in/album-72157607718672165/).
+
+![](black/151226cyrlks.JPG)  
+*Cyrene Reef, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25429871042/in/album-72157607718672165/).
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

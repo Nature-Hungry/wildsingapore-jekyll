@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ page.title }} | Wild Fact Sheets</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  {% include sidebar.html %}
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <!-- Header -->
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <img
+            src="{{ '/assets/images/photos/wildfactsheet3.gif' | relative_url }}"
+            alt="Wild Fact Sheets"
+            width="180"
+            height="57">
+        </a>
+        <div class="site-tagline">
+          <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
+          <span class="site-tagline__sub">wild shores of singapore</span>
+        </div>
+      </div>
+    </header>
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      {{ content }}
+    </main>
+
+  </div><!-- .site-wrapper -->
+
+</body>
+</html>

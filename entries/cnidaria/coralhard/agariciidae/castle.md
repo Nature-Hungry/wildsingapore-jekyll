@@ -1,0 +1,172 @@
+---
+title: "Castle coral (Pachyseris rugosa)"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+hard corals [text
+index](../../coralhardindex.htm) | [photo index](../../cnidariafi1.htm)
+Phylum [Cnidaria](../../cnidaria.htm)
+> Class [Anthozoa](../../anthozoa.htm) > Subclass
+Zoantharia/Hexacorallia > Order [Scleractinia](../coralhard.htm)
+> Family [Agariciidae](agariciidae.htm)
+**Castle
+coral** ***Pachyseris
+rugosa\**   
+Family Agariciidae***updated
+Nov 2019*
+
+---
+
+**Where
+seen?** This crumpled-looking coral is rarely seen, usually on
+our undisturbed Southern shores among living corals. 'Pachys' means
+'thick' while 'seris' means 'lettuce-like'. 'Rugosa' means 'wrinkled'.  
+  
+**Features:**Colony (10-30cm
+across) forming plates that may be encrusting or upright shapes, often irregular
+and contorted. The surface has short ridges that form maze-like patterns,
+perpendicular to the edge of the colony. There is a texture of fine
+lines perpendicular to these ridges. Colours seen include brown, green
+and blue.  
+  
+**Sometimes confused with** other
+leafy hard corals like [Lettuce coral](pavona.htm) (*Pavona* sp.).  
+  
+**Status and threats:** This coral
+is listed as globally Vulnerable [by
+the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0).
+
+![](castle/110717tbd7310m3.jpg)  
+*Terumbu Bemban,
+Jul 11*![](castle/110717tbd7311m3b.jpg)  
+Fine lines perpendicular to thick ridges.
+
+*![](castle/110717tbd7228m3.jpg)  
+*Terumbu Bemban,
+Jul 11*![](castle/110717tbd7227m3.jpg)*
+
+![](castle/080802sjid8814m3.jpg)  
+*St. John's
+Island, Aug 08   
+![](castle/080802sjid8816m3.jpg)* Maze-like pattern.
+
+  
+*\*Species are difficult
+to positively identify without close examination.   
+On this website, they are grouped by external features for convenience of
+display.*
+
+---
+
+**Castle
+corals on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pachyseris rugosa) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/pachyseris%252C%2520rugosa/map?&fLat=1.2629&fLon=103.8668&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+![](castle/100515sjilks1m3.jpg)  
+ *St. John's Island, May 10*![](castle/100515sjilks1m3a.jpg)Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html).
+
+![](castle/20070724thntrk2.jpg)  
+*Terumbu Hantu, Jul 20*![](castle/20070724thntrk2a.jpg)Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158359593107906&set=a.10158359570117906&type=3&theater).
+
+---
+
+![](castle/220419sjijk1.jpg)  
+*St. John's Island, Apr 22*Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=5708929415787049&set=a.5708930215786969).
+
+![](castle/240512jnglks2.jpg)  
+ *Pulau Jong, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161341835998158&set=a.10161341838823158)..
+
+---
+
+![](castle/180717smkefl1.jpg)  
+ *Pulau Semakau East, Jul 18*Photo shared by Frances Loke on [facebook](https://www.facebook.com/pg/littlegreenmensg/photos/?tab=album&album_id=2052416561753723)..
+
+![](castle/2007025smknlks2.jpg)  
+ *Pulau Semakau North, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158485853003158&set=a.10158485859383158&type=3&theater)..
+
+---
+
+![](castle/120804bbblks.JPG)  
+*Beting Bemban Besar,
+Aug 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8460713850/in/album-72157623141793370/).
+
+![](castle/100617tblks1m3.JPG)  
+*Terumbu Bemban,
+Jun 10*Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html).
+
+![](castle/120721tptlks.JPG)  
+*Terumbu Pempang Tengah,
+Jul 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8520884246/in/album-72157626616274147/).
+
+---
+
+![](castle/210428slulks6.jpg)  
+ *Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162469803158&set=a.10159162473618158)..
+
+---
+
+**Links**
+
+- [Corals of the World](http://www.coralsoftheworld.org/page/home/) with species factsheets.
+- [IUCN Red List of Threatened Species](https://www.iucnredlist.org/) with species factsheets.
+- [Genus *Pachyseris*](http://species-identification.org/species.php?species_group=corals&menuentry=groepen&id=24&tab=beschrijving) on Reef Corals of the Indo-Malayan Seas, the Marine Species Identification
+  Portal with species factsheet.
+- [*Pachyseris
+  rugosa*](http://www.sealifebase.org/Summary/speciesSummary.php?ID=46100) on SeaLife Base: Technical fact sheets.
+
+**R****eferences**
+
+- Danwei Huang,
+  Karenne P. P. Tun, L. M Chou and Peter A. Todd. 30 Dec 2009. *An
+  inventory of zooxanthellate sclerectinian corals in Singapore
+  including 33 new records* (pdf). Raffles Bulletin of Zoology
+  Supplement No. 22: 69-80.
+- Veron, Jen.
+  2000. *Corals
+  of the World*
+  Australian Institute of Marine Science, Australia. 3 volumes.
+- Borneman,
+  Eric H. 2001. *Aquarium
+  Corals: Selection, Husbandry and Natural History*
+  T.F. H Publications. 464 pp
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

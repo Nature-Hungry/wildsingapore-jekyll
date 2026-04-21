@@ -1,0 +1,36 @@
+# Site Settings
+title:            Wild Singapore
+tagline:          'Fully Open Source, Free Forever.'
+description:      'The Wild Singapore website, ported over to GitHub Pages.'
+url:              https://wild-singapore.github.io
+baseurl:          ""
+
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge    # Pygments is largely deprecated; Rouge is the Jekyll 4 standard
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/Wild-Singapore/wild-singapore.github.io
+  username:       Wild-Singapore
+
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# google_analytics: UA-000000-0
+
+# Replace this value and uncomment to enable Disqus
+# disqus: xxxxxx
+
+# Specify the author for blog posts
+author:
+  name: Wild Singapore GitHub
+  url: https://github.com/wild-singapore/
+  email: hello@wildsingapore.com
+
+collections:
+  entries:
+    output: true
+    permalink: /:collection/:name/

@@ -1,0 +1,9 @@
+<aside class="content-bar" aria-label="{{ include.title | default: 'Related links' }}">
+  {% if include.title %}
+  <p class="content-bar__heading">{{ include.title }}</p>
+  {% endif %}
+
+  {% for item in include.items %}
+  <a href="{{ item.url | relative_url }}" class="btn content-bar__btn">{{ item.label }}</a>
+  {% endfor %}
+</aside>

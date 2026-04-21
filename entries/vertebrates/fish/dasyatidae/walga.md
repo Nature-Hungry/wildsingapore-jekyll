@@ -1,0 +1,140 @@
+---
+title: Mangrove whipray (Himantura walga)
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: "mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+attributes: [118]
+---
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../indexl)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
+
+fishes [text
+index](../fishindex) | [photo index](../fishfi)
+Phylum Chordata
+> Subphylum Vertebrate > [fishes](../fish) >
+Order [Rajiformes](rajiformes) > Family [Dasyatidae](dasyatidae)
+**Mangrove
+whipray  
+*Himantura walga*  
+Family Dasyatidae***updated
+Sep 2020*
+
+---
+
+**Where
+seen?** This
+plain stingray with a sharp pointed snout is sometimes seen on our
+Northern shores, usually on muddy shores. It is more active at night
+and at high tide. Small ones are sometimes also seen trapped in pools
+in the seagrass meadows at low tide. **Features:**  Grows to about 25cm in diameter, those seen
+about 15-20cm. Body generally oval with a pointed snout. Body colour
+plain beige or pinkish without any markings. Tail long and whip-like
+without markings. It does not have a skin fold on the tail. The female
+has a shorter tail with a bulbous end. It has 4-6 enlarged spear-like
+spines on the tail which can cause a painful wound by injecting a
+venom.  
+  
+**Sometimes mistaken for** a [horseshoe
+crab](../../../arthropoda/limulidae/limulidae) and visa versa. In murky waters, these two different animals
+do have a similar profile, both being round and flat with a long tail.
+But the horseshoe crab moves very differently- creeping slowly, while the stingray can dash away quickly.
+
+![](walga/090426skdd0533m3.jpg)  
+This one seems to have a broken tail. *Pulau Sekudu, Apr 09*
+
+*![](walga/030517cjd0334.jpg)*Small one. *Chek Jawa, May 03*
+
+*![](walga/040509skddd0030m3.jpg)*Underside. *Pulau Sekudu, May 04*
+![](kuhlii/060430skdd1550m3a.jpg)  
+[Blue-spotted stingrays](kuhlii) and Mangrove whiprays  
+in a sandy lagoon.  
+*Pulau Sekudu, Apr 06*
+![](walga/110705chgL1060451.jpg)  
+Often seen trapped in fishing nets. *Changi, Jul 11*
+**Human uses:** It is harvested commercially
+as a food fish. According to [FishBase](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484):
+It is caught in large quantities as by-catch of bottom trawl and trammel
+net fisheries. It is often seen among the fishes trapped in abandoned fishing nets and traps on our shores.
+
+---
+
+**Mangrove
+whiprays on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?text=Himantura walga&safe_search=3&sort=date-taken-desc&user_id=54527470@N00) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Himantura%2520walga/map?&fLat=1.2626&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](walga/201116cnyrk3.jpg)*  
+ *Coney Island, Nov 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158651297032906&set=a.10158651280122906).
+
+---
+
+*![](walga/090626bbmn2m3.jpg)  
+Beting Bronok, May 09*Photo shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157618738163225/).
+
+*![](walga/201020prpalks10.jpg)*  
+ *Pasir Ris-Loyang, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158706824918158&set=a.10158706826698158).
+
+---
+
+![](walga/150830hntmn.jpg)  
+*Pulau Hantu, Aug 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/38901279845/).
+
+---
+
+**Links**  
+
+- [Mangrove
+  Whipray (*Himantura walga*)](http://habitatnews.nus.edu.sg/guidebooks/marinefish/text/205). Lim, Kelvin K. P. & Jeffrey
+  K. Y. Low, 1998. *[A
+  Guide to the Common Marine Fishes of Singapore](http://habitatnews.nus.edu.sg/guidebooks/marinefish/)*. Singapore
+  Science Centre. 163 pp.
+- [Dwarf
+  whipray (*Himantura walga*)](http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484) on [FishBase](http://www.fishbase.org/):
+  Technical fact sheet.
+- [Volume
+  3: Batoid fishes, chimaeras and bony fishes part 1 (Elopidae to
+  Linophrynidae)](http://www.fao.org/docrep/009/x2401e/x2401e00) FAO Species Identification Guide for Fishery
+  Purposes The Living Marine Resources of the Western Central Pacific.
+
+**References**  
+
+- Marcus F. C. Ng. 18 September 2015. *Juvenile mangrove whip-ray at Pulau Hantu*. Singapore Biodiversity Records 2015: 128.
+- Lim, S.,
+  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+  and Times of Labrador Beach*. Division of Biology, School of
+  Science, Nanyang Technological University & Department of Zoology,
+  the National University of Singapore. 160 pp.
+
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

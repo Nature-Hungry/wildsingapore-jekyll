@@ -1,0 +1,329 @@
+---
+title: "Soft corals (Alcyonacea) on the Shores of Singapore"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "coral, soft, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+layout: default
+---
+[![](../../../wildfactsheet3.gif)](../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[![](../../../Templates/fornatureguides.gif)](../fngcoralsoft.htm)
+
+[all animals](../../animals.htm)
+| [all plants](../../plants.htm)
+| [concepts](../../concepts/index.html)
+| [glossary](../../glossary/index.html)
+| [search](../../search.htm)
+
+soft corals [text
+index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
+Phylum [Cnidaria](../cnidaria.htm)
+> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
+**Soft
+corals   
+Order Alcyonacea***updated
+Aug 2025*
+
+---
+
+if you
+learn only 3 things about them ...  
+![](../../photos/bullet.gif) They are animals! Although they look like plants. Don't step on them.  
+![](../../photos/bullet.gif) They don't produce a hard skeleton.  
+![](../../photos/bullet.gif)Each
+soft coral is a colony of countless tiny polyps.
+  
+**Where
+seen?** Soft corals are commonly seen on many of our shores.
+Some resemble flowery bushes, others giant leathery disks. Yet others
+are tiny and overlooked. They are found growing on boulders and other
+hard surfaces, as well as among coral rubble and living hard corals
+on the reef flats.  
+  
+**What are soft corals?** Soft corals
+belong to [Phylum Cnidaria](../cnidaria.htm) which includes
+the more familiar sea anemones, hard corals and jellyfishes. Soft
+corals are members of the Subclass Alcyonaria/ Octocorallia that includes [gorgonians](../others/gorgonacea/gorgonacea.htm) and [sea
+pens](../others/pennatulacea/pennatulacea.htm).   
+  
+Within this Subclass, the Order Alcyonacea includes [flowery
+soft corals](nephtheidae.htm) (Family Nephtheidae) as well as [leathery
+soft corals](alcyoniidae.htm) (Family Alcyoniidae).  
+  
+**Features:** Soft corals are colonies
+of tiny, individual polyps linked to one another. Soft corals can
+look like branching bushes or trees. They may also be flatter and
+look like mushrooms. When exposed at low tide, they often flop over
+and look like a pile of jelly or fried eggs! When submerged, however,
+they expand into beautiful plant-like forms and some appear 'furry'
+as the tiny polyps expand.  
+  
+Soft coral polyps have 8 (or multiple of 8) tentacles that are pinnate
+(branched or feathery). Some soft corals like [leathery
+soft corals](alcyoniidae.htm) have two kinds of polyps: Autozooids have long stalks
+with eight branched tentacles and emerge from the shared leathery
+tissue. Siphonozooids may be much shorter polyps or don't even emerge
+from the shared tissue and function as water pumps for the colony.  
+  
+**Sometimes mistaken for** [sea
+anemones](../actiniaria/actiniaria.htm). Some large sea anemones and large leathery and flowery
+soft corals may be mistaken for one another. Here's more on [how
+to tell apart large 'hairy' disk-like animals](../cflargecnidarians.htm) on the shore.   
+  
+**Soft support:** Although there are
+some exceptions, many soft corals don't produce a hard skeleton. Instead
+in colonial soft corals, the polyps are connected by a shared tissue.   
+  
+Tiny spikes of calcium carbonate, called sclerites, are embedded in
+the tissue mass. These sclerites are used to identify soft coral species.
+In some, the sclerites are far apart resulting in a more floppy soft
+coral. In others, the sclerites are closer or fused together to form
+firmer support. The entire tissue mass is covered with a skin and
+the polyp tentacles emerge through this skin. In some soft corals,
+the skin can be quite tough and leathery looking, thus these are often
+called leathery soft corals. Out of water, soft corals may flop over
+and may look small. But underwater, they expand and spread out to
+maximise the feeding surface.
+
+![](neppink/080705bbd6921m3.jpg)  
+*Beting Bronok, Jul 08*![](neppink/080705bbd6921m3b.jpg)  
+Polyps of a [flowery soft coral](neppink.htm)
+
+*![](../others/gorgonacea/candelabra/060528bbd2416m3.jpg)  
+Beting Bronok, May 06![](../others/gorgonacea/candelabra/111222tusd4656m3.jpg)*Polyps of a [sea fan](../others/gorgonacea/gorgonacea.htm).
+
+*![](letomelette/050807sjig0617m3.jpg)  
+St. John's Island, Aug 05**![](letomelette/110802smkd8149m3a.jpg)*Polyps of a [leathery coral](alcyoniidae.htm)
+**What do they eat?** Most soft corals
+feed on plankton, some also feed on finer particles. Like other cnidarians,
+soft coral polyps have tentacles with stingers to capture food.   
+  
+Many soft corals harbour microscopic, single-celled symbiotic algae
+(zooxanthellae) within their bodies. The algae undergo photosynthesis
+to produce food from sunlight. The food produced is shared with the
+host, which in return provides the algae with shelter and minerals.  
+  
+**Role in the habitat:** Some soft
+corals are homes to tiny animals. Some tiny animals eat soft corals
+and look just like their much larger prey.
+
+![](../../echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg)  
+[Tiny
+colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful.htm) are   
+sometimes seen in soft corals.  
+Tuas, Nov 03
+
+![](../../mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg)  
+Often seen in a pair. *Pulau Sekudu,
+May 12*
+
+![](nepspiky/031126tusad0068m3.jpg)  
+Tiny [red
+nose shrimp](../../crustacea/othercrust/shrimp/rednose.htm) are  
+sometimes seen in numbers in flowery soft coral. *Tuas, Nov 03*
+
+**Soft coral babies:** Soft corals can
+reproduce asexually: budding of new polyps enlarges the colony. However,
+they also reproduce sexually. The polyps may produce sperm or eggs.
+The eggs develop into free-swimming larvae that drift with the plankton
+before settling down to start a new colonies.  
+  
+**Human uses:** Soft corals protect
+themselves with unusual substances which are being studied for possible
+anti-cancer properties. Soft corals are also harvested from the wild
+for the aquarium trade. Living coral reefs, however, are worth far
+more to humans when they left alone. Reefs bring in tourists which
+generate business beyond the shore (e.g., hotels, restaurants and
+travel-related industries).   
+  
+**Status and threats:** Like other
+creatures of the sea, soft corals are threatened by human activities
+that degrade or destroy the habitat. Trampling
+by careless visitors, and over-collection also have an impact on local
+populations.
+
+---
+
+**Some soft
+corals on Singapore shores**
+
+---
+
+***![](letomelette/050807sjig0617m3.jpg)*[Leathery soft corals](alcyoniidae.htm)**
+
+**![](nepasparagus/040411hntd0107m3.jpg)  
+[Flowery soft corals](nephtheidae.htm)**
+
+***![](../others/gorgonacea/others/040604bbad0081m3.jpg)*[Sea
+fans](../others/gorgonacea/gorgonacea.htm)**
+
+---
+
+***![](knobbly/060430skdg5827m3.jpg)*[Knobbly soft corals](knobbly.htm)**
+
+***![](../others/heliopora/heliopora/060402ulrd1105m3.jpg)*  
+[Blue corals](../others/heliopora/heliopora.htm)**
+
+****![](xenia/110802smkd8256m3.jpg)**[Xenia
+soft coral](xenia.htm)**
+
+---
+
+![](feafine/120124sisd5837m3.jpg)
+
+![](feabroad/050807sjig0759m3.jpg)
+
+![](feabrown/050329sntg3905m3.jpg)
+
+**![](feafine/120124sisd5837m3b.jpg)  
+[Fine feathery soft coral](feafine.htm)**
+
+**![](feabroad/050807sjig0760m3.jpg)  
+[Broad feathery soft coral](feabroad.htm)**
+
+**![](feabrown/050329sntg3905m3b.jpg)  
+[Brown feathery soft coral](feabrown.htm)**
+
+---
+
+**Order
+Alcyonacea recorded for Singapore**from
+Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 258 pp.  
+  
+ **STOLONIFERA
+GROUP**  
+ 
+**+Family
+Clavulariidae**
+ 
+*[Carijoa](knobbly.htm)*[sp.](knobbly.htm) (Knobbly soft coral)
+  
+ **ALCYONIINA
+GROUP**  
+ 
+**[Family
+Alcyoniidae](alcyoniidae.htm) (leathery soft corals)** with list of species
+recorded for Singapore
+  
+ 
+**\*[Family
+Nephtheidae](nephtheidae.htm) (flowery soft corals)** 
+ 
+*\*Dendronephthya*
+sp.
+  
+ 
+**Family
+Paralcyoniidae** 
+ 
+*Studeriotes
+spinosa*
+  
+ 
+**Family
+Xeniidae**
+ 
+*[Sansibia flava](feabroad.htm)* (Broad feathery
+soft corals)  
++*[Heteroxenia](xenia.htm)*[sp.](xenia.htm) (Xenia soft coral)   
++[Brown feathery soft corals](feabrown.htm)
+  
+ **SCLERAXONIA
+GROUP**  
+ 
+**Family
+Briareidae** 
+ 
+[*Briareum excavatum*](feafine.htm)=*Briareum stechei*? (Fine feathery soft corals)
+  
+Some [Gorgonians](../others/gorgonacea/gorgonacea.htm)
+are included in this group
+ **Other 'soft coral' orders**  
+  
+**Order Helioporacea**  
+ 
+**Family
+Helioporidae** 
+ 
+*[Heliopora
+coerulea](../others/heliopora/heliopora.htm)* (Blue coral)
+  
+**[Order
+Pennatulacea](../others/pennatulacea/pennatulacea.htm) (sea pens)**
+
+---
+
+**Threatened
+soft corals of Singapore**  
+see list of [threatened
+cnidarians](../cnidaria.htm)
+
+---
+
+**Links**
+
+- [Soft
+  corals (Order Alcyonacea)](http://mangrove.nus.edu.sg/pub/seashore/text/118.htm) Tan, Leo W. H. & Ng, Peter K. L.,
+  1988. *[A
+  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+  Singapore. 160 pp.
+- [Soft
+  corals shrug off poor image](http://www.reef.crc.org.au/publications/explore/feat18.html) on the CRC Reef Centre website:
+  preliminary findings of a study on the role of soft corals in
+  offshore and inshore reefs, and some info on their applications
+  in human medicine.
+- [Painkillers
+  from a soft coral](http://wildshores.blogspot.com/2009/08/pain-killers-from-soft-coral.html) on the wild shores of singapore blog.
+
+**References**
+
+- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, 2024. *The Singapore
+  Red Data Book: Threatened plants and animals of Singapore*.
+  3rd edition. National Parks Board. 258 pp.
+- Y. Benayahu
+  and L. M. Chou, 28 Feb 2010. *On
+  some Octocorallia (Cnidaria: Anthozoa: Alcyonacea) from Singapore,
+  with a description of a new Cladiella species*. The Raffles
+  Bulletin of Zoology 58(1) Pp. 1-13.
+- Borneman,
+  Eric H. 2001. *Aquarium
+  Corals: Selection, Husbandry and Natural History![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  T.F. H Publications. 464 pp
+- Fabricius,
+  Katharina and Philip Alderslade, 2001. *Soft
+  Corals and Sea Fans![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  Australian Institute of Marine Science and the Museum and Art
+  Gallery of the Northern Territoriy. 264 pp
+- Edward E.
+  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
+  Zoology![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
+  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+- Pechenik,
+  Jan A., 2005. *Biology
+  of the Invertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+- Wee Y.C.
+  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
+  National Council on the Environment. 163pp.
+- Ng, P. K.
+  L. & Y. C. Wee, 1994. *The
+  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
+  The Nature Society (Singapore), Singapore. 343 pp.
+
+[links](../../links.htm)
+| [references](../../references.htm)
+| [about](../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

@@ -1,0 +1,27 @@
+# Ignore Jekyll's generated site
+_site/
+
+# Ignore Jekyll's default directories
+.sass-cache/
+.jekyll-metadata
+
+# Ignore system-specific files
+.DS_Store         # macOS
+Thumbs.db         # Windows
+
+# Ignore IDE-specific files (common ones for text editors/IDEs)
+.idea/            # JetBrains IDEs
+.vscode/          # VSCode
+*.swp             # Vim swap files
+
+# Ignore gem and dependency directories
+.bundle/          # Bundler directory
+vendor/           # Bundled gems and plugins
+
+# Ignore log and temp files
+log/
+tmp/
+
+# Ignore any backups
+*.bak
+*.swp

@@ -1,0 +1,24 @@
+<div class="content-grid">
+  {% for item in include.grid_items %}
+  <div class="content-grid__cell">
+
+    {% if item.url and item.label %}
+      <a href="{{ item.url | relative_url }}" class="btn content-btn">
+        {% if item.img %}
+          <img
+            src="{{ item.img | relative_url }}"
+            alt="{{ item.alt | default: item.label }}"
+            class="content-btn__img">
+        {% endif %}
+        <span class="content-btn__label">{{ item.label }}</span>
+      </a>
+    {% elsif item.img %}
+      <img
+        src="{{ item.img | relative_url }}"
+        alt="{{ item.alt | default: item.label }}"
+        class="content-grid__img">
+    {% endif %}
+
+  </div>
+  {% endfor %}
+</div>

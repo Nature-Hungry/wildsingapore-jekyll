@@ -1,0 +1,15 @@
+{% comment %}
+  _includes/button.html
+  ---------------------
+  Renders a styled .btn anchor using the site's orange button style.
+ 
+  Parameters (passed via include):
+    href  – destination URL (required)
+    label – button text      (required)
+ 
+  Usage in any layout or  file:
+    {% include button.html href="/concepts/" label="Concepts" %}
+{% endcomment %}
+ 
+<a href="{{ include.href }}" class="btn">{{ include.label }}</a>
+ 

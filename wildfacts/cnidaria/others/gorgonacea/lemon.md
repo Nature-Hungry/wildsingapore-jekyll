@@ -1,0 +1,105 @@
+---
+title: "Lemon sea fan"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "seafan, fan, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../indexl)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
+
+gorgonian
+[text index](../../cnidariaindex#gorgonacea) | [photo
+index](../../gorgonaceafi)
+Phylum [Cnidaria](../../cnidaria) > Class [Anthozoa](../../anthozoa)
+> Subclass Alcyonaria/Octocorallia > Order [Gorgonacea](gorgonacea)
+**Lemon
+sea fan*****awaiting identification****updated Jul 2020*
+
+---
+
+**Where
+seen?** This sea fan withpale yellow polyps is sometimes seen on our Northern shores. On rocks and coral rubble near the low
+water mark.  
+  
+**Features:** 15-20cm tall. Colony
+with long stems without much side branching. In some large colonies, the long stems are tangled. Stem white or pale, cylindrical
+with rounded tips, all stems about the same diameter. The yellowish or pale orange polyps are relatively large (0.5cm) and
+emerge all around the stem. The polyps can retract completely
+into the stem, leaving a yellowish or pale orange spot on the stem.
+
+*![](lemon/130722skdd9718m6l.jpg)  
+Pulau Sekudu, Jul 13*
+
+*![](lemon/130722skdd9727m3.jpg)*
+
+---
+
+*![](lemon/150802bbd8862.jpg)  
+Beting Bronok, Aug 15*
+
+![](lemon/150802bbd8863m3.jpg)  
+Polyps fully retracted into the stem.
+
+*![](lemon/150802bbd8863m3a.jpg)*
+
+---
+
+*![](lemon/160804lygd6866m3.jpg)  
+Changi- Loyang, Aug 16*
+
+*![](lemon/160804lygd6866m3a.jpg)*
+
+*![](lemon/160804lygd6871m3a.jpg)*  
+Some polyps fully retracted into the stem.
+
+  
+*\***Species
+are difficult to positively identify without close examination.**On this website, they are grouped by external
+features for convenience of display*
+
+---
+
+**Lemon
+sea fans on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&view_all=1&text=%22Lemon+sea+fan%22) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/%2522Lemon%2520sea%2520fan%2522/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](lemon/200722lyglks1.jpg)  
+Changi-Loyang, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158477542873158&set=a.10158477547983158&type=3&theater).
+
+*![](lemon/240706ubnlks5.jpg)*  
+*Pulau Ubin, Jul 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158).
+
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

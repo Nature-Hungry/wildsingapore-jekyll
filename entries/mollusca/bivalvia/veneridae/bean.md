@@ -1,0 +1,93 @@
+---
+title: "Bean-shaped venus clams (Veneridae)"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+bivalves [text
+index](../../molluscaindex.htm) | [photo index](../../bivalviafi.htm)
+Phylum [Mollusca](../../mollusca.htm)
+> Class [Bivalvia](../../bivalvia.htm) > Family [Veneridae](veneridae.htm)
+**Bean-shaped
+venus clams  
+*Awaiting identification*  
+Family Veneridae***updated
+May 2020*
+
+---
+
+**Where
+seen?** This pretty clam that with striking lines patterns
+is sometimes seen on our Northern shores, on sandy areas near seagrasses.  
+  
+**Features:** 3-4cm. Shell thick,
+relatively smooth, oval, longer than broad and somewhat bean-shaped.
+Often with a pattern of fine V-shapes. Some *Paphia* species
+have this shape, but other venus clams species may also have this
+shape.
+
+![](bean/050511cftg6230m3.jpg)  
+*Paphia textile?**![](bean/050511cftg6231m3a.jpg)  
+Changi, May 05*
+
+![](bean/060612cftd2894m3.jpg)  
+*Changi, Jun 06*![](bean/060612cftd2891m3.jpg)
+
+![](bean/050412tusd2449m3.jpg) *Tuas, Apr 05*![](bean/050412tusd2449m3a.jpg)  
+Dead clams.
+
+  
+*\*Species are difficult
+to positively identify without close examination.  
+On this website, they are grouped by external features for convenience of
+display.*
+
+---
+
+**Bean-shaped
+venus clams on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Bean-shaped%20venus%20clams) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/%2522Bean-shaped%2520venus%2520clam%2522/map?&fLat=1.2626&fLon=103.8654&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+![](bean/190206prpll1.jpg)  
+*Pasir Ris, Feb 19*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=2129423477080980&set=a.2129422790414382&type=3&theater).
+
+![](bean/251107chgmn1.jpg)  
+*Changi Carpark 1, Nov 25* Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post).
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

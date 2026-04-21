@@ -1,0 +1,52 @@
+<!-- ── Fixed left sidebar ─────────────────────────────────────────────── -->
+<aside class="site-sidebar" aria-label="Site navigation">
+
+  <!-- Navigation links -->
+  <div>
+    <p class="site-sidebar__heading">Navigate</p>
+    <nav aria-label="Sidebar navigation">
+      <strong style="color:#FFFFFF">More of Wildsingapore</strong>
+      <a href="https://www.wildsingapore.com/" class="btn">wildsingapore</a>
+      <a href="https://www.wildsingapore.com/places/" class="btn">Info for Visitors</a>
+      <a href="https://wildshores.blogspot.com/" class="btn">Wild Shores Blog</a>
+
+      <hr class="site-sidebar__divider">
+      <strong style="color:#FFFFFF">Important Links</strong>
+      <a href="{{ '/animals/vertindex'  | relative_url }}" class="btn">All Animals</a>
+      <a href="{{ '/plants/plantindex'  | relative_url }}" class="btn">All Plants</a>
+      <a href="{{ '/concepts/' | relative_url }}" class="btn">Concepts</a>
+      <a href="{{ '/search/'   | relative_url }}" class="btn">Search</a>
+
+      <hr class="site-sidebar__divider">
+      <strong style="color:#FFFFFF">Other Links</strong>
+      <a href="{{ '/about/'      | relative_url }}" class="btn">About</a>
+      <a href="{{ '/wildfacts/glossary/' | relative_url }}" class="btn">Glossary</a>
+      <a href="{{ '/links/'      | relative_url }}" class="btn">Links</a>
+      <a href="{{ '/references/' | relative_url }}" class="btn">References</a>
+    </nav>
+  </div>
+
+  <!-- Feedback -->
+  <p class="site-sidebar__tagline">
+    Spot errors? Have a question? Want to share your sightings? <br>
+    <a href="mailto:hello@wildsingapore.com">email us</a> &mdash; we'll be glad to hear from you!
+  </p>
+  
+  <!-- Social icon buttons (from _data/social.yml) -->
+{% if site.data.social %}
+<div class="site-sidebar__social" aria-label="Social links">
+  {% for item in site.data.social %}
+  <a href="{{ item.url }}" class="social-btn" aria-label="{{ item.title }}" title="{{ item.title }}"
+     {% unless item.url contains 'mailto' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+    <i class="{{ item.icon }}" aria-hidden="true"></i>
+  </a>
+  {% endfor %}
+</div>
+{% endif %}
+  
+  <!-- Copyright (pinned to bottom via margin-top: auto on .site-sidebar__copy) -->
+  <p class="site-sidebar__copy">
+    wildfactsheets website &copy; ria tan 2008
+  </p>
+  
+</aside>

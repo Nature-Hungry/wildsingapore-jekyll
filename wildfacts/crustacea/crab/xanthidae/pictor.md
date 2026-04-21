@@ -1,0 +1,255 @@
+---
+title: "Mosaic reef crab (Lophozozymus pictor)"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../indexl)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../indexl)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals)
+| [all plants](../../../plants)
+| [concepts](../../../concepts/indexl)
+| [glossary](../../../glossary/indexl)
+| [search](../../../search)
+
+crabs [text
+index](../../crustaceaindex) | [photo index](../../crabfi)
+Phylum [Arthropoda](../../../arthropoda/arthropoda)
+> Subphylum [Crustacea](../../crustacea) > Class
+Malacostraca > Order [Decapoda](../../decapoda)
+> Brachyurans > Family [Xanthidae](xanthidae)
+**Mosaic
+reef crab   
+*Lophozozymus pictor***  
+**Family
+Xanthidae***updated
+Dec 2019*
+
+---
+
+**Where
+seen?** This striking red crab is sometimes seen on our some
+of our shores among coral rubble or near living reefs. At some times,
+several can be seen on one trip, and then none for several months.
+'Pictor' in Latin means 'painter'.  
+  
+**Features:** Body width 8-10cm. Body
+somewhat fan-shaped. It is usually red to orange with strikingly mosaic-like
+patterns of large white spots. Pincers short, both about equal in size, with black tips. Walking
+legs hairy with pointed tips.  
+  
+**Crab of Death:** It
+is the [most poisonous crab](xanthidae) of Singapore!
+There are several documented deaths caused by eating this crab. Cooking
+does not destroy the toxins. The crab is believed to obtain the toxins
+from the food it eats, including a poisonous sea cucumber.  
+  
+**How to stay safe:** Do not touch the crab.
+  
+**Status and threats:** This crab
+is listed as 'Endangered' on the Red List of threatened animals of
+Singapore.
+
+![](pictor/100725hnttch2m6l.jpg)  
+Eating a clam. *Pulau Hantu, Jul 10*Photo shared by Toh Chay Hoon on [her
+blog](http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-stepl).
+
+![](pictor/091106smkd3813m3.jpg)  
+*Pulau Semakau, Nov 09*
+
+![](pictor/090509sisjg1m3.jpg)  
+Eating a [Long-spined
+black sea urchin](../../../echinodermata/echinoidea/urchin/diadema). *Sisters Island, May 09*Photo shared by Janette Goh on [her
+blog](http://janette-to-nature.blogspot.com/2009/05/sisters-island-9-may-09-430-730aml).
+
+![](pictor/090510hntjg2m3.jpg)  
+Eating a [Common
+sea star](../../../echinodermata/asteroidea/archaster). *Pulau Hantu, May 09*Photo shared by Janette Goh on [her
+blog](http://janette-to-nature.blogspot.com/2009/05/pulau-hantu-10may-09-abt-5-730aml).
+
+![](pictor/251008bbbky9.jpg)  
+Eating a [Common
+sea star](../../../echinodermata/asteroidea/archaster). *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)
+
+---
+
+**Mosaic
+reef crabs on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Lophozozymus pictor) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Lophozozymus%2520pictor/map?&fLat=1.2619&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+![](pictor/160607bbro5.jpg)  
+*Beting Bronok, Jun 16*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3).
+
+![](pictor/210528lygjll6.jpg) *Changi Loyang, May 21*Photo
+shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158302307871295&set=a.10158300364091295).
+
+---
+
+![](pictor/170626skdlks3.jpg) *Pulau Sekudu, Jun 17*Photo
+shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3).
+
+*![](pictor/200706skdlks7.jpg)  
+Pulau Sekudu, Jul 20*Photo
+shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158431586763158&set=a.10158431591203158&type=3&theater).
+
+---
+
+![](pictor/251011tgrlks30.jpg)  
+*Sentosa Tg Rimau, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post).
+
+*![](pictor/250131tkkll3.jpg)  
+Pulau Tekukor, Jan 25*Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?set=a.9255239521165971&type=3&ref=embed_post).
+
+---
+
+![](pictor/240113lazlks4.jpg)  
+*Lazarus Island, Jan 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161152158983158&set=a.10161152169768158).
+
+![](pictor/240624sjitt2.jpg)  
+*St John's Island, Jun 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234437757423464).
+
+---
+
+![](pictor/090430jnglks01m3.JPG)  
+*Pulau Jong, Apr 09*Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2009/04/back-to-jongl).
+
+![](pictor/150219cyrlks.JPG)  
+*Cyrene Reef, Feb 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25548338485/in/album-72157607718672165/).
+
+![](pictor/250726cyrtl3.jpg)  
+*Cyrene, Jul 25*  
+Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264).
+
+---
+
+![](pictor/100627hntjk4m3.jpg)  
+*Pulau Hantu,
+Jun 10*Photo shared by James Koh on [his
+blog](http://sgn090608.blogspot.com/2010/06/100627-pulau-hantul).
+
+![](pictor/090208smklksp13m3.jpg)  
+*Pulau Semakau, Feb 09*Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walkl).
+
+---
+
+![](pictor/230221tryky4.jpg)  
+*Terumbu Raya, Feb 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168072521885112&set=a.10168072524345112).
+
+![](pictor/110717tblks.JPG)  
+*Terumbu Bemban, Jul 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5963867802/in/album-72157624175457311/).
+
+![](pictor/210629bbbrk2.jpg)  
+*Beting Bemban Besar, Jun 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159189789082906&set=a.10159189773952906).
+
+---
+
+![](pictor/110517tptlks21m3.jpg)  
+ *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
+
+![](pictor/181223tplll3.jpg)  
+ *Terumbu Pempang Laut, Dec 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=2065382530151742&set=a.2065381310151864&type=3&theater).
+
+![](pictor/240310tplky1.jpg)  
+ *Terumbu Pempang Laut, Mar 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169275185600112&set=a.10169275183620112).
+
+---
+
+![](pictor/161117rlhlks12.jpg)  
+*Raffles Lighthouse, Nov 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
+
+![](pictor/220102biotch5.jpg)  
+*Pulau Biola, Jan 22*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159918021908713&set=a.10159918036293713).
+
+---
+
+![](pictor/210428slulks6.jpg)  
+*Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162467743158&set=a.10159162473618158).
+
+![](pictor/100810sngd9970m3.jpg)  
+*Pulau Senang, Aug 10*
+
+---
+
+![](pictor/100131slulks3m3.jpg)  
+*Terumbu Salu, Jan 10*Photo shared by Loh Kok Sheng h on [his
+flickr](http://www.flickr.com/photos/koksheng/4350459951/).
+
+![](pictor/091204pawjk6m3.jpg)  
+*Pulau Pawai, Dec 09*Photo shared by James Koh on [his
+flickr](http://www.flickr.com/photos/37823682@N04/4171817142/).
+
+![](pictor/091205sudjk4m3.jpg)  
+*Pulau Sudong, Dec 09*Photo shared by James Koh on [his
+flickr](http://www.flickr.com/photos/37823682@N04/4171192581/).
+
+---
+
+**Links**  
+
+- [Poisonous
+  Xanthid Crabs](http://mangrove.nus.edu.sg/pub/seashore/text/252) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A
+  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+  Singapore. 160 pp.
+- [Mosaic
+  reef crab (*Lophozozymus pictor*)](http://www.sealifebase.fisheries.ubc.ca/Summary/SpeciesSummary.php?ID=139345&genusname=Lophozozymus&speciesname=pictor) on [SeaLife
+  Base](http://www.sealifebase.fisheries.ubc.ca/search.php): Technical fact sheet.
+- [*Lophozozymus
+  pictor*](http://species-identification.org/species.php?species_group=crabs_of_japan&id=1271) Crabs of Japan, on Marine Species Identification
+  Portal: Technical fact sheet.
+
+**References**
+
+- Chou, L.
+  M., 1998. *A
+  Guide to the Coral Reef Life of Singapore*. Singapore Science
+  Centre. 128 pages.
+- Lim, S.,
+  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+  and Times of Labrador Beach.* Division of Biology, School of
+  Science, Nanyang Technological University & Department of Zoology,
+  the National University of Singapore. 160 pp.
+- Davison,
+  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+  Red Data Book: Threatened plants and animals of Singapore*.
+  Nature Society (Singapore). 285 pp.
+- Gopalakrishnakone
+  P., 1990. *A
+  Colour Guide to Dangerous Animals*.
+  Venom & Toxin Research Group, Faculty of Medicine, National
+  University of Singapore. 156 pp.
+- Jones Diana
+  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
+  Australian Waters*. Reed New Holland. 224 pp.
+
+[links](../../../links)
+| [references](../../../references)
+| [about](../../../about)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

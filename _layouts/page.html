@@ -1,0 +1,122 @@
+---
+# _layouts/page.html
+# Used by: all standard content pages
+# To show a per-page sidebar: sidebar: true
+# To show a species hero: species_image: /assets/images/animals/foo.jpg
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ page.title }} | Wild Fact Sheets</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  {% include sidebar.html %}
+
+  <!-- ── Main content ───────────────────────────────────────────────────── -->
+  <div class="site-wrapper">
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="site-logo" href="{{ '/' | relative_url }}">
+          <img
+            src="{{ '/assets/images/photos/wildfactsheet3.gif' | relative_url }}"
+            alt="Wild Fact Sheets"
+            width="180"
+            height="57">
+        </a>
+        <div class="site-tagline">
+          <a class="site-tagline__main" href="https://www.wildsingapore.com/">wildsingapore</a>
+          <span class="site-tagline__sub">wild shores of singapore</span>
+        </div>
+      </div>
+    </header>
+
+    <main id="main-content"
+          class="page-content{% if page.sidebar %} page-content--with-sidebar{% endif %}">
+
+      <article class="page-article">
+
+        {% if page.species_image %}
+        <div class="species-header">
+          <img
+            src="{{ page.species_image | relative_url }}"
+            alt="{{ page.species_image_alt | default: page.title }}">
+          <div class="species-header__meta">
+            <h1>{{ page.title }}</h1>
+            {% if page.scientific_name %}
+            <p class="species-header__sci"><em>{{ page.scientific_name }}</em></p>
+            {% endif %}
+            {% if page.family %}
+            <p class="species-header__family text-small">Family {{ page.family }}</p>
+            {% endif %}
+          </div>
+        </div>
+        {% else %}
+        <h1>{{ page.title }}</h1>
+        {% endif %}
+
+        {{ content }}
+
+      </article>
+
+      {% if page.sidebar %}
+      <aside class="page-sidebar">
+
+        {% if page.parent_label and page.parent_url %}
+        <nav class="sidebar-back" aria-label="Back navigation">
+          <a href="{{ page.parent_url | relative_url }}">&larr; {{ page.parent_label }}</a>
+        </nav>
+        {% endif %}
+
+        {% if page.taxonomy %}
+        <section class="sidebar-box">
+          <h3>Classification</h3>
+          <dl class="taxonomy-list">
+            {% for item in page.taxonomy %}
+            <dt>{{ item.rank }}</dt>
+            <dd>{{ item.name }}</dd>
+            {% endfor %}
+          </dl>
+        </section>
+        {% endif %}
+
+        {% if page.related %}
+        <section class="sidebar-box">
+          <h3>Related pages</h3>
+          <ul class="sidebar-links">
+            {% for link in page.related %}
+            <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </section>
+        {% endif %}
+
+        {% if page.sidebar_content %}
+        <section class="sidebar-box">
+          {{ page.sidebar_content | markdownify }}
+        </section>
+        {% endif %}
+
+      </aside>
+      {% endif %}
+
+    </main>
+
+  </div><!-- .site-wrapper -->
+
+</body>
+</html>
