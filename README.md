@@ -223,7 +223,6 @@ By contributing to this repository, you agree that your contributions can be use
 - [Jekyll Documentation](https://jekyllrb.com/)
 - [Markdown Syntax Guide](https://www.markdownguide.org/)
 - [Wild Singapore Main Site](http://www.wildsingapore.com)
-- [Nature Guides Section](https://wild-singapore.github.io/wildfacts/forguides/)
 
 ---
 
