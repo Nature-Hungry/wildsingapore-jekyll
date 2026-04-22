@@ -154,7 +154,13 @@ We welcome all kinds of contributions:
    zone: terrestrial|intertidal
    englishname: ""
    malayname: ""
-   scientificname: ""
+   kindgom: ""
+   phylum: ""
+   class: ""
+   order: ""
+   family: ""
+   genus: ""
+   species: ""
    ---
    ```
 
