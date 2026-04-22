@@ -9,6 +9,7 @@ family: Cymodoceaceae
 genus: Syringodium
 species: isoetifolium
 summary: Leaves cylindrical (like plastic tubing). Common on on Pulau Semakau.
+coverimg: https://live.staticflickr.com/8546/29515741994_03f992d572_n.jpg
 ---
 
 

@@ -9,6 +9,7 @@ family: Hydrocharitaceae
 genus: Halophila
 species: spinulosa
 summary: "2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi."
+coverimg: https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

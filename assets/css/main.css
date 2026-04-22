@@ -42,15 +42,15 @@
   --font-body:    'Helvetica Neue', Helvetica, Arial, sans-serif;
 
   /* Layout */
-  --max-width: 860px;
-  --gap:       1.5rem;
+  --max-width: 1280px;
+  --gap:       2rem;
 }
 
 /* ── Reset ──────────────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
-  font-size: 16px;
+  font-size: 14px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
 }
@@ -328,7 +328,7 @@ body {
 .page-content {
   max-width: var(--max-width);
   margin:    0 auto;
-  padding:   var(--gap) 2rem 3rem;
+  padding:   var(--gap) 4rem 3rem;
 }
 
 /* ── Responsive: sidebar collapses to top bar on small screens ───────────── */

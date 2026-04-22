@@ -9,6 +9,7 @@ family: Cymodoceaceae
 genus: Cymodocea
 species: serrulata
 summary: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations. Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
+coverimg: https://live.staticflickr.com/65535/51332275630_0c22a3145b_c.jpg
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

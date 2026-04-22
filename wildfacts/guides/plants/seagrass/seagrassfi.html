@@ -8,16 +8,22 @@ layout: default
 
 <h1>Photo index of seagrasses on Singapore shores</h1>
 
-
-<a href="/wildfacts/guides/plants/seagrass/seagrassindex">Text index</a>
-<a href="/wildfacts/guides/plants/seagrass/seagrass">About Seagrasses</a>
-<a href="/wildfacts/guides/plants/seagrass/fngseagrass">For nature guides</a>
-
+<div class="flex gap-1">
+  <p>
+    <a href="/wildfacts/guides/plants/seagrass/seagrassindex">Location index</a>
+  </p>
+  <p>
+    <a href="/wildfacts/guides/plants/seagrass/seagrass">About Seagrasses</a>
+  </p>
+  <p>
+    <a href="/wildfacts/guides/plants/seagrass/fngseagrass">For nature guides</a>
+  </p>
+</div>
 
 {% assign seagrasses = site.entries 
   | where_exp: "entry", "entry.attributes contains 95" %}
 
-{% include entry-summary-rows.html items=seagrasses %}
+{% include entry-summary-grid.html items=seagrasses %}
 
 
 

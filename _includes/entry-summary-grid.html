@@ -1,7 +1,8 @@
 {% assign items = include.items %}
 
+<div class="entry-summary-grid">
 {% for entry in items %}
-<div class="entry-summary-row">
+<div class="entry-summary-grid-item">
   <div class="img-container">
       <img src="{{entry.coverimg}}" />
   </div>
@@ -14,3 +15,4 @@
   </div>
 </div>
 {% endfor %}
+</div>

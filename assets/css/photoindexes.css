@@ -9,9 +9,39 @@
     width: 100%;
     height: 100%;
     display:block;
+    object-fit: cover;
+    object-position: center;
 }
 .entry-summary-row .img-container{
     background-color: lightgray;
     height:100%;
     aspect-ratio: 1/1;
+}
+
+.entry-summary-grid{
+    display:flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap:2rem;
+}
+.entry-summary-grid-item{
+    width:240px;
+    height:fit-content;
+}
+
+.entry-summary-grid-item .img-container{
+    width:100%;
+    aspect-ratio: 1;
+}
+
+.entry-summary-grid img{
+    width: 100%;
+    height: 100%;
+    display:block;
+    object-fit: cover;
+    object-position: center;
+}
+
+.scientific-name-subtitle{
+    font-style: italic;
 }
