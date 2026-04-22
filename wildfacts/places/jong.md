@@ -1,5 +1,5 @@
 ---
-title: "Pulau Jong on the Shores of Singapore"
+title: "Pulau Jong "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, jong, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

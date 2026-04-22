@@ -1,5 +1,5 @@
 ---
-title: "Terumbu Raya on the Shores of Singapore"
+title: "Terumbu Raya "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "terumbu, raya, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: "Beting Bemban Besar on the Shores of Singapore"
+title: "Beting Bemban Besar "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "beting, bemban, besar, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: "About the tides on the Shores of Singapore"
+title: "About the tides "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "tides, intertidal, zone, spring, neap,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

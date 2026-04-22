@@ -1,5 +1,5 @@
 ---
-title: "Decapods (Decapoda) on the Shores of Singapore"
+title: "Decapods (Decapoda) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "decapod, crustacea, crustacean, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

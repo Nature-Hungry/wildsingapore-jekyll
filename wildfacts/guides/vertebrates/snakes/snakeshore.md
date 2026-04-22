@@ -1,5 +1,5 @@
 ---
-title: "Snakes on the Shores of Singapore"
+title: "Snakes "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "water, snake, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: "Introducing seagrasses on the Shores of Singapore"
+title: "Introducing seagrasses "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "seagrass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

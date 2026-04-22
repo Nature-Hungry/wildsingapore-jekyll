@@ -1,0 +1,84 @@
+---
+title: "Short ribbon worm (Nemertea) "
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+
+
+worms
+[text index](../wormindex) | [photo
+index](../wormfi)
+[worms](../worm)
+> Phylum [Nemertea](nemertea)
+**Short
+ribbon worm*****awaiting identification\*****updated
+Jan 2020*
+
+---
+
+**Where
+seen?** Rather short ribbon worms are sometimes seen on some
+of our shores. They are more active at night.  
+  
+**Features:** Grouped in this entry
+are unsegmented worms that are only 10-15cm long, some more cylindrical
+than ribbon-like. Most are pale with one fine stripe along the length.
+They probably include different kinds of ribbon worms.  
+  
+**What does it eat?** One was seen
+wrapped around a drill snail. It's not certain who was eating whom.
+Another was seen coiled around a paralysed shrimp. They are sometimes
+seen slithering about among oysters.
+
+*![](short/100213tmd9299m3a.jpg)  
+Tanah Merah, Feb 10*
+
+![](short/060531labd2669m3.jpg)  
+Wrapped around a drill snail. *Labrador, May 06*
+
+![](short/070304hntg7898m3.jpg)  
+Coiled around
+a paralysed shrimp. *Pulau Hantu, Mar 07*
+
+  
+*\***Species
+are difficult to positively identify without close examination.   
+On this website, they are grouped by external features for convenience of
+display.*
+
+---
+
+**Short
+ribbon worm on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Short ribbon worm) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Short%2520ribbon%2520worm/map?&fLat=1.1882&fLon=103.863&zl=13&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](short/250501skdky1.jpg)  
+Pulau Sekudu, May 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10171993507610112&type=3&ref=embed_post).
+
+---
+
+*![](short/090210lablks02m3.jpg)*  
+*Labrador, Feb 09*Shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
+
+![](short/200112sjimn1.jpg)  
+*St John's Island, Jan 20*Shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156971332473660&set=a.10156971328013660&type=3&theater).
+
+---
+
+*![](short/240310tplta2.jpg)  
+Terumbu Pempang Laut, Mar 24*Photo shared by Tommy Arden on [facebook](https://www.facebook.com/photo/?fbid=10231937620685899&set=a.10231937752849203).
+
+

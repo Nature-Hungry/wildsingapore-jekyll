@@ -1,5 +1,5 @@
 ---
-title: "Pulau Tekukor on the Shores of Singapore"
+title: "Pulau Tekukor "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, tekukor, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

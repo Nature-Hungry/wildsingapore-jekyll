@@ -46,83 +46,83 @@ photoindex_items:
   - imgs:
       - src: /assets/images/plants/seagrass/ovalis/040523sjiad0057m.jpg
         alt: Seagrasses
-    url: /wildfacts/plants/seagrass/seagrassfi/
+    url: /wildfacts/guides/plants/seagrass/seagrassfi/
     label: Seagrasses
 
   - imgs:
       - src: /assets/images/plants/seaweed/060429skdd1417m.jpg
         alt: Seaweeds
-    url: /wildfacts/plants/seaweed/seaweedfi/
+    url: /wildfacts/guides/plants/seaweed/seaweedfi/
     label: Seaweeds
 
   - imgs:
       - src: /assets/images/plants/mangrove/rhizophora/stylosa/090315smkd8281m.jpg
         alt: Mangrove Trees
-    url: /wildfacts/plants/mangfi/
+    url: /wildfacts/guides/plants/mangfi/
     label: Mangrove Trees
 
   - imgs:
       - src: /assets/images/plants/coastal/pandanus/tectorius/051018smkg2732m.jpg
         alt: Coastal Plants
-    url: /wildfacts/plants/shorefi/
+    url: /wildfacts/guides/plants/shorefi/
     label: Coastal Plants
 
   # ── Fishes ────────────────────────────────────────────────────────────────
   - header: true
-    url: /wildfacts/vertebrates/fish/fishfi/
+    url: /wildfacts/guides/vertebrates/fish/fishfi/
     label: Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/apogonidae/margaritophorus/100528tkkd3716m.jpg
         alt: Small Fishes
-    url: /wildfacts/vertebrates/fish/fishfi02/
+    url: /wildfacts/guides/vertebrates/fish/fishfi02/
     label: Small Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m.jpg
         alt: Medium Fishes
-    url: /wildfacts/vertebrates/fish/fishfi03/
+    url: /wildfacts/guides/vertebrates/fish/fishfi03/
     label: Medium Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m.jpg
         alt: Large Fishes
-    url: /wildfacts/vertebrates/fish/fishfi04/
+    url: /wildfacts/guides/vertebrates/fish/fishfi04/
     label: Large Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/synanceiidae/horrida/060312hntd0311m.jpg
         alt: Round Fishes
-    url: /wildfacts/vertebrates/fish/fishfi06/
+    url: /wildfacts/guides/vertebrates/fish/fishfi06/
     label: Round Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/dasyatidae/lymma/080802sjid8804m.jpg
         alt: Stingrays
-    url: /wildfacts/vertebrates/fish/fishfi11/
+    url: /wildfacts/guides/vertebrates/fish/fishfi11/
     label: Stingrays
 
   - imgs:
       - src: /assets/images/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m.jpg
         alt: Disk-shaped Fishes
-    url: /wildfacts/vertebrates/fish/fishfi05/
+    url: /wildfacts/guides/vertebrates/fish/fishfi05/
     label: Disk-shaped Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/soleidae/pavoninus/050722cjg9806m.jpg
         alt: Flattened Fishes
-    url: /wildfacts/vertebrates/fish/fishfi12/
+    url: /wildfacts/guides/vertebrates/fish/fishfi12/
     label: Flattened Fishes
 
   - imgs:
       - src: /assets/images/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m.jpg
         alt: Other Fishes
-    url: /wildfacts/vertebrates/fish/fishfi16/
+    url: /wildfacts/guides/vertebrates/fish/fishfi16/
     label: Other Fishes
 
   # ── Mollusca ──────────────────────────────────────────────────────────────
   - header: true
-    url: /wildfacts/mollusca/gastropodafi/
+    url: /wildfacts/guides/mollusca/gastropodafi/
     label: Shelled Snail
     
   - imgs:
@@ -139,7 +139,7 @@ photoindex_items:
         alt: Shelled Snail
 
   - header: true
-    url: /wildfacts/mollusca/molluscafi/
+    url: /wildfacts/guides/mollusca/molluscafi/
     label: Clams
 
   - imgs:
@@ -156,7 +156,7 @@ photoindex_items:
         alt: Clam
 
   - header: true
-    url: /wildfacts/mollusca/cephalopodafi/
+    url: /wildfacts/guides/mollusca/cephalopodafi/
     label: Cuttlefish, Squid and Octopus
 
   - imgs:
@@ -170,7 +170,7 @@ photoindex_items:
         alt: Octopus
 
   - header: true
-    url: /wildfacts/mollusca/slugfi/
+    url: /wildfacts/guides/mollusca/slugfi/
     label: Sea Slugs
 
   - imgs:
@@ -188,36 +188,36 @@ photoindex_items:
 
   # ── Echinoderms ───────────────────────────────────────────────────────────
   - header: true
-    url: /wildfacts/echinodermata/echinodermatafi/
+    url: /wildfacts/guides/echinodermata/echinodermatafi/
     label: Sea Stars and Relatives
 
   - imgs:
       - src: /assets/images/echinodermata/asteroidea/sandpainted/050622chgg8118m.jpg
         alt: Sea Star
-    url: /wildfacts/echinodermata/asteroideafi1/
+    url: /wildfacts/guides/echinodermata/asteroideafi1/
     label: Sea Stars
 
   - imgs:
       - src: /assets/images/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m.jpg
         alt: Sand Dollar
-    url: /wildfacts/echinodermata/echinoideafi1/
+    url: /wildfacts/guides/echinodermata/echinoideafi1/
     label: Sand Dollars
 
   - imgs:
       - src: /assets/images/echinodermata/echinoidea/urchin/diadema/040830hntd5872m.jpg
         alt: Sea Urchin
-    url: /wildfacts/echinodermata/echinoideafi2/
+    url: /wildfacts/guides/echinodermata/echinoideafi2/
     label: Sea Urchins
 
   - imgs:
       - src: /assets/images/echinodermata/holothuroidea/scabra/020907cjd5425m.jpg
         alt: Sea Cucumber
-    url: /wildfacts/echinodermata/holothuroideafi2/
+    url: /wildfacts/guides/echinodermata/holothuroideafi2/
     label: Sea Cucumbers
 
   # ── Crustacea ─────────────────────────────────────────────────────────────
   - header: true
-    url: /wildfacts/crustacea/shrimpfi/
+    url: /wildfacts/guides/crustacea/shrimpfi/
     label: Shrimps and Shrimp-like Animals
 
   - imgs:
@@ -233,11 +233,11 @@ photoindex_items:
   - imgs:
       - src: /assets/images/crustacea/othercrust/isopoda/ligia/041018sntd7570m.jpg
         alt: Sea Slater
-    url: /wildfacts/crustacea/othercrust/isopoda/ligia/
+    url: /wildfacts/guides/crustacea/othercrust/isopoda/ligia/
     label: Sea Slater
 
   - header: true
-    url: /wildfacts/crustacea/crabfi/
+    url: /wildfacts/guides/crustacea/crabfi/
     label: Crabs and Crab-like Animals
 
   - imgs:
@@ -256,12 +256,12 @@ photoindex_items:
   - imgs:
       - src: /assets/images/arthropoda/limulidae/tachypleus/050511cftd3272m.jpg
         alt: Horseshoe Crab
-    url: /wildfacts/arthropoda/limulidae/limulidae/
+    url: /wildfacts/guides/arthropoda/limulidae/limulidae/
     label: Horseshoe Crab
 
   # ── Cnidaria ──────────────────────────────────────────────────────────────
   - header: true
-    url: /wildfacts/cnidaria/anemonefi1/
+    url: /wildfacts/guides/cnidaria/anemonefi1/
     label: Sea Anemones and Anemone-like Animals
 
   - imgs:
@@ -278,7 +278,7 @@ photoindex_items:
         alt: Star Anemone
 
   - header: true
-    url: /wildfacts/cnidaria/jellyfishfi/
+    url: /wildfacts/guides/cnidaria/jellyfishfi/
     label: Jellyfish
 
   - imgs:

@@ -1,0 +1,187 @@
+---
+title: "Pimply leathery soft coral (Lobophytum) "
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../wildfactsheet3.gif)](../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../animals.htm)
+| [all plants](../../plants.htm)
+| [concepts](../../concepts/index.html)
+| [glossary](../../glossary/index.html)
+| [search](../../search.htm)
+
+soft corals [text
+index](../cnidariaindex.htm#alcyonacea) | [photo index](../coralsoftfi1.htm)
+Phylum [Cnidaria](../cnidaria.htm)
+> Class [Anthozoa](../anthozoa.htm) > Subclass Alcyonaria/Octocorallia
+> Order [Alcyonacea](coralsoft.htm) > Family [Alcyoniidae](alcyoniidae.htm)
+**Pimply
+leathery soft coral  
+*Lobophytum* sp.*\**  
+Family Alcyoniidae***updated
+Dec 2024*
+
+---
+
+**Where
+seen?** This large leathery soft coral often resembles a pile of pimply rubber gloves at low tide. It is
+seen on our Southern shores, on coral rubble.  
+  
+**Features:** Colony 20-40cm or larger. The colony usually looks like a mushroom;
+with a flat, broad disk attached to a hard surface by a very short,
+very broad central base. The edge of the disk usually is fringed with
+long cylindrical finger-like protrusions. When out of water, the colony
+flops over and may look like a pile of discarded rubber gloves! There
+are usually no radiating ridges on the disk. The leathery common tissue
+in pastel shades of beige, yellow, pink, green, lilac.  
+  
+The colony has both feeding polyps (autozooids) and water pumping
+polyps (siphonozooids). Autozooid polyps have short fat body columns
+(about 1cm) with 8 branched tentacles that are usually white. The
+siphonozooids do not emerge from the body membrane, but form low 'pimples'
+on the surface. Siphonozooids function to pump water through the colony.
+The autozooids can retract completely into the common tissue. Out
+of water, the surface of the common tissue has two different kinds
+of holes; bigger ones where the retracted autozooids are, and smaller
+holes or bumps where the siphonozooids are.  
+  
+**Sometimes confused with** [Smooth
+leathery soft coral](letsmooth.htm) (*Sinularia* sp.) which does not have
+siphonozooids and thus has a smooth common tissue.  
+  
+**Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
+*![](letpimply/050917smkg2448m3.jpg)  
+Pulau Semakau, Sep 05* 
+
+*![](letpimply/050917smkg2447m3.jpg)*
+
+*![](letpimply/050917smkg2447m3a.jpg)*
+
+---
+
+*![](letpimply/060415hntd1291m3.jpg)  
+Pulau Hantu, Apr 06*
+
+*![](letpimply/060415hntg5647m3a.jpg)*
+
+*![](letpimply/060415hntg5647m3e.jpg)*
+
+  
+*\*Species are difficult
+to positively identify without close examination.  
+On this website, they are grouped by external features for convenience
+of display*
+
+---
+
+**Pimply
+leathery soft corals on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Pimply leathery soft coral) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/pimply%2520leathery%2520soft%2520coral/map?&fLat=1.2629&fLon=103.8661&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](letpimply/200310bbbmn1.jpg)  
+Beting Bemban Besar, Mar 20*Photo shared by Marcus Ng on [facebook](http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply.htm).
+
+---
+
+*![](letpimply/091231biod6954m3.jpg)  
+Pulau Biola, Dec 09*
+
+![](letpimply/091231biod6951m3a.jpg)
+
+![](letpimply/091231biod6953m3a.jpg)
+
+---
+
+*![](letpimply/100131slud8892m3.jpg)  
+Terumbu Salu, Jan 10*
+
+![](letpimply/100131slud8895m3a.jpg)
+
+![](letpimply/100131slud8895m3.jpg)
+
+---
+
+*![](letpimply/100130brkd8651m3.jpg)  
+Terumbu Berkas, Jan 10  
+![](letpimply/100130brkd8653m3.jpg)*
+
+*![](letpimply/091204pawd5246m3.jpg)  
+Pulau Pawai, Dec 09  
+![](letpimply/091204pawd5247m3.jpg)*
+
+*![](letpimply/100613sngd5520m3.jpg)  
+Pulau Senang, Jun 10   
+![](letpimply/100613sngd5520m3a.jpg)*
+
+---
+
+*![](letpimply/100601slud4738m3.jpg)  
+Pulau Salu, Jun 10*
+
+*![](letpimply/100601slud4739m3.jpg)*
+
+---
+
+***Lobophytum* species recorded for Singapore**  
+  from Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. The Singapore Red Data Book: Threatened plants and animals of Singapore. 3rd edition. National Parks Board. 663 pp.  
+  
+ 
+**[Family
+Alcyoniidae](alcyoniidae.htm)   
+Genus *Lobophytum***
+ 
+*Lobophytum crassum  
+Lobophytum pauciflorum  
+Lobophytum sarcophytoides*
+
+---
+
+**Links**
+
+- [*Lobophytum*](http://species-identification.org/species.php?species_group=corals&selected=beschrijving&menuentry=groepen&record=Lobophytum)
+  on [Reef
+  Corals of the Indo-Malayan Seas](http://species-identification.org/species.php?species_group=corals&menuentry=inleiding) on the [Marine
+  Species Identification Portal](http://species-identification.org/index.php): Technical fact sheet and photos.
+
+**References**
+
+- Checklist of Cnidaria (non-Sclerectinia) Species with their Category of Threat Status for Singapore by Yap Wei Liang Nicholas, Oh Ren Min, Iffah Iesa in G.W.H. Davidson, J.W.M. Gan, D. Huang, W.S. Hwang, S.K.Y. Lum, D.C.J. Yeo, May 2024. *The Singapore
+  Red Data Book: Threatened plants and animals of Singapore*.
+  3rd edition. National Parks Board. 663 pp.
+- Fabricius,
+  Katharina and Philip Alderslade, 2001. *Soft
+  Corals and Sea Fans*.
+  Australian Institute of Marine Science and the Museum and Art
+  Gallery of the Northern Territoriy. 264 pp
+
+[links](../../links.htm)
+| [references](../../references.htm)
+| [about](../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

@@ -1,5 +1,5 @@
 ---
-title: "Introducing fiddler crabs on the Shores of Singapore"
+title: "Introducing fiddler crabs "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "crustacea, crab, fiddler, uca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

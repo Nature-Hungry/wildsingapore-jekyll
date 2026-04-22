@@ -1,0 +1,123 @@
+---
+title: "Javan turrid snails (Turricula javana) "
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "turrid, turricula, javana, turridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+[![](../../../../wildfactsheet3.gif)](../../../index.html)
+
+[wildsingapore
+homepage](http://www.wildsingapore.com/)  
+  
+[wildfactsheets homepage](../../../index.html)  
+[wild shores of singapore
+blog](http://wildshores.blogspot.com/)
+
+[all animals](../../../animals.htm)
+| [all plants](../../../plants.htm)
+| [concepts](../../../concepts/index.html)
+| [glossary](../../../glossary/index.html)
+| [search](../../../search.htm)
+
+shelled snails
+[text index](../../gastropodaindex.htm) | [photo
+index](../../gastropodafi.htm)
+Phylum [Mollusca](../../mollusca.htm)
+> Class [Gastropoda](../../gastropoda.htm) > Family
+[Turridae](turridae.htm)
+**Javan
+turrid snail  
+*Turricula javana***  
+ **Family Turridae***updated
+Sep 2020*
+
+---
+
+**Where
+seen?** This elegant snail is sometimes seen on sandy areas
+near seagrasses on our Northern shores. It is often seen ploughing through the sand with its long muscular
+foot. The Family Turridae is among
+the largest of marine snails and members are often difficult to distinguish.  
+  
+**Features:** 5-7cm. Shell thin, long conical
+with spiralling ridge of knobs. Front has a pointed tip through which the
+siphon sticks out. The shell is usually not encrusted, plain pale
+brown or beige. Operculum thin, flexible, made
+of a horn-like material, yellowish. Body pale
+with brownish spots with long muscular foot. Short tentacles, very
+long siphon which has a black tip.
+
+*![](turridae/100926cjd1667m3.jpg)  
+Chek Jawa, Sep 10*
+
+*![](turridae/100926cjd1665m3.jpg)  
+Chek Jawa, Sep 10*
+
+*![](turridae/100926cjd1660m3.jpg)  
+Chek Jawa, Sep 10*
+
+---
+
+**Javan
+turrid snails on Singapore shores**
+On [wildsingapore
+flickr](http://www.flickr.com/photos/wildsingapore/)  
+
+- [Photos](https://www.flickr.com/search/?text=Turricula javana&sort=date-taken-desc&user_id=54527470@N00) for free
+  download
+- [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Turricula%2520javana/map?&fLat=1.2622&fLon=103.8657&zl=11&order_by=recent)
+
+---
+
+**Other sightings on Singapore shores**
+
+---
+
+*![](turridae/111028chgelks4m3.jpg)  
+Changi East, Oct 11*Photo
+shared by Loh Kok Sheng on [his
+blog](http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html).
+
+---
+
+*![](turridae/150617ecpbsmn1m3.jpg)  
+East Coast Park Big Splash, Jun 15*Photo
+shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153078938003660.1073741877.624178659&type=3).
+
+---
+
+**Acknowlegement**  
+With grateful thanks to Tan Siong Kiat of the Raffles Museum of Biodiversity
+Research for identifying this snail. **Links**
+
+- [Javanese
+  turrid (*Turricula javana*)](http://www.sealifebase.org/Summary/speciesSummary.php?ID=87071) on SeaLife Base: Technical
+  fact sheet.
+- Javanese
+  turrid (*Turricula javana*) in the Gastropods section by
+  J.M. Poutiers in the FAO Species Identification Guide for Fishery
+  Purposes: The Living Marine Resources of the Western Central Pacific [Volume
+  1: Seaweeds, corals, bivalves and gastropods](http://www.fao.org/docrep/009/w7191e/w7191e00.htm) on the Food and
+  Agriculture Organization of the United Nations (FAO) website.
+
+**References**
+
+- Tan Siong
+  Kiat and Henrietta P. M. Woo, 2010 *Preliminary
+  Checklist of The Molluscs of Singapore* (pdf), Raffles
+  Museum of Biodiversity Research, National University of Singapore.
+- Bunjamin
+  Dharma. 1988. *Indonesian shells (Siput dan Kerang Indonesia)*.
+  PT Sarana Graha. Indonesia. 111 pp.
+
+[links](../../../links.htm)
+| [references](../../../references.htm)
+| [about](../../../about.htm)
+| [email
+Ria](mailto:hello@wildsingapore.com)
+
+Spot
+errors? Have a question? Want to share your sightings? [email
+Ria](mailto:hello@wildsingapore.com) I'll be glad to hear from you!
+wildfactsheets
+website©ria tan 2008

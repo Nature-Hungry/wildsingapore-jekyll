@@ -1,5 +1,5 @@
 ---
-title: "Marine and intertidal fishes on the Shores of Singapore"
+title: "Marine and intertidal fishes "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

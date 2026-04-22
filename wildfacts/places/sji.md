@@ -1,5 +1,5 @@
 ---
-title: "St. John's Island on the Shores of Singapore"
+title: "St. John's Island "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "st, john, johns, island, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

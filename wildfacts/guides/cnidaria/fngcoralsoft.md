@@ -1,5 +1,5 @@
 ---
-title: "Introducing soft corals on the Shores of Singapore"
+title: "Introducing soft corals "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "alcyonacea, cnidaria, soft, coral, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

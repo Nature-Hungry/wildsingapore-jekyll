@@ -1,5 +1,5 @@
 ---
-title: "Raffles Lighthouse (Pulau Satumu) on the Shores of Singapore"
+title: "Raffles Lighthouse (Pulau Satumu) "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, satumu, raffles, lighthouse, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

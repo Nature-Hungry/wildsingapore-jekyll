@@ -1,5 +1,5 @@
 ---
-title: "Bordered sea stars (Craspidaster hesperus) on the Shores of Singapore"
+title: "Bordered sea stars (Craspidaster hesperus) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "sea star, seastar, starfish, star, fish, craspidaster, hesperus, astropectinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

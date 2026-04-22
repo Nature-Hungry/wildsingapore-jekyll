@@ -1,3 +1,11 @@
+The latest changes are made to the seagrasses,
+please take a look at /guides/plants/seagrass/seagrassfi.html
+and /_entries/plants/seagrass/*.md
+
+The rest of the entries and indexes have not been touched yet and is generated from a copy of the original website using the free version of claude
+
+but we aim to standardize all to what we are working on in the seagrass sections
+
 # Wild Singapore
 
 The Wild Singapore website is a guide to the flora and fauna of Singapore's intertidal shores. 
@@ -138,7 +146,7 @@ We welcome all kinds of contributions:
 2. **Use the correct Front Matter** (YAML header):
    ```yaml
    ---
-   title: "Common name (Scientific name) on the Shores of Singapore"
+   title: "Common name (Scientific name) "
    description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
    keywords: "common-name, scientific-name, taxonomy, field, guide, seashore, singapore, facts"
    layout: default

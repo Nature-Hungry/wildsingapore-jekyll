@@ -1,5 +1,5 @@
 ---
-title: "Moults and  moulting on the Shores of Singapore"
+title: "Moults and  moulting "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "moulting, moult, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

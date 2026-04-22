@@ -1,5 +1,5 @@
 ---
-title: "The Sisters Islands on the Shores of Singapore"
+title: "The Sisters Islands "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "big, little, sisters, island, pulau, subar, laut, darat, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: "Mangroves and mudflats on the Shores of Singapore"
+title: "Mangroves and mudflats "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "mudflat, mangrove, mangroves, mangal, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

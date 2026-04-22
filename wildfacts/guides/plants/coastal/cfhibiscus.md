@@ -1,5 +1,5 @@
 ---
-title: "Plants with hibiscus-like flowers compared on the Shores of Singapore"
+title: "Plants with hibiscus-like flowers compared "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

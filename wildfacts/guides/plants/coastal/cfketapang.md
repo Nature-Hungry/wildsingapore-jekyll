@@ -1,5 +1,5 @@
 ---
-title: "Sea almond and similar trees compared on the Shores of Singapore"
+title: "Sea almond and similar trees compared "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "guettarda, speciosa, terminalia, catappa, ketapang, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

@@ -1,5 +1,5 @@
 ---
-title: "Red tide and harmful algae blooms on the Shores of Singapore"
+title: "Red tide and harmful algae blooms "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "red tide, harmful, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default

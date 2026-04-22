@@ -1,5 +1,5 @@
 ---
-title: "The Life Firing Area islands and reefs on the Shores of Singapore"
+title: "The Life Firing Area islands and reefs "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, senang, sudong, pawai, berkas, salu, biola, terumbu, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

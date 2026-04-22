@@ -1,5 +1,5 @@
 ---
-title: "Photo index of snakes on the Shores of Singapore"
+title: "Photo index of snakes "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "photo, index, snakes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

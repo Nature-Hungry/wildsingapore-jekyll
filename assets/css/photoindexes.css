@@ -1,0 +1,17 @@
+.entry-summary-row{
+    display:flex;
+    height:200px;
+    align-items: center;
+    gap:20px;
+    margin-bottom:20px;
+}
+.entry-summary-row img{
+    width: 100%;
+    height: 100%;
+    display:block;
+}
+.entry-summary-row .img-container{
+    background-color: lightgray;
+    height:100%;
+    aspect-ratio: 1/1;
+}

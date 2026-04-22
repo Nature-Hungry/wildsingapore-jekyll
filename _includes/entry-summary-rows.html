@@ -1,0 +1,16 @@
+{% assign items = include.items %}
+
+{% for entry in items %}
+<div class="entry-summary-row">
+  <div class="img-container">
+      <img src="" />
+  </div>
+  <div>
+    <h2><a href="{{ entry.url | relative_url }}">{{entry.englishname}}</a></h2>
+    <p class="scientific-name-subtitle">{{entry.genus}} {{entry.species}}</p>
+    <p>
+      {{entry.summary}}
+    </p>
+  </div>
+</div>
+{% endfor %}

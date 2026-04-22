@@ -1,5 +1,5 @@
 ---
-title: "How to tell apart bristleworms and brittle stars on the Shores of Singapore"
+title: "How to tell apart bristleworms and brittle stars "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "brittle, star, ophiuroidea, bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default

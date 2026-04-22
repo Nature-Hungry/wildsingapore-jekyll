@@ -1,5 +1,5 @@
 ---
-title: "Pulau Hantu and Terumbu Hantu on the Shores of Singapore"
+title: "Pulau Hantu and Terumbu Hantu "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "pulau, hantu, terumbu, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default

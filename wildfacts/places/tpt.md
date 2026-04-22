@@ -1,5 +1,5 @@
 ---
-title: "Terumbu Pempang Tengah on the Shores of Singapore"
+title: "Terumbu Pempang Tengah "
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "terumbu, pempang, tengah, singapore, nature, natural, wildlife, rocky, shore, coastal, forest, coastal, marine, comprehensive, biodiversity, survey, mega, southern, islands, reef"
 layout: default
