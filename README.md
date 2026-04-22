@@ -223,7 +223,7 @@ The content on this site is freely available for:
 
 ### Contributor License
 
-By contributing to this repository, you agree that your contributions can be used and distributed under the same terms as the existing content, with appropriate attribution. This repository is on the GPL 2.0 license.
+By contributing to this repository, you agree that your contributions can be used and distributed under the same terms as the existing content, with appropriate attribution.
 
 ---
 
