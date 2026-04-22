@@ -143,13 +143,18 @@ We welcome all kinds of contributions:
    - Example: `entries/ascidiacea/myspecies.md`
    - Use lowercase filenames with hyphens for multi-word names
 
-2. **Use the correct Front Matter** (YAML header):
+2. **End goal of entry metadata (subject to change):
    ```yaml
    ---
    title: "Common name (Scientific name) "
    description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
    keywords: "common-name, scientific-name, taxonomy, field, guide, seashore, singapore, facts"
    layout: default
+   attributes: [1,2,3 ...]
+   zone: terrestrial|intertidal
+   englishname: ""
+   malayname: ""
+   scientificname: ""
    ---
    ```
 
