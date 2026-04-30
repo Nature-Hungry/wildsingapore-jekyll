@@ -1,9 +1,12 @@
 ---
-title: Teruntum putih (Lumnitzera racemosa) 
+title: "Teruntum putih "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "teruntum, putih, lumnitzera, racemosa, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Combretaceae
+genus: Lumnitzera
+species: racemosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

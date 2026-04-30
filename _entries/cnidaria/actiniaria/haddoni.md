@@ -1,9 +1,12 @@
 ---
-title: Haddon's carpet anemone (Stichodactyla haddoni)
+title: Haddon's carpet anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Stichodactylidae
+genus: Stichodactyla
+species: haddoni
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

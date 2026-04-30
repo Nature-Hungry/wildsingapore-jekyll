@@ -1,9 +1,12 @@
 ---
-title: Saga tree (Adenanthera pavonina) 
+title: Saga tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saga, adenanthera, pavonina, fabaceae, leguminosae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 37]
+family: Fabaceae
+genus: Adenanthera
+species: pavonina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

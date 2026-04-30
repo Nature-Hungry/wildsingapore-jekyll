@@ -1,8 +1,12 @@
 ---
-title: Small coin green seaweeds (Halimeda) 
+title: Small coin green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "small, coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Halimedaceae
+genus: Halimeda
+species: sp.*
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

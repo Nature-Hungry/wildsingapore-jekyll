@@ -1,9 +1,12 @@
 ---
-title: Smooth limpet (Cellana)
+title: Smooth limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [14, 33]
+family: Nacellidae
+genus: Cellana
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

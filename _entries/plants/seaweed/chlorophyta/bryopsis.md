@@ -1,8 +1,12 @@
 ---
-title: Hairy green seaweeds (Bryopsis) 
+title: Hairy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Bryopsidaceae
+genus: Bryopsis
+species: ""
 attributes: [46, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

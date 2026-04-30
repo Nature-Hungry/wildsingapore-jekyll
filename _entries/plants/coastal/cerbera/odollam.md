@@ -1,9 +1,12 @@
 ---
-title: Yellow-eyed Pong pong tree (Cerbera odollam) 
+title: Yellow-eyed pong pong tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pong, cerbera, odollam, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 62]
+family: Apocynaceae
+genus: Cerbera
+species: odollam
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

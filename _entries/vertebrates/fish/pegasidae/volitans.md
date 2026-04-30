@@ -1,9 +1,12 @@
 ---
-title: Slender seamoth (Pegasus volitans)
+title: Slender seamoth
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 74]
+family: Pegasidae
+genus: Pegasus
+species: volitans
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

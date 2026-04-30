@@ -1,9 +1,12 @@
 ---
-title: Spiny sea star (Gymnanthenea laevis)
+title: Spiny sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiny, sea star, seastar, starfish, star, fish, gymnanthenea, laevis, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Oreasteridae
+genus: Gymnanthenea
+species: laevis
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-title: Fringe-eyed flathead (Cymbacephalus nematophthalmus)
+title: Fringe-eyed flathead
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fringe, eyed, flathead, flat, head, fish, cymbacephalus, nematophthalmus, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Platycephalidae
+genus: Cymbacephalus
+species: nematophthalmus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

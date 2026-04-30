@@ -1,9 +1,12 @@
 ---
-title: Gold-spotted mudskipper (Periophthalmus chrysospilos)
+title: Gold-spotted mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gold, spotted, mudskipper, mud, skipper, fish, periophthalmus, chrysospilos, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Periophthalmus
+species: chrysospilos
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

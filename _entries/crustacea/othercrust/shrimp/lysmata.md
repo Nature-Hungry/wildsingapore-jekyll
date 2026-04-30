@@ -1,9 +1,12 @@
 ---
-title: Cleaner shrimp (Lysmata) 
+title: Cleaner shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cleaner, shrimp, lysmata, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Hippolytidae
+genus: Lysmata
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

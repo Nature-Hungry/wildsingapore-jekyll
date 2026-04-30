@@ -1,9 +1,12 @@
 ---
-title: Spotted mangrove anemone 
+title: Spotted mangrove anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88]
+family: ""
+genus: Awaiting
+species: identification*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

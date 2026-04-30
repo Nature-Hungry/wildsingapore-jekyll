@@ -1,9 +1,12 @@
 ---
-title: Anemone corals (Goniopora sp.) 
+title: Anemone coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [88]
+family: Poritidae
+genus: Goniopora
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

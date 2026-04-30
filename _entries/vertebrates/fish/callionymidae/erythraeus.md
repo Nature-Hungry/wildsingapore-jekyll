@@ -1,9 +1,12 @@
 ---
-title: Smallhead dragonet (Callionymus erythraeus)
+title: Smallhead dragonet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Callionymidae
+genus: Callionymus
+species: erythraeus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

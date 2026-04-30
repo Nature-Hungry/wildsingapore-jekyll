@@ -1,9 +1,12 @@
 ---
-title: Bubble-tip anemone (Entacmaea quadricolor) 
+title: Bubble-tip  anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bulb, bubble, tip, anemone, entacmaea, quadricolor, actiniidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Actiniidae
+genus: Entacmaea
+species: quadricolor
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

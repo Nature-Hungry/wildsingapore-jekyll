@@ -1,9 +1,12 @@
 ---
-title: Hairy coral crab (Cymo andreossyi) 
+title: "Hairy coral crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, coral, crab, cymo, andreossyi, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106]
+family: Xanthidae
+genus: Cymo
+species: andreossyi
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Orange-spotted gymnodoris nudibranch (Gymnodoris rubropapulosa)
+title: Orange-spotted gymnodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gymnodoris, rubropapulosa, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [90, 110]
+family: Gymnodorididae
+genus: Gymnodoris
+species: rubropapulosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

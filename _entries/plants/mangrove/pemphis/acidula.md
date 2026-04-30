@@ -1,9 +1,12 @@
 ---
-title: Mentigi (Pemphis acidula) 
+title: Mentigi
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mentigi, pemphis, acidula, lythraceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Lythraceae
+genus: Pemphis
+species: acidula
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

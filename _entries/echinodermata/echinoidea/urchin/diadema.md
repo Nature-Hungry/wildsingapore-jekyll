@@ -1,9 +1,12 @@
 ---
-title: Diadema sea urchin (Diadema setosum)
+title: Diadema  sea urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, spine, spined, urchin, diadema, setosum, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: Diadematidae
+genus: Diadema
+species: setosum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

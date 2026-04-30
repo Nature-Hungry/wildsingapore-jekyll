@@ -1,9 +1,12 @@
 ---
-title: Purple-legged swimming crab (Charybdis hellerii) 
+title: Purple-legged swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "purple, leg, swimming, crab, charybdis, hellerii, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112, 119]
+family: Portunidae
+genus: Charybdis
+species: hellerii*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

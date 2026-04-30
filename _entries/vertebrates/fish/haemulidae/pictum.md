@@ -1,9 +1,12 @@
 ---
-title: Painted sweetlips (Diagramma pictum)
+title: Painted sweetlips
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Haemulidae
+genus: Diagramma
+species: pictum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

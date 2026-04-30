@@ -1,9 +1,12 @@
 ---
-title: Limau hantu (Suregada multiflora) 
+title: "Limau hantu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limau, hantu, calophyllum, soulattri, clusiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Euphorbiaceae
+genus: Suregada
+species: multiflora
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

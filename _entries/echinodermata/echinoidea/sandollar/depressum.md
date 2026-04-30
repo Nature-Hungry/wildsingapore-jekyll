@@ -1,9 +1,12 @@
 ---
-title: Thick-edged sand dollar (Jacksonaster depressum)
+title: Thick-edged sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thick, edge, sand, dollar, laganum, jacksonaster, depressum, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [86]
+family: Laganidae
+genus: Jacksonaster
+species: depressum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

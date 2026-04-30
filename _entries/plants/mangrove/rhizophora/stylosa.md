@@ -1,9 +1,12 @@
 ---
-title: Bakau pasir (Rhizophora stylosa) 
+title: "Bakau pasir "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, stylosa, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 68, 117]
+family: Rhizophoraceae
+genus: Rhizophora
+species: stylosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

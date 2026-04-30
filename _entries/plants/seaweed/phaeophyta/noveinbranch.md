@@ -1,8 +1,12 @@
 ---
-title: Broad strap brown seaweeds (Stypopodium zonale) 
+title: Broad strap brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Scytosiphonaceae
+genus: Stypopodium
+species: zonale*
 attributes: [97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

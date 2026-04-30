@@ -1,9 +1,12 @@
 ---
-title: Kops' glass perchlet (Ambassis kopsii)
+title: Asiatic glass perchlets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Ambassidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Ternate false fusus (Hemifusus ternatanus)
+title: Ternate false fusus
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 64, 71, 111, 123, 125]
+family: Melongenidae
+genus: Hemifusus
+species: ternatanus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Strapweed filefish (Pseudomonacanthus macrurus)
+title: Strapweed filefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "strapweed, filefish, file, fish, leather, jacket, pseudomonacanthus, monacanthus, macrurus, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Monacanthidae
+genus: Pseudomonacanthus
+species: macrurus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

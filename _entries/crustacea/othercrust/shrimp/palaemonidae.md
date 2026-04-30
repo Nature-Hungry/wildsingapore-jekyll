@@ -1,9 +1,12 @@
 ---
-title: Palaemonid shrimp (Palaemonidae) 
+title: Palaemonid shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Palaemonidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

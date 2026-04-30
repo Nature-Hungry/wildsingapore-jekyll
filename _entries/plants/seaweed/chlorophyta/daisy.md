@@ -1,8 +1,12 @@
 ---
-title: Daisy green seaweed (Parvocaulis parvulus) 
+title: Daisy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Polyphysaceae
+genus: Parvocaulis
+species: parvulus*
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

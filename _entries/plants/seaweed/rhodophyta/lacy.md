@@ -1,8 +1,12 @@
 ---
-title: Lacy red seaweed (Martensia elegans) 
+title: "Lacy red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lacy, red, seaweed, weed, algae, martensia, elegans, delesseriaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Delesseriaceae
+genus: Martensia
+species: elegans*
 attributes: [97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

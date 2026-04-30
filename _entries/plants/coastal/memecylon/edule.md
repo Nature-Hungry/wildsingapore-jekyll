@@ -1,9 +1,12 @@
 ---
-title: Delek air (Memecylon edule) 
+title: Delek air
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "delek, air, memecylon, edule, melastomaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 109]
+family: Melastomaceae
+genus: Memecylon
+species: edule
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

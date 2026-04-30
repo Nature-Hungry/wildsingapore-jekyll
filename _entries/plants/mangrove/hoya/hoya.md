@@ -1,9 +1,12 @@
 ---
-title: Mangrove wax plant (Hoya) 
+title: "Mangrove wax plant "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wax, hoya, apocynaceae, asclepiadaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Apocynaceae
+genus: Hoya
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

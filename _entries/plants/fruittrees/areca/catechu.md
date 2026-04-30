@@ -1,9 +1,12 @@
 ---
-title: Pinang or Betel-nut palm (Areca catechu) of Singapore
+title: "Pinang palm "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 82]
+family: Arecaceae
+genus: Areca
+species: catechu
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

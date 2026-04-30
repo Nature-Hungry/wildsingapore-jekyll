@@ -1,9 +1,12 @@
 ---
-title: Banded mantis shrimp (Lysiosquilla sp.) 
+title: Banded mantis shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mantis, shrimp, lysiosquilla, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Lysiosquillidae
+genus: Lysiosquilla
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

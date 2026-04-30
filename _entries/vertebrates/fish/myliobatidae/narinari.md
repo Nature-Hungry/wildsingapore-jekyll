@@ -1,9 +1,12 @@
 ---
-title: White-spotted eagle ray (Aetobatus mula)
+title: Eagle rays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [118]
+family: Myliobatidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

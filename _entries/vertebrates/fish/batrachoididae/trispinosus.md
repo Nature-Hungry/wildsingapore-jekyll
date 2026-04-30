@@ -1,9 +1,12 @@
 ---
-title: Toadfishes (Batrachoididae) on Singapore shores
+title: Toadfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Batrachoididae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

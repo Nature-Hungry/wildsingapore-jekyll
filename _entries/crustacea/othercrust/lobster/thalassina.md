@@ -1,9 +1,12 @@
 ---
-title: Mud lobster (Thalassina) 
+title: Mud lobster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Thalassinidae
+genus: Thalassina
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

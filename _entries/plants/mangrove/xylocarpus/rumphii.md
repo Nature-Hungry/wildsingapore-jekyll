@@ -1,9 +1,12 @@
 ---
-title: Nyireh laut (Xylocarpus rumphii) 
+title: " Nyireh laut"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, rumphii, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 61, 68]
+family: Meliaceae
+genus: Xylocarpus
+species: rumphii
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

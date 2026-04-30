@@ -1,9 +1,12 @@
 ---
-title: Spotted archerfish (Toxotes chatareus)
+title: Spotted archerfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Toxotidae
+genus: Toxotes
+species: chatareus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

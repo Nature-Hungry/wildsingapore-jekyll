@@ -1,8 +1,12 @@
 ---
-title: Solitary fan green seaweeds (Avrainvillea erecta) 
+title: Solitary fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "solitary, fan, seaweed, weed, green, avrainvillea, erecta, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Udoteaceae
+genus: Avrainvillea
+species: erecta*
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

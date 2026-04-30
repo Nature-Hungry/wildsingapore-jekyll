@@ -1,9 +1,12 @@
 ---
-title: Leathery anemone (Radianthus crispa) 
+title: Leathery anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leathery, anemone, radianthus, heteractis, crispa, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Stichodactylidae
+genus: Radianthus
+species: crispa
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

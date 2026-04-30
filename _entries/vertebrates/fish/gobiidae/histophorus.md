@@ -1,9 +1,12 @@
 ---
-title: Bearded mudskipper (Scartelaos histophorus)
+title: Bearded mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Scartelaos
+species: histophorus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Painted scorpionfishes (Parascorpaena picta) 
+title: Painted scorpionfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "painted scorpionfish, scorpion, fish, parascorpaena, picta, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Scorpaenidae
+genus: Parascorpaena
+species: picta
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

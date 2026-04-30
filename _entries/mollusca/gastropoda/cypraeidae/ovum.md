@@ -1,9 +1,12 @@
 ---
-title: Ovum cowrie (Erronea ovum)
+title: Ovum cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cowrie, cypraeidae, ovum, cypraea, erronea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 111, 123, 127]
+family: Cypraeidea
+genus: ""
+species: Erronea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

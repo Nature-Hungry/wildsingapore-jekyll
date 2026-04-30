@@ -1,9 +1,12 @@
 ---
-title: Mud crab (Scylla)
+title: Mud crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mud, crab, scylla, crustacea, portunidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112, 119]
+family: Portunidae
+genus: Scylla
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

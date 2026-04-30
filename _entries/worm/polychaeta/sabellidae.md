@@ -1,9 +1,12 @@
 ---
-title: Fanworms (Sabellidae) 
+title: "Fanworms "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [92]
+family: Sabellidae
+genus: ""
+species: ""
 ---
 
 

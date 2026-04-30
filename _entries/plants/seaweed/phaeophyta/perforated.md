@@ -1,8 +1,12 @@
 ---
-title: Perforated brown seaweeds (Hydroclathrus) 
+title: Perforated brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "perforated, brown, seaweed, weed, hydroclathrus, scytosiphonaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Scytosiphonaceae
+genus: Hydroclathrus
+species: ""
 attributes: [41, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

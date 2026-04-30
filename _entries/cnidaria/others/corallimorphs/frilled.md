@@ -1,9 +1,12 @@
 ---
-title: Frilled corallimorph (Rhodactis inchoata) 
+title: Frilled corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, rhodactis, inchoata, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 102]
+family: Discosomidae
+genus: Rhodactis
+species: inchoata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

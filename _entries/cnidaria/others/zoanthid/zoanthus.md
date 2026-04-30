@@ -1,9 +1,12 @@
 ---
-title: Button zoanthid (Zoanthus) 
+title: Button zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88]
+family: Zoanthidae
+genus: Zoanthus
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

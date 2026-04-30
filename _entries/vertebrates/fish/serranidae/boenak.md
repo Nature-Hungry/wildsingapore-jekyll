@@ -1,9 +1,12 @@
 ---
-title: Chocolate hind (Cephalopholis boenak)
+title: "Chocolate hind "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chocolate, hind, indian, grouper, fish, cephalopholis, boenak, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Serranidae
+genus: Cephalopholis
+species: boenak
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

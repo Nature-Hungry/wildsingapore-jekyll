@@ -1,9 +1,12 @@
 ---
-title: Broad-barred acropora goby (Gobiodon histrio)
+title: Broad-barred acropora goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broad, barred, goby, gobiodon, histrio, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [79]
+family: Gobiidae
+genus: Gobiodon
+species: histrio
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

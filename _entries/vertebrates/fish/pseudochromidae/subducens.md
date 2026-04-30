@@ -1,9 +1,12 @@
 ---
-title: Carpet eel-blenny (Congrogadus subducens)
+title: Carpet eel-blenny
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "carpet, eel, blenny, eelblenny, fish, congrogadus, subducens, pseudochromidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Pseudochromidae
+genus: Congrogadus
+species: subducens
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

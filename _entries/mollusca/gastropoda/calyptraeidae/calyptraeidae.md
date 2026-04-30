@@ -1,9 +1,12 @@
 ---
-title: Slipper snails (Calyptraeidae) on Singapore shores
+title: Slipper snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33]
+family: Calyptraeidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

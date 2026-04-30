@@ -1,9 +1,12 @@
 ---
-title: All-black hermit crab (Clibanarius sp.) 
+title: All-black hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 54]
+family: Diogenidae
+genus: Clibanarius
+species: ""
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

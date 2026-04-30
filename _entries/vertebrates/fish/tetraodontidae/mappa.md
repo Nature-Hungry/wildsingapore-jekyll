@@ -1,9 +1,12 @@
 ---
-title: Map pufferfish (Arothon mappa)
+title: Map pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "starry, pufferfish, puffer, fish, arothon, mappa, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Tetraodontidae
+genus: Arothon
+species: mappa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

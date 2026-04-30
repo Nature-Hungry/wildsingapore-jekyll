@@ -1,9 +1,12 @@
 ---
-title: Bartail flathead (Platycephalus indicus)
+title: Bartail flathead
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flathead, flat, head, fish, platycephalus, indicus, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Platycephalidae
+genus: Platycephalus
+species: indicus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Jeruju or Sea holly (Acanthus) 
+title: "Jeruju "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Acanthaceae
+genus: Acanthus
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

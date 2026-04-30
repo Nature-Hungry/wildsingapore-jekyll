@@ -1,9 +1,12 @@
 ---
-title: Mud shrimps (Upogebiidae) 
+title: Mud shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mud, shrimp, upogebia, upogebiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Upogebiidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Lionfish (Pterois)
+title: Lionfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 74]
+family: Scorpaenidae
+genus: Pterois
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

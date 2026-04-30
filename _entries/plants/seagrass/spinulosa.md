@@ -1,15 +1,15 @@
 ---
-title: Fern seagrass (Halophila spinulosa) 
+title: "Fern seagrass "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [95]
+attributes: [97]
 englishname: Fern seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: spinulosa
 summary: "2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi."
-coverimg: https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg
+coverimg: "https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

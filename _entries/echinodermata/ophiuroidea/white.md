@@ -1,9 +1,12 @@
 ---
-title: Ghost brittle star (Ophiuroidea)
+title: "Ghost brittle star "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ghost, white, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 31, 92]
+family: ""
+genus: awaiting
+species: identification*
 ---
 
 

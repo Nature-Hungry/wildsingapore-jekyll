@@ -1,9 +1,12 @@
 ---
-title: Feather-hitching brittle star (Ophiomaza cacaotica)
+title: "Feather-hitching brittle stars "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feather, hitching, brittle, star, brittlestar, ophiomaza, cacaotica, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 31, 92]
+family: Ophiotrichidae
+genus: Ophiomaza
+species: cacaotica*
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-title: Seashore bat lily (Tacca leontopetaloides) 
+title: Seashore bat lily
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 53]
+family: Taccaceae
+genus: Tacca
+species: leontopetaloides
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

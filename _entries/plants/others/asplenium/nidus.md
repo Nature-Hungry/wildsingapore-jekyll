@@ -1,9 +1,12 @@
 ---
-title: Birds' nest fern (Asplenium nidus) 
+title: Birds' nest fern
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "birds, nest, fern, asplenium, nidus, aspleniaceae, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 96]
+family: Aspleniaceae
+genus: Asplenium
+species: nidus
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

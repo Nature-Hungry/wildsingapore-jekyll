@@ -1,8 +1,12 @@
 ---
-title: Oval sea grapes (Caulerpa racemosa) 
+title: Oval sea grapes seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Caulerpaceae
+genus: Caulerpa
+species: racemosa*
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

@@ -1,9 +1,12 @@
 ---
-title: Keyhole sand dollar (Echinodiscus sp.)
+title: Keyhole sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "keyhole, sand, dollar, clypeasteroida, astriclypeidae, echinodiscus, truncatus, bisperforatus, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [86]
+family: Astriclypeidae
+genus: Echinodiscus
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

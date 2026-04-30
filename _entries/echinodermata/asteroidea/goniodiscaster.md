@@ -1,9 +1,12 @@
 ---
-title: Biscuit sea star (Goniodiscaster scaber)
+title: Biscuit sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "biscuit, sea star, seastar, starfish, star, fish, goniodiscater, scaber, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Oreasteridae
+genus: Goniodiscaster
+species: scaber
 ---
 
 

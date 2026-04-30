@@ -1,9 +1,12 @@
 ---
-title: Starry-mouthed nudibranch (Bornella stellifer)
+title: Starry-mouthed nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90]
+family: Bornellidae
+genus: Bornella
+species: stellifer
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

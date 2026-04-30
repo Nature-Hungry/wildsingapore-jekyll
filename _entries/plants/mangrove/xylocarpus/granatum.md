@@ -1,9 +1,12 @@
 ---
-title: Nyireh bunga (Xylocarpus granatum) 
+title: " "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 61, 68]
+family: Meliaceae
+genus: Xylocarpus
+species: granatum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

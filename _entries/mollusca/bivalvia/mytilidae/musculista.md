@@ -1,9 +1,12 @@
 ---
-title: Nest mussel (Arcuatula senhousia)
+title: Nest mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [2, 33, 107]
+family: Mytilidae
+genus: Arcuatula
+species: senhousia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

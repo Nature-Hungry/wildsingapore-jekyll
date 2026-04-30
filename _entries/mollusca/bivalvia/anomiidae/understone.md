@@ -1,9 +1,12 @@
 ---
-title: Under-a-stone jingle shells (Anomiidae)
+title: "Under-a-stone jingle clam "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33, 34, 73]
+family: Anomiidae
+genus: awaiting
+species: identification
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Blue feather star (Crinoidea)
+title: Blue feather star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [1, 45, 92]
+family: ""
+genus: awaiting
+species: identification
 ---
 
 

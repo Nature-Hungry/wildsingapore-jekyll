@@ -1,9 +1,12 @@
 ---
-title: Mata pelandok (Ardisia elliptica) 
+title: "Mata pelandok "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ardisia, elliptica, primulaceae, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Primulaceae
+genus: Ardisia
+species: elliptica
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

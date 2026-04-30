@@ -1,9 +1,12 @@
 ---
-title: Saul's cowrie (Palmadusta saulae)
+title: "Saul's cowrie "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 111, 123, 127]
+family: Cypraeidea
+genus: Palmadusta
+species: saulae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

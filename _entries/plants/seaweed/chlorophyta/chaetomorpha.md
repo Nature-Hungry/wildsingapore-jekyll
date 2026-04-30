@@ -1,8 +1,12 @@
 ---
-title: Bee hoon green seaweeds (Chaetomorpha) 
+title: 'Bee hoon' green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bee, hoon, seaweed, weed, green, chaetomorpha, cladophoraceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Cladophoraceae
+genus: Chaetomorpha
+species: ""
 attributes: [97, 99]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

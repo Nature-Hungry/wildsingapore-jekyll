@@ -1,9 +1,12 @@
 ---
-title: Tiny colourful brittle star (Ophiothela danae)
+title: "Tiny colourful brittle stars "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, colourful, brittle, star, brittlestar, ophiothela, danae, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 31, 92]
+family: Ophiotrichidae
+genus: Ophiothela
+species: danae*
 ---
 
 

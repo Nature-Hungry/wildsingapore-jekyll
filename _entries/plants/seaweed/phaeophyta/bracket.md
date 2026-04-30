@@ -1,8 +1,12 @@
 ---
-title: Bracket brown seaweeds (Lobophora variegata) 
+title: Bracket brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Dictyotaceae
+genus: Lobophora
+species: variegata*
 attributes: [41, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

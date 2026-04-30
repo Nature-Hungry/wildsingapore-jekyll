@@ -1,9 +1,12 @@
 ---
-title: Ketapang pasir (Guettarda speciosa) 
+title: Ketapang pasir
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "guettarda, speciosa, rubiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 62]
+family: Rubiaceae
+genus: Guettarda
+species: speciosa
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

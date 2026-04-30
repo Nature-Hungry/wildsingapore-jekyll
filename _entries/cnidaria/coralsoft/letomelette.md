@@ -1,9 +1,12 @@
 ---
-title: Omelette leathery soft coral (Sacrophyton) 
+title: Omelette leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [88]
+family: Alcyoniidae
+genus: Sarcophyton
+species: sp.*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

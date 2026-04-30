@@ -1,9 +1,12 @@
 ---
-title: Alicia anemone (Alicia sp.)
+title: Alicia anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alicia, anemone, aliciidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [5, 6, 88]
+family: Aliciidae
+genus: Alicia
+species: sp.
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

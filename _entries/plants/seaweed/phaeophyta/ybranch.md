@@ -1,8 +1,12 @@
 ---
-title: Bluish y-branch brown seaweeds (Dictyota dichotoma) 
+title: Bluish y-branch brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bluish, y, branch, brown, seaweed, weed, dictyota, dichotoma, dicyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Dictyotaceae
+genus: Dictyota
+species: dichotoma
 attributes: [97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

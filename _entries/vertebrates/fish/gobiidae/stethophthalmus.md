@@ -1,9 +1,12 @@
 ---
-title: Head-stripe lagoon-gobies (Amblygobius stethophthalmus) on the Shores of
+title: Head-stripe lagoon-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "head, stripe, byno, lagoon, goby, amblygobius, bynoensis, stethophthalmus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Gobiidae
+genus: Amblygobius
+species: stethophthalmus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

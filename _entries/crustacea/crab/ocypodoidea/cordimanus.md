@@ -1,9 +1,12 @@
 ---
-title: Smooth-eyed ghost crab (Ocypode cordimanus) 
+title: Smooth-eyed ghost crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Ocypodidae
+genus: Ocypode
+species: cordimanus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

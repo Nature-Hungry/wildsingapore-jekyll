@@ -1,8 +1,12 @@
 ---
-title: Knobbly agar agar seaweeds (Gracilaria salicornia) 
+title: "Knobbly agar-agar seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "knobbly, agar, gracilaria, salicornia, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Gracilariaceae
+genus: Gracilaria
+species: salicornia
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

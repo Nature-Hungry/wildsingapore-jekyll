@@ -3,6 +3,10 @@ title: "Red seaweeds (Rhodophyta) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: ""
+genus: Rhodophyta
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

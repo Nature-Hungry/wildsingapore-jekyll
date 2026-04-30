@@ -1,9 +1,12 @@
 ---
-title: Brown sea cucumber (Bohadschia vitiensis)
+title: Brown sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, cucumber, seacucumber, bohadschia, vitiensis, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Holothuriidae
+genus: Bohadschia
+species: vitiensis*
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-title: Seagrass anemone 
+title: Seagrass  anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88]
+family: ""
+genus: Awaiting
+species: identification*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

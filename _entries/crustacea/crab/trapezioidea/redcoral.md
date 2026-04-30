@@ -1,9 +1,12 @@
 ---
-title: Red coral crab (Trapezia cymodoce) 
+title: Red coral crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 attributes: [38, 106]
+family: Trapeziidae
+genus: Trapezia
+species: cymodoce
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

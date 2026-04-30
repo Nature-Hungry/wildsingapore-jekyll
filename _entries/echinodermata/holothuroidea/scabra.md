@@ -1,9 +1,12 @@
 ---
-title: Garlic bread sea cucumber (Holothuria scabra)
+title: Garlic bread sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sandfish, cucumber, seacucumber, holothuria, scabra, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Holothuriidae
+genus: Holothuria
+species: scabra
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-title: White-rumped sea cucumber (Actinopyga lecanora)
+title: White-rumped sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Holothuriidae
+genus: ""
+species: Actinopyga
 ---
 
 

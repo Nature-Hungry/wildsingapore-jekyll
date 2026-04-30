@@ -1,9 +1,12 @@
 ---
-title: Frill-fin goby (Bathygobius sp.)
+title: Frill-fin goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Gobiidae
+genus: Bathygobius
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

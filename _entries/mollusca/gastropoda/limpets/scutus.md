@@ -1,9 +1,12 @@
 ---
-title: Hoof-shield limpet (Scutus)
+title: Hoof-shield limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [90]
+family: Fissurellidae
+genus: Scutus
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

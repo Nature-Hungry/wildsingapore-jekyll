@@ -1,9 +1,12 @@
 ---
-title: Common elbow crab (Parthenopidae)
+title: Common elbow crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106]
+family: Parthenopidae
+genus: awaiting
+species: identification
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

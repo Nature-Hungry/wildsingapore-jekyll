@@ -1,9 +1,12 @@
 ---
-title: Limau lelang (Merope angulata) 
+title: "Limau lelang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limau, lelang, merope, angulata, rutaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Rutaceae
+genus: Merope
+species: angulata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,12 @@
 ---
-title: Bushy ball red seaweed (Hypnea pannosa) 
+title: "Bushy ball red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, ball, seaweed, weed, algae, hypnea, pannosa, cystocloniaceae, hypneaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Cystocloniaceae
+genus: Hypnea
+species: pannosa*
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

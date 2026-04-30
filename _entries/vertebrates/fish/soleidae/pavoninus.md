@@ -1,9 +1,12 @@
 ---
-title: Peacock sole (Pardachirus pavoninus)
+title: Peacock sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peacock, flat, fish, flatfish, sole, pardachirus, pavoninus, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Soleidae
+genus: Pardachirus
+species: pavoninus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

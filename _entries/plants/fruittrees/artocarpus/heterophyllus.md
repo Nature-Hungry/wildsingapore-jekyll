@@ -1,9 +1,12 @@
 ---
-title: Nangka trees (Artocarpus heterophyllus) of Singapore
+title: "Nangka "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nangka, jack, fruit, jackfruit, artocarpus, heterophyllus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Moraceae
+genus: Artocarpus
+species: heterophyllus
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Sentinel crab (Macrophthalmus) 
+title: Sentinel crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sentinel, crab, macrophthalmus, macrophthalmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106, 112]
+family: Macrophthalmidae
+genus: Macrophthalmus
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

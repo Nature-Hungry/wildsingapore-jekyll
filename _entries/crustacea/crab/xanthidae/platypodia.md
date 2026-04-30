@@ -1,9 +1,12 @@
 ---
-title: Curry puff crab (Platypodia granulosa) 
+title: "Curry puff crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Xanthidae
+genus: Platypodia
+species: granulosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

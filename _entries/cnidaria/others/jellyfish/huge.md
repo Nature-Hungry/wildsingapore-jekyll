@@ -1,9 +1,12 @@
 ---
-title: Huge jellyfish (Rhizostomeae) 
+title: Huge jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, rhizostomeae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [56]
+family: Class Scyphozoa
+genus: Order
+species: Rhizostomeae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

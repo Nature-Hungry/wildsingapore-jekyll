@@ -1,9 +1,12 @@
 ---
-title: Pear-shaped cowrie (Erronea pyriformis)
+title: Pear-shaped cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pyriformis, cowrie, cypraea, erronea, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 111, 123, 127]
+family: Cypraeidea
+genus: Erronea
+species: pyriformis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

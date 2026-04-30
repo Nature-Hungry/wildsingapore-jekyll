@@ -1,9 +1,12 @@
 ---
-title: Smasher mantis shrimp (Gonodactylellus viridis) 
+title: Smasher mantis shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gonodactylus chiragra, gonodactylidae, smasher, mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Gonodactylidae
+genus: Gonodactylellus
+species: viridis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

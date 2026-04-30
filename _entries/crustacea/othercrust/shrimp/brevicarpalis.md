@@ -1,9 +1,12 @@
 ---
-title: Peacock-tail anemone shrimp (Ancylocaris brevicarpalis)
+title: Peacock-tail anemone shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peacock, tail, anemone, shrimp, ancylocaris, periclimenes, brevicarpalis, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Palaemonidae
+genus: Ancylocaris
+species: brevicarpalis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

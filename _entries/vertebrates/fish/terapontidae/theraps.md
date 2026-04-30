@@ -1,9 +1,12 @@
 ---
-title: Banded perch (Terapon theraps) 
+title: Banded perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, grunter, perch, fish, terapon, theraps, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Terapontidae
+genus: Terapon
+species: theraps
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

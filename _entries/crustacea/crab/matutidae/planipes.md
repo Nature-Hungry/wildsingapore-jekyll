@@ -1,9 +1,12 @@
 ---
-title: Flower moon crab (Matuta planipes) 
+title: "Flower moon crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "reticulated, moon, crab, matuta, planipes, matutidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 69, 106, 112]
+family: Matutidae
+genus: Matuta
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

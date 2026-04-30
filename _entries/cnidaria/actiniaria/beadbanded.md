@@ -1,9 +1,12 @@
 ---
-title: Banded bead anemone (Anthopleura) 
+title: Banded bead anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88]
+family: Actiniidae
+genus: Anthopleura
+species: sp.*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

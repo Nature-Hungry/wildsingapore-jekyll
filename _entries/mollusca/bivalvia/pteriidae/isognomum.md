@@ -1,9 +1,12 @@
 ---
-title: Elongated toothed oyster (Isognomon isognomum)
+title: Elongated toothed oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wader, tree, oyster, isognomon, isognomum, pteriidae, isognominidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33, 73]
+family: Pteriidae
+genus: Isognomon
+species: isognomum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

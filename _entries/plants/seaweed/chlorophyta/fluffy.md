@@ -1,8 +1,12 @@
 ---
-title: Fluffy green seaweeds (Caulerpa verticillata) 
+title: Fluffy green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Caulerpaceae
+genus: Caulerpa
+species: verticillata*
 attributes: [46, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

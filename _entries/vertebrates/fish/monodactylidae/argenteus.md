@@ -1,9 +1,12 @@
 ---
-title: Silver moonies (Monodactylidae) 
+title: Silver moony
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Monodactylidae
+genus: Monodactylus
+species: argenteus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

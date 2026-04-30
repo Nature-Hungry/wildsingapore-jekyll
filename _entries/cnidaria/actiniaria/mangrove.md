@@ -1,9 +1,12 @@
 ---
-title: Petal-mouthed mangrove anemone (Stephensonactis ornata) 
+title: Petal-mouthed mangrove anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, anemone, stephensonactis, ornata, haliactiidae, actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [5, 6, 88]
+family: Haliactiidae
+genus: Stephensonactis
+species: ornata
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

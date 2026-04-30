@@ -1,9 +1,12 @@
 ---
-title: Honeycomb whipray (Himantura uarnak)
+title: Honeycomb whipray
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray, himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [118]
+family: Dasyatidae
+genus: Himantura
+species: uarnak
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

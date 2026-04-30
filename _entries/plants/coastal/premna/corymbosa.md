@@ -1,9 +1,12 @@
 ---
-title: Buas buas (Premna corymbosa) 
+title: Buas buas
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "premna, corymbosa, verbenacea, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 121]
+family: Verbenaceae
+genus: Premna
+species: corymbosa
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

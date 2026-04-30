@@ -1,9 +1,12 @@
 ---
-title: Black sea urchin (Temnopleurus toreumaticus)
+title: Black sea urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: Temnopleuridae
+genus: Temnopleurus
+species: toreumaticus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

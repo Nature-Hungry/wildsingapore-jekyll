@@ -1,9 +1,12 @@
 ---
-title: Pearly sea anemone (Paracondylactis sinensis)
+title: Pearly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sinensis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [5, 6, 88]
+family: Actiniidae
+genus: Paracondylactis
+species: sinensis*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

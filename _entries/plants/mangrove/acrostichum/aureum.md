@@ -1,9 +1,12 @@
 ---
-title: Piai raya (Acrostichum aureum) 
+title: "Piai raya "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, acrostichum, aureum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 96]
+family: Pteridaceae
+genus: ""
+species: Acrostichum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

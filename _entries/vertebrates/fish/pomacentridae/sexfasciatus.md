@@ -1,9 +1,12 @@
 ---
-title: Scissortail sergeant (Abudefduf sexfasciatus) 
+title: "Scissortail sergeant "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Pomacentridae
+genus: Abudefduf
+species: sexfasciatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

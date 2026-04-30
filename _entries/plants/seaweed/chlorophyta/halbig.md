@@ -1,8 +1,12 @@
 ---
-title: Big coin green seaweed (Halimeda)
+title: Big coin green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Halimedaceae
+genus: Halimeda
+species: sp.*
 attributes: [29, 30, 90]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

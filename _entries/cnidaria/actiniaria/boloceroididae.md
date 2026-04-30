@@ -1,9 +1,12 @@
 ---
-title: Swimming anemone (Boloceroides mcmurrichi)
+title: Swimming anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "swimming, anemone, boloceroides, mcmurrichi, boloceroididae, actiniaria, cnidria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [5, 6, 88]
+family: Boloceroididae
+genus: Boloceroides
+species: mcmurrichi
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

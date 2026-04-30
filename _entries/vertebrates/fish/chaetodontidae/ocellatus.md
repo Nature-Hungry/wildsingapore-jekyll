@@ -1,9 +1,12 @@
 ---
-title: Kite butterflyfish (Parachaetodon ocellatus)
+title: Kite butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kite, butterflyfish, butterfly, ocellate, coralfish, fish, parachaetodon, ocellatus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Chaetodontidae
+genus: Parachaetodon
+species: ocellatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Orbicular cardinalfish (Sphaeramia orbicularis)
+title: Orbicular cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Apogonidae
+genus: Sphaeramia
+species: orbicularis*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

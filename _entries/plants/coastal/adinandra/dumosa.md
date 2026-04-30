@@ -1,9 +1,12 @@
 ---
-title: Tiup-tiup (Adinandra dumosa) 
+title: "Tiup-tiup "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "adinandra, dumosa, theaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 109]
+family: Theaceae
+genus: Adinandra
+species: dumosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

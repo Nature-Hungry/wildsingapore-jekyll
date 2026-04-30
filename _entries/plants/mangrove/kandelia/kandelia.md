@@ -1,9 +1,12 @@
 ---
-title: Pisang pisang (Kandelia candel) 
+title: Pisang-pisang
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Rhizophoraceae
+genus: Kandelia
+species: candel
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

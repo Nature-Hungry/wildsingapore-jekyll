@@ -1,9 +1,12 @@
 ---
-title: Tiny carpet anemone shrimp (Periclimenes) 
+title: Tiny carpet anemone shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, carpet, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Palaemonidae
+genus: Periclimenes
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

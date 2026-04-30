@@ -1,9 +1,12 @@
 ---
-title: Petai jawa (Leucaena leucocephala) 
+title: Petai jawa
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leucaena, leucocephala, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 37]
+family: Fabaceae
+genus: Leucaena
+species: leucocephala
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

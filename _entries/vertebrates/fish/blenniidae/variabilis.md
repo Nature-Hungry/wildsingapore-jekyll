@@ -1,9 +1,12 @@
 ---
-title: Variable fang-blenny (Petroscirtes variabilis)
+title: Variable fang-blenny
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "variable, fang, blenny, fish, petroscirtes, variabilis, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Blennidae
+genus: Petroscirtes
+species: variabilis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

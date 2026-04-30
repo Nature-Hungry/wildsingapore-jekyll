@@ -1,9 +1,12 @@
 ---
-title: Big porcelain crab (Petrolisthes) 
+title: Big porcelain crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 122]
+family: Porcellanidae
+genus: Petrolisthes
+species: sp.*
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

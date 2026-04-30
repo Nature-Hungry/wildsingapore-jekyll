@@ -1,9 +1,12 @@
 ---
-title: Two-toned salmacis urchin (Salmacis bicolor)
+title: Two-toned salmacis urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: Temnopleuridae
+genus: Salmacis
+species: bicolor
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

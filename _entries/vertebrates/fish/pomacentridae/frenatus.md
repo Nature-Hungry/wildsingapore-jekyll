@@ -1,9 +1,12 @@
 ---
-title: Tomato anemonefish (Amphiprion frenatus)
+title: "Tomato anemonefish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tomato, anemonefish, anemone, fish, frenatus, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [79]
+family: Pomacentridae
+genus: Amphiprion
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

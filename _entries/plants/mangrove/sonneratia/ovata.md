@@ -1,9 +1,12 @@
 ---
-title: Gedabu (Sonneratia ovata) 
+title: Gedabu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gedabu, sonneratia, ovata, lythraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 61, 68]
+family: Lythraceae
+genus: Sonneratia
+species: ovata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

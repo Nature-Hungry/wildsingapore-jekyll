@@ -3,6 +3,10 @@ title: "Cyanobacteria "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+division: Cyanophyta
+family: ""
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

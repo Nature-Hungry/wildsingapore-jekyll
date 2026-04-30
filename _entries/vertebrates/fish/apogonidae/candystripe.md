@@ -1,9 +1,12 @@
 ---
-title: Candystripe cardinalfish (Ostorhinchus endekataenia)
+title: Candystripe cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "candy, stripe,cardinalfish, cardinal, fish, ostorhinchus, apogon, endekataenia, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Apogonidae
+genus: Ostorhinchus
+species: endekataenia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

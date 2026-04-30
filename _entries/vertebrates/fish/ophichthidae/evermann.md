@@ -1,9 +1,12 @@
 ---
-title: Evermann's snake-eels (Ophichthus lithinus) 
+title: Evermann's snake-eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "evermann, snake-eel, snake, eel, fish, ophichthus, lithinus, evermanni, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Ophichthidae
+genus: Ophichthus
+species: lithinus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

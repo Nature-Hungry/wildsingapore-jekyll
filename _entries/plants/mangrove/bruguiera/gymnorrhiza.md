@@ -1,9 +1,12 @@
 ---
-title: Tumu (Bruguiera gymnorrhiza) 
+title: Tumu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tumu, bruguiera, gymnorrhiza, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [32, 36, 68]
+family: Rhizophoraceae
+genus: Bruguiera
+species: gymnorrhiza
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

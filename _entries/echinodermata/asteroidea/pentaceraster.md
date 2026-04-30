@@ -1,9 +1,12 @@
 ---
-title: Pentaceraster sea star (Pentaceraster mammillatus)
+title: Pentaceraster sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea star, seastar, star, fish, starfish, pentaceraster, mammillatus, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Oreasteridae
+genus: Pentaceraster
+species: mammillatus
 ---
 
 

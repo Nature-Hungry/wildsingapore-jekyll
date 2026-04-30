@@ -1,9 +1,12 @@
 ---
-title: Bakau kurap (Rhizophora mucronata) 
+title: "Bakau kurap "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, mucronata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 68, 117]
+family: Rhizophoraceae
+genus: Rhizophora
+species: mucronata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Star limpet (Patelloida saccharinoides)
+title: "Star limpet "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [14, 33]
+family: Acmaeidae
+genus: Patelloida
+species: saccharinoides
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

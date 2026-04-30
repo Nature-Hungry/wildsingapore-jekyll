@@ -1,9 +1,12 @@
 ---
-title: Hammer oysters (Malleus)
+title: "Hammer oyster "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [2, 33, 73]
+family: Malleidae
+genus: Malleus
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

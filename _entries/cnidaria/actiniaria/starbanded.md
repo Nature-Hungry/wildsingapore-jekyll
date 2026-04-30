@@ -4,6 +4,9 @@ description: Fact sheet with photos on flora and fauna of Singapore's intertidal
 keywords: "star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 67, 88]
+family: ""
+genus: awaiting
+species: identification*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Copperband butterflyfish (Chelmon rostratus)
+title: Copperband butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "copperband, copper, band, banded, butterflyfish, butterfly, beaked, coralfish, fish, chelmon, rostratus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Chaetodontidae
+genus: Chelmon
+species: rostratus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

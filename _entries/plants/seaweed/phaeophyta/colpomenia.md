@@ -1,8 +1,12 @@
 ---
-title: Puffy brown seaweeds (Colpomenia sinuosa) 
+title: Puffy brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "puffy. brown, seaweed, weed, colpomenia, sinuosa, scytosiphonaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Scytosiphonaceae
+genus: Colpomenia
+species: sinuosa*
 attributes: [41, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

@@ -1,9 +1,12 @@
 ---
-title: Tiny spider crabs (Majidae) 
+title: Tiny spider crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
 layout: default
 attributes: [38, 106]
+family: ""
+genus: awaiting
+species: identification*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

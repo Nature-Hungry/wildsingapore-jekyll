@@ -1,9 +1,12 @@
 ---
-title: Estuarine seahorse (Hippocampus kuda)
+title: Estuarine seahorse
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "spotted, estuarine, seahorse, horse, hippocampus, kuda, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 74]
+family: Syngnathidae
+genus: Hippocampus
+species: kuda
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

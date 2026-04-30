@@ -1,9 +1,12 @@
 ---
-title: Groupers (Serranidae) on Singapore shores
+title: Groupers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Serranidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

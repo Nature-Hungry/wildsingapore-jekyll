@@ -1,9 +1,12 @@
 ---
-title: Banded archerfish (Toxotes jaculatrix)
+title: Banded archerfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Toxotidae
+genus: Toxotes
+species: jaculatrix
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

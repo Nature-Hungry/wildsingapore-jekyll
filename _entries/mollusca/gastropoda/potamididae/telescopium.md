@@ -1,9 +1,12 @@
 ---
-title: Rodong snail (Telescopium telescopium)
+title: Rodong snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 64, 71, 111, 123, 125]
+family: Potamididae
+genus: Telescopium
+species: telescopium
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

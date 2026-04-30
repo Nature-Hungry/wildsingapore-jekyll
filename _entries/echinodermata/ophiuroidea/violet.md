@@ -1,9 +1,12 @@
 ---
-title: Violet brittle star (Macrophiothrix nereidina)
+title: "Violet brittle star "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "violet, brittle, star, brittlestar, macrophiothrix, nereidina, ophiotrichidae, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 31, 92]
+family: Ophiotrichidae
+genus: Macrophiothrix
+species: nereidina*
 ---
 
 

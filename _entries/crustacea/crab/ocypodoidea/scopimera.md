@@ -1,9 +1,12 @@
 ---
-title: Sand bubbler crab (Scopimera and Dotilla spp.)
+title: Sand bubbler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, bubbler, crab, scopimera, dotilla, dotillidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106, 112]
+family: Dotillidae
+genus: Scopimera
+species: and
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

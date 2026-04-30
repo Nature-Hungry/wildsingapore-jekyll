@@ -1,9 +1,12 @@
 ---
-title: Orange-spotted grouper (Epinephelus coioides)
+title: Orange-spotted grouper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Serranidae
+genus: Epinephelus
+species: coioides
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Tiny maretia heart urchin (Maretia planulata)
+title: Tiny maretia heart urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: Maretiidae
+genus: Maretia
+species: planulata*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

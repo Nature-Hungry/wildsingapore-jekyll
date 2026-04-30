@@ -1,5 +1,5 @@
 ---
-title: Hairy spoon seagrasses (Halophila decipiens) 
+title: Hairy spoon seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -8,8 +8,8 @@ englishname: Hairy spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: decipiens
-summary: Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging in pairs. Minute serrations on edges and minute hairs on both sides of the leaves. Seen in deeper waters in our Southern islands.
-coverimg: https://live.staticflickr.com/3788/9247400430_866983b68c.jpg
+summary: "Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging in pairs. Minute serrations on edges and minute hairs on both sides of the leaves. Seen in deeper waters in our Southern islands."
+coverimg: "https://live.staticflickr.com/3788/9247400430_866983b68c.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

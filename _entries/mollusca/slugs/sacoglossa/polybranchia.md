@@ -1,9 +1,12 @@
 ---
-title: Bushy slug (Polybranchia orientalis)
+title: Bushy slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug, sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90]
+family: Caliphyllidae
+genus: Polybranchia
+species: orientalis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

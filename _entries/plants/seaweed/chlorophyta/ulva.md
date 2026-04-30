@@ -1,8 +1,12 @@
 ---
-title: Sea lettuce (Ulva) 
+title: "Sea lettuce "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Ulvaceae
+genus: Ulva
+species: ""
 attributes: [97, 99]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

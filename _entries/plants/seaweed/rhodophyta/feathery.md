@@ -1,8 +1,12 @@
 ---
-title: Feathery red seaweed (Spyridia filamentosa) 
+title: Feathery red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Spyridiaceae
+genus: Spyridia
+species: filamentosa*
 attributes: [97, 98, 114]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

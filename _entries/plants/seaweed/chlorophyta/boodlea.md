@@ -1,8 +1,12 @@
 ---
-title: Fuzzy green seaweed (Boodlea)
+title: Fuzzy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "boodlea, boodleaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Boodleaceae
+genus: ""
+species: Boodlea
 attributes: [46, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

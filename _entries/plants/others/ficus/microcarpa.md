@@ -1,9 +1,12 @@
 ---
-title: Jejawi or Malayan banyan (Ficus microcarpa) 
+title: "Jejawi "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fig, malayan, banyan, ficus, microcarpa, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 17, 20, 21]
+family: Moraceae
+genus: Ficus
+species: microcarpa
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

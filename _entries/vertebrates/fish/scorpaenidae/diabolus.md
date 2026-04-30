@@ -1,9 +1,12 @@
 ---
-title: False stonefish (Scorpaenopsis diabolus)
+title: False stonefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Scorpaenidae
+genus: Scorpaenopsis
+species: diabolus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

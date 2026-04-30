@@ -1,9 +1,12 @@
 ---
-title: Haeckel's anemone (Actinostephanus haeckeli)
+title: Haeckel's anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "haeckel, anemone, actinostephanus, haeckeli, actinodendridae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Actinodendridae
+genus: Actinostephanus
+species: haeckeli
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

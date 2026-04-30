@@ -1,9 +1,12 @@
 ---
-title: Raffles pitcher plant (Nepenthes rafflesiana) 
+title: Raffles' pitcher plant
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pitcher, pitcherplant, nepenthes, rafflesiana, nepenthaceae, climber, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Nepenthaceae
+genus: Nepenthes
+species: rafflesiana
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Blue-spotted mudskipper (Boleophthalmus boddarti)
+title: Blue-spotted mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Boleophthalmus
+species: boddarti
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

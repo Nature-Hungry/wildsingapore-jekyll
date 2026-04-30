@@ -1,8 +1,12 @@
 ---
-title: Codium green seaweed (Codium) 
+title: Codium green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Codiaceae
+genus: ""
+species: Codium
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

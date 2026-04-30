@@ -1,8 +1,12 @@
 ---
-title: Halymenia red seaweeds (Halymenia) 
+title: "Halymenia red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Gracilariacea
+genus: Halymenia
+species: sp.*
 attributes: [97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

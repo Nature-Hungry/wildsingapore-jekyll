@@ -1,9 +1,12 @@
 ---
-title: Glass anemone (Dofleinia armata) 
+title: Glass anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "glass, anemone, dofleinia, armata, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Actiniidae
+genus: Dofleinia
+species: armata
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

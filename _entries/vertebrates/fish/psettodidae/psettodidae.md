@@ -1,9 +1,12 @@
 ---
-title: Halibut (Psettodidae)
+title: "Halibuts "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Psettodidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

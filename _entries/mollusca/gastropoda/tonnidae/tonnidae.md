@@ -1,9 +1,12 @@
 ---
-title: Tun shell snail (Tonnidae)
+title: Tun shell snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 64, 71, 111, 123, 125]
+family: Tonnidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

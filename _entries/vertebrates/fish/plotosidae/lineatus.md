@@ -1,9 +1,12 @@
 ---
-title: Striped eeltail catfish (Plotosus lineatus)
+title: Striped eeltail catfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "striped, catfish, cat, fish, siluriformes, plotosidae, plotosus, lineatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Plotosidae
+genus: Plotosus
+species: lineatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

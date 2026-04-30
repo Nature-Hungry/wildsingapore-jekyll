@@ -1,9 +1,12 @@
 ---
-title: Yellow cuskeel (Dinematichthys iluocoeteoides)
+title: "Yellow cuskeel "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, cusk, eel, cuskeel, dinematichthys, iluocoeteoides, bythitidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Bythitidae
+genus: Dinematichthys
+species: iluocoeteoides
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

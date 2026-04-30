@@ -1,9 +1,12 @@
 ---
-title: Senduduk (Melastoma malabathricum) 
+title: Senduduk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "Senduduk, melastoma, malabathricum, melastomaceae, plant, shrub, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 121]
+family: Melastomaceae
+genus: Melastoma
+species: malabathricum
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

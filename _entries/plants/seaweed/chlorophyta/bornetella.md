@@ -1,8 +1,12 @@
 ---
-title: Green sea sausage seaweed (Bornetella oligospora) 
+title: Green sea sausage seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Dasycladaceae
+genus: Bornetella
+species: oligospora
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

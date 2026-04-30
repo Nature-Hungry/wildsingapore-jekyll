@@ -1,9 +1,12 @@
 ---
-title: False scorpionfish (Centrogenys vaigiensis)
+title: False scorpionfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, scorpionfish, scorpion, fish, centrogenys, vaigiensis, centrogenyidae, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Centrogenyidae
+genus: Centrogenys
+species: vaigiensis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

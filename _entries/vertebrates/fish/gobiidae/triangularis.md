@@ -1,9 +1,12 @@
 ---
-title: Brown shore goby (Drombus triangularis)
+title: Brown shore goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, shore, goby, drombus, triangularis, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Gobiidae
+genus: Drombus
+species: triangularis*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

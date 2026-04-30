@@ -1,9 +1,12 @@
 ---
-title: Maiden's jealousy (Tristellateia australasiae) 
+title: Maiden's jealousy
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "maiden, jealousy, tristellateia, australasiae, malpighiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Malpighiaceae
+genus: Tristellateia
+species: australasiae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

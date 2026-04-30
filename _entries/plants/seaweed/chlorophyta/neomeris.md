@@ -1,8 +1,12 @@
 ---
-title: Taugeh seaweed (Neomeris)
+title: 'Taugeh' seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Dasycladaceae
+genus: Neomeris
+species: ""
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

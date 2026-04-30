@@ -1,9 +1,12 @@
 ---
-title: Kuku tupai (Caesalpinia crista) 
+title: "Kuku tupai "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caesalpinia, crista, fabacea, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Fabacea
+genus: Caesalpinia
+species: crista
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

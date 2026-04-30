@@ -1,8 +1,12 @@
 ---
-title: Turf green seaweed (Enteromorpha) 
+title: Turf green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Ulvaceae
+genus: Enteromorpha
+species: ""
 attributes: [97, 99]
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)

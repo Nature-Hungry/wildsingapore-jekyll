@@ -1,9 +1,12 @@
 ---
-title: Estuarine moray eel (Gymnothorax tile)
+title: Estuarine moray eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "estuarine, moray, eel, fish, gymnothorax, tile, muraenidae , field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Muraenidae
+genus: Gymnothorax
+species: tile
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

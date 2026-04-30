@@ -1,9 +1,12 @@
 ---
-title: Pink-speckled shrimp-goby (Cryptocentrus leptocephalus)
+title: Pink-speckled shrimp-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, speckle, slender, lined, shrimp, goby, cryptocentrus, leptocephalus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [79]
+family: Gobiidae
+genus: Cryptocentrus
+species: leptocephalus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

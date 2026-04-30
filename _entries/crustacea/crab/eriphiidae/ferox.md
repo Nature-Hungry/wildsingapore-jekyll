@@ -1,9 +1,12 @@
 ---
-title: Ferocious reef crab (Eriphia ferox) 
+title: "Ferocious reef "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, eyed, reef, crab, eriphia, smithi, ferox, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 69, 106, 112]
+family: Eriphiidae
+genus: Eriphia
+species: ferox
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

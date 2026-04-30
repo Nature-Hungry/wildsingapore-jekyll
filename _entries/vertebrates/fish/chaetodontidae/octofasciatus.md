@@ -1,9 +1,12 @@
 ---
-title: Eightband butterflyfish (Chaetodon octofasciatus)
+title: Eightband butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "eight, band, banded, kite, butterflyfish, butterfly, fish, chaetodon, octofasciatus chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Chaetodontidae
+genus: Chaetodon
+species: octofasciatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

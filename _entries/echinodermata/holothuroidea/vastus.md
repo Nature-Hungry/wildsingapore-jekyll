@@ -1,9 +1,12 @@
 ---
-title: Zebrafish sea cucumbers (Stichopus vastus)
+title: Zebrafish sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Stichopodidae
+genus: Stichopus
+species: vastus
 ---
 
 

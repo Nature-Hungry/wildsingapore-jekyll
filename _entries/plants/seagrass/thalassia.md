@@ -1,5 +1,5 @@
 ---
-title: Sickle seagrass (Thalassia hemprichii) 
+title: Sickle seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sickle, grass, thalassia, hemprichii, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -8,7 +8,7 @@ englishname: Sickle seagrass
 family: Hydrocharitaceae
 genus: Thalassia
 species: hemprichii
-summary: Shorter and broader ribbon-like leaves that are curved into strap sickle shapes (4-11mm wide and 10-40cm long). Rhizomes thick. Small patch on Chek Jawa, larger meadows on Labrador, scattered clumps on some of our other Southern shores.
+summary: "Shorter and broader ribbon-like leaves that are curved into strap sickle shapes (4-11mm wide and 10-40cm long). Rhizomes thick. Small patch on Chek Jawa, larger meadows on Labrador, scattered clumps on some of our other Southern shores."
 ---
 
 

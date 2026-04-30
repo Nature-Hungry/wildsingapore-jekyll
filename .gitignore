@@ -25,3 +25,5 @@ tmp/
 # Ignore any backups
 *.bak
 *.swp
+
+__pycache__

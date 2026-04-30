@@ -1,9 +1,12 @@
 ---
-title: Seagrass filefishes (Acreichthys tomentosus) 
+title: Seagrass filefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, filefish, file, fish, acreichthys, tomentosus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Monacanthidae
+genus: Acreichthys
+species: tomentosus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

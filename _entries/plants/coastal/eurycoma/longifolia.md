@@ -1,9 +1,12 @@
 ---
-title: Tongkat Ali (Eurycoma longifolia) 
+title: "Tongkat Ali "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tongkat, ali, eurycoma, longifolia, simaroubaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 121]
+family: Simaroubaceae
+genus: Eurycoma
+species: longifolia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

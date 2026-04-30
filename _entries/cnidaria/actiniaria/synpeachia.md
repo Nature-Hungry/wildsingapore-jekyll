@@ -1,9 +1,12 @@
 ---
-title: Brown peachia anemone (Synpeachia temasek) 
+title: Brown peachia anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 67, 88]
+family: Haloclavidae
+genus: Synpeachia
+species: temasek
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Sand dollars (Clypeasteroida) on Singapore shores
+title: "Sand dollars "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33]
+family: Clypeasteridae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

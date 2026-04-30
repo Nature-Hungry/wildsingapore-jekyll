@@ -1,9 +1,12 @@
 ---
-title: Herrmann's sea cucumber (Stichopus herrmanni)
+title: Herrmann's sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Stichopodidae
+genus: Stichopus
+species: herrmanni
 ---
 
 

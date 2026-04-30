@@ -1,8 +1,12 @@
 ---
-title: Mermaid's fan seaweed (Padina) 
+title: Mermaid's fan seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mermaid, fan, ear, brown, seaweed, weed, padina, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Dictyotaceae
+genus: Padina
+species: ""
 attributes: [41, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

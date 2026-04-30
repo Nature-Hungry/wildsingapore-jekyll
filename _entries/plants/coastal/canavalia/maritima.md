@@ -1,9 +1,12 @@
 ---
-title: Sea bean (Canavalia maritima) 
+title: "Sea bean "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "canavalia, maritima, fabaceae, leguminosae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 39]
+family: Fabaceae
+genus: Canavalia
+species: maritima
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Stripe-nosed halfbeak (Zenarchopterus buffonis)
+title: Stripe-nosed   halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Zenarchopteridae
+genus: Zenarchopterus
+species: buffonis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

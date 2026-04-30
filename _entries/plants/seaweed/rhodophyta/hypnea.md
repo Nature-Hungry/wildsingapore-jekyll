@@ -1,8 +1,12 @@
 ---
-title: Prickly red seaweed (Hypnea)
+title: "Prickly red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "prickly, red, seaweed, weed, algae, hypnea, cystocloniaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Cystocloniaceae
+genus: Hypnea
+species: sp.
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

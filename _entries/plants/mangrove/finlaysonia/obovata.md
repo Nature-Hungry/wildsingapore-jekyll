@@ -1,9 +1,12 @@
 ---
-title: Kalak kambing (Finlaysonia obovata) 
+title: "Kalak kambing "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "finlaysonia, obovata, apocynaceae, asclepiadaceae, climber, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Apocynaceae
+genus: Finlaysonia
+species: obovata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

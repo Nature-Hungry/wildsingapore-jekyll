@@ -1,8 +1,12 @@
 ---
-title: Pimply green seaweed (Dictyosphaeria) 
+title: Pimply green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pimply, seaweed, weed, green, dictyosphaeria, siphonocladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Siphonocladaceae
+genus: Dictyosphaeria
+species: ""
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

@@ -1,9 +1,12 @@
 ---
-title: Simpoh air (Dillenia suffruticosa) 
+title: "Simpoh air "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "simpoh, air, dillenia, suffruticosa, dilleniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 62]
+family: Dilleniaceae
+genus: Dillenia
+species: suffruticosa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

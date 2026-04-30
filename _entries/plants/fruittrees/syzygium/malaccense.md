@@ -1,9 +1,12 @@
 ---
-title: Jambu bol (Syzygium malaccense) 
+title: "Jambu bol "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jambu, bol, syzygium, malaccense, malaccense, myrtaceae, shrub, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Myrtaceae
+genus: Syzygium
+species: malaccense
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

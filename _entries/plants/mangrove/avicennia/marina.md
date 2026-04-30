@@ -1,9 +1,12 @@
 ---
-title: Api-api jambu (Avicennia marina) 
+title: "Api-api jambu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "api, jambu, avicennia, marina, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 68, 83]
+family: Acanthaceae
+genus: Avicennia
+species: marina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

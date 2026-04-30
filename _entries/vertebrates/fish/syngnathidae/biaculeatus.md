@@ -1,9 +1,12 @@
 ---
-title: Alligator pipefishes (Syngnathoides biaculeatus)
+title: Alligator pipefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alligator, double, end, ended, pipefish, pipe, fish, syngnathoides, biaculeatus, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Syngnathidae
+genus: Syngnathoides
+species: biaculeatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

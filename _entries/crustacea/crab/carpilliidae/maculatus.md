@@ -1,9 +1,12 @@
 ---
-title: Spotted reef crabs (Carpilius maculatus) 
+title: Spotted reef crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Carpiliidae
+genus: Carpilius
+species: maculatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

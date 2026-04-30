@@ -1,9 +1,12 @@
 ---
-title: Three-spot dascyllus (Dascyllus trimaculatus)
+title: "Three-spot dascyllus "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [79]
+family: Pomacentridae
+genus: Dascyllus
+species: trimaculatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

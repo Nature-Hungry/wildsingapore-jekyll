@@ -1,9 +1,12 @@
 ---
-title: Orange sand star (Astropecten)
+title: Orange sand star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Astropectinidae
+genus: Astropecten
+species: ""
 ---
 
 

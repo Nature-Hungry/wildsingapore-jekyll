@@ -1,9 +1,12 @@
 ---
-title: India-rubber tree (Ficus elastica) 
+title: "India-rubber tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "india, rubber, fig, ficus, elastica, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 17, 20, 21]
+family: Moraceae
+genus: Ficus
+species: elastica
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Papaya (Carica papaya) of Singapore
+title: "Papaya tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "carica, papaya, caricaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Caricaceae
+genus: Carica
+species: papaya
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

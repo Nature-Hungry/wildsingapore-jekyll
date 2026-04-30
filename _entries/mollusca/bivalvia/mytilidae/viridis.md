@@ -1,9 +1,12 @@
 ---
-title: Green mussel (Perna viridis)
+title: Green mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [2, 33, 59]
+family: Mytilidae
+genus: Perna
+species: viridis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

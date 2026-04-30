@@ -1,9 +1,12 @@
 ---
-title: Cowries (Cypraeidae) on Singapore shores
+title: Cowries
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [90]
+family: Cypraeidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

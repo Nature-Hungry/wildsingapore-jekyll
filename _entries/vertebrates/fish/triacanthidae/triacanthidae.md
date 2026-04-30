@@ -1,9 +1,12 @@
 ---
-title: Tripodfishes (Triancanthidae) on Singapore shores
+title: Tripodfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Triacanthidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

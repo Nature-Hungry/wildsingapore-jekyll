@@ -1,9 +1,12 @@
 ---
-title: Paper bubble snail (Hydatina)
+title: "Paper bubble snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90, 126]
+family: Aplustridae
+genus: Hydatina
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Flower crab (Portunus pelagicus)
+title: Flower crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112, 119]
+family: Portunidae
+genus: Portunus
+species: pelagicus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Pimply phyllid nudibranch (Phyllidiella pustulosa)
+title: Pimply phyllid nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pustulose, phyllid, phyllidiella, phyllidia, pustulosa, phyllidiidae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [28, 90]
+family: Phyllidiidae
+genus: ""
+species: Phyllidiella
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

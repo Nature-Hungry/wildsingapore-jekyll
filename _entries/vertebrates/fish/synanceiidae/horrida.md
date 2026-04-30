@@ -1,9 +1,12 @@
 ---
-title: Hollow-cheeked stonefish (Synanceia horrida)
+title: Hollow-cheeked stonefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [85]
+family: Synanceiidae
+genus: Synanceia
+species: horrida
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

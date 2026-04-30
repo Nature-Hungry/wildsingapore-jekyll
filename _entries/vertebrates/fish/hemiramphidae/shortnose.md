@@ -1,9 +1,12 @@
 ---
-title: Quoy's halfbeak (Hyporhamphus quoyi)
+title: Quoy's halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "quoy, short, nose, halfbeak, half, beak, hemiramphidae, hyporhamphus, quoyi, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Hemiramphidae
+genus: Hyporhamphus
+species: quoyi*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

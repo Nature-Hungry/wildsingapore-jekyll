@@ -1,8 +1,12 @@
 ---
-title: Agar agar red seaweeds (Gracilaria) 
+title: "Agar-agar red seaweeds "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Gracilariaceae
+genus: Gracilaria
+species: sp.*
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

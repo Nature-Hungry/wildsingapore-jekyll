@@ -1,8 +1,12 @@
 ---
-title: Clustered fan green seaweeds (Avrainvillea lacerata) 
+title: Clustered fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "clustered, stiff, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Udoteaceae
+genus: Avrainvillea
+species: lacerata
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

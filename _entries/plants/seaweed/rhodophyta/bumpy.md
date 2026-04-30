@@ -1,8 +1,12 @@
 ---
-title: Bumpy finger seaweed (Eucheuma or Kappaphycus)
+title: Bumpy finger seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Solieriaceae
+genus: Eucheuma
+species: sp.
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

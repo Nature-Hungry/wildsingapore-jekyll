@@ -1,9 +1,12 @@
 ---
-title: Peanut worms (Sipuncula) 
+title: Peanut worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [92]
+family: Phascolosomatidae
+genus: ""
+species: ""
 ---
 
 

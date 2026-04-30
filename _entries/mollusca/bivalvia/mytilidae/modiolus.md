@@ -1,9 +1,12 @@
 ---
-title: "Horse mussels (Modiolus sp,) "
+title: Horse mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [2, 33, 107]
+family: Mytilidae
+genus: Modiolus
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

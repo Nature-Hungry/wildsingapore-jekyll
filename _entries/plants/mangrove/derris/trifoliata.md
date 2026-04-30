@@ -1,9 +1,12 @@
 ---
-title: Common derris (Derris trifoliata) 
+title: "Common derris "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "derris, trifoliata, fabaceae, leguminosae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Fabaceae
+genus: Derris
+species: trifoliata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

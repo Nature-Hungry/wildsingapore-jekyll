@@ -1,9 +1,12 @@
 ---
-title: Eye-spotted sea cucumber (Stichopus ocellatus)
+title: Eye-spotted sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Stichopodidae
+genus: Stichopus
+species: ocellatus
 ---
 
 

@@ -1,9 +1,12 @@
 ---
-title: Emerald slug (Stiliger smaragdinus)
+title: Emerald slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "emerald, slug, stiliger, smaragdinus, limapontidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [26, 90]
+family: Elysiidae
+genus: Stiliger
+species: smaragdinus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

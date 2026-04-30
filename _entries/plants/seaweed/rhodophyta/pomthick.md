@@ -1,8 +1,12 @@
 ---
-title: Thick crunchy pom pom red seaweed (Galaxauraceae) 
+title: "Thick   crunchy pom-pom red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Galaxauraceae
+genus: ""
+species: ""
 attributes: [52, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

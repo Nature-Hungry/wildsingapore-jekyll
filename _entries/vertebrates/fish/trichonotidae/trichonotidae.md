@@ -1,9 +1,12 @@
 ---
-title: Sand-divers (Trichonotidae) 
+title: Sand-divers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Trichonotidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Tendril slug (Lobiger viridis)
+title: Tendril slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90, 126]
+family: Oxynoidae
+genus: Lobiger
+species: viridis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

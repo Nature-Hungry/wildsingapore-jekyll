@@ -1,9 +1,12 @@
 ---
-title: Cryptic sea star (Cryptasterina)
+title: Cryptic sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea star, seastar, starfish, star, fish, crypasterina, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [91]
+family: Asterinidae
+genus: Cryptasterina
+species: ""
 ---
 
 

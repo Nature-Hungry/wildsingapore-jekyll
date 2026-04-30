@@ -1,9 +1,12 @@
 ---
-title: Keeled heart urchin (Brissus latecarinatus)
+title: Keeled heart urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oval, heart, urchin, brissus, latecarinatus, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: ""
+genus: Brissus
+species: latecarinatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

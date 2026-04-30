@@ -1,9 +1,12 @@
 ---
-title: Gelang laut (Sesuvium portulacastrum) 
+title: "Gelang laut "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sesuvium, portulacastrum, aizoaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 39]
+family: Aizoaceae
+genus: Sesuvium
+species: portulacastrum
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

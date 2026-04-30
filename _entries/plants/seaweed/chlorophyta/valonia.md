@@ -1,8 +1,12 @@
 ---
-title: Beaded cushion green seaweeds (Valonia) 
+title: Beaded cushion green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Valoniaceae
+genus: ""
+species: Valonia
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

@@ -1,8 +1,12 @@
 ---
-title: Holey sponge red seaweeds (Ceratodictyon spongiosum) 
+title: Holey sponge seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae, rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Lomentariaceae
+genus: Ceratodictyon
+species: spongiosum
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

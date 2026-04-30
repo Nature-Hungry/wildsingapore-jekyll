@@ -1,9 +1,12 @@
 ---
-title: Small-mouth cerianthid (Ceriantharia) 
+title: Small-mouth cerianthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [4, 6, 88]
+family: ""
+genus: Awaiting
+species: identification*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

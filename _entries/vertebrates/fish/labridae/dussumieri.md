@@ -1,9 +1,12 @@
 ---
-title: Diamond tuskfish (Halichoeres nigrescens)
+title: Diamond tuskfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "diamond, wrasse, tuskfish, fish, halichoeres, nigrescens, dussumieri, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Labridae
+genus: Halichoeres
+species: nigrescens
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

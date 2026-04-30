@@ -1,9 +1,12 @@
 ---
-title: Star-fruit trees (Averrhoa carambola) of Singapore
+title: Star-fruit
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "star, fruit, starfruit, belimbing, averrhoa, carambola, oxalidaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Oxalidaceae
+genus: Averrhoa
+species: carambola
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

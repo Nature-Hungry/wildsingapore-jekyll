@@ -1,9 +1,12 @@
 ---
-title: Pelir musang (Fagraea auriculata) 
+title: "Pelir musang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pelir, musang, fagraea, auriculata, gentianaceae, loganiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 62]
+family: Gentianaceae
+genus: Fagraea
+species: auriculata
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

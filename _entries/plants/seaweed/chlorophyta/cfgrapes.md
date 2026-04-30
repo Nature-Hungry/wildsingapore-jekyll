@@ -3,6 +3,10 @@ title: "How to tell apart seaweeds that look like grapes "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "caulerpa, lentillifera, racemosa, green, seaweed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+division: Chlorophyta
+family: ""
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

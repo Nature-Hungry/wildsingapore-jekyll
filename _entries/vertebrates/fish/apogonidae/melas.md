@@ -1,9 +1,12 @@
 ---
-title: Black cardinalfish (Apogonichthyoides melas)
+title: Black cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, cardinalfish, cardinal, fish, apogonichthyoides, apogon, melas, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Apogonidae
+genus: Apogonichthyoides
+species: melas
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

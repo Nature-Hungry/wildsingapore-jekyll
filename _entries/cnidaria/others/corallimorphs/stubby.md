@@ -1,9 +1,12 @@
 ---
-title: Stubby corallimorph (Ricordea yuma) 
+title: Stubby corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 102]
+family: Ricordeidae
+genus: Ricordea
+species: yuma
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

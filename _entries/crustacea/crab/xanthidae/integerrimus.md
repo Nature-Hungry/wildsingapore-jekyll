@@ -1,9 +1,12 @@
 ---
-title: Red egg crab (Atergatis integerrimus)
+title: "Red egg crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, egg, xanthid, crab, atergatis, integerrimus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Xanthidae
+genus: Atergatis
+species: integerrimus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

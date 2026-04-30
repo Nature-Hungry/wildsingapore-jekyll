@@ -1,9 +1,12 @@
 ---
-title: Gong-gong or Pearl conch snail (Strombus turturella)
+title: Gong-gong or Pearl conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gong, pearl, spider, conch, strombus, turturella, canarium, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 64, 71, 111, 123]
+family: Strombidae
+genus: Strombus
+species: turturella
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

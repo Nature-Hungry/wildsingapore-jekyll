@@ -1,9 +1,12 @@
 ---
-title: Razorfishes (Centriscidae) on Singapore shores
+title: Razorfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "razorfish, razor, fish, aeoliscus, strigatus, centriscidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Centriscidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

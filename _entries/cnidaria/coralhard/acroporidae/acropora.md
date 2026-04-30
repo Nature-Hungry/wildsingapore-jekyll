@@ -1,9 +1,12 @@
 ---
-title: Acropora corals (Acropora sp.) 
+title: Acropora corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106]
+family: Acroporidae
+genus: Acropora
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

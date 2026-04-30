@@ -1,8 +1,12 @@
 ---
-title: Pimply red seaweeds (Acrocystis nana) 
+title: "Pimply red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Rhodomelaceae
+genus: Acrocystis
+species: nana*
 attributes: [52, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

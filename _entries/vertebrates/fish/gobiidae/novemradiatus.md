@@ -1,9 +1,12 @@
 ---
-title: Pearse's mudskippers (Periophthalmus novemradiatus) 
+title: Pearse's mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pearse, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, novemradiatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Periophthalmus
+species: novemradiatus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

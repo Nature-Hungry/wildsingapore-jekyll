@@ -1,9 +1,12 @@
 ---
-title: Yellow flame (Peltophorum pterocarpum) 
+title: "Yellow flame "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, flame, yellowflame, peltophorum, pterocarpum, fabaceae, leguminosae, caesalpiniaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 37]
+family: Fabaceae
+genus: Peltophorum
+species: pterocarpum
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

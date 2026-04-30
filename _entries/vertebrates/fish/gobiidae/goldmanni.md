@@ -1,9 +1,12 @@
 ---
-title: Black-spotted lagoon-goby (Istigobius goldmanni)
+title: Black-spotted lagoon-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, spotted, lagoon, goby, istigobius, goldmanni, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Gobiidae
+genus: Istigobius
+species: goldmanni*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

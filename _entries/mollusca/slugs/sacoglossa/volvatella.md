@@ -1,9 +1,12 @@
 ---
-title: Volvatella slug (Volvatella vigourouxi)
+title: Volvatella slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, volvatella, vigourouxi, volvatellidae, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90, 126]
+family: Volvatellidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

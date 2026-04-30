@@ -1,9 +1,12 @@
 ---
-title: Sea apple sea cucumber (Pseudocolochirus violaceus)
+title: Sea apple sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "apple, seacucumber, cucumber, pseudocolochirus, axiologus, violaceus, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [89]
+family: Cucumariidae
+genus: Pseudocolochirus
+species: violaceus
 ---
 
 

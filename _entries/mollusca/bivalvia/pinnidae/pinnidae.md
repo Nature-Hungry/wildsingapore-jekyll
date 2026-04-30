@@ -1,9 +1,12 @@
 ---
-title: Fan clams (Pinnidae) on Singapore shores
+title: Fan clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33, 59]
+family: Pinnidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

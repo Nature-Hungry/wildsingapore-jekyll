@@ -1,9 +1,12 @@
 ---
-title: Halimeda slug (Elysia pusilla)
+title: Halimeda slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [29, 30, 90]
+family: Plakobranchidae
+genus: Elysia
+species: pusilla
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

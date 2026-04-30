@@ -1,9 +1,12 @@
 ---
-title: Mangrove bumblebee goby (Brachygobius kabiliensis)
+title: Mangrove bumblebee goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, bumblebee, bumble, bee, goby, brachygobius, kabiliensis, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Gobiidae
+genus: Brachygobius
+species: kabiliensis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

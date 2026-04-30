@@ -1,9 +1,12 @@
 ---
-title: Purple-tip frilly anemone (Phymanthus sp.) 
+title: Purple-tip frilly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 51, 88]
+family: Phymantidae
+genus: Phymanthus
+species: sp.*
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

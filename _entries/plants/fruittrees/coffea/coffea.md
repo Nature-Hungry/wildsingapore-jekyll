@@ -1,9 +1,12 @@
 ---
-title: Coffee (Coffea sp.) of Singapore
+title: "Coffee "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coffee, coffea, rubiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Rubiaceae
+genus: Coffea
+species: sp.
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Maroon stone crab (Menippe rumphii) 
+title: "Maroon stone "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Menippidae
+genus: Menippe
+species: rumphii
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

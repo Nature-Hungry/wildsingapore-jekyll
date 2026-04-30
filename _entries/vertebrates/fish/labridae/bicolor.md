@@ -1,9 +1,12 @@
 ---
-title: Brown-stripe wrasse (Halichoeres bicolor)
+title: Brown-stripe wrasse
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, stripe, wrasse, fish, halichoeres, bicolor, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Labridae
+genus: Halichoeres
+species: bicolor
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

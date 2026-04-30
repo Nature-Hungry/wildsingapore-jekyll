@@ -1,9 +1,12 @@
 ---
-title: Giant mudskipper (Periophthalmodon schlosseri)
+title: Giant mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, mudskipper, mud, skipper, fish, periophthalmodon, schlosseri, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Periophthalmodon
+species: schlosseri
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

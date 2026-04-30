@@ -1,9 +1,12 @@
 ---
-title: Heart cockle (Corculum cardissa)
+title: Heart cockle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33, 73]
+family: Cardiidae
+genus: Corculum
+species: cardissa
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

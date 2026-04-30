@@ -1,9 +1,12 @@
 ---
-title: Portia tree (Thespesia populnea) 
+title: " Baru-baru "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 121]
+family: Malvaceae
+genus: Thespesia
+species: populnea
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Misi or Sea gutta (Pouteria obovata) 
+title: "Misi "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "misi, gutta, pouteria, obovata, sapotaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 109]
+family: Sapotaceae
+genus: Pouteria
+species: obovata
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

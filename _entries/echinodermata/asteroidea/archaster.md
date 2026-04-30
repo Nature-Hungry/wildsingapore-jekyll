@@ -1,9 +1,12 @@
 ---
-title: Common sea star (Archaster typicus)
+title: Common sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "common, sea star, seastar, starfish, star, fish, archaster, typicus, archasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Archasteridae
+genus: Archaster
+species: typicus
 ---
 
 

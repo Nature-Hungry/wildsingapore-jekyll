@@ -45,7 +45,19 @@ def parse_frontmatter(frontmatter):
         if ':' in line:
             key, value = line.split(':', 1)
             key = key.strip()
-            value = value.strip().strip('"\'')
+            value = value.strip()
+            if value.startswith('"') and value.endswith('"'):
+                value = value[1:-1]
+            elif value.startswith("'") and value.endswith("'"):
+                value = value[1:-1]
+            elif value.startswith('[') and value.endswith(']'):
+                inner = value[1:-1].strip()
+                if inner:
+                    data[key] = [item.strip() for item in inner.split(',')]
+                    continue
+                else:
+                    data[key] = []
+                    continue
             data[key] = value
     return data
 
@@ -53,26 +65,21 @@ def frontmatter_to_string(data):
     """Convert frontmatter dictionary back to YAML string"""
     lines = []
     for key, value in data.items():
-        if key != 'attributes':  # Will add attributes at the end
-            # Quote values that contain special characters
-            if any(c in str(value) for c in '[]{}:,'):
-                lines.append(f'{key}: "{value}"')
-            else:
-                lines.append(f'{key}: {value}')
-    
-    # Add attributes field if present
-    if 'attributes' in data:
-        attrs = data['attributes']
-        if isinstance(attrs, list):
-            attrs_str = ', '.join(str(a) for a in attrs)
-            lines.append(f'attributes: [{attrs_str}]')
+        if isinstance(value, list):
+            attrs_str = ', '.join(str(a) for a in value)
+            lines.append(f'{key}: [{attrs_str}]')
         else:
-            lines.append(f'attributes: {attrs}')
-    
+            text = str(value)
+            if text == '':
+                lines.append(f'{key}: ""')
+            elif any(c in text for c in '[]{}:,') or text.startswith(' ') or text.endswith(' '):
+                lines.append(f'{key}: "{text}"')
+            else:
+                lines.append(f'{key}: {text}')
     return '\n'.join(lines)
 
-def update_file(filepath, attributes):
-    """Update a markdown file with attributes in frontmatter"""
+def update_file(filepath, entry_data):
+    """Update a markdown file with JSON-backed frontmatter fields"""
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -89,11 +96,10 @@ def update_file(filepath, attributes):
         print(f"Warning: No frontmatter found in {filepath}")
         return False
     
-    # Parse and update frontmatter
     fm_dict = parse_frontmatter(frontmatter)
-    fm_dict['attributes'] = attributes
+    for key, value in entry_data.items():
+        fm_dict[key] = value
     
-    # Reconstruct the file
     new_frontmatter = frontmatter_to_string(fm_dict)
     new_content = f'---\n{new_frontmatter}\n---\n{body}'
     
@@ -117,12 +123,14 @@ def main():
     print(f"Processing {total} entries...")
     
     for file_path, attr_data in attributes.items():
-        # Convert Windows path to Unix path
+        # Convert Windows path to Unix path and use markdown extension
         unix_path = convert_path(file_path)
+        if unix_path.lower().endswith('.htm'):
+            unix_path = unix_path[:-4] + '.md'
         
-        # Prepend entries/ directory if not already present
-        if not unix_path.startswith('entries/'):
-            full_path = f'entries/{unix_path}'
+        # Prepend _entries/ directory if not already present
+        if not unix_path.startswith('_entries/'):
+            full_path = f'_entries/{unix_path}'
         else:
             full_path = unix_path
         
@@ -132,10 +140,7 @@ def main():
             skipped += 1
             continue
         
-        # Get attributes list
-        attrs = attr_data.get('attributes', [])
-        
-        if update_file(full_path, attrs):
+        if update_file(full_path, attr_data):
             updated += 1
         else:
             skipped += 1

@@ -1,9 +1,12 @@
 ---
-title: Crown sea star (Aquilonastra coronata)
+title: Crown sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crown, sea star, seastar, starfish, star, fish, aquilonastra, asterina, coronata, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [91]
+family: Asterinidae
+genus: Aquilonastra
+species: coronata
 ---
 
 

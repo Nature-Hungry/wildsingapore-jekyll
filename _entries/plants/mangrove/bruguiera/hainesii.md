@@ -1,9 +1,12 @@
 ---
-title: Bakau mata buaya (Bruguiera hainesii) 
+title: Bakau mata buaya
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, bruguiera, hainesiirhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [32, 36, 68]
+family: Rhizophoraceae
+genus: Bruguiera
+species: hainesii
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

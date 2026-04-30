@@ -1,9 +1,12 @@
 ---
-title: Black-spot tuskfish (Choerodon schoenleinii)
+title: "Black-spot tuskfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Labridae
+genus: Choerodon
+species: schoenleinii
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

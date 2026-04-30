@@ -1,9 +1,12 @@
 ---
-title: Waringin (Ficus benjamina) 
+title: Waringin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "waringin, fig, ficus, benjamina, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 17, 20, 21]
+family: Moraceae
+genus: Ficus
+species: benjamina
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

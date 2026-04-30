@@ -1,9 +1,12 @@
 ---
-title: Belalang puak (Pittosporum ferrugineum) 
+title: "Belalang puak "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 109]
+family: Pittosporaceae
+genus: Pittosporum
+species: ferrugineum
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Threespot damselfishes (Pomacentrus tripunctatus)
+title: Threespot damselfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "three, spot, damsel, fish, damselfish, pomacentrus, tripunctatus, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Pomacentridae
+genus: Pomacentrus
+species: tripunctatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Spotted-belly forceps crab (Ozius guttatus) 
+title: "Spotted-belly "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, belly, forceps, crab, ozius, guttatus, oziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Oziidae
+genus: Ozius
+species: guttatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

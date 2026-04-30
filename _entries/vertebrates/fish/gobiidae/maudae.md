@@ -1,9 +1,12 @@
 ---
-title: Saddled shrimp-goby (Cryptocentrus maudae)
+title: Saddled shrimp-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saddled, prawn, shrimp, goby, cryptocentrus, maudae, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [79]
+family: Gobiidae
+genus: Cryptocentrus
+species: maudae*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

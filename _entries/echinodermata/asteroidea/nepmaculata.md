@@ -1,9 +1,12 @@
 ---
-title: Pale scaly sea star (Nepanthia maculata)
+title: Pale scaly sea stars
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [91]
+family: Asterinidae
+genus: Nepanthia
+species: maculata
 ---
 
 

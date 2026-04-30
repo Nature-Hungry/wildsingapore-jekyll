@@ -1,9 +1,12 @@
 ---
-title: Merambong (Scaevola taccada) 
+title: "Merambong "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "merambong, scaevola, taccada, goodeniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Goodeniaceae
+genus: Scaevola
+species: taccada
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

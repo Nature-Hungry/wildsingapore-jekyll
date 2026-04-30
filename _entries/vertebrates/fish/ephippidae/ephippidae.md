@@ -1,9 +1,12 @@
 ---
-title: Batfishes (Ephippidae) on Singapore shores
+title: "Batfishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Ephippidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Striped sand anemone (Paracondylactis hertwigi)
+title: Striped sand anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, hertwigi, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 67, 88]
+family: Actiniidae
+genus: Paracondylactis
+species: hertwigi
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

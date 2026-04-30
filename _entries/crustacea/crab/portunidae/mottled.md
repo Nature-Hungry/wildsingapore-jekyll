@@ -1,9 +1,12 @@
 ---
-title: Mottled swimming crab (Thalamita sp.)
+title: "Mottled swimming crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mottled, swimming, crab, thalamita, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112, 119]
+family: Portunidae
+genus: Thalamita
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

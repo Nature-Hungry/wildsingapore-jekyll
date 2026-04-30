@@ -1,9 +1,12 @@
 ---
-title: Rhu tree (Casuarina equisetifolia) 
+title: "Rhu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rhu, casuarina, equisetifolia, casuarinaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 37]
+family: Casuarinaceae
+genus: Casuarina
+species: equisetifolia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Snaky anemone (Heteractis doreensis)
+title: Snaky anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cork, screw, corkscrew, tentacle, anemone, macrodactyla, heteractis, doreensis, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 113]
+family: Actiniidae
+genus: Heteractis
+species: doreensis
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

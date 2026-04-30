@@ -1,8 +1,12 @@
 ---
-title: Bubble green seaweed (Boergesenia forbesii) 
+title: Bubble green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bubble, seaweed, weed, green, boergesenia, forbesii, siphonocladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Siphonocladaceae
+genus: Boergesenia
+species: forbesii*
 attributes: [97, 115]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

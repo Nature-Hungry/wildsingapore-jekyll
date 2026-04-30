@@ -1,9 +1,12 @@
 ---
-title: American mussel (Mytella strigata)
+title: American mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [2, 33, 107]
+family: Mytilidae
+genus: Mytella
+species: strigata.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

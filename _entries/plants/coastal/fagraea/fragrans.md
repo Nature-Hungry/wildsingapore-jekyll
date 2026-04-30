@@ -1,9 +1,12 @@
 ---
-title: Tembusu (Fagraea fragrans) 
+title: Tembusu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tembusu, fagraea, fragrans, gentianaceae, loganiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 109]
+family: Gentianaceae
+genus: Fagraea
+species: fragrans
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

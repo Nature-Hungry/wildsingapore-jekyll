@@ -1,9 +1,12 @@
 ---
-title: Synaptid sea cucumbers (Synaptidae)
+title: Synaptid sea cucumbers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [90]
+family: Synaptidae
+genus: ""
+species: ""
 ---
 
 

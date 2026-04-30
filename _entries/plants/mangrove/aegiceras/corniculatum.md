@@ -1,9 +1,12 @@
 ---
-title: Kachang-kachang (Aegiceras corniculatum) 
+title: "Kachang-kachang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "aegiceras, corniculatum, primulaceae, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Primulaceae
+genus: Aegiceras
+species: corniculatum
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

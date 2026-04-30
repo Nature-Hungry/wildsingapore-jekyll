@@ -1,9 +1,12 @@
 ---
-title: Needlefishes (Belonidae) on Singapore shores
+title: Needlefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 attributes: [9, 15, 25, 47, 116]
+family: Belonidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

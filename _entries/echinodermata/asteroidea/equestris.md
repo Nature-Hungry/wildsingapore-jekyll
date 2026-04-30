@@ -1,9 +1,12 @@
 ---
-title: Galloping sea star (Stellaster childreni)
+title: Galloping sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "galloping, sea star, seastar, starfish, star, fish, stellaster, childreni, equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [91]
+family: Goniasteridae
+genus: Stellaster
+species: childreni
 ---
 
 

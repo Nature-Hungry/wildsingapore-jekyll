@@ -1,9 +1,12 @@
 ---
-title: Land hermit crab (Coenobita sp.) 
+title: Land hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 54]
+family: Coenobitidae
+genus: Coenobita
+species: sp.
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Guava tree (Psidium guajava) 
+title: "Guava tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "guava, psidium, guajava, myrtaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 10, 20, 21]
+family: Myrtaceae
+genus: Psidium
+species: guajava
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

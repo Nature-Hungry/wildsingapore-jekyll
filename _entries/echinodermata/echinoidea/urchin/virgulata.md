@@ -1,9 +1,12 @@
 ---
-title: Passion salmacis urchin (Salmacis virgulata)
+title: Passion salmacis urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, virgulata, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [93]
+family: Temnopleuridae
+genus: Salmacis
+species: virgulata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

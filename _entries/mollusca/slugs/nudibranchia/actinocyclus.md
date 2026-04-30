@@ -1,9 +1,12 @@
 ---
-title: Fugly nudibranch (Actinocyclus)
+title: Fugly nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [90, 124]
+family: Actinocyclidae
+genus: Actinocyclus
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Trumpeter perch (Pelates quadrilineatus)
+title: Trumpeter perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "trumpeter, grunter, perch, fish, pelates, quadrilineatus, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Terapontidae
+genus: Pelates
+species: quadrilineatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

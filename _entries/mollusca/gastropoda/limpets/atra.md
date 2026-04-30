@@ -1,9 +1,12 @@
 ---
-title: Flat false limpet (Siphonaria atra)
+title: Flat false limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "javan, false, limpet, siphonaria, atra, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [14, 33]
+family: Siphonariidae
+genus: Siphonaria
+species: atra
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

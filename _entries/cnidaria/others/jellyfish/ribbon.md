@@ -1,9 +1,12 @@
 ---
-title: Ribbon jellyfish (Chrysaora sp.) 
+title: Ribbon jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, chrysaora, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [56]
+family: Pelagiidae
+genus: Chrysaora
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

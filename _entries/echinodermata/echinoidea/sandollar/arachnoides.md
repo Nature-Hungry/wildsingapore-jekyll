@@ -1,9 +1,12 @@
 ---
-title: Cake sand dollar (Arachnoides placenta)
+title: Cake sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [86]
+family: Clypeasteridae
+genus: Arachnoides
+species: placenta
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

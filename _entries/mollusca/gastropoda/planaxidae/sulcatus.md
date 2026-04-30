@@ -1,9 +1,12 @@
 ---
-title: Planaxis snail (Planaxis sulcatus)
+title: Planaxis snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 76, 111, 123]
+family: Planaxidae
+genus: Planaxis
+species: sulcatus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

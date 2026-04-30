@@ -1,9 +1,12 @@
 ---
-title: Tiger-tailed seahorse (Hippocampus comes)
+title: Tiger-tailed seahorse
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "hairy, seahorse, horse, hippocampus, comes, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 74]
+family: Syngnathidae
+genus: Hippocampus
+species: comes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

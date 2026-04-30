@@ -1,9 +1,12 @@
 ---
-title: White snapping shrimps (Alpheidae) 
+title: White snapping shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Alpheidae
+genus: awaiting
+species: identification*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

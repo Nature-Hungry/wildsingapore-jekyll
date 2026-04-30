@@ -1,9 +1,12 @@
 ---
-title: Rubber trees (Hevea brasiliensis) of Singapore
+title: "Rubber tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rubber, hevea, brasiliensis, euphorbiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [8, 17, 20, 21]
+family: Euphorbiaceae
+genus: Hevea
+species: brasiliensis
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

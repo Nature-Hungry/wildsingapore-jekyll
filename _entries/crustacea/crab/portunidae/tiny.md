@@ -1,9 +1,12 @@
 ---
-title: Tiny Flower crab (Portunus pelagicus) 
+title: Tiny Flower crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, swimming, crab, portunus, pelagicus, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112, 119]
+family: Portunidae
+genus: Portunus
+species: pelacigus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Graceful cowrie (Purpuradusta gracilis)
+title: "Graceful cowrie "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 111, 123, 127]
+family: Cypraeidea
+genus: Purpuradusta
+species: gracilis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

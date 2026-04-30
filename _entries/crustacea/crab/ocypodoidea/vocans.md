@@ -1,9 +1,12 @@
 ---
-title: Orange fiddler crab (Gelasimus vocans)
+title: Orange fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, fiddler, crab, uca, gelasimus, vocans, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106, 112]
+family: Ocypodidae
+genus: Gelasimus
+species: vocans
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Bryopsis slug (Placida sp.) 
+title: Bryopsis slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bryopsis, slug, seaslug, placida, daguilarensis, sacoglossan, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [26, 90]
+family: Limapontiidae
+genus: Placida
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,12 @@
 ---
-title: Smooth sponge green seaweeds (Cladophoropsis vaucheriaeformis) on the Shores
+title: Smooth sponge green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis, siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Boodleaceae
+genus: Cladophoropsis
+species: vaucheriaeformis
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

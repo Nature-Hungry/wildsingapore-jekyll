@@ -1,9 +1,12 @@
 ---
-title: Blind your eye (Excoecaria agallocha) 
+title: "Buta-buta "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 68, 80]
+family: Euphorbiaceae
+genus: Excoecaria
+species: agallocha
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Black eeltail catfish (Plotosus canius)
+title: Black eeltail catfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, catfish, cat, fish, siluriformes, plotosidae, plotosus, canius, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Plotosidae
+genus: Plotosus
+species: canius
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,12 @@
 ---
-title: Pleated fan green seaweeds (Rhipidosiphon javensis) 
+title: Pleated fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Udoteaceae
+genus: Rhipidosiphon
+species: javensis
 attributes: [44, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

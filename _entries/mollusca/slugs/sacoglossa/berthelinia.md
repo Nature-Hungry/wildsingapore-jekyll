@@ -1,9 +1,12 @@
 ---
-title: Singapore bivalve slug (Berthelinia singaporensis)
+title: Singapore bivalve slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [30, 90, 126]
+family: Juliidae
+genus: Berthelinia
+species: singaporensis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

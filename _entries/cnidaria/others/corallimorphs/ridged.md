@@ -1,9 +1,12 @@
 ---
-title: Ridged corallimorph (Platyzoanthus mussoides) 
+title: Ridged corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, platyzoanthus, mussoides, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 102]
+family: Discosomidae
+genus: Platyzoanthus
+species: mussoides
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

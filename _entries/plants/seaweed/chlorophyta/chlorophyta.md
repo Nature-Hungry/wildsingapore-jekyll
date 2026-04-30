@@ -3,6 +3,10 @@ title: "Green seaweeds (Chlorophyta) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+division: Chlorophyta
+family: ""
+genus: Chlorophyta
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

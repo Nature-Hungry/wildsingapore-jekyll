@@ -1,9 +1,12 @@
 ---
-title: Luidia sand star (Luidia hardwicki)
+title: Five-armed Luidia sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [0, 1, 58, 92]
+family: Luidiidae
+genus: Luidia
+species: hardwicki
 ---
 
 

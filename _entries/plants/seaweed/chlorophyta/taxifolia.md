@@ -1,8 +1,12 @@
 ---
-title: Taxifolia feathery green seaweed (Caulerpa taxifolia) on Singapore seashores
+title: Taxifolia feathery green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Chlorophyta
+family: Caulerpaceae
+genus: Caulerpa
+species: taxifolia*
 attributes: [46, 97]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

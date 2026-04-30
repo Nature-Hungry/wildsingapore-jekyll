@@ -1,9 +1,12 @@
 ---
-title: Smooth spooner crab (Etisus laevimanus) 
+title: "Smooth spooner crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, spoon, pincer, crab, etisus, laevimanus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Xanthidae
+genus: Etisus
+species: laevimanus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

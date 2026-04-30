@@ -1,9 +1,12 @@
 ---
-title: Carpet corallimorph (Rhodactis indosinensis) 
+title: Carpet corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88, 102]
+family: Discosomidae
+genus: Rhodactis
+species: indosinensis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

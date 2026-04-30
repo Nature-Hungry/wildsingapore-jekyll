@@ -1,9 +1,12 @@
 ---
-title: Green chromide (Etroplus suratensis)
+title: Green chromide
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Cichlidae
+genus: Etroplus
+species: suratensis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

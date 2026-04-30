@@ -1,9 +1,12 @@
 ---
-title: Lumpy rock crabs (Euxanthus exsculptus) 
+title: "Lumpy rock crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 69, 106, 112]
+family: Xanthidae
+genus: Euxanthus
+species: exsculptus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

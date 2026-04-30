@@ -1,9 +1,12 @@
 ---
-title: Rosy fiddler crab (Tubuca rosea) 
+title: Rosy fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 106, 112]
+family: Ocypodidae
+genus: Tubuca
+species: rosea*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,12 @@
 ---
-title: Pyramid seaweeds (Turbinaria sp.) 
+title: Pyramid seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pyramid, brown, seaweed, weed, turbinaria, sargassaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Phaeophyta
+family: Sargassaceae
+genus: Turbinaria
+species: ""
 attributes: [41, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

@@ -1,9 +1,12 @@
 ---
-title: Mangrove tree dwelling crab (Selatium brockii) 
+title: "Mangrove tree-dwelling crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 69, 106, 112]
+family: Sesarmidae
+genus: Selatium
+species: brockii
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

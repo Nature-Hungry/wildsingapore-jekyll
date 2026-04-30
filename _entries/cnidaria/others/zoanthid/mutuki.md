@@ -1,9 +1,12 @@
 ---
-title: Broad zoanthid (Palythoa mutuki) 
+title: Broad zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [6, 88]
+family: Zonathidae
+genus: Palythoa
+species: mutuki
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

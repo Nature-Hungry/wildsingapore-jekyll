@@ -1,9 +1,12 @@
 ---
-title: Ovate soles (Solea ovata) 
+title: Ovate sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [49]
+family: Soleidae
+genus: Solea
+species: ovata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

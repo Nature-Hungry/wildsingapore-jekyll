@@ -1,9 +1,12 @@
 ---
-title: Green-shouldered goby (Acentrogobius caninus)
+title: Green-shouldered goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [108]
+family: Gobiidae
+genus: Acentrogobius
+species: caninus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Mangrove jingle shells (Enigmonia aenigmatica)
+title: Mangrove jingle clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [2, 33, 34, 73]
+family: Anomiidae
+genus: Enigmonia
+species: aenigmatica
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

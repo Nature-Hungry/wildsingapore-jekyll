@@ -1,9 +1,12 @@
 ---
-title: Mosaic reef crab (Lophozozymus pictor)
+title: "Mosaic reef crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mosaic, xanthid, crab, lophozozymus, pictor, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Xanthidae
+genus: Lophozozymus
+species: pictor
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

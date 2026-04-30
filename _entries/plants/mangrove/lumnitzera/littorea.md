@@ -1,9 +1,12 @@
 ---
-title: Teruntum merah (Lumnitzera littorea) 
+title: "Teruntum merah "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "teruntum, merah, lumnitzera, littorea, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 120]
+family: Combretaceae
+genus: Lumnitzera
+species: littorea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

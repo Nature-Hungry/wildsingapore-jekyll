@@ -1,9 +1,12 @@
 ---
-title: Mojarras (Gerreidae) on Singapore shores
+title: Mojarra
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mojarra, siilver, biddy, gerres, gerreidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Gerreidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,9 +1,12 @@
 ---
-title: Whitings (Sillaginidae) 
+title: "Whitings "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [70]
+family: Sillaginidae
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

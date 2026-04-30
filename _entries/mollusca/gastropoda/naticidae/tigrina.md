@@ -1,9 +1,12 @@
 ---
-title: Tiger moon snail (Notocochlis tigrina)
+title: "Tiger moon snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiger, moon, snail, shell, naticidae, tectonatica, natica, notocochlis, tigrina, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 77, 111, 123]
+family: Naticidae
+genus: Notocochlis
+species: tigrina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

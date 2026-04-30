@@ -1,9 +1,12 @@
 ---
-title: Glass shrimp (Palaemon)
+title: Glass shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "glass, palaemon, shrimp, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [103, 104]
+family: Palaemonidae
+genus: Palaemon
+species: sp.*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Mural glider-gobies (Valenciennea muralis) on the Shores
+title: Mural glider-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 25, 43, 47]
+family: Gobiidae
+genus: Valenciennea
+species: muralis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

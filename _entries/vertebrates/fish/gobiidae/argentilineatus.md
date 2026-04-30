@@ -1,9 +1,12 @@
 ---
-title: Silver-lined mudskipper (Periophthalmus argentilineatus)
+title: Silver-lined mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "silver, lined, mudskipper, mud, skipper, fish, periophthalmus, argentilineatus, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [9, 15, 19, 25, 47, 72]
+family: Gobiidae
+genus: Periophthalmus
+species: argentilineatus*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

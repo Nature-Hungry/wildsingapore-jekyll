@@ -1,8 +1,12 @@
 ---
-title: Spiny red seaweeds (Acanthophora) 
+title: "Spiny red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiny, red, seaweed, weed, algae, acanthophora, rhodomelaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Rhodomelaceae
+genus: Acanthophora
+species: sp.*
 attributes: [50, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)

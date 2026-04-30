@@ -1,9 +1,12 @@
 ---
-title: Honeycomb grouper (Epinephelus quoyanus)
+title: Honeycomb grouper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Serranidae
+genus: Epinephelus
+species: quoyanus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

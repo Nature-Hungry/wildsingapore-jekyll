@@ -1,9 +1,12 @@
 ---
-title: Streaked rabbitfish (Siganus javus)
+title: Streaked rabbitfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Siganidae
+genus: Siganus
+species: javus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

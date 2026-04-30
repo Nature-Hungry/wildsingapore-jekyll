@@ -1,9 +1,12 @@
 ---
-title: Rotan tikus (Flagellaria indica) 
+title: "Rotan tikus "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rotan, tikus, flagellaria, indica, flagellariaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [35, 36]
+family: Flagellariaceae
+genus: Flagellaria
+species: indica
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

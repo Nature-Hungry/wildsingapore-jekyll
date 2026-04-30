@@ -1,8 +1,12 @@
 ---
-title: Curled-tip red seaweeds (Portieria hornemannii) 
+title: "Curled-tip red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+division: Rhodophyta
+family: Rhizophyllidaceae
+genus: Portieria
+species: hornemannii*
 attributes: [52, 97, 98]
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)

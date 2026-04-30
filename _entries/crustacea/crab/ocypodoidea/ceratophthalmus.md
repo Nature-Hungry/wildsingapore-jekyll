@@ -1,9 +1,12 @@
 ---
-title: Horn-eyed ghost crab (Ocypode ceratophthalmus) 
+title: Horn-eyed ghost crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [38, 58, 69, 106, 112]
+family: Ocypodidae
+genus: Ocypode
+species: ceratophthalmus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,9 +1,12 @@
 ---
-title: Spotted scat (Scatophagus argus)
+title: Spotted scat
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Scatophagidae
+genus: Scatophagus
+species: argus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

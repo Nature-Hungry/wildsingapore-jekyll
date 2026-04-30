@@ -1,9 +1,12 @@
 ---
-title: Black phyllid nudibranch (Phyllidiella nigra)
+title: Black phyllid nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, phyllid, phyllidiella, phyllidia, nigra, phyllidiidae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [28, 90]
+family: Phyllidiidae
+genus: ""
+species: Phyllidiella
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

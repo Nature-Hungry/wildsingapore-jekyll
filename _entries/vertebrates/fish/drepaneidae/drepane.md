@@ -1,9 +1,12 @@
 ---
-title: Sicklefish (Drepane)
+title: Sicklefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sickle, fish, sicklefish, drepane, drepaneidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [42]
+family: Drepaneidae
+genus: Drepane
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

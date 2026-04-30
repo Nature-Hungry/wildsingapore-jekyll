@@ -1,9 +1,12 @@
 ---
-title: Black-spot sergeant (Abudefduf sordidus)
+title: "Black-spot sergeant "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [60]
+family: Pomacentridae
+genus: Abudefduf
+species: sordidus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

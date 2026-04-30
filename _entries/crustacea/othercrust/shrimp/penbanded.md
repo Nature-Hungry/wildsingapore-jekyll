@@ -1,9 +1,12 @@
 ---
-title: Banded penaeid prawn (Family Penaeidae)
+title: Banded penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Penaeidae
+genus: awaiting
+species: identification*
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

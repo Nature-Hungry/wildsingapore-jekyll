@@ -1,9 +1,12 @@
 ---
-title: Seashore spider lily (Crinum asiaticum) 
+title: "Bakung "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [36, 53]
+family: Amaryllidaceae
+genus: Crinum
+species: asiaticum
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

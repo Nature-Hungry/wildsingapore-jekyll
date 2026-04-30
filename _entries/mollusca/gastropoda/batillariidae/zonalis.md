@@ -1,9 +1,12 @@
 ---
-title: Bazillion snail (Batillaria zonalis)
+title: Bazillion snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zoned, horn, snail, shell, batillaria, zonalis, batillariidae, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [23, 33, 71, 78, 111, 123]
+family: Batillariidae
+genus: Batillaria
+species: zonalis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

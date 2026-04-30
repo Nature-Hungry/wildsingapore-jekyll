@@ -1,9 +1,12 @@
 ---
-title: Coral ghost shrimp (Corallianassa) 
+title: Coral ghost shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, ghost, shrimp, glypturus, corallianassa, callianassidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 attributes: [84, 103, 104]
+family: Callianassidae
+genus: Corallianassa
+species: sp.
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
