@@ -74,6 +74,7 @@ wild-singapore.github.io/
 
 - **Ruby** (version 2.7 or higher)
 - **Bundler** (install with `gem install bundler`)
+- **Jekyll** (install with `gem install jekyll`)
 - **Git**
 
 ### Local Setup
@@ -88,16 +89,18 @@ wild-singapore.github.io/
    ```bash
    bundle install
    ```
+   This will install every gem listed within the Gemfile.
 
 3. **Start the development server:**
    ```bash
-   bundle exec jekyll serve
+   bundle exec jekyll serve --livereload
    ```
    The site will be available at `http://localhost:4000`
+   Add the `--trace` command if you need to debug anything.
 
-4. **Make your changes** in the `entries/`, `wildfacts/`, or other content directories
+4. **Make your changes** in the `entries/`, `wildfacts/`, or other content directories.
 
-5. **See changes live** — Jekyll will automatically rebuild as you save files
+5. **See changes live** — Jekyll will automatically rebuild as you save files.
 
 ---
 
@@ -154,7 +157,13 @@ We welcome all kinds of contributions:
    zone: terrestrial|intertidal
    englishname: ""
    malayname: ""
-   scientificname: ""
+   kindgom: ""
+   phylum: ""
+   class: ""
+   order: ""
+   family: ""
+   genus: ""
+   species: ""
    ---
    ```
 
@@ -239,3 +248,8 @@ By contributing to this repository, you agree that your contributions can be use
 
 ---
 
+## Future Direction
+
+We might integrate other taxa into the website. So the Photo Index and general organisation of entries and aggregates have to be heavily edited. Thus we have the need to make everything as modular as possible.
+
+---
