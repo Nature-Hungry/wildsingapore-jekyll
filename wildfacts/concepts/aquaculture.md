@@ -6,14 +6,11 @@ layout: default
 ---
 [index](indexl)
 of concepts
-**Fish
-farming and aquaculture***updated
-Dec 2019*
+**Fish farming and aquaculture***updated Dec 2019*
 
 ---
 
-if
-you learn only 3 things about the issue...  
+if you learn only 3 things about the issue...  
 ![](../photos/bullet.gif) Commercial fish farms can impact the surrounding habitats.   
 ![](../photos/bullet.gif) Find out where your fishes come from.  
 ![](../photos/bullet.gif)Eat
@@ -21,93 +18,44 @@ less fish, don't throw fishes away.
   
 Fish farms in Singapore
 
-Singapore's
-consumption of fish is estimated to be 100,000 tonnes per year of
-which about 5% is accounted for by local foodfish aquaculture. This
-is mainly from coastal fish farms. They produce marine foodfish
-species like groupers, seabass, snappers and milkfish as well as
-green mussels and crustacean (shrimp/mangrove crabs). There are
-also freshwater foodfish farms producing snakeheads, tilapia, catfishes
-and carps and other cyprinids. From [Aquaculture
-in Singapore](http://www.ava.gov.sg/) on the AVA website   
+Singapore's consumption of fish is estimated to be 100,000 tonnes per year of which about 5% is accounted for by local foodfish aquaculture. This is mainly from coastal fish farms. They produce marine foodfish species like groupers, seabass, snappers and milkfish as well as green mussels and crustacean (shrimp/mangrove crabs). There are also freshwater foodfish farms producing snakeheads, tilapia, catfishes and carps and other cyprinids. From [Aquaculture in Singapore](http://www.ava.gov.sg/) on the AVA website.
   
-In 2010, there were 106 licensed coastal floating fish farms in
-Singapore, producing 3,235 tonnes of fish valued at $11.4 million
-in 2008. They accounted for 4-5% of the fish consumed annually in
-Singapore. *From [Plankton
-bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fishl) Melissa Sim, Straits Times
-2 Jan 10;*
+In 2010, there were 106 licensed coastal floating fish farms in Singapore, producing 3,235 tonnes of fish valued at $11.4 million in 2008. They accounted for 4-5% of the fish consumed annually in Singapore. *From [Plankton bloom hits Pulau Ubin fish farms](http://wildsingaporenews.blogspot.com/2010/01/plankton-bloom-hits-pulau-ubin-fishl) Melissa Sim, Straits Times 2 Jan 10;*
 
-**Why
-farm fishes?**   
+**Why farm fishes?**   
   
 **Some broad goals of acquaculture**
 
-- Reduce costs
-  of searching, catching and transporting fish.
-- Stable
-  and predictable supply of fish. Not necessarily achieved as mass
-  deaths of stock can occur.
-- Reduce overharvesting
-  of wild fishes. Not necessarily achieved as wild fishes are still
-  caught, to feed the farm fishes.
+- Reduce costs of searching, catching and transporting fish.
+- Stable and predictable supply of fish. Not necessarily achieved as mass deaths of stock can occur.
+- Reduce overharvesting of wild fishes. Not necessarily achieved as wild fishes are still caught, to feed the farm fishes.
 
-![](pix/100109prpd7643m3.jpg)  
-Fish farm off
-waters of Pasir Ris and Pulau Ubin.
-![](pix/090628lazd6196m3.jpg)  
-Fish farm equipment
-'parked' on   
-Lazarus island shore.
-![](pix/091230prpc0167m3.jpg)  
-Mass death of
-farm fishes  
-*Pasir Ris, Dec 09*
+![](pix/100109prpd7643m3.jpg) Fish farm off waters of Pasir Ris and Pulau Ubin.
+![](pix/090628lazd6196m3.jpg) Fish farm equipment 'parked' on Lazarus island shore.
+![](pix/091230prpc0167m3.jpg) Mass death of farm fishes *Pasir Ris, Dec 09*
 
-**Some
-effects of acquaculture**
+**Some effects of acquaculture**
 
-- Parasites
-  and diseases from farmed fish can spread to wild marine life.
-- Pollution
-  of the surrounding waters by the following that escape from fish
-  farms:
-  - Drugs,
-    including antibiotics, given to farmed fish to keep them healthy.
-  - Excess
-    and uneaten food given to farmed fish.
-  - Wastes
-    of farmed fish.
-- Non-native
-  farm fishes which escape can threaten native wild fish.
-- Farmed fish
-  are fed pellets made from other fish, depleting other fish species
-  on a global scale. Often the small fishes which are daily staples
-  of poor people are used as feed for larger farmed fishes which
-  are sold as luxury items.
-- Setting up
-  and running fish farms can physically impact the surrounding habitat.
+- Parasites and diseases from farmed fish can spread to wild marine life.
+- Pollution of the surrounding waters by the following that escape from fish farms:
+  - Drugs, including antibiotics, given to farmed fish to keep them healthy.
+  - Excess and uneaten food given to farmed fish.
+  - Wastes of farmed fish.
+- Non-native farm fishes which escape can threaten native wild fish.
+- Farmed fish are fed pellets made from other fish, depleting other fish species on a global scale. Often the small fishes which are daily staples of poor people are used as feed for larger farmed fishes which are sold as luxury items.
+- Setting up and running fish farms can physically impact the surrounding habitat.
 - No door-to-door trash collection is provided to any of the coastal fish farms licenced by Agri-food and Veterinary Authority (AVA). As a result dead fishes and other trash are dumped into the water. [More details here](litter).
 
-*![](pix/100110cjd7835m6a.jpg)  
-Fish farms off Chek Jawa, Jan 10*
+*![](pix/100110cjd7835m6a.jpg) Fish farms off Chek Jawa, Jan 10*
 
-**What
-can we do about this?**
+**What can we do about this?**
 
-- Find out
-  where your fish comes from.
-- Tell your
-  supplier and supermarket you prefer fish from sustainable sources.
-- Eat less
-  fish.
-- Eat what
-  you take. Don't throw away fishes! (or any food for that matter).
-  Many marine animals have died and people have suffered to put
-  that fish on your plate!
+- Find out where your fish comes from.
+- Tell your supplier and supermarket you prefer fish from sustainable sources.
+- Eat less fish.
+- Eat what you take. Don't throw away fishes! (or any food for that matter). Many marine animals have died and people have suffered to put that fish on your plate!
 
-See
-also [impact of prawn farming](prawnfarms).
+See also [impact of prawn farming](prawnfarms).
 
 ---
 
