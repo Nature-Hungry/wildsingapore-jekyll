@@ -3,10 +3,24 @@ title: Tiny black gymnodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [90, 110]
+attributes: [14, 22, 33, 90, 110]
 family: Gymnodorididae
 genus: Gymnodoris
 species: ""
+inat_id: 50308
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Polyceroidea
+subfamily: Polycerinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

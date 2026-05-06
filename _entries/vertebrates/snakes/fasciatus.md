@@ -1,8 +1,20 @@
 ---
-title: "Banded krait (Bungarus fasciatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Banded krait
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Elapidae
+genus: Bungarus
+species: fasciatus
+attributes: []
+inat_id: 30448
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
 ---
 
 

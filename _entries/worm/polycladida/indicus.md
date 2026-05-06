@@ -1,8 +1,19 @@
 ---
-title: "Blue-dot margined flatworm (Pseudoceros indicus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Blue-dot margined
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, dotted, flat, worm, flatworm, pseudoceros, indicus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: indicus*
+attributes: []
+inat_id: 547553
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

@@ -5,8 +5,11 @@ keywords: "shy, night,peacock, anemone, ceriantharia, anthozoa, cnidaria, field,
 layout: default
 attributes: [4, 6, 88]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

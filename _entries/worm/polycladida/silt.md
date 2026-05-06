@@ -1,8 +1,12 @@
 ---
-title: "Silt flatworm (Acotylea)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Silt flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, acotylea, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Suborder Acotylea
+genus: ""
+species: identification*
+attributes: []
 ---
 
 

@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
 layout: default
 shape: branching
-title: Mustard sponges (Dactylospongia elegans) 
+title: Mustard sponge
+family: Thorectidae
+genus: Dactylospongia
+species: elegans*
+attributes: []
+inat_id: 1536626
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
+subfamily: Thorectinae
 ---
 
 

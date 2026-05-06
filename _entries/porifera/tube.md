@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
 layout: default
 shape: sausage
-title: Tubular sponges (Haliclona sp.) 
+title: Tubular sponge
+family: Chalinidae
+genus: Haliclona
+species: sp.*
+attributes: []
+inat_id: 1485370
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

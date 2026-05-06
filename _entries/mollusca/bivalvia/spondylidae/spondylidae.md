@@ -1,8 +1,22 @@
 ---
-title: "Thorny oyster (Spondylus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Thorny oyster
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Spondylidae
+genus: Spondylus
+species: sp.*
+attributes: []
+inat_id: 326346
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Pectinoidea
+subfamily: Spondylinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

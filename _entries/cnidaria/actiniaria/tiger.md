@@ -7,6 +7,15 @@ attributes: [5, 6, 88]
 family: ""
 genus: Macrodactyla
 species: fautinae
+inat_id: 1488821
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,10 +1,13 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, encrusting, prickly, sponge, porifera, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "blue, encrusting, prickly, sponge, porifera, field, guide, seashore, sea,"
 layout: default
 shape: encrusting
-title: Blue encrusting prickly sponges (Porifera) 
+title: Blue encrusting prickly sponge
+family: " updated Oct 2016"
+genus: ""
+species: identification*
+attributes: []
 ---
 
 

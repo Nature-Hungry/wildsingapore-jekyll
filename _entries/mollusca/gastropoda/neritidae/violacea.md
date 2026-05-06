@@ -1,8 +1,21 @@
 ---
-title: "Red-mouth nerite snail (Neritina violacea)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red-mouth nerite snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dostia, neritina, violacea, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Neritina
+species: violacea
+attributes: []
+inat_id: 701486
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

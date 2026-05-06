@@ -3,10 +3,17 @@ title: "Perepat "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "perepat, bedada, sonneratia, alba, lythraceae.sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 61, 68]
+attributes: [16, 18, 21, 36, 61, 68]
 family: Lythraceae
 genus: Sonneratia
 species: alba
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+inat_id: 196661
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

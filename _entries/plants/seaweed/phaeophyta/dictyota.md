@@ -8,6 +8,14 @@ family: Dictyotaceae
 genus: Dictyota
 species: ""
 attributes: [97, 98]
+inat_id: 51021
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Dictyotophycidae
+order: Dictyotales
+tribe: Dictyoteae
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

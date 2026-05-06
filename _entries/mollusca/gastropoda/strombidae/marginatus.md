@@ -3,10 +3,18 @@ title: Margined conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "margined, conch, strombus,  marginatus, robustus, sowerbyorum, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 64, 71, 111, 123]
+attributes: [23, 33, 64, 71, 100, 111, 123]
 family: Strombidae
 genus: Strombus
 species: marginatus
+inat_id: 1652045
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Stromboidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

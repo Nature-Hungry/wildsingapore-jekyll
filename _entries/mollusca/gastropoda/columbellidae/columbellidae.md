@@ -1,8 +1,20 @@
 ---
-title: "Dove snail (Columbellidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dove snails
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Columbellidae
+genus: ""
+species: Family
+attributes: []
+inat_id: 50704
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Buccinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

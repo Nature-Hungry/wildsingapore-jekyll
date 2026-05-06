@@ -1,8 +1,21 @@
 ---
-title: "Tapestry turban snail (Turbo petholatus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Tapestry turban snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: Turbo
+species: petholatus
+attributes: []
+inat_id: 142963
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Turbininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

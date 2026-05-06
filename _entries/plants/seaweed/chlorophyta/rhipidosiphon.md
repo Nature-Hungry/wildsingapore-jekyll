@@ -8,6 +8,12 @@ family: Udoteaceae
 genus: Rhipidosiphon
 species: javensis
 attributes: [44, 97]
+inat_id: 1392156
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

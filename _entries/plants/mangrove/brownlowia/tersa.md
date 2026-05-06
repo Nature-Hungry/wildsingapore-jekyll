@@ -3,10 +3,18 @@ title: "Dungun air "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brownlowia, tersa, malvaceae, tiliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 120]
+attributes: [18, 21, 36, 120]
 family: Malvaceae
 genus: Brownlowia
 species: tersa
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malvales
+subfamily: Brownlowioideae
+inat_id: 189938
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

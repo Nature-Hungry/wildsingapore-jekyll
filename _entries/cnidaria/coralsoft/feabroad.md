@@ -3,10 +3,17 @@ title: Broad feathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [88]
+attributes: []
 family: Xeniidae
 genus: Sansibia
 species: flava*
+inat_id: 688107
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

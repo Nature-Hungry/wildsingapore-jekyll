@@ -1,8 +1,19 @@
 ---
-title: "Yellow-lined flatworm (Pseudoceros sp. 3) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Yellow-lined flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: ""
+attributes: []
+inat_id: 52316
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

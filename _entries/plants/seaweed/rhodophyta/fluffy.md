@@ -8,6 +8,14 @@ family: Ceramiaceae
 genus: ""
 species: ""
 attributes: [97, 98, 114]
+inat_id: 68613
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Ceramiales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

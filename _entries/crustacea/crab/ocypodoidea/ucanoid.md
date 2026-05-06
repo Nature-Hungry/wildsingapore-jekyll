@@ -1,8 +1,27 @@
 ---
-title: "Unidentified fiddler crabs "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Unidentified "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ocypodidae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 51932
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

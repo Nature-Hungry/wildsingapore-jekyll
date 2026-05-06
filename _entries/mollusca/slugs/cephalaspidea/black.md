@@ -1,8 +1,22 @@
 ---
-title: "Black tailed-slug (Chelidonura sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Black tailed-slug "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, tailed, slug, chelidonura, aglajidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aglajidae
+genus: Chelidonura
+species: ""
+attributes: []
+inat_id: 54576
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Cephalaspidea
+superfamily: Philinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

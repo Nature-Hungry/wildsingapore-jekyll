@@ -1,8 +1,25 @@
 ---
-title: "Bohol nudibranch (Discodoris boholiensis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Bohol nudibranch "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "discodoris, boholiensis, discodoridae, dorid, dorididae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Discodoridae
+genus: Discodoris
+species: boholiensis
+attributes: []
+inat_id: 50442
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Doridoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

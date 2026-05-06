@@ -1,8 +1,19 @@
 ---
-title: "Hedgehog corals (Echinopora) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Hedgehog corals "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hedgehog, echinopora, faviidae, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Merulinidae
+genus: Echinopora
+species: ""
+attributes: []
+inat_id: 503554
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

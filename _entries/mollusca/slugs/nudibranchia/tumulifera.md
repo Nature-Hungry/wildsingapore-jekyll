@@ -1,8 +1,12 @@
 ---
-title: "Maroon cow nudibranch (Goniobranchus tumulifera)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Maroon c
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chromodorididae
+genus: Goniobranchus
+species: tumulifera
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

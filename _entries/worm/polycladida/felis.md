@@ -1,8 +1,12 @@
 ---
-title: "Feline flatworm"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Feline flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudocerotid
+species: 8
+attributes: []
 ---
 
 

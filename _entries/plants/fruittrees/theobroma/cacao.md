@@ -7,6 +7,14 @@ attributes: [8, 10, 20, 21]
 family: Sterculiaceae
 genus: Theobroma
 species: cacao
+inat_id: 64340
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malvales
+subfamily: Byttnerioideae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

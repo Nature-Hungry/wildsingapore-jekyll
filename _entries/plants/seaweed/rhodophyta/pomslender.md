@@ -8,6 +8,17 @@ family: Corallinaceae
 genus: Jania
 species: ""
 attributes: [52, 97, 98]
+inat_id: 131377
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Corallinophycidae
+order: Corallinales
+suborder: Corallinineae
+subfamily: Corallinoideae
+tribe: Janieae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,22 @@
 ---
-title: "Walker's cowrie (Contradusta walkeri)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Walker's cowrie
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cypraeidea
+genus: Contradusta
+species: walkeri
+attributes: []
+inat_id: 882273
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erroneinae
+tribe: Erroneini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

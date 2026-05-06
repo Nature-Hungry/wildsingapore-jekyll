@@ -6,7 +6,7 @@ layout: default
 attributes: [38, 106]
 family: Epialtidae
 genus: Menatheius
-species: sp.*
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

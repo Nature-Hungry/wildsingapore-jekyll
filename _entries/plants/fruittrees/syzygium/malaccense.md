@@ -7,6 +7,15 @@ attributes: [8, 10, 20, 21]
 family: Myrtaceae
 genus: Syzygium
 species: malaccense
+inat_id: 84370
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+subfamily: Myrtoideae
+tribe: Syzygieae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

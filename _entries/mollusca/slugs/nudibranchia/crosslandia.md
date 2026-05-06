@@ -3,10 +3,22 @@ title: Sargassum nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crosslandia, daedali, sargassum, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [30, 90]
+attributes: [14, 22, 30, 33, 90]
 family: Scyllaeidae
 genus: Crosslandia
 species: daedali
+inat_id: 50395
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Dendronotina
+superfamily: Dendronotoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

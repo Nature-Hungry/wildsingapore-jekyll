@@ -1,8 +1,21 @@
 ---
-title: "Dwarf turban snail (Turbo bruneus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dwarf turban snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: Turbo
+species: bruneus*
+attributes: []
+inat_id: 541826
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Turbininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

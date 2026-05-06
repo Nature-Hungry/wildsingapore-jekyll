@@ -1,8 +1,21 @@
 ---
-title: "Prickly whelk (Nassarius echinatus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Prickly whelk
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "whelk, nassarius, echinatus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Nassariidae
+genus: Nassarius
+species: echinatus*
+attributes: []
+inat_id: 1153055
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Buccinoidea
+subfamily: Nassariinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

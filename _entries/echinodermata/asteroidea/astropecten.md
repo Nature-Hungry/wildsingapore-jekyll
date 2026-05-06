@@ -1,8 +1,20 @@
 ---
-title: "Sand sea stars (Astropecten)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sand sea stars
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Astropectenidae
+genus: Astropecten
+species: ""
+attributes: []
+inat_id: 48237
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

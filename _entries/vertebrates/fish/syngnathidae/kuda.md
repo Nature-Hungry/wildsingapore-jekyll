@@ -7,6 +7,16 @@ attributes: [9, 15, 19, 25, 47, 74]
 family: Syngnathidae
 genus: Hippocampus
 species: kuda
+inat_id: 84970
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
+subfamily: Syngnathinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

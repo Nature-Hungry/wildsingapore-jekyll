@@ -5,8 +5,11 @@ keywords: "hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, se
 layout: default
 attributes: [6, 88]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

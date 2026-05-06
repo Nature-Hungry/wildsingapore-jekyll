@@ -3,10 +3,18 @@ title: "Api-api bulu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "api, bulu, avicennia, rumphiana, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 83]
+attributes: [16, 18, 21, 36, 68, 83]
 family: Acanthaceae
 genus: Avicennia
 species: rumphiana
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Lamiales
+subfamily: Avicennioideae
+inat_id: 189588
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

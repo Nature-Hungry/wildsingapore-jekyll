@@ -1,8 +1,27 @@
 ---
-title: "Moon crabs (Matutidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Moon crabs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, crab, matuta, matutidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Matutidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 474295
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Calappoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

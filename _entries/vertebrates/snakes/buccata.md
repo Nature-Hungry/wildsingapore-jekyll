@@ -1,8 +1,20 @@
 ---
-title: "Puff-faced water snake (Homalopsis buccata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Puff-faced water snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Homalopsidae
+genus: Homalopsis
+species: buccata
+attributes: []
+inat_id: 29910
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
 ---
 
 

@@ -7,6 +7,13 @@ attributes: [6, 88, 102]
 family: Ricordeidae
 genus: Ricordea
 species: yuma
+inat_id: 633310
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

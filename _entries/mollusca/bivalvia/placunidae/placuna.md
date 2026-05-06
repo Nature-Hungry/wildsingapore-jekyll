@@ -6,7 +6,16 @@ layout: default
 attributes: [2, 33, 59]
 family: Placunidae
 genus: Placuna
-species: sp.
+species: ""
+inat_id: 50574
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Anomioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

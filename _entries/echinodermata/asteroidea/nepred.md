@@ -3,10 +3,18 @@ title: Red scaly sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, belcheri, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [91]
+attributes: [0, 1, 91, 92, 106]
 family: Asterinidae
 genus: Nepanthia
 species: belcheri
+inat_id: 348895
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

@@ -1,8 +1,21 @@
 ---
-title: "Glass anemone (Dofleinia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Glass anemone
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Actiniidae
+genus: Dofleinia
+species: ""
+attributes: []
+inat_id: 361260
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

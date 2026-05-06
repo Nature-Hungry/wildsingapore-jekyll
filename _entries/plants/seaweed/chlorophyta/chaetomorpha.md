@@ -8,6 +8,12 @@ family: Cladophoraceae
 genus: Chaetomorpha
 species: ""
 attributes: [97, 99]
+inat_id: 51428
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Cladophorales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

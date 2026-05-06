@@ -1,8 +1,18 @@
 ---
-title: "Straw tubeworms (Family Chaetopteridae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Straw tubeworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chaetopteridae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 130244
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Sedentaria
 ---
 
 

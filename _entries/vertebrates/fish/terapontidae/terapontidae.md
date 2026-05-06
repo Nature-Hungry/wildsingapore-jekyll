@@ -1,8 +1,21 @@
 ---
-title: "Perch (Terapontidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Perch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Terapontidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 86099
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Centrarchiformes
+suborder: Terapontoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,15 @@ attributes: [9, 15, 19, 25, 47, 74]
 family: Pegasidae
 genus: Pegasus
 species: volitans
+inat_id: 109002
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Dactylopteroidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

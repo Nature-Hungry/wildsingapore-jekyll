@@ -1,8 +1,20 @@
 ---
-title: "Api-api (Avicennia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Api-api
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Avicenniaceae
+genus: Avicennia
+species: ""
+attributes: []
+inat_id: 62865
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Lamiales
+subfamily: Avicennioideae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

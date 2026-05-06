@@ -7,6 +7,22 @@ attributes: [38, 69, 106, 112]
 family: Xanthidae
 genus: Euxanthus
 species: exsculptus
+inat_id: 636012
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Xanthoidea
+subfamily: Euxanthinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

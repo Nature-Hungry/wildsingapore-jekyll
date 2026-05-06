@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 43, 47]
 family: Ariidae
 genus: ""
 species: ""
+inat_id: 69955
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Ostariophysi
+order: Siluriformes
+suborder: Siluroidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

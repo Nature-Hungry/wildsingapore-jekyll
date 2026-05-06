@@ -6,7 +6,16 @@ layout: default
 attributes: [6, 88]
 family: Actiniidae
 genus: Anthopleura
-species: sp.*
+species: ""
+inat_id: 49052
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

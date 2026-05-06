@@ -1,8 +1,27 @@
 ---
-title: "Swimming crabs (Portunidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Swimming crabs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "swimming, crab, portunidae, thalamita, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Portunidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49506
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Portunoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

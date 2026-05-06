@@ -5,8 +5,20 @@ keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, 
 layout: default
 attributes: [84, 103, 104]
 family: Penaeidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 51042
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Dendrobranchiata
+superfamily: Penaeoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

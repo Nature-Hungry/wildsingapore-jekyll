@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
 layout: default
 shape: leafy
-title: Higgin's sponges (Higgins sp.) 
+title: Higgin's sponge
+family: Heteroxyidae
+genus: Higginsia
+species: ""
+attributes: []
+inat_id: 247180
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Axinellida
 ---
 
 

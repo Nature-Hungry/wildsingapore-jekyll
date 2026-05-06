@@ -1,8 +1,22 @@
 ---
-title: "Extraordinary sea hare (Aplysia extraordinaria)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Extraordinary sea hare
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "extraordinary, seahare, hare, aplysia, extraordinaria, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aplysiidae
+genus: Aplysia
+species: extraordinaria
+attributes: []
+inat_id: 379953
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

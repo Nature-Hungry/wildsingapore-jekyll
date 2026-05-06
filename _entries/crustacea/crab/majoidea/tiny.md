@@ -5,8 +5,11 @@ keywords: "tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, 
 layout: default
 attributes: [38, 106]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

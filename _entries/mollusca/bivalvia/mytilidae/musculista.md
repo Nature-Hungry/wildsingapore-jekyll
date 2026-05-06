@@ -7,6 +7,16 @@ attributes: [2, 33, 107]
 family: Mytilidae
 genus: Arcuatula
 species: senhousia
+inat_id: 332241
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Mytilida
+superfamily: Mytiloidea
+subfamily: Crenellinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

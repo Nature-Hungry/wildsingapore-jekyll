@@ -1,8 +1,19 @@
 ---
-title: "Black chut-chut snail (Cerithidea quadrata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Black chut-chut snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Potamididae
+genus: Cerithidea
+species: quadrata
+attributes: []
+inat_id: 1163530
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+superfamily: Cerithioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

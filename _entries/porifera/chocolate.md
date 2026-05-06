@@ -1,11 +1,13 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,"
 layout: default
 shape: blobs
-title: Chocolate sponges (Spheciospongia cf. vagabunda) 
+title: Chocolate sponge
+family: Clionaidae
+genus: Spheciospongia
+species: cf.
+attributes: []
 ---
 
 

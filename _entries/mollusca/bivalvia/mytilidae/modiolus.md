@@ -6,7 +6,17 @@ layout: default
 attributes: [2, 33, 107]
 family: Mytilidae
 genus: Modiolus
-species: sp.
+species: ""
+inat_id: 120959
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Mytilida
+superfamily: Mytiloidea
+subfamily: Modiolinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,20 @@
 ---
-title: "Common triton snail (Gyrineum natator)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Common triton snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ranellidae
+genus: Gyrineum
+species: natator
+attributes: []
+inat_id: 538763
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Tonnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

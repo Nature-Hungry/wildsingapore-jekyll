@@ -1,8 +1,20 @@
 ---
-title: "Butterflyfishes (Chaetodontidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Butterflyfishes "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chaetodontidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47318
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

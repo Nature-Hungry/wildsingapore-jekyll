@@ -3,10 +3,17 @@ title: "Ketapang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "almond, terminalia, catappa, combretaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 62]
+attributes: [18, 21, 36, 62]
 family: Combretaceae
 genus: Terminalia
 species: catappa
+inat_id: 62821
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

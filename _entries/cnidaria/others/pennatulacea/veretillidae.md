@@ -1,9 +1,20 @@
 ---
-title: Flowery sea pen (Vertillidae) 
+title: Flowery sea pen
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [92]
+attributes: []
+family: Veretillidae
+genus: ""
+species: ""
+inat_id: 176052
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
+superfamily: Pennatuloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

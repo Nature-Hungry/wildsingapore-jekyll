@@ -3,10 +3,20 @@ title: "Jeruju "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 120]
+attributes: [18, 21, 36, 120]
 family: Acanthaceae
 genus: Acanthus
 species: ""
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Lamiales
+subfamily: Acanthoideae
+tribe: Acantheae
+subtribe: Acanthinae
+inat_id: 70046
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

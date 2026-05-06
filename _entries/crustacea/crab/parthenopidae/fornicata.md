@@ -7,6 +7,22 @@ attributes: [38, 69, 106, 112]
 family: Parthenopidae
 genus: Cryptopodia
 species: fornicata
+inat_id: 548447
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Parthenopoidea
+subfamily: Parthenopinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,21 @@ attributes: [38, 69, 106, 112]
 family: Inachidae
 genus: Camposcia
 species: retusa
+inat_id: 354589
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Majoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

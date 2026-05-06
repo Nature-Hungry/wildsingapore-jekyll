@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 43, 47]
 family: Haemulidae
 genus: Diagramma
 species: pictum
+inat_id: 132396
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
+subfamily: Plectorhinchinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

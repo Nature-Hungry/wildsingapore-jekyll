@@ -3,10 +3,21 @@ title: Guam false limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [14, 33]
+attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
 family: Siphonariidae
 genus: Siphonaria
 species: guamensis
+inat_id: 604269
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Siphonarimorpha
+order: Siphonariida
+superfamily: Siphonarioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

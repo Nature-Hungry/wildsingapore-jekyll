@@ -1,8 +1,20 @@
 ---
-title: "Mangrove horsehoe crab (Carcinoscorpius rotundicauda)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove   horseshoe crab
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, horseshoe, king, crab, carcinoscorpius, rotundicauda,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limulidae
+genus: Carcinoscorpius
+species: rotundicauda
+attributes: []
+inat_id: 362577
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Chelicerata
+class: Merostomata
+order: Xiphosurida
+subfamily: Tachypleinae
 ---
 
 arthropods

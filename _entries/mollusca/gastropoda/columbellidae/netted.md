@@ -1,8 +1,20 @@
 ---
-title: "Turtle dove snail (Pardalinops testudinaria)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Turtle dove snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turtle, dove, shell, snail, pardalinops, pardalina, testudinaria, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Columbellidae
+genus: Pardalinops
+species: testudinaria*
+attributes: []
+inat_id: 1490899
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Buccinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

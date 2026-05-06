@@ -1,8 +1,19 @@
 ---
-title: "Variegated sundial snail (Heliacus variegatus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Variegated sundial snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Architectonicidae
+genus: Heliacus
+species: variegatus
+attributes: []
+inat_id: 201292
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+superfamily: Architectonicoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

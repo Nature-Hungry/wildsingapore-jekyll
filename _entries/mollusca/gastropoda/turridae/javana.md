@@ -1,8 +1,20 @@
 ---
-title: "Javan turrid snails (Turricula javana) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Javan turrid snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turrid, turricula, javana, turridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turridae
+genus: Turricula
+species: javana
+attributes: []
+inat_id: 538776
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Conoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

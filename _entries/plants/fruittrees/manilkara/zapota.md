@@ -7,6 +7,13 @@ attributes: [8, 10, 20, 21]
 family: Sapotaceae
 genus: Manilkara
 species: zapota
+inat_id: 165144
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Ericales
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

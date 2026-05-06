@@ -3,10 +3,20 @@ title: False stonefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Scorpaenidae
 genus: Scorpaenopsis
 species: diabolus
+inat_id: 119419
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Scorpaenoidei
+subfamily: Scorpaeninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

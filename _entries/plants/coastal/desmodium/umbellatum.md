@@ -3,10 +3,20 @@ title: Petai laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "desmodium, umbellatum, fabaceae, plant, shrub, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 121]
+attributes: [18, 21, 36, 121]
 family: Fabaceae
 genus: Desmodium
 species: umbellatum
+inat_id: 370052
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Fabales
+subfamily: Faboideae
+tribe: Desmodieae
+subtribe: Desmodiinae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

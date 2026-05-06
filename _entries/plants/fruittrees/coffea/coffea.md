@@ -7,6 +7,15 @@ attributes: [8, 10, 20, 21]
 family: Rubiaceae
 genus: Coffea
 species: sp.
+inat_id: 1227987
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Rubioideae
+tribe: Palicoureeae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

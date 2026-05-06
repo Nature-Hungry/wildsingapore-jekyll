@@ -8,6 +8,16 @@ family: Delesseriaceae
 genus: Martensia
 species: elegans*
 attributes: [97, 98]
+inat_id: 704184
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Ceramiales
+subfamily: Nitophylloideae
+tribe: Martensieae
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
 layout: default
-shape: ''
-title: '''Century egg'' sponge (Aaptos suberitoides) '
+shape: ""
+title: 'Century egg'  sponge
+family: Suberitidae
+genus: Aaptos
+species: suberitoides*
+attributes: []
+inat_id: 1536347
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Suberitida
 ---
 
 

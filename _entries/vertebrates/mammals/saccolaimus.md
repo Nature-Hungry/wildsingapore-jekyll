@@ -1,8 +1,25 @@
 ---
-title: "Pouched tomb bats (Saccolaimus saccolaimus) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pouched tomb bat
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pouched, bearing, tomb, bat, saccolaimus, emballonuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Emballonuridae
+genus: Saccolaimus
+species: saccolaimus
+attributes: []
+inat_id: 41342
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Laurasiatheria
+order: Chiroptera
+suborder: Yangochiroptera
+superfamily: Emballonuroidea
+subfamily: Taphozoinae
 ---
 
 

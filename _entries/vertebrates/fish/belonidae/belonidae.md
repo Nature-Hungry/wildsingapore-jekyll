@@ -7,6 +7,14 @@ attributes: [9, 15, 25, 47, 116]
 family: Belonidae
 genus: ""
 species: ""
+inat_id: 52461
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Beloniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

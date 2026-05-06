@@ -3,10 +3,18 @@ title: See-through sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "transparent, sea-through, cucumber, seacucumber, paracaudina, australis, caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [89]
+attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Caudinidae
 genus: Paracaudina
 species: australis*
+inat_id: 1121186
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Molpadida
 ---
 
 

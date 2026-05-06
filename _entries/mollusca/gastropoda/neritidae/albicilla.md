@@ -1,8 +1,21 @@
 ---
-title: "Ox-tongue nerite snail (Nerita albicilla)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ox-tongue nerite snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ox, tongue, palate, nerita, nerite, albicilla, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Nerita
+species: albicilla
+attributes: []
+inat_id: 368225
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

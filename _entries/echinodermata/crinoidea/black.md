@@ -5,8 +5,11 @@ keywords: "black, feather, star, featherstar, comatulida, crinoidea, crinoid, ec
 layout: default
 attributes: [1, 45, 92]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

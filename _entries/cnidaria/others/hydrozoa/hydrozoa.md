@@ -1,8 +1,20 @@
 ---
-title: "Hydroids (Hydrozoa) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Hydroids
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Bougainvilliidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 63663
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Hydrozoa
+subclass: Hydroidolina
+order: Anthoathecata
+suborder: Filifera
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

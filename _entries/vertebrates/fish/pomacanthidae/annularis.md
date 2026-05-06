@@ -3,10 +3,18 @@ title: Bluering angelfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Pomacanthidae
 genus: Pomacanthus
 species: annularis
+inat_id: 110013
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

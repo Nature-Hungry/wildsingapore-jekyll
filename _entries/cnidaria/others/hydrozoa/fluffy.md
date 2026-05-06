@@ -1,8 +1,15 @@
 ---
-title: "Fluffy hydroid (Hydrozoa) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Fluffy hydroid
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

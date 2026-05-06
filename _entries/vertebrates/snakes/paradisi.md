@@ -1,8 +1,21 @@
 ---
-title: "Paradise tree snake (Chrysopelea paradisi) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Paradise tree snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "paradies, flying, tree, snake, chrysopelea, paradisi, elapidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Colubridae
+genus: Chrysopelea
+species: paradisi
+attributes: []
+inat_id: 27214
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
+subfamily: Chrysopeleinae
 ---
 
 

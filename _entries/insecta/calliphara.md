@@ -1,8 +1,25 @@
 ---
-title: "Mangrove shield bugs (Calliphara nobilis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove shield bugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, shield, bug, calliphara, nobilis, pentatomidae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Pentatomidae
+genus: Calliphara
+species: nobilis
+attributes: []
+inat_id: 495852
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Hemiptera
+suborder: Heteroptera
+infraorder: Pentatomomorpha
+superfamily: Pentatomoidea
+subfamily: Scutellerinae
+tribe: Scutellerini
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

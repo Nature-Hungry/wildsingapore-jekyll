@@ -7,6 +7,15 @@ attributes: [8, 10, 20, 21]
 family: Bombacaceae
 genus: Durio
 species: zibethinus
+inat_id: 64443
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malvales
+subfamily: Helicteroideae
+tribe: Durioneae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

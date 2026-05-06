@@ -1,8 +1,26 @@
 ---
-title: "Slender ceratosoma nudibranch (Ceratosoma gracillimum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Slender ceratosoma nudibranch "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceratosoma, gracillium, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chromodorididae
+genus: Ceratosoma
+species: gracillimum
+attributes: []
+inat_id: 358109
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Chromodoridoidea
+subfamily: Miamirinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

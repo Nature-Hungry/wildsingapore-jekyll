@@ -7,6 +7,19 @@ attributes: [0, 1, 31, 92]
 family: Ophiotrichidae
 genus: Ophiothrix
 species: sp.
+inat_id: 48835
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Ophiuroidea
+subclass: Myophiuroida
+infraclass: Metophiurida
+superorder: Ophintegrida
+order: Amphilepidida
+suborder: Gnathophiurina
+superfamily: Ophiactoidea
+subgenus: Ophiothrix
 ---
 
 

@@ -5,8 +5,11 @@ keywords: "polka, dot, actiniaria, anthozoa, cnidarian, field, guide, seashore, 
 layout: default
 attributes: [6, 67, 88]
 family: ""
-genus: Awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

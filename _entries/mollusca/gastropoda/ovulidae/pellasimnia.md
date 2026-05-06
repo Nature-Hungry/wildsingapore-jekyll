@@ -1,8 +1,21 @@
 ---
-title: "Rose spindle cowrie (Pellasimnia sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Rose spindle cowrie
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rose, spindle, ovulid, cowrie, ovulidae, pellasimnia, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ovulidae
+genus: Pellasimnia
+species: ""
+attributes: []
+inat_id: 537173
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Ovulinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

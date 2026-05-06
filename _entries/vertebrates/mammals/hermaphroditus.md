@@ -1,8 +1,23 @@
 ---
-title: "Common palm civet (Paradoxurus hermaphroditus) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Common palm civet
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Viverridae
+genus: Paradoxurus
+species: hermaphroditus
+attributes: []
+inat_id: 925714
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Laurasiatheria
+order: Carnivora
+subfamily: Paradoxurinae
 ---
 
 

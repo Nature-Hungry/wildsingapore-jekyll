@@ -1,8 +1,20 @@
 ---
-title: "Dotted dove snail (Euplica scripta)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dotted dove snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dotted, dove, shell, snail, euplica, scripta, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Columbellidae
+genus: Euplica
+species: scripta
+attributes: []
+inat_id: 504328
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Buccinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

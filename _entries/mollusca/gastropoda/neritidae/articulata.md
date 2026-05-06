@@ -3,10 +3,19 @@ title: Lined nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lined, common, nerita, nerite, articulata, lineata, balteata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 71, 75, 111, 123]
+attributes: [23, 33, 71, 75, 100, 111, 123]
 family: Neritidae
 genus: Nerita
 species: articulata
+inat_id: 538768
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

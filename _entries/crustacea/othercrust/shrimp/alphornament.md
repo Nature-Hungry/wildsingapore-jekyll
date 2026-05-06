@@ -7,6 +7,19 @@ attributes: [103, 104]
 family: Alpheidae
 genus: Alpheus
 species: sp.*
+inat_id: 328953
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Alpheoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

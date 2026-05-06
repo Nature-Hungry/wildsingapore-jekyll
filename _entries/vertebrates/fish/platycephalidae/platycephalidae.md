@@ -1,8 +1,21 @@
 ---
-title: "Flatheads (Platycephalidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Flatheads
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flathead, flat, head, fish, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Platycephalidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 51480
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Scorpaenoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

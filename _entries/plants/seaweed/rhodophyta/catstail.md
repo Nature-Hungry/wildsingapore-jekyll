@@ -8,6 +8,14 @@ family: Bonnemaisoniaceae
 genus: Asparagopsis
 species: taxiformis*
 attributes: [97, 98, 114]
+inat_id: 208548
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Bonnemaisoniales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

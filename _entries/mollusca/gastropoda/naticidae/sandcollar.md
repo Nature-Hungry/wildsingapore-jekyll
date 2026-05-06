@@ -1,8 +1,20 @@
 ---
-title: "Sand collars of moon snails (Naticidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sand collars of moon snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, snail, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48923
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

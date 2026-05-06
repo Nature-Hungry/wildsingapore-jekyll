@@ -7,6 +7,19 @@ attributes: [38, 54]
 family: Diogenidae
 genus: Clibanarius
 species: cruentatus
+inat_id: 891360
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

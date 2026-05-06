@@ -1,8 +1,21 @@
 ---
-title: "Oriental whip snake (Ahaetulla prasina) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Oriental whip snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Colubridae
+genus: Ahaetulla
+species: prasina
+attributes: []
+inat_id: 30187
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
+subfamily: Chrysopeleinae
 ---
 
 

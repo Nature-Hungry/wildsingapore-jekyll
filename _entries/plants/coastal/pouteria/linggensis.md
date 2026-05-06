@@ -3,7 +3,7 @@ title: "Nyatoh "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyatoh, pouteria, liggensis, sapotaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 109]
+attributes: [18, 21, 36, 109]
 family: Sapotaceae
 genus: Pouteria
 species: liggensis

@@ -5,8 +5,11 @@ keywords: "lavender, hermit, crab, anomura, decapod, crustacea, field, guide, se
 layout: default
 attributes: [38, 54]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

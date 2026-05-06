@@ -1,8 +1,19 @@
 ---
-title: "Red chut-chut snail (Cerithidea obtusa)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red chut-chut snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Potamididae
+genus: Cerithidea
+species: obtusa
+attributes: []
+inat_id: 372034
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+superfamily: Cerithioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

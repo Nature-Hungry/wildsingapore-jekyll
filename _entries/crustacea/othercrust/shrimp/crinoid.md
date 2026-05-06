@@ -5,8 +5,11 @@ keywords: "shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marin
 layout: default
 attributes: [103, 104]
 family: ""
-genus: Awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

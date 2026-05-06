@@ -3,10 +3,16 @@ title: "Sea teak "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, teak, seateak, podocarpus, polystachyus, podocarpaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 37]
+attributes: [18, 21, 36, 37]
 family: Podocarpaceae
 genus: Podocarpus
 species: polystachyus
+inat_id: 135704
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+class: Pinopsida
+order: Pinales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

@@ -1,8 +1,27 @@
 ---
-title: "Indo-Pacific hump-backed dolphin (Sousa chinensis) of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Indo-Pacific hump-backed dolphin
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sousa, chinensis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Delphinidae
+genus: Sousa
+species: chinensis
+attributes: []
+inat_id: 469961
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Laurasiatheria
+order: Artiodactyla
+suborder: Whippomorpha
+infraorder: Cetacea
+parvorder: Odontoceti
+superfamily: Delphinoidea
+subfamily: Delphininae
 ---
 
 

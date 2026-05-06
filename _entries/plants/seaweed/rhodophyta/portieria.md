@@ -8,6 +8,14 @@ family: Rhizophyllidaceae
 genus: Portieria
 species: hornemannii*
 attributes: [52, 97, 98]
+inat_id: 704150
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Gigartinales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

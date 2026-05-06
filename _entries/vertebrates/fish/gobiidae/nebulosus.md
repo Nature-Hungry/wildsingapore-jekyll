@@ -3,10 +3,20 @@ title: Shadow goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "shadow, goby, yongeichthys, acentrogobius, nebulosus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Acentrogobius
 species: nebulosus
+inat_id: 1315821
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Gobiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

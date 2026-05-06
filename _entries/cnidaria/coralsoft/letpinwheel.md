@@ -1,8 +1,19 @@
 ---
-title: "Pinwheel leathery soft corals (Lobophytum) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pinwheel leathery soft coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Alcyoniidae
+genus: Lobophytum
+species: ""
+attributes: []
+inat_id: 416177
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

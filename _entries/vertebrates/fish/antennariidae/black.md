@@ -3,10 +3,18 @@ title: Black frogfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Antennariidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 63279
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Lophiiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

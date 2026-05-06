@@ -1,8 +1,19 @@
 ---
-title: "Oriental pied-hornbill (Anthracoceros albirostris) of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Oriental pied-hornbill
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oriental, pied, hornbill, anthracoceros, albirostris, bucerotidae, birds, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Bucerotidae
+genus: Anthracoceros
+species: albirostris
+attributes: []
+inat_id: 5551
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Aves
+order: Bucerotiformes
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

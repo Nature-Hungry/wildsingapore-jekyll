@@ -7,6 +7,22 @@ attributes: [38, 106]
 family: Trapeziidae
 genus: Trapezia
 species: cymodoce
+inat_id: 487568
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Trapezioidea
+subfamily: Trapeziinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

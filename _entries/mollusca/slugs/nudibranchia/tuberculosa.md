@@ -3,10 +3,23 @@ title: Cauliflower nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cauliflower, dendrodoris, tuberculosa, dendrodorididae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [90, 124]
+attributes: [14, 22, 33, 90, 124]
 family: Dendrodorididae
 genus: Dendrodoris
 species: tuberculosa
+inat_id: 50430
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Phyllidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

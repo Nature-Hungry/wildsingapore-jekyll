@@ -3,10 +3,18 @@ title: "Limau lelang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limau, lelang, merope, angulata, rutaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 120]
+attributes: [18, 21, 36, 120]
 family: Rutaceae
 genus: Merope
 species: angulata
+inat_id: 425721
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Sapindales
+subfamily: Aurantioideae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

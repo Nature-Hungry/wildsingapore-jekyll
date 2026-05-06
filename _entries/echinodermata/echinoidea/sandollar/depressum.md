@@ -3,10 +3,23 @@ title: Thick-edged sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thick, edge, sand, dollar, laganum, jacksonaster, depressum, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [86]
+attributes: [0, 1, 12, 86, 92]
 family: Laganidae
 genus: Jacksonaster
 species: depressum
+inat_id: 368685
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Echinoidea
+subclass: Euechinoidea
+infraclass: Irregularia
+subterclass: Neognathostomata
+superorder: Luminacea
+order: Echinolampadacea
+suborder: Scutelloida
+infraorder: Laganiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

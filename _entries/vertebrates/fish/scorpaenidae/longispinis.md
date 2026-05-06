@@ -3,10 +3,20 @@ title: "Longspined waspfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon, longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Scorpaenidae
 genus: Paracentropogon
 species: longispinis
+inat_id: 154432
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Scorpaenoidei
+subfamily: Tetraroginae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

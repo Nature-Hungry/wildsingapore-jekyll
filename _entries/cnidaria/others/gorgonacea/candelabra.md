@@ -1,8 +1,19 @@
 ---
-title: "Candelabra sea fans (Euplexaura) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Candelabra sea fan
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plexauridae
+genus: ""
+species: Euplexaura
+attributes: []
+inat_id: 85999
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,19 @@
 ---
-title: "Vermilion flatworm (Phrikoceros baibaiye)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Vermilion flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Phrikoceros
+species: baibaiye
+attributes: []
+inat_id: 325951
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

@@ -1,12 +1,22 @@
 ---
-title: "Crunchy pom pom red seaweed (Rhodophyta) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Crunchy   pom-pom red seaweed "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 division: Rhodophyta
-family: ""
-genus: Rhodophyta
-species: ""
+family: Corallinaceae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 117828
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Corallinophycidae
+order: Corallinales
+suborder: Corallinineae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

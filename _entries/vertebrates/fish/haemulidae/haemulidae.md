@@ -1,8 +1,20 @@
 ---
-title: "Sweetlips (Haemulidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sweetlips
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Haemulidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49263
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

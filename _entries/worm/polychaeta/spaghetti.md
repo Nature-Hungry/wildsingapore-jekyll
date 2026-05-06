@@ -1,8 +1,21 @@
 ---
-title: "Spaghetti worms "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spaghetti worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spaghetti, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Terebellidae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 47492
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Sedentaria
+infraclass: Canalipalpata
+order: Terebellida
+suborder: Terebelliformia
 ---
 
 

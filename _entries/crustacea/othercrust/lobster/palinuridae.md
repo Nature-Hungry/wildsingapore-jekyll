@@ -7,6 +7,18 @@ attributes: [84, 103, 104]
 family: Palinuridae
 genus: Panulirus
 species: ornatus
+inat_id: 108365
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Achelata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

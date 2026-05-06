@@ -1,8 +1,15 @@
 ---
-title: "Gregarious tubeworms "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Gregarious tubeworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

@@ -8,6 +8,12 @@ family: Udoteaceae
 genus: Udotea
 species: ""
 attributes: [44, 97]
+inat_id: 131341
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

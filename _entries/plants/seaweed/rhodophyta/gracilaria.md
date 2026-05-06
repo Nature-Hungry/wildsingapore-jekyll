@@ -6,8 +6,16 @@ layout: default
 division: Rhodophyta
 family: Gracilariaceae
 genus: Gracilaria
-species: sp.*
+species: ""
 attributes: [50, 97, 98]
+inat_id: 67679
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Gracilariales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

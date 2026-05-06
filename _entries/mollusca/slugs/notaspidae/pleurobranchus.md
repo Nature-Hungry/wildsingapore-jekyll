@@ -1,8 +1,23 @@
 ---
-title: "Forskal's sidegill slug (Pleurobranchus forskalii)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Forskal's sidegill slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pleurobranchidae
+genus: Pleurobranchus
+species: forskalii
+attributes: []
+inat_id: 49904
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Pleurobranchida
+superfamily: Pleurobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

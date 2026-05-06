@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 43, 47]
 family: Blennidae
 genus: Petroscirtes
 species: variabilis
+inat_id: 346144
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
+suborder: Blennioidei
+subfamily: Blenniinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

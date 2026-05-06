@@ -1,8 +1,23 @@
 ---
-title: "Scintilla clam (Scintilla)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Scintilla       clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scintilla, clam, galeommatidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Galeommatidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 51849
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Galeommatida
+superfamily: Galeommatoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

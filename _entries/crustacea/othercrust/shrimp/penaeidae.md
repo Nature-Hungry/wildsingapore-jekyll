@@ -1,8 +1,12 @@
 ---
-title: "Penaeid prawn (Penaeidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Penaeid prawns
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Penaeidae
+genus: Family
+species: Penaeidae
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

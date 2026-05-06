@@ -1,8 +1,12 @@
 ---
-title: "'Jolly Giant Giant' nudibranchs (Miamira sinuatum) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "'Jolly Green Giant' nudibranch "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chromodorididae
+genus: Miamira
+species: sinuatum
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,"
 layout: default
 shape: encrusting
-title: Orange prickly sponges (Mycale parishi) 
+title: Orange prickly sponge
+family: Mycalidae
+genus: Mycale
+species: parishi*
+attributes: []
+inat_id: 676748
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Poecilosclerida
+subgenus: Zygomycale
 ---
 
 

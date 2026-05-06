@@ -5,8 +5,11 @@ keywords: "hexagon, brittle, star, brittlestar, ophiuroidea, echinoderm, field, 
 layout: default
 attributes: [0, 1, 31, 92]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

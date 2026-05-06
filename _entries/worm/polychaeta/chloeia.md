@@ -1,8 +1,20 @@
 ---
-title: "Beautiful fireworms (Chloeia flava) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Beautiful fireworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chloeia, flava, fire, worm, fireworm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Amphinomidae
+genus: Chloeia
+species: ""
+attributes: []
+inat_id: 194941
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Errantia
+order: Amphinomida
+subfamily: Archinominae
 ---
 
 

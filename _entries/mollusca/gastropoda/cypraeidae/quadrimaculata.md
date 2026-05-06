@@ -1,8 +1,22 @@
 ---
-title: "Four-spot cowrie (Eclogavena quadrimaculata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Four-spot cowrie
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cypraeidea
+genus: Eclogavena
+species: quadrimaculata
+attributes: []
+inat_id: 624149
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erroneinae
+tribe: Erroneini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

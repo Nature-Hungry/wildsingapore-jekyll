@@ -1,8 +1,21 @@
 ---
-title: "Ribbed turban snails (Turbo intercostalis) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ribbed turban snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ribbed, turban, turbo, intercostalis, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: Turbo
+species: intercostalis
+attributes: []
+inat_id: 605852
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Turbininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

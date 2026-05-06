@@ -7,6 +7,17 @@ attributes: [9, 15, 25, 43, 47]
 family: Muraenidae
 genus: Uropterygius
 species: concolor*
+inat_id: 490348
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Muraenoidei
+subfamily: Uropterygiinae
+complex: Uropterygius concolor
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

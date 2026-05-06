@@ -1,8 +1,27 @@
 ---
-title: "Stone crab (Family Menippidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Stone
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Menippidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 128829
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Eriphioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

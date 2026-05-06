@@ -7,6 +7,15 @@ attributes: [6, 67, 88]
 family: Haloclavidae
 genus: Metapeachia
 species: tropica
+inat_id: 569419
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

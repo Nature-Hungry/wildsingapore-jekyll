@@ -1,8 +1,25 @@
 ---
-title: "Star barnacle (Chthamalus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Star barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chthalamidae
+genus: Chthamalus
+species: ""
+attributes: []
+inat_id: 128743
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Hexanauplia
+subclass: Thecostraca
+infraclass: Cirripedia
+subterclass: Thoracica
+superorder: Thoracicalcarea
+order: Balanomorpha
+superfamily: Chthamaloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

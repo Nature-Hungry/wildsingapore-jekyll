@@ -3,10 +3,20 @@ title: Pink-eyed pong pong tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pong, cerbera, manghas, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 62]
+attributes: [18, 21, 36, 62]
 family: Apocynaceae
 genus: Cerbera
 species: manghas
+inat_id: 336787
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Rauvolfioideae
+tribe: Plumerieae
+subtribe: Thevetiinae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

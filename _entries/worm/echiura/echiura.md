@@ -1,8 +1,12 @@
 ---
-title: "Spoon worm (Echiura) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spoon worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spoon, worm, spoonworm, echiura, echiuran, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: Class
+species: Echiura
+attributes: []
 ---
 
 

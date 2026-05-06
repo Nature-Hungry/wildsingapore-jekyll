@@ -1,8 +1,15 @@
 ---
-title: "Cerianthid phoronid worms (Phoronis australis) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Cerianthid phoronid worm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: Phoronis
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

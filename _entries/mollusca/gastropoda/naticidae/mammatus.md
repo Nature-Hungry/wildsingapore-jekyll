@@ -1,8 +1,12 @@
 ---
-title: "Bosom moon snail (Policines mammatus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Bosom moon snail "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bosom, breast, shaped, moon, snail, shell, polinices, mammatus, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Polinices
+species: mammatus
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

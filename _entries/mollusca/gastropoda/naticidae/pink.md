@@ -1,8 +1,21 @@
 ---
-title: "Pink moon snail (Naticarius zonalis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pink moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, moon, snail, shell, naticarius, natica, zonalis, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Naticarius
+species: zonalis
+attributes: []
+inat_id: 765059
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Naticinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

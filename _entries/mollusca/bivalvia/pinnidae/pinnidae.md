@@ -7,6 +7,15 @@ attributes: [2, 33, 59]
 family: Pinnidae
 genus: ""
 species: ""
+inat_id: 50584
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pinnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

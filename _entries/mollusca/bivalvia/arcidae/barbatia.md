@@ -1,8 +1,21 @@
 ---
-title: "Barbatia ark clams (Barbatia sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Barbatia ark clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Arcidae
+genus: Barbatia
+species: ""
+attributes: []
+inat_id: 196279
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Arcida
+superfamily: Arcoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

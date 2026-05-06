@@ -7,6 +7,14 @@ attributes: [9, 15, 25, 43, 47]
 family: Bythitidae
 genus: Dinematichthys
 species: iluocoeteoides
+inat_id: 529643
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Ophidiiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

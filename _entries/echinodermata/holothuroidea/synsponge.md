@@ -5,8 +5,16 @@ keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, 
 layout: default
 attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Synaptidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 48044
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Paractinopoda
+order: Apodida
 ---
 
 

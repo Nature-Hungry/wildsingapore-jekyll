@@ -1,8 +1,19 @@
 ---
-title: "Baler shell snail (Melo melo)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Baler volute
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "baler, shell, melo, melo, volutidae, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Volutidae
+genus: Melo
+species: melo
+attributes: []
+inat_id: 9100
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Aves
+order: Passeriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

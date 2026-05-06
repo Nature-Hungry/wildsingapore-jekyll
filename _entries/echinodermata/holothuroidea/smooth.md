@@ -3,10 +3,18 @@ title: Smooth sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cucumber, seacucumber, acaudina, caudinidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [89]
+attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Caudinidae
 genus: Acaudina
 species: ""
+inat_id: 247078
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Molpadida
 ---
 
 

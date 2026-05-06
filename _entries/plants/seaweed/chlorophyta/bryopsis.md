@@ -7,7 +7,18 @@ division: Chlorophyta
 family: Bryopsidaceae
 genus: Bryopsis
 species: ""
-attributes: [46, 97]
+attributes: [46, 97, 99]
+inat_id: 1253504
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Lepidoptera
+superfamily: Noctuoidea
+subfamily: Noctuinae
+tribe: Bryophilini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

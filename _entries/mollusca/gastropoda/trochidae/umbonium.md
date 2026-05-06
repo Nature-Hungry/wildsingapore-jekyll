@@ -1,8 +1,21 @@
 ---
-title: "Button snail (Umbonium vestiarium)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Button snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "button, shell, snail, umbonium, vestiarium, trochidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Trochidae
+genus: Umbonium
+species: vestiarium
+attributes: []
+inat_id: 349448
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Umboniinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,19 @@ title: Jarum-jarum
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ixora, congesta, rubiaceae, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 121]
+attributes: [18, 21, 36, 121]
 family: Rubiaceae
 genus: Ixora
 species: congesta
+inat_id: 425679
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Ixoroideae
+tribe: Ixoreae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

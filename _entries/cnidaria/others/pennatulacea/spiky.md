@@ -1,8 +1,20 @@
 ---
-title: "Spiky sea pen (Pteroeides sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spiky sea pen
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, pen, seapen, pteroeides, pteroeididae, pennatulidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pennatulidae
+genus: Pteroeides
+species: sp.*
+attributes: []
+inat_id: 1077631
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
+superfamily: Pennatuloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

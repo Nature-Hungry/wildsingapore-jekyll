@@ -1,8 +1,19 @@
 ---
-title: "Sonneratia (Sonneratia sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sonneratia "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Lythraceae
+genus: Sonneratia
+species: ""
+attributes: []
+inat_id: 182095
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

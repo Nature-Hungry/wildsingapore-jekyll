@@ -7,6 +7,23 @@ attributes: [38, 58, 69, 106, 112]
 family: Ocypodidae
 genus: Ocypode
 species: ceratophthalmus
+inat_id: 1676122
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
+subfamily: Ocypodinae
+complex: Ocypode ceratophthalmus
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

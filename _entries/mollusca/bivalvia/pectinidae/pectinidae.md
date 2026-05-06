@@ -1,8 +1,21 @@
 ---
-title: "Scallops (Pectinidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Scallops
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pectinidae
+genus: ""
+species: Family
+attributes: []
+inat_id: 54525
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Pectinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

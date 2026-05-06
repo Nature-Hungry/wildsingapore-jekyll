@@ -3,10 +3,20 @@ title: "Pinang palm "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 82]
+attributes: [8, 18, 20, 21, 36, 82]
 family: Arecaceae
 genus: Areca
 species: catechu
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Arecales
+subfamily: Arecoideae
+tribe: Areceae
+subtribe: Arecinae
+inat_id: 83108
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

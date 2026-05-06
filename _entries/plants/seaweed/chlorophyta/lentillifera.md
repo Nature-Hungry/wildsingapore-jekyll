@@ -8,6 +8,12 @@ family: Caulerpaceae
 genus: Caulerpa
 species: lentillifera*
 attributes: [97, 115]
+inat_id: 472002
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

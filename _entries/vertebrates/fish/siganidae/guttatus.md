@@ -3,10 +3,18 @@ title: Orange-spotted rabbitfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, spotted, rabbitfish, rabbit, fish, siganus, guttatus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60]
 family: Siganidae
 genus: Siganus
 species: guttatus
+inat_id: 180402
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

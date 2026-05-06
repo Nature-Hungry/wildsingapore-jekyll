@@ -1,8 +1,21 @@
 ---
-title: "Shore pit viper (Cryptelytrops purpureomaculatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Shore pit viper
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "shore, pit, viper, snake, cryptelytrops, trimeresurus, purpureomaculatus, viperidae, crotalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Viperidae
+genus: Cryptelytrops
+species: purpureomaculatus
+attributes: []
+inat_id: 98700
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
+subfamily: Crotalinae
 ---
 
 

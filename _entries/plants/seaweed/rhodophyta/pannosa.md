@@ -8,6 +8,14 @@ family: Cystocloniaceae
 genus: Hypnea
 species: pannosa*
 attributes: [50, 97, 98]
+inat_id: 327096
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Gigartinales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

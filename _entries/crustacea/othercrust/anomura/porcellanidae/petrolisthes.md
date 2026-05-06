@@ -6,7 +6,20 @@ layout: default
 attributes: [38, 122]
 family: Porcellanidae
 genus: Petrolisthes
-species: sp.*
+species: ""
+inat_id: 47804
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Galatheoidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

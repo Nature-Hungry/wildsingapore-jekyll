@@ -3,10 +3,13 @@ title: Tiny orange star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [91]
+attributes: [0, 1, 91, 92, 106]
 family: ""
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

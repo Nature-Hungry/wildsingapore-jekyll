@@ -3,10 +3,19 @@ title: "Sea hibiscus "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 121]
+attributes: [18, 21, 36, 121]
 family: Malvaceae
 genus: Talipariti
 species: tiliaceum
+inat_id: 62868
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malvales
+subfamily: Malvoideae
+tribe: Hibisceae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,19 @@ title: Jambu air laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, apple, syzygium, grande, myrtaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 62]
+attributes: [18, 21, 36, 62, 109]
 family: Myrtaceae
 genus: Syzygium
 species: grande
+inat_id: 343768
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+subfamily: Myrtoideae
+tribe: Syzygieae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

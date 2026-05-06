@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 47, 116]
 family: Sphyraenidae
 genus: ""
 species: ""
+inat_id: 47264
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Centropomoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

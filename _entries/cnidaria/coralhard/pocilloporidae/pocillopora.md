@@ -6,7 +6,14 @@ layout: default
 attributes: [38, 106]
 family: Pocilloporidae
 genus: Pocillopora
-species: sp.*
+species: ""
+inat_id: 60547
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

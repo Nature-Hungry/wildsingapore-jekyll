@@ -1,8 +1,17 @@
 ---
-title: "Feather star worms (Myzostomidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Feather star worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feather star, crinoid, scaleworm, scale, worm, bristleworm, myzostomidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Myzostomidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 1628529
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+order: Myzostomida
 ---
 
 

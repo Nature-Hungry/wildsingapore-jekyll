@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: elegant, branching, sponge, haliclona, chalinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "elegant, branching, sponge, haliclona, chalinidae, porifera, field, guide,"
 layout: default
 shape: branching
-title: Elegant branching sponges (Haliclona sp.) 
+title: Elegant branching sponge
+family: Chalinidae
+genus: ""
+species: Haliclona
+attributes: []
+inat_id: 129865
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

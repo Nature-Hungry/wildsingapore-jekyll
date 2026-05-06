@@ -5,8 +5,17 @@ keywords: "coral, scallop, clam, shell, pectinidae, bivalve, mollusc, field, gui
 layout: default
 attributes: [2, 33, 59]
 family: Pectinidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 54525
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Pectinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

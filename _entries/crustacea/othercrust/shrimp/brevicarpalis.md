@@ -7,6 +7,19 @@ attributes: [103, 104]
 family: Palaemonidae
 genus: Ancylocaris
 species: brevicarpalis
+inat_id: 962418
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Palaemonoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

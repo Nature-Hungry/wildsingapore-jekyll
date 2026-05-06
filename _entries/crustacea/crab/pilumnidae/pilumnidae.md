@@ -1,8 +1,27 @@
 ---
-title: "Pilumnid crabs (Pilumnidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Piluminid crabs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pilumnidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 195177
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Pilumnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,25 @@
 ---
-title: "Commensal shrimps (Periclimenes) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Commensal shrimps
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "commensal, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Paleomonidae
+genus: Periclimenes
+species: sp.*
+attributes: []
+inat_id: 1460209
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Palaemonoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

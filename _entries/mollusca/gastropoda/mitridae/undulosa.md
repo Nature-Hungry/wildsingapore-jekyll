@@ -1,8 +1,21 @@
 ---
-title: "Waved mitre snail (Pterygia undulosa)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Waved mitre snails
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mitre, pterygia, undulosa, mitridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Mitridae
+genus: Pterygia
+species: undulosa
+attributes: []
+inat_id: 1005352
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Mitroidea
+subfamily: Cylindromitrinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

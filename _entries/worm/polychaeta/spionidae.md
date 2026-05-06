@@ -1,8 +1,21 @@
 ---
-title: "Spinoid tubeworms (Spionidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spinoid worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tube, worm, spionid, spionidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Spionidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 123639
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Sedentaria
+infraclass: Canalipalpata
+order: Spionida
+suborder: Spioniformia
 ---
 
 

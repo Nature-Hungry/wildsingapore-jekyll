@@ -1,8 +1,15 @@
 ---
-title: "Red reef ribbon worm (Nemertea) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red reef ribbon worm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, ribbon, worm, ribbonworm, hoplonemertea, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

@@ -3,10 +3,20 @@ title: Saddled shrimp-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saddled, prawn, shrimp, goby, cryptocentrus, maudae, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [79]
+attributes: [9, 15, 19, 25, 43, 47, 48, 79, 106, 108]
 family: Gobiidae
 genus: Cryptocentrus
 species: maudae*
+inat_id: 502485
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Gobiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

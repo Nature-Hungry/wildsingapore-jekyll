@@ -3,10 +3,18 @@ title: Giant top shell snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "top, trochus, tectus, niloticus, trochidae, tegulidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 64, 71, 111, 123, 125]
+attributes: [23, 33, 64, 71, 100, 111, 123, 125]
 family: Tegulidae
 genus: Tectus
 species: niloticus
+inat_id: 962782
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

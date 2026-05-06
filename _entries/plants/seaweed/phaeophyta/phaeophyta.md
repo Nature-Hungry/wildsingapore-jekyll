@@ -1,12 +1,16 @@
 ---
-title: "Brown seaweeds (Phaeophyta) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Brown seaweeds "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 division: Phaeophyta
 family: ""
-genus: Phaeophyta
+genus: ""
 species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

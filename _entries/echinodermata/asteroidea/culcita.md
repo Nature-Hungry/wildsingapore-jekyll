@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Culcita
 species: novaeguineae
+inat_id: 50406
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

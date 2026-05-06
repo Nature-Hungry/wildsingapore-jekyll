@@ -7,6 +7,15 @@ attributes: [6, 88, 113]
 family: Actiniidae
 genus: Dofleinia
 species: armata
+inat_id: 361259
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

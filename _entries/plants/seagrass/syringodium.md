@@ -10,6 +10,13 @@ genus: Syringodium
 species: isoetifolium
 summary: Leaves cylindrical (like plastic tubing). Common on on Pulau Semakau.
 coverimg: "https://live.staticflickr.com/8546/29515741994_03f992d572_n.jpg"
+inat_id: 50375
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 
 

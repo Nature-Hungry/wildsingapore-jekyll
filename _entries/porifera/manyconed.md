@@ -1,11 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: many, cone, volcano, yellow, sponge, spheciospongia, clionaidae, porifera,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "many, cone, volcano, yellow, sponge, spheciospongia, clionaidae, porifera,"
 layout: default
 shape: ball
-title: Yellow volcano sponges (Spheciospongia) 
+title: Yellow volcano sponge
+family: Clionaidae
+genus: Spheciospongia
+species: sp.*
+attributes: []
+inat_id: 464969
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Clionaida
 ---
 
 

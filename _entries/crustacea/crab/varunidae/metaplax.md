@@ -7,6 +7,22 @@ attributes: [38, 106, 112]
 family: Varunidae
 genus: Metaplax
 species: elegans
+inat_id: 603097
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Grapsoidea
+subfamily: Cyclograpsinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

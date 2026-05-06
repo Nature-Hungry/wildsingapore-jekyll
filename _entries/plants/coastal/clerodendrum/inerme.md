@@ -3,10 +3,18 @@ title: "Gambir laut "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "clerodendrum, inerme, lamiaceae, verbenacae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 121]
+attributes: [18, 21, 36, 121]
 family: Verbenaceae
 genus: Clerodendrum
 species: inerme
+inat_id: 775466
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Lamiales
+subfamily: Ajugoideae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

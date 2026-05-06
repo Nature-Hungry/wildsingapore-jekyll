@@ -1,12 +1,19 @@
 ---
-title: "Fan green seaweed (Avrainvillea)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Fan green seaweeds
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "solitary, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 division: Chlorophyta
 family: Udoteaceae
 genus: Avrainvillea
 species: ""
+attributes: []
+inat_id: 131285
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

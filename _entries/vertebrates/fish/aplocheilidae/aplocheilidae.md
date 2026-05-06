@@ -3,10 +3,19 @@ title: Rivulines
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Aplocheilidae
 genus: Aplocheilus
 species: panchax*
+inat_id: 94390
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Cyprinodontiformes
+suborder: Aplocheiloidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,21 @@
 ---
-title: "Swimming file clam (Limaria)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Swimming file clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limaria, file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limidae
+genus: Limaria
+species: ""
+attributes: []
+inat_id: 136363
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Limida
+superfamily: Limoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

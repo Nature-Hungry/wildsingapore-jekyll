@@ -1,8 +1,23 @@
 ---
-title: "Atlas moth (Atlas attacus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Atlas moth
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Saturniidae
+genus: Attacus
+species: atlas
+attributes: []
+inat_id: 125071
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Lepidoptera
+superfamily: Bombycoidea
+subfamily: Saturniinae
+tribe: Attacini
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

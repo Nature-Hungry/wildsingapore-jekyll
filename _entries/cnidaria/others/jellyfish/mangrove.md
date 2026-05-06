@@ -1,8 +1,20 @@
 ---
-title: "Mangrove jellyfish (Acromitus sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove jellyfish
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, acromitus, rhizostomeae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Catosylidae
+genus: Acromitus
+species: ""
+attributes: []
+inat_id: 502402
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Scyphozoa
+subclass: Discomedusae
+order: Rhizostomeae
+suborder: Dactyliophorae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

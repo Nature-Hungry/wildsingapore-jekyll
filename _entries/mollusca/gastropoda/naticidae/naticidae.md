@@ -3,10 +3,18 @@ title: "Moon snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [90]
+attributes: []
 family: Naticidae
 genus: ""
 species: ""
+inat_id: 48923
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

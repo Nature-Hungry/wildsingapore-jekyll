@@ -5,8 +5,19 @@ keywords: "mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, sea
 layout: default
 attributes: [84, 103, 104]
 family: Squillidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 55807
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Hoplocarida
+order: Stomatopoda
+suborder: Unipeltata
+superfamily: Squilloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

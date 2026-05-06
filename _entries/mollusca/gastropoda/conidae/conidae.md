@@ -1,8 +1,20 @@
 ---
-title: "Cone snail (Conidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Cone snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Conidae
+genus: ""
+species: Family
+attributes: []
+inat_id: 55743
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Conoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

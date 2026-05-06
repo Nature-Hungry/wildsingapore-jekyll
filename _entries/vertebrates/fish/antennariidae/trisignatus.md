@@ -3,10 +3,19 @@ title: Spotted-tail frogfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spot, tail, frog, angler, fish, frogfish, anglerfish, lophiocharon, trisignatus, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Antennariidae
 genus: Lophiocharon
 species: trisignatus
+inat_id: 470194
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Lophiiformes
+subfamily: Histiophryninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

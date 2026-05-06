@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,"
 layout: default
 shape: ball
-title: Black bath sponges (Spongiidae) 
+title: Black bath sponge
+family: Spongiidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 126518
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 ---
 
 

@@ -1,8 +1,20 @@
 ---
-title: "Coastal horsehoe crab (Tachypleus gigas)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Coastal horseshoe crab
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coastal, horseshoe, horse, shoe, king, crab, tachypleus, gigas,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limulidae
+genus: Tachypleus
+species: gigas
+attributes: []
+inat_id: 364051
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Chelicerata
+class: Merostomata
+order: Xiphosurida
+subfamily: Tachypleinae
 ---
 
 arthropods

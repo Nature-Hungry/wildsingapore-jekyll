@@ -3,10 +3,17 @@ title: Tumu berau
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, berau, bruguiera, sexangula, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [32, 36, 68]
+attributes: [16, 18, 21, 32, 36, 68]
 family: Rhizophoraceae
 genus: Bruguiera
 species: sexangula
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
+inat_id: 189949
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

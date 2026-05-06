@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Protoreaster
 species: nodosus
+inat_id: 50412
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

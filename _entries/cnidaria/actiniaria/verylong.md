@@ -7,6 +7,15 @@ attributes: [5, 6, 88]
 family: Capneidae
 genus: Actinoporus
 species: elongatus*
+inat_id: 622560
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinostoloidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

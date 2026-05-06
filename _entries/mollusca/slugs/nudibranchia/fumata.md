@@ -3,10 +3,23 @@ title: Rose nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, dendrodoris, fumata, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [63, 90]
+attributes: [14, 22, 33, 63, 90]
 family: Dendrodorididae
 genus: Dendrodoris
 species: fumata
+inat_id: 50227
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Phyllidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

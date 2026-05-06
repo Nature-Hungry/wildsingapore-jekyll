@@ -7,6 +7,23 @@ attributes: [38, 106, 112]
 family: Ocypodidae
 genus: Tubuca
 species: rosea*
+inat_id: 739177
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
+subfamily: Gelasiminae
+tribe: Gelasimini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

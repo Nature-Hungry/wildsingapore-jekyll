@@ -7,6 +7,20 @@ attributes: [38, 69, 106, 112]
 family: Dromiidae
 genus: ""
 species: ""
+inat_id: 51168
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Dromiacea
+superfamily: Dromioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -3,10 +3,19 @@ title: Green chromide
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60]
 family: Cichlidae
 genus: Etroplus
 species: suratensis
+inat_id: 100604
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Cichliformes
+subfamily: Etroplinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

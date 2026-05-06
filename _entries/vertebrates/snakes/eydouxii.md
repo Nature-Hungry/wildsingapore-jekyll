@@ -1,8 +1,22 @@
 ---
-title: "Marbled sea snake (Aipysurus eydouxii) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Marbled sea snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Elapidae
+genus: Aipysurus
+species: eydouxii
+attributes: []
+inat_id: 35264
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
+subfamily: Hydrophiinae
+tribe: Hydrophiini
 ---
 
 

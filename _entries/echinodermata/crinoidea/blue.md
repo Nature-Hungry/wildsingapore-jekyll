@@ -5,8 +5,11 @@ keywords: "feather, star, featherstar, comatulida, crinoidea, crinoid, echinoder
 layout: default
 attributes: [1, 45, 92]
 family: ""
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

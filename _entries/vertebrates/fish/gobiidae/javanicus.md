@@ -3,10 +3,20 @@ title: Java fat-nose goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Pseudogobius
 species: javanicus
+inat_id: 188142
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Gobionellinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

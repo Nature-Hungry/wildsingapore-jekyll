@@ -1,8 +1,21 @@
 ---
-title: "Moray eel (Muraenidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Moray eels "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Muraenidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47313
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Muraenoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,19 @@ title: Zebra sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zebra, flat, fish, flatfish, sole, zebrias, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [49]
+attributes: [9, 25, 47, 49, 81]
 family: Soleidae
 genus: Zebrias
 species: zebra
+inat_id: 621048
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Pleuronectoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

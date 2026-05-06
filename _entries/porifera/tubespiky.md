@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,"
 layout: default
 shape: sausage
-title: Spiky tubular sponges (Gelliodes sp.) 
+title: Spiky tubular sponge
+family: Niphatidae
+genus: Gelliodes
+species: ""
+attributes: []
+inat_id: 604341
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

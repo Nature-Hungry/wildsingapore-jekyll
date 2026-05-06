@@ -1,8 +1,19 @@
 ---
-title: "Sapphire flatworm (Pseudoceros caeruleocinctus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sapphire flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, sapphirinus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: caeruleocinctus
+attributes: []
+inat_id: 711149
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

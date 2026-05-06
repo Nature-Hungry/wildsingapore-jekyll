@@ -3,10 +3,19 @@ title: Longnosed stargazer
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Uranoscopidae
 genus: Ichthyscopus
 species: lebeck
+inat_id: 621988
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Labriformes
+suborder: Uranoscopoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

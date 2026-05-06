@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 47, 116]
 family: Monacanthidae
 genus: Anacanthus
 species: barbatus
+inat_id: 93996
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Balistoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

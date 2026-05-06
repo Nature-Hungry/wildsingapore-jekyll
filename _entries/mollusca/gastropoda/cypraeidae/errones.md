@@ -3,10 +3,20 @@ title: Wandering cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 71, 111, 123, 127]
+attributes: [23, 33, 71, 100, 111, 123, 127]
 family: Cypraeidea
 genus: Erronea
 species: errones
+inat_id: 368589
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erroneinae
+tribe: Erroneini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

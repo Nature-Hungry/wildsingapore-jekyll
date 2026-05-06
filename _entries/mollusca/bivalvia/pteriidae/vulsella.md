@@ -1,8 +1,21 @@
 ---
-title: "Sponge finger oyster (Vulsella)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sponge finger oyster
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Pteriidae
+genus: Vulsella
+species: sp.
+attributes: []
+inat_id: 849784
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pterioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

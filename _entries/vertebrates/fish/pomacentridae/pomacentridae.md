@@ -1,8 +1,20 @@
 ---
-title: "Damselfishes (Pomacentridae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Damselfishes "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pomacentridae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48313
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

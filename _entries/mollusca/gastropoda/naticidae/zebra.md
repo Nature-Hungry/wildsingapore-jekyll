@@ -1,8 +1,21 @@
 ---
-title: "Zebra moon snail (Tanea areolata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Zebra moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zebra, moon, snail, shell, tanea, natica, areolata, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Tanea
+species: areolata
+attributes: []
+inat_id: 369123
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Naticinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

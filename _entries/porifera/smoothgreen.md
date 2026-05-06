@@ -1,10 +1,16 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: smooth, green, sponge, porifera, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "smooth, green, sponge, porifera, field, guide, seashore, sea, shore, marine,"
 layout: default
 shape: encrusting
-title: Smooth green sponges 
+title: Smooth green sponge
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

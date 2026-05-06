@@ -1,8 +1,21 @@
 ---
-title: "Margin snails (Marginellidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Margin snails
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Marginellidae
+genus: Cryptospira
+species: ""
+attributes: []
+inat_id: 890097
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Volutoidea
+subfamily: Pruninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

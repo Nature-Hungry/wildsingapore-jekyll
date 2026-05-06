@@ -1,9 +1,19 @@
 ---
-title: "Moon corals (Diploastrea heliopora) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "moon, diploastrea, heliopora, faviidae, 
-diploastreidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Moon coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: ""moon, diploastrea, heliopora, faviidae,"
 layout: default
+family: Faviidae
+genus: Diploastrea
+species: heliopora*
+attributes: []
+inat_id: 50357
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -7,6 +7,15 @@ attributes: [6, 88]
 family: Aiptasiidae
 genus: Paraiptasia
 species: radiata
+inat_id: 855307
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Metridioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

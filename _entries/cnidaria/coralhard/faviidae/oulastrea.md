@@ -1,8 +1,19 @@
 ---
-title: "Zebra corals (Ouslastrea crispata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Zebra coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zebra, oulastrea, crispata, oulastreidae, faviidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Faviidae
+genus: Oulastrea
+species: crispata*
+attributes: []
+inat_id: 503818
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

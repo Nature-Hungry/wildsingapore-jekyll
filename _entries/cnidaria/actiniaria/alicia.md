@@ -7,6 +7,19 @@ attributes: [5, 6, 88]
 family: Aliciidae
 genus: Alicia
 species: sp.
+inat_id: 1154776
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Hymenoptera
+suborder: Apocrita
+infraorder: Aculeata
+superfamily: Pompiloidea
+subfamily: Pepsinae
+tribe: Priocnemini
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

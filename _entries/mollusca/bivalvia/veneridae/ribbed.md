@@ -1,8 +1,24 @@
 ---
-title: "Ribbed venus clam (Gafrarium)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ribbed venus clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, shell, gafrarium, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Veneridae
+genus: Gafrarium
+species: sp.*
+attributes: []
+inat_id: 1209247
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Veneroidea
+subfamily: Gouldiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

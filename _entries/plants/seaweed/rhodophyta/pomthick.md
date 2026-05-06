@@ -8,6 +8,15 @@ family: Galaxauraceae
 genus: ""
 species: ""
 attributes: [52, 97, 98]
+inat_id: 131368
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Nemaliophycidae
+order: Nemaliales
+suborder: Galaxaurineae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

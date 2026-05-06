@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,"
 layout: default
 shape: ball
-title: Spiky ball sponges (Dysidea sp.) 
+title: Spiky ball sponge
+family: Dysideidae
+genus: Dysidea
+species: ""
+attributes: []
+inat_id: 131710
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 ---
 
 

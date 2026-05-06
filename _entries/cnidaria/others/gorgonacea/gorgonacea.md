@@ -1,8 +1,19 @@
 ---
-title: "Gorgonians (Gorgonacea) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sea fans or Gorgonians
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Briareidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 132301
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

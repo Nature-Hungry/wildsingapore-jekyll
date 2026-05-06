@@ -1,8 +1,18 @@
 ---
-title: "Leathery soft coral ctenophores (Coeloplana sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Leathery soft coral ctenophores
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: Coeloplana
+species: ""
+attributes: []
+inat_id: 346887
+stateofmatter: Life
+kingdom: Animalia
+phylum: Ctenophora
+class: Tentaculata
+order: Platyctenida
 ---
 **Leathery
 soft coral ctenophores**  

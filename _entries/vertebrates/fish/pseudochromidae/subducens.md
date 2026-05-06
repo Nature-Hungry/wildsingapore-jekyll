@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 43, 47]
 family: Pseudochromidae
 genus: Congrogadus
 species: subducens
+inat_id: 530730
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
+subfamily: Congrogadinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

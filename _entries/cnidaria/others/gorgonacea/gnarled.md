@@ -1,8 +1,12 @@
 ---
-title: "Gnarled sea fan (Echinomuricea pulchra) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Gnarled sea fan
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plexauridae
+genus: Echinomuricea
+species: pulchra*
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

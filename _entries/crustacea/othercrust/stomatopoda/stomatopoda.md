@@ -1,8 +1,23 @@
 ---
-title: "Mantis shrimps (Stomatopoda) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mantis shrimps
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Gonodactylidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 50296
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Hoplocarida
+order: Stomatopoda
+suborder: Unipeltata
+superfamily: Gonodactyloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -3,10 +3,19 @@ title: "Dragon scales "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "drymoglossum, piloselloides, polypodiaceae, fern, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 96]
+attributes: [8, 18, 21, 36, 96]
 family: Polypodiaceae
 genus: Drymoglossum
 species: piloselloides
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+class: Polypodiopsida
+subclass: Polypodiidae
+order: Polypodiales
+suborder: Polypodiineae
+subfamily: Platycerioideae
+inat_id: 345927
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

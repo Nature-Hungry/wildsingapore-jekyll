@@ -3,10 +3,19 @@ title: Harlequin sweetlips
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "harlequin, sweetlips, fish, plectorhinchus, chaetodonoides, nigrus, haemulidae,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 15, 19, 25, 42, 47, 74]
 family: Haemulidae
 genus: Plectorhinchus
 species: chaetodonoides
+inat_id: 122002
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
+subfamily: Plectorhinchinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

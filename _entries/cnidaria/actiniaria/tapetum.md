@@ -7,6 +7,15 @@ attributes: [6, 88, 102]
 family: Stichodactylidae
 genus: Stichodactyla
 species: tapetum
+inat_id: 469544
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,"
 layout: default
 shape: encrusting
-title: Blue jorunna sponges (Neopetrosia sp.) 
+title: Blue jorunna sponge
+family: Petrosiidae
+genus: Neopetrosia
+species: ""
+attributes: []
+inat_id: 131793
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

@@ -1,8 +1,25 @@
 ---
-title: "Sponge barnacle (Membranobalanus longirostrum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sponge barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Archaeobalanidae
+genus: Membranobalanus
+species: longirostrum
+attributes: []
+inat_id: 778218
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Hexanauplia
+subclass: Thecostraca
+infraclass: Cirripedia
+subterclass: Thoracica
+superorder: Thoracicalcarea
+order: Balanomorpha
+superfamily: Balanoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

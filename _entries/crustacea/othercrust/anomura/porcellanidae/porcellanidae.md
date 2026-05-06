@@ -1,8 +1,25 @@
 ---
-title: "Porcelain crab (Porcellanidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Porcelain crabs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Porcellanidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47805
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Galatheoidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

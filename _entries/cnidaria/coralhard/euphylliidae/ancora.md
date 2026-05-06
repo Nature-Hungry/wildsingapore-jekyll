@@ -3,10 +3,17 @@ title: Brain anchor coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [88]
+attributes: []
 family: Euphylliidae
 genus: Euphyllia
 species: ancora*
+inat_id: 830680
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

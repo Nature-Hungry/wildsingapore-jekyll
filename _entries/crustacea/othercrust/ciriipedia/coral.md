@@ -1,8 +1,26 @@
 ---
-title: "Coral barnacles (Pyrgoma) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Coral barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barnacle, pyrgoma, pyrgomatidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pyrgomatidae
+genus: Pyrgoma
+species: ""
+attributes: []
+inat_id: 643648
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Mantodea
+suborder: Eumantodea
+infraorder: Schizomantodea
+superfamily: Eremiaphiloidea
+subfamily: Tarachodinae
+tribe: Tarachodini
+subtribe: Tarachodina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

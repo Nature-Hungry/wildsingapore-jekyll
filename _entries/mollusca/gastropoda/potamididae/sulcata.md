@@ -1,8 +1,19 @@
 ---
-title: "Belitong snail (Terebralia sulcata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Belitong snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "belitong, terebralia, sulcata, sulcate, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Potamididae
+genus: Terebralia
+species: sulcata
+attributes: []
+inat_id: 556285
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+superfamily: Cerithioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,24 @@
 ---
-title: "Phyllodesmium nudibranch (Phyllodesmium briareum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Phyllodesmium nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "phyllodesmium, briareum, glaucidae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Facelinidae
+genus: Phyllodesmium
+species: ""
+attributes: []
+inat_id: 54650
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Aeolidina
+superfamily: Aeolidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

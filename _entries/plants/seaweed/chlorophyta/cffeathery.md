@@ -1,12 +1,16 @@
 ---
-title: "Feathery green seaweeds on Singapore shores: how to tell them apart"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Feathery green seaweeds compared
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
 division: Chlorophyta
 family: ""
 genus: ""
 species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,26 @@
 ---
-title: "Amphipods (Amphipoda) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Amphipods "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Caprellidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47626
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Peracarida
+order: Amphipoda
+suborder: Senticaudata
+infraorder: Corophiida
+parvorder: Caprellidira
+superfamily: Caprelloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

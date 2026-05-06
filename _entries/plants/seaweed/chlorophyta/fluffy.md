@@ -8,6 +8,12 @@ family: Caulerpaceae
 genus: Caulerpa
 species: verticillata*
 attributes: [46, 97]
+inat_id: 326813
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

@@ -1,8 +1,20 @@
 ---
-title: "Brown-scurfy fig (Ficus consociata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Brown-scurfy fig "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, scurfy, fig, ficus, consociata, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Moraceae
+genus: Ficus
+species: consociata
+attributes: []
+inat_id: 425614
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Rosales
+tribe: Ficeae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

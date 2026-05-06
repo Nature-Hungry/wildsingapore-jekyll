@@ -8,6 +8,12 @@ family: Dasycladaceae
 genus: Neomeris
 species: ""
 attributes: [97, 115]
+inat_id: 131344
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Dasycladales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

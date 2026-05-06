@@ -10,6 +10,13 @@ genus: Halophila
 species: decipiens
 summary: "Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging in pairs. Minute serrations on edges and minute hairs on both sides of the leaves. Seen in deeper waters in our Southern islands."
 coverimg: "https://live.staticflickr.com/3788/9247400430_866983b68c.jpg"
+inat_id: 163512
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

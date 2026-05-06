@@ -1,8 +1,12 @@
 ---
-title: "Carpet anemones (Stichodactyla sp.) on Singapore shores: how to tell them apart"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Carpet "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snaky, anemone, stichodactyla, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: How to tell them apart?
+genus: ""
+species: ""
+attributes: []
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

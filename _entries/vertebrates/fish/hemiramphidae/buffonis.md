@@ -7,6 +7,14 @@ attributes: [9, 15, 25, 47, 116]
 family: Zenarchopteridae
 genus: Zenarchopterus
 species: buffonis
+inat_id: 366317
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Beloniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

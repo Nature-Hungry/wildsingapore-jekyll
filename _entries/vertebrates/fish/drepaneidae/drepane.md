@@ -3,10 +3,16 @@ title: Sicklefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sickle, fish, sicklefish, drepane, drepaneidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Drepaneidae
 genus: Drepane
-species: sp.
+species: ""
+inat_id: 154185
+stateofmatter: Life
+kingdom: Plantae
+phylum: Bryophyta
+class: Bryopsida
+order: Hypnales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

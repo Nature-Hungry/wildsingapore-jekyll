@@ -3,10 +3,18 @@ title: Ball sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ball, cucumber, seacucumber, phyllophorus, phyllophoridae, holothuridae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [89]
+attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Phyllophoridae
 genus: Phyllophorus
 species: sp.
+inat_id: 1383608
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Dendrochirotida
 ---
 [![](../../../wildfactsheet3.gif)](../../indexl)
 

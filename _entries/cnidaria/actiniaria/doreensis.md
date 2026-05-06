@@ -7,6 +7,15 @@ attributes: [6, 88, 113]
 family: Actiniidae
 genus: Heteractis
 species: doreensis
+inat_id: 1611539
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

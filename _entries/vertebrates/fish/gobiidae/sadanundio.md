@@ -3,10 +3,20 @@ title: Grey knight-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Stigmatogobius
 species: sadanundio
+inat_id: 614939
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Gobionellinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

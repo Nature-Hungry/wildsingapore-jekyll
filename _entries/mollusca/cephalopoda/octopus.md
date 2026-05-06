@@ -1,8 +1,22 @@
 ---
-title: "Octopuses (Octopodidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Octopuses
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Octopodidae
+genus: ""
+species: Octopus
+attributes: []
+inat_id: 47457
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Octopodiformes
+order: Octopoda
+suborder: Incirrata
+superfamily: Octopodoidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

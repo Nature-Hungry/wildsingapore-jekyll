@@ -1,12 +1,21 @@
 ---
-title: "Scaly red seaweeds (Peyssonnelia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Scaly red seaweed "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 division: Rhodophyta
 family: Peyssonneliaceae
 genus: Peyssonnelia
 species: ""
+attributes: []
+inat_id: 131373
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Peyssonneliales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

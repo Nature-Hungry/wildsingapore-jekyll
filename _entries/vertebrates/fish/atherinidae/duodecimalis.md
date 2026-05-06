@@ -3,10 +3,18 @@ title: Silversides
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Atherinidae
 genus: ""
 species: ""
+inat_id: 85611
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Atheriniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

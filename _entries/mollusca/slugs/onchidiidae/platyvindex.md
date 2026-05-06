@@ -1,8 +1,12 @@
 ---
-title: "Grey-footed mangrove onch slug (Platyvindex)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Grey-footed mangrove onch slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grey, foot, slug, seaslug, onch, onchidium, platyvindex, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Onchidiidae
+genus: Platyvindex
+species: ""
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

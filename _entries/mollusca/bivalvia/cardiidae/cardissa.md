@@ -7,6 +7,18 @@ attributes: [2, 33, 73]
 family: Cardiidae
 genus: Corculum
 species: cardissa
+inat_id: 50575
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Cardiida
+superfamily: Cardioidea
+subfamily: Fraginae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

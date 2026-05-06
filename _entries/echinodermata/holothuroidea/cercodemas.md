@@ -7,6 +7,14 @@ attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Cucumariidae
 genus: Cercodemas
 species: anceps
+inat_id: 349168
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Dendrochirotida
 ---
 
 

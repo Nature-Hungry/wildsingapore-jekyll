@@ -3,10 +3,18 @@ title: "Fanworms "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
-attributes: [92]
+attributes: []
 family: Sabellidae
 genus: ""
 species: ""
+inat_id: 49282
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Sedentaria
+infraclass: Canalipalpata
+order: Sabellida
 ---
 
 

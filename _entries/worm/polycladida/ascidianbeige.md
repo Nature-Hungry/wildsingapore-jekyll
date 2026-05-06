@@ -1,8 +1,19 @@
 ---
-title: "Marbled flatworm (Pseudoceros sp. 1) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Marbled flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, flat, worm, flatworm, pseudoceros, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: ""
+attributes: []
+inat_id: 52316
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

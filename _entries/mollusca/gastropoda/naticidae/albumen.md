@@ -1,8 +1,21 @@
 ---
-title: "Eggwhite moon snail (Polinices albumen)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Eggwhite moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "egg, white, moon, snail, neverita, polinices, albumen, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Polinices
+species: albumen
+attributes: []
+inat_id: 684604
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Polinicinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

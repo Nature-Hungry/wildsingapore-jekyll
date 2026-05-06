@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Anthenea
 species: aspera
+inat_id: 50384
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

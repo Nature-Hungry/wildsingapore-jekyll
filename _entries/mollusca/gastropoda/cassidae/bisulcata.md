@@ -1,8 +1,12 @@
 ---
-title: "Japanese bonnet snail (Semicassis bisulcata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Japanese bonnet snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bonnet, helmet, phalium, semicassis, bisulcata, cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cassidae
+genus: Phalium/Semicassis
+species: bisulcata
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

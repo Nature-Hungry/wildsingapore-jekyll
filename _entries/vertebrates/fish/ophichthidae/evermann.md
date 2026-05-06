@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 43, 47]
 family: Ophichthidae
 genus: Ophichthus
 species: lithinus
+inat_id: 618555
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Congroidei
+subfamily: Ophichthinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

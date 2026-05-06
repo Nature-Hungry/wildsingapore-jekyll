@@ -7,6 +7,15 @@ attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Holothuriidae
 genus: Holothuria
 species: albiventer*
+inat_id: 432849
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Holothuriida
+subgenus: Metriatyla
 ---
 
 

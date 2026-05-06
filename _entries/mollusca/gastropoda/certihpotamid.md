@@ -1,8 +1,21 @@
 ---
-title: "Comparison of creeper, bazillion and horn snails "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Creeper, Bazillion and Horn snails"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cerithiidae, potamididae, batiillariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cerithidae
+genus: How
+species: to
+attributes: []
+inat_id: 162721
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Liliales
+subfamily: Lilioideae
+tribe: Lilieae
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

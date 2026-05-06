@@ -3,7 +3,7 @@ title: "Kempudang baran "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 80]
+attributes: [16, 18, 21, 36, 68, 80]
 family: Celastraceae
 genus: Cassine
 species: viburnifolia

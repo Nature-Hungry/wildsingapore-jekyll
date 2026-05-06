@@ -3,10 +3,19 @@ title: Pizza anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pizza, anemone, cryptodendrum, adhaesivum, thalassianthidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [6, 51, 88]
+attributes: [6, 51, 88, 113]
 family: Thalassianthidae
 genus: Cryptodendrum
 species: adhaesivum
+inat_id: 208612
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

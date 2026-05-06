@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,"
 layout: default
 shape: bristley
-title: '''Hairy olives'' sponges (Stelletta clavosa) '
+title: 'Hairy olives' sponge
+family: Ancorinidae
+genus: Stelletta
+species: clavosa*
+attributes: []
+inat_id: 764906
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Tetractinellida
+suborder: Astrophorina
 ---
 
 

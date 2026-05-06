@@ -1,8 +1,19 @@
 ---
-title: "Purple-spotted flatworm (Pseudoceros laingensis) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Purple-spotted  flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, laingensis, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: laingensis
+attributes: []
+inat_id: 141936
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

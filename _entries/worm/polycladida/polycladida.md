@@ -3,7 +3,7 @@ title: Marine flatworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
-attributes: [90]
+attributes: []
 family: Callioplanidae
 genus: Order
 species: Polycladida

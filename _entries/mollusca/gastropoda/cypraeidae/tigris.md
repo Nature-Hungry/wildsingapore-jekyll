@@ -1,8 +1,22 @@
 ---
-title: "Tiger cowrie (Cypraeidae tigris)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Tiger cowrie "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cowrie, cypraea, tigris, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cypraeidea
+genus: Cypraea
+species: tigris
+attributes: []
+inat_id: 84107
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Cypraeinae
+tribe: Cypraeini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

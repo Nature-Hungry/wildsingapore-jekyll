@@ -1,8 +1,21 @@
 ---
-title: "Pink-spotted bead anemone (Anthopleura buddemeieri) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pink-spotted bead anemone
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Actiniidae
+genus: Anthopleura
+species: buddemeieri
+attributes: []
+inat_id: 712064
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

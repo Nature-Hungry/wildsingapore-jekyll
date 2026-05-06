@@ -3,10 +3,19 @@ title: Eagle rays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [118]
+attributes: [25, 47, 118]
 family: Myliobatidae
 genus: ""
 species: ""
+inat_id: 49298
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Chondrichthyes
+subclass: Elasmobranchii
+infraclass: Batoidea
+order: Myliobatiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

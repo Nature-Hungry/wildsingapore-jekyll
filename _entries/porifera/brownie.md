@@ -1,11 +1,13 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
 layout: default
 shape: blobs
-title: Brownie sponges (Hyattella tubaria) 
+title: Brownie sponge
+family: Spongiidae
+genus: Hyattella
+species: tubaria*
+attributes: []
 ---
 
 

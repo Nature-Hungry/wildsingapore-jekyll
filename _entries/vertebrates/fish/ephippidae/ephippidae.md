@@ -3,10 +3,18 @@ title: "Batfishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Ephippidae
 genus: ""
 species: ""
+inat_id: 49317
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

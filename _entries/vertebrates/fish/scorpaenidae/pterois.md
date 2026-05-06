@@ -7,6 +7,16 @@ attributes: [9, 15, 19, 25, 47, 74]
 family: Scorpaenidae
 genus: Pterois
 species: sp.
+inat_id: 1571782
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Scorpaenoidei
+subfamily: Pteroinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

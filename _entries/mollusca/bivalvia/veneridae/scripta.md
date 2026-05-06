@@ -1,8 +1,24 @@
 ---
-title: "Script venus clam (Circe scripta)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Script venus clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, shell, clam, circe, scripta, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Veneridae
+genus: Circe
+species: scripta*
+attributes: []
+inat_id: 701318
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Veneroidea
+subfamily: Gouldiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

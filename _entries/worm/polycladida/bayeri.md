@@ -1,8 +1,19 @@
 ---
-title: "Bayer's flatworm (Nymphozoon bayeri)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Bayer's flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bayers, nymphozoon, bayeri, flat, worm, flatworm,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Nymphozoon
+species: bayeri
+attributes: []
+inat_id: 574906
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

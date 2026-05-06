@@ -1,8 +1,22 @@
 ---
-title: "Jewelled chiton (Acanthopleura gemmata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Jewelled chiton
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acanthopleura, gemmata, chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: Acanthopleura
+species: gemmata
+attributes: []
+inat_id: 369105
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Polyplacophora
+subclass: Neoloricata
+order: Chitonida
+suborder: Chitonina
+superfamily: Chitonoidea
+subfamily: Acanthopleurinae
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

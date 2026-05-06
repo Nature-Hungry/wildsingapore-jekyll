@@ -1,8 +1,23 @@
 ---
-title: "Mactra clams (Mactridae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mactra clams
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "surf, clam, mactra, mactridae, mollusc, bivalvia, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Mactridae
+genus: ""
+species: ""
+attributes: []
+inat_id: 117623
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Mactroidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

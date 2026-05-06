@@ -7,6 +7,19 @@ attributes: [38, 122]
 family: Porcellanidae
 genus: Porcellanella
 species: triloba
+inat_id: 604272
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Galatheoidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

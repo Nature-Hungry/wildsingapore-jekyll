@@ -1,8 +1,20 @@
 ---
-title: "Red spindle cowrie (Ovulidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red spindle cowrie
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, spindle, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ovulidae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 49260
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

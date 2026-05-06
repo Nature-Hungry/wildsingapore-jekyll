@@ -5,8 +5,8 @@ keywords: "blenniidae, blenny, fish, field, guide, seashore, sea, shore, marine,
 layout: default
 attributes: [9, 15, 25, 43, 47]
 family: Blennidae
-genus: Awaiting
-species: identification
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

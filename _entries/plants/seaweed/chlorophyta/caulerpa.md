@@ -1,12 +1,19 @@
 ---
-title: "Caulerpa seaweeds "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Caulerpa green seaweeds
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caulerpa, caulerpaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
 division: Chlorophyta
 family: Caulerpaceae
-genus: ""
+genus: Caulerpa
 species: ""
+attributes: []
+inat_id: 50918
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

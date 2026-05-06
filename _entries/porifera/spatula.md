@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: "blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,"
 layout: default
 shape: leafy
-title: Silvery blue sponge (Lamellodysidea herbacea)
+title: Silvery blue  sponge
+family: Dysideidae
+genus: Lamellodysidea
+species: herbacea*
+attributes: []
+inat_id: 565912
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 ---
 
 

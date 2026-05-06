@@ -6,8 +6,14 @@ layout: default
 division: Chlorophyta
 family: Halimedaceae
 genus: Halimeda
-species: sp.*
+species: ""
 attributes: [44, 97]
+inat_id: 82275
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

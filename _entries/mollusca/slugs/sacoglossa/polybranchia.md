@@ -3,10 +3,20 @@ title: Bushy slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug, sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [30, 90]
+attributes: [14, 22, 30, 33, 90]
 family: Caliphyllidae
 genus: Polybranchia
 species: orientalis
+inat_id: 418409
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

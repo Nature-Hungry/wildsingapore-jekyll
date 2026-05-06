@@ -3,10 +3,19 @@ title: Crescent perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crescent, grunter, perch, fish, terapon, jarbua, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Terapontidae
 genus: Terapon
 species: jarbua
+inat_id: 113902
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Centrarchiformes
+suborder: Terapontoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

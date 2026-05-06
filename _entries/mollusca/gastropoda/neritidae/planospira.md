@@ -1,8 +1,21 @@
 ---
-title: "Flat-spire nerite snail (Nerita planospira)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Flat-spire nerite snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flatspire, flat, spire, nerita, nerite, ilynerita, planospira, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Nerita
+species: planospira
+attributes: []
+inat_id: 360962
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

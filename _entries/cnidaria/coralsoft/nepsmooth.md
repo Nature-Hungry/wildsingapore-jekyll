@@ -1,8 +1,19 @@
 ---
-title: "Smooth flowery soft coral (Litophyton sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Smooth flowery soft coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Nephtheidea
+genus: Litophyton
+species: ""
+attributes: []
+inat_id: 468418
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

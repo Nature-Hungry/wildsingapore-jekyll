@@ -1,8 +1,12 @@
 ---
-title: "Orange-footed mangrove onch slug (Onchidium griseum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Orange-footed mangrove onch slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, footed, slug, seaslug, onch, onchidium, griseum, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Onchidiidae
+genus: Onchidium
+species: griseum
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

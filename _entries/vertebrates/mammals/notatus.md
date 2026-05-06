@@ -1,8 +1,25 @@
 ---
-title: "Plantain squirrel (Callosciurus notatus) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Plantain squirrel "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Sciuridae
+genus: Callosciurus
+species: notatus
+attributes: []
+inat_id: 45945
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Euarchontoglires
+order: Rodentia
+suborder: Sciuromorpha
+subfamily: Callosciurinae
+tribe: Callosciurini
 ---
 
 

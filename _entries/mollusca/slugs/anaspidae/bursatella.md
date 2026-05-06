@@ -1,8 +1,22 @@
 ---
-title: "Hairy sea hare (Bursatella leachii)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Hairy sea hare
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, seahare, hare, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aplysiidae
+genus: Bursatella
+species: leachii
+attributes: []
+inat_id: 50559
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

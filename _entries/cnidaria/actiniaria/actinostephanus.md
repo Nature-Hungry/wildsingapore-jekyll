@@ -7,6 +7,15 @@ attributes: [6, 88, 113]
 family: Actinodendridae
 genus: Actinostephanus
 species: haeckeli
+inat_id: 472013
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

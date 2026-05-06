@@ -3,10 +3,18 @@ title: Big synaptid sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [89]
+attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Synaptidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 48044
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Paractinopoda
+order: Apodida
 ---
 
 

@@ -1,8 +1,19 @@
 ---
-title: "Torch anchor corals (Euphyllia glabrescens) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Torch anchor coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Euphylliidae
+genus: Euphyllia
+species: glabrescens*
+attributes: []
+inat_id: 100747
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

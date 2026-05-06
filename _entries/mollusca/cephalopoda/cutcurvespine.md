@@ -1,8 +1,22 @@
 ---
-title: "Curvespine cuttlefish (Sepia recurvirostra)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Curvespine cuttlefish
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curve, spine, cuttlefish, sepia, recurvirostra, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Sepiidae
+genus: Sepia
+species: recurvirostra
+attributes: []
+inat_id: 1500691
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Sepiida
+suborder: Sepiina
+superfamily: Sepioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

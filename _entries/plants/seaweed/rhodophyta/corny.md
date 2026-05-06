@@ -8,6 +8,15 @@ family: Rhodomeiaceae
 genus: Palisada
 species: perforata*
 attributes: [50, 97, 98]
+inat_id: 1027544
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Ceramiales
+tribe: Laurencieae
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

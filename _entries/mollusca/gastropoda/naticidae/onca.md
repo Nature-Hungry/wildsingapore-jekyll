@@ -1,8 +1,21 @@
 ---
-title: "China moon snail (Naticarius onca)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "China moon snail "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "china, moon, snail, shell, natica, naticarius, onca, gualtieriana, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Naticarius
+species: onca
+attributes: []
+inat_id: 418012
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Naticinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

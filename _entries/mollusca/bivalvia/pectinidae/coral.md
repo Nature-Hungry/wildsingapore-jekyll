@@ -1,8 +1,23 @@
 ---
-title: "Coral scallop (Pedum spondyloideum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Coral scallop
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pectinidae
+genus: Pedum
+species: spondyloideum*
+attributes: []
+inat_id: 202181
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Pectinoidea
+subfamily: Pedinae
+tribe: Pedini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

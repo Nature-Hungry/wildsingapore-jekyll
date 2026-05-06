@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,"
 layout: default
 shape: ball
-title: Golf ball sponges (Cinachyrella australiensis) 
+title: Golf ball sponge
+family: Tetillidae
+genus: Cinachyrella
+species: australiensis*
+attributes: []
+inat_id: 551979
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Tetractinellida
+suborder: Spirophorina
 ---
 
 

@@ -1,8 +1,24 @@
 ---
-title: "Sea slater (Ligia sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sea slaters "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Ligiidae
+genus: Ligia
+species: ""
+attributes: []
+inat_id: 55358
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Peracarida
+order: Isopoda
+suborder: Oniscidea
+infraorder: Diplocheta
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

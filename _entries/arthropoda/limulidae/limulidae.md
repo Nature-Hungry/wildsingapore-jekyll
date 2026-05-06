@@ -1,8 +1,19 @@
 ---
-title: "Horsehoe crabs (Limulidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Horseshoe crabs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limulidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 326110
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Chelicerata
+class: Merostomata
+order: Xiphosurida
 ---
 
 arthropods

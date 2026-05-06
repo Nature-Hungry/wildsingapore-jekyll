@@ -7,6 +7,15 @@ attributes: [6, 88, 113]
 family: Stichodactylidae
 genus: Stichodactyla
 species: haddoni
+inat_id: 424142
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

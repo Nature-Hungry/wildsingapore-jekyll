@@ -3,10 +3,19 @@ title: Tongue-soles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [49]
+attributes: [9, 25, 47, 49, 81]
 family: Cynoglossidae
 genus: ""
 species: ""
+inat_id: 85721
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Pleuronectoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

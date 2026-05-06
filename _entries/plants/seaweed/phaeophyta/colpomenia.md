@@ -8,6 +8,13 @@ family: Scytosiphonaceae
 genus: Colpomenia
 species: sinuosa*
 attributes: [41, 97, 98]
+inat_id: 328391
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Fucophycidae
+order: Ectocarpales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -10,6 +10,13 @@ genus: Enhalus
 species: acoroides
 summary: "Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. Thick rhizomes. Flowering often observed. Large female flowers on coiled stalk. Tiny white male flowers produced from inflorescence at base of the plant. Often seen on most of our undisturbed shores. Largest meadow on Pulau Semakau."
 coverimg: "https://live.staticflickr.com/65535/54588072124_3781dc5647.jpg"
+inat_id: 50360
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

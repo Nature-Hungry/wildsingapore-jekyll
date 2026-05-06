@@ -3,10 +3,18 @@ title: Dark Diana conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 64, 71, 111, 123]
+attributes: [23, 33, 64, 71, 100, 111, 123]
 family: Strombidae
 genus: Euprotomus
 species: aratrum
+inat_id: 542265
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Stromboidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

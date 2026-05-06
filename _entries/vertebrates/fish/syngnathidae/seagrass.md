@@ -5,8 +5,17 @@ keywords: "pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shor
 layout: default
 attributes: [9, 15, 25, 47, 116]
 family: Syngnathidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 49106
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -3,10 +3,17 @@ title: Bedara laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bedara, laut, ximenia, americana, olacaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 120]
+attributes: [18, 21, 36, 120]
 family: Olacaceae
 genus: Ximenia
 species: americana
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Santalales
+inat_id: 83832
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

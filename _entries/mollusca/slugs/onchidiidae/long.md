@@ -1,8 +1,23 @@
 ---
-title: "Long onch slug (Onchidiidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Long onch slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Onchidiidae
+genus: ""
+species: identification*
+attributes: []
+inat_id: 54928
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Eupulmonata
+order: Systellommatophora
+superfamily: Onchidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

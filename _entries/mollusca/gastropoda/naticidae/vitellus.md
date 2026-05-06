@@ -1,8 +1,21 @@
 ---
-title: "Calf moon snail (Natica vitellus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Calf moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, snail, natica, vitellus, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Natica
+species: vitellus
+attributes: []
+inat_id: 369037
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Naticinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,19 @@
 ---
-title: "Scintillating flatworm (Pseudoceros scintillatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Scintillating flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, scintillatus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudoceros
+species: scintillatus
+attributes: []
+inat_id: 318009
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

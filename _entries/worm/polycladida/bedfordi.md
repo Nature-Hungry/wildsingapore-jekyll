@@ -1,8 +1,19 @@
 ---
-title: "Persian carpet flatworm (Pseudobiceros bedfordi) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Persian carpet flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "persian, carpet, flat, worm, flatworm, pseudobiceros, bedfordi, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudobiceros
+species: bedfordi
+attributes: []
+inat_id: 121378
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

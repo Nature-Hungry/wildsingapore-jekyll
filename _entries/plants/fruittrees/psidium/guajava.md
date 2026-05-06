@@ -7,6 +7,16 @@ attributes: [8, 10, 20, 21]
 family: Myrtaceae
 genus: Psidium
 species: guajava
+inat_id: 62859
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+subfamily: Myrtoideae
+tribe: Myrteae
+subtribe: Pimentinae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

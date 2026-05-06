@@ -1,8 +1,20 @@
 ---
-title: "Reef bristleworms (Eurythoe complanata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Reef bristleworms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Amphinomidae
+genus: Eurythoe
+species: complanata*
+attributes: []
+inat_id: 194929
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Errantia
+order: Amphinomida
+subfamily: Amphinominae
 ---
 
 

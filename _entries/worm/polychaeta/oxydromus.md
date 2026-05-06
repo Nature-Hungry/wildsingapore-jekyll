@@ -1,8 +1,12 @@
 ---
-title: "Urchin-mouth worms (Oxydromus cf. angustifrons) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Urchin-mouth worm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bristle, worm, oxydromus, angustifrons, hesionidae, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Hesionidae
+genus: Oxydromus
+species: cf.
+attributes: []
 ---
 
 

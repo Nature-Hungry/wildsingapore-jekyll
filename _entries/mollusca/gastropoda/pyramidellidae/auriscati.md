@@ -1,8 +1,22 @@
 ---
-title: "Cat's ear pyramid snail (Otopleura auriscati)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Cat's ear pyramid snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pyramid, snail, otopleura auriscati, pyramidellidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pyramidellidae
+genus: Otopleura
+species: auriscati
+attributes: []
+inat_id: 369197
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Pylopulmonata
+superfamily: Pyramidelloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

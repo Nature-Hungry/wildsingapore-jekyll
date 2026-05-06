@@ -1,8 +1,15 @@
 ---
-title: "Acorn worms (Enteropneusta) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Acorn worms "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

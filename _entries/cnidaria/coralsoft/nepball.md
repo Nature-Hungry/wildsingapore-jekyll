@@ -1,8 +1,19 @@
 ---
-title: "Ball flowery soft coral (Dendronephthya sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ball flowery soft coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ball, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Nephtheidea
+genus: Dendronephthya
+species: sp.*
+attributes: []
+inat_id: 1402519
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

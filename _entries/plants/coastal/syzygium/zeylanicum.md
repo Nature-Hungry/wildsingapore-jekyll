@@ -3,10 +3,19 @@ title: Kelat nasi nasi
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, apple, syzygium, zeylanicum, myrtaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 109]
+attributes: [18, 21, 36, 109, 120]
 family: Myrtaceae
 genus: Syzygium
 species: zeylanicum
+inat_id: 344854
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+subfamily: Myrtoideae
+tribe: Syzygieae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

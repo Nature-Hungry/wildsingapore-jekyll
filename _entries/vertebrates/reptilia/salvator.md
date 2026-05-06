@@ -1,8 +1,22 @@
 ---
-title: "Malayan water monitor (Varanus salvator) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Malayan water monitor
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "malayan, water, monitor, varanus, salvator, varanidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Varanidae
+genus: Varanus
+species: salvator
+attributes: []
+inat_id: 114891
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Sauria
+infraorder: Anguimorpha
+subgenus: Soterosaurus
 ---
 
 

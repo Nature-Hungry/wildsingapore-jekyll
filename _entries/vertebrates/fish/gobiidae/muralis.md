@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 43, 47]
 family: Gobiidae
 genus: Valenciennea
 species: muralis
+inat_id: 346147
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Gobiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

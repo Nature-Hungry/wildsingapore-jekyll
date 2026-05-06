@@ -8,6 +8,13 @@ family: Sargassaceae
 genus: Turbinaria
 species: ""
 attributes: [41, 97, 98]
+inat_id: 92703
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

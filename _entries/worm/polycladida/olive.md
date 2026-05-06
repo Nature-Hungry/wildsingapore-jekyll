@@ -1,8 +1,19 @@
 ---
-title: "Olive flatworm (Tytthosoceros lizardensis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Olive flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Tytthosoceros
+species: lizardensis*
+attributes: []
+inat_id: 603920
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

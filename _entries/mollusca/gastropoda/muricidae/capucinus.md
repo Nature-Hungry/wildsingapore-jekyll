@@ -1,8 +1,21 @@
 ---
-title: "Mangrove murex (Chicoreus capucinus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove murex
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, snail, shell,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Muricidae
+genus: Chicoreus
+species: capucinus
+attributes: []
+inat_id: 601986
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Muricoidea
+subfamily: Muricinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

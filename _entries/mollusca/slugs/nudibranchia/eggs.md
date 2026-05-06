@@ -1,8 +1,15 @@
 ---
-title: "Nudibranch eggs (Nudibranchia) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Nudibranch eggs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nudibranch, egg, mass,  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

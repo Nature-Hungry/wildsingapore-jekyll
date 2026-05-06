@@ -1,8 +1,19 @@
 ---
-title: "Orsak's flatworm (Nymphozoon orsaki) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Orsak's flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orsaks, nymphozoon, orsaki, flat, worm, flatworm,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Nymphozoon
+species: orsaki
+attributes: []
+inat_id: 1534272
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

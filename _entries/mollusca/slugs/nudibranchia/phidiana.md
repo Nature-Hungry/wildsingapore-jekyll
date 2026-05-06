@@ -1,8 +1,24 @@
 ---
-title: "Phidiana nudibranch (Phidiana militaris)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Phidiana nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "phidiana, militaris, aeolid, glaucidae, facelinidae, aeolidina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Facelinidae
+genus: Phidiana
+species: militaris
+attributes: []
+inat_id: 349137
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Aeolidina
+superfamily: Aeolidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,20 @@
 ---
-title: "Sea turtles "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sea turtles
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cheloniidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 39657
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Testudines
+superfamily: Chelonioidea
 ---
 
 

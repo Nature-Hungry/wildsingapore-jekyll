@@ -3,10 +3,20 @@ title: Sharks
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sharks, selachimorpha, selachii, elasmobranchii, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [9, 15, 25, 43, 47, 58, 60]
 family: Hemiscylliidae
 genus: ""
 species: ""
+inat_id: 85819
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Chondrichthyes
+subclass: Elasmobranchii
+infraclass: Selachii
+superorder: Galeomorphi
+order: Orectolobiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

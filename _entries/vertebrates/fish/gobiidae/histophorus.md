@@ -7,6 +7,16 @@ attributes: [9, 15, 19, 25, 47, 72]
 family: Gobiidae
 genus: Scartelaos
 species: histophorus
+inat_id: 362471
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Oxudercinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

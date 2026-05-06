@@ -1,8 +1,20 @@
 ---
-title: "Keelworms "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Keelworms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Serpulidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49518
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Sedentaria
+infraclass: Canalipalpata
+order: Sabellida
 ---
 
 

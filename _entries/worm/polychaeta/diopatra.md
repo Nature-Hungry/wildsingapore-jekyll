@@ -1,8 +1,20 @@
 ---
-title: "Solitary tube worms (Diopatra) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Solitary tubeworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Onuphidae
+genus: Diopatra
+species: sp.*
+attributes: []
+inat_id: 1525622
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Errantia
+order: Eunicida
+subfamily: Onuphinae
 ---
 
 

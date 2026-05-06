@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: "orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,"
 layout: default
 shape: branching
-title: Orange sprawling sponges (Clathria reinwardti) 
+title: Orange sprawling sponge
+family: Microcionidae
+genus: Clathria
+species: reinwardti*
+attributes: []
+inat_id: 1432650
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Poecilosclerida
+subfamily: Microcioninae
 ---
 
 

@@ -1,8 +1,24 @@
 ---
-title: "Big plain armina nudibranch (Armina babai)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Big plain armina nudibranch "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "armina, babai, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Arminidae
+genus: ""
+species: Armina
+attributes: []
+inat_id: 47501
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Arminina
+superfamily: Arminoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

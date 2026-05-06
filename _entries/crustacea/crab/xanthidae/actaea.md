@@ -7,6 +7,15 @@ attributes: [38, 106]
 family: Xanthidae
 genus: Actaea
 species: ""
+inat_id: 49871
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Ranunculales
+subfamily: Ranunculoideae
+tribe: Actaeeae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,26 @@
 ---
-title: "Maritima hypselodoris nudibranch (Hypselodoris maritima)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Maritima hypselodoris nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hypselodoris, maritima, nudibranch, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chromodorididae
+genus: Hypselodoris
+species: maritima
+attributes: []
+inat_id: 418369
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Chromodoridoidea
+subfamily: Miamirinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

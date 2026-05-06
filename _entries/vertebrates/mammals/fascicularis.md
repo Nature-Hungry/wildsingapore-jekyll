@@ -1,8 +1,27 @@
 ---
-title: "Long-tailed macaque (Macaca fascicularis) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: [, Long-tailed macaque]
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cercopithecidae
+genus: Long-tailed
+species: macaque
+attributes: []
+inat_id: 43459
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Euarchontoglires
+order: Primates
+suborder: Haplorhini
+infraorder: Simiiformes
+parvorder: Catarrhini
+subfamily: Cercopithecinae
+tribe: Papionini
 ---
 
 

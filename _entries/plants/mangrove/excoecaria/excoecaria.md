@@ -3,10 +3,19 @@ title: "Buta-buta "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 80]
+attributes: [16, 18, 21, 36, 68, 80]
 family: Euphorbiaceae
 genus: Excoecaria
 species: agallocha
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
+subfamily: Euphorbioideae
+tribe: Hippomaneae
+inat_id: 192360
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

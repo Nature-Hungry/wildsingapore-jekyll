@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,"
 layout: default
 shape: encrusting
-title: Rainbow sponges (Suberites) 
+title: Rainbow sponge
+family: Suberitidae
+genus: Suberites
+species: ""
+attributes: []
+inat_id: 180012
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Suberitida
 ---
 
 

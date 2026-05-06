@@ -1,8 +1,25 @@
 ---
-title: "Volcano barnacle (Tetraclita)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Volcano barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "volcano, barnacle, tetraclita, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Balanidae
+genus: Tetraclita
+species: ""
+attributes: []
+inat_id: 121685
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Hexanauplia
+subclass: Thecostraca
+infraclass: Cirripedia
+subterclass: Thoracica
+superorder: Thoracicalcarea
+order: Balanomorpha
+superfamily: Coronuloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

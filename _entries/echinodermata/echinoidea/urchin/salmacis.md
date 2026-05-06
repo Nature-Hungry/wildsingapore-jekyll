@@ -1,8 +1,23 @@
 ---
-title: "Salmacis urchins (Salmacis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Salmacis sea urchins
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Temnopleuridae
+genus: Salmacis
+species: ""
+attributes: []
+inat_id: 348169
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Echinoidea
+subclass: Euechinoidea
+infraclass: Carinacea
+subterclass: Echinacea
+order: Camarodonta
+infraorder: Temnopleuridea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

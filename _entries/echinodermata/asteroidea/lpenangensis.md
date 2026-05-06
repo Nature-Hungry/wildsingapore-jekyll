@@ -1,8 +1,20 @@
 ---
-title: "Sixe-armed Luidia sea star (Luidia penangensis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Six-armed Luidia sea star
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, sea star, seastar, starfish, star, fish, luidia, penangensis, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Luidiidae
+genus: Luidia
+species: penangensis
+attributes: []
+inat_id: 353781
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

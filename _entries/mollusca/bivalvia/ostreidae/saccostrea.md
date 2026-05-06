@@ -1,8 +1,22 @@
 ---
-title: "Spiked rock oyster (Saccostrea cuccullata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spiked rock oyster
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Osteridae
+genus: Saccostrea
+species: cuccullata*
+attributes: []
+inat_id: 482639
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Ostreoidea
+subfamily: Saccostreinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,"
 layout: default
 shape: branching
-title: Thorny stem sponges (Gelliodes fibulata) 
+title: Thorny stem sponge
+family: Niphatidae
+genus: Gelliodes
+species: fibulata*
+attributes: []
+inat_id: 604340
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

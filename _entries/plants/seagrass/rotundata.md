@@ -10,6 +10,13 @@ genus: Cymodocea
 species: rotundata
 summary: "Narrow and shorter ribbon-like leaves with rounded or squarish tips without serrations. Rhizomes thick and smooth. Seen on Chek Jawa, Tanah Merah and Cyrene Reef."
 coverimg: "https://live.staticflickr.com/1066/5178347250_281e1f910c_s.jpg"
+inat_id: 50379
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

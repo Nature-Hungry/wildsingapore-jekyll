@@ -1,10 +1,16 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
-  intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,"
 layout: default
 shape: stick
-title: Yellow horn sponges (Porifera) 
+title: Yellow horn sponge
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

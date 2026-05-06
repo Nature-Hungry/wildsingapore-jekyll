@@ -1,8 +1,25 @@
 ---
-title: "Parasitic barnacle (Thompsonia)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Parasitic barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "parasite, barnacle, thompsonia, thompsoniidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Thompsoniidae
+genus: Thompsonia
+species: ""
+attributes: []
+inat_id: 1121165
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Coleoptera
+suborder: Polyphaga
+infraorder: Cucujiformia
+superfamily: Cerambycoidea
+subfamily: Cerambycinae
+tribe: Callichromatini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

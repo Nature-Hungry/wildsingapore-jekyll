@@ -3,10 +3,18 @@ title: Plain sand star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [91]
+attributes: [0, 1, 91, 92, 106]
 family: Astropectinidae
 genus: ""
 species: Astropecten
+inat_id: 48238
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

@@ -1,8 +1,19 @@
 ---
-title: "Skinny sea fan (Astrogorgia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Skinny sea fans
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plexauridae
+genus: Astrogorgia
+species: ""
+attributes: []
+inat_id: 858412
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

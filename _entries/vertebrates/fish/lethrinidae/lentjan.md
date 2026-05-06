@@ -3,10 +3,19 @@ title: "Pink ear emperor "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, ear, emperor, fish, lethrinus, lentjan, lethrinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60]
 family: Lethrinidae
 genus: Lethrinus
 species: lentjan
+inat_id: 341864
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
+subfamily: Lethrininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

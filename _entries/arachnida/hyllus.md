@@ -1,8 +1,25 @@
 ---
-title: "Heavy jumper spiders (Hyllus diardi) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Heavy jumper spider
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Salticidae
+genus: Hyllus
+species: diardi
+attributes: []
+inat_id: 70371
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Chelicerata
+class: Arachnida
+order: Araneae
+suborder: Araneomorphae
+infraorder: Entelegynae
+superfamily: Salticoidea
+subfamily: Salticinae
+tribe: Plexippini
+subtribe: Plexippina
 ---
  
 

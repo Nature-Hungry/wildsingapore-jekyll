@@ -1,8 +1,19 @@
 ---
-title: "Lyre sea fan (Ctenocella pectinata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Lyre sea fan
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ellisellidae
+genus: Ctenocella
+species: pectinata*
+attributes: []
+inat_id: 604334
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

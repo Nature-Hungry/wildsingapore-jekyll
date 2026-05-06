@@ -1,8 +1,21 @@
 ---
-title: "Skates, rays and stingrays (Rajiformes) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Skates, rays and stingrays"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Dasyatidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47271
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Chondrichthyes
+subclass: Elasmobranchii
+infraclass: Batoidea
+order: Myliobatiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,19 @@
 ---
-title: "Partridge sundial snails (Architectonica perdix) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Patridge sundial snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "partridge, sundial, architectonica, perdix, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Architectonicidae
+genus: Architectonica
+species: perdix
+attributes: []
+inat_id: 538775
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+superfamily: Architectonicoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,19 @@
 ---
-title: "Spiky flowery soft coral (Stereonephthya sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spiky flowery soft coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, flower, stereonephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Nephtheidea
+genus: Stereonephthya
+species: ""
+attributes: []
+inat_id: 1208378
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

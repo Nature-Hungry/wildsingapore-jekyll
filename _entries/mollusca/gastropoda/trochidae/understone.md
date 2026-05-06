@@ -1,8 +1,20 @@
 ---
-title: "Tiny under-a-stone top shell snail (Euchelus sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Tiny under-a-stone top shell snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "euchelus, trochidae, chilodontidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chilodontidae
+genus: Euchelus
+species: ""
+attributes: []
+inat_id: 369101
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Seguenziida
+superfamily: Seguenzioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,17 @@ title: "Berembang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "beremban, sonneratia, caseolaris, lythraceae, sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 61, 68]
+attributes: [16, 18, 21, 36, 61, 68]
 family: Lythraceae
 genus: Sonneratia
 species: caseolaris
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+inat_id: 196662
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

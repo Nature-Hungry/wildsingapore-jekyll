@@ -1,8 +1,20 @@
 ---
-title: "Leopard triton snail (Cymatium)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Leopard triton snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cymatium, ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ranellidae
+genus: Cymatium
+species: ""
+attributes: []
+inat_id: 87790
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Tonnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

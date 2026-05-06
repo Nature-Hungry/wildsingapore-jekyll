@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,"
 layout: default
 shape: encrusting
-title: '''Roti jala'' sponges (Terpios) '
+title: 'Roti jala' sponge
+family: Suberitidae
+genus: Terpios
+species: ""
+attributes: []
+inat_id: 131764
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Suberitida
 ---
 
 

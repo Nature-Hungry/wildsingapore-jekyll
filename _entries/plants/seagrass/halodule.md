@@ -7,9 +7,16 @@ attributes: [95]
 englishname: Needle seagrass
 family: Cymodoceaceae
 genus: Halodule
-species: sp.
+species: ""
 summary: "Thin ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin. Sometimes seen on some our shores, especially on sand bars. Luxuriant growths seen on seaward sandbars on Chek Jawa."
 coverimg: "https://live.staticflickr.com/5474/29515985924_2d2b987385_n.jpg"
+inat_id: 50378
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

@@ -1,8 +1,20 @@
 ---
-title: "Mangrove fern (Acrostichum) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove ferns
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, acrostichum, aureum, speciosum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pteridaceae
+genus: ""
+species: Acrostichum
+attributes: []
+inat_id: 48437
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+class: Polypodiopsida
+subclass: Polypodiidae
+order: Polypodiales
+suborder: Pteridineae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

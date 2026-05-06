@@ -1,8 +1,22 @@
 ---
-title: "Seahorses (Hippocampus) on Singapore shores"
+title: Seahorses
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Syngnathidae
+genus: Hippocampus
+species: sp.
+attributes: []
+inat_id: 102835
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
+subfamily: Syngnathinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

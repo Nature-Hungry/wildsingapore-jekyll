@@ -6,7 +6,15 @@ layout: default
 attributes: [6, 88]
 family: Zoanthidae
 genus: Zoanthus
-species: sp.*
+species: ""
+inat_id: 54439
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Zoantharia
+suborder: Brachycnemina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

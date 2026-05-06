@@ -7,6 +7,15 @@ attributes: [8, 17, 20, 21]
 family: Gentianaceae
 genus: Fagraea
 species: racemosa
+inat_id: 915494
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+tribe: Potalieae
+subtribe: Potaliinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

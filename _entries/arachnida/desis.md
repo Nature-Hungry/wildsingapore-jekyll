@@ -1,8 +1,24 @@
 ---
-title: "Marine spider (Desis martensi)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Marine spider
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spider, desis, martensi, arachnid, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Desidae
+genus: Desis
+species: martensi
+attributes: []
+inat_id: 57654
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Chelicerata
+class: Arachnida
+order: Araneae
+suborder: Araneomorphae
+infraorder: Entelegynae
+zoosection: Rta clade
+zoosubsection: Marronoid
+subfamily: Desinae
 ---
 
 arthropods [text index](../arthropoda/arthropodaindex)

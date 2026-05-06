@@ -1,8 +1,23 @@
 ---
-title: "Dugongs on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dugong
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Dugongidae
+genus: Dugong
+species: dugon
+attributes: []
+inat_id: 46311
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Afrotheria
+order: Sirenia
+subfamily: Dugonginae
 ---
 
 

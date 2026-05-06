@@ -1,8 +1,23 @@
 ---
-title: "Smooth-coated otter (Lutrogale perspicillata) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Smooth-coated otter
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Mustelidae
+genus: Lutrogale
+species: perspicillata
+attributes: []
+inat_id: 1638842
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Laurasiatheria
+order: Carnivora
+subfamily: Lutrinae
 ---
 
 

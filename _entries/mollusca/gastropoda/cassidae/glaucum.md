@@ -1,8 +1,21 @@
 ---
-title: "Grey bonnet smail (Phalium glaucum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Grey bonnet snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "helmet, bonnet, phalium, glaucum, cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cassidae
+genus: Phalium
+species: glaucum
+attributes: []
+inat_id: 332404
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Tonnoidea
+subfamily: Phaliinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

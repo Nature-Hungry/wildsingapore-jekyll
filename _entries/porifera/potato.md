@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,"
 layout: default
 shape: sausage
-title: Potato sponge (Biemna sp.)
+title: Potato sponge
+family: Desmacellidae
+genus: Biemna
+species: ""
+attributes: []
+inat_id: 246871
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Biemnida
 ---
 
 

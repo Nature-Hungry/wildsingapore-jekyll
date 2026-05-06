@@ -1,8 +1,20 @@
 ---
-title: "Slender sea pen (Virgularia)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Slender sea pen
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slender, pen, seapen, virgularia, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Virgulariidae
+genus: Virgularia
+species: ""
+attributes: []
+inat_id: 195571
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
+superfamily: Pennatuloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -3,10 +3,19 @@ title: Bottleneck sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [89]
+attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Holothuriidae
 genus: Holothuria
 species: impatiens
+inat_id: 195762
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Holothuriida
+subgenus: Thymiosycia
 ---
 
 

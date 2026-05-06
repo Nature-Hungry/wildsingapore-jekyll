@@ -1,8 +1,21 @@
 ---
-title: "Flatfishes (Pleuronectiformes) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Flatfishes
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Paralichthyidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48417
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Pleuronectoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

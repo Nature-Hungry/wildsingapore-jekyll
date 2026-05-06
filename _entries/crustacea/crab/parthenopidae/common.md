@@ -5,8 +5,23 @@ keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashor
 layout: default
 attributes: [38, 106]
 family: Parthenopidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 52582
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Parthenopoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

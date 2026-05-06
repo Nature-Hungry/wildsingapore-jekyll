@@ -3,10 +3,24 @@ title: "Reliable nudibranch "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [90, 110]
+attributes: [14, 22, 33, 90, 110]
 family: Chromodoridae
 genus: Goniobranchus
 species: fidelis
+inat_id: 469421
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Chromodoridoidea
+subfamily: Chromodoridinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

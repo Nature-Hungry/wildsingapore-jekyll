@@ -1,8 +1,24 @@
 ---
-title: "Meretrix venus clam (Meretrix meretrix) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Meretrix venus clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, shell, clam, meretrix, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Veneridae
+genus: Meretrix
+species: meretrix*
+attributes: []
+inat_id: 332437
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Veneroidea
+subfamily: Meretricinae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

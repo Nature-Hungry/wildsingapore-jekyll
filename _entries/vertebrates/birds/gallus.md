@@ -1,8 +1,19 @@
 ---
-title: "Red junglefowl (Gallus gallus) of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red junglefowl
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, junglefowl, wild, gallus, phasianidae, birds, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Phasianidae
+genus: Gallus
+species: gallus
+attributes: []
+inat_id: 882
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Aves
+order: Galliformes
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

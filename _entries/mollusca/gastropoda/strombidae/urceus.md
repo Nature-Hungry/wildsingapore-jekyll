@@ -3,10 +3,18 @@ title: Black-lipped conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 64, 71, 111, 123]
+attributes: [23, 33, 64, 71, 100, 111, 123]
 family: Strombidae
 genus: Canarium
 species: urceus
+inat_id: 550993
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Stromboidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

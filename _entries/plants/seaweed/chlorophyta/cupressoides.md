@@ -8,6 +8,12 @@ family: Caulerpaceae
 genus: Caulerpa
 species: cupressoides*
 attributes: [46, 97]
+inat_id: 131266
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

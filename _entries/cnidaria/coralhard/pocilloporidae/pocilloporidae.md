@@ -1,8 +1,19 @@
 ---
-title: "Pocilloporid corals (Pocilloporidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Pocilloporid corals "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pocilloporidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 60546
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

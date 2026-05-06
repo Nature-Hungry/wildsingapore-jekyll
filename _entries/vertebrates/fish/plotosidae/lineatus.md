@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 43, 47]
 family: Plotosidae
 genus: Plotosus
 species: lineatus
+inat_id: 49210
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Ostariophysi
+order: Siluriformes
+suborder: Siluroidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

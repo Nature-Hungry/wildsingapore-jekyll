@@ -3,10 +3,19 @@ title: "Yellow boxfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Ostraciidae
 genus: Ostracion
 species: cubicus
+inat_id: 49378
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Balistoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

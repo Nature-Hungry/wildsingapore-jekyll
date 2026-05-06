@@ -1,8 +1,21 @@
 ---
-title: "Oval moon snail (Polinices mammilla)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Oval moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oval, moon, snail, naticidae, polinices, mammilla, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Polinices
+species: mammilla
+attributes: []
+inat_id: 369055
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Polinicinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

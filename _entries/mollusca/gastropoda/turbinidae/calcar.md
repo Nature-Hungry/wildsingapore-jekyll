@@ -1,8 +1,21 @@
 ---
-title: "Spurred turban snails (Astralium calcar) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spurred turban snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: Astralium
+species: calcar
+attributes: []
+inat_id: 604344
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Turbininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -7,6 +7,15 @@ attributes: [38, 106, 112]
 family: Macrophthalmidae
 genus: Macrophthalmus
 species: sp.
+inat_id: 1015207
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
+subfamily: Owstoniinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

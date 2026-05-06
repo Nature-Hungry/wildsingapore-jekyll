@@ -7,6 +7,13 @@ attributes: [8, 10, 20, 21]
 family: Caricaceae
 genus: Carica
 species: papaya
+inat_id: 62811
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Brassicales
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

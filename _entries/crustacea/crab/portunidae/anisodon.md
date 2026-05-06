@@ -7,6 +7,23 @@ attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Charybdis
 species: anisodon*
+inat_id: 712480
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Portunoidea
+subfamily: Thalamitinae
+subgenus: Charybdis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

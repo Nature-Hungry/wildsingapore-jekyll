@@ -1,8 +1,21 @@
 ---
-title: "Ball moon snail (Neverita didyma)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ball moon snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Naticidae
+genus: Neverita
+species: didyma
+attributes: []
+inat_id: 59353
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Naticoidea
+subfamily: Polinicinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,21 @@
 ---
-title: "'See-hum' (Anadara)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: 'See-hum'
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Arcidae
+genus: Anadara
+species: sp.
+attributes: []
+inat_id: 1211171
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Arcida
+superfamily: Arcoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

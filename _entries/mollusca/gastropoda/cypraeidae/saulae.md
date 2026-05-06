@@ -3,10 +3,20 @@ title: "Saul's cowrie "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 71, 111, 123, 127]
+attributes: [23, 33, 71, 100, 111, 123, 127]
 family: Cypraeidea
 genus: Palmadusta
 species: saulae
+inat_id: 937964
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erroneinae
+tribe: Bistolidini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

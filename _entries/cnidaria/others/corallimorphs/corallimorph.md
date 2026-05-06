@@ -1,8 +1,19 @@
 ---
-title: "Corallimorphs (Corallimorpharia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Corallimorphs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "disk, disc, anemone, discosoma, corallimorph, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Corallimorphidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 124501
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

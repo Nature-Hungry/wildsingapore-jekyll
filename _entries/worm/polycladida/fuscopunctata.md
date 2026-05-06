@@ -1,8 +1,19 @@
 ---
-title: "Punctuated flatworm (Maritigrella fuscopunctata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Punctuated flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, maritigrella, fuscopunctata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Euryleptidae
+genus: Maritigrella
+species: fuscopunctata*
+attributes: []
+inat_id: 354907
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

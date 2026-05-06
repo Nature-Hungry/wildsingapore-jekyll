@@ -8,6 +8,14 @@ family: Dictyotaceae
 genus: Dictyopteris
 species: ""
 attributes: [97, 98]
+inat_id: 131263
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Dictyotophycidae
+order: Dictyotales
+tribe: Zonarieae
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

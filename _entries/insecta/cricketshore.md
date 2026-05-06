@@ -1,8 +1,23 @@
 ---
 title: "Shore cricket "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Gryllidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 52884
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Orthoptera
+suborder: Ensifera
+infraorder: Gryllidea
+superfamily: Grylloidea
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

@@ -1,8 +1,23 @@
 ---
-title: "Sea skaters "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sea skaters
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "skaters, water, strider, halovelia, gerridae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Veliidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 119047
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Hemiptera
+suborder: Heteroptera
+infraorder: Gerromorpha
+superfamily: Gerroidea
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

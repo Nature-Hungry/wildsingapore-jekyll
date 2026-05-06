@@ -8,6 +8,16 @@ family: Spyridiaceae
 genus: Spyridia
 species: filamentosa*
 attributes: [97, 98, 114]
+inat_id: 183101
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Ceramiales
+subfamily: Spyridioideae
+tribe: Spyridieae
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

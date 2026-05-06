@@ -1,8 +1,21 @@
 ---
-title: "Pygmy squid (Idiosepius sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pygmy squid
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pygmy, squid, idiosepius, ideosepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Idiosepiidae
+genus: Idiosepius
+species: ""
+attributes: []
+inat_id: 149971
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Idiosepida
+superfamily: Idiosepioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

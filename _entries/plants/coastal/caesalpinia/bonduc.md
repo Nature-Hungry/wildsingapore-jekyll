@@ -3,10 +3,19 @@ title: "Bonduc "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caesalpinia, bonduc, fabacea, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [35, 36]
+attributes: [18, 21, 35, 36]
 family: Fabacea
 genus: Caesalpinia
 species: bonduc
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Fabales
+subfamily: Caesalpinioideae
+tribe: Caesalpinieae
+inat_id: 851888
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

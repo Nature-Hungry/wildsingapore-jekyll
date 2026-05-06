@@ -1,8 +1,19 @@
 ---
-title: "Pong pong tree (Cerbera) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pong pong tree
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pong, cerbera, odollam, manghas, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Apocynaceae
+genus: ""
+species: Cerbera
+attributes: []
+inat_id: 47362
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

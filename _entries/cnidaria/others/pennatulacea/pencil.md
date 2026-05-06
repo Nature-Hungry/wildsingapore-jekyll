@@ -1,8 +1,20 @@
 ---
-title: "Sea pencil (Lituaria sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sea pencil "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Veretillidae
+genus: Lituaria
+species: ""
+attributes: []
+inat_id: 645145
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
+superfamily: Pennatuloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,12 @@
 ---
-title: "Lined whelk (Nassarius teretiusculus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Lined       whelk
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "whelk, nassarius, teretiusculus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Nassariidae
+genus: Nassarius
+species: teretiusculus*
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

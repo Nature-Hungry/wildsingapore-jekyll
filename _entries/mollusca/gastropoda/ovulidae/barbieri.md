@@ -1,8 +1,21 @@
 ---
-title: "Dalmation spindle cowrie (Phenacovolva barbieri)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dalmation spindle cowrie
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ovulidae
+genus: Phenacovolva
+species: barbieri*
+attributes: []
+inat_id: 1089515
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Ovulinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

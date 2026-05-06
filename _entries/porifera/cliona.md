@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,
-  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,"
 layout: default
 shape: encrusting
-title: Sucker sponges (Cliona utricularis) 
+title: Sucker sponge
+family: Clionaidae
+genus: Cliona
+species: ""
+attributes: []
+inat_id: 62615
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Clionaida
 ---
 
 

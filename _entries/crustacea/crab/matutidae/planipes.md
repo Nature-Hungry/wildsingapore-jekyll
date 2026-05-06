@@ -7,6 +7,21 @@ attributes: [38, 69, 106, 112]
 family: Matutidae
 genus: Matuta
 species: ""
+inat_id: 484405
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Calappoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

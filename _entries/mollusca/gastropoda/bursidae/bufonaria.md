@@ -1,8 +1,20 @@
 ---
-title: "Frog snails (Bufonaria) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Frog snail "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frog, bufonaria, bursidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Bursidae
+genus: Bufonaria
+species: ""
+attributes: []
+inat_id: 50657
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Tonnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

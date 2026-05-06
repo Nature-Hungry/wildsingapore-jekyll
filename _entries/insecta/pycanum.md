@@ -1,8 +1,26 @@
 ---
-title: "Giant shield bug (Pycanum) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Giant shield bug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Tessaratomidae
+genus: Pycanum
+species: ""
+attributes: []
+inat_id: 362630
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Hemiptera
+suborder: Heteroptera
+infraorder: Pentatomomorpha
+superfamily: Pentatomoidea
+subfamily: Tessaratominae
+tribe: Tessaratomini
+subtribe: Eusthenaria
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

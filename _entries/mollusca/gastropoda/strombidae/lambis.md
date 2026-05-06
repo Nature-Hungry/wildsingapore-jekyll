@@ -1,8 +1,25 @@
 ---
-title: "Spider conch snail (Lambis lambis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spider conch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spider, conch, lambis, lambis, strombidae, gastropod, mollusc,snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Strombidae
+genus: Lambis
+species: lambis
+attributes: []
+inat_id: 260326
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

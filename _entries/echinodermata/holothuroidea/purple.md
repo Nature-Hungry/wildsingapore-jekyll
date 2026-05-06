@@ -7,6 +7,14 @@ attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Cucumariidae
 genus: ""
 species: awaiting
+inat_id: 67558
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Dendrochirotida
 ---
 
 

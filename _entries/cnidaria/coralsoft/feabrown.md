@@ -1,8 +1,19 @@
 ---
-title: "Brown feathery coral (Xeniidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Brown feathery soft coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Xeniidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 155023
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

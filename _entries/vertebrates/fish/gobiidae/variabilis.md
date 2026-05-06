@@ -1,8 +1,22 @@
 ---
-title: "Dusky-gilled mudskipper (Periophthalmus variabilis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dusky-gilled mudskipper
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Gobiidae
+genus: Periophthalmus
+species: variabilis*
+attributes: []
+inat_id: 326743
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Oxudercinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

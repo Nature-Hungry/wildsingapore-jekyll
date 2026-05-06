@@ -7,6 +7,14 @@ attributes: [6, 88]
 family: Zoanthidae
 genus: Zoanthus
 species: vietnamensis
+inat_id: 702956
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Zoantharia
+suborder: Brachycnemina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

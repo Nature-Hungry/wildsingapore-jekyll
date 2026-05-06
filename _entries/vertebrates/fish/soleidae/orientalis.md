@@ -3,10 +3,19 @@ title: Oriental sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [49]
+attributes: [9, 25, 47, 49, 81]
 family: Soleidae
 genus: Brachirus
 species: orientalis
+inat_id: 479468
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Pleuronectoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

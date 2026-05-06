@@ -1,9 +1,21 @@
 ---
-title: Numbfishes (Narcinidae) on Singapore shores
+title: Electric rays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narcinidae, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [118]
+attributes: []
+family: Narcinidae
+genus: ""
+species: ""
+inat_id: 85914
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Chondrichthyes
+subclass: Elasmobranchii
+infraclass: Batoidea
+order: Torpediniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

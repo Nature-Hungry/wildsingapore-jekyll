@@ -1,8 +1,21 @@
 ---
-title: "Dubious nerite snail (Clithon oualaniensis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dubious nerite snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Clithon
+species: oualaniensis
+attributes: []
+inat_id: 503068
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

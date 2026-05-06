@@ -1,8 +1,20 @@
 ---
-title: "Dolphin snail (Angaria delphinus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Dolphin snail "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Angariidae
+genus: Angaria
+species: delphinus
+attributes: []
+inat_id: 368572
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

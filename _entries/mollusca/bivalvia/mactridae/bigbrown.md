@@ -1,8 +1,24 @@
 ---
-title: "Big brown mactra clam (Mactra grandis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Big brown mactra clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Mactridae
+genus: Mactra
+species: grandis
+attributes: []
+inat_id: 850389
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Mactroidea
+subfamily: Mactrinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

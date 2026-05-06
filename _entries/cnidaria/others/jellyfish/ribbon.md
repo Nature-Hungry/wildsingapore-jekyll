@@ -6,7 +6,14 @@ layout: default
 attributes: [56]
 family: Pelagiidae
 genus: Chrysaora
-species: sp.
+species: ""
+inat_id: 48483
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Scyphozoa
+subclass: Discomedusae
+order: Semaeostomeae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

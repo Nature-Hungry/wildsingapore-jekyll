@@ -6,7 +6,14 @@ layout: default
 attributes: [6, 88, 102]
 family: Corallimorphidae
 genus: Corynactis
-species: sp.
+species: ""
+inat_id: 124502
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

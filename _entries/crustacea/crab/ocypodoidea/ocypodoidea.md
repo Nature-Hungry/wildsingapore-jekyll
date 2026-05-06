@@ -1,8 +1,27 @@
 ---
-title: "Stalk-eyed crab (Ocypodoidea)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Stalk-eyed crabs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Camptandriidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 342556
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,15 @@ attributes: [6, 88]
 family: Diadumenidae
 genus: Diadumene
 species: lineata
+inat_id: 81783
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Metridioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

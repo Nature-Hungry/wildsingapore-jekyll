@@ -1,8 +1,12 @@
 ---
-title: "Ribbon worms (Nemertea) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ribbon worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Geonemertidae
+genus: Phylum
+species: Nemertea
+attributes: []
 ---
 
 

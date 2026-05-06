@@ -7,6 +7,19 @@ attributes: [38, 54]
 family: Coenobitidae
 genus: Coenobita
 species: sp.
+inat_id: 706395
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

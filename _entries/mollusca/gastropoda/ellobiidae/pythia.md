@@ -1,8 +1,24 @@
 ---
-title: "Pythia snail (Pythia)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pythia snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ellobiidae
+genus: Pythia
+species: ""
+attributes: []
+inat_id: 371530
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Eupulmonata
+order: Ellobiida
+superfamily: Ellobioidea
+subfamily: Pythiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

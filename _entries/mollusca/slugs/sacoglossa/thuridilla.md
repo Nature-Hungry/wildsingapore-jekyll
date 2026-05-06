@@ -1,8 +1,22 @@
 ---
-title: "Thuridilla slugs (Thuridilla sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Thuridilla slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thuridilla, slug, seaslug, elysiidae, plakobranchidae, sacoglossa, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plakobranchidae
+genus: Thuridilla
+species: sp.*
+attributes: []
+inat_id: 469569
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

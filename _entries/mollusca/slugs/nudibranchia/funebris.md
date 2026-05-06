@@ -3,10 +3,23 @@ title: "Polka-dot nudibranch "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "polka, dot, nudibranchia, jorunna, funebris, dorid, discodorididae, kentodoridae, dorididae,  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [63, 90]
+attributes: [14, 22, 33, 63, 90]
 family: Discodorididae
 genus: Jorunna
 species: funebris
+inat_id: 50300
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Doridoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

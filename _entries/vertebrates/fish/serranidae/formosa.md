@@ -3,10 +3,19 @@ title: "Bluelined hind "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bluelined, blue, lined, hind, indian, grouper, fish, cephalopholis, formosa, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60]
 family: Serranidae
 genus: Cephalopholis
 species: formosa
+inat_id: 54941
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Percoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

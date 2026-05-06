@@ -7,6 +7,13 @@ attributes: [6, 88, 102]
 family: Discosomidae
 genus: Rhodactis
 species: inchoata
+inat_id: 508830
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

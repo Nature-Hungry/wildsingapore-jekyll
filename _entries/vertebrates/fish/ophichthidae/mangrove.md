@@ -5,8 +5,17 @@ keywords: "mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea
 layout: default
 attributes: [9, 15, 25, 43, 47]
 family: Ophichthidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 49249
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Congroidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

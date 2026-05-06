@@ -3,10 +3,20 @@ title: Strawberry slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "avrainvillea, slug, seaslug, costasiella, costasiellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [26, 90]
+attributes: [14, 22, 26, 33, 90]
 family: Costasiellidae
 genus: Costasiella
-species: sp.*
+species: ""
+inat_id: 51004
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,24 @@
 ---
-title: "Burrowing giant clam (Tridacna crocea)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Burrowing giant clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "burrowing, giant, clam, tridacna, crocea, tridacnidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Tridacnidae
+genus: Tridacna
+species: crocea
+attributes: []
+inat_id: 50590
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Cardiida
+superfamily: Cardioidea
+subfamily: Tridacninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

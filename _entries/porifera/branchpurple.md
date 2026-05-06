@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: purple, branching, sponge, callyspongia, callyspongiidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "purple, branching, sponge, callyspongia, callyspongiidae, porifera, field,"
 layout: default
 shape: branching
-title: Purple branching sponges (Callyspongia sp.) 
+title: Purple branching sponge
+family: Callyspongiidae
+genus: Callyspongia
+species: ""
+attributes: []
+inat_id: 128116
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

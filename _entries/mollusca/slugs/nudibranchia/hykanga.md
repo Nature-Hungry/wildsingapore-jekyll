@@ -1,8 +1,26 @@
 ---
-title: "Kanga hypselodoris nudibranch (Hypselodoris kanga)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Kanga hypselodoris nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Chromodorididae
+genus: Hypselodoris
+species: kanga
+attributes: []
+inat_id: 473492
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Chromodoridoidea
+subfamily: Miamirinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

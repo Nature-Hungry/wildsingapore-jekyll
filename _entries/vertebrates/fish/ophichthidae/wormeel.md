@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 43, 47]
 family: Ophichthidae
 genus: Scolecenchelys
 species: macroptera
+inat_id: 618609
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Congroidei
+subfamily: Myrophinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

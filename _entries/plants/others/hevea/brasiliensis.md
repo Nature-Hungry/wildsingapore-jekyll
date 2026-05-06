@@ -7,6 +7,15 @@ attributes: [8, 17, 20, 21]
 family: Euphorbiaceae
 genus: Hevea
 species: brasiliensis
+inat_id: 53940
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
+subfamily: Crotonoideae
+tribe: Heveae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

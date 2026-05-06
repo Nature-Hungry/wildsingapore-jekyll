@@ -7,7 +7,13 @@ division: Chlorophyta
 family: Boodleaceae
 genus: ""
 species: Boodlea
-attributes: [46, 97]
+attributes: [46, 97, 99]
+inat_id: 462172
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Cladophorales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

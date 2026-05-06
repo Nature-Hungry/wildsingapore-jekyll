@@ -3,10 +3,19 @@ title: Chunky drills
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thais, drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 71, 76, 111, 123]
+attributes: [23, 33, 71, 76, 100, 111, 123]
 family: Muricidae
 genus: Thais
 species: sp.*
+inat_id: 451433
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Muricoidea
+subfamily: Rapaninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -5,8 +5,11 @@ keywords: "star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shor
 layout: default
 attributes: [6, 67, 88]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

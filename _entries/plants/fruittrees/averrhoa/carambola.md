@@ -7,6 +7,13 @@ attributes: [8, 10, 20, 21]
 family: Oxalidaceae
 genus: Averrhoa
 species: carambola
+inat_id: 146977
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Oxalidales
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -6,7 +6,22 @@ layout: default
 attributes: [38, 106]
 family: Grapsidae
 genus: Metopograpsus
-species: sp.*
+species: ""
+inat_id: 354651
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Grapsoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

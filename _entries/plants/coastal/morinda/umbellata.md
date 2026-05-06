@@ -3,10 +3,19 @@ title: "Mengkudu akar "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mengkudu, morinda, umbellata, rubiaceae, plant, climber, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [35, 36]
+attributes: [18, 21, 35, 36]
 family: Rubiaceae
 genus: Morinda
 species: umbellata
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Rubioideae
+tribe: Morindeae
+inat_id: 1415440
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

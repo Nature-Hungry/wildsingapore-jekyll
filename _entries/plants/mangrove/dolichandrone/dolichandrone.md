@@ -3,10 +3,18 @@ title: "Tui "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tui, trumpet, dolichandrone, spathacea, bignoniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 80]
+attributes: [16, 18, 21, 36, 68, 80]
 family: Bignoniaceae
 genus: Dolichandrone
 species: spathacea
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Lamiales
+tribe: Tecomeae
+inat_id: 191683
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

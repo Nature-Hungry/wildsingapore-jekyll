@@ -1,8 +1,15 @@
 ---
-title: "Marine isopods (Isopoda) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Marine isopods
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

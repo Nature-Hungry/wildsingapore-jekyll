@@ -1,8 +1,21 @@
 ---
-title: "Dragonets (Callionymidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dragonets
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dragonet, fish, callionymidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Callionymidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 56074
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Callionymoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -8,6 +8,13 @@ family: Sargassaceae
 genus: Sargassum
 species: ""
 attributes: [41, 97, 98]
+inat_id: 130178
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Fucophycidae
+order: Fucales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

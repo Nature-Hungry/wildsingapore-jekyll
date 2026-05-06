@@ -8,6 +8,13 @@ family: Scytosiphonaceae
 genus: Stypopodium
 species: zonale*
 attributes: [97, 98]
+inat_id: 131274
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Dictyotophycidae
+order: Dictyotales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

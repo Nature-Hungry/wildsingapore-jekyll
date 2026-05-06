@@ -1,8 +1,24 @@
 ---
-title: "Cerberilla nudibranch (Cerberilla)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Cerberilla nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cerberilla, asamusiensis, aeolid, aeolidinia, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aeolidiidae
+genus: Cerberilla
+species: ""
+attributes: []
+inat_id: 50427
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Aeolidina
+superfamily: Aeolidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

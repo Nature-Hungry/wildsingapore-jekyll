@@ -3,10 +3,19 @@ title: Mangrove ant-house plant
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ant, house, dischidia, major, apocynaceae, asclepiadoideae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [35, 36]
+attributes: [18, 21, 35, 36]
 family: Apocynaceae
 genus: Dischidia
 species: major
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Asclepiadoideae
+tribe: Marsdenieae
+inat_id: 345969
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

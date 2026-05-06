@@ -8,6 +8,12 @@ family: Dasycladaceae
 genus: Bornetella
 species: oligospora
 attributes: [97, 115]
+inat_id: 1072199
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Dasycladales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

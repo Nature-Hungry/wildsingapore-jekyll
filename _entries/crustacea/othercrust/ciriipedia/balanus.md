@@ -1,8 +1,25 @@
 ---
-title: "Acorn barnacle (Balanus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Acorn barnacle
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Balanidae
+genus: Balanus
+species: ""
+attributes: []
+inat_id: 49129
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Hexanauplia
+subclass: Thecostraca
+infraclass: Cirripedia
+subterclass: Thoracica
+superorder: Thoracicalcarea
+order: Balanomorpha
+superfamily: Balanoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

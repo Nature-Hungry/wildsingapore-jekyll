@@ -1,8 +1,21 @@
 ---
-title: "Archerfishes (Toxotidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Archerfishes
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Toxotidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 86105
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Carangiformes
+suborder: Toxotoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

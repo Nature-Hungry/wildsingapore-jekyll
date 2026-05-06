@@ -1,8 +1,20 @@
 ---
-title: "Periwinkle snails (Littorinidae) on Singapor shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Periwinkles "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Littorinidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48918
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Littorinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

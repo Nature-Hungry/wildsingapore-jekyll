@@ -7,6 +7,15 @@ attributes: [5, 6, 88]
 family: Haliactiidae
 genus: Stephensonactis
 species: ornata
+inat_id: 1394577
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Metridioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

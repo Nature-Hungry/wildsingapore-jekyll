@@ -1,8 +1,19 @@
 ---
-title: "Horn corals (Hydnophora) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Horn corals
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horn, hydnophora, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Merulinidae
+genus: Hydnophora
+species: ""
+attributes: []
+inat_id: 88980
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

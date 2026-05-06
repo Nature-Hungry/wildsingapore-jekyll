@@ -7,6 +7,15 @@ attributes: [1, 45, 92]
 family: Himerometridae
 genus: Himerometra
 species: robustipinna*
+inat_id: 349155
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Crinozoa
+class: Crinoidea
+subclass: Articulata
+order: Comatulida
+superfamily: Himerometroidea
 ---
 
 

@@ -1,8 +1,20 @@
 ---
-title: "Figs (Moraceae) of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Figs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Moraceae
+genus: Ficus
+species: ""
+attributes: []
+inat_id: 50999
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Rosales
+tribe: Ficeae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

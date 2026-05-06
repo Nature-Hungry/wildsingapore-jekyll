@@ -6,7 +6,16 @@ layout: default
 attributes: [56]
 family: Cassiopeidae
 genus: Cassiopea
-species: sp.
+species: ""
+inat_id: 128144
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Scyphozoa
+subclass: Discomedusae
+order: Rhizostomeae
+suborder: Kolpophorae
+infraorder: Kampylomyaria
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,12 @@
 ---
-title: "Tiny seagrass snail (Alaba virgata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Tiny seagrass snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Litiopidae
+genus: Alaba
+species: virgata*
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

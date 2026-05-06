@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: yellow, pot, sponge, rhabdastrella, globostellata, ancorinidae, porifera,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: "yellow, pot, sponge, rhabdastrella, globostellata, ancorinidae, porifera,"
 layout: default
-shape: ''
-title: Yellow pot sponges (Rhabdastrella globostellata) 
+shape: ""
+title: Yellow pot sponge
+family: Ancorinidae
+genus: Rhabdastrella
+species: globostellata*
+attributes: []
+inat_id: 751628
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Tetractinellida
+suborder: Astrophorina
 ---
 
 

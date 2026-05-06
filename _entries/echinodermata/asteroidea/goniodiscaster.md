@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Goniodiscaster
 species: scaber
+inat_id: 508999
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

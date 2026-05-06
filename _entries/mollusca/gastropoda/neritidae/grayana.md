@@ -1,8 +1,21 @@
 ---
-title: "Grey mangrove nerite snail (Nerita undulata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Grey mangrove nerite snail "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grey, nerita, nerite, grayana, undulata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Nerita
+species: undulata
+attributes: []
+inat_id: 1031739
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,21 @@
 ---
-title: "Sea mussels (Mytilidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sea mussels
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Mytilidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 50600
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Mytilida
+superfamily: Mytiloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

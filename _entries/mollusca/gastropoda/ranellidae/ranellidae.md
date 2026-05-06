@@ -1,8 +1,20 @@
 ---
-title: "Tritons (Ranellidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Triton snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ranellidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 86039
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Tonnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

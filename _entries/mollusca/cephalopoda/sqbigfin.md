@@ -1,8 +1,20 @@
 ---
-title: "Bigfin reef squid (Sepioteuthis lessoniana)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Bigfin reef squid
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bigfin, pencil, squid, sepioteuthis, lessoniana, loliginidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Loliginidae
+genus: Sepioteuthis
+species: lessoniana
+attributes: []
+inat_id: 121187
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Myopsida
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

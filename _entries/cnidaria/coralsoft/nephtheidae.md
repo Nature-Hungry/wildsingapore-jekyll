@@ -1,8 +1,19 @@
 ---
-title: "Flowery soft corals (Nephtheidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Flowery soft corals "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Nephtheidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 141945
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

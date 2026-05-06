@@ -6,7 +6,16 @@ layout: default
 attributes: [6, 51, 88]
 family: Phymantidae
 genus: Phymanthus
-species: sp.
+species: ""
+inat_id: 361297
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

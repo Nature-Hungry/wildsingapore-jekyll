@@ -1,8 +1,19 @@
 ---
-title: "Sundial snails (Architectonicidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sundial snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Architectonicidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 185051
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+superfamily: Architectonicoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

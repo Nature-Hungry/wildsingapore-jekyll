@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 43, 47]
 family: Muraenidae
 genus: Gymnothorax
 species: reevesii
+inat_id: 556049
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Muraenoidei
+subfamily: Muraeninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

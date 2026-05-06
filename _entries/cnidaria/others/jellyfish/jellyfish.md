@@ -1,8 +1,21 @@
 ---
-title: "Jellyfish (Scyphozoa) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Jellyfish
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cassiopeidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 128143
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Scyphozoa
+subclass: Discomedusae
+order: Rhizostomeae
+suborder: Kolpophorae
+infraorder: Kampylomyaria
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

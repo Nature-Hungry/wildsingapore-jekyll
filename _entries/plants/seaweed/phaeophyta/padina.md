@@ -8,6 +8,14 @@ family: Dictyotaceae
 genus: Padina
 species: ""
 attributes: [41, 97, 98]
+inat_id: 51025
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Dictyotophycidae
+order: Dictyotales
+tribe: Zonarieae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

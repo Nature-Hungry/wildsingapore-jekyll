@@ -6,7 +6,23 @@ layout: default
 attributes: [38, 106]
 family: Xanthidae
 genus: Pilodius
-species: sp.
+species: ""
+inat_id: 553778
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Xanthoidea
+subfamily: Chlorodiellinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

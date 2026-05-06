@@ -1,8 +1,19 @@
 ---
-title: "Bintangor bunut (Calophyllum soulattri) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Bintangor bunut "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bintangor, bunut, calophyllum, soulattri, clusiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Clusiaceae
+genus: Calophyllum
+species: soulattri
+attributes: []
+inat_id: 190155
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

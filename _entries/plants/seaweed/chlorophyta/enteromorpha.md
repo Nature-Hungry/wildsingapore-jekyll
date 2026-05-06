@@ -8,6 +8,12 @@ family: Ulvaceae
 genus: Enteromorpha
 species: ""
 attributes: [97, 99]
+inat_id: 54644
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Ulvales
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

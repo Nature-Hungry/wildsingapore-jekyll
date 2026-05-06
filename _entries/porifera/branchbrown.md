@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, shore,"
 layout: default
 shape: branching
-title: Brown prickly branching sponges (Ircinia) 
+title: Brown prickly branching sponge
+family: Irciniidae
+genus: Ircinia
+species: ""
+attributes: []
+inat_id: 118782
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Keratosa
+order: Dictyoceratida
 ---
 
 

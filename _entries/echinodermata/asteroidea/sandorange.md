@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Astropectinidae
 genus: Astropecten
 species: ""
+inat_id: 48237
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

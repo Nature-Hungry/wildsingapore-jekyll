@@ -3,10 +3,20 @@ title: Chequered cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chequered, cardinalfish, cardinal, fish, ostorhinchus, apogon, margaritophorus, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [108]
+attributes: [25, 47, 106, 108]
 family: Apogonidae
 genus: Ostorhinchus
 species: margaritophorus
+inat_id: 425300
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Apogonoidei
+subfamily: Apogoninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

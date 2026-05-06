@@ -1,8 +1,19 @@
 ---
-title: "Red-lined flatworm (Maritigrella virgulata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red-lined flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, maritigrella, virgulata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Euryleptidae
+genus: Maritigrella
+species: virgulata*
+attributes: []
+inat_id: 841626
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

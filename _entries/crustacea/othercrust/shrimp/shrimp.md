@@ -1,8 +1,24 @@
 ---
-title: "Prawns and Shrimps on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Prawns and shrimps
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Penaeidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 51042
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Dendrobranchiata
+superfamily: Penaeoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

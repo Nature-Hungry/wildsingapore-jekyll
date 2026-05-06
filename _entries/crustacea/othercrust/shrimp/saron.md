@@ -5,8 +5,21 @@ keywords: "saron, shrimp, hyppolytidae, decapod, crustacea, field, guide, seasho
 layout: default
 attributes: [84, 103, 104]
 family: Hippolytidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 51200
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Alpheoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

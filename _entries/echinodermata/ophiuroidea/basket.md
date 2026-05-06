@@ -5,8 +5,18 @@ keywords: "basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, seas
 layout: default
 attributes: [0, 1, 31, 92]
 family: Euryalidae
-genus: Awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 195674
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Ophiuroidea
+subclass: Myophiuroida
+infraclass: Metophiurida
+superorder: Euryophiurida
+order: Euryalida
 ---
 
 

@@ -3,10 +3,19 @@ title: "Asam tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "asam, tamarind, tamarindus, indica, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 37]
+attributes: [18, 21, 36, 37]
 family: Fabaceae
 genus: Tamarindus
 species: indica
+inat_id: 62844
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Fabales
+subfamily: Detarioideae
+tribe: Amherstieae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

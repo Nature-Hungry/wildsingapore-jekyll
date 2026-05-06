@@ -1,8 +1,20 @@
 ---
-title: "Luidia sea stars (Luidia sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Luidia sea stars
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Luidiidae
+genus: Luidia
+species: ""
+attributes: []
+inat_id: 122245
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

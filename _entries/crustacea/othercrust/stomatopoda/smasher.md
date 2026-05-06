@@ -7,6 +7,17 @@ attributes: [84, 103, 104]
 family: Gonodactylidae
 genus: Gonodactylellus
 species: viridis
+inat_id: 1472662
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Hoplocarida
+order: Stomatopoda
+suborder: Unipeltata
+superfamily: Gonodactyloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,20 @@
 ---
-title: "Zoanthids (Zoanthidea) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Zoanthids
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "colonial, anemone, zoanthid, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Zoanthidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 51197
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Zoantharia
+suborder: Brachycnemina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

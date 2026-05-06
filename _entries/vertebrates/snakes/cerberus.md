@@ -1,9 +1,20 @@
 ---
-title: "Dog-faced water snakes, Schneider's Bockadam (Cerberus schneiderii) on the 
-Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Dog-faced water snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "schneider, bockadam, dog, faced, water, snake, watersnake, cerberus, schneiderii, rynchops, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Homalopsidae
+genus: Cerberus
+species: schneiderii
+attributes: []
+inat_id: 200191
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
 ---
 
 

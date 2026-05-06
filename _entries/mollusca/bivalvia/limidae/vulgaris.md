@@ -1,8 +1,21 @@
 ---
-title: "Common file clam (Lima vulgaris)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Common file clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lima, vulgaris, file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limidae
+genus: Lima
+species: vulgaris
+attributes: []
+inat_id: 926694
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Limida
+superfamily: Limoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

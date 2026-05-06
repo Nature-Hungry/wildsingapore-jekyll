@@ -1,8 +1,20 @@
 ---
-title: "Halfbeaks (Hemiramphidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Halfbeaks
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Hemiramphidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 57298
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Beloniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

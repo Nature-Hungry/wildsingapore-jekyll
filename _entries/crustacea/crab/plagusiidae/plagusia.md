@@ -7,6 +7,21 @@ attributes: [38, 69, 106, 112]
 family: Plagusiidae
 genus: Plagusia
 species: sp.
+inat_id: 1071441
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Grapsoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

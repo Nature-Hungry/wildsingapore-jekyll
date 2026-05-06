@@ -1,10 +1,16 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,
-  coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,"
 layout: default
 shape: encrusting
-title: Yellow bumpy sponges 
+title: Yellow bumpy sponges
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

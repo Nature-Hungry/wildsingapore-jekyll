@@ -1,10 +1,16 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
 layout: default
 shape: encrusting
-title: Lumpy orange sponge 
+title: Lumpy orange sponge
+family: ""
+genus: ""
+species: identification*
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

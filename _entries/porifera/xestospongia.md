@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: barrel, neptune, cup, sponge, xestospongia,  testudinaria, petrosiidae,
-  porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: "barrel, neptune, cup, sponge, xestospongia,  testudinaria, petrosiidae,"
 layout: default
 shape: sausage
-title: Barrel sponges (Xestospongia testudinaria) 
+title: Barrel  sponge
+family: Petrosiidae
+genus: Xestospongia
+species: testudinaria*
+attributes: []
+inat_id: 319598
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

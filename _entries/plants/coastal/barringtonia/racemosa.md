@@ -3,10 +3,17 @@ title: "Putat sungei "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barringtonia, racemosa, lecythidaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 62]
+attributes: [18, 21, 36, 62]
 family: Lecythidaceae
 genus: Barringtonia
 species: racemosa
+inat_id: 196659
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Ericales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,21 @@
 ---
-title: "Toothed top shell snail (Monodonta labio)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Toothed top shell snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "toothed, monodonta, labio, top, trochus, maculatus,  trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Trochidae
+genus: Monodonta
+species: labio
+attributes: []
+inat_id: 368366
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
+subfamily: Monodontinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

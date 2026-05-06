@@ -8,6 +8,12 @@ family: Caulerpaceae
 genus: Caulerpa
 species: racemosa*
 attributes: [97, 115]
+inat_id: 50926
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,25 @@
 ---
-title: "Clibanarius hermit crab (Clibanarius sp.)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Clibanarius hermit crabs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Diogenidae
+genus: Clibanarius
+species: ""
+attributes: []
+inat_id: 52410
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Anomura
+superfamily: Paguroidea
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

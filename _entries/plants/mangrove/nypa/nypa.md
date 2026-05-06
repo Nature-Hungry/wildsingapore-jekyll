@@ -3,10 +3,18 @@ title: "Nipah     palm "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 82]
+attributes: [8, 18, 20, 21, 36, 82]
 family: Arecaceae
 genus: Nypa
 species: fruticans
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Arecales
+subfamily: Nypoideae
+inat_id: 83106
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,19 @@
 ---
-title: "Black-and-white leathery soft coral (Cladiella) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Black-and-white leathery soft coral "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cladiella, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Alcyoniidae
+genus: Cladiella
+species: ""
+attributes: []
+inat_id: 508275
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

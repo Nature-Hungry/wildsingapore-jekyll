@@ -1,8 +1,12 @@
 ---
-title: "Zig zag oysters (Ostreidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Zig zag  oyster
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Osteridae
+genus: ""
+species: identification*
+attributes: []
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

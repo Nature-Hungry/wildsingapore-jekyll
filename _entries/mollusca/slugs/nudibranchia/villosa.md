@@ -1,8 +1,25 @@
 ---
-title: "Yellow-foot nudibranch (Thordisa villosa)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Yellow-foot nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, foot, thordisa, villosa, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Discodorididae
+genus: Thordisa
+species: villosa
+attributes: []
+inat_id: 50569
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Doridoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

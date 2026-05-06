@@ -5,8 +5,17 @@ keywords: "monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seas
 layout: default
 attributes: [2, 33, 34, 73]
 family: Anomiidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
+inat_id: 50611
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Anomioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

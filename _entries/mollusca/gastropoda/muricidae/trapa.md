@@ -1,8 +1,21 @@
 ---
-title: "Rare-spined murex (Murex trapa)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Rare-spined murex
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Muricidae
+genus: Murex
+species: trapa
+attributes: []
+inat_id: 50746
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Muricoidea
+subfamily: Muricinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

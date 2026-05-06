@@ -8,6 +8,14 @@ family: Dictyotaceae
 genus: Lobophora
 species: variegata*
 attributes: [41, 97, 98]
+inat_id: 131277
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Dictyotophycidae
+order: Dictyotales
+tribe: Zonarieae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

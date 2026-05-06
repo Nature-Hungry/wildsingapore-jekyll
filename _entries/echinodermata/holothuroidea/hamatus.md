@@ -7,6 +7,14 @@ attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Sclerodactylidae
 genus: Cladolabes
 species: hamatus*
+inat_id: 1161788
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Dendrochirotida
 ---
 
 

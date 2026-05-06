@@ -7,6 +7,14 @@ attributes: [8, 10, 20, 21]
 family: Moraceae
 genus: Artocarpus
 species: heterophyllus
+inat_id: 123003
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Rosales
+tribe: Artocarpeae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

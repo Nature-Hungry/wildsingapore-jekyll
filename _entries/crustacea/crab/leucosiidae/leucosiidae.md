@@ -7,6 +7,21 @@ attributes: [38, 106]
 family: Leucosiidae
 genus: ""
 species: ""
+inat_id: 122202
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Leucosioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

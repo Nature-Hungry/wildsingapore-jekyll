@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,"
 layout: default
-shape: ''
-title: The Neptune's Cup sponges (Cliona patera) 
+shape: ""
+title: The Neptune's Cup sponge
+family: Clionaidae
+genus: Cliona
+species: patera
+attributes: []
+inat_id: 856104
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Clionaida
 ---
 
 

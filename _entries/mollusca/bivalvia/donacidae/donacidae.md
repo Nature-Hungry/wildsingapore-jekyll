@@ -1,8 +1,23 @@
 ---
-title: "Surf clam (Donacidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Surf clams
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Donacidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 59395
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Cardiida
+superfamily: Tellinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

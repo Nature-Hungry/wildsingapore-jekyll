@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Pentaceraster
 species: mammillatus
+inat_id: 509052
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

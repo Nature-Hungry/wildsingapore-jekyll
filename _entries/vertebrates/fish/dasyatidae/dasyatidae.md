@@ -1,8 +1,21 @@
 ---
-title: "Stingrays (Dasyatidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Stingrays
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Dasyatidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47271
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Chondrichthyes
+subclass: Elasmobranchii
+infraclass: Batoidea
+order: Myliobatiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,18 @@
 ---
-title: "Very long ribbon worms (Baseodiscus delineatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Very long ribbon worm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ribbon, worm, ribbonworm, baseodiscus, delineatus, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Valenciniidae
+genus: Baseodiscus
+species: delineatus*
+attributes: []
+inat_id: 497475
+stateofmatter: Life
+kingdom: Animalia
+phylum: Nemertea
+class: Pilidiophora
+order: Heteronemertea
 ---
 
 

@@ -8,6 +8,12 @@ family: Ulvaceae
 genus: Ulva
 species: ""
 attributes: [97, 99]
+inat_id: 54644
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Ulvales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

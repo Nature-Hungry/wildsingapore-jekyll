@@ -1,8 +1,23 @@
 ---
-title: "Cotton stainer bugs (Dysdercus decussatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Cotton stainer bugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cotton, stainer, bug, dysdercus, decussatus, pyrrhocoridae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Pyrrhocoridae
+genus: Dysdercus
+species: decussatus
+attributes: []
+inat_id: 324752
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Hemiptera
+suborder: Heteroptera
+infraorder: Pentatomomorpha
+superfamily: Pyrrhocoroidea
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

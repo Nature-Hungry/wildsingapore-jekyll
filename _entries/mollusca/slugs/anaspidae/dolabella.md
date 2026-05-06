@@ -3,10 +3,20 @@ title: Wedge sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [90, 124]
+attributes: [14, 22, 33, 90, 124]
 family: Aplysiidae
 genus: Dolabella
 species: auricularia
+inat_id: 49860
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

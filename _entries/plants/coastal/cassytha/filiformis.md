@@ -3,10 +3,17 @@ title: "Rambut putri "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rambut, putri, cassytha, filiformis, lauraceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [35, 36]
+attributes: [18, 21, 35, 36]
 family: Lauraceae
 genus: Cassytha
 species: filiformis
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Laurales
+inat_id: 160172
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

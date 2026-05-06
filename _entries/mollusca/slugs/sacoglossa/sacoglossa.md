@@ -1,8 +1,22 @@
 ---
-title: "Sap-sucking slugs (Sacoglossa) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sap-sucking slugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, sap, sucking, sacoglossan, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Caliphyllidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 50012
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

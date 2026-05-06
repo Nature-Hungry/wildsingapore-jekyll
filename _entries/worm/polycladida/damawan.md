@@ -1,8 +1,19 @@
 ---
-title: "Damawan flatworm (Pseudobiceros damawan) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Damawan flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudobiceros
+species: damawan
+attributes: []
+inat_id: 842482
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

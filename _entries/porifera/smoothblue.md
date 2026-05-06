@@ -1,11 +1,13 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera, field,"
 layout: default
 shape: encrusting
-title: Blue icing sponges (Lendenfeldia cf. chondrodes) 
+title: Blue icing sponge
+family: Thorectidae
+genus: Lendenfeldia
+species: cf.
+attributes: []
 ---
 
 

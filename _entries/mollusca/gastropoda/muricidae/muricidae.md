@@ -1,8 +1,20 @@
 ---
-title: "Drills (Muricidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Drills
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Muricidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 50766
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Muricoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

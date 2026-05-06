@@ -1,8 +1,22 @@
 ---
-title: "Spotted sea hare (Aplysia oculifera)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spotted sea hare
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, seahare, hare, aplysia, oculifera, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: Aplysia
+species: oculifera*
+attributes: []
+inat_id: 50930
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -1,8 +1,23 @@
 ---
-title: "Onch slugs (Onchidiidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Onch slugs "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Onchidiidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 54928
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Eupulmonata
+order: Systellommatophora
+superfamily: Onchidioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

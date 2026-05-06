@@ -1,8 +1,23 @@
 ---
-title: "Singapore scallop (Volachlamys singaporina)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Singapore scallop
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, scallop, clam, shell, volachlamys, singaporina, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pectinidae
+genus: Volachlamys
+species: singaporina*
+attributes: []
+inat_id: 370295
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Pectinoidea
+subfamily: Pectininae
+tribe: Aequipectinini
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

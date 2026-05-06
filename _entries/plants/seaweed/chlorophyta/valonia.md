@@ -8,6 +8,12 @@ family: Valoniaceae
 genus: ""
 species: Valonia
 attributes: [97, 115]
+inat_id: 59739
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Cladophorales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

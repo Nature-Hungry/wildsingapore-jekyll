@@ -1,8 +1,22 @@
 ---
-title: "Headshield slugs (Cephalaspidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Headshield snails and slugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aglajidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49843
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Cephalaspidea
+superfamily: Philinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

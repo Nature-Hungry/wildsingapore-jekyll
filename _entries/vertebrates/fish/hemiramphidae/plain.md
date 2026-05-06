@@ -5,8 +5,16 @@ keywords: "plain, halfbeak, half, beak, hemiramphidae, fish, field, guide, seash
 layout: default
 attributes: [9, 15, 25, 47, 116]
 family: Hemiramphidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 57298
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Beloniformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

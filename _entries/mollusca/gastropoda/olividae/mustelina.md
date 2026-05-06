@@ -1,8 +1,20 @@
 ---
-title: "Weasel olive snail (Oliva mustelina)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Weasel olive snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "olive, snail, shell, oliva, mustelina, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Olividae
+genus: ""
+species: Oliva
+attributes: []
+inat_id: 61805
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Olivoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

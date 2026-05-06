@@ -6,7 +6,18 @@ layout: default
 attributes: [84, 103, 104]
 family: Lysiosquillidae
 genus: Lysiosquilla
-species: sp.
+species: ""
+inat_id: 199604
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Hoplocarida
+order: Stomatopoda
+suborder: Unipeltata
+superfamily: Lysiosquilloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

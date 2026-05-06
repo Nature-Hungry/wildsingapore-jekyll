@@ -1,8 +1,24 @@
 ---
-title: "Strawberry cockle (Fragum unedo)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Strawberry cockle "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "strawberry, cockle, ark, shell, clam, fragum, unedo, carciidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cardiidae
+genus: Fragum
+species: unedo
+attributes: []
+inat_id: 369829
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Cardiida
+superfamily: Cardioidea
+subfamily: Fraginae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

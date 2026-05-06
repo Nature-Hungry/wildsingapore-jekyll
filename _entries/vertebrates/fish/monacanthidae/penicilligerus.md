@@ -3,10 +3,19 @@ title: Feathery filefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feathery, filefish, file, fish, chaetodoerma, penicilligera, chaetodermis, penicilligerus, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Monacanthidae
 genus: Chaetodermis
 species: penicilligerus
+inat_id: 474370
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Balistoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

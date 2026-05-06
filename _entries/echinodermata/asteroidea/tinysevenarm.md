@@ -3,10 +3,18 @@ title: Tiny seven-armed coral star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "asterinidae, aquilonastra, anomala, sea star, seastar, starfish, star, fish, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [91]
+attributes: [0, 1, 91, 92, 106]
 family: Asterinidae
 genus: Aquilonastra
 species: anomala
+inat_id: 348904
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Valvatida
 ---
 
 

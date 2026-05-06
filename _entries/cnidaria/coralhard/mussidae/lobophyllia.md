@@ -1,8 +1,19 @@
 ---
-title: "Lobed brain corals (Lobophyllia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Lobed brain coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Lobophylliidae
+genus: Lobophyllia
+species: ""
+attributes: []
+inat_id: 503597
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

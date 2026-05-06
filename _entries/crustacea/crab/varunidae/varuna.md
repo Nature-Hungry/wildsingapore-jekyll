@@ -6,7 +6,23 @@ layout: default
 attributes: [38, 69, 106, 112]
 family: Varunidae
 genus: Varuna
-species: sp.
+species: ""
+inat_id: 371161
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Grapsoidea
+subfamily: Varuninae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

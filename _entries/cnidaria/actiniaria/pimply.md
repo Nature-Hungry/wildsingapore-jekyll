@@ -5,8 +5,11 @@ keywords: "pimply, mangrove, anemone, actiniaria, anthozoa, cnidarian, field, gu
 layout: default
 attributes: [5, 6, 88]
 family: ""
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

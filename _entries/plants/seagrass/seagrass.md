@@ -1,8 +1,19 @@
 ---
-title: "Seagrasses "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Seagrasses
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Cymodoceaceae
+genus: ""
+species: Family
+attributes: []
+inat_id: 50376
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](../../indexl)
 

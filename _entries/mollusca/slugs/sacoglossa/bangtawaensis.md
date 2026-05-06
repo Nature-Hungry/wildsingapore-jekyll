@@ -1,8 +1,22 @@
 ---
-title: "Mangrove leaf slug (Elysia bangtawaensis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove leaf slug
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, leaf, slug, seaslug, sap, sucking, sacoglossan, elysia, bangtawaensis, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plakobranchidae
+genus: Elysia
+species: bangtawaensis
+attributes: []
+inat_id: 702326
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

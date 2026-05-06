@@ -3,10 +3,19 @@ title: Tripodfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tripodfish, tripod, fish, triacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Triacanthidae
 genus: ""
 species: ""
+inat_id: 86110
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Triacanthodoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

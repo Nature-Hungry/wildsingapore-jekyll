@@ -1,8 +1,21 @@
 ---
-title: "Bobtail squid (Sepiolida)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Bobtail squids "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Sepiolidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 143626
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Sepiolida
+superfamily: Sepioloidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

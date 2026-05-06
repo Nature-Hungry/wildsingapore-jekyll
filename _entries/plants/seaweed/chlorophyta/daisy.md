@@ -8,6 +8,12 @@ family: Polyphysaceae
 genus: Parvocaulis
 species: parvulus*
 attributes: [44, 97]
+inat_id: 331032
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Dasycladales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -10,6 +10,13 @@ genus: Thalassia
 species: hemprichii
 summary: "Shorter and broader ribbon-like leaves that are curved into strap sickle shapes (4-11mm wide and 10-40cm long). Rhizomes thick. Small patch on Chek Jawa, larger meadows on Labrador, scattered clumps on some of our other Southern shores."
 coverimg: "https://live.staticflickr.com/693/32176014711_b8fc32768c.jpg"
+inat_id: 50382
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 
 

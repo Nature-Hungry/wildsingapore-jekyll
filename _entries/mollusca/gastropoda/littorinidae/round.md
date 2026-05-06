@@ -3,10 +3,19 @@ title: Round periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "round, periwinkle, echinolittorina, nodilittorina, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 75, 111, 123]
+attributes: [23, 33, 75, 100, 111, 123]
 family: Littorinidae
 genus: Echinolittorina
-species: sp.
+species: ""
+inat_id: 246650
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Littorinoidea
+subfamily: Littorininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

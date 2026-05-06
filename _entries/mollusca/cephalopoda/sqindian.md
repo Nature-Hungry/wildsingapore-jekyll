@@ -1,8 +1,20 @@
 ---
-title: "Indian squid (Uroteuthis duvaucelii)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Indian squid
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Loliginidae
+genus: Uroteuthis
+species: duvaucelii
+attributes: []
+inat_id: 694953
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Myopsida
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

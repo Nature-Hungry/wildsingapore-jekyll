@@ -1,8 +1,20 @@
 ---
-title: "Scale worms (Polynoidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Scale worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scaleworm, scale, worm, bristleworm, polynoidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Polynoidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 53607
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Errantia
+order: Phyllodocida
+suborder: Aphroditiformia
 ---
 
 

@@ -1,8 +1,19 @@
 ---
-title: "Thin disk corals (Turbinaria) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Thin disk coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Dendrophyllidae
+genus: Turbinaria
+species: ""
+attributes: []
+inat_id: 92703
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

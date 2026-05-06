@@ -6,7 +6,14 @@ layout: default
 attributes: [56]
 family: Aequoreidae
 genus: Aequorea
-species: sp.
+species: ""
+inat_id: 191502
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Hydrozoa
+subclass: Hydroidolina
+order: Leptothecata
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

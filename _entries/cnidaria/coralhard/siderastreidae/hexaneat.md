@@ -1,8 +1,19 @@
 ---
-title: "Neat hexagonal corals (Pseudosiderastrea tayamai) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Neat hexagonal  coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Siderastreidae
+genus: Pseudosiderastrea
+species: tayamai*
+attributes: []
+inat_id: 368134
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

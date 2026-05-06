@@ -1,8 +1,19 @@
 ---
-title: "Blue coral (Heliopora coerulea) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Blue coral
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Helioporidae
+genus: Heliopora
+species: coerulea
+attributes: []
+inat_id: 102432
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

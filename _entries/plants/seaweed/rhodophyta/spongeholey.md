@@ -7,7 +7,15 @@ division: Rhodophyta
 family: Lomentariaceae
 genus: Ceratodictyon
 species: spongiosum
-attributes: [50, 97, 98]
+attributes: [44, 50, 97, 98]
+inat_id: 553987
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Rhodymeniales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

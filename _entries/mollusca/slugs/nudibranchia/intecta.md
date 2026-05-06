@@ -3,10 +3,23 @@ title: Black prickly nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, spiny, nudibranchia, trippa, atagema, intecta, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [63, 90]
+attributes: [14, 22, 33, 63, 90]
 family: Discodorididae
 genus: Atagema
 species: intecta
+inat_id: 50445
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Doridoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

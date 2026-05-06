@@ -1,8 +1,19 @@
 ---
-title: "Pearl bubble corals (Physogyra lichtensteini) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Pearl bubble coral "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pearl, bubble, coral, physogyra, lichtensteini, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Euphyllidae
+genus: Physogyra
+species: lichtensteini*
+attributes: []
+inat_id: 109498
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

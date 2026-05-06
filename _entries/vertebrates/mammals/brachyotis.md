@@ -1,8 +1,26 @@
 ---
-title: "Lesser dog-daced fruit bats (Cynopterus brachyotis) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Lesser dog-faced fruit bat
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pteropodidae
+genus: Cynopterus
+species: brachyotis
+attributes: []
+inat_id: 40793
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Mammalia
+subclass: Theria
+infraclass: Placentalia
+superorder: Laurasiatheria
+order: Chiroptera
+suborder: Yinpterochiroptera
+superfamily: Pteropodoidea
+subfamily: Cynopterinae
+tribe: Cynopterini
 ---
 
 

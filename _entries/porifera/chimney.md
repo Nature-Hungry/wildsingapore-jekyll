@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
 layout: default
 shape: ball
-title: Colourful chimney sponges (Petrosia sp.) 
+title: Colourful chimney sponge
+family: Petrosiidae
+genus: Petrosia
+species: ""
+attributes: []
+inat_id: 131797
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

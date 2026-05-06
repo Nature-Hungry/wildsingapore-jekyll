@@ -7,6 +7,15 @@ attributes: [5, 6, 88]
 family: Actiniidae
 genus: Bunodosoma
 species: goanense
+inat_id: 736004
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

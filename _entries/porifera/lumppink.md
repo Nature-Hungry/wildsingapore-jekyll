@@ -1,11 +1,13 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,"
 layout: default
 shape: blobs
-title: Lumpy pink sponges (Haliclona cf. baeri) 
+title: Lumpy pink sponge
+family: Chalinidae
+genus: Haliclona
+species: cf.
+attributes: []
 ---
 
 

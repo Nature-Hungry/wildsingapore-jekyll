@@ -1,8 +1,19 @@
 ---
-title: "Red mangrove flatworm (Limnostylochus sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Red mangrove flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, mangrove, flat, worm, flatworm, limnostylochus, limnostylochidae, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Limnostylochidae
+genus: Limnostylochus
+species: ""
+attributes: []
+inat_id: 1078066
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Acotylea
 ---
 
 

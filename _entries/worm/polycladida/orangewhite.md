@@ -1,8 +1,19 @@
 ---
-title: "Halloween flatworm (Pseudobiceros sp. 5) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Halloween  flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: Pseudobiceros
+species: sp.
+attributes: []
+inat_id: 324818
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

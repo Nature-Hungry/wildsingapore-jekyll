@@ -8,6 +8,14 @@ family: Rhodomelaceae
 genus: Acrocystis
 species: nana*
 attributes: [52, 97, 98]
+inat_id: 924748
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Ceramiales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

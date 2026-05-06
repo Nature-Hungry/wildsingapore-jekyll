@@ -1,10 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
 layout: default
 shape: encrusting
-title: Lumpy green sponges (Haliclona sp.) 
+title: Lumpy green sponge
+family: Chalinidae
+genus: Haliclona
+species: sp.*
+attributes: []
+inat_id: 1485370
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

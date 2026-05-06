@@ -3,10 +3,19 @@ title: " "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 61, 68]
+attributes: [16, 18, 21, 36, 61, 68]
 family: Meliaceae
 genus: Xylocarpus
 species: granatum
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Sapindales
+subfamily: Cedreloideae
+tribe: Xylocarpeae
+inat_id: 196657
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

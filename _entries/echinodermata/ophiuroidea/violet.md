@@ -7,6 +7,18 @@ attributes: [0, 1, 31, 92]
 family: Ophiotrichidae
 genus: Macrophiothrix
 species: nereidina*
+inat_id: 348203
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Ophiuroidea
+subclass: Myophiuroida
+infraclass: Metophiurida
+superorder: Ophintegrida
+order: Amphilepidida
+suborder: Gnathophiurina
+superfamily: Ophiactoidea
 ---
 
 

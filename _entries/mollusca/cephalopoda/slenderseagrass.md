@@ -3,10 +3,20 @@ title: Slender seagrass octopus
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [40]
+attributes: [3, 14, 33, 40]
 family: Octopodidae
 genus: ""
 species: awaiting
+inat_id: 47457
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Octopodiformes
+order: Octopoda
+suborder: Incirrata
+superfamily: Octopodoidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

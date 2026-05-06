@@ -1,8 +1,22 @@
 ---
-title: "Woolly leaf slug (Elysia)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Woolly leaf slugs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "woolly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Plakobranchidae
+genus: Elysia
+species: ""
+attributes: []
+inat_id: 47799
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+superorder: Sacoglossa
+superfamily: Plakobranchoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

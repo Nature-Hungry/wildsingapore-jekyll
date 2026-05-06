@@ -5,8 +5,21 @@ keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guid
 layout: default
 attributes: [103, 104]
 family: Alpheidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 51196
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Alpheoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

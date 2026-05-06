@@ -8,6 +8,12 @@ family: Udoteaceae
 genus: Avrainvillea
 species: lacerata
 attributes: [44, 97]
+inat_id: 1070803
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

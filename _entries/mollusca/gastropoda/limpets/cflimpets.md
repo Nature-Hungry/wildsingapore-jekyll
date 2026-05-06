@@ -1,8 +1,20 @@
 ---
-title: "How to tell apart limpets on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Various kinds of limpets
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limpets, mollusca, gastropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Nacellidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 64285
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Patellogastropoda
+order: Nacellida
+superfamily: Nacelloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

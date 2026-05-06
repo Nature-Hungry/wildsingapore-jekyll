@@ -1,8 +1,19 @@
 ---
-title: "Sea whip (Junceella sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Sea whip
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Ellisellidae
+genus: Junceella
+species: sp.*
+attributes: []
+inat_id: 1458590
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Scleralcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

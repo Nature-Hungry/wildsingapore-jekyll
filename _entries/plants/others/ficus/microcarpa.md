@@ -7,6 +7,14 @@ attributes: [8, 17, 20, 21]
 family: Moraceae
 genus: Ficus
 species: microcarpa
+inat_id: 54982
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Rosales
+tribe: Ficeae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

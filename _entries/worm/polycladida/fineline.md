@@ -1,8 +1,19 @@
 ---
-title: "Lightning flatworm (Pseudobiceros fulgor) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Lightning flatworm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lightning, fine, lined, flat, worm, flatworm, pseudobiceros, fulgor, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pseudocerotidae
+genus: ""
+species: Pseudobiceros
+attributes: []
+inat_id: 52317
+stateofmatter: Life
+kingdom: Animalia
+phylum: Platyhelminthes
+subphylum: Rhabditophora
+order: Polycladida
+suborder: Cotylea
 ---
 
 

@@ -1,8 +1,23 @@
 ---
-title: "Razor clams (Solenidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Razor clams "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Solenidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 50587
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Adapedonta
+superfamily: Solenoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,19 @@ title: Poisonous sea bean
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "canavalia, cathartica, fabaceae, leguminosae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 39]
+attributes: [18, 21, 36, 39]
 family: Fabaceae
 genus: Canavalia
 species: cathartica
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Fabales
+subfamily: Faboideae
+tribe: Diocleae
+inat_id: 159808
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

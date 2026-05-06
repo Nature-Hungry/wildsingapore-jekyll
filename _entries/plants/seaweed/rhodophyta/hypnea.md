@@ -8,6 +8,14 @@ family: Cystocloniaceae
 genus: Hypnea
 species: sp.
 attributes: [50, 97, 98]
+inat_id: 700626
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Gigartinales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

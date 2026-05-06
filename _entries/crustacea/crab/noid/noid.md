@@ -1,8 +1,29 @@
 ---
-title: "Banded-leg swimming crabs (Charybdis annulata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Banded-leg swimming crab
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Portunidae
+genus: Charybdis
+species: annulata*
+attributes: []
+inat_id: 524940
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Portunoidea
+subfamily: Thalamitinae
+subgenus: Charybdis
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

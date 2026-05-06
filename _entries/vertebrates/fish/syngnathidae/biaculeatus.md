@@ -7,6 +7,16 @@ attributes: [9, 15, 25, 47, 116]
 family: Syngnathidae
 genus: Syngnathoides
 species: biaculeatus
+inat_id: 69834
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
+subfamily: Syngnathinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,16 @@ attributes: [9, 15, 19, 25, 47, 72]
 family: Gobiidae
 genus: Periophthalmodon
 species: schlosseri
+inat_id: 361342
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Oxudercinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

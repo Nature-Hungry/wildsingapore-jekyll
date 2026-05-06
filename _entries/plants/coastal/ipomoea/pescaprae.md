@@ -3,10 +3,19 @@ title: Beach morning glory
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "morning, glory, ipomoea, pescaprae, convolvulaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 39]
+attributes: [18, 21, 36, 39]
 family: Convolvulaceae
 genus: Ipomoea
 species: pes-caprae
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Solanales
+subfamily: Convolvuloideae
+tribe: Ipomoeeae
+inat_id: 60879
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

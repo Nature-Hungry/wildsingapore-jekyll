@@ -1,8 +1,22 @@
 ---
-title: "Common sun skink (Eutropis multifasciata) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Common sun skink
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "common, sun, skink, eutropis, multifasciata, scincidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Scincidae
+genus: Eutropis
+species: multifasciata
+attributes: []
+inat_id: 38008
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Sauria
+infraorder: Scincomorpha
+subfamily: Mabuyinae
 ---
 
 

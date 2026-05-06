@@ -1,8 +1,19 @@
 ---
-title: "Tengar (Ceriops) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Tengar "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceriops, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Rhizophoraceae
+genus: Ceriops
+species: ""
+attributes: []
+inat_id: 184244
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

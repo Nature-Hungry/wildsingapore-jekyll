@@ -1,8 +1,21 @@
 ---
-title: "Flatworms with one central stripe compared "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Flatworms with one central line
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, polyclad, turbellaria, platyhelminthes, pseudoceros, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: ""
+genus: How
+species: to
+attributes: []
+inat_id: 162721
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Liliales
+subfamily: Lilioideae
+tribe: Lilieae
 ---
 
 

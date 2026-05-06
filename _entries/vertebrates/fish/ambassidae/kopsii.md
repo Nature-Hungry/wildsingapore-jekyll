@@ -3,10 +3,18 @@ title: Asiatic glass perchlets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [70]
+attributes: [25, 47, 69, 70]
 family: Ambassidae
 genus: ""
 species: ""
+inat_id: 85570
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Mugiliformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -1,8 +1,19 @@
 ---
-title: "Acroporid corals (Acroporidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Acroporid corals "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Acroporidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48746
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Scleractinia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

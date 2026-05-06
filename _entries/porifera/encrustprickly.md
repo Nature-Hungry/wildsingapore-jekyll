@@ -1,12 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
 layout: default
 shape: encrusting
-title: Yellow prickly encrusting sponges (Pseudoceratina purpurea) on the Shores of
-  Singapore
+title: Yellow prickly branching sponge
+family: Pseudoceratinidae
+genus: Pseudoceratina
+species: purpurea*
+attributes: []
+inat_id: 783231
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Verongimorpha
+order: Verongiida
 ---
 
 

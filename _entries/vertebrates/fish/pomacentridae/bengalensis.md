@@ -3,10 +3,19 @@ title: "Bengal sergeant "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bengal, sergeant, abudefduf, bengalensis, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60, 69, 70, 106, 108]
 family: Pomacentridae
 genus: Abudefduf
 species: bengalensis
+inat_id: 337754
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
+subfamily: Glyphisodontinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

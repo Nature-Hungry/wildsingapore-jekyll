@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,"
 layout: default
 shape: encrusting
-title: Smooth brown sponges (Neopetrosia exigua) 
+title: Smooth brown sponge
+family: Petrosiidae
+genus: Neopetrosia
+species: exigua*
+attributes: []
+inat_id: 1427706
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

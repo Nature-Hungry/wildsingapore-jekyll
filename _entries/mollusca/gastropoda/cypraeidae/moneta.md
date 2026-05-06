@@ -1,8 +1,21 @@
 ---
-title: "Money cowries (Monetaria moneta) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Money cowrie "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "money, cowrie, cypraeidae, cypraea, monetaria, moneta, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cypraeidea
+genus: Monetaria
+species: moneta
+attributes: []
+inat_id: 51809
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Ericales
+subfamily: Myrsinoideae
+section: Nummularia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

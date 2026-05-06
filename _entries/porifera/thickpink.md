@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,
-  porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: "thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,"
 layout: default
 shape: branching
-title: Champagne sponges (Callyspongia diffusa) 
+title: Champagne  sponge
+family: Callyspongiidae
+genus: Callyspongia
+species: diffusa*
+attributes: []
+inat_id: 450023
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

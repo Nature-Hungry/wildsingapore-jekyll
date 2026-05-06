@@ -7,6 +7,21 @@ attributes: [38, 106]
 family: Trapezioidea
 genus: Tetralia
 species: nigrolineata
+inat_id: 876253
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Trapezioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

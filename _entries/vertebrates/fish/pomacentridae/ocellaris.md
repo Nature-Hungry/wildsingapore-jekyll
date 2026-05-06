@@ -3,10 +3,20 @@ title: "Clown anemonefish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [79]
+attributes: [9, 15, 19, 25, 47, 48, 79]
 family: Pomacentridae
 genus: Amphiprion
 species: ocellaris
+inat_id: 132688
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Blenniiformes
+subfamily: Pomacentrinae
+complex: Amphiprion percula
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

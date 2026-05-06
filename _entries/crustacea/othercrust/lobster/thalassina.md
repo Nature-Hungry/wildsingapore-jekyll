@@ -6,7 +6,19 @@ layout: default
 attributes: [84, 103, 104]
 family: Thalassinidae
 genus: Thalassina
-species: sp.
+species: ""
+inat_id: 342937
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Gebiidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

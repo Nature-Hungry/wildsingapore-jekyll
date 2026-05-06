@@ -1,8 +1,24 @@
 ---
-title: "Discrepant venus clam (Gafrarium dispar) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Discrepant venus clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, shell, clam, gafrarium, dispar, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Veneridae
+genus: Gafrarium
+species: dispar*
+attributes: []
+inat_id: 898889
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Veneroidea
+subfamily: Gouldiinae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

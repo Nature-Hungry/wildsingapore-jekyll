@@ -1,8 +1,21 @@
 ---
-title: "Frilly anemones (Phymanthus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Frilly anemones
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Phymantidae
+genus: Phymanthus
+species: ""
+attributes: []
+inat_id: 361297
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

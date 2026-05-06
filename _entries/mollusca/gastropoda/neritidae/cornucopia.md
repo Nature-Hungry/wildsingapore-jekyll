@@ -1,8 +1,21 @@
 ---
-title: "Black-mouth nerite snail (Neritina cornucopia)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Black-mouth nerite snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dostia, neritina, cornucopia, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Neritidae
+genus: Neritina
+species: cornucopia
+attributes: []
+inat_id: 1215604
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Neritimorpha
+order: Cycloneritida
+superfamily: Neritoidea
+subfamily: Neritininae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

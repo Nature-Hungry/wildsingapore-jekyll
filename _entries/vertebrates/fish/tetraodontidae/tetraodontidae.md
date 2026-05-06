@@ -1,8 +1,21 @@
 ---
-title: "Pufferfishes (Tetraodontidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Pufferfishes
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Tetraodontidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49266
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Tetraodontoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

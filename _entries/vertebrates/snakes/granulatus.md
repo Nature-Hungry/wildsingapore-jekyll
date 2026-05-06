@@ -1,8 +1,20 @@
 ---
-title: "Banded file snakes (Acrochordus granulatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Banded file snake
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Acrochordidae
+genus: Acrochordus
+species: granulatus
+attributes: []
+inat_id: 26182
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
 ---
 
 

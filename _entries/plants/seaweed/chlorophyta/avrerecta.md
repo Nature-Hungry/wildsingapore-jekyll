@@ -8,6 +8,12 @@ family: Udoteaceae
 genus: Avrainvillea
 species: erecta*
 attributes: [44, 97]
+inat_id: 472001
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Bryopsidales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

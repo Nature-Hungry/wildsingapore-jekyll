@@ -1,8 +1,22 @@
 ---
-title: "Glittering cuttlefish (Sepiella inermis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Glittering cuttlefish
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "glittering, cuttlefish, sepiella, inermis, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Sepiidae
+genus: Sepiella
+species: inermis
+attributes: []
+inat_id: 151476
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Cephalopoda
+subclass: Coleoidea
+superorder: Decapodiformes
+order: Sepiida
+suborder: Sepiina
+superfamily: Sepioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,8 +1,22 @@
 ---
-title: "Little black mussel (Xenostrobus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Little black mussel
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "little, black, horse, mussel, clam, xenostrobus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Mytilidae
+genus: Xenostrobus
+species: ""
+attributes: []
+inat_id: 340585
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Mytilida
+superfamily: Mytiloidea
+subfamily: Xenostrobinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

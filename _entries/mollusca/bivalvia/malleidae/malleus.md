@@ -6,7 +6,16 @@ layout: default
 attributes: [2, 33, 73]
 family: Malleidae
 genus: Malleus
-species: sp.
+species: ""
+inat_id: 50580
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pterioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

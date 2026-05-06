@@ -1,8 +1,21 @@
 ---
-title: "Miliaris cowrie (Erosaria milliaris)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Miliaris cowrie "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "miliaris, cowrie, cypraeidae, erosaria, cypraea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cypraeidea
+genus: Erosaria
+species: miliaris
+attributes: []
+inat_id: 747600
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Cypraeoidea
+subfamily: Erosariinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,18 @@ title: Dungun
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dungun, heritiera, littoralis, malvaceae, sterculiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 80]
+attributes: [16, 18, 21, 36, 68, 80]
 family: Malvaceae
 genus: Heritiera
 species: littoralis
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malvales
+subfamily: Sterculioideae
+inat_id: 193310
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

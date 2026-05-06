@@ -8,6 +8,15 @@ family: Corallinaceae
 genus: ""
 species: ""
 attributes: [52, 97, 98]
+inat_id: 117828
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Corallinophycidae
+order: Corallinales
+suborder: Corallinineae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

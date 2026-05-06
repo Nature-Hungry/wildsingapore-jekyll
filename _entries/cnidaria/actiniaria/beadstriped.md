@@ -7,6 +7,15 @@ attributes: [6, 88]
 family: Actiniidae
 genus: Paracondylactis
 species: singaporensis
+inat_id: 1301492
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

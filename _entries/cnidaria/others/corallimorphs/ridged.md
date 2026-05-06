@@ -7,6 +7,13 @@ attributes: [6, 88, 102]
 family: Discosomidae
 genus: Platyzoanthus
 species: mussoides
+inat_id: 356412
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

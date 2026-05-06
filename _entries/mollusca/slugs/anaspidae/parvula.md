@@ -1,8 +1,22 @@
 ---
-title: "Mini sea hare (Aplysia parvula)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mini sea hare
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aplysiidae
+genus: Aplysia
+species: parvula
+attributes: []
+inat_id: 49856
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

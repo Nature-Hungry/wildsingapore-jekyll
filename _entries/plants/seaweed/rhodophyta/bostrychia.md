@@ -6,8 +6,15 @@ layout: default
 division: Rhodophyta
 family: Rhodomelaceae
 genus: Bostrychia
-species: sp.*
+species: ""
 attributes: [97, 98, 114]
+inat_id: 3742
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Aves
+order: Pelecaniformes
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

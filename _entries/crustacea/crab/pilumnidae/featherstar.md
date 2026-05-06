@@ -5,8 +5,23 @@ keywords: "crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolin
 layout: default
 attributes: [38, 106]
 family: Pilumnidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 195177
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Heterotremata
+superfamily: Pilumnoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

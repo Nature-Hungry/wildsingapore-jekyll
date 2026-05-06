@@ -1,8 +1,22 @@
 ---
-title: "Sea hares (Anaspidea) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Sea hares "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seahare, hare, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aplysiidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 48656
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Aplysiida
+superfamily: Aplysioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

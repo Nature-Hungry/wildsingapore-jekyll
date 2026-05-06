@@ -1,8 +1,21 @@
 ---
-title: "Scorpionfishes (Scorpaenidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Scorpionfishes
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Scorpaenidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47285
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Perciformes
+suborder: Scorpaenoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

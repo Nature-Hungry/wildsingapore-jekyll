@@ -1,8 +1,20 @@
 ---
-title: "Top shell snails (Trochidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Top shell snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Trochidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 53830
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

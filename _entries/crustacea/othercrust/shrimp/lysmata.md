@@ -7,6 +7,19 @@ attributes: [103, 104]
 family: Hippolytidae
 genus: Lysmata
 species: sp.*
+inat_id: 983538
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Caridea
+superfamily: Alpheoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

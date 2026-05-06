@@ -7,6 +7,22 @@ attributes: [38, 106, 112]
 family: Dotillidae
 genus: Ilyoplax
 species: ""
+inat_id: 464763
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Crustacea
+superclass: Multicrustacea
+class: Malacostraca
+subclass: Eumalacostraca
+superorder: Eucarida
+order: Decapoda
+suborder: Pleocyemata
+infraorder: Brachyura
+zoosection: Eubrachyura
+zoosubsection: Thoracotremata
+superfamily: Ocypodoidea
+subfamily: Dotillinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

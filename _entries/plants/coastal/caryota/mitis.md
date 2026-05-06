@@ -3,10 +3,19 @@ title: "Fishtail palm "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fishtail, caryota, mitis, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 82]
+attributes: [8, 18, 20, 21, 36, 82]
 family: Arecaceae
 genus: Caryota
 species: mitis
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Arecales
+subfamily: Coryphoideae
+tribe: Caryoteae
+inat_id: 160169
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

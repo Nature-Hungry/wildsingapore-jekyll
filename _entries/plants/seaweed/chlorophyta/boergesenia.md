@@ -8,6 +8,12 @@ family: Siphonocladaceae
 genus: Boergesenia
 species: forbesii*
 attributes: [97, 115]
+inat_id: 556938
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Cladophorales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

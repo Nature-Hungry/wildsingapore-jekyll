@@ -5,8 +5,8 @@ keywords: "entomacrodus, blenniidae, rockskipper, blenny, fish, field, guide, se
 layout: default
 attributes: [9, 15, 25, 43, 47]
 family: Blennidae
-genus: awaiting
-species: identification
+genus: ""
+species: ""
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

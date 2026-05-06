@@ -7,6 +7,14 @@ attributes: [6, 88]
 family: Zonathidae
 genus: Palythoa
 species: mutuki
+inat_id: 195490
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Zoantharia
+suborder: Brachycnemina
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

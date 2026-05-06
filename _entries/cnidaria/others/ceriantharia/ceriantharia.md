@@ -3,10 +3,17 @@ title: Cerianthids
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [92]
+attributes: []
 family: Cerianthidae
 genus: ""
 species: ""
+inat_id: 47704
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Ceriantharia
+order: Spirularia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

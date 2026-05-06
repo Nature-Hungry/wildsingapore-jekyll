@@ -3,10 +3,19 @@ title: Spotted green pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [85]
+attributes: [11, 25, 47, 85]
 family: Tetraodontidae
 genus: Tetraodon
 species: nigroviridis
+inat_id: 621545
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Tetraodontiformes
+suborder: Tetraodontoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

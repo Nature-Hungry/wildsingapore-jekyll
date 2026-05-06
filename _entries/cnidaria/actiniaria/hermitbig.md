@@ -6,7 +6,16 @@ layout: default
 attributes: [6, 88]
 family: Hormathidae
 genus: Calliactis
-species: sp.
+species: ""
+inat_id: 195593
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Metridioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

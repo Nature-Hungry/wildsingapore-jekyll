@@ -1,8 +1,21 @@
 ---
-title: "Ramose murex snail (Chicoreus ramosus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Ramose murex
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ram, ramose, spiny, chicoreus, ramosus, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Muricidae
+genus: Chicoreus
+species: ramosus
+attributes: []
+inat_id: 496404
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Neogastropoda
+superfamily: Muricoidea
+subfamily: Muricinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

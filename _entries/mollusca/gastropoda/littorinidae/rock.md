@@ -3,10 +3,18 @@ title: Rock periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [23, 33, 75, 111, 123]
+attributes: [23, 33, 75, 100, 111, 123]
 family: Littorinidae
-genus: awaiting
+genus: ""
 species: identification*
+inat_id: 48918
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Littorinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

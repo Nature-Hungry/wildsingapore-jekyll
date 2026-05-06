@@ -1,8 +1,19 @@
 ---
-title: "Flat branch sea fan (Subergorgia sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Flat branch sea fan
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Subergorgiidae
+genus: Subergorgia
+species: ""
+attributes: []
+inat_id: 357442
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

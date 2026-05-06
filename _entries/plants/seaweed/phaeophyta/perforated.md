@@ -8,6 +8,13 @@ family: Scytosiphonaceae
 genus: Hydroclathrus
 species: ""
 attributes: [41, 97, 98]
+inat_id: 354821
+stateofmatter: Life
+kingdom: Chromista
+phylum: Ochrophyta
+class: Phaeophyceae
+subclass: Fucophycidae
+order: Ectocarpales
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

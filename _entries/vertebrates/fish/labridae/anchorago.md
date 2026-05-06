@@ -3,10 +3,20 @@ title: "Anchor   tuskfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "anchor, tuskfish, tusk, fish, choerodon, anchorago, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [60]
+attributes: [25, 47, 58, 60]
 family: Labridae
 genus: Choerodon
 species: anchorago
+inat_id: 97649
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Labriformes
+suborder: Labroidei
+subfamily: Hypsigenyinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

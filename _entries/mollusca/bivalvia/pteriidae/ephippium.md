@@ -7,6 +7,15 @@ attributes: [2, 33, 59]
 family: Pteriidae
 genus: Isognomon
 species: "ephippium,"
+inat_id: 706014
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pterioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

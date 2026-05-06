@@ -1,8 +1,20 @@
 ---
-title: "Reticulated python (Broghammerus reticulatus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Reticulated python "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broghammerus, malayopython, python, reticulated, reticulatus, pythonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pythonidae
+genus: Broghammerus
+species: reticulatus
+attributes: []
+inat_id: 491869
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Serpentes
 ---
 
 

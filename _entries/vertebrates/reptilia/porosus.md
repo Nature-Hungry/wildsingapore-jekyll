@@ -1,8 +1,19 @@
 ---
-title: "Estuarine crocodile (Crocodylus porosus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Estuarine crocodile "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Crocodylidae
+genus: Crocodylus
+species: porosus
+attributes: []
+inat_id: 26068
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Crocodylia
 ---
 
 

@@ -1,8 +1,22 @@
 ---
-title: "Watering pot shell (Verpa penis)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Watering pot shell
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "waterspout, watering, pot, shell,  clam, verpa, brechites, penis, clavagellidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Clavagellidae
+genus: Verpa
+species: penis
+attributes: []
+inat_id: 1072232
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Anomalodesmata
+superfamily: Clavagelloidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

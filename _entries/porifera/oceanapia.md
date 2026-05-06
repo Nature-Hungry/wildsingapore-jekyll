@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,
-  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
-  fact sheet, info, photo
+keywords: "pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,"
 layout: default
 shape: ball
-title: Pink puff ball sponges (Oceanapia sagittaria) 
+title: Pink puff ball sponge
+family: Phloeodictyidae
+genus: Oceanapia
+species: sagittaria*
+attributes: []
+inat_id: 57735
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Haplosclerida
 ---
 
 

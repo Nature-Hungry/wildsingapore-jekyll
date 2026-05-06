@@ -1,8 +1,19 @@
 ---
-title: "Giant reef worm (Eunice aphroditois)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Giant reef worm
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Eunicidae
+genus: Eunice
+species: aphroditois*
+attributes: []
+inat_id: 200950
+stateofmatter: Life
+kingdom: Animalia
+phylum: Annelida
+class: Polychaeta
+subclass: Errantia
+order: Eunicida
 ---
 
 

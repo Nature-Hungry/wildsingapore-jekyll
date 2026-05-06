@@ -1,8 +1,25 @@
 ---
-title: "Spotted foot nudibranch (Tayuva lilacina)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Spotted foot nudibranch
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spot, foot, tayuva, discodoris, lilacina, fragilis, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Discodorididae
+genus: Tayuva
+species: lilacina
+attributes: []
+inat_id: 123428
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Ringipleura
+superorder: Nudipleura
+order: Nudibranchia
+suborder: Doridina
+infraorder: Doridoidei
+superfamily: Doridoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

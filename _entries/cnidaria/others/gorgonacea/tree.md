@@ -1,8 +1,19 @@
 ---
-title: "Tree sea fan (Melithaeidae) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Tree sea fan
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, melithaeidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Melithaeidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 121165
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Octocorallia
+order: Malacalcyonacea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -3,10 +3,19 @@ title: "Chengam "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chengam, scyphiphora, hydrophyllacea, rubiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 120]
+attributes: [18, 21, 36, 120]
 family: Rubiaceae
 genus: Scyphiphora
 species: hydrophyllacea
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Gentianales
+subfamily: Ixoroideae
+tribe: Scyphiphoreae
+inat_id: 426640
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

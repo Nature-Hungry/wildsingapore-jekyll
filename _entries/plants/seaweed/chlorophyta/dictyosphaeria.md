@@ -8,6 +8,12 @@ family: Siphonocladaceae
 genus: Dictyosphaeria
 species: ""
 attributes: [97, 115]
+inat_id: 131345
+stateofmatter: Life
+kingdom: Plantae
+phylum: Chlorophyta
+class: Ulvophyceae
+order: Cladophorales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

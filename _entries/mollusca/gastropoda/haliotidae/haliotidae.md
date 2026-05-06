@@ -1,8 +1,20 @@
 ---
-title: "Abalone (Haliotidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Abalone
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 86122
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -6,8 +6,16 @@ layout: default
 division: Rhodophyta
 family: Gracilariacea
 genus: Halymenia
-species: sp.*
+species: ""
 attributes: [97, 98]
+inat_id: 131378
+stateofmatter: Life
+kingdom: Plantae
+phylum: Rhodophyta
+subphylum: Eurhodophytina
+class: Florideophyceae
+subclass: Rhodymeniophycidae
+order: Halymeniales
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

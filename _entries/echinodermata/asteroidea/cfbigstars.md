@@ -1,8 +1,15 @@
 ---
-title: "How to tell apart big sea stars on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Big       sea stars
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "worm, tube, tubeworm, fan, fanworm, peacock, anemone, polychaeta, sabellidae, ceriantharia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 
 

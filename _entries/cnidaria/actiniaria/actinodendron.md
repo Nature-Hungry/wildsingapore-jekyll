@@ -7,6 +7,15 @@ attributes: [6, 51, 88]
 family: Actinodendridae
 genus: Actinodendron
 species: arboreum
+inat_id: 472123
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

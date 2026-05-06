@@ -7,6 +7,14 @@ attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Holothuriidae
 genus: Bohadschia
 species: ocellata*
+inat_id: 428374
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Holothuroidea
+subclass: Actinopoda
+order: Holothuriida
 ---
 
 

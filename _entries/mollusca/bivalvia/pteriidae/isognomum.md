@@ -7,6 +7,15 @@ attributes: [2, 33, 73]
 family: Pteriidae
 genus: Isognomon
 species: isognomum
+inat_id: 701312
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pterioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

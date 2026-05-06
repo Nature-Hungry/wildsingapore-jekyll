@@ -7,6 +7,13 @@ attributes: [6, 88, 102]
 family: Discosomidae
 genus: Rhodactis
 species: indosinensis
+inat_id: 794406
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Corallimorpharia
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

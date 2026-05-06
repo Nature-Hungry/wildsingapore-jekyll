@@ -1,8 +1,15 @@
 ---
-title: "Cephalopod eggs (Cephalopoda) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Cephalapod eggs
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "squid, cuttlefish, octopus, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: ""
+genus: ""
+species: ""
+attributes: []
+inat_id: 1
+stateofmatter: Life
+kingdom: Animalia
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -1,8 +1,20 @@
 ---
-title: "Bean cowries (Triviidae)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Bean cowries "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bean, cowry, cowrie, triviidae, trivirostra, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Triviidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 124504
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Velutinoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

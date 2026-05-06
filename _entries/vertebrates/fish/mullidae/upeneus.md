@@ -3,10 +3,19 @@ title: "Freckled   goatfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [70]
+attributes: [25, 47, 69, 70]
 family: Mullidae
 genus: Upeneus
 species: tragula
+inat_id: 119432
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Mulloidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

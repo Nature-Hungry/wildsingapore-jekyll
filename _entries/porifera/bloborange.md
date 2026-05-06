@@ -1,10 +1,25 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: orange, blob, sponge, mycale, myclaidae, porifera, field, guide, seashore,
-  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+keywords: "orange, blob, sponge, mycale, myclaidae, porifera, field, guide, seashore,"
 layout: default
 shape: blobs
-title: Orange blob sponges (Mycale) 
+title: Orange blob sponge
+family: Mycalidae
+genus: Mycale
+species: sp.*
+attributes: []
+inat_id: 1448153
+stateofmatter: Life
+kingdom: Animalia
+phylum: Arthropoda
+subphylum: Hexapoda
+class: Insecta
+subclass: Pterygota
+order: Lepidoptera
+superfamily: Papilionoidea
+subfamily: Satyrinae
+tribe: Satyrini
+subtribe: Mycalesina
 ---
 
 

@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: prickly, ball, sponge, tethya, robusta, tethyidae, porifera, field, guide,
-  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
-  info, photo
+keywords: "prickly, ball, sponge, tethya, robusta, tethyidae, porifera, field, guide,"
 layout: default
 shape: ball
-title: Rambutan sponges (Tethya robusta) 
+title: Rambutan sponge
+family: Tethyidae
+genus: Tethya
+species: robusta*
+attributes: []
+inat_id: 707284
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Tethyida
 ---
 
 

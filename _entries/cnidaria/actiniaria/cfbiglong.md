@@ -1,8 +1,21 @@
 ---
-title: "Large long-tentacled sea anemones on Singapore shores: how to tell them apart"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Large "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snaky, anemone, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Actiniidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 47796
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

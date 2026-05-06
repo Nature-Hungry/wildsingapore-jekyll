@@ -1,8 +1,20 @@
 ---
-title: "Mangrove creeper snail (Clypeomorus pellucidus)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Mangrove creeper snail
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Cerithiidae
+genus: Clypeomorus
+species: pellucida
+attributes: []
+inat_id: 570217
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+superfamily: Cerithioidea
+subfamily: Cerithiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

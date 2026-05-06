@@ -3,10 +3,17 @@ title: "Bakau minyak "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, apiculata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 68, 117]
+attributes: [16, 18, 21, 36, 68, 117]
 family: Rhizophoraceae
 genus: Rhizophora
 species: apiculata
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Malpighiales
+inat_id: 196660
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

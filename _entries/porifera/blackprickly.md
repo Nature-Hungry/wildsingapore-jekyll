@@ -1,11 +1,21 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,
-  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
-  sheet, info, photo
+keywords: "spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,"
 layout: default
 shape: blobs
-title: Black prickly sponges (Echinodictyum conulosum) 
+title: Black prickly sponge
+family: Raspailiidae
+genus: Echinodictyum
+species: conulosum*
+attributes: []
+inat_id: 1654174
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Axinellida
+subfamily: Echinodictyinae
 ---
 
 

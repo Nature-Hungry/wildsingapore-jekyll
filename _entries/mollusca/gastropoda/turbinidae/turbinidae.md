@@ -1,8 +1,20 @@
 ---
-title: "Turban snails (Turbinidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Turban snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Turbinidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 86122
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Vetigastropoda
+order: Trochida
+superfamily: Trochoidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

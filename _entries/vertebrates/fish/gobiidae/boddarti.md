@@ -7,6 +7,16 @@ attributes: [9, 15, 19, 25, 47, 72]
 family: Gobiidae
 genus: Boleophthalmus
 species: boddarti
+inat_id: 120494
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Gobiiformes
+suborder: Gobioidei
+subfamily: Oxudercinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

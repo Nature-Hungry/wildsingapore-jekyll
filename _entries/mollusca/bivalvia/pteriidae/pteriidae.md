@@ -1,8 +1,21 @@
 ---
-title: "Winged oysters (Pteriidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Winged oysters
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Pteriidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 62590
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Ostreida
+superfamily: Pterioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

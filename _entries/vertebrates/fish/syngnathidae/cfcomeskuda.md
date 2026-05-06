@@ -1,8 +1,21 @@
 ---
-title: "Seahorses on Singapore shores: how to tell them apart"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Tiger-tailed and estuarine seahorses
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seahore, hippocampus, comes, kuda, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Syngnathidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49106
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,14 @@ attributes: [0, 1, 58, 92]
 family: Luidiidae
 genus: Luidia
 species: maculata
+inat_id: 348321
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Asterozoa
+class: Asteroidea
+superorder: Valvatacea
+order: Paxillosida
 ---
 
 

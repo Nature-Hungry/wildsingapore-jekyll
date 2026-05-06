@@ -1,8 +1,22 @@
 ---
-title: "Acoel worms (Acoela) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Acoel worms
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Aglajidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49843
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Heterobranchia
+infraclass: Euthyneura
+subterclass: Tectipleura
+order: Cephalaspidea
+superfamily: Philinoidea
 ---
 
 

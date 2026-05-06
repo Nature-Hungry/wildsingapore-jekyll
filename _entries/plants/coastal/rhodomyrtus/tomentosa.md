@@ -3,10 +3,20 @@ title: Kemunting
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kemunting, rhodomyrtus, tomentosa, myrtaceae, plant, shrub, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [36, 121]
+attributes: [18, 21, 36, 121]
 family: Myrtaceae
 genus: Rhodomyrtus
 species: tomentosa
+inat_id: 132698
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Magnoliopsida
+order: Myrtales
+subfamily: Myrtoideae
+tribe: Myrteae
+subtribe: Decasperminae
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

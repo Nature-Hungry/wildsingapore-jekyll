@@ -7,6 +7,15 @@ attributes: [9, 15, 25, 47, 116]
 family: Centriscidae
 genus: ""
 species: ""
+inat_id: 47247
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Syngnathiformes
+suborder: Syngnathoidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

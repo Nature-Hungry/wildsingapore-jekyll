@@ -7,6 +7,15 @@ attributes: [6, 88, 113]
 family: Stichodactylidae
 genus: Stichodactyla
 species: mertensii
+inat_id: 338314
+stateofmatter: Life
+kingdom: Animalia
+phylum: Cnidaria
+class: Anthozoa
+subclass: Hexacorallia
+order: Actiniaria
+suborder: Enthemonae
+superfamily: Actinioidea
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

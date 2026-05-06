@@ -1,8 +1,23 @@
 ---
-title: "Green crested lizard (Bronchocela cristatella)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Green crested lizard "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Agamidae
+genus: Bronchocela
+species: cristatella
+attributes: []
+inat_id: 31302
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Reptilia
+order: Squamata
+suborder: Sauria
+infraorder: Iguania
+parvorder: Acrodonta
+subfamily: Draconinae
 ---
 
 

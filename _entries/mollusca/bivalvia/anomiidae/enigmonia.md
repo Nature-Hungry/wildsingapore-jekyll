@@ -7,6 +7,15 @@ attributes: [2, 33, 34, 73]
 family: Anomiidae
 genus: Enigmonia
 species: aenigmatica
+inat_id: 1065176
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Pteriomorphia
+order: Pectinida
+superfamily: Anomioidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

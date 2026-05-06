@@ -3,10 +3,18 @@ title: "Tripletail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [42]
+attributes: [7, 9, 25, 42, 47]
 family: Lobotidae
 genus: Lobotes
 species: surinamensis
+inat_id: 120694
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Acanthomorpha
+order: Acanthuriformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

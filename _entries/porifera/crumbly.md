@@ -1,10 +1,20 @@
 ---
-description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
-keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
-  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
+description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
+keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
 layout: default
 shape: encrusting
-title: Crumbly sponges (Amorphinopsis excavans) 
+title: Crumbly sponge
+family: Halichondriidae
+genus: Amorphinopsis
+species: excavans*
+attributes: []
+inat_id: 1636800
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Suberitida
 ---
 
 

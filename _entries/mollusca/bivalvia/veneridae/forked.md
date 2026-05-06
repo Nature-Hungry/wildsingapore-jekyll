@@ -1,8 +1,24 @@
 ---
-title: "Forked venus clam (Gafrarium divaricatum)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Forked venus clam
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, shell, clam, gafrarium, divaricatum, veneridae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Malleidae
+genus: Gafrarium
+species: divaricatum*
+attributes: []
+inat_id: 701583
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Bivalvia
+subclass: Autobranchia
+infraclass: Heteroconchia
+subterclass: Euheterodonta
+superorder: Imparidentia
+order: Venerida
+superfamily: Veneroidea
+subfamily: Gouldiinae
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -3,10 +3,23 @@ title: Pink sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, sand, dollar, peronella, lesueuri, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
-attributes: [86]
+attributes: [0, 1, 12, 86, 92]
 family: Laganidae
 genus: Peronella
 species: lesueuri
+inat_id: 349148
+stateofmatter: Life
+kingdom: Animalia
+phylum: Echinodermata
+subphylum: Echinozoa
+class: Echinoidea
+subclass: Euechinoidea
+infraclass: Irregularia
+subterclass: Neognathostomata
+superorder: Luminacea
+order: Echinolampadacea
+suborder: Scutelloida
+infraorder: Laganiformes
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

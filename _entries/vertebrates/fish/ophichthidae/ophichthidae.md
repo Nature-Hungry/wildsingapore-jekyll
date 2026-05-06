@@ -1,8 +1,21 @@
 ---
-title: "Worm eels and snake eels (Ophthichidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Worm-eels "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
 layout: default
+family: Ophichthidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 49249
+stateofmatter: Life
+kingdom: Animalia
+phylum: Chordata
+subphylum: Vertebrata
+class: Actinopterygii
+superorder: Elopomorpha
+order: Anguilliformes
+suborder: Congroidei
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

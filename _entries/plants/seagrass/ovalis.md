@@ -10,6 +10,13 @@ genus: Halophila
 species: ovalis
 summary: "Spoon shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. Common on many of our shores."
 coverimg: "https://live.staticflickr.com/65535/50611818666_1c78bf4646_n.jpg"
+inat_id: 50371
+stateofmatter: Life
+kingdom: Plantae
+phylum: Tracheophyta
+subphylum: Angiospermae
+class: Liliopsida
+order: Alismatales
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

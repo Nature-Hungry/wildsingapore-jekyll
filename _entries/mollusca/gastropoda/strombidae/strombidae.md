@@ -1,8 +1,20 @@
 ---
-title: "Conch snails (Strombidae) on Singapore shores"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: "Conch snails "
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+family: Strombidae
+genus: ""
+species: ""
+attributes: []
+inat_id: 62602
+stateofmatter: Life
+kingdom: Animalia
+phylum: Mollusca
+class: Gastropoda
+subclass: Caenogastropoda
+order: Littorinimorpha
+superfamily: Stromboidea
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

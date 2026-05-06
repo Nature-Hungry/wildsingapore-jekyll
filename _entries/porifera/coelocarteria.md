@@ -1,11 +1,20 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: daisy, sponge, coelocarteria, singaporensis, isodictyidae, coelosphoeridae,
-  porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
-  facts, fact sheet, info, photo
+keywords: "daisy, sponge, coelocarteria, singaporensis, isodictyidae, coelosphoeridae,"
 layout: default
 shape: branching
-title: Daisy sponges (Coelocarteria singaporensis) 
+title: Daisy sponge
+family: Isodictyidae
+genus: Coelocarteria
+species: singaporensis*
+attributes: []
+inat_id: 710245
+stateofmatter: Life
+kingdom: Animalia
+phylum: Porifera
+class: Demospongiae
+subclass: Heteroscleromorpha
+order: Poecilosclerida
 ---
 
 
