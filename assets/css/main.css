@@ -30,19 +30,19 @@
   --color-text:             #222222;
   --color-text-muted:       #666666;
   --color-border:           #DDDDCC;
-  --color-link:             #0066CC;
-  --color-link-visited:     #13adb3;
+  --color-link:             rgb(162, 65, 0);
+  --color-link-visited:     rgb(162, 65, 0);
   --color-link-hover:       #CC0033;
   --color-btn:              #EF8354;
   --color-content-bar-btn:  #63B995;
   --color-pig-btn:          #336699;
 
   /* Typography */
-  --font-display: 'Lexend', 'Segoe UI', Arial, sans-serif;
-  --font-body:    'Helvetica Neue', Helvetica, Arial, sans-serif;
+  --font-header: 'Arvo';
+  --font-body:    'Comfortaa';
 
   /* Layout */
-  --max-width: 1280px;
+  --max-width: 1440px;
   --gap:       2rem;
 }
 
@@ -50,9 +50,11 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
-  font-size: 14px;
+  font-size: 16px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  font-family: 'Comfortaa';
+
 }
 
 body {
@@ -69,6 +71,8 @@ body {
   display:        flex;
   flex-direction: column;
   min-height:     100vh;
+  max-width: var(--max-width);
+  margin:0 auto;
 }
 
 .page-content {
@@ -141,48 +145,26 @@ body {
 }
 
 /* ── Navigation bar ──────────────────────────────────────────────────────
- *
- * Expected markup from _includes/header.html:
- *
- *   <nav class="site-nav" aria-label="Main navigation">
- *     <ul>
- *       <li><a href="/animals/">all animals</a></li>
- *       <li><a href="/plants/">all plants</a></li>
- *       <li><a href="/concepts/">concepts</a></li>
- *       <li><a href="/glossary/">glossary</a></li>
- *       <li><a href="/search/">search</a></li>
- *     </ul>
- *   </nav>
  * ─────────────────────────────────────────────────────────────────────── */
-.site-nav {
-  background-color: var(--color-nav);
+nav{
+    display:flex;
+    justify-content: center;
+    padding:2rem 4rem;
+    gap:2rem;
+    align-items: center;
 }
-
-.site-nav ul {
-  list-style: none;
-  max-width:  var(--max-width);
-  margin:     0 auto;
-  padding:    0 1rem;
-  display:    flex;
-  flex-wrap:  wrap;
+.nav-left{
+  width:30%
 }
-
-.site-nav li { display: inline; }
-
-.site-nav a {
-  display:         inline-block;
-  padding:         0.35rem 0.75rem;
-  font-family:     var(--font-body);
-  font-size:       0.8rem;
-  color:           #FFFFFF;
-  text-decoration: none;
-  transition:      background-color 0.15s;
+.nav-logo{
+  width: 40%;
+  text-align: center;
 }
-
-.site-nav a:hover,
-.site-nav a:focus {
-  background-color: var(--color-nav-hover);
-  outline:          none;
+.nav-right{
+  width: 30%;
+    display:flex;
+    gap:2rem;
+    align-items: center;
 }
 
 /* ── Footer ──────────────────────────────────────────────────────────────
@@ -211,10 +193,7 @@ body {
   --sidebar-width: 20vw;
 }
 
-/* All page content sits to the right of the fixed sidebar */
-.site-wrapper {
-  margin-left: var(--sidebar-width);
-}
+
 
 /* ── Fixed left sidebar ──────────────────────────────────────────────────── */
 .site-sidebar {
@@ -352,8 +331,8 @@ body {
 }
 
 /* ── Headings (Helvetica Neue) ───────────────────────────────────────────── */
-h1, h2, h3, h4, h5, h6 {
-  font-family:   var(--font-body);
+h1, h2, h1 *{
+  font-family:   var(--font-header);
   line-height:   1.25;
   margin-top:    1.5rem;
   margin-bottom: 0.5rem;
@@ -362,25 +341,23 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Page-level title → brand red */
 h1 {
-  font-size:      2rem;
+  font-size:      3rem;
   font-weight:    700;
   color:          var(--color-primary);
-  border-bottom:  2px solid var(--color-primary);
-  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
 }
 
 /* Section heading → rose */
 h2 {
-  font-size:   1.45rem;
+  font-size:   2rem;
   font-weight: 700;
-  color:       var(--color-section-head);
+  margin-bottom: 0.5rem;
 }
 
 /* Sub-section → navy */
 h3 {
-  font-size:   1.1rem;
-  font-weight: 700;
-  color:       var(--color-nav);
+ font-family: 'Comfortaa';
+  margin-bottom: 0.5rem;
 }
 
 h4 { font-size: 1rem;    font-weight: 700; }
@@ -388,7 +365,11 @@ h5 { font-size: 0.9rem;  font-weight: 700; }
 h6 { font-size: 0.85rem; font-weight: 700; color: var(--color-text-muted); }
 
 /* ── Body text ───────────────────────────────────────────────────────────── */
-p { margin-bottom: 0.85rem; }
+p { 
+  font-family: 'Comfortaa';
+  margin-bottom: 0.5rem;
+  line-height: 1.5rem;
+}
 
 small,
 .text-small {
@@ -397,7 +378,11 @@ small,
 }
 
 /* ── Links ───────────────────────────────────────────────────────────────── */
-a                { color: var(--color-link); text-decoration: none; }
+a                { 
+  text-decoration: none;
+  color: var(--color-link);
+  font-weight: bold;
+}
 a:visited        { color: var(--color-link-visited); }
 a:hover, a:focus { color: var(--color-link-hover); text-decoration: underline; }
 
@@ -791,7 +776,7 @@ li { margin-bottom: 0.2rem; }
   width:            2rem;
   height:           2rem;
   border-radius:    50%;
-  background-color: transparent;
+  background-color: black;
   border:           1.5px solid rgba(255, 255, 255, 0.45);
   color:            #FFFFFF;
   font-size:        0.85rem;
@@ -804,7 +789,7 @@ li { margin-bottom: 0.2rem; }
  
 .social-btn:hover,
 .social-btn:focus {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: var(--color-accent-orange);
   border-color:     #FFFFFF;
   color:            #FFFFFF;
   text-decoration:  none;
