@@ -1,0 +1,59 @@
+{
+    "0":{
+        "name":"Mangrove",
+        "features":[]
+    },
+    "1":{
+        "name":"Mudflat",
+        "features":[]
+    },
+    "2":{
+        "name":"Coastal forest",
+        "features":[]
+    },
+    "3":{
+        "name":"Rocky shore",
+        "features":[]
+    },
+    "4":{
+        "name":"Sandy shore",
+        "features":[]
+    },
+    "5":{
+        "name":"Seagrass meadow",
+        "features":[]
+    },
+    "6":{
+        "name":"Coral rubble",
+        "features":[]
+    },
+    "7":{
+        "name":"Coral reef",
+        "features":[]
+    },
+
+    "8":{
+        "name":"Native-dominated forest",
+        "features":[]
+    },
+    "9":{
+        "name":"Exotic-dominated forest",
+        "features":[]
+    },
+    "10":{
+        "name":"Urban park",
+        "features":[]
+    },
+    "11":{
+        "name":"Built-up",
+        "features":[]
+    },
+    "12":{
+        "name":"Freshwater swamp forest",
+        "features":[]
+    },
+    "13":{
+        "name":"Waterbodies",
+        "features":[]
+    }
+}
