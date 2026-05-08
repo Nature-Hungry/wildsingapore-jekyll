@@ -1,0 +1,32 @@
+filters:
+    animals:
+        vertebrates:
+            - Mammals
+            - Birds
+            - Reptiles
+            - Amphibians
+        invertebrates:
+            Arthopods:
+                Crustaceans:
+                    - Crabs
+                    - Prawns/Shrimp
+                    - Lobsters
+                    - Others
+                Insects: []
+                Arachnids: []
+            Sponges: []
+            Cnidaria:
+                - Jellyfish
+                - Soft coral
+                - Hard coral
+                - Sea fans
+                - Anemones
+                - Others
+            Echinoderms: []
+            Worms: []
+            Others: []
+        
+
+    plants:
+    - trees
+    - shrubs

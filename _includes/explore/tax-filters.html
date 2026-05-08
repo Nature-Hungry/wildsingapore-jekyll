@@ -1,0 +1,20 @@
+<style>
+
+        .tax-filters{
+            width:fit-content;
+            padding: 0 1rem;
+        }
+
+        .tax-children{
+            margin-left:1rem;
+        }
+
+        .tax-title{
+            white-space: nowrap;
+        }
+
+</style>
+
+<div class="tax-filters">
+   {% include explore/tax-node.html node=site.data.rank_filters.filters %}
+</div>

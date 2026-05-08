@@ -1,0 +1,90 @@
+---
+title: "Wild Fact Sheets of marine life on Singapore shores"
+description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+keywords: "index, flora, fauna, animal, plant, guide, biology, ecology, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+layout: default
+---
+
+    <style>
+        .search-input{
+            font-size: 1rem;
+            padding:0.5rem;
+        }
+
+        .explore-head{
+            display:flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .filters{
+            margin-bottom: 1rem;
+            display:flex;
+            justify-content: left;
+            gap:2rem;
+        }
+
+        .filter-container{
+            display:flex;
+            align-items: center;
+            gap:0.5rem;
+        }
+        .filter-container p{
+            margin:0;
+        }
+
+        .view-btn{
+            padding:0.4rem;
+        }
+        .view-btn.active{
+            background-color: rgb(234, 234, 234);
+
+        }
+
+
+       
+    </style>
+
+        <div class="explore-head">
+            <div style="margin-bottom: 2rem;">
+                <h1>Explore</h1>
+            </div>
+            <div>
+                <h3>Don't know the name of what you saw?</h3>
+                <a href="" >Use the photo index</a>
+            </div>
+        </div>
+
+        <div style="display: flex;gap:2rem;">
+            {% include explore/tax-filters.html %}
+            <div style="
+                width: 100%;
+            ">
+            <p>
+                <input type="text" class="search-input" size="50" placeholder="Search by anything">
+            </p>
+                <div class="filters">
+                    <div class="filter-container">
+                        <p>Zone</p>
+                        <select name="" id="">
+                            <option value="">All</option>
+                            <option value="">Terrestrial</option>
+                            <option value="">Freshwater</option>
+                            <option value="">Intertidal</option>
+                            <option value="">Marine</option>
+                        </select>
+                    </div>
+                   
+                </div>
+                <div style="
+                    display: flex;
+                    gap:1rem;
+                    margin-bottom: 2rem;
+                ">
+                    <p class="view-btn">Map view</p>
+                    <p class="view-btn active">Grid view</p>
+                </div>
+
+              {% include explore/explore-grid.html %}
+            </div>
+        </div>
+    

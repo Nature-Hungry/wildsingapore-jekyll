@@ -1,0 +1,28 @@
+{% assign node = include.node %}
+
+{% if node.first and node.first[0]%}
+ 
+    {% for pair in node %}
+     
+        <details class="tax-node">
+          <summary class="tax-title">{{ pair[0] }} <input type="checkbox" /></summary>
+             <div class="tax-children">
+          {% assign child = pair[1] %}
+          {% include explore/tax-node.html node=child %}
+            </div>
+        </details>
+     
+    {% endfor %}
+  
+
+{% else %}
+  {% if node.first %}
+   
+      {% for item in node %}
+        <div class="tax-title">{{ item }} <input type="checkbox" /></div>
+      {% endfor %}
+  
+  {% else %}
+    {{ node }}
+  {% endif %}
+{% endif %}
