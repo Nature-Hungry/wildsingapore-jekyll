@@ -35,11 +35,11 @@
   --color-link-hover:       #CC0033;
   --color-btn:              #EF8354;
   --color-content-bar-btn:  #63B995;
-  --color-pig-btn:          #336699;
+  --color-pig-btn:          #336699; /* From the AI slop of content grids when they were used */
 
   /* Typography */
   --font-header: 'Arvo';
-  --font-body:    'Comfortaa';
+  --font-body:   'Comfortaa';
 
   /* Layout */
   --max-width: 1440px;
@@ -50,7 +50,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
-  font-size: 16px;
+  font-size: 0.9375rem;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   font-family: 'Comfortaa';
