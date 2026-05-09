@@ -1,28 +1,44 @@
 {% assign node = include.node %}
 
-{% if node.first and node.first[0]%}
- 
-    {% for pair in node %}
+
+{% if node[1].children %}
+  
+<details class="tax-node">
+  <summary class="tax-title">{{ node[0] }} 
+    {% if node[1].name %}
+      <input type="checkbox" value="{{node[1].name}}-{{node[1].rank}}"/>
+    {% elsif node[1].filters %}
+      {% assign checkboxvalue = "" %}
+      {% for item in node[1].filters %}
+        {% assign checkboxvalue = checkboxvalue | append: item.name | append: "-" | append: item.rank | append: "|" %}
+      {% endfor %}
+      <input type="checkbox" value="{{checkboxvalue}}"/>
+    {%endif%}
+  </summary>
+      <div class="tax-children">
      
-        <details class="tax-node">
-          <summary class="tax-title">{{ pair[0] }} <input type="checkbox" /></summary>
-             <div class="tax-children">
-          {% assign child = pair[1] %}
-          {% include explore/tax-node.html node=child %}
-            </div>
-        </details>
-     
-    {% endfor %}
+{% for c in node[1].children %}
+  {% assign child = c %}
+  {% include explore/tax-node.html node=child %}
+{% endfor %}
+    </div>
+</details>
+  
+{% else %}
+
+<div class="tax-title">{{ node[0] }} 
+{% if node[1].name %}
+      <input type="checkbox" value="{{node[1].name}}-{{node[1].rank}}"/>
+    {% elsif node[1].filters %}
+      {% assign checkboxvalue = "" %}
+      {% for item in node[1].filters %}
+        {% assign checkboxvalue = checkboxvalue | append: item.name | append: "-" | append: item.rank | append: "|" %}
+      {% endfor %}
+      <input type="checkbox" value="{{checkboxvalue}}"/>
+    {%endif%}
+
+</div>
+
+{%endif%}
   
 
-{% else %}
-  {% if node.first %}
-   
-      {% for item in node %}
-        <div class="tax-title">{{ item }} <input type="checkbox" /></div>
-      {% endfor %}
-  
-  {% else %}
-    {{ node }}
-  {% endif %}
-{% endif %}

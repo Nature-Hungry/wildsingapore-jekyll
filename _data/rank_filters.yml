@@ -1,32 +1,90 @@
+---
 filters:
     animals:
-        vertebrates:
-            - Mammals
-            - Birds
-            - Reptiles
-            - Amphibians
-        invertebrates:
-            Arthopods:
-                Crustaceans:
-                    - Crabs
-                    - Prawns/Shrimp
-                    - Lobsters
-                    - Others
-                Insects: []
-                Arachnids: []
-            Sponges: []
-            Cnidaria:
-                - Jellyfish
-                - Soft coral
-                - Hard coral
-                - Sea fans
-                - Anemones
-                - Others
-            Echinoderms: []
-            Worms: []
-            Others: []
-        
-
+        name: animalia
+        rank: kingdom
+        children:
+            vertebrata:
+                name: vertebrata
+                rank: subphylum
+                children:
+                    mammals:
+                        name: mammalia
+                        rank: class
+                    birds:
+                        name: aves
+                        rank: class
+                    reptiles:
+                        name: reptilia
+                        rank: class
+                    amphibians:
+                        name: amphibia
+                        rank: class
+            arthropods:
+                name: arthropoda
+                rank: phylum
+                children:
+                    crustaceans:
+                        name: crustacea
+                        rank: subphylum
+                        children:
+                            crabs:
+                                name: brachyura
+                                rank: infraorder
+                            prawns and shrimp:
+                                filters:
+                                - name: dendrobranchiata
+                                  rank: suborder
+                                - name: caridea
+                                  rank: infraorder
+                                - name: Stenopodidea
+                                rank: infraorder
+                            lobster-like:
+                                filters:
+                                - name: achelata
+                                  rank: infraorder
+                                - name: axiidea
+                                  rank: infraorder
+                                - name: gebiidea
+                                  rank: infraorder
+                            hermit crabs:
+                                name: anomura
+                                rank: infraorder
+                    insects:
+                        name: insecta
+                        rank: class
+                    arachnids:
+                        name: arachnida
+                        rank: class
+            cnidarians:
+                name: cnidaria
+                rank: phylum
+                children:
+                    anemones:
+                        name: actiniaria
+                        rank: order
+                    soft coral:
+                        name: octocorallia
+                        rank: class
+                    hard coral:
+                        name: scleractinia
+                        rank: order
+                    jellyfish:
+                        name: scyphozoa
+                        rank: class
+                    others:
+                        name: others
+            echinoderms:
+                name: echinodermata
+                rank: phylum
+            sponges:
+                name: porifera
+                rank: phylum
+            molluscs:
+                name: mollusca
+                rank: phylum
+            others:
+                name: others
     plants:
-    - trees
-    - shrubs
+        name: plantae
+        rank: kingdom
