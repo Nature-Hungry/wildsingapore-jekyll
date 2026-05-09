@@ -1,0 +1,49 @@
+---
+layout: none
+---
+
+[
+{% for post in site.entries %}
+{
+  "title": {{ post.title | jsonify }},
+  "url": {{ post.url | jsonify }},
+  "coverimg": {{ post.coverimg | jsonify }},
+  "keywords": {{ post.keywords | jsonify }},
+  "summary": {{ post.summary | jsonify }},
+  "kingdom": {{ post.kingdom | jsonify }},
+  "phylum": {{ post.phylum | jsonify }},
+  "subphylum": {{ post.subphylum | jsonify }},
+  "class": {{ post.class | jsonify }},
+  "order": {{ post.order | jsonify }},
+  "family": {{ post.family | jsonify }},
+  "species": {{ post.species | jsonify }},
+  "genus": {{ post.genus | jsonify }},
+  "inat_id": {{ post.inat_id | jsonify }},
+  "search_text": {{
+    post.title
+    | append: ' '
+    | append: post.keywords | join: ' '
+    | append: ' '
+    | append: post.summary
+    | append: ' '
+    | append: post.kingdom
+    | append: ' '
+    | append: post.phylum
+    | append: ' '
+    | append: post.subphylum
+    | append: ' '
+    | append: post.class
+    | append: ' '
+    | append: post.order
+    | append: ' '
+    | append: post.family
+    | append: ' '
+    | append: post.genus
+    | append: ' '
+    | append: post.species
+    | downcase
+    | jsonify
+  }}
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

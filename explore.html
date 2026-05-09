@@ -60,7 +60,7 @@ layout: default
                 width: 100%;
             ">
             <p>
-                <input type="text" class="search-input" size="50" placeholder="Search by anything">
+                <input type="text" id="search-input" class="search-input" size="50" placeholder="Search by anything">
             </p>
                 <div class="filters">
                     <div class="filter-container">
@@ -75,13 +75,20 @@ layout: default
                     </div>
                    
                 </div>
-                <div style="
-                    display: flex;
-                    gap:1rem;
-                    margin-bottom: 2rem;
-                ">
-                    <p class="view-btn">Map view</p>
-                    <p class="view-btn active">Grid view</p>
+                <div class="flex justify-between align-center">
+                    <div style="
+                        display: flex;
+                        gap:1rem;
+                    ">
+                        <p class="view-btn">Map view</p>
+                        <p class="view-btn active">Grid view</p>
+                    </div>
+
+                    <div id="pagination">
+                        <button id="prev">Prev</button>
+                        <span id="page-info"></span>
+                        <button id="next">Next</button>
+                    </div>
                 </div>
 
               {% include explore/explore-grid.html %}
