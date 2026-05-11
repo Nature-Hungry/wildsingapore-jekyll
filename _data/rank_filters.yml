@@ -38,7 +38,7 @@ filters:
                                 - name: caridea
                                   rank: infraorder
                                 - name: Stenopodidea
-                                rank: infraorder
+                                  rank: infraorder
                             lobster-like:
                                 filters:
                                 - name: achelata

@@ -15,7 +15,7 @@
 
 </style>
 
-<div class="tax-filters">
+<div class="tax-filters" id="tax-filters">
 {% for n in site.data.rank_filters.filters %}
    {% include explore/tax-node.html node=n %}
 {%endfor%}

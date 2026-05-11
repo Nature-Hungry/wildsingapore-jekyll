@@ -68,6 +68,15 @@ fetch('/assets//search.json')
         { name: "family", weight: 2 },
         { name: "keywords", weight: 2 },
         { name: "summary", weight: 1 },
+        { name: "subfamily", weight: 1 },
+        { name: "infraorder", weight: 1 },
+        { name: "suborder", weight: 1 },
+        { name: "order", weight: 1 },
+        { name: "class", weight: 1 },
+        { name: "subphylum", weight: 1 },
+        { name: "phylum", weight: 1 },
+        { name: "kingdom", weight: 1 },
+
         { name: "search_text", weight: 0.5 } // fallback for partial strings
       ]
     })
@@ -84,6 +93,7 @@ const resultsDiv = document.getElementById('entries-grid')
 const pageInfo = document.getElementById('page-info')
 const prevBtn = document.getElementById('prev')
 const nextBtn = document.getElementById('next')
+let taxaFilters = new Set()
 let query = ""
 
 input.value = initialQuery
@@ -102,20 +112,46 @@ input.addEventListener('input', () => {
 
     return
   }
-  // Step 1: true substring search for partial matches
-  let partialResults = data.filter(item =>
-    item.search_text.includes(query)
-  )
 
-  // Step 2: Fuse.js ranking
-  const fuseResults = fuse.search(query).map(r => r.item)
 
-  // Merge results, remove duplicates
-  const combined = [...new Set([...fuseResults, ...partialResults])]
-    results = combined
+  filterResults()
   renderResults()
 })
 
+
+function filterResults(){
+  let taxafilter = item=>true
+  
+  if(taxaFilters.size > 0){
+    taxafilter = item => {
+      return Array.from(taxaFilters).some(t => {
+        const [name, rank] = t.split('-')
+
+        if(!item[rank]){
+          return false;
+        }
+        return item[rank].toLowerCase() === name.toLowerCase()
+      })
+    }
+
+  }
+
+
+  // Step 1: true substring search for partial matches
+  let partialResults = data.filter(item =>
+    item.search_text.includes(query)
+  ).filter(taxafilter)
+
+  // Step 2: Fuse.js ranking
+  let fuseResults = fuse.search(query).map(r => r.item) 
+  fuseResults = fuseResults.filter(taxafilter)
+
+  // Merge results, remove duplicates
+  const combined = [...new Set([...fuseResults, ...partialResults])]
+
+
+  results = combined
+}
 
 prevBtn.addEventListener('click', () => {
   if (currentPage > 1) {
@@ -183,5 +219,94 @@ function updateURL() {
   history.replaceState({}, '', newURL)
 }
 
+
+
+function updateTaxaFilters(value, checked){
+  let v = value.split('|')
+    if(checked){
+      v.forEach(e=>{
+        if(e){
+          taxaFilters.add(e)
+        }
+      })
+    }else{
+       v.forEach(e=>{
+        if(e){
+          taxaFilters.delete(e)
+        }
+      })
+    }
+}
+
+
+// Taxa filter checkboxes
+
+const checkboxes = document.querySelectorAll('.taxa-checkbox-input')
+checkboxes.forEach((checkbox) => {
+  checkbox.addEventListener('change', (event) => {
+    const value = event.target.value;
+    const checked = event.target.checked;
+
+    updateTaxaFilters(value, checked)
+
+  });
+});
+
+
+
+
+
+const tree = document.getElementById('tax-filters')
+
+tree.addEventListener('change', e => {
+  const checkbox = e.target
+
+  if (!checkbox.classList.contains('taxa-checkbox-input')) {
+    return
+  }
+
+  const checked = checkbox.checked
+
+  // FIND CURRENT NODE
+  const node = checkbox.closest('.tax-node')
+
+  // -------------------------
+  // CHECK/UNCHECK CHILDREN
+  // -------------------------
+  if (node) {
+    const childCheckboxes = node.querySelectorAll(
+      '.tax-children .taxa-checkbox-input'
+    )
+
+    for (const child of childCheckboxes) {
+      child.checked = checked
+      updateTaxaFilters(child.value, child.checked)
+    }
+  }
+
+  // -------------------------
+  // UPDATE PARENTS
+  // -------------------------
+  if (!checked) {
+    let parentNode = node?.parentElement?.closest('.tax-node')
+
+    while (parentNode) {
+      const parentCheckbox =
+        parentNode.querySelector(
+          ':scope > summary .taxa-checkbox-input'
+        )
+
+      if (parentCheckbox) {
+        parentCheckbox.checked = false
+      }
+
+      parentNode =
+        parentNode.parentElement?.closest('.tax-node')
+    }
+  }
+
+  filterResults()
+  renderResults()
+})
 
 </script>
