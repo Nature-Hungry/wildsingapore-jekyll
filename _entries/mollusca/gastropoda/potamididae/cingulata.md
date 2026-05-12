@@ -14,6 +14,7 @@ phylum: Mollusca
 class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

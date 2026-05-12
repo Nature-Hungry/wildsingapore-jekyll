@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Owstoniinae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

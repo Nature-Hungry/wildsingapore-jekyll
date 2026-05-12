@@ -7,6 +7,7 @@ family: Naticidae
 genus: Polinices
 species: mammatus
 attributes: []
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

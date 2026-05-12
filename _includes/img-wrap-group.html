@@ -1,0 +1,45 @@
+<style>
+    .img-wrap-group{
+        margin:4rem 0;
+        display:flex;
+        gap:1rem;
+        flex-wrap: wrap;
+    }
+    .img-container img{
+        width:auto;
+        height:auto;
+        max-width: 400px;
+
+    }
+    .img-container {
+        width: min-content;
+        max-width: 400px;
+        margin-bottom:0.5rem;
+    }
+    .img-container .caption{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        font-size:0.8rem;
+    }
+    .img-container .caption p{
+        margin-bottom:0;
+    }
+    .img-container img{
+        height:auto;
+    }
+</style>
+
+<div class="img-wrap-group">
+    {% for item in include.items %}
+    <div class="img-container">
+        <img src="{{item.url}}" alt="">
+        <div class="caption">
+        {{item.caption}}
+        </div>
+    </div>
+    {% endfor %}
+
+</div>

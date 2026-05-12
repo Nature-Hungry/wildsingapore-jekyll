@@ -17,6 +17,7 @@ infraclass: Heteroconchia
 subterclass: Euheterodonta
 superorder: Anomalodesmata
 superfamily: Clavagelloidea
+updated: Jan 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

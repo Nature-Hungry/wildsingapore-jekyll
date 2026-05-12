@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Mitroidea
 subfamily: Cylindromitrinae
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

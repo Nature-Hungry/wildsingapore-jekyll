@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -19,6 +19,7 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 subfamily: Gouldiinae
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

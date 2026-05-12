@@ -18,6 +18,7 @@ infraclass: Irregularia
 subterclass: Atelostomata
 order: Spatangoida
 suborder: Brissidina
+updated: Apr 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

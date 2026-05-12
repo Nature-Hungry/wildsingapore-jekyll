@@ -20,6 +20,7 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 subfamily: Pteraeolidiinae
+updated: Jun 2023
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

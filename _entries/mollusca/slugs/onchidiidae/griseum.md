@@ -7,6 +7,7 @@ family: Onchidiidae
 genus: Onchidium
 species: griseum
 attributes: []
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

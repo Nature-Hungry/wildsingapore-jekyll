@@ -15,6 +15,7 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

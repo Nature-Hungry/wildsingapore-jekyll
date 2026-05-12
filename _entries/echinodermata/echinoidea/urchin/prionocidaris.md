@@ -17,6 +17,7 @@ subclass: Cidaroidea
 order: Cidaroida
 superfamily: Cidaroidea
 subfamily: Stylocidarinae
+updated: Apr 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

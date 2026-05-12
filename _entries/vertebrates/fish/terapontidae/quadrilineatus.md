@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

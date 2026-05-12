@@ -22,6 +22,7 @@ infraorder: Brachyura
 zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

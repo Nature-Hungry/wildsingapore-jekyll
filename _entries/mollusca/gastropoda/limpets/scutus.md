@@ -16,6 +16,7 @@ subclass: Vetigastropoda
 order: Lepetellida
 superfamily: Fissurelloidea
 subfamily: Emarginulinae
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

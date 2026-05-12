@@ -17,6 +17,7 @@ order: Fabales
 subfamily: Faboideae
 tribe: Phaseoleae
 subtribe: Cajaninae
+updated: Aug 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

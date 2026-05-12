@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
+updated: Jul 2023
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

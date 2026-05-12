@@ -17,6 +17,7 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

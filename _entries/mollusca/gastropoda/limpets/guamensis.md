@@ -18,6 +18,7 @@ subterclass: Tectipleura
 superorder: Siphonarimorpha
 order: Siphonariida
 superfamily: Siphonarioidea
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

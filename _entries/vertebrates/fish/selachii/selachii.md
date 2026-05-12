@@ -17,6 +17,7 @@ subclass: Elasmobranchii
 infraclass: Selachii
 superorder: Galeomorphi
 order: Orectolobiformes
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

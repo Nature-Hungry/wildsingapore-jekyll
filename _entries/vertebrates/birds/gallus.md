@@ -14,6 +14,7 @@ phylum: Chordata
 subphylum: Vertebrata
 class: Aves
 order: Galliformes
+updated: Oct 2016
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

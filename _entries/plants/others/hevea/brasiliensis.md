@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Malpighiales
 subfamily: Crotonoideae
 tribe: Heveae
+updated: Oct 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

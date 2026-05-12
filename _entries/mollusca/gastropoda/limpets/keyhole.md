@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Vetigastropoda
 order: Lepetellida
 superfamily: Fissurelloidea
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

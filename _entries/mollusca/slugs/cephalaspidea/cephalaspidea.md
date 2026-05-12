@@ -17,6 +17,7 @@ infraclass: Euthyneura
 subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

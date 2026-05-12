@@ -19,6 +19,7 @@ superorder: Nudipleura
 order: Nudibranchia
 suborder: Aeolidina
 superfamily: Fionoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

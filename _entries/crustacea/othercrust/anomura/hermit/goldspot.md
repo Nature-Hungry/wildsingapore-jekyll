@@ -20,6 +20,7 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
+updated: Dec 2019
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

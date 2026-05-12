@@ -17,6 +17,7 @@ infraclass: Euthyneura
 subterclass: Tectipleura
 superorder: Pylopulmonata
 superfamily: Pyramidelloidea
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

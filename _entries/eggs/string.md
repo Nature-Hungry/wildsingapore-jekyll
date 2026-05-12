@@ -1,8 +1,9 @@
 ---
-title: "Egg strings on Singapore shores"
+title: Egg strings on Singapore shores
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+updated: Apr 2020
 ---
 eggs [text
 index](eggindex) | [photo index](eggfi)

@@ -2,7 +2,7 @@
 title: "Beccari's seagrass "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Beccari's seagrass
 family: Hydrocharitaceae
@@ -17,6 +17,7 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
+updated: Mar 14
 ---
 
 

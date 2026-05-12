@@ -14,6 +14,7 @@ phylum: Mollusca
 class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Epitonioidea
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

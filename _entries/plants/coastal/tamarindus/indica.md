@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Fabales
 subfamily: Detarioideae
 tribe: Amherstieae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

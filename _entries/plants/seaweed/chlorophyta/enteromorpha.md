@@ -14,6 +14,7 @@ kingdom: Plantae
 phylum: Chlorophyta
 class: Ulvophyceae
 order: Ulvales
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

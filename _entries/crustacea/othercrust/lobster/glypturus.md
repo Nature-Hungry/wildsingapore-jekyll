@@ -19,6 +19,7 @@ superorder: Eucarida
 order: Decapoda
 suborder: Pleocyemata
 infraorder: Axiidea
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Pruninae
+updated: Dec 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

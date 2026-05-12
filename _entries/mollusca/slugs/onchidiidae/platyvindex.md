@@ -7,6 +7,7 @@ family: Onchidiidae
 genus: Platyvindex
 species: ""
 attributes: []
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

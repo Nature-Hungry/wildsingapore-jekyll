@@ -14,6 +14,7 @@ phylum: Mollusca
 class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

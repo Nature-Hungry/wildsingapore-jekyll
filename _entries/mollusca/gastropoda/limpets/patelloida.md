@@ -17,6 +17,7 @@ order: Nacellida
 superfamily: Lottioidea
 subfamily: Lottiinae
 tribe: Patelloidini
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

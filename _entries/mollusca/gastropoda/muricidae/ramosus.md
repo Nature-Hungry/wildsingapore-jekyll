@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
+updated: Feb 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

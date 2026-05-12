@@ -2,7 +2,7 @@
 title: Spoon seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spoon, halophila, ovalis, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Spoon seagrass
 family: Hydrocharitaceae
@@ -17,50 +17,53 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
+updated: Mar 14
+display_attributes: [
+  "Intertidal","In the mud", "Vulnerable"
+]
+
+trivia_title: "If you only learn 3 things about them..."
+trivia_items: [
+    "Spoon-shaped seagrasses come in a range of sizes. Some scientists treat them as a complex of one species.",
+    "They don't flower frequently, and the flowers are tiny.",
+    "Are believed to be among the favourite food of dugongs."
+]
+
+page_images: 
+- url: "https://live.staticflickr.com/65535/50727458948_4897666367.jpg"
+  caption: |
+      <p>Meadow of Spoon seagrass.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060115sntg3922m3.jpg"
+  caption: |
+    <p>Sentosa, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3a.jpg"
+  caption: |
+    <p>Changi, Apr 05*</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050511cftg6231m3b.jpg"
+  caption: |
+    <p>Tiny algae grow on the leaves which are eaten by tiny animals like snails.</p>
+    <p>Changi, May 05*</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/121114labd0972m6l.jpg"
+  caption: |
+    <p>Fruits</p>
+    <p>Labrador, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg"
+  caption: |
+    <p>Spindly female flower of the spoon seagrass?</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/090110cjlks01m3.jpg"
+  caption: |
+    <p>Male flower?</p>
+    <p>Chek Jawa, Jan 09</p>  
+    <p> Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chekl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060624skdg6187m3a.jpg"
+  caption: |
+    <p>Burnt leaves.</p>
+    <p>Pulau Sekudu, Jun 06</p>
 ---
-[![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
-[wildsingapore
-homepage](http://www.wildsingapore.com/)  
-  
-[wildfactsheets homepage](../../indexl)  
-[wild shores of singapore
-blog](http://wildshores.blogspot.com/)
 
-[all animals](../../animals)
-| [all plants](../../plants)
-| [concepts](../../concepts/indexl)
-| [glossary](../../glossary/indexl)
-| [search](../../search)
-
-seagrasses
-[text index](seagrassindex) | [photo
-index](seagrassfi)
-
-[Seagrasses](seagrass)
-> Family Hydrocharitaceae
-**Spoon
-seagrass  
-*Halophila
-ovalis* 'complex'  
-Family Hydrocharitaceae  
-*updated
-Mar 14***
-
----
-
-if you
-learn only 3 things about them ...  
-![](../../photos/bullet2.gif)
-Spoon-shaped seagrasses come in a range of sizes. Some
-scientists treat them as a complex of one species.   
-![](../../photos/bullet.gif)
-They don't flower frequently, and the flowers are tiny.  
-![](../../photos/bullet.gif)They
-are believed to be among the favourite food of dugongs.
-  
-**Where
-seen?**
+## Where seen?
 This small oval seagrass is commonly seen on many of our shores in
 the North and South. Sometimes, they may form lush meadows, at other
 places, smaller patches. The [preliminary
@@ -74,9 +77,8 @@ has one of the widest tolerance. It is found from shallow subtidal
 areas to the deepest waters where seagrasses can be found, 30m and
 deeper. It can tolerate areas with freshwater runoff and thus lower
 salinity, as well as hypersaline waters.   
-  
-**Features:**The seagrass
-has oval, spoon-shaped leaves and is sometimes also called 'paddleweed'
+## Features 
+The seagrass has oval, spoon-shaped leaves and is sometimes also called 'paddleweed'
 or fan seagrass. It comes in a wide range of sizes (0.5-1.5cm wide
 and 0.5-2.5cm long) and shapes from oval, to nearly oblong or spoon-shaped.
 The leaf edge is smooth with no serrations, there is a vein just within
@@ -106,7 +108,8 @@ these seagrasses are actually distinct species and some scientists
 treat them as one species called *Halophila ovalis* 'complex'.
 *H. ovalis* and *H. minor* are recorded for Singapore.  
   
-**Role in the habitat:** This seagrass
+## Role in the habitat
+This seagrass
 is among the favourite food of dugongs so it is also sometimes called
 Dugong grass. Studies suggest that *Halophila ovalis* can recover
 rapidly from grazing by dugong. The seagrass leaf provides a surface
@@ -114,81 +117,14 @@ for small algae to grow on. Tiny snails graze on this algae. These
 in turn are eaten by larger creatures. In this way, seagrasses contribute
 to the rich biodiversity on the shores.  
   
-**Status and threats:** It is listed
-as 'Vulnerable' on the Red List of threatened plants of Singapore.
+## Status and threats
+It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-*![](ovalis/090627cjd5688m6.jpg)*Meadow
-of Spoon seagrass. *Chek Jawa, Jun 09**![](ovalis/060115sntg3922m3.jpg)  
-Sentosa, Jan 06  
-  
-![](ovalis/050428cftg5289m3a.jpg)  
-Changi, Apr 05*
 
-*![](ovalis/050511cftg6231m3b.jpg)*Tiny algae grow on the leaves which are eaten by tiny animals
-like snails. *Changi, May 05*
 
-*![](ovalis/121114labd0972m6l.jpg)*Fruits. *Labrador, Nov 12*
+{% include img-wrap-group.html items=page.page_images %}
 
----
 
-*![](ovalis/050428cftg5289m3.jpg)*Spindly
-female flower of the spoon seagrass? *Changi, Apr 05*
-
-*![](ovalis/090110cjlks01m3.jpg)*Male
-flower?  
-*Chek Jawa, Jan 09*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/01/first-2009-team-seagrass-trip-at-chekl).
-
-*![](ovalis/060624skdg6187m3a.jpg)*Burnt
-leaves.  *Pulau Sekudu, Jun 06*
-
----
-
-*![](ovalis/110916cjd1167m6l.jpg)  
-Chek Jawa, Sep 11*
-
-*![](ovalis/121114labd0950m6l.jpg)*Fruit. *Labrador, Nov 12*
-
-*![](ovalis/121114labd0997m3.jpg)*Seeds. *![](ovalis/121114labd0997m3a.jpg)  
-Labrador, Nov 12*
-
----
-
-**Spoon
-seagrass on Singapore shores**
-
----
-
-Photos of [Spoon seagrass](https://www.flickr.com/search/?q=Halophila+ovalis&w=54527470%40N00&s=rec) for free
-download from [wildsingapore
-flickr](http://www.flickr.com/photos/wildsingapore/)
-   
-
----
-
-Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.com/photos/wildsingapore/tags/halophila%252C%2520ovalis/map?&fLat=1.2959&fLon=103.8764&zl=11&order_by=recent)
-
----
-
-*![](ovalis/091204pawd5334m3.jpg)  
-Pulau Pawai, Dec 09*
-
-*![](thalassia/091231biod6905m3.jpg)  
-Pulau Biola, Dec 09*
-
-*![](ovalis/100811slud0131m3.jpg)  
-Pulau Salu, Aug 10*
-
----
-
-*![](ovalis/100530tbkd4249m3b.jpg)  
-Pulau Berkas, May 10*
-
-*![](ovalis/100810sngd9958m3.jpg)  
-Pulau Senang, Aug 10*
-
----
 
 **Links**  
 
@@ -239,14 +175,5 @@ Pulau Senang, Aug 10*
   S.C. Chin and H. T. W. Tan.1998, *The
   Concise Flora of Singapore II: Monoctyledons*
   Singapore University Press. 215 pp.
-
-[www.**flickr**.com](http://www.flickr.com)  
-
-FREE photos of  
-[seagrasses](http://www.flickr.com/photos/54527470@N00/sets/72157600000714159).  
-Make your own badge [here](http://www.flickr.com/badge.gne).
-
-**You CAN make a difference for Singapore's
-seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
 
 

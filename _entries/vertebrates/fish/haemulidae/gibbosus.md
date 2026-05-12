@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

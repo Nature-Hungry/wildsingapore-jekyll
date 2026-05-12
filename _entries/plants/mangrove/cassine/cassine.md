@@ -7,6 +7,7 @@ attributes: [16, 18, 21, 36, 68, 80]
 family: Celastraceae
 genus: Cassine
 species: viburnifolia
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

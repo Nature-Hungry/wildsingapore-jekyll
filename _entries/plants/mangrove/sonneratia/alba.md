@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 inat_id: 196661
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

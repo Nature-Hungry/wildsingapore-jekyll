@@ -7,6 +7,7 @@ family: Muricidae
 genus: Semiricinula
 species: fusca
 attributes: []
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

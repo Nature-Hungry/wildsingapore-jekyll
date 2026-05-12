@@ -17,6 +17,7 @@ order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Amoriinae
 tribe: Melonini
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Gentianales
 subfamily: Rubioideae
 tribe: Palicoureeae
+updated: Dec 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

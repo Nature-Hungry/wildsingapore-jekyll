@@ -8,6 +8,7 @@ family: Boodleaceae
 genus: Cladophoropsis
 species: vaucheriaeformis
 attributes: [44, 97]
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

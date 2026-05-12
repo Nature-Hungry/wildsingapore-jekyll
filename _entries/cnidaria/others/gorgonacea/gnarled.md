@@ -7,6 +7,7 @@ family: Plexauridae
 genus: Echinomuricea
 species: pulchra*
 attributes: []
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

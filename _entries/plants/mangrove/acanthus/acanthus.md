@@ -17,6 +17,7 @@ subfamily: Acanthoideae
 tribe: Acantheae
 subtribe: Acanthinae
 inat_id: 70046
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

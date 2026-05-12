@@ -18,6 +18,7 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 subfamily: Bertheliniinae
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

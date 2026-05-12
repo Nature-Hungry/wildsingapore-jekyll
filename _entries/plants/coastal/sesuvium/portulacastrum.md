@@ -16,6 +16,7 @@ order: Caryophyllales
 subfamily: Sesuvioideae
 tribe: Sesuvieae
 inat_id: 130743
+updated: Jan 13
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

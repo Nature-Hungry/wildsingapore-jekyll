@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Ceriantharia
 order: Spirularia
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

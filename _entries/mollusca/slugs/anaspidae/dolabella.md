@@ -17,6 +17,7 @@ infraclass: Euthyneura
 subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
+updated: Sep 2023
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

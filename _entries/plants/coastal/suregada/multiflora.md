@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Malpighiales
 subfamily: Crotonoideae
 tribe: Gelonieae
+updated: Dec 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

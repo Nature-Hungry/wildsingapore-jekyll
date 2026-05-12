@@ -7,6 +7,7 @@ family: Chromodorididae
 genus: Goniobranchus
 species: tumulifera
 attributes: []
+updated: May 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

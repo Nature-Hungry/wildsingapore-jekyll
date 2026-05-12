@@ -16,6 +16,7 @@ order: Polypodiales
 suborder: Polypodiineae
 subfamily: Platycerioideae
 inat_id: 345927
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

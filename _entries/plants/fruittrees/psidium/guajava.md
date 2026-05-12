@@ -17,6 +17,7 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Myrteae
 subtribe: Pimentinae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

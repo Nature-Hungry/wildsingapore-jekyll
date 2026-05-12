@@ -7,6 +7,7 @@ family: Litiopidae
 genus: Alaba
 species: virgata*
 attributes: []
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

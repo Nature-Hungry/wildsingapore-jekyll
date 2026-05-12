@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
 subfamily: Histiophryninae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

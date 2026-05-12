@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
+updated: Oct 2016
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

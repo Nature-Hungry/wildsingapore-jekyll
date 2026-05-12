@@ -16,6 +16,7 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

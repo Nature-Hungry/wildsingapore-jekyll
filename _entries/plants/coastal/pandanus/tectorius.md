@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Pandanales
 inat_id: 70026
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

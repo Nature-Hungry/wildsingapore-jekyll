@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Laurales
 inat_id: 160172
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

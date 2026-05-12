@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Gentianales
 subfamily: Ixoroideae
 tribe: Ixoreae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

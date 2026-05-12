@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Avicennioideae
 inat_id: 189583
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Dioscoreales
 inat_id: 140999
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

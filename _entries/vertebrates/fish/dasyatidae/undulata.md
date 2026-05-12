@@ -17,6 +17,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
+updated: Nov 13
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

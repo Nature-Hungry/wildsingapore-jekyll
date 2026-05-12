@@ -21,6 +21,7 @@ suborder: Yinpterochiroptera
 superfamily: Pteropodoidea
 subfamily: Cynopterinae
 tribe: Cynopterini
+updated: Oct 2016
 ---
 
 

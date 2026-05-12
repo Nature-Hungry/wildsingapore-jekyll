@@ -15,6 +15,7 @@ class: Polypodiopsida
 subclass: Polypodiidae
 order: Polypodiales
 suborder: Pteridineae
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

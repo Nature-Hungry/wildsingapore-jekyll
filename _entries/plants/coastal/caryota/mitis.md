@@ -16,6 +16,7 @@ order: Arecales
 subfamily: Coryphoideae
 tribe: Caryoteae
 inat_id: 160169
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

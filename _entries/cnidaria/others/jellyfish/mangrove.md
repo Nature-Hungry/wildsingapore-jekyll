@@ -15,6 +15,7 @@ class: Scyphozoa
 subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
+updated: Sep 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

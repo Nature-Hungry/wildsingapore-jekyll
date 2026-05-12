@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Gentianales
 tribe: Potalieae
 subtribe: Potaliinae
+updated: Nov 10
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

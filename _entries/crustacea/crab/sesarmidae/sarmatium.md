@@ -22,6 +22,7 @@ infraorder: Brachyura
 zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

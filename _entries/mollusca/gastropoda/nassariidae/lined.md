@@ -7,6 +7,7 @@ family: Nassariidae
 genus: Nassarius
 species: teretiusculus*
 attributes: []
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -15,6 +15,7 @@ phylum: Ochrophyta
 class: Phaeophyceae
 subclass: Fucophycidae
 order: Ectocarpales
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

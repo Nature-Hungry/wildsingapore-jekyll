@@ -23,6 +23,7 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 subfamily: Parthenopinae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

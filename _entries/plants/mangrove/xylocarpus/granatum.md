@@ -16,6 +16,7 @@ order: Sapindales
 subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 196657
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Cyprinodontiformes
 suborder: Aplocheiloidei
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -20,6 +20,7 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
+updated: Dec 2019
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 

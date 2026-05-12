@@ -19,6 +19,7 @@ superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

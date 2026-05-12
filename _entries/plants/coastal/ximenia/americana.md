@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Santalales
 inat_id: 83832
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

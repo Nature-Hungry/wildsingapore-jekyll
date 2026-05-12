@@ -16,6 +16,7 @@ subclass: Autobranchia
 infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

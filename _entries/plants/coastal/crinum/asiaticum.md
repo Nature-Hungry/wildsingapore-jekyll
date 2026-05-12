@@ -17,6 +17,7 @@ subfamily: Amaryllidoideae
 tribe: Amaryllideae
 subtribe: Crininae
 inat_id: 161124
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

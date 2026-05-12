@@ -18,6 +18,7 @@ order: Pectinida
 superfamily: Pectinoidea
 subfamily: Pectininae
 tribe: Aequipectinini
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

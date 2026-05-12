@@ -19,6 +19,7 @@ superorder: Nudipleura
 order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
+updated: Mar 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

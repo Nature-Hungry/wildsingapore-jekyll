@@ -16,6 +16,7 @@ order: Malpighiales
 subfamily: Euphorbioideae
 tribe: Hippomaneae
 inat_id: 192360
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

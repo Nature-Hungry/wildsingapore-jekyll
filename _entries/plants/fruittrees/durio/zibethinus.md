@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Malvales
 subfamily: Helicteroideae
 tribe: Durioneae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

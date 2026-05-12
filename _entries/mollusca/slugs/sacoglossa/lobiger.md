@@ -17,6 +17,7 @@ infraclass: Euthyneura
 subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Ericales
 subfamily: Myrsinoideae
 section: Nummularia
+updated: Sep 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

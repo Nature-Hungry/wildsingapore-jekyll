@@ -24,6 +24,7 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

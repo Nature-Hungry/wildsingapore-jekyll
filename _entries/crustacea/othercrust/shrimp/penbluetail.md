@@ -19,6 +19,7 @@ superorder: Eucarida
 order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
+updated: Feb 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

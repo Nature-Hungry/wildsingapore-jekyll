@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Ericales
 subfamily: Myrsinoideae
 inat_id: 158587
+updated: Nov 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

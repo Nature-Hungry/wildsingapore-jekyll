@@ -24,6 +24,7 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
+updated: Feb 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

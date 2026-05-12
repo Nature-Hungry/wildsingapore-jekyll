@@ -18,6 +18,7 @@ order: Orthoptera
 suborder: Ensifera
 infraorder: Gryllidea
 superfamily: Grylloidea
+updated: Nov 2019
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

@@ -7,6 +7,7 @@ family: Eulimidae
 genus: Family
 species: Eulimidae
 attributes: []
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

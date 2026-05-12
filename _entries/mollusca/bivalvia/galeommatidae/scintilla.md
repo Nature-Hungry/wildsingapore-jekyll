@@ -18,6 +18,7 @@ subterclass: Euheterodonta
 superorder: Imparidentia
 order: Galeommatida
 superfamily: Galeommatoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

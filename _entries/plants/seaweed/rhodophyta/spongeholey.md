@@ -16,6 +16,7 @@ subphylum: Eurhodophytina
 class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Rhodymeniales
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

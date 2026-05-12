@@ -17,6 +17,7 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Bistolidini
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -19,6 +19,7 @@ superorder: Siphonarimorpha
 order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria atra
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

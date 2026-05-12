@@ -17,6 +17,7 @@ order: Squamata
 suborder: Sauria
 infraorder: Anguimorpha
 subgenus: Soterosaurus
+updated: Apr 2018
 ---
 
 

@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Malvales
 subfamily: Sterculioideae
 inat_id: 193310
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

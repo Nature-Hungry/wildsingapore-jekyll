@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
+updated: Feb 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

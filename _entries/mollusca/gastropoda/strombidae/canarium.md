@@ -7,6 +7,7 @@ attributes: [23, 33, 64, 71, 100, 111, 123]
 family: Strombidae
 genus: Strombus
 species: turturella
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

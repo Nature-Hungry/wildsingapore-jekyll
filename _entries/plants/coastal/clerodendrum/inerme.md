@@ -15,6 +15,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Lamiales
 subfamily: Ajugoideae
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

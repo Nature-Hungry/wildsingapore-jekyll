@@ -16,6 +16,7 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 subfamily: Monodontinae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

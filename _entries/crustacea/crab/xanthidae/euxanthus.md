@@ -23,6 +23,7 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Euxanthinae
+updated: Sep 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

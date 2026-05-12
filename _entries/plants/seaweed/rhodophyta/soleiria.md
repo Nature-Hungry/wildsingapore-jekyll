@@ -16,6 +16,7 @@ subphylum: Eurhodophytina
 class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
+updated: Sep 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -16,6 +16,7 @@ class: Chondrichthyes
 subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
+updated: Dec 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

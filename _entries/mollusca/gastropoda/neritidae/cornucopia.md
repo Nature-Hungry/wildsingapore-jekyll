@@ -16,6 +16,7 @@ subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

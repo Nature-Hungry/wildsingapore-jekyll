@@ -16,6 +16,7 @@ subclass: Autobranchia
 infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Pectinoidea
+updated: May 13
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

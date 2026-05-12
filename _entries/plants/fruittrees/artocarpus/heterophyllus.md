@@ -15,6 +15,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Rosales
 tribe: Artocarpeae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

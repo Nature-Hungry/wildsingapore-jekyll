@@ -19,6 +19,7 @@ superorder: Nudipleura
 order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

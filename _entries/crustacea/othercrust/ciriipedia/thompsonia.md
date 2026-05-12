@@ -20,6 +20,7 @@ infraorder: Cucujiformia
 superfamily: Cerambycoidea
 subfamily: Cerambycinae
 tribe: Callichromatini
+updated: Mar 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

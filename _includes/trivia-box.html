@@ -1,0 +1,10 @@
+<div class="trivia-box">
+    <h4 class="trivia-box-title">{{include.title}}</h4>
+    <ul>
+        {% for item in include.items %}
+        <li class="trivia-box-item">
+            {{item}}
+        </li>
+        {% endfor %}
+    </ul>
+</div>

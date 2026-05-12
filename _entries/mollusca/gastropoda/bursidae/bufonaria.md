@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

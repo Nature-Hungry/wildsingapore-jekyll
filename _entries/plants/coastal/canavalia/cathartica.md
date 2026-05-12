@@ -16,6 +16,7 @@ order: Fabales
 subfamily: Faboideae
 tribe: Diocleae
 inat_id: 159808
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

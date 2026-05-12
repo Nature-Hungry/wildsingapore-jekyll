@@ -22,6 +22,7 @@ infraorder: Brachyura
 zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Leucosioidea
+updated: Jan 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

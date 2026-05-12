@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

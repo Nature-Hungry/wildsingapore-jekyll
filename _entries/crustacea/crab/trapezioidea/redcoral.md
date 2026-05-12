@@ -23,6 +23,7 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 subfamily: Trapeziinae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

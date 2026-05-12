@@ -15,6 +15,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
+updated: Dec 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -17,6 +17,7 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Luriinae
 tribe: Austrocypraeini
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -22,6 +22,7 @@ infraorder: Brachyura
 zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
+updated: Mar 11
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

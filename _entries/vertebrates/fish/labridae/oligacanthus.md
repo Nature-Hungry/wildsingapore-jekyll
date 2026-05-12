@@ -17,6 +17,7 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

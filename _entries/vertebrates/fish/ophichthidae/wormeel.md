@@ -17,6 +17,7 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Congroidei
 subfamily: Myrophinae
+updated: Apr 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

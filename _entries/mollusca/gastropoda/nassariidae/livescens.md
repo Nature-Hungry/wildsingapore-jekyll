@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -16,6 +16,7 @@ order: Gentianales
 subfamily: Ixoroideae
 tribe: Scyphiphoreae
 inat_id: 426640
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

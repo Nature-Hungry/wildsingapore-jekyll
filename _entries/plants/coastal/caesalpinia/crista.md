@@ -16,6 +16,7 @@ order: Fabales
 subfamily: Caesalpinioideae
 tribe: Caesalpinieae
 inat_id: 1533609
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

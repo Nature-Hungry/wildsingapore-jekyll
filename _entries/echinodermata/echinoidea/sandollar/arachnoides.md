@@ -20,6 +20,7 @@ superorder: Luminacea
 order: Clypeasteroida
 suborder: Clypeasterina
 subfamily: Arachnoidinae
+updated: Mar 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

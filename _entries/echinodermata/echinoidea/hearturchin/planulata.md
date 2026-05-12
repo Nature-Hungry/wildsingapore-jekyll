@@ -19,6 +19,7 @@ subterclass: Atelostomata
 order: Spatangoida
 suborder: Brissidina
 superfamily: Spatangoidea
+updated: Jan 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

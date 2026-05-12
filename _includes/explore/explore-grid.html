@@ -184,13 +184,13 @@ function renderResults() {
     }
 
   resultsDiv.innerHTML = paginated.map(item => `
-    <div class="entry">
+    <a href="${item.url}" class="entry">
         <div class="img-container">
             <img src="${item.coverimg ?? 'https://placehold.co/600x400/png'}" alt="">
         </div>
         <h4>${item.title}</h4>
         <p class="scientific-name">${item.genus} ${item.species}</p>
-    </div>
+    </a>
   `).join('')
 
   const totalPages = Math.ceil(results.length / perpage)

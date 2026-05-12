@@ -15,6 +15,7 @@ phylum: Ochrophyta
 class: Phaeophyceae
 subclass: Fucophycidae
 order: Fucales
+updated: Oct 2015
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

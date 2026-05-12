@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Erosariinae
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

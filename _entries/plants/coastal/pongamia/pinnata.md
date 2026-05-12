@@ -14,6 +14,7 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Magnoliopsida
 order: Fabales
+updated: Nov 10
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

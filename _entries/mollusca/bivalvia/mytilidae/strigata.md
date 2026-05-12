@@ -17,6 +17,7 @@ infraclass: Pteriomorphia
 order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

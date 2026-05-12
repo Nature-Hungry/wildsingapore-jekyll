@@ -7,6 +7,7 @@ family: Chromodorididae
 genus: Miamira
 species: sinuatum
 attributes: []
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

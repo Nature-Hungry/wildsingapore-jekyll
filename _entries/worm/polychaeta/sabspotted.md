@@ -15,6 +15,7 @@ class: Polychaeta
 subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
+updated: Oct 2016
 ---
 
 

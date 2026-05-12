@@ -18,6 +18,7 @@ subterclass: Ringipleura
 superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

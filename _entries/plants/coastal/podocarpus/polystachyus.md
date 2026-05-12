@@ -13,6 +13,7 @@ kingdom: Plantae
 phylum: Tracheophyta
 class: Pinopsida
 order: Pinales
+updated: Jan 13
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

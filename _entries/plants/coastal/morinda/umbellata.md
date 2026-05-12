@@ -16,6 +16,7 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Morindeae
 inat_id: 1415440
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

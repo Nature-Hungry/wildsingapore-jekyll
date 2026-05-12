@@ -1,8 +1,9 @@
 ---
-title: "Jelly sea squirt (Ascidia gemmata)"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
+title: Jelly sea squirt (Ascidia gemmata)
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+updated: Nov 2019
 ---
  
 

@@ -16,6 +16,7 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Idiosepida
 superfamily: Idiosepioidea
+updated: May 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

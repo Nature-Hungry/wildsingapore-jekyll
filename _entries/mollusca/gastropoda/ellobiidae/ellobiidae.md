@@ -18,6 +18,7 @@ subterclass: Tectipleura
 superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

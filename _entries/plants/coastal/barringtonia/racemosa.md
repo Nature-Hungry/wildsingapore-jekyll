@@ -14,6 +14,7 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

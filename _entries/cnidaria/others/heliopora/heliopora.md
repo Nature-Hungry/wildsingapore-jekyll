@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
+updated: Dec 2024
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

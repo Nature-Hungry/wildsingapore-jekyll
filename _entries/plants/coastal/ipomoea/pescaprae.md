@@ -16,6 +16,7 @@ order: Solanales
 subfamily: Convolvuloideae
 tribe: Ipomoeeae
 inat_id: 60879
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

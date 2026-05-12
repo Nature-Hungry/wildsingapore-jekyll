@@ -16,6 +16,7 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Sepiolida
 superfamily: Sepioloidea
+updated: May 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

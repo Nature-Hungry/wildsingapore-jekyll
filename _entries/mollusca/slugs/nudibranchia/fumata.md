@@ -20,6 +20,7 @@ order: Nudibranchia
 suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -14,6 +14,7 @@ kingdom: Plantae
 phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
+updated: Jul 2025
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

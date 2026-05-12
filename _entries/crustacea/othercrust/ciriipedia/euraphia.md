@@ -20,6 +20,7 @@ subterclass: Thoracica
 superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Chthamaloidea
+updated: Mar 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

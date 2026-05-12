@@ -16,6 +16,7 @@ order: Gentianales
 subfamily: Asclepiadoideae
 tribe: Marsdenieae
 inat_id: 804837
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

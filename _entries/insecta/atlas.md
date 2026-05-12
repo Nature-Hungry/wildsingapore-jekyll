@@ -18,6 +18,7 @@ order: Lepidoptera
 superfamily: Bombycoidea
 subfamily: Saturniinae
 tribe: Attacini
+updated: Nov 2019
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

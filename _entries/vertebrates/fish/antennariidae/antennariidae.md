@@ -15,6 +15,7 @@ subphylum: Vertebrata
 class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

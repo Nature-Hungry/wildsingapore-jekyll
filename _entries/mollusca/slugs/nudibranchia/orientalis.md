@@ -21,6 +21,7 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
+updated: May 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

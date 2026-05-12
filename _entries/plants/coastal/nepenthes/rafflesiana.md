@@ -14,6 +14,7 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Caryophyllales
 inat_id: 123555
+updated: Jan 13
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

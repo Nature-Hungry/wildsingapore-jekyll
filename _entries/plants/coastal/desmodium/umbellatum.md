@@ -17,6 +17,7 @@ order: Fabales
 subfamily: Faboideae
 tribe: Desmodieae
 subtribe: Desmodiinae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

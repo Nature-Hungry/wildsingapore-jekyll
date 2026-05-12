@@ -24,6 +24,7 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Ocypodinae
 complex: Ocypode ceratophthalmus
+updated: Mar 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

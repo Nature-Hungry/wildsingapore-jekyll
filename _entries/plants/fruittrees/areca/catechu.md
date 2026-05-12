@@ -17,6 +17,7 @@ subfamily: Arecoideae
 tribe: Areceae
 subtribe: Arecinae
 inat_id: 83108
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

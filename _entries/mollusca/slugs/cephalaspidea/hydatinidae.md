@@ -16,6 +16,7 @@ subclass: Heterobranchia
 infraclass: Euthyneura
 subterclass: Acteonimorpha
 superfamily: Acteonoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

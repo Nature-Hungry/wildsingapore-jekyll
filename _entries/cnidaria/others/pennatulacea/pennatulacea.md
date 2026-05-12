@@ -7,6 +7,7 @@ family: Vertillidae
 genus: ""
 species: ""
 attributes: []
+updated: Sep 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

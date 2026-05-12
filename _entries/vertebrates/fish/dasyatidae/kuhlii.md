@@ -17,6 +17,7 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Neotrygoninae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

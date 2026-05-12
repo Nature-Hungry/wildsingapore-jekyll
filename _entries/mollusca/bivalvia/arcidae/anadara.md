@@ -1,5 +1,5 @@
 ---
-title: 'See-hum'
+title: See-hum
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
@@ -16,6 +16,7 @@ subclass: Autobranchia
 infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

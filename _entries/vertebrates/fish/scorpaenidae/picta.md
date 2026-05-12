@@ -17,6 +17,7 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Scorpaeninae
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

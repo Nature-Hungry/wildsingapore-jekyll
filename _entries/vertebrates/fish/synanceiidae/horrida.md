@@ -17,6 +17,7 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Synanceiinae
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

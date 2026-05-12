@@ -7,6 +7,7 @@ attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Portunus
 species: pelacigus
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

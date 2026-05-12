@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

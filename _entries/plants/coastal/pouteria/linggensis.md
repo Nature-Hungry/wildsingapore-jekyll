@@ -7,6 +7,7 @@ attributes: [18, 21, 36, 109]
 family: Sapotaceae
 genus: Pouteria
 species: liggensis
+updated: Aug 09
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

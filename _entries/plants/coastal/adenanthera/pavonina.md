@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Fabales
 subfamily: Mimosoideae
 tribe: Mimoseae
+updated: Sep 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

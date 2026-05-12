@@ -23,6 +23,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Cyclograpsinae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

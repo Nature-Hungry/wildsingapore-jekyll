@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Patellogastropoda
 order: Nacellida
 superfamily: Nacelloidea
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

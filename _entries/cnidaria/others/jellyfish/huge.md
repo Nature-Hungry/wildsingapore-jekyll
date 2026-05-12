@@ -7,6 +7,7 @@ attributes: [56]
 family: Class Scyphozoa
 genus: Order
 species: Rhizostomeae
+updated: Jan 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

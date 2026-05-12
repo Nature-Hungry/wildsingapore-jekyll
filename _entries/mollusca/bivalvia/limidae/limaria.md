@@ -16,6 +16,7 @@ subclass: Autobranchia
 infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

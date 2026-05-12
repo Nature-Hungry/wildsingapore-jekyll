@@ -17,6 +17,7 @@ superorder: Octopodiformes
 order: Octopoda
 suborder: Incirrata
 superfamily: Octopodoidea
+updated: May 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

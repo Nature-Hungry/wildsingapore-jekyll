@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

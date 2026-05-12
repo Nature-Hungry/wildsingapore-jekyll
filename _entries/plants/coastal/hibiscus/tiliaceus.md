@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Malvales
 subfamily: Malvoideae
 tribe: Hibisceae
+updated: Nov 10
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

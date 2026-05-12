@@ -7,6 +7,7 @@ attributes: [38, 106]
 family: Epialtidae
 genus: Menatheius
 species: ""
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -17,6 +17,7 @@ superorder: Elopomorpha
 order: Anguilliformes
 suborder: Muraenoidei
 subfamily: Muraeninae
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

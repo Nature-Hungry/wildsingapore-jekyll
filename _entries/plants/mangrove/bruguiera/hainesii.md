@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Malpighiales
 hybrid: Bruguiera × hainesii
 inat_id: 1539958
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

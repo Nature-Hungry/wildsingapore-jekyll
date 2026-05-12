@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Gentianales
 subfamily: Cinchonoideae
 tribe: Guettardeae
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 

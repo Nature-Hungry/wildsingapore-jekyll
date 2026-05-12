@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 subfamily: Phaliinae
+updated: Jan 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

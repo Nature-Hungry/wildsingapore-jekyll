@@ -17,6 +17,7 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

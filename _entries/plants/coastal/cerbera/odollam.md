@@ -17,6 +17,7 @@ order: Gentianales
 subfamily: Rauvolfioideae
 tribe: Plumerieae
 subtribe: Thevetiinae
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

@@ -19,6 +19,7 @@ order: Corallinales
 suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,7 @@ attributes: [38, 106, 112]
 family: Dotillidae
 genus: Scopimera
 species: and
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -7,6 +7,7 @@ attributes: [11, 25, 47, 85]
 family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
+updated: Nov 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -20,6 +20,7 @@ superfamily: Papilionoidea
 subfamily: Satyrinae
 tribe: Satyrini
 subtribe: Mycalesina
+updated: Oct 2019
 ---
 
 

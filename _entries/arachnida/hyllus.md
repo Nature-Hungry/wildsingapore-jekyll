@@ -20,6 +20,7 @@ superfamily: Salticoidea
 subfamily: Salticinae
 tribe: Plexippini
 subtribe: Plexippina
+updated: Nov 2019
 ---
  
 

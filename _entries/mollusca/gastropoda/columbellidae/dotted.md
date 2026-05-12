@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

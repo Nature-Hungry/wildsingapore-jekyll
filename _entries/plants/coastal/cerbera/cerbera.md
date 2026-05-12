@@ -14,6 +14,7 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Magnoliopsida
 order: Gentianales
+updated: Jan 13
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

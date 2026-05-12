@@ -13,6 +13,7 @@ kingdom: Plantae
 phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

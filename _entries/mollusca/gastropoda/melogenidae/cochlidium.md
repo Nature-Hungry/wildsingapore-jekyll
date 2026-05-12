@@ -7,6 +7,7 @@ attributes: [23, 33, 64, 71, 100, 111, 123, 125]
 family: Melongenidae
 genus: Pugilina
 species: cochlidium
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

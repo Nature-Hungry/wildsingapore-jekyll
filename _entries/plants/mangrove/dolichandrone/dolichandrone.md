@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Lamiales
 tribe: Tecomeae
 inat_id: 191683
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

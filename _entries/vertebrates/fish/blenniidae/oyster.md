@@ -7,6 +7,7 @@ attributes: [9, 15, 25, 43, 47]
 family: Blennidae
 genus: ""
 species: ""
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

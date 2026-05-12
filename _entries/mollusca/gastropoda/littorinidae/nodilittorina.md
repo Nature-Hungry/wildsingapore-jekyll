@@ -16,6 +16,7 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
+updated: Aug 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

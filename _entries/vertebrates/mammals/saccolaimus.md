@@ -20,6 +20,7 @@ order: Chiroptera
 suborder: Yangochiroptera
 superfamily: Emballonuroidea
 subfamily: Taphozoinae
+updated: Oct 2016
 ---
 
 

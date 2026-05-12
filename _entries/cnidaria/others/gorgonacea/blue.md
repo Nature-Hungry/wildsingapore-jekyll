@@ -10,6 +10,7 @@ attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
+updated: May 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

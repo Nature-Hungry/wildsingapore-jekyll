@@ -15,6 +15,7 @@ class: Liliopsida
 order: Arecales
 subfamily: Nypoideae
 inat_id: 83106
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

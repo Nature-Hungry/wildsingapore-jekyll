@@ -19,6 +19,7 @@ subterclass: Neognathostomata
 superorder: Luminacea
 order: Clypeasteroida
 suborder: Clypeasterina
+updated: Apr 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

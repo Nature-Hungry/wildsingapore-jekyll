@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Hydrozoa
 subclass: Hydroidolina
 order: Leptothecata
+updated: Aug 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

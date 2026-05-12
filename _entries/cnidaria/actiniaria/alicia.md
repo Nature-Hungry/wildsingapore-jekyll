@@ -20,6 +20,7 @@ infraorder: Aculeata
 superfamily: Pompiloidea
 subfamily: Pepsinae
 tribe: Priocnemini
+updated: Dec 2024
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

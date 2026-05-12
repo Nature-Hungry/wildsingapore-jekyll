@@ -15,6 +15,7 @@ subclass: Polypodiidae
 order: Polypodiales
 suborder: Pteridineae
 inat_id: 48437
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

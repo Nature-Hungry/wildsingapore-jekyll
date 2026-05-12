@@ -1,0 +1,143 @@
+{% include global/header.html %}
+
+<style>
+    .species-head{
+        display:flex;
+        gap:2rem;
+        height:450px;
+        border-bottom: 2px solid lightgrey;
+        padding-bottom: 2rem;
+        margin-bottom: 2rem;
+    }
+    .species-cover-container{
+        max-width:400px;
+        width: 100%;
+    }
+    .species-cover-container img{
+        height:100%;
+        width:100%;
+        object-fit: cover;
+    }
+
+    .species-head .scientific-name{
+        font-size: 1.4rem;
+        font-style: italic;
+    }
+
+    .attributes-row{
+        display:flex;
+        gap:2rem;
+        padding:1rem 0;
+    }
+
+    .attribute{
+        display:flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        gap:0.5rem;
+    }
+    .attribute-icon{
+        height:50px;
+        aspect-ratio: 1;
+        border:2px solid lightgrey;
+    }
+
+    .other-images{
+        height: 100%;
+        display: grid;
+        grid-template-rows: repeat(4,20%);
+        gap:1rem;
+    }
+    .other-images img{
+        height: 100%;
+        aspect-ratio: 1;
+        display: block;
+        object-fit: cover;
+    }
+    .other-images img.selected{
+        filter: brightness(0.5);
+    }
+
+
+    
+
+    #content-section{
+        display:flex;
+        gap:2rem;
+    }
+    .main-content{
+        flex-grow:1;
+
+    }
+    .trivia-box{
+        width:300px;
+        flex-shrink:0;
+        background-color:#e2ffe8;
+        height:fit-content;
+    }
+    .trivia-box-title{
+        padding:1rem
+    }
+    .trivia-box ul{
+        padding:0 3rem 1rem 3rem;
+    }
+  </style>
+
+
+    <!-- Page content -->
+    <main class="page-content" id="main-content">
+      <section class="species-head">
+            <div class="flex gap-1" style="height:100%">
+                <div class="other-images">
+                  {% for img in page.images %}
+                    <img src="{{img}}" alt="" class=" selected">
+                    
+                  {% endfor %}
+                </div>
+                <div class="species-cover-container">
+                {% if page.coverimg %}
+                    <img src="{{page.coverimg}}" alt="" class="species-cover">
+                {% else %}
+                    <img src="https://placehold.co/600x400" alt="">
+                {% endif %}
+                </div>
+            </div>
+          <div>
+                <p>{{page.phylum}} > {{page.class}} > {{page.order}} > {{page.family}}</p>
+                <h1>{{page.title}}</h1>
+                <p class="scientific-name">{{page.genus}} {{page.species}}</p>
+                <p>{{page.updated}}</p>
+                <div class="attributes-row">
+                  {% for a in page.display_attributes %}
+                    
+                    <div class="attribute">
+                        <div class="attribute-icon"></div>
+                        <p>{{a}}</p>
+                    </div>
+                    
+                  {% endfor %}
+                   
+                </div>
+          </div>
+       
+      </section>
+
+      <section id="content-section">
+        <div class="main-content">
+        {{content}}
+        </div>
+        {% if page.trivia_items %}
+        {%
+            include trivia-box.html
+            title= page.trivia_title
+            items = page.trivia_items
+        %}
+        {% endif %}
+      </section>
+
+
+
+    </main>
+
+{% include global/footer.html %}

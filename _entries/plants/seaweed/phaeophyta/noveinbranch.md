@@ -15,6 +15,7 @@ phylum: Ochrophyta
 class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
+updated: Sep 15
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

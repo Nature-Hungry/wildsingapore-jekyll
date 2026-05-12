@@ -21,6 +21,7 @@ superfamily: Pentatomoidea
 subfamily: Tessaratominae
 tribe: Tessaratomini
 subtribe: Eusthenaria
+updated: Nov 2019
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

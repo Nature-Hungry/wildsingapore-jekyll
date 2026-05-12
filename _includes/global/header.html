@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  
+  <head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+    <link rel="manifest" href="/assets/site.webmanifest">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Comfortaa">
+
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>{{ page.title }} | Wild Fact Sheets</title>
+  {% if page.description %}
+  <meta name="description" content="{{ page.description }}">
+  {% endif %}
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/photoindexes.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/utils.css' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  <!-- ── Main content (pushed right by sidebar width) ──────────────────── -->
+  <div class="site-wrapper">
+
+    <nav>
+        <div class="nav-left">
+        {% if site.data.social %}
+          <div class="site-sidebar__social" aria-label="Social links">
+            {% for item in site.data.social %}
+            <a href="{{ item.url }}" class="social-btn" aria-label="{{ item.title }}" title="{{ item.title }}"
+              {% unless item.url contains 'mailto' %}target="_blank" rel="noopener noreferrer"{% endunless %}>
+              <i class="{{ item.icon }}" aria-hidden="true"></i>
+            </a>
+            {% endfor %}
+          </div>
+        {% endif %}
+        </div>
+        <div class="nav-logo">
+          {% if page.url != "/" %}
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+          {%endif%}
+        </div>
+        <div class="nav-right">
+            <a href="">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/links">Useful links</a>
+        </div>
+    </nav>

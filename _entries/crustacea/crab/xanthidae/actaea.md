@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Ranunculales
 subfamily: Ranunculoideae
 tribe: Actaeeae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

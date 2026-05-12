@@ -19,6 +19,7 @@ superfamily: Noctuoidea
 subfamily: Arctiinae
 tribe: Arctiini
 subtribe: Spilosomina
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

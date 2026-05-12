@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Carangiformes
 suborder: Centropomoidei
+updated: Oct 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

@@ -23,6 +23,7 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 subfamily: Varuninae
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

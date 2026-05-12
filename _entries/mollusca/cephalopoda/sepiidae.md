@@ -17,6 +17,7 @@ superorder: Decapodiformes
 order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
+updated: May 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

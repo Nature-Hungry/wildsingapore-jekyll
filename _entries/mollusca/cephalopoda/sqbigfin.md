@@ -15,6 +15,7 @@ class: Cephalopoda
 subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
+updated: May 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

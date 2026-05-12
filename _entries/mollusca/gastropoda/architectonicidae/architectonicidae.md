@@ -14,6 +14,7 @@ phylum: Mollusca
 class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

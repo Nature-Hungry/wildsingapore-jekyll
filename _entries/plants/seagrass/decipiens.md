@@ -17,6 +17,7 @@ phylum: Tracheophyta
 subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
+updated: Mar 14
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

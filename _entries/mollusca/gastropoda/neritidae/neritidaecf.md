@@ -15,6 +15,7 @@ class: Gastropoda
 subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

@@ -19,6 +19,7 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 subfamily: Tridacninae
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

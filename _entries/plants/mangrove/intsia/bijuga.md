@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Fabales
 subfamily: Detarioideae
 tribe: Afzelieae
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

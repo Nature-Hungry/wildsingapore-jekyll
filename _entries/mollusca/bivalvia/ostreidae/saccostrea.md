@@ -17,6 +17,7 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 subfamily: Saccostreinae
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

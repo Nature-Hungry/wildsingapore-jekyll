@@ -16,6 +16,7 @@ class: Magnoliopsida
 order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

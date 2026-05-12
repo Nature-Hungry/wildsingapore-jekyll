@@ -17,6 +17,7 @@ class: Florideophyceae
 subclass: Nemaliophycidae
 order: Nemaliales
 suborder: Galaxaurineae
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

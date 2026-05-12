@@ -18,6 +18,7 @@ order: Hemiptera
 suborder: Heteroptera
 infraorder: Pentatomomorpha
 superfamily: Pyrrhocoroidea
+updated: Jan 2020
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

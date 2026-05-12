@@ -16,6 +16,7 @@ order: Fabales
 subfamily: Faboideae
 tribe: Millettieae
 inat_id: 354252
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

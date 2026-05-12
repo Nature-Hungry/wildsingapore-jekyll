@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
+updated: Nov 2024
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

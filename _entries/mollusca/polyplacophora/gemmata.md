@@ -17,6 +17,7 @@ order: Chitonida
 suborder: Chitonina
 superfamily: Chitonoidea
 subfamily: Acanthopleurinae
+updated: Jun 2020
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

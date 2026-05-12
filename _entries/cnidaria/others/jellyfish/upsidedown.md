@@ -16,6 +16,7 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
+updated: Sep 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

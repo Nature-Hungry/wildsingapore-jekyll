@@ -19,6 +19,7 @@ infraorder: Entelegynae
 zoosection: Rta clade
 zoosubsection: Marronoid
 subfamily: Desinae
+updated: Nov 2019
 ---
 
 arthropods [text index](../arthropoda/arthropodaindex)

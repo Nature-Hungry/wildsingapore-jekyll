@@ -15,6 +15,7 @@ class: Magnoliopsida
 order: Gentianales
 subfamily: Periplocoideae
 inat_id: 425633
+updated: Jan 2013
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

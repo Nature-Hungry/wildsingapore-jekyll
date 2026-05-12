@@ -16,6 +16,7 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

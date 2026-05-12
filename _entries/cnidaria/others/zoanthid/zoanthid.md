@@ -15,6 +15,7 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
+updated: Dec 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

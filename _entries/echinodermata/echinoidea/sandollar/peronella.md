@@ -20,6 +20,7 @@ superorder: Luminacea
 order: Echinolampadacea
 suborder: Scutelloida
 infraorder: Laganiformes
+updated: Apr 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

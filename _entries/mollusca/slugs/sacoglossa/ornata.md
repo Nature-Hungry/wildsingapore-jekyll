@@ -17,6 +17,7 @@ infraclass: Euthyneura
 subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
+updated: Oct 2019
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

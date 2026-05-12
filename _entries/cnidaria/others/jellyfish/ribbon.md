@@ -14,6 +14,7 @@ phylum: Cnidaria
 class: Scyphozoa
 subclass: Discomedusae
 order: Semaeostomeae
+updated: Sep 2025
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

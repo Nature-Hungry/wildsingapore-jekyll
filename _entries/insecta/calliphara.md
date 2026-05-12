@@ -20,6 +20,7 @@ infraorder: Pentatomomorpha
 superfamily: Pentatomoidea
 subfamily: Scutellerinae
 tribe: Scutellerini
+updated: Nov 2019
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)

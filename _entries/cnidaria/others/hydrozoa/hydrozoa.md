@@ -15,6 +15,7 @@ class: Hydrozoa
 subclass: Hydroidolina
 order: Anthoathecata
 suborder: Filifera
+updated: May 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

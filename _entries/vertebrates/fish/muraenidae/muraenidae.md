@@ -16,6 +16,7 @@ class: Actinopterygii
 superorder: Elopomorpha
 order: Anguilliformes
 suborder: Muraenoidei
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

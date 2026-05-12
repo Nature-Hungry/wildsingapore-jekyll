@@ -18,6 +18,7 @@ subterclass: Tectipleura
 superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
+updated: Jun 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

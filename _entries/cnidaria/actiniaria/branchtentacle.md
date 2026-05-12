@@ -16,6 +16,7 @@ subclass: Hexacorallia
 order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
+updated: Dec 2024
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

@@ -17,6 +17,7 @@ class: Florideophyceae
 subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
+updated: Aug 08
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 

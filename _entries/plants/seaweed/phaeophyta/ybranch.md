@@ -16,6 +16,7 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
+updated: Feb 13
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

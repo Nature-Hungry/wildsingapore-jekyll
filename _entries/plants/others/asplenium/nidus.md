@@ -16,6 +16,7 @@ order: Polypodiales
 suborder: Aspleniinae
 section: Thamnopteris
 inat_id: 84356
+updated: Aug 09
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 

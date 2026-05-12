@@ -19,6 +19,7 @@ order: Lepidoptera
 superfamily: Noctuoidea
 subfamily: Noctuinae
 tribe: Bryophilini
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 

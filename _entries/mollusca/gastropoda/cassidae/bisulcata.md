@@ -7,6 +7,7 @@ family: Cassidae
 genus: Phalium/Semicassis
 species: bisulcata
 attributes: []
+updated: Jul 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

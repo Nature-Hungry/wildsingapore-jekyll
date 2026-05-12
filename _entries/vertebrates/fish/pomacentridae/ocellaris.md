@@ -17,6 +17,7 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 complex: Amphiprion percula
+updated: Sep 2020
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 

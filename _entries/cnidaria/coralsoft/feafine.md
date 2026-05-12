@@ -7,6 +7,7 @@ family: Briareidae
 genus: Briareum
 species: excavatum*
 attributes: []
+updated: Aug 2025
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 

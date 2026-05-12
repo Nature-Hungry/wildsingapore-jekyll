@@ -1,8 +1,9 @@
 ---
-title: "Egg blobs on Singapore shore"
+title: Egg blobs on Singapore shore
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: default
+updated: Apr 2020
 ---
 eggs [text
 index](eggindex) | [photo index](eggfi)

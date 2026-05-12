@@ -20,6 +20,7 @@ order: Decapoda
 suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
+updated: Oct 2016
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
