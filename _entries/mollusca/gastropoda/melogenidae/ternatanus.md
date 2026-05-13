@@ -2,7 +2,7 @@
 title: Ternate false fusus
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hemifusus, ternatanus, melongenidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 64, 71, 100, 111, 123, 125]
 family: Melongenidae
 genus: Hemifusus
@@ -16,6 +16,18 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg"
+  caption: |
+    <p>Upper side of living snail.</p>
+    <p>Changi, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3a.jpg"
+  caption: |
+    <p>Fine hairs on the shell of a living snail shell.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3b.jpg"
+  caption: |
+    <p>The animal's body is pale with black speckles..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,15 +73,9 @@ often taken over by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm).  
   
 **Sometimes confused with**  the more commonly seen [Spiral melongena](cochlidium.htm), which has a shorter siphonal canal and a black body. The Ternate false fusus is much more slender and has paler body.
-*![](ternatanus/140812chg4d8531m3.jpg)*Upper
-side of living snail*.  
-Changi, Aug 14*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ternatanus/140812chg4d8531m3a.jpg)*Fine hairs on the shell of a living snail shell.
 
-*![](ternatanus/140812chg4d8531m3b.jpg)*The
-animal's body is pale  
-with black speckles..
 
   
 *\*Species

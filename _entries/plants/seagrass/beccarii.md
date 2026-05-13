@@ -18,6 +18,38 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/130728mnds02897m6l.jpg"
+  caption: |
+    <p>Mandai mangroves, Jul 2013</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1175m3.jpg"
+  caption: |
+    <p>Emerges in a rosette of 5-10 leaves.</p>
+    <p>Chek Jawa, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg"
+  caption: |
+    <p>Seen growing next to byssus nests created by <a href="../../mollusca/bivalvia/mytilidae/musculista">Nest mussels</a>.</p>
+    <p>Chek Jawa, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg"
+  caption: |
+    <p>Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove boardwalk.</p>
+    <p>Sungei Buloh Wetland Reserve, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg"
+  caption: |
+    <p>Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg"
+  caption: |
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3b.jpg"
+  caption: |
+    <p></p>
 ---
 
 
@@ -84,36 +116,16 @@ in many regions.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.   
 
-*![](beccarii/130728mnds02897m6l.jpg)  
-Mandai mangroves, Jul 2013  
+{% include img-wrap-group.html items=page.page_images %}
   
-*![](beccarii/110916cjd1175m3.jpg)**Emerges
-in a rosette of 5-10 leaves. **Chek Jawa, Sep 11**
 
-*![](beccarii/090502cjf0882m3b.jpg)*Seen
-growing next to byssus nests  
-created by [Nest
-mussels](../../mollusca/bivalvia/mytilidae/musculista). *Chek Jawa, May 09*
 
-*![](beccarii/030913cjd0097m3.jpg)  
-Chek Jawa, Sep 11*
 
-*![](beccarii/110916cjd1181m3b.jpg)  
-Chek Jawa, Sep 11*
 
 ---
 
-*![](beccarii/090816sbwrd9032m6l.jpg)*Lush
-carpets of this tiny seagrass grow   
-under the Sungei Buloh mangrove boardwalk. *Sungei Buloh Wetland Reserve, Aug 09*
 
-*![](beccarii/070803cjd5024m6.jpg)*Patches
-of this tiny seagrass sometimes  
-grow near the Chek Jawa boardwalk. *Chek Jawa, Aug 07*
 
-.*![](beccarii/110317mndd7384m3.jpg)  
-Mandai, Mar 11  
-![](beccarii/110317mndd7384m3b.jpg)*
 
 ---
 
@@ -204,5 +216,3 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

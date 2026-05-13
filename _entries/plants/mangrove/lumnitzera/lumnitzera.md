@@ -2,7 +2,7 @@
 title: "Teruntum "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "teruntum, merah, lumnitzera, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Combretaceae
 genus: Lumnitzera
 species: ""
@@ -15,6 +15,32 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/091115ubnd4196m3.jpg"
+  caption: |
+    <p>Pulau Ubin,Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg"
+  caption: |
+    <p>Red flowers, stamens much longer than petals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg"
+  caption: |
+    <p>Developing fruits.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg"
+  caption: |
+    <p>White flowers, stamens same length as petals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg"
+  caption: |
+    <p>Developing fruits.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090124ubnd6072m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,9 +85,7 @@ other in habitat and have never been collected in exactly the same
 stand. The exact cause of this different ecological behaviour is not
 yet known.
 
-![](littorea/090124ubnd6072m3.jpg)  
-*Pulau Ubin, Jan 09*![](racemosa/091115ubnd4196m3.jpg)  
-*Pulau Ubin,Nov 09*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -74,14 +98,8 @@ on Singapore shores**
 merah**  
 [*Lumnitzera littorea*](littorea)
 
-![](littorea/090112smkd4965m3.jpg)
 
-![](littorea/090315smkd8194m3b.jpg)  
-Red flowers,  
-stamens much longer than petals.
 
-![](littorea/081213smkd3025m3a.jpg)  
-Developing fruits.
 
 ---
 
@@ -89,14 +107,8 @@ Developing fruits.
 putih**  
 [*Lumnitzera racemosa*](racemosa)
 
-![](racemosa/030809ubnd0005m3.jpg)
 
-![](racemosa/030809ubnd0006m3b.jpg)  
-White flowers,  
-stamens same length as petals.
 
-![](racemosa/081213smkd3021m3d.jpg)  
-Developing fruits.
 
 ---
 

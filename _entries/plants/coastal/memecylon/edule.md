@@ -2,7 +2,7 @@
 title: Delek air
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "delek, air, memecylon, edule, melastomaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 109]
 family: Melastomaceae
 genus: Memecylon
@@ -16,6 +16,33 @@ class: Magnoliopsida
 order: Myrtales
 subfamily: Olisbeoideae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/080720cjd8074m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/070422cjg8983m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/100630sntd7793m6l.jpg"
+  caption: |
+    <p>Sentosa, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2334m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091226cjd6360m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/020601cjcpd0058m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/091005cjd2287m3a.jpg"
+  caption: |
+    <p>Leaves dip in seawater at high tide.</p>
+    <p>Chek Jawa, Oct 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/memecylon/edule/041031cjd7943m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -71,37 +98,14 @@ used to poultice bruises.
  **Status and threats:** It is listed as 'Endangered' on the
 Red List of threatened plants of Singapore.
 
-![](edule/041031cjd7943m3.jpg)  
-*Chek Jawa,
-Oct 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](edule/080720cjd8074m3a.jpg)  
-Chek Jawa, Jul 08*
 
-*![](edule/070422cjg8983m3.jpg)  
-Chek Jawa,
-Apr 07*
 
-![](edule/100630sntd7793m6l.jpg)  
-*Sentosa, Jun
-10*
 
-![](edule/091005cjd2334m6l.jpg)  
-*Chek Jawa,
-Oct 09*
 
-*![](edule/091226cjd6360m6l.jpg)  
-Chek Jawa,
-Dec 09*
 
-![](edule/020601cjcpd0058m3.jpg)  
-*Chek Jawa,
-Jun 02*
 
-*![](edule/091005cjd2287m3a.jpg)*Leaves
-dip in seawater at high tide.  
-*Chek
-Jawa, Oct 09*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Turritella snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "screw, turritella, terebra, turritellidae, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 78, 100, 111, 123]
 family: Volutidae
 genus: Turritella
@@ -16,6 +16,17 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Turritellinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg"
+  caption: |
+    <p>Changi, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/060626ecpd3524m3.jpg"
+  caption: |
+    <p>East Coast, Jun 06</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turritellidae/turritella/081019chgd1320m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,13 +68,9 @@ hermit crab. Elsewhere, they are found on soft bottoms.
 grow to 15-17cm long. Elegant shell with regular spirals which are
 finely ridged. It is herbivorous and lives on sandy and muddy areas
 of the intertidal zone.
-*![](turritella/081019chgd1320m3.jpg)  
-Changi, Oct 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](turritella/081019chgd1320m3a.jpg)*
 
-*![](turritella/060626ecpd3524m3.jpg)  
-East Coast, Jun 06*
 
 **Human uses:** In the northern Philippines,
 they are regularly collected and marketed as food.  

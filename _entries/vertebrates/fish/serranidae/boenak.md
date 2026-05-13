@@ -2,7 +2,7 @@
 title: "Chocolate hind "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chocolate, hind, indian, grouper, fish, cephalopholis, boenak, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Serranidae
 genus: Cephalopholis
@@ -17,6 +17,46 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m6l.jpg"
+  caption: |
+    <p>Dark spot on upper edge of gill cover.</p>
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/030616cjd0030m6l.jpg"
+  caption: |
+    <p>Small one near seagrasses.</p>
+    <p>Chek Jawa, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/080519sisd3362m3.jpg"
+  caption: |
+    <p>Hiding among rocks.</p>
+    <p>Sisters Islands, May 08 What does it eat?</p>
+    <p>It hunts mainly fishes and crustaceans.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090527skdlks.JPG"
+  caption: |
+    <p>Pulau Sekudu, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3594177275/in/album-72157607907125005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250628pcnal1.jpg"
+  caption: |
+    <p>East Coast PCN, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/180616bblks12.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078563158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/250714srpal3.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared of Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/240608kustl1.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161279668269264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/230509tsmkky1.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10168333683745112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Periplus Editions.</p>
+    <p>400pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/090606tmftd3105m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,20 +94,9 @@ silty sheltered waters or reefs, usually alone.
 those seen usually about 10-15cm. Brownish to
 greenish with dusky vertical bands on the body. A dark spot on the upper edge of the gill cover.
 
-![](boenak/090606tmftd3105m3.jpg)  
-*Tanah Merah, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](boenak/100527tmd3431m6l.jpg)  
-Dark spot on
-upper edge of gill cover. *Tanah Merah,
-May 10*
 
-![](boenak/030616cjd0030m6l.jpg)  
-Small one near seagrasses. *Chek Jawa, Jun 03*
-![](boenak/080519sisd3362m3.jpg)  
-Hiding among rocks. *Sisters Islands, May 08*
-**What does it eat?** It hunts mainly
-fishes and crustaceans.  
   
 **Human uses:** In some places they
 harvested for eating, particularly when larger groupers have been overfished.
@@ -89,25 +118,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](boenak/090527skdlks.JPG)  
- *Pulau Sekudu, May 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3594177275/in/album-72157607907125005/).
 
 ---
 
-![](boenak/250628pcnal1.jpg)  
- *East Coast PCN, Jun 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post).
 
-![](boenak/180616bblks12.jpg)  
-*Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450078563158&set=a.10156450071873158&type=3&theater).
 
 ---
 
-![](boenak/250714srpal3.jpg)  
-*Sentosa Serapong, Jul 25*Photo shared of Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post).
-![](boenak/240608kustl1.jpg)  
- *Kusu Island, Jun 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161279668269264).
-![](boenak/230509tsmkky1.jpg)  
- *Terumbu Semakau, May 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10168333683745112&type=3&ref=embed_post).
 
 ---
 
@@ -125,8 +142,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Lieske,
   Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

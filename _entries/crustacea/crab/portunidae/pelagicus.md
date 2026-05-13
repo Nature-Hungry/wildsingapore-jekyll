@@ -2,7 +2,7 @@
 title: Flower crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Portunus
@@ -24,6 +24,54 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg"
+  caption: |
+    <p>Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg"
+  caption: |
+    <p>Mating crabs, male on top.</p>
+    <p>Pulau Sekudu, Jun 05 <a href="tiny">Smaller juvenile flower crabs</a> (1-2cm) may have a wide variety of colours and patterns including bold bars and blotches.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg"
+  caption: |
+    <p>Those infected with <a href="../../othercrust/ciriipedia/thompsonia">parasitic barnacles</a> tend to be covered with seaweeds.</p>
+    <p>Pulau Sekudu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg"
+  caption: |
+    <p>Buried in sand.</p>
+    <p>Tuas, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg"
+  caption: |
+    <p><a href="tiny">Tiny ones</a> are also seen.</p>
+    <p>This one is hardly bigger than a Button snail.</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg"
+  caption: |
+    <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706825243158&set=a.10158706826698158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg"
+  caption: |
+    <p>Pulau Tekukor , May 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889338305/">his flickr</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
+    <p>pp.</p>
+    <p>963.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -98,17 +146,7 @@ sponge) to her abdomen where she cares for them until they hatch.
 They hatch into free-swimming larvae that drift with the plankton,
 changing into yet another form before settling down and developing
 into miniature flower crabs. 
-![](pelagicus/050622cftg8190m3.jpg)  
-*Changi, Jun 05*
-![](tiny/040719sntd2861m3.jpg)  
-Flower crab (top)
-next to   
-its moulted shell (bottom)  
-*Sentosa, Jul 04*
-![](pelagicus/050621skdg8000m3.jpg)  
-Mating crabs, male on top. *Pulau Sekudu, Jun 05*
-[Smaller juvenile flower crabs](tiny) (1-2cm) may have
-a wide variety of colours and patterns including bold bars and blotches.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **What does it eat?** The flower crab
 is a predator. In other parts of the world, it has been reported to
@@ -129,18 +167,8 @@ and a favourite dish for many Singaporeans. They are caught with nets
 or baited traps. In Western Australia, they are an important fishery
 resource with 740 tonnes, valued at around $2.2 million, harvested
 in 1997/98.
-![](../../othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg)  
-Those infected with [parasitic
-barnacles](../../othercrust/ciriipedia/thompsonia)  
-tend to be covered with seaweeds*.  
-Pulau Sekudu, Apr 06*
 
-![](pelagicus/101008tusd1761m3.jpg)  
-Buried in sand. *Tuas, Oct 10*
 
-![](pelagicus/050428cftd2923m3.jpg)  
-[Tiny ones](tiny) are also seen. This one is   
-hardly bigger than a Button snail. *Changi, Apr 05*
 
 ---
 
@@ -159,33 +187,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pelagicus/201020prpalks4.jpg)  
-Pasir Ris-Loyang, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158706825243158&set=a.10158706826698158).
 
 ---
 
-*![](pelagicus/100528tkknml5m3.jpg)  
-Pulau Tekukor
-, May 10*Photo
-shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel).
 
-*![](pelagicus/110423tpllks1m3.jpg)  
-Terumbu Pempang
-Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
-*![](pelagicus/151001blylks11m3.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story).
 
 ---
 
-![](pelagicus/100130brkd8464m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](pelagicus/100810snglks4m3.jpg)  
-*Pulau Senang, Aug 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4889338305/).
 
 ---
 
@@ -236,8 +246,6 @@ flickr](http://www.flickr.com/photos/koksheng/4889338305/).
   Australian Waters*. Reed New Holland. 224 pp.
 - Edward E.
   Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate
-  Zoology![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963.
 
 [links](../../../links)
 | [references](../../../references)

@@ -2,7 +2,7 @@
 title: Ox-tongue nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ox, tongue, palate, nerita, nerite, albicilla, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: Nerita
 species: albicilla
@@ -17,6 +17,44 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3624m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/070420sntrd0218m3a.jpg"
+  caption: |
+    <p>Sentosa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090413blyd0095m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/081113jngd1805m3.jpg"
+  caption: |
+    <p>Pulau Jong, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/210529epcnvc4.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497029327945&set=a.10158495877737945">facebcok</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/251208meky4.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 26Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118137331062825">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/260104trmyls6b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/250714srplvo1.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122111410316927700&type=3&ref=embed_post">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/091231bioik2m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4263234534/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/060102sisg3628m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,25 +105,14 @@ with two rounded 'teeth' on both sides of the shell opening. Operculum thick, ev
 sometimes with darkish portion. Body pale with fine black bands on
 the foot and long thin black tentacles.
 
-*![](albicilla/060102sisg3628m3.jpg)  
-Sisters Island, Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](albicilla/060102sisg3624m3.jpg)  
-Sisters Islands, Jan 06*
 
-*![](albicilla/090208smkd6498m3.jpg)  
-Pulau Semakau, Feb 09*
 
 **Many patterns:** The shell may be lightly grooved, sometimes glossy. The shell pattern can vary widely from bold spirals to mottled or plain. Some can be white and chalky from exposure and carry barnacles.
 
-![](albicilla/070420sntrd0218m3a.jpg)  
-*Sentosa, Apr 07*
 
-*![](albicilla/090413blyd0095m3.jpg)  
-Berlayar Creek, Apr 09*
 
-*![](albicilla/081113jngd1805m3.jpg)  
-Pulau Jong, Nov 08*
 
 **Human uses:** It is collected as
 food by coastal dwellers as well as for its shell for the shell trade.
@@ -107,26 +134,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](albicilla/210529epcnvc4.jpg)  
-East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebcok](https://www.facebook.com/photo?fbid=10158497029327945&set=a.10158495877737945).
 
-![](albicilla/251208meky4.jpg)  
-*Marina East, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post).
 
 ---
 
-*![](albicilla/260104trmyls6.jpg)  
-Sentosa Tg Rimau, Jan 26*Photo shared by Yan Le Su on [facebook](https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118137331062825).
 
-![](albicilla/260104trmyls6b.jpg)
 
-![](albicilla/250714srplvo1.jpg)  
-*Sentosa Serapong, Jul 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122111410316927700&type=3&ref=embed_post)..
 
 ---
 
-*![](albicilla/091231bioik2m3.jpg)  
-Pulau Biola, Dec 09*Photo shared by Ivan Kwan on [flickr](http://www.flickr.com/photos/hai_ren/4263234534/).
 
 ---
 

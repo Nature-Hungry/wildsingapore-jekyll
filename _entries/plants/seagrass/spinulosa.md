@@ -2,7 +2,7 @@
 title: "Fern seagrass "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [46, 95, 97]
 englishname: Fern seagrass
 family: Hydrocharitaceae
@@ -18,6 +18,42 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/080412cjd1263m6l.jpg"
+  caption: |
+    <p>Fern seagrass sometimes grows right up</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/020213cjd6797m3.jpg"
+  caption: |
+    <p>Leaves emerge from underground stems.</p>
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg"
+  caption: |
+    <p>Changi, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg"
+  caption: |
+    <p>Small one-sided fold at the base of each leaf.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg"
+  caption: |
+    <p>Tiny snails grazing on algae on the leaves.</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg"
+  caption: |
+    <p><a href="../../bryozoa/bryozoan">Bryozoans</a> growing on the seagrass.</p>
+    <p>Changi, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg"
+  caption: |
+    <p>Tiny organisms growing on leaflet.</p>
+    <p>Changi, Nov 07</p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -99,33 +135,17 @@ known to graze on this seagrass.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.
 
-*![](spinulosa/080412cjd1263m6l.jpg)*Fern seagrass sometimes grows right up   
-to the rocky shore on Chek Jawa! *Chek Jawa, Apr 08**![](spinulosa/020213cjd6797m3.jpg)*Leaves emerge from underground stems. *Chek Jawa, Feb 02*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-*![](spinulosa/110916cjd1153m6l.jpg)  
-Chek Jawa, Sep 11*
 
-*![](spinulosa/110916cjd1153m3a.jpg)  
-Chek Jawa, Sep 11  
-![](spinulosa/110916cjd1153m3c.jpg)*
 
-*![](spinulosa/070716chgd4197m3.jpg)  
-Changi, Jul 07  
-![](spinulosa/030928cjd0024m3a.jpg)*Small
-one-sided fold at the base of each leaf. *Chek Jawa, Sep 03*
 
 ---
 
-*![](spinulosa/050819cjg1506m3a.jpg)*Tiny snails grazing on algae on the leaves. *Chek Jawa, Aug 05*
 
-*![](../../bryozoa/bryozoannoid/080817chgd9745m3a.jpg)*[Bryozoans](../../bryozoa/bryozoan) growing on
-the seagrass.  
-*Changi, Aug 08*
 
-*![](spinulosa/071126chgd7629m3c.jpg)*Tiny organisms growing on leaflet.  
-*Changi, Nov 07*
 
 ---
 
@@ -181,5 +201,3 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

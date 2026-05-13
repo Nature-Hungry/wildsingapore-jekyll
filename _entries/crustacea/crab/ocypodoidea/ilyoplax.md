@@ -2,7 +2,7 @@
 title: "Semaphore crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "semaphore, crab, ilyoplax, dotillidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106, 112]
 family: Dotillidae
 genus: Ilyoplax
@@ -24,6 +24,20 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1074m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/111107sbwrlks.JPG"
+  caption: |
+    <p>Sungei Buloh, Nov 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6362277335/in/album-72157607922679778/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/050809lckg1072m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,11 +82,9 @@ The White semaphore crab (Ilyoplax delsmani) changes its colour to
 white to communicate with other semaphore crabs. When they are resting,
 they turn a dull colour to blend in with the surrounding mud or sand.
 
-*![](ilyoplax/050809lckg1072m3.jpg)* *Lim Chu Kang, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ilyoplax/050809lckg1074m3.jpg)*
 
-*![](ilyoplax/040101lckd0135m3.jpg)* *Lim Chu Kang, Jan 04*
 
 ---
 
@@ -91,8 +103,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](ilyoplax/111107sbwrlks.JPG)  
-Sungei Buloh, Nov 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6362277335/in/album-72157607922679778/).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Pimply leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Alcyoniidae
 genus: Lobophytum
 species: ""
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntd1291m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3e.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/200310bbbmn1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 20Photo shared by Marcus Ng on <a href="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply.htm">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6954m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6951m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6953m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8892m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8651m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8653m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5246m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5247m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4738m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -71,21 +136,14 @@ leathery soft coral](letsmooth.htm) (*Sinularia* sp.) which does not have
 siphonozooids and thus has a smooth common tissue.  
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
-*![](letpimply/050917smkg2448m3.jpg)  
-Pulau Semakau, Sep 05* 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](letpimply/050917smkg2447m3.jpg)*
 
-*![](letpimply/050917smkg2447m3a.jpg)*
 
 ---
 
-*![](letpimply/060415hntd1291m3.jpg)  
-Pulau Hantu, Apr 06*
 
-*![](letpimply/060415hntg5647m3a.jpg)*
 
-*![](letpimply/060415hntg5647m3e.jpg)*
 
   
 *\*Species are difficult
@@ -110,47 +168,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](letpimply/200310bbbmn1.jpg)  
-Beting Bemban Besar, Mar 20*Photo shared by Marcus Ng on [facebook](http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply.htm).
 
 ---
 
-*![](letpimply/091231biod6954m3.jpg)  
-Pulau Biola, Dec 09*
 
-![](letpimply/091231biod6951m3a.jpg)
 
-![](letpimply/091231biod6953m3a.jpg)
 
 ---
 
-*![](letpimply/100131slud8892m3.jpg)  
-Terumbu Salu, Jan 10*
 
-![](letpimply/100131slud8895m3a.jpg)
 
-![](letpimply/100131slud8895m3.jpg)
 
 ---
 
-*![](letpimply/100130brkd8651m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](letpimply/100130brkd8653m3.jpg)*
 
-*![](letpimply/091204pawd5246m3.jpg)  
-Pulau Pawai, Dec 09  
-![](letpimply/091204pawd5247m3.jpg)*
 
-*![](letpimply/100613sngd5520m3.jpg)  
-Pulau Senang, Jun 10   
-![](letpimply/100613sngd5520m3a.jpg)*
 
 ---
 
-*![](letpimply/100601slud4738m3.jpg)  
-Pulau Salu, Jun 10*
 
-*![](letpimply/100601slud4739m3.jpg)*
 
 ---
 

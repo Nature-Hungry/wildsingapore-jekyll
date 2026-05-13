@@ -2,7 +2,7 @@
 title: Sicklefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sickle, fish, sicklefish, drepane, drepaneidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Drepaneidae
 genus: Drepane
@@ -14,6 +14,22 @@ phylum: Bryophyta
 class: Bryopsida
 order: Hypnales
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Tanah Merah, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/150306sbwrd1953.jpg"
+  caption: |
+    <p>Spotted sicklefish (Drepane punctata) Adults were among those seen during a mass fish death event.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/160507cjik.jpg"
+  caption: |
+    <p>Spotted sicklefish (Drepane punctata) Adults removed from fish net Chek Jawa, May 16Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/26591403590/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/drepaneidae/drepane/130811tmftd1284m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -50,16 +66,9 @@ under the chin.
 **Sometimes confused:** Juveniles may be mistaken for [Brown
 sweetlips](../haemulidae/gibbosus).
 
-![](drepane/130811tmftd1284m3.jpg)  
-Juvenile.  
-*Tanah Merah, Aug 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](drepane/130811tmftd1284m3a.jpg)
 
-![](drepane/150306sbwrd1953.jpg)  
-Spotted sicklefish (*Drepane punctata*)  
-Adults were among those seen   
-during a mass fish death event.  *Sungei Buloh Wetland Reserve, Mar 15*
 
 **What does it eat?** It eats bottom
 dwelling animals.  
@@ -84,9 +93,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](drepane/160507cjik.jpg)  
-Spotted sicklefish (*Drepane punctata*)  
-Adults removed from fish net *Chek Jawa, May 16*Photo shared by Ivan Kwan on [flickr](https://www.flickr.com/photos/hai_ren/26591403590/).
 
 ---
 

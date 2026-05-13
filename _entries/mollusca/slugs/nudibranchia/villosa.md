@@ -2,7 +2,7 @@
 title: Yellow-foot nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, foot, thordisa, villosa, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Discodorididae
 genus: Thordisa
 species: villosa
@@ -21,6 +21,44 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3c.jpg"
+  caption: |
+    <p>Tapering papillae on the body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3790m3.jpg"
+  caption: |
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3792m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3b.jpg"
+  caption: |
+    <p>Small feathery gills.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3796m3a.jpg"
+  caption: |
+    <p>Larger bumps are filled with fluid.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/120604pgld3800m3a.jpg"
+  caption: |
+    <p>Rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528chgsafmn3.jpg"
+  caption: |
+    <p>Changi Creek, May 21 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158287454753660&set=a.10158287457408660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/210528lygjll8.jpg"
+  caption: |
+    <p>Changi Loyang, May 21 Photo shared by Jianline Liu on <a href="https://www.facebook.com/photo?fbid=10158302308111295&set=a.10158300364091295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/220716bbtl2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159959537844264&set=a.10159959530369264">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,30 +102,17 @@ fall apart when handled. Tiny rhinophores and small feathery gills.
   
 **What does it eat?** It eats [sponges](../../../porifera/porifera.htm).
 
-![](villosa/050529cjg6776m3.jpg)  
- *Chek Jawa, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](villosa/050529cjg6776m3c.jpg)  
-Tapering papillae on the body.
 
-*![](villosa/050526cj6777m3.jpg)*Underside.
 
 ---
 
-*![](villosa/120604pgld3790m3.jpg)* *Punggol, Jun 12*
 
-*![](villosa/120604pgld3796m3.jpg)*
 
-*![](villosa/120604pgld3792m3.jpg)*
 
-![](villosa/120604pgld3800m3b.jpg)  
-Small feathery gills.
 
-![](villosa/120604pgld3796m3a.jpg)  
-Larger bumps are filled with fluid.
 
-![](villosa/120604pgld3800m3a.jpg)  
-Rhinophores.
 
 ---
 
@@ -105,17 +130,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](villosa/210528chgsafmn3.jpg)  
-*Changi Creek, May 21*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158287454753660&set=a.10158287457408660).
 
-![](villosa/210528lygjll8.jpg) *Changi Loyang, May 21*  
-Photo shared by Jianline Liu on [facebook](https://www.facebook.com/photo?fbid=10158302308111295&set=a.10158300364091295).
 
 ---
 
-*![](villosa/220716bbtl2.jpg)  
-Beting Bronok, Jul 22*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10159959537844264&set=a.10159959530369264).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Emerald slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "emerald, slug, stiliger, smaragdinus, limapontidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 26, 33, 90]
 family: Elysiidae
 genus: Stiliger
@@ -18,6 +18,54 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlksa.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24888155875/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg"
+  caption: |
+    <p>Lazaraus, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170714prpay1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211104869269871.1073741897.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190801chgjll2.jpg"
+  caption: |
+    <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/200822prpvc1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157891014932945&set=a.10157891012412945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3a.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/170626skdtch3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190901labll3.jpg"
+  caption: |
+    <p>Labrador, Sep 19Photo shared by Liz Lim on <a href="https://www.facebook.com/liz.lim.568/media_set?set=a.2478340892189235&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/090809sjitch1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>Johh's Island, Aug 09Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.sg/2009/08/sluggish-day-st-johns.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/201115sntvc3.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158080143752945&set=a.10158080156422945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/100911sntlksm3.JPG"
+  caption: |
+    <p>Sentosa, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/11/no-galloping-but-still-lively-at.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120819cyrlksm3.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/110830cyrlks2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reef.html">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/190707thntch1.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jul 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157514111363713&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/130721cjlks.JPG"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,14 +105,9 @@ with spherical bumps (cerata) that resemble the seaweed's colour and shape. The
 cerata contain its digestive system and are thus often the same colour
 as the seaweed it feeds on. There are many iridescent blue dots at the base of the cerata. It has a pair of rhinophores that is green with whitish tips.
 
-![](stiliger/130721cjlks.JPG)  
- *Chek Jawa, Jul 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](stiliger/130721cjlksa.jpg)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24888155875/in/album-72157607712316054/).
 
-![](stiliger/120818lazd0303m3.jpg)  
- *Lazaraus, Aug 12*
 
 ---
 
@@ -83,55 +126,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](stiliger/170714prpay1.jpg)  
- *Pasir Ris Park, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211104869269871.1073741897.1000600604&type=3).
 
-![](stiliger/190801chgjll2.jpg)  
-*Changi, Aug 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3).
 
 ---
 
-![](stiliger/200822prpvc1.jpg)  
- *Pasir Ris Park, Aug 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157891014932945&set=a.10157891012412945).
 
 ---
 
-![](stiliger/170626skdtch3a.jpg)  
- *Pulau Sekudu, Jun 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3).
 
-![](stiliger/170626skdtch3.jpg)  
-*Pulau Sekudu, Jun 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3).
 
 ---
 
-![](stiliger/190901labll3.jpg)  
- *Labrador, Sep 19*Photo shared by Liz Lim on [facebook](https://www.facebook.com/liz.lim.568/media_set?set=a.2478340892189235&type=3).
 
-![](stiliger/090809sjitch1m3.jpg)  
- *St. Johh's Island, Aug 09*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.sg/2009/08/sluggish-day-st-johns.html).
 
 ---
 
-![](stiliger/201115sntvc3.jpg)  
- *Sentosa Tg Rimau, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158080143752945&set=a.10158080156422945).
 
-![](stiliger/100911sntlksm3.JPG)  
- *Sentosa, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2010/11/no-galloping-but-still-lively-at.html).
 
 ---
 
-![](stiliger/120819cyrlksm3.JPG)  
- *Cyrene Reef, Aug 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-ever.html).
 
-![](stiliger/110830cyrlks2m3.jpg)  
- *Cyrene Reef, Aug 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reef.html)
 
-![](stiliger/190707thntch1.jpg)  
- *Terumbu Hantu, Jul 19*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10157514111363713&type=3).
 
 ---
 

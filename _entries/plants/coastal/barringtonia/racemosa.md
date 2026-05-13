@@ -2,7 +2,7 @@
 title: "Putat sungei "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barringtonia, racemosa, lecythidaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 62]
 family: Lecythidaceae
 genus: Barringtonia
@@ -15,6 +15,24 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg"
+  caption: |
+    <p>Leaf edge finely toothed.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/080720cjd8101m3.jpg"
+  caption: |
+    <p>Blooming flowers on a long hanging spike.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090329cjo3291633m6l.jpg"
+  caption: |
+    <p>Planted tree.</p>
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/080720cjd8100m3.jpg"
+  caption: |
+    <p>After the stamens have fallen.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090329cjd8703m3.jpg"
+  caption: |
+    <p>Fruits egg- or pear-shaped with angles.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/racemosa/090418admd0144m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,16 +73,10 @@ tree (5-27m tall).
 Leaves (20-30cm) thin leathery, midrib and veins often yellow. The
 leaves are finely toothed at the edges. Old leaves wither orange to
 red.
-*![](racemosa/090418admd0144m3a.jpg)*Leaf
-edge finely toothed.
-![](racemosa/080720cjd8101m3.jpg)  
-Blooming flowers on a long hanging spike.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](racemosa/090329cjo3291633m6l.jpg)*Planted tree. *Chek Jawa, Mar 09*
 
-*![](racemosa/080720cjd8100m3.jpg)*After the stamens have fallen.
 
-*![](racemosa/090329cjd8703m3.jpg)*Fruits egg- or pear-shaped with angles.
 
 Flowers small (3-5cm) a pom-pom of many short pink stamens with small
 pink petals. The flowers emerge from a long hanging spike (40-100cm

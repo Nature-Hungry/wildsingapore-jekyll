@@ -2,7 +2,7 @@
 title: Maritima hypselodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hypselodoris, maritima, nudibranch, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chromodorididae
 genus: Hypselodoris
 species: maritima
@@ -22,6 +22,50 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg"
+  caption: |
+    <p>Tuas, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/210501chgjll1.jpg"
+  caption: |
+    <p>Changi, May 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158240745221295&set=a.10158240739691295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1a.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 24Photo by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161672400203713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/240706ubntch1b.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 24Photo by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161672400203713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/230803skdjk1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 23Photo shared by James Koh on <a href="https://www.facebook.com/photo?fbid=7211679842178658&set=a.7211683165511659">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/120508skdjk4m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12Photo shared by James Koh on <a href="http://singaporenature.wordpress.com/2012/05/08/120508-sekudu/">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/190706skdmn1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 19Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156481373543660&set=a.10156481372323660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/190706skdro3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 19Photo shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/140616bblks1m3.JPG"
+  caption: |
+    <p>Beting Bronok, Jun 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/06/how-is-beting-bronok-doing.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/210627bbjll1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158363449601295&set=a.10158363437556295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/240212sjijll2.jpg"
+  caption: |
+    <p>St John's Island, Feb 24Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10160088467146295&set=a.10160088476676295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/150320tusmn2m3.jpg"
+  caption: |
+    <p>Tuas, Mar 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152588475018660.1073741853.624178659&type=1">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,12 +108,9 @@ body with black marks all over - large blotches or smaller spots. Along the inne
 flower-like gills on the back and large rhinophores (relative to the
 body size). Gills white edged in red or orange. Rhinophores white, tipped with red or orange.
 
-*![](hymaritima/060429skdg5808m3.jpg)  
-Tuas, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hymaritima/060429skdg5808m3a.jpg)*
 
-*![](hymaritima/060429skdg5808m3b.jpg)*
 
 ---
 
@@ -88,49 +129,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hymaritima/210501chgjll1.jpg)  
-*Changi, May 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158240745221295&set=a.10158240739691295).
 
 ---
 
-*![](hymaritima/240706ubntch1a.jpg)  
-Pulau Ubin, Jul 24*Photo by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10161672400203713).
 
-*![](hymaritima/240706ubntch1b.jpg)  
-Pulau Ubin, Jul 24*Photo by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10161672400203713).
 
-*![](hymaritima/230803skdjk1.jpg)*  
-*Pulau Sekudu, Aug 23*Photo shared by James Koh on [facebook](https://www.facebook.com/photo?fbid=7211679842178658&set=a.7211683165511659).
 
 ---
 
-*![](hymaritima/120508skdjk4m3.jpg)*  
-*Pulau Sekudu, May 12*Photo shared by James Koh on [his
-blog](http://singaporenature.wordpress.com/2012/05/08/120508-sekudu/).
 
-*![](hymaritima/190706skdmn1.jpg)*  
-*Pulau Sekudu, Jul 19*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156481373543660&set=a.10156481372323660&type=3&theater).
 
-*![](hymaritima/190706skdro3.jpg)*  
-*Pulau Sekudu, Jul 19*Photo shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542).
 
 ---
 
-*![](hymaritima/140616bblks1m3.JPG)*  
-*Beting Bronok, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/how-is-beting-bronok-doing.html).
 
-![](hymaritima/210627bbjll1.jpg)  
-*Beting Bronok, Jun 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158363449601295&set=a.10158363437556295).
 
 ---
 
-![](hymaritima/240212sjijll2.jpg)  
-*St John's Island, Feb 24*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10160088467146295&set=a.10160088476676295).
 
 ---
 
-*![](hymaritima/150320tusmn2m3.jpg)*  
-*Tuas, Mar 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152588475018660.1073741853.624178659&type=1).
 
 ---
 

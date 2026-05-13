@@ -2,7 +2,7 @@
 title: Zebra coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zebra, oulastrea, crispata, oulastreidae, faviidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: Oulastrea
 species: crispata*
@@ -15,6 +15,86 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngcoralhard.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120407lazd8127m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5465m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/120123hntd5640m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/110812prpd8599m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/060516chgd2001m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/080525ubnd4244m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/050821bbg2001m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/160124smkemn2.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100130brkd8717m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091204pawd5282m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/091231biojk10m3a.jpg"
+  caption: |
+    <p>Photo shared by Jamed Koh on <a href="http://www.flickr.com/photos/37823682@N04/4230876583/in/set-72157622842029671/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100811slud0117m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/oulastrea/100601slud4934m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -25,7 +105,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngcoralhard.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -71,36 +151,20 @@ The background remains black even after the colony is dead, thus its
 common name. The polyps have many long thin tentacles and are brownish,
 sometimes with a greenish tinge and a bright green mouth.
 
-![](oulastrea/120407lazd8127m3.jpg)  
-*Lazarus, Apr 12*![](oulastrea/120407lazd8127m3b.jpg)
 
-![](oulastrea/120123hntd5465m3.jpg)  
-*Pulau Hantu, Jan 12*![](oulastrea/120123hntd5465m3a.jpg)
 
-![](oulastrea/120123hntd5640m3.jpg)  
-*Pulau Hantu, Jan 12*![](oulastrea/120123hntd5640m3a.jpg)
 
   
 
 ---
 
-![](oulastrea/110812prpd8599m3.jpg)  
-*Pasir Ris, Aug 11*![](oulastrea/110812prpd8599m3a.jpg)
 
-![](oulastrea/060516chgd2001m3.jpg)  
-*Changi, May 06*![](oulastrea/060516chgd2001m3a.jpg)
 
-![](oulastrea/080525ubnd4244m3.jpg)  
-*Pulau Ubin, Jun 08*![](oulastrea/080525ubnd4244m3b.jpg)
 
 ---
 
-![](oulastrea/050821bbg2001m3.jpg)  
-*Beting Bronok, Aug 05*
 
-![](oulastrea/050821bbg2001m3a.jpg)
 
-![](oulastrea/050821bbg2001m3b.jpg)
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -123,31 +187,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](oulastrea/160124smkemn2.jpg)  
-*Pulau Semakau East, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660&type=3&pnref=story).
 
 ---
 
-![](oulastrea/100130brkd8717m3.jpg)  
-*Terumbu Berkas, Jan 10*![](oulastrea/100130brkd8717m3b.jpg)
 
-![](oulastrea/091204pawd5282m3.jpg)  
-*Pulau Pawai, Dec 09*![](oulastrea/091204pawd5282m3b.jpg)
 
-![](oulastrea/091231biojk10m3.jpg)  
-*Pulau Biola, Dec 09*![](oulastrea/091231biojk10m3a.jpg)  
-Photo shared by Jamed Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4230876583/in/set-72157622842029671/).
 
 ---
 
-![](oulastrea/100811slud0117m3.jpg)  
-*Pulau Salu, Aug 10*
 
-![](oulastrea/100811slud0117m3a.jpg)
 
-![](oulastrea/100601slud4934m3.jpg)  
-*Pulau Salu, Jun 10*
 
 ---
 

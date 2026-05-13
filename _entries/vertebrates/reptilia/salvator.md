@@ -2,7 +2,7 @@
 title: Malayan water monitor
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "malayan, water, monitor, varanus, salvator, varanidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Varanidae
 genus: Varanus
 species: salvator
@@ -18,6 +18,40 @@ suborder: Sauria
 infraorder: Anguimorpha
 subgenus: Soterosaurus
 updated: Apr 2018
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg"
+  caption: |
+    <p>Nostrils at the tip of a slender snout.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3a.jpg"
+  caption: |
+    <p>Small non-overlapping scales.</p>
+    <p>Bands of yellow spots on juveniles that fade in adults.</p>
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6908m3.jpg"
+  caption: |
+    <p>Long blue forked tongue!</p>
+    <p>Pasir Ris Park, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120503admd0764m6l.jpg"
+  caption: |
+    <p>To swim, it holds its limbs against its body and propels itself with its tail.</p>
+    <p>Admiralty Park, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7937m6l.jpg"
+  caption: |
+    <p>Rival males wrestling.</p>
+    <p>Pasir Ris Park, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120330prpd7933m3.jpg"
+  caption: |
+    <p>The aim is to topple your rival onto the ground.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6936m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6941m3.jpg"
+  caption: |
+    <p>Digging deep in a muddy hole.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/120215prpd6947m3.jpg"
+  caption: |
+    <p>The lizard can hold its breath for a long time!</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/salvator/090905sbwrd0298m3c.jpg"
 ---
 
 
@@ -74,43 +108,21 @@ monitors hugging one another, they are not mating! They are actually
 a pair of males wrestling one another. The one that pushes the other
 onto the ground wins.
 
-*![](salvator/090905sbwrd0298m3c.jpg)*Nostrils at
-the tip of a slender snout.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](salvator/090905sbwrd0298m3a.jpg)*Small
-non-overlapping scales. Bands of   
-yellow spots on juveniles that fade in adults.   
-*Sungei
-Buloh Wetland Reserve, Sep 09*
 
-*![](salvator/120215prpd6908m3.jpg)*Long blue forked
-tongue! *Pasir Ris Park, Feb 12*
 
 ---
 
-*![](salvator/120503admd0764m6l.jpg)*To
-swim, it holds its limbs against its body and propels itself with
-its tail. *Admiralty Park, May 12*
 
 ---
 
-*![](salvator/120330prpd7937m6l.jpg)*Rival
-males wrestling. *Pasir Ris Park, Mar 13*
 
-![](salvator/120330prpd7933m3.jpg)  
-The aim is to topple  
-your rival onto the ground.
 
 ---
 
-*![](salvator/120215prpd6936m3.jpg)*  
-*Pasir Ris Park, Feb 12*
 
-*![](salvator/120215prpd6941m3.jpg)*  
-Digging deep in a muddy hole.
 
-![](salvator/120215prpd6947m3.jpg)  
-The lizard can hold its breath for a long time!
 
 ---
 
@@ -173,5 +185,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Photographic Guide to Snakes and Other Reptiles of Thailand, Peninsular
   Malaysia and Singapore*
   New Holland.
-
-

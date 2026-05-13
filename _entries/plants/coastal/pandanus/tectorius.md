@@ -2,7 +2,7 @@
 title: "Mengkuang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pandan, pandanus, tectorius, pandanaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [8, 18, 20, 21, 36, 82]
 family: Pandanaceae
 genus: Pandanus
@@ -15,6 +15,43 @@ class: Liliopsida
 order: Pandanales
 inat_id: 70026
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg"
+  caption: |
+    <p>Can grow into a tall tree!</p>
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/051018smkg2732m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkg9558m3.jpg"
+  caption: |
+    <p>Compound fruit that resembles a pineapple.</p>
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg"
+  caption: |
+    <p>Female flower a green gloobular cone.</p>
+    <p>Lazarus, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3a.jpg"
+  caption: |
+    <p>Male flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg"
+  caption: |
+    <p>Male flowers tiny white in a long cone.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Singapore University Press.</p>
+    <p>215 pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -102,25 +139,11 @@ The sweet smelling male flowers are used by women in their hair or
 to prepare scented oils. Medicinal uses include using the young leaves
 as an antidote for poisoning.  
 
-*![](tectorius/070520smkd1228m6.jpg)*Can
-grow into a tall tree!  
-*Pulau Semakau, May 07*  
-![](tectorius/051018smkg2732m3.jpg)  
-*Pulau Semakau, Oct 05  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](tectorius/070520smkg9558m3.jpg)*Compound
-fruit that resembles a pineapple. *Pulau Semakau, May 07*
 
-*![](tectorius/120407lazd8215m3.jpg)*  
-Female flower
-a green gloobular cone. *Lazarus, Apr 12*
 
-*![](tectorius/090315smkd8276m3a.jpg)*Male
-flowers.
 
-*![](tectorius/090315smkd8276m3.jpg)  
-Male flowers
-tiny white in a long cone. *Pulau Semakau, Mar 09**
 
 ---
 
@@ -155,13 +178,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan.1998, *[The
-  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Singapore University Press. 215 pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

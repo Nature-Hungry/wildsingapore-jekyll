@@ -2,7 +2,7 @@
 title: Orbicular cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orbicular, cardinalfish, cardinal, fish,sphaeramia, apogon, orbicularis, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Apogonidae
 genus: Sphaeramia
@@ -18,6 +18,35 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/190520hntlks1.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157209326248158&set=a.10157209325888158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/090510sntik3m3.jpg"
+  caption: |
+    <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/250714srptl1.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/240623hntlks7.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Periplus Editions.</p>
+    <p>292 pp.</p>
+    <p>- Lieske, Ewald and Robert Myers.</p>
+    <p>2001.</p>
+    <p>Coral</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Periplus Editions.</p>
+    <p>400pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,12 +87,8 @@ over 11cm, those seen usually about 6cm. Body rounded with fins that are all rou
 brown bar across the middle from the start of the spiny
 dorsal fin to just in front of the anus. Dark round spots on
 the back half of the body. Pectoral fins colourfully marked in a yellow-brown pattern. Seen alone or in small groups.
-![](orbicularis/040830hntd5831m3.jpg)  
-*Pulau Hantu,
-Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](orbicularis/190520hntlks1.jpg)  
-*Pulau Hantu, May 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157209326248158&set=a.10157209325888158&type=3&theater).
 
 **Cardinal babies:** As with
 many other cardinalfishes, the male incubates the eggs. According
@@ -98,14 +123,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](orbicularis/090510sntik3m3.jpg)  
-*Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
-![](orbicularis/250714srptl1.jpg)  
- *Sentosa Serapong, Jul 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post).
-![](orbicularis/240623hntlks7.jpg)*Pulau Hantu, Jun 24*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158).
 
 ---
 
@@ -124,12 +142,6 @@ Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity
 
 - Allen, Gerry,
   2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Periplus Editions. 292 pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Periplus Editions. 400pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -2,7 +2,7 @@
 title: Mexican  green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,31 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
+  caption: |
+    <p>In small clumps on rocky areas.</p>
+    <p>St John's Island, Sep 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg"
+  caption: |
+    <p>Mid-rib width wider or the same as the length of side 'branches'.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100130brkd8613m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3c.jpg"
+  caption: |
+    <p>Side branches with rounded or bluntly pointed tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100812tpld0348m3b.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/100810sngd9926m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,17 +89,11 @@ Here's more on [how to tell apart different
 feathery green seaweeds](cffeathery) and how to tell apart [feathery
 green seaweeds and seagrasses](../../../glossary/seagrassweed).
 
-*![](mexicana/040901sjid6072m3.jpg)*In small clumps on rocky areas. *St John's Island, Sep 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mexicana/040901sjid6072m3b.jpg)*Mid-rib width wider or the same  
-as the length of side 'branches'.  *Chek Jawa, Aug 07*
 
-*![](mexicana/100130brkd8613m3.jpg)* *Terumbu Berkas, Jan 10*
 
-*![](mexicana/100812tpld0348m3c.jpg)*Side branches with rounded or  
-bluntly pointed tips.
 
-*![](mexicana/100812tpld0348m3b.jpg)**Terumbu Pempang Laut, Aug 10*
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.   
@@ -98,7 +117,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](mexicana/100810sngd9926m3.jpg)* *Pulau Senang, Aug 10![](mexicana/100810sngd9926m3a.jpg)*
 
 ---
 

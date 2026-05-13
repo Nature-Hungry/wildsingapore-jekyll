@@ -2,7 +2,7 @@
 title: Ocher-striped  flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, rubrotentaculatus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
 species: rubrotentaculatus
@@ -15,6 +15,38 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg"
+  caption: |
+    <p>Big Sisters Island, Jan 20Photo shared by Rene Ong on <a href="https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895468437179502/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/200126bsisro1a.jpg"
+  caption: |
+    <p>Pseudotentacles with orange tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/201115tkkjll1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157865071281295&set=a.10157865069206295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/170113tkrrk.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 17Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10154783552542906.1073741879.563787905&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/220202bsistch1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159974402798713&set=a.10159974437553713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/240113lazlks1.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161152157703158&set=a.10161152169768158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/250201bsisjll1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10161140631406295&set=a.10161140636471295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/150718smketch1m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/240512jngtl1.jpg"
+  caption: |
+    <p>Pulau Jong, May 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161225293199264&set=a.10161225199689264">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/200126bsisro1.jpg"
 ---
 
 
@@ -41,16 +73,9 @@ of the body, with orange tips.
   
 **Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped).
 
-![](rubrotentaculatus/200126bsisro1.jpg)  
-*Big Sisters Island,
-Jan 20*Photo shared by Rene Ong on [facebook](https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895468437179502/?type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rubrotentaculatus/200126bsisro1a.jpg)  
-Pseudotentacles with orange tips.
 
-![](rubrotentaculatus/060101sisg3571m3.jpg)  
-*Sisters Island,
-Jan 06*
 
   
 *\***Species are difficult to positively identify without close
@@ -75,30 +100,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](rubrotentaculatus/201115tkkjll1.jpg)  
- *Pulau Tekukor, Nov 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157865071281295&set=a.10157865069206295).
 
-![](rubrotentaculatus/170113tkrrk.jpg)  
- *Pulau Tekukor, Jan 17*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10154783552542906.1073741879.563787905&type=3).
 
-![](rubrotentaculatus/220202bsistch1.jpg)  
- *Big Sisters Island, Feb 22*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159974402798713&set=a.10159974437553713).
 
 ---
 
-![](rubrotentaculatus/240113lazlks1.jpg)  
- *Lazarus Island, Jan 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161152157703158&set=a.10161152169768158).
 
-![](rubrotentaculatus/250201bsisjll1.jpg)  
- *Big Sisters Island, Feb 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10161140631406295&set=a.10161140636471295).
 
-![](rubrotentaculatus/150718smketch1m3.jpg)  
- *Pulau Semakau East, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3).
 
 ---
 
-![](rubrotentaculatus/240512jngtl1.jpg)  
- *Pulau Jong, May 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161225293199264&set=a.10161225199689264).
 
 ---
 
@@ -123,5 +134,3 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 - Kuiter, Rudie
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-
-

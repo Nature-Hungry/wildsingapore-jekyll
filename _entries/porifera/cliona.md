@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,"
-layout: default
+layout: entry
 shape: encrusting
 title: Sucker sponge
 family: Clionaidae
@@ -16,6 +16,26 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240100.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg"
+  caption: |
+    <p>Pulau Semakau (East),</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3a.jpg"
+  caption: |
+    <p>Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5861316423/in/album-72157607751329669/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg"
 ---
 
 
@@ -35,16 +55,9 @@ seen?** Looking like a sprinkle of orange coins, this sponge is sometimes seen o
  **Features:** Most of this burrowing sponge is hidden. The sponge can bore holes in calcium carbonate skeletons, snail shells to make a home where they live. What is seen on the outside are small sucker-like disks (0.2-1cm).  
   
 *Cliona* *utricularis* are bright reddish orange. Other *Cliona* species may be yellow.
-![](cliona/160424smkno4240098.jpg)  
-*Pulau Semakau* *(North), Apr 16![](cliona/160424smkno4240100.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cliona/260629smkeal3.jpg)  
-*Pulau Semakau* *(East),
-Jun 25![](cliona/260629smkeal3a.jpg)*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post).
 
-![](cliona/110620smklks.JPG)  
-*Pulau Semakau**,
-Jun 11![](cliona/110620smklks2.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5861316423/in/album-72157607751329669/).
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience

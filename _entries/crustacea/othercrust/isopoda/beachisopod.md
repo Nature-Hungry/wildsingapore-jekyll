@@ -2,7 +2,7 @@
 title: Marine isopods
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: ""
@@ -11,6 +11,47 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg"
+  caption: |
+    <p>Some unidentified beach isopods swarming over rotting fruit.</p>
+    <p>East Coast, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg"
+  caption: |
+    <p>Fish isopod.</p>
+    <p>Chek Jawa, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg"
+  caption: |
+    <p>Fish isopod.</p>
+    <p>Terumbu Pempang Tengah, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m3a.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg"
+  caption: |
+    <p>12 Oct, photo from <a href="https://www.facebook.com/rafflesmuseum/photos/a.177299485654641/460209304030323/?type=3&theater">Raffles Museum of Biodiversity Research</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2946766671/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -52,10 +93,8 @@ are terrestrial (these are usually called wood lice or pill bugs).
 Most marine isopods are tiny (5-15mm long). But one deep sea isopod *Bathynomus giganteus* can grow to 40cm long! Many may be parasites
 on other marine creatures.
 
-*![](isopoda/090820ecpd9495m3.jpg)*Some unidentified beach isopods  
-swarming over rotting fruit. *East Coast, Aug 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](isopoda/090820ecpd9495m3a.jpg)*
 
 **Features:** 1cm or less.
 Their segmented body is flattened downwards (instead of sideways for
@@ -70,24 +109,16 @@ At low tide, they swarm over the beach looking for the recent dead.
 Some isopods found in the mangroves nibble holes in dead wood and
 can cause much damage to wooden man-made structures.
 
-*![](isopoda/110123sisd5267m3.jpg)* *Sisters Island, Jan 11*
 
-*![](isopoda/110123sisd5273m3.jpg)* *Sisters Island, Jan 11*
 
-*![](isopoda/110715cyrd6725m3.jpg)* *Cyrene Reef, Jul 11*
 
 **Blood-sucking isopods:** Some isopods are parasites of fishes. These usually have specialised piercing mouthparts for sucking blood and terminal hooks on their limbs for clamping onto their fish host. Some parasitic isopods attach to the gills of shrimps, feeding on the blood.
 
-*![](isopoda/130721cjd9586m6l.jpg)*Fish isopod. *Chek Jawa, Aug 13*
 
-*![](isopoda/130721cjd9586m3.jpg)* *Chek Jawa, Aug 13![](isopoda/130721cjd9586m3a.jpg)*
 
-*![](isopoda/130427tptd5711m6.jpg)*Fish isopod. *![](isopoda/130427tptd5711m3a.jpg)  
-Terumbu Pempang Tengah, Apr 13*
 
 **'Tongue-biter' isopods:** Some isopods replace the tongue of a fish! From the [Raffles Museum of Biodiversity Research](https://www.facebook.com/rafflesmuseum/photos/a.177299485654641/460209304030323/?type=3&theater) "a parasitic isopod living within the mouth of the spotted scat. It has eaten away the scat's tongue (!) and has lodged itself in the tongue's place. No one really knows what the isopod/tongue lives off. Some studies suggest that they feed off the animals the fish eats; other studies suggest that are blood drinking mouth leeches within the fish."
 
-*![](isopoda/121029rmbr1.jpg)*12 Oct, photo from [Raffles Museum of Biodiversity Research](https://www.facebook.com/rafflesmuseum/photos/a.177299485654641/460209304030323/?type=3&theater)
 
 ---
 
@@ -106,8 +137,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](isopoda/081016cyrmn.jpg)  
-Cyrene Reef, Aug 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/2946766671/).
 
 ---
 

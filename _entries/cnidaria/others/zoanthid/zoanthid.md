@@ -2,7 +2,7 @@
 title: Zoanthids
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "colonial, anemone, zoanthid, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Zoanthidae
 genus: ""
 species: ""
@@ -16,6 +16,52 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg"
+  caption: |
+    <p>Two kinds of zoanthids Pulau Hantu, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/070518tkrg9365m3.jpg"
+  caption: |
+    <p>Two kinds of zoanthids Pulau Tekukor, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100711cyrd8239m3a.jpg"
+  caption: |
+    <p>Body column with oral disk edged with short tentacles.</p>
+    <p>Cyrene Reef, Jul 10 Zoanthids may have three different living arrangements.</p>
+    <p>Each zoanthid polyp may be solitary but located near one another.</p>
+    <p>These polyps are large with thick, fleshy polyps on tall columns.</p>
+    <p>Or the zoanthid polyps are joined to one another by stolons (tube-like structures that spread across the ground like a root or runner).</p>
+    <p>Or the zoanthid polyps may be embedded in a common mat of tissue.</p>
+    <p>The tissue may be strengthened by incorporating sand.</p>
+    <p>The colony may form mats on the sand or encrust rocky areas.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg"
+  caption: |
+    <p>Sometimes packed so tightly that they are mistaken for hard corals.</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg"
+  caption: |
+    <p>At low tide with their tentacles retracted they look like a clump of sausages.</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg"
+  caption: |
+    <p>Sea mat zoanthids have polyps too, embedded in a shared tissue.</p>
+    <p>Kusu Island, Oct 04 Pretty Toxic : Although they look harmlessly pretty, some zoanthids contain powerful toxins to protect themselves against predators.</p>
+    <p>The most toxic marine poison, palytoxin, was discovered in a zoanthid.</p>
+    <p>Minute quantities of palytoxin can paralyse and even kill.</p>
+    <p>So don't handle zoanthids with open wounds on your hand or touch your mouth or eyes after handling them.</p>
+    <p>It is believed that the toxins are not produced by the animal but by bacteria that live in symbiosis with the polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg"
+  caption: |
+    <p><a href="tuberculosa">Sea mat zoanthids</a> (Palythoa tuberculosa) Polyps embedded in a shared mat of tissue.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg"
+  caption: |
+    <p><a href="mutuki">Broad zoanthids</a> (Palythoa mutuki) Polyps with broad oral disk and long body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg"
+  caption: |
+    <p><a href="zoanthus">Button zoanthids</a> (Zoanthus sp.) Polyps with small oral disk and long body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/100130brkd8486m3a.jpg"
+  caption: |
+    <p><a href="pink">Pink button zoanthids</a> (Zoanthus vietnamensis) Polyps with pink edges at the top of the body column, more obvious in retracted polyp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/various/050312hntg3349m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -77,22 +123,7 @@ close to one another. The oral disk is often in a contrasting, bright
 colour from the usually brown or drab tentacles. When exposed at low
 tide, however, the animal retracts its tentacles into its body column
 and then looks like a strange blob of jelly.
-![](various/050312hntg3349m3a.jpg)  
-Two kinds of zoanthids  
-*Pulau Hantu, Mar 05*
-![](various/070518tkrg9365m3.jpg)  
-Two kinds of zoanthids  
-*Pulau Tekukor, May 07*
-*![](mutuki/100711cyrd8239m3a.jpg)**Body column with oral disk edged with short tentacles.  
-Cyrene Reef, Jul 10*
-Zoanthids may have three different living arrangements. Each zoanthid
-polyp may be solitary but located near one another. These polyps are
-large with thick, fleshy polyps on tall columns. Or the zoanthid polyps
-are joined to one another by stolons (tube-like structures that spread
-across the ground like a root or runner). Or the zoanthid polyps may
-be embedded in a common mat of tissue. The tissue may be strengthened
-by incorporating sand. The colony may form mats on the sand or encrust
-rocky areas.  
+{% include img-wrap-group.html items=page.page_images %}
   
 The shape of the same zoanthid species may vary depending on where
 they are found. Those inhabiting areas with strong waves tend to be
@@ -105,23 +136,6 @@ to tell apart blob-like animals](../../../glossary/blobs). They are also sometim
 with [sea anemones](../../actiniaria/actiniaria). Here's
 more on [how to tell apart animals
 with a ring of smooth tentacles.](../../cfringtentacles)
-*![](zoanthus/050526cj6886m3.jpg)*Sometimes packed so tightly that  
-they are mistaken for hard corals*.  
-Chek Jawa, May 05*
-*![](mutuki/050822cjd5877m3.jpg)*At low tide with their tentacles retracted  
-they look like a clump of sausages. *Chek Jawa, Aug 05*
-*![](tuberculosa/100613sngd5448m3.jpg)*Sea mat zoanthids have polyps too,  
-embedded in a shared tissue. *Kusu Island, Oct 04* 
-**Pretty
-Toxic :** Although
-they look harmlessly pretty, some zoanthids contain powerful
-toxins to protect themselves against predators. The most
-toxic marine poison, palytoxin, was discovered in a zoanthid.
-Minute quantities of palytoxin can paralyse and even kill.
-So don't handle zoanthids with open wounds on your hand
-or touch your mouth or eyes after handling them. It is
-believed that the toxins are not produced by the animal
-but by bacteria that live in symbiosis with the polyps.   
   
 **How to stay safe:** Wear covered shoes and long pants to cover all skin exposed
 to water. Do not touch zoanthids.
@@ -160,31 +174,11 @@ on Singapore shores**
 
 ---
 
-*![](tuberculosa/091204pawd5265m3a.jpg)*  
-[**Sea mat zoanthids**](tuberculosa)  
-(*Palythoa tuberculosa*)  
-Polyps embedded in   
-a shared mat of tissue.
 
-![](mutuki/050708labg9179m3.jpg)  
-[**Broad zoanthids**](mutuki)   
-(*Palythoa mutuki*)  
-Polyps with broad oral disk   
-and long body column.
 
 ---
 
-*![](zoanthus/040804skdd4111m3b.jpg)*  
-[**Button zoanthids**](zoanthus)  
-(*Zoanthus* sp.)  
-Polyps with small oral disk  
-and long body column.
 
-![](pink/100130brkd8486m3a.jpg)  
-[**Pink button zoanthids**](pink)  
-(*Zoanthus vietnamensis*)  
-Polyps with pink edges at the top of the body column, more obvious
-in retracted polyp.
 
 ---
 

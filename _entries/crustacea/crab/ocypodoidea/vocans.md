@@ -2,7 +2,7 @@
 title: Orange fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, fiddler, crab, uca, gelasimus, vocans, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106, 112]
 family: Ocypodidae
 genus: Gelasimus
@@ -25,6 +25,62 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg"
+  caption: |
+    <p>Pincer outside, pimply with triangular depression, fingers flattened, sword-like.</p>
+    <p>Pulau Hantu, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg"
+  caption: |
+    <p>Horizongal ridge of bumps on the inside of the pincer.</p>
+    <p>Pulau Ubin, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7962m3.jpg"
+  caption: |
+    <p>From the back.</p>
+    <p>Chek Jawa, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg"
+  caption: |
+    <p>Female (top) and male (bottom).</p>
+    <p>Pasir Ris, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4404m3.jpg"
+  caption: |
+    <p>Females have two small pincers Pulau Ubin, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/020211cjcpd6665m3.jpg"
+  caption: |
+    <p>Pincer colours may vary.</p>
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Feb 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4423m3.jpg"
+  caption: |
+    <p>Different coloured backs.</p>
+    <p>Pulau Ubin, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4421m3.jpg"
+  caption: |
+    <p>Males may be 'right' or 'left' handed.</p>
+    <p>Pulau Ubin, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/110327cjd7939m3.jpg"
+  caption: |
+    <p>Tussel over a female?</p>
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/070505kusg9113.jpg"
+  caption: |
+    <p>Mating?</p>
+    <p>Kusu Island, May 07</p>
+- url: "https://live.staticflickr.com/31337/49639587372_eec44422b2_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/49639587372/ "Orange fiddler crab (Gelasimus vocans)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/201019sjivc2.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158021783207945&set=a.10158021785797945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/250909lazal1.jpg"
+  caption: |
+    <p>Seringat Kias mangrove lagoon, Sep 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10162112840238693">facebook</a>.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -35,7 +91,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -81,46 +137,25 @@ Their burrows can be half a metre deep!
 **Sometimes mistaken for** the [Porcelain
 fiddler crab](annulipes) (*Uca annulipes*). More on [how
 to tell apart the fiddler crabs commonly seen](cflongeyedcrabs) on our shores.
-*![](uca/vocans/090510hntd1140m3.jpg)*Pincer
-outside, pimply with triangular depression,
-fingers flattened, sword-like. *Pulau Hantu, May 09*
-*![](uca/vocans/080525ubnd4405m3a.jpg)*Horizongal
-ridge of bumps  
-on the inside of the pincer. *Pulau Ubin, May 08*
  
 
 ---
 
-*![](uca/vocans/041031cjd7962m3.jpg)*From the back. *Chek Jawa, Oct 04*
 
-*![](uca/vocans/090611prpd3944m3.jpg)*Female (top) and male (bottom). *Pasir Ris, Jun 09*
 
-*![](uca/vocans/080525ubnd4404m3.jpg)*Females have two small pincers *Pulau Ubin, May 08*
 
 ---
 
-*![](uca/vocans/020211cjcpd6665m3.jpg)*Pincer colours may vary. *Chek Jawa, Feb 02*
 
-*![](uca/vocans/040108ubid0090m3.jpg)  
-Pulau Ubin, Feb 05*
 
-*![](uca/vocans/080525ubnd4423m3.jpg)*Different coloured backs. *Pulau Ubin, May 08*
 
 ---
 
-*![](uca/vocans/080525ubnd4421m3.jpg)*Males
-may be 'right' or 'left' handed. *Pulau Ubin, May 08*
 
-![](uca/vocans/110327cjd7939m3.jpg)  
-Tussel over a female? *Chek Jawa, Mar 11*
 
-![](uca/vocans/070505kusg9113.jpg)  
-Mating?
- *Kusu Island, May 07*
 
 ---
 
-[![Orange fiddler crab (Gelasimus vocans)](https://live.staticflickr.com/31337/49639587372_eec44422b2_z.jpg)](https://www.flickr.com/photos/wildsingapore/49639587372/ "Orange fiddler crab (Gelasimus vocans)")
 
 ---
 
@@ -139,12 +174,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](uca/vocans/201019sjivc2.jpg)  
-St John's Island, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158021783207945&set=a.10158021785797945).
 
 ---
 
-*![](uca/vocans/250909lazal1.jpg)**Seringat Kias mangrove lagoon, Sep 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?vanity=nekomun&set=a.10162112840238693).
 
 ---
 

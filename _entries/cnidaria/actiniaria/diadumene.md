@@ -2,7 +2,7 @@
 title: Lined bead anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, bead, anemone, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: Diadumenidae
 genus: Diadumene
@@ -17,6 +17,38 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4560m3.jpg"
+  caption: |
+    <p>Punggol, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4560m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4564m3.jpg"
+  caption: |
+    <p>Punggol, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/110620pgld4564m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/201118pglvc1.jpg"
+  caption: |
+    <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086358557945&set=a.10158086509267945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/160125obsmn11.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/090721skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3741181945/in/album-72157621755591436/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/130312lsislks.JPG"
+  caption: |
+    <p>Little Sisters Island, Mar 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6829487302/in/album-72157607725632221/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/diadumene/070718cjg1646m3a.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -64,16 +96,9 @@ the base and by dividing into two.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-*![](diadumene/070718cjg1646m3a.jpg)  
-Chek Jawa, Jul 07 ![](diadumene/070718cjg1646m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](diadumene/110620pgld4560m3.jpg)*  
-*Punggol, Jun 11  
-![](diadumene/110620pgld4560m3a.jpg)*
 
-*![](diadumene/110620pgld4564m3.jpg)*  
-*Punggol, Jun 11  
-![](diadumene/110620pgld4564m3a.jpg)*
 
   
  *\*Species are difficult to positively identify without close examination.   
@@ -97,19 +122,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](diadumene/201118pglvc1.jpg)  
-Punggol, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158086358557945&set=a.10158086509267945).
 
 ---
 
-*![](diadumene/160125obsmn11.jpg)  
-Pulau Ubin OBS, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153386204128660.1073741893.624178659&type=3).
 
-*![](diadumene/090721skdmn.jpg)  
-Pulau Sekudu, Jul 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3741181945/in/album-72157621755591436/).
 
-*![](diadumene/130312lsislks.JPG)  
-Little Sisters Island, Mar 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6829487302/in/album-72157607725632221/).
 
 ---
 

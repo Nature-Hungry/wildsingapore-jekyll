@@ -2,7 +2,7 @@
 title: Rosy fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106, 112]
 family: Ocypodidae
 genus: Tubuca
@@ -25,6 +25,35 @@ superfamily: Ocypodoidea
 subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg"
+  caption: |
+    <p>Sungei Buloh, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg"
+  caption: |
+    <p>Sungei Buloh, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 02</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -35,7 +64,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -76,33 +105,17 @@ to bright red, walking legs short black.
 crab is listed as 'Endangered' in the Red List of threatened animals
 of Singapore.
 
-*![](uca/rosea/090905sbwrd0144m3.jpg)  
-Sungei Buloh, Sep 09*
 
-*![](uca/rosea/090905sbwrd0144m3a.jpg)  
-Sungei Buloh, Sep 09*
 
 ---
 
-*![](uca/rosea/100411prpd1064m3.jpg)  
-Pasir Ris Park, Apr 10*
 
-*![](uca/rosea/120317prpnhcd7762m3.jpg)  
-Pasir Ris Park, Mar 12*
 
-*![](uca/rosea/091226cjd6256m3.jpg)  
-Chek Jawa, Dec 09*
 
 ---
 
-*![](uca/rosea/100411prpd1058m3.jpg)  
-Pasir Ris Park, Apr 10*
 
-*![](uca/rosea/100411prpd1060m3.jpg)  
-Pasir Ris Park, Apr 10*
 
-*![](uca/rosea/021008cjd6155m3.jpg)  
-Chek Jawa, Oct 02*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of

@@ -2,7 +2,7 @@
 title: Cotton stainer bugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cotton, stainer, bug, dysdercus, decussatus, pyrrhocoridae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Pyrrhocoridae
 genus: Dysdercus
 species: decussatus
@@ -19,6 +19,38 @@ suborder: Heteroptera
 infraorder: Pentatomomorpha
 superfamily: Pyrrhocoroidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg"
+  caption: |
+    <p>An adult Bug.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/110109ubnd4899m3.jpg"
+  caption: |
+    <p>Some adults have a black head.</p>
+    <p>Pulau Ubin, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090425prpd0345m3.jpg"
+  caption: |
+    <p>Adult Bugs are often found in large numbers under Sea hibiscus leaves.</p>
+    <p>Pasir Ris, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg"
+  caption: |
+    <p>Juvenile feeding on <a href="../plants/coastal/hibiscus/tiliaceus.htm">Sea hibiscus</a> seeds.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/080609ubnod5558m3a.jpg"
+  caption: |
+    <p>Juveniles on a <a href="../plants/coastal/thespesia/populnea.htm">Portia tree</a>.</p>
+    <p>Pulau Ubin, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151010blymn.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/22121114895/in/photolist-AxuYQr-zGLuLF-6KWB4r-98Mgtq-4zNxAs-4zJhEX-4zNxvb">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/151117labmn.jpg"
+  caption: |
+    <p>Labrador, Nov 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/22672595817/in/photolist-AxuYQr-zGLuLF-6KWB4r-98Mgtq-4zNxAs-4zJhEX-4zNxvb/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/191127lazmn3.jpg"
+  caption: |
+    <p>A mating pair.</p>
+    <p>Seringat-Kias, Nov 2019Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156844575433660&set=a.10156844574398660&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2477m3.jpg"
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
@@ -47,13 +79,9 @@ The adult has a red or black head with distinctive yellow cross on
 black wing cases with red bodies and black legs. The juveniles are
 all red, wingless with black legs and a black head.
 
-*![](dysdercus/081206smkd2477m3.jpg)*An adult Bug. *Pulau Semakau, Dec 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](dysdercus/110109ubnd4899m3.jpg)*Some adults have a black head. *Pulau Ubin, Jan 11*
 
-*![](dysdercus/090425prpd0345m3.jpg)*Adult Bugs are often found in large numbers   
-under Sea hibiscus leaves.   
-*Pasir Ris, Apr 09*
 
 The bugs tend to form groups, which help them find mates. The small,
 pale eggs are laid singly on the food plant or dropped on the ground
@@ -72,14 +100,8 @@ at the site. The feeding habit also damages the fibres by cutting
 them, and affects the growth of the cotton boll. Some species also
 damage other agricultural crops such as peaches.
 
-*![](dysdercus/081206smkd2478m3.jpg)*Juvenile feeding
-on [Sea hibiscus](../plants/coastal/hibiscus/tiliaceus.htm) seeds. *Pulau Semakau, Dec 08*
 
-*![](dysdercus/080609ubnod5558m3a.jpg)*Juveniles on a [Portia
-tree](../plants/coastal/thespesia/populnea.htm). *Pulau Ubin, Jun 08*
 
-*![](dysdercus/151010blymn.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/22121114895/in/photolist-AxuYQr-zGLuLF-6KWB4r-98Mgtq-4zNxAs-4zJhEX-4zNxvb).
 
 ---
 
@@ -98,10 +120,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](dysdercus/151117labmn.jpg)  
-Labrador, Nov 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/22672595817/in/photolist-AxuYQr-zGLuLF-6KWB4r-98Mgtq-4zNxAs-4zJhEX-4zNxvb/).
 
-*![](dysdercus/191127lazmn3.jpg)*A mating pair. *Seringat-Kias, Nov 2019*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156844575433660&set=a.10156844574398660&type=3&theater).
 
 ---
 

@@ -2,7 +2,7 @@
 title: " Tengar merah"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 117]
 family: Rhizophoraceae
 genus: Ceriops
@@ -15,6 +15,37 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 190476
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg"
+  caption: |
+    <p>Sometimes with stilt roots.</p>
+    <p>Pulau Ubin, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg"
+  caption: |
+    <p>Leaves oval.</p>
+    <p>Pulau Ubin, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg"
+  caption: |
+    <p>Flowers small,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg"
+  caption: |
+    <p>White petals with frilly edges.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg"
+  caption: |
+    <p>Brown 'fruit'</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090301prpd7368m3.jpg"
+  caption: |
+    <p>Propagules point upwards and other directions.</p>
+    <p>Pasir Ris Park, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg"
+  caption: |
+    <p>Red collar on ripe propagule.Ridged propagules.</p>
+    <p>Pulau Ubin, Aug 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,29 +97,16 @@ Sometimes with stilt roots.
 **Status and threats:** It is listed
 as 'Endangered' on the Red List of threatened plants of Singapore.
 
-*![](zippeliana/110226ubnd6418M6L.jpg)*Sometimes
-with stilt roots. *Pulau Ubin, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
 `
 
-*![](zippeliana/090124ubnd6042m3.jpg)* *Pulau
-Ubin, Jan 09*
 
-*![](zippeliana/090704ubnd6338m3.jpg)*Leaves oval. *Pulau Ubin, Jul 09*
 
 ---
 
-*![](zippeliana/090124ubnd6058m3.jpg)*Flowers small,
-a few on a short stalk. *Pulau Ubin, Jan 09![](zippeliana/090124ubnd6058m3a.jpg)*White petals
-with frilly edges. *Pulau Ubin, Jan 09*
 
-*![](zippeliana/090704ubnd6338m3a.jpg)*Brown 'fruit'
-with textured surface.  *Changi Creek, Apr 09![](zippeliana/090301prpd7368m3.jpg)*Propagules
-point upwards and other directions. *Pasir Ris Park, Mar 09*
 
-*![](zippeliana/090802ubnd8163m6l.jpg)*Red
-collar on ripe propagule.Ridged
-propagules. *Pulau Ubin, Aug 09*
 
 ---
 

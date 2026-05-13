@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, green, sponge, suberites, suberitidae, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: encrusting
 title: Rainbow sponge
 family: Suberitidae
@@ -16,6 +16,38 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4949m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4949m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4964m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4964m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4919m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091203ubnd4919m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/091217sbglks.JPG"
+  caption: |
+    <p>Sembawang, Dec 09Photo shared by Loh Kok Sheng on flickr.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/200917sbwmn4.jpg"
+  caption: |
+    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157485865068660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/150705skdlks1m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153462521573158.1073741887.547198157&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/rainbow/120307mmsexs04341m6l.jpg"
 ---
 
 
@@ -44,19 +76,12 @@ sponge. It is not clear what causes the colour variation.
   
 **Spongey home:** A commensal [barnacle](../crustacea/othercrust/ciriipedia/cirripedia.htm) (*Acasta dofleini*) is reportedly sometimes seen living in this sponge.
 
-![](rainbow/120307mmsexs04341m6l.jpg)  
-*Pulau Ubin, Dec 09*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](rainbow/091203ubnd4949m3.jpg)  
-*Pulau Ubin, Dec 09*![](rainbow/091203ubnd4949m3a.jpg)
 
-![](rainbow/091203ubnd4964m3.jpg)  
-*Pulau Ubin, Dec 09*![](rainbow/091203ubnd4964m3a.jpg)
 
-![](rainbow/091203ubnd4919m3.jpg)  
-*Pulau Ubin, Dec 09*![](rainbow/091203ubnd4919m3b.jpg)
 
   
 *\*Species are difficult to positively identify without close examination.   
@@ -80,14 +105,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](rainbow/091217sbglks.JPG)  
-*Sembawang, Dec 09*Photo shared by Loh Kok Sheng on flickr.
 
-![](rainbow/200917sbwmn4.jpg)  
-*Sembawang Beach, Sep 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157485865068660&set=a.10157485864973660).
 
-![](rainbow/150705skdlks1m3.jpg)  
-*Pulau Sekudu, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153462521573158.1073741887.547198157&type=3&pnref=story).
 
 ---
 

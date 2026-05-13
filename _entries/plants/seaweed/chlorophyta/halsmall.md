@@ -2,7 +2,7 @@
 title: Small coin green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "small, coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Halimedaceae
 genus: Halimeda
@@ -15,6 +15,51 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/040718sntd2795m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050706sntg9030m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050918smkg2632m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100601slud4716m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100613sngd5432m3a.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100130brkd8519m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/110619tslgd4431m3.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/100629pdrd7422m3b.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/151001blylks5m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -71,9 +116,7 @@ are used as fertilizers to recondition acidic soils. They are also
 used as animal feed and reportedly have anti-bacterial and anti-fungal
 properties.
 
-![](halsmall/060527sjid2273m3.jpg)  
-*St. John's Island, May 06   
-![](halsmall/060527sjid2273m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -82,20 +125,8 @@ coin green seaweeds on Singapore shores**
 
 ---
 
-![](halsmall/040718sntd2795m3.jpg)  
-*Sentosa, Jul
-04  
-![](halsmall/040718sntd2795m3a.jpg)*
 
-![](halsmall/050706sntg9030m3.jpg)  
-*Sentosa, Jul
-05  
-![](halsmall/050706sntg9030m3b.jpg)*
 
-![](halsmall/050918smkg2632m3.jpg)  
-*Pulau Semakau,
-Sep 05  
-![](halsmall/050918smkg2632m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.  
@@ -121,25 +152,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](halsmall/100601slud4716m3.jpg)  
-*Pulau Salu, Jun 10*
 
-![](halsmall/100613sngd5432m3a.jpg)  
-*Pulau Senang, Jun 10*
 
-![](halsmall/100130brkd8519m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 
-![](halsmall/110619tslgd4431m3.jpg)  
-*Terumbu Selegie, Jun 11*
 
-![](halsmall/100629pdrd7422m3b.jpg)  
-*Terumbu Pempang Darat, Jun 10*
 
-![](halbig/151001blylks5m3.jpg)  
-*Berlayar Creek, Oct 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story).
 
 ---
 

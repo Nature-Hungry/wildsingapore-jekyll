@@ -2,7 +2,7 @@
 title: Watering pot shell
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "waterspout, watering, pot, shell,  clam, verpa, brechites, penis, clavagellidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Clavagellidae
 genus: Verpa
 species: penis
@@ -18,6 +18,56 @@ subterclass: Euheterodonta
 superorder: Anomalodesmata
 superfamily: Clavagelloidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg"
+  caption: |
+    <p>Tiny oval shapes are the remains of the two-part shell of this bivalve.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m6l.jpg"
+  caption: |
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgjk3m3.jpg"
+  caption: |
+    <p>How it is normally buried.Changi, May 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/05/110520-changi-beach.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110803chgd8474m3.jpg"
+  caption: |
+    <p>Changi, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110803chgd8476m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/100516skdlks1m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/100516skdlks1m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/froggy-sekudu-2010.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg"
+  caption: |
+    <p>Changi Carpark 7, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160711618843158&set=a.10160711621108158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160325259402906&set=a.10160325251447906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230605chg7lks5.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163664353053158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/140616bbmn2m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/191214cjll1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 19Photo shared by Liz Lim on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153868717933158.1073741907.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/160110cjlks.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153868717933158.1073741907.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/180812nsrtlks4.jpg"
+  caption: |
+    <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng g on <a href="https://www.facebook.com/photo.php?fbid=10156550000798158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/230220cjrk1.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160325259402906&set=a.10160325251447906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/220911cyrjk1.jpg"
+  caption: |
+    <p>Cyrene Reef, Sep 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6134212323258754&set=a.6134217379924915">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/clavagellidae/brechites/110520chgd2571m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,27 +112,11 @@ Nationally Extinct" on the Red List of threatened animals
 of Singapore. But [a
 paper in Nature in Singapore](http://rmbr.nus.edu.sg/nis/bulletin2011/2011nis005-008.pdf) (pdf) found that recent sightings
 suggest this animal is alive and well on our shores.
-*![](brechites/110520chgd2571m3.jpg)*Tiny
-oval shapes are the remains of   
-the two-part shell of this bivalve.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](brechites/110520chgd2571m6l.jpg)*  
- *Changi, May 11*
 
-*![](brechites/110520chgjk3m3.jpg)*How it is
-normally buried.*Changi, May 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/05/110520-changi-beach.html).
 
-*![](brechites/110803chgd8474m3.jpg)  
-Changi, Aug 11  
-![](brechites/110803chgd8476m3.jpg)*
 
-*![](brechites/100516skdlks1m3.jpg)*  
- *Pulau Sekudu, May 10  
-![](brechites/100516skdlks1m3a.jpg)*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/froggy-sekudu-2010.html).
 
 ---
 
@@ -101,39 +135,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](brechites/230605chg7lks5.jpg)  
-*Changi Carpark 7, Jun 23**Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160711618843158&set=a.10160711621108158)*.*
 
-*![](brechites/230220cjrk1.jpg)  
-*Chek Jawa, Jan 23**Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160325259402906&set=a.10160325251447906)*.*
 
-*![](brechites/230605chg7lks5.jpg)  
-Chek Jawa, Dec 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163664353053158&type=3&ref=embed_post).
 
 ---
 
-*![](brechites/140616bbmn2m3.jpg)*  
- *Beting Bronok, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1).
 
-*![](brechites/191214cjll1.jpg)  
-*Chek Jawa, Dec 19**Photo shared by Liz Lim on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153868717933158.1073741907.547198157&type=3)*.*
-*![](brechites/160110cjlks.jpg)*  
- *Chek Jawa, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153868717933158.1073741907.547198157&type=3).
 
 ---
 
-*![](brechites/180812nsrtlks4.jpg)*  
- *East Coast Park, Aug 18*Photo shared by Loh Kok Sheng g on [facebook](https://www.facebook.com/photo.php?fbid=10156550000798158&set=a.10156549999868158&type=3&theater).
 
-*![](brechites/230220cjrk1.jpg)  
-*Chek Jawa, Jan 23**Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160325259402906&set=a.10160325251447906)*.*
 
 ---
 
-*![](brechites/220911cyrjk1.jpg)*  
-*Cyrene Reef, Sep 22*  
-Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6134212323258754&set=a.6134217379924915).
 
 ---
 

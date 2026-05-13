@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, lumpy, sponge, haliclona, baeri, chalinidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: blobs
 title: Lumpy pink sponge
 family: Chalinidae
@@ -9,6 +9,41 @@ genus: Haliclona
 species: cf.
 attributes: []
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/040804skdd4135m3.jpg"
+  caption: |
+    <p>Pulau Sekudu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/040804skdd4135m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060812bbd6084m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060812bbd6084m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/060611cjd2757m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/050112smkd9705m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100130brkd8525m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/110422tbmd9868m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/140811tryjll5m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152318355246295.1073741840.542241294&type=1">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpypink/100403bbbd0585m3.jpg"
 ---
 
 
@@ -38,26 +73,13 @@ Texture rather smooth. Colours bright pink to carmine red.
 **Looks similar to** the [Champagne sponge](thickpink.htm) which has shallow holes, a rougher texture, may
 form upright shapes and is usually a dusky rose or greyish pink.
 
-![](lumpypink/100403bbbd0585m3.jpg)  
-*Beting Bemban Besar, Apr 10* ![](lumpypink/100403bbbd0585m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lumpypink/040804skdd4135m3.jpg)  
-*Pulau Sekudu,
-Aug 04**![](lumpypink/040804skdd4135m3a.jpg)*
 
-![](lumpypink/060812bbd6084m3.jpg)  
-*Beting Bronok,
-Aug 06  
-![](lumpypink/060812bbd6084m3b.jpg)*
 
 ---
 
-![](lumpypink/060611cjd2757m3.jpg)  
-*Chek Jawa,
-Jun 06*
 
-![](lumpypink/050112smkd9705m3.jpg)  
-*Pulau Semakau, Jan 05*
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -81,17 +103,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lumpypink/100130brkd8525m3.jpg)  
-*Terumbu Berkas,
-Jan 10*
 
-![](lumpypink/110422tbmd9868m3.jpg)  
-*Terumbu Bemban,
-Apr 11*
 
-![](lumpypink/140811tryjll5m3.jpg)  
-*Terumbu Raya,
-Aug 14*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10152318355246295.1073741840.542241294&type=1).
 
 ---
 

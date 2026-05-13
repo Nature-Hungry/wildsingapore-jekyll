@@ -2,7 +2,7 @@
 title: Beautiful fireworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chloeia, flava, fire, worm, fireworm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Amphinomidae
 genus: Chloeia
 species: ""
@@ -16,6 +16,48 @@ subclass: Errantia
 order: Amphinomida
 subfamily: Archinominae
 updated: Jun 2022
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg"
+  caption: |
+    <p>Chloeia flava swimming Raffles Marina, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3b.jpg"
+  caption: |
+    <p>Tail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3a.jpg"
+  caption: |
+    <p>Head.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3.jpg"
+  caption: |
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/080521chgd3725m3a.jpg"
+  caption: |
+    <p>Washed ashore and attacked by springtails.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/090428chgd0692.jpg"
+  caption: |
+    <p>Dead one being eaten by a Ghost crab.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/170723ubnay2.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/220617skdlks2.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942205843158&set=a.10159942212483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/251206chgerqo2.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.897750219408386&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/151001blyjt1m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Johnathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/120507srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, May 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7361008390/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/240528tslvc3.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/160508kusdc1.jpg"
+  caption: |
+    <p>Kusu Island, May 16Photo shared by Dayna Cheah on <a href="https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.923408607775916.1073741852.100003203558241&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg"
 ---
 
 
@@ -55,12 +97,9 @@ the circles in the centre of the segments is *Chloeia flava*.
 The other with triangles in the centre of the segments remains unknown.
 It is said that these worms swarm at the surface during breeding season.
 Otherwise, they usually hide under stones and rocks.
-![](chloeia/050412tusd2407m3.jpg)  
-*Chloeia flava* swimming *Raffles Marina, Apr 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](chloeia/050412tusd2407m3b.jpg)*Tail.
 
-*![](chloeia/050412tusd2407m3a.jpg)*Head.
 
 **Fiery
 worms!**  The bristles are sharp easily penetrating bare skin. The bristles are filled with toxins. When irritated, the bristles are erected and break off easily, releasing the toxic contents into the wound. These cause a burning sensation, intense itching, inflammation
@@ -70,13 +109,8 @@ and numbness that can last for days and even weeks.
 to water. Do not touch bristleworms.
   
 **What does it eat?** The worm is a predator, feeding on coral polyps, sponges, anemones, hydroids and ascidians. It lacks jaws but sucks out the juices of the prey.
-*![](chloeia/080521chgd3725m3.jpg)  
-Changi, May 08*
 
-*![](chloeia/080521chgd3725m3a.jpg)*Washed
-ashore and attacked by springtails.
 
-*![](chloeia/090428chgd0692.jpg)*Dead one being eaten by a Ghost crab. *Changi, Apr 09*
 
 ---
 
@@ -98,30 +132,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](chloeia/170723ubnay2.jpg)  
-Pulau Ubin, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3).
 
-*![](chloeia/220617skdlks2.jpg)  
-Pulau Sekudu, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159942205843158&set=a.10159942212483158).
 
-![](chloeia/251206chgerqo2.jpg)  
-*Changi East (Lost Coast), Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.897750219408386&type=3&ref=embed_post).
 
 ---
 
-*![](chloeia/151001blyjt1m3.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Johnathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3).
 
-*![](chloeia/120507srplks.JPG)  
-Sentosa Serapong, May 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/7361008390/in/album-72157627005920441/).
 
 ---
 
-![](chloeia/240528tslvc3.jpg)  
-*Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
 
-*![](chloeia/160508kusdc1.jpg)  
-Kusu Island, May 16*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.923408607775916.1073741852.100003203558241&type=3).
 
 ---
 
@@ -153,5 +173,3 @@ worms. and identification of *Chloeia flava*. **Links**
   P., 1990. *A Colour Guide to Dangerous Animals*. Venom &
   Toxin Research Group, Faculty of Medicine, National University
   of Singapore. 156 pp.
-
-

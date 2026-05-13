@@ -2,7 +2,7 @@
 title: Gobies
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Gobiidae
 genus: ""
 species: ""
@@ -17,6 +17,101 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg"
+  caption: |
+    <p>Gobies can be colourful!</p>
+    <p>Chek Jawa, Aug 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg"
+  caption: |
+    <p>But most are well camouflaged.</p>
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg"
+  caption: |
+    <p>The <a href="histrio.htm">Broad barred acropora goby</a> lives only in Acropora corals.</p>
+    <p>Pulau Hantu, Feb 10 Fishy friend: The shrimp goby lives in the same burrow with a snapping shrimp.</p>
+    <p>With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home.</p>
+    <p>The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby.</p>
+    <p>When the goby darts into the burrow, the shrimp is right behind it!</p>
+    <p>More about this <a href="shrimpgoby.htm">shrimp-fish partnership</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>Labrador, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with an adult <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>Pulau Semakau, Feb 09Photos shared by Tang Hung Bun.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a <a href="leptocephalus.htm">Pink-speckled shrimp-goby</a>.</p>
+    <p>Kusu Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
+  caption: |
+    <p><a href="mudskipper.htm">Mudskippers</a> are gobies too!</p>
+    <p>Pulau Ubin, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg"
+  caption: |
+    <p>The <a href="kabiliensis.htm">Bumblebee goby</a> is found in mangroves.</p>
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg"
+  caption: |
+    <p>The <a href="biocellatus.htm">Crocodile flathead goby</a> looks different!</p>
+    <p>Changi, Jun 10 Human uses: Gobies are generally not eaten, although it is said that large <a href="mudskipper.htm">mudskippers</a> are eaten in places like Taiwan.</p>
+    <p>Some of the more colourful gobies are collected for the live aquarium trade.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg"
+  caption: |
+    <p>Seen on a <a href="../../../cnidaria/others/gorgonacea/whip.htm">sea whip</a>.</p>
+    <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg"
+  caption: |
+    <p><a href="caninus.htm">Green-shouldered goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg"
+  caption: |
+    <p><a href="bathygobius.htm">Frill-fin goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg"
+  caption: |
+    <p><a href="nebulosus.htm">Shadow goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg"
+  caption: |
+    <p><a href="triangularis.htm">Brown shore goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg"
+  caption: |
+    <p><a href="goldmanni.htm">Black-spotted lagoon-goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg"
+  caption: |
+    <p><a href="ornatus.htm">Ornate lagoon-goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg"
+  caption: |
+    <p><a href="biocellatus.htm">Crocodile flathead goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg"
+  caption: |
+    <p><a href="stethophthalmus.htm">Head-stripe goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg"
+  caption: |
+    <p><a href="muralis.htm">Mural glider-goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg"
+  caption: |
+    <p><a href="leptocephalus.htm">Slender-lined shrimp goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg"
+  caption: |
+    <p><a href="maudae.htm">Saddled shrimp goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg"
+  caption: |
+    <p><a href="maudae.htm">Saddled shrimp goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg"
+  caption: |
+    <p><a href="histrio.htm">Broad barred acropora goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg"
+  caption: |
+    <p><a href="kabiliensis.htm">Mangrove bumblebee goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg"
+  caption: |
+    <p><a href="javanicus.htm">Java fatnose goby</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg"
+  caption: |
+    <p><a href="sadanundio.htm">Grey knight goby</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -91,21 +186,7 @@ club-shaped eggs are stuck onto a surface, usually inside a burrow,
 crevice, empty shell or other safe place. Some species may change
 gender, and a few may be simultaneous hermaprodites (each fish has
 both male and female reproductive organs).
-![](stethophthalmus/020811cjcpd0419m3.jpg)  
-Gobies can be colourful! *Chek Jawa, Aug 02*
-![](ornatus/050607chgg7251m3.jpg)  
-But most are well camouflaged. *Changi, Jul 05*
-![](histrio/100201hntd9103.jpg)  
-The [Broad barred acropora goby](histrio.htm)  
-lives only in Acropora corals.
- *Pulau Hantu, Feb 10*
-**Fishy friend:** The shrimp goby
-lives in the same burrow with a snapping shrimp. With keener eyesight,
-the goby keeps a look-out while the shrimp busily digs out and maintains
-their shared home. The shrimp is literally constantly in touch with
-the goby with at least one of its antennae always on the goby. When
-the goby darts into the burrow, the shrimp is right behind it! More
-about this [shrimp-fish partnership](shrimpgoby.htm).  
+{% include img-wrap-group.html items=page.page_images %}
   
 Other tiny gobies found in coral reefs live in close association with
 other animals, taking on the colours and patterns of their 'partners'
@@ -116,36 +197,14 @@ Some gobies (*Gobiosoma* spp.) perform 'cleaning' functions on
 larger fishes and other marine creatures. These gobies are usually
 colourful.
 
-![](maudae/050513labg6528m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a young [Saddled
-shrimp-goby](maudae.htm). *Labrador,
-May 05*
 
-![](maudae/090208smkthb1m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-an adult [Saddled
-shrimp-goby](maudae.htm). *Pulau Semakau,
-Feb 09*Photos shared
-by Tang Hung Bun.
 
-*![](leptocephalus/080830kusd9939m3.jpg)* [Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a [Pink-speckled shrimp-goby](leptocephalus.htm).  *Kusu Island, Aug 08*
 
 **Role in the habitat:** Being relatively
 abundant in the ecosystems they inhabit, these small fishes are believed
 to play a vital part in the food chain. In fact, the absence of gobies
 may be a sign of danger to the habitat, as [this
 study of reefs found](http://wildshores.blogspot.com/2009/08/tiniest-reef-fishes-warn-of-risks-to.html).
-*![](boddarti/130421ubnd5457m3.jpg)*[Mudskippers](mudskipper.htm) are gobies too! **Pulau Ubin, Apr 13**
-![](kabiliensis/110822admd9796m3.jpg)  
-The [Bumblebee goby](kabiliensis.htm) is found in mangroves.  *Admiralty Park, Mar 11*
-![](biocellatus/100612chgd5308m3.jpg)  
-The [Crocodile flathead goby](biocellatus.htm) looks different! *Changi, Jun 10*
-**Human uses:** Gobies are generally not eaten, although it
-is said that large [mudskippers](mudskipper.htm) are eaten
-in places like Taiwan. Some of the more colourful gobies are collected
-for the live aquarium trade.   
   
 **Status and threats:** None of our
 gobies are listed among the threatened animals of Singapore. However,
@@ -166,7 +225,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](gobiidaenoid/230606cjky7.jpg)*Seen on a [sea whip](../../../cnidaria/others/gorgonacea/whip.htm).  **Chek Jawa, Jun 23**Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112).
  
  
 
@@ -177,71 +235,39 @@ on Singapore shores (except [mudskippers](mudskipper.htm))**
 
 ---
 
-**![](caninus/100913prpd1556m3.jpg)  
-[Green-shouldered goby](caninus.htm)**
 
-**![](bathygobius/070901sjid6547m3.jpg)  
-[Frill-fin goby](bathygobius.htm)**
 
-**![](nebulosus/060726chgd4918m3.jpg)  
-[Shadow goby](nebulosus.htm)**
 
 ---
 
-**![](triangularis/100429prpd1888m3.jpg)  
-[Brown shore goby](triangularis.htm)**
 
-**![](goldmanni/140811tryd8309m3a.jpg)  
-[Black-spotted lagoon-goby](goldmanni.htm)**
 
-**![](ornatus/110506tmftd0826m3.jpg)  
-[Ornate lagoon-goby](ornatus.htm)**
 
 ---
 
-**![](biocellatus/100612chgd5276m3.jpg)  
-[Crocodile flathead goby](biocellatus.htm)**
 
-***![](stethophthalmus/120820sisd0649m3.jpg)*  
-[Head-stripe goby](stethophthalmus.htm)**
 
-*![](muralis/110601tmnbd3312m3.jpg)*  
-[**Mural glider-goby**](muralis.htm)
 
 ---
 
 **Shrimp-gobies: living
 with snapping shrimps**
 
-**![](leptocephalus/080830kusd9939m3b.jpg)  
-[Slender-lined shrimp goby](leptocephalus.htm)**
 
-**![](maudae/050513labg6519m3.jpg)  
-[Saddled shrimp goby](maudae.htm)**
 
-**![](maudae/090625cyrd5636m3.jpg)  
-[Saddled shrimp goby](maudae.htm)**
 
 ---
 
 **Found in living branching
 hard corals**
 
-**![](histrio/051204sisg3318m3.jpg)  
-[Broad barred acropora goby](histrio.htm)**
 
 ---
 
 **Found in mangroves**
 
-**![](kabiliensis/110822admd9796m3.jpg)  
-[Mangrove bumblebee goby](kabiliensis.htm)**
 
-**![](javanicus/060627krjd3690m3.jpg)  
-[Java fatnose goby](javanicus.htm)**
 
-**![](sadanundio/110307admd6820m3.jpg)  
-[Grey knight goby](sadanundio.htm)**
 
 ---
 

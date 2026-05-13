@@ -2,7 +2,7 @@
 title: Bazillion snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zoned, horn, snail, shell, batillaria, zonalis, batillariidae, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 78, 100, 111, 123]
 family: Batillariidae
 genus: Batillaria
@@ -15,6 +15,38 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg"
+  caption: |
+    <p>Sisters Islands, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3b.jpg"
+  caption: |
+    <p>Upturned siphonal canal near the opening</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg"
+  caption: |
+    <p>Circular operculum made of horn-like material.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/091218tmd5967m6l.jpg"
+  caption: |
+    <p>Sometimes forming bands of many individuals.</p>
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/110506tmfts01598.jpg"
+  caption: |
+    <p>Can cover large areas densely.</p>
+    <p>Tanah Merah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/090606tmftd3319m3.jpg"
+  caption: |
+    <p>Seen floating on the water surface.</p>
+    <p>Tanah Merah, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/111226tmftd4912m3a.jpg"
+  caption: |
+    <p>A look at the living animal.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/201116lazmn2.jpg"
+  caption: |
+    <p>Seringat-Kias, Nov 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157847404988660&set=a.10157847412818660">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,17 +94,11 @@ circular whorls that are usually quite visible. The animal has fine
 bars on its mottled body, also on its proboscis and tentacles. Eyes
 at the base of the tentacles.
 
-*![](zonalis/060212sisg4815m3.jpg)  
-Sisters Islands, Feb 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](zonalis/060212sisg4815m3b.jpg)*Upturned siphonal canal near the opening
 
-*![](zonalis/060212sisg4815m3a.jpg)*Circular operculum made of horn-like material.
 
-*![](zonalis/091218tmd5967m6l.jpg)*Sometimes forming bands of many individuals. *Tanah Merah, Dec 09*
 
-![](zonalis/110506tmfts01598.jpg)  
-Can cover large areas densely. *Tanah Merah, May 11*
 
 Sometimes, they are seen in 'bands' of many individuals. Small ones
 have been seen floating on the water surface with the broad foot.  
@@ -84,13 +110,8 @@ on [how to tell these snails apart](../certihpotamid.htm).
 **What does it eat?** It eats detritus and grazes on the
 microscopic algae that grow on the bottom.
 
-*![](zonalis/090606tmftd3319m3.jpg)*Seen floating on the water surface. *Tanah Merah, Jun 09*
 
-*![](zonalis/111226tmftd4912m3.jpg)  
-Tanah Merah, Dec 11*
 
-![](zonalis/111226tmftd4912m3a.jpg)  
-A look at the living animal.
 
 ---
 
@@ -109,11 +130,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](zonalis/201116lazmn2.jpg)  
-Seringat-Kias,
-Nov 20*  
-Photo shared
-by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157847404988660&set=a.10157847412818660).
 
 ---
 

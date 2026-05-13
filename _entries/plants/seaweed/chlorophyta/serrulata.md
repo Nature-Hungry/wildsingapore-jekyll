@@ -2,7 +2,7 @@
 title: Serrated green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "serrated, seaweed, weed, green, caulerpa, serrulata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,53 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg"
+  caption: |
+    <p>Labrador, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m3b.jpg"
+  caption: |
+    <p>Labrador, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/151001blymn5m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/200625tbky1.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10164408647825112&set=a.10164408838360112&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/210429hntvc7.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437642672945&set=a.10158431262127945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100130brkd8713m3a.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/091231biod7065m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100811slud0102m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100811slud0102m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100810sngd9928m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100810sngd9928m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100613sngd5599m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/100613sngd5599m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/090513labd1614m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,16 +111,9 @@ apart some green seaweeds](cffeathery).
 to be edible and used in medicines as an antibacterial and antifungal
 agent as well as to lower blood pressure.
 
-*![](serrulata/090513labd1614m6.jpg)  
-Labrador, May 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](serrulata/090513labd1614m3b.jpg)  
-*Labrador, May 09*
 
-*![](serrulata/050610sntg7630m3.jpg)  
-Sentosa, Jun
-05*
-*![](serrulata/050610sntg7630m3a.jpg)*
  
   
 *\*Species are difficult
@@ -97,33 +137,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](serrulata/151001blymn5m3.jpg)  
-*Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story).
 
-![](serrulata/200625tbky1.jpg)  
-*Terumbu Bemban, Jun 20*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo.php?fbid=10164408647825112&set=a.10164408838360112&type=3&theater).
 
-![](serrulata/210429hntvc7.jpg)  
-*Pulau Hantu, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158437642672945&set=a.10158431262127945).
 
 ---
 
-![](serrulata/100130brkd8713m3a.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](serrulata/091231biod7065m3.jpg)  
-*Pulau Biola, Dec 09*
 
 ---
 
-![](serrulata/100811slud0102m3.jpg)  
-*Pulau Salu, Aug 10*![](serrulata/100811slud0102m3a.jpg)
 
-![](serrulata/100810sngd9928m3.jpg)  
-*Pulau Senang, Aug 10*![](serrulata/100810sngd9928m3a.jpg)
 
-![](serrulata/100613sngd5599m3.jpg)  
-*Pulau Senang, Jun 10*![](serrulata/100613sngd5599m3a.jpg)
 
 ---
 

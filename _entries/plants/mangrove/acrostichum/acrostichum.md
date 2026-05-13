@@ -2,7 +2,7 @@
 title: Mangrove ferns
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, acrostichum, aureum, speciosum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pteridaceae
 genus: ""
 species: Acrostichum
@@ -16,6 +16,34 @@ subclass: Polypodiidae
 order: Polypodiales
 suborder: Pteridineae
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg"
+  caption: |
+    <p>Piai raya can be huge.</p>
+    <p>Sungei Buloh Wetland Reserve, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/110307admd6746m3.jpg"
+  caption: |
+    <p>Piai lasu generally smaller more elegant.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3a.jpg"
+  caption: |
+    <p>Larger plant with longer fronds.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3a.jpg"
+  caption: |
+    <p>Young fronds are red.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg"
+  caption: |
+    <p>Sterile leaves have blunt tips, sometimes with a small sharp point.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090111smkd4872m3.jpg"
+  caption: |
+    <p>Smaller plant with shorter fronds.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg"
+  caption: |
+    <p>Young fronds are green.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg"
+  caption: |
+    <p>Sterile fronds have tapering pointed tips.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/040114sbwred0032m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,11 +103,8 @@ which is considered superior because they last longer. And should
 they catch fire, they burn so quickly into ash that the fire is not
 sustained to endanger any other parts of the home.
 
-*![](aureum/040114sbwred0032m3.jpg)*Piai
-raya can be huge. *Sungei Buloh Wetland Reserve, Jan 04  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](speciosum/110307admd6746m3.jpg)*Piai
-lasu generally smaller more elegant. *Sungei Buloh Wetland Reserve, Mar 09*
 
 ---
 
@@ -87,14 +112,8 @@ lasu generally smaller more elegant. *Sungei Buloh Wetland Reserve, Mar 09*
 raya**](aureum)   
 *Acrostichum aureum*
 
-*![](aureum/040114sbwred0032m3a.jpg)* Larger plant with longer fronds.
 
-![](aureum/090328sbwrd8453m3a.jpg)  
-Young fronds are red.
 
-![](aureum/130202mndd3842m3.jpg)  
-Sterile leaves have blunt tips,  
-sometimes with a small sharp point.
 
 ---
 
@@ -102,15 +121,8 @@ sometimes with a small sharp point.
 lasu**](speciosum)   
 *Acrostichum speciosum*
 
-![](speciosum/090111smkd4872m3.jpg)  
-Smaller plant with shorter fronds.
 
-![](speciosum/090328sbwrd0035m3a.jpg)  
-Young fronds are green.
 
-![](speciosum/130202mdd3863m3.jpg)  
-Sterile fronds have   
-tapering pointed tips.
 
 ---
 

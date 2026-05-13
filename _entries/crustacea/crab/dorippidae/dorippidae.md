@@ -2,7 +2,7 @@
 title: Leaf porter crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leaf, porter, crab, dorippidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Dorippidae
 genus: ""
@@ -23,6 +23,44 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Dorippoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg"
+  caption: |
+    <p>Changi, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3a.jpg"
+  caption: |
+    <p>Two kinds of legs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/020711chgcpd1920m3.jpg"
+  caption: |
+    <p>This one was 'carrying' a clam shell.</p>
+    <p>Changi, Jul 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/060128labg4053m3.jpg"
+  caption: |
+    <p>Seldom seen upper side.</p>
+    <p>Labrador, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/050527srbd3428m3b.jpg"
+  caption: |
+    <p>Some have one enlarged pincer.</p>
+    <p>Raffles Marina, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/120604pgllks.JPG"
+  caption: |
+    <p>Punggol, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/180616bblks9.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450075088158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/220616chgemn2.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Marcus on <a href="https://www.facebook.com/photo/?fbid=10158934350728660&set=a.10158934353093660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/210115mevc3.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/240823sntrtl1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Aug 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161471030009264&set=a.10161471023299264">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dorippidae/dorippidae/040408chgd0076m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -93,19 +131,12 @@ crabs are not listed among the threatened animals of Singapore. However, like ot
 by human activities such as reclamation and pollution. Trampling by
 careless visitors also have an impact on local populations.
 
-*![](dorippidae/040408chgd0076m3.jpg)  
-Changi, Apr 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](dorippidae/040408chgd0076m3c.jpg)*
 
-*![](dorippidae/040408chgd0076m3a.jpg)*Two kinds of legs.
 
-*![](dorippidae/020711chgcpd1920m3.jpg)*This one was 'carrying' a clam shell. *Changi, Jul 02*
 
-![](dorippidae/060128labg4053m3.jpg)  
-Seldom seen upper side. *Labrador, Jan 06*
 
-*![](dorippidae/050527srbd3428m3b.jpg)*Some have one enlarged pincer. *Raffles Marina, May 05*
 
 ---
 
@@ -124,22 +155,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](dorippidae/120604pgllks.JPG)  
-Punggol, Jun 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll).
 
-*![](dorippidae/180616bblks9.jpg)  
-Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450075088158&set=a.10156450071873158&type=3&theater).
 
-*![](dorippidae/220616chgemn2.jpg)  
-Changi Lost Coast, Jun 22*Photo shared by Marcus on [facebook](https://www.facebook.com/photo/?fbid=10158934350728660&set=a.10158934353093660).
 
 ---
 
-*![](dorippidae/210115mevc3.jpg)  
-East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on facebook.
 
-*![](dorippidae/240823sntrtl1.jpg)  
-Sentosa Tg Rimau, Aug 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161471030009264&set=a.10161471023299264).
 
 ---
 

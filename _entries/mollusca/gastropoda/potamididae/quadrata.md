@@ -2,7 +2,7 @@
 title: Black chut-chut snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Potamididae
 genus: Cerithidea
 species: quadrata
@@ -15,6 +15,28 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7231m3a.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/251231prprqo3a.jpg"
+  caption: |
+    <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090411lckd9518m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Apr 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7228m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,14 +83,9 @@ to tell these snails apart](cfpotamids.htm).
 **Human use:** It is collected for
 food in many parts of Southeast Asia.
 
-*![](quadrata/090228smkd7228m3.jpg)  
-Pulau Semakau, Mar 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](quadrata/090228smkd7229m3.jpg)  
-Pulau Semakau, Mar 09*
 
-*![](quadrata/090228smkd7231m3a.jpg)  
-Pulau Semakau, Mar 09*
 
 ---
 
@@ -87,11 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](quadrata/251231prprqo3a.jpg)  
-Pasir Ris Park, Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724).
 
-*![](quadrata/090411lckd9518m3.jpg)  
-Lim Chu Kang, Apr 09*
 
 ---
 
@@ -119,8 +132,6 @@ snail. **Links**
   Museum of Biodiversity Research, National University of Singapore.
 - Abbott, R.
   Tucker, 1991. *Seashells
-  of South East Asia![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

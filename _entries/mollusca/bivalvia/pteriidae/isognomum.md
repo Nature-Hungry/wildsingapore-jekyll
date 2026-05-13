@@ -2,7 +2,7 @@
 title: Elongated toothed oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wader, tree, oyster, isognomon, isognomum, pteriidae, isognominidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [2, 33, 73]
 family: Pteriidae
 genus: Isognomon
@@ -17,6 +17,27 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg"
+  caption: |
+    <p>A large area of mother-of-pearl relative to shell length.</p>
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3a.jpg"
+  caption: |
+    <p>A long row of notches at the hinge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/121115tsmkd1126m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9826m6l.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/120804bbbd9825m3.jpg"
+  caption: |
+    <p>A long row of notches at the hinge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/210811tryvc2.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641287967945&set=a.10158641345557945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,20 +79,7 @@ in crevices. It is difficult to tell them apart without ripping them
 out of their hiding place and looking at the inside of the shell.
 On the inside, Elonged toothed oysters have a long row of notches at the
 hinge, and a large area of mother-of-pearl relative to the shell length.
-![](isognomum/091206tmd5738m3.jpg)  
-A large area of mother-of-pearl   
-relative to shell length. *Tanah Merah,
-Dec 09*
-![](isognomum/091206tmd5738m3a.jpg)  
-A long row of notches at the hinge.
-![](isognomum/121115tsmkd1126m3.jpg)  
-*Terumbu Semakau,
-Nov 12*
-![](isognomum/120804bbbd9826m6l.jpg)  
-*Beting Bemban
-Besar, Aug 12*
-![](isognomum/120804bbbd9825m3.jpg)  
-A long row of notches at the hinge.
+{% include img-wrap-group.html items=page.page_images %}
   
 *\*Species are difficult
 to positively identify without close examination.  
@@ -94,8 +102,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](isognomum/210811tryvc2.jpg)  
- *Terumbu Raya, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158641287967945&set=a.10158641345557945).
  
  
 

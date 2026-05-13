@@ -2,7 +2,7 @@
 title: Sepuleh
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sepuleh, fagraea, racemosa, gentianaceae, loganiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [8, 17, 20, 21]
 family: Gentianaceae
 genus: Fagraea
@@ -17,6 +17,35 @@ order: Gentianales
 tribe: Potalieae
 subtribe: Potaliinae
 updated: Sep 09
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/070714cjd4118m6.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/020327ubncp7757m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/011021cjcpd0988m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 01</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3101m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3100m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/090531cjd3094m6l.jpg"
+  caption: |
+    <p>Chek Jawa,May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6227m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6224m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/091226cjd6222m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/racemosa/070714cjd4118m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,26 +100,14 @@ coffee.
 is listed as 'Endangered' in the Red List of threatened plants of
 Singapore.  
 
-*![](racemosa/070714cjd4118m6.jpg)  
-Chek Jawa, Jul 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](racemosa/020327ubncp7757m3.jpg)  
-Chek Jawa, Mar 02![](racemosa/011021cjcpd0988m3.jpg)  
-Chek Jawa, Oct 01*
 
-*![](racemosa/090531cjd3101m3.jpg)  
-Chek Jawa, May 09![](racemosa/090531cjd3100m3.jpg)*
 
-![](racemosa/090531cjd3094m6l.jpg)  
-*Chek Jawa,**May 09*
 
 ---
 
-*![](racemosa/091226cjd6227m6l.jpg)  
-Chek Jawa, Dec 09*
 
-*![](racemosa/091226cjd6224m3.jpg)  
-Chek Jawa, Dec 09![](racemosa/091226cjd6222m3.jpg)*
 
 ---
 

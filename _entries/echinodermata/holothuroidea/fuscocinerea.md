@@ -2,7 +2,7 @@
 title: Ashy pink sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cucumber, seacucumber, holothuria, fuscocinerea, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Holothuriidae
 genus: Holothuria
@@ -17,6 +17,72 @@ subclass: Actinopoda
 order: Holothuriida
 subgenus: Stauropora
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg"
+  caption: |
+    <p>When disturbed, releases Cuvierian tubules.</p>
+    <p>Beting Bemban Besar, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3d.jpg"
+  caption: |
+    <p>Tiny spikes on white circles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3e.jpg"
+  caption: |
+    <p>Dark blotchy bars on upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3f.jpg"
+  caption: |
+    <p>Anus ringed with dark brown.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3.jpg"
+  caption: |
+    <p>Underside flat and pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5376m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091010tmjk8m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091010tmjk9m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/150618tmftlks17m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/200311blylks8.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158041345613158&set=a.10158041342408158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100517jngjk3m6l.jpg"
+  caption: |
+    <p>Pulau Jong, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100517-jongl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100911lsismn.jpg"
+  caption: |
+    <p>Small Sisters Island, Sep 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4998095539/in/album-72157624812004737/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/140809hntlks1m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/140809hntlks2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/210429hntjll2.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158236256286295&set=a.10158236250826295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/240310tplvc4.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Mar 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253359557945&set=a.10160254104782945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/150718smkelks1m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 15Photo shared by James Koh on <a href="https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/200625tbdc3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2917799948336762&set=a.2918046111645479&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/251008bbbyls5.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/100615snglks1m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718696483/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/091204pawjk4m6l.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171820610/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/fuscocinerea/090625bsrd5364m3.jpg"
 ---
 
 
@@ -60,23 +126,12 @@ Philippines. In China, it is of low commercial
 importance. It is exploited in a multispecies
 fishery in Sri Lanka.
 
-![](fuscocinerea/090625bsrd5364m3.jpg)  
-When disturbed, releases Cuvierian tubules.  
-*Beting Bemban Besar, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](fuscocinerea/090625bsrd5364m3d.jpg)  
-Tiny
-spikes on white circles.
 
-![](fuscocinerea/090625bsrd5364m3e.jpg)  
-Dark blotchy bars on upperside.
 
-![](fuscocinerea/090625bsrd5364m3f.jpg)  
-Anus ringed with dark brown.
 
-*![](fuscocinerea/090625bsrd5376m3.jpg)*Underside flat and pale.
 
-*![](fuscocinerea/090625bsrd5376m3a.jpg)*
 
 ---
 
@@ -95,81 +150,34 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](fuscocinerea/091010tmjk8m3.jpg)  
-Tanah Merah, Oct 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
-*![](fuscocinerea/091010tmjk9m3.jpg)  
-Tanah Merah, Oct 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saronl).
 
 ---
 
-*![](fuscocinerea/150618tmftlks17m3.jpg)  
-Tanah Merah Ferry Terminal, Jun 15*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
-*![](fuscocinerea/200311blylks8.jpg)  
-Berlayar Creek, Mar 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158041345613158&set=a.10158041342408158&type=3&theater).
 
 ---
 
-*![](fuscocinerea/100517jngjk3m6l.jpg)*  
- *Pulau Jong, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100517-jongl).
 
-*![](fuscocinerea/100911lsismn.jpg)  
-Small Sisters Island, Sep 10*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4998095539/in/album-72157624812004737/).
 
 ---
 
-*![](fuscocinerea/140809hntlks1m3.jpg)  
-Pulau Hantu, Aug 14*
 
-*![](fuscocinerea/140809hntlks2m3.jpg)*
 
 Photo
 shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 
 ---
 
-*![](fuscocinerea/210429hntjll2.jpg)  
-Pulau Hantu, Apr 21*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158236256286295&set=a.10158236250826295).
 
-![](fuscocinerea/240310tplvc4.jpg)  
-*Terumbu Pempang Laut, Mar 24*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160253359557945&set=a.10160254104782945).
-*![](fuscocinerea/150718smkelks1m3.jpg)  
-Pulau Semakau East, Jul 15*Photo
-shared by James Koh on [facebook](https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3).
 
 ---
 
-*![](fuscocinerea/200625tbdc3.jpg)  
-Terumbu Bemban, Jun 20*Photo
-shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2917799948336762&set=a.2918046111645479&type=3&theater).
 
 ---
 
-*![](fuscocinerea/251008bbbyls5.jpg)  
-Beting Bemban Besar, Oct 25*Photo
-shared by Yan Le Su on [facebook](https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post).
 
-![](fuscocinerea/100615snglks1m6l.jpg)  
-*Pulau Senang,
-Jun 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718696483/).
 
-*![](fuscocinerea/091204pawjk4m6l.jpg)  
-Pulau Pawai, Dec 09*Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171820610/).
 
 ---
 
@@ -190,5 +198,3 @@ flickr](http://www.flickr.com/photos/37823682@N04/4171820610/).
   S., C. S. L. Ng & K. S. Loh, 2010. *New record of a sea cucumber, Holothuria (Stauropora) fuscocinerea Jaeger, 1833 (Holothuroidea:
   Aspidochirotida: Holothuriidae) in Singapore*. Nature
   in Singapore, 3: 133-137.
-
-

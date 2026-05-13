@@ -2,7 +2,7 @@
 title: "Bakau minyak "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, apiculata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 117]
 family: Rhizophoraceae
 genus: Rhizophora
@@ -15,6 +15,35 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196660
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090816sbwrd9039m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg"
+  caption: |
+    <p>Flower on very short stalks.</p>
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8300m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg"
+  caption: |
+    <p>Usually a bent hypocotyl.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg"
+  caption: |
+    <p>Fruit on very short stalk, almost stuck to the branch.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 04</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,31 +111,13 @@ for [making
 charcoal](http://wildshores.blogspot.com/2009/04/how-is-charcoal-made-from-mangrovesl). It is sometimes planted to protect bunds and dykes.
 It is also used in mangrove rehabilitation and plantation forestry.
 
-*![](091005cjd2271m3.jpg)  
-Chek Jawa,
-Oct 09   
+{% include img-wrap-group.html items=page.page_images %}
   
-![](apiculata/070520smkd1226m3.jpg)  
-Pulau Semakau, May 07*  
-*![](apiculata/090816sbwrd9039m3.jpg)  
-Sungei Buloh
-Wetland Reserve, Aug 09*
 
-*![](apiculata/070520smkg9543m3.jpg)*Flower on very short stalks. *Pulau Semakau, May 07*
 
-*![](apiculata/090315smkd8300m3.jpg)  
-Pulau Semakau,
-Mar 09*
 
-![](apiculata/090315smkd8295m6la.jpg)  
-Usually a bent hypocotyl. *Pulau Semakau, Mar 09*
 
-*![](apiculata/030622cjd0054m3a.jpg)*  
-*Chek Jawa, Jun 03*
 
-![](apiculata/040131sbwrd0106m3a.jpg)  
-Fruit on very short stalk,   
-almost stuck to the branch. *Sungei Buloh Wetland Reserve, Mar 04*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Poisonous sea bean
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "canavalia, cathartica, fabaceae, leguminosae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 39]
 family: Fabaceae
 genus: Canavalia
@@ -17,6 +17,20 @@ subfamily: Faboideae
 tribe: Diocleae
 inat_id: 159808
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6076m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/100109prpd7712m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/091019prpd2916m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Oct 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/cathartica/090124ubnd6075m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,21 +75,10 @@ to Butterfly Circle, this plant is one of the host plants for the
 caterpillar of the [Common
 Sailor](http://butterflycircle.blogspot.sg/2010/07/life-history-of-common-sailorl) (*Neptis hylas papaja*).
 
-![](cathartica/090124ubnd6075m6l.jpg)  
-*Pulau Ubin,
-Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cathartica/090124ubnd6076m3.jpg)  
-*Pulau Ubin,
-Jan 09*
 
-*![](cathartica/100109prpd7712m3.jpg)*  
-*Pasir Ris
-Park, Jan 10*
 
-*![](cathartica/091019prpd2916m3.jpg)  
-Pasir Ris
-Park, Oct 09*
 
 ---
 

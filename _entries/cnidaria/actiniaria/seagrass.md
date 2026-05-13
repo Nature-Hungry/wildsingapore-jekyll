@@ -2,7 +2,7 @@
 title: Seagrass  anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: ""
 genus: ""
@@ -11,6 +11,38 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8969m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/170624cjtch1.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155508836018713.1073742094.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2a.jpg"
+  caption: |
+    <p>Cyrene, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161174140894264&set=a.10161174010189264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/240410cyrtl2b.jpg"
+  caption: |
+    <p>Cyrene, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161174140894264&set=a.10161174010189264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/250726cyrtch4.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/seagrass/120801chgd8965m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -57,19 +89,12 @@ then relocating its pedal disk to a spot closer to its tentacles.
 anemones](boloceroididae.htm) which have opaque tentacles
 with bands.
 
-*![](seagrass/120801chgd8965m3.jpg)  
-Changi, Aug 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](seagrass/120801chgd8965m3a.jpg)*
 
-*![](seagrass/120801chgd8965m3b.jpg)*
 
-*![](seagrass/120801chgd8969m3.jpg)  
-Changi, Aug 12*
 
-*![](seagrass/120801chgd8969m3a.jpg)*
 
-*![](seagrass/120801chgd8965m3a.jpg)*
 
   
 *\*Species are difficult to positively identify without close examination.  
@@ -93,19 +118,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](seagrass/170624cjtch1.jpg)  
-Chek Jawa, Jun 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155508836018713.1073742094.619308712&type=3).
 
 ---
 
-*![](seagrass/240410cyrtl2a.jpg)  
-Cyrene, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161174140894264&set=a.10161174010189264).
 
-*![](seagrass/240410cyrtl2b.jpg)  
-Cyrene, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161174140894264&set=a.10161174010189264).
 
-*![](seagrass/250726cyrtch4.jpg)  
-Cyrene, Jul 25*Photo shared by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post).
 
 [links](../../links.htm)
 | [references](../../references.htm)

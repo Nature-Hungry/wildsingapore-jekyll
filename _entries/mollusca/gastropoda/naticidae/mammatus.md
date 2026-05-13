@@ -2,12 +2,44 @@
 title: "Bosom moon snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bosom, breast, shaped, moon, snail, shell, polinices, mammatus, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Naticidae
 genus: Polinices
 species: mammatus
 attributes: []
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt1.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt3.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5821m3.jpg"
+  caption: |
+    <p>This one seemed to be dying.</p>
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg"
+  caption: |
+    <p>This one seemed to be dying.</p>
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130624chg.jpg"
+  caption: |
+    <p>Living snail, body is huge.</p>
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/200706skdlks8.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431587168158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1.jpg"
+  caption: |
+    <p>East Coast (G), Dec 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/221226ecpglks1b.jpg"
+  caption: |
+    <p>Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160361848338158&set=a.10160361852213158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/220302hnt2.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -48,17 +80,12 @@ are found in deeper water and considered uncommon. *Mamma* means 'breast' in Lat
 flat with three broad bands of dark brown stripes. On the underside, a dark chocolate
 brown lip. Operculum is made of a thin horn-like material, orange
 or brown. Body plain white. When alive, the body is much larger than the shell, usually enveloping the entire shell making it hard to see the shell.
-*![](mammatus/220302hnt2.jpg)**Pulau Hantu, Mar 22*
-*![](mammatus/220302hnt1.jpg)**Pulau Hantu, Mar 22*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mammatus/220302hnt3.jpg)**Pulau Hantu, Mar 22*
 
 ---
 
-*![](mammatus/110705chgd5821m3.jpg)*This one seemed to be dying. *Changi, Jul 11* 
-*![](mammatus/110705chgd5817m3.jpg)*This one seemed to be dying. *Changi, Jul 11*
 
-*![](mammatus/130624chg.jpg)*Living snail, body is huge. *Changi, Jun 13*
 
 ---
 
@@ -77,11 +104,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](mammatus/200706skdlks8.jpg)  
-Pulau Sekudu, Jul 20*Photo by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158431587168158&set=a.10158431591203158&type=3&theater).
-*![](mammatus/221226ecpglks1.jpg)  
-East Coast (G), Dec 22*
-*![](mammatus/221226ecpglks1b.jpg)*Photo by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160361848338158&set=a.10160361852213158).
 
 ---
 

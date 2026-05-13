@@ -2,7 +2,7 @@
 title: Coastal horseshoe crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coastal, horseshoe, horse, shoe, king, crab, tachypleus, gigas,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Limulidae
 genus: Tachypleus
 species: gigas
@@ -16,6 +16,80 @@ class: Merostomata
 order: Xiphosurida
 subfamily: Tachypleinae
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/060628sntd3832m3.jpg"
+  caption: |
+    <p>Often seen in a pair.</p>
+    <p>Sentosa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/090428chgd0769m3.jpg"
+  caption: |
+    <p>Underside with encrusting animals.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg"
+  caption: |
+    <p>Spines on the side of the body longer.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg"
+  caption: |
+    <p>Male's special legs for holding onto the female has one 'finger'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg"
+  caption: |
+    <p>Tail with a groove on the underside    near the body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg"
+  caption: |
+    <p>Tail near the body is triangular in cross-section with small spines on the upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/201020chgsafmn6.jpg"
+  caption: |
+    <p>Changi, Oct 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157788291443660&set=a.10157785574688660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/201020chgsafmn6b.jpg"
+  caption: |
+    <p>A male, with its modified first claws.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/180616bblks3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450074758158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/240821skdrk1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/150619tuslks1m3.jpg"
+  caption: |
+    <p>Tuas, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090627tmjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babiesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/170331chg7mn1.jpg"
+  caption: |
+    <p>Changi, Mar 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/190422cnyrk2.jpg"
+  caption: |
+    <p>Coney Island, Apr 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156989306517906&set=a.10156989301812906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/151001blymn3m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/170115blymn1.jpg"
+  caption: |
+    <p>Berlayar Creek, Jan 17Photo shared by Marcus Ng on <a href="https://flic.kr/p/2eDrcyW">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/220815labccn1.jpg"
+  caption: |
+    <p>Labrador, Aug 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10159869577328654/623763189062633">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/170626sntay1.jpg"
+  caption: |
+    <p>Sentosa Tg.</p>
+    <p>Rimau, Jun 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10210929597728192&set=a.10210195940747226&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/110122hntrl1m6l.JPG"
+  caption: |
+    <p>Pulau Hantu, Jan 11Photo shared by Russel Low on <a href="http://intothewildsingapore.blogspot.com/2011/01/pulau-hantul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/250331hntrg1.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 25Photo shared by Rachael Goh on <a href="https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/150717smksljl2m3.jpg"
+  caption: |
+    <p>Pulau Semakau South, Jul 15Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153074790566295.1073741856.542241294&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/160807smknrl1.jpg"
+  caption: |
+    <p>Pulau Semakau North, Aug 16Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/?tab=album&album_id=1183948044989919">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/181027smkmn1.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 18Photo shared by Marcus Ng and <a href="https://flic.kr/p/NGqErv">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/060628sntd3832m3.jpg"
 ---
 
 arthropods
@@ -37,23 +111,12 @@ The circular shell is greyish sometimes brown. Identified by longer spines on th
 
 **Sometimes confused with** the [Mangrove horseshoe crab](carcinoscorpius) (*Carcinoscorpius rotundicauda*). More on [how to tell them apart](limulidae).
 
-![](tachypleus/060628sntd3832m3.jpg)  
-Often seen in a pair. *Sentosa, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](carcinoscopius/090428chgd0769m3.jpg)  
-Underside with encrusting animals. *Changi, Apr 09*
 
-![](tachypleus/090428chgd0767m3b.jpg)  
-Spines on the side of the body longer.
 
-![](tachypleus/090428chgd0767m3d.jpg)  
-Male's special legs for holding onto the female has one 'finger'.
 
-![](tachypleus/090428chgd0767m3a.jpg)  
-Tail with a groove on the underside    near the body.
 
-![](tachypleus/071002chgd6898m3b.jpg)  
-Tail near the body is triangular in cross-section with small spines on the upperside.
 
 # Status and threats
 The Coastal horseshoe crab is listed as 'Endangered' on the Red List of threatened animals of Singapore. It is mainly threatened by habitat loss.  
@@ -69,55 +132,22 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 # Other sightings on Singapore shores
 
-![](tachypleus/201020chgsafmn6.jpg)  
-*Changi, Oct 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157788291443660&set=a.10157785574688660)*.*
 
-![](tachypleus/201020chgsafmn6b.jpg)  
-A male, with its modified first claws.
 
-![](tachypleus/180616bblks3.jpg)  
-*Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450074758158&set=a.10156450071873158&type=3&theater)*.*
 
-![](tachypleus/240821skdrk1.jpg)  
-*Pulau Sekudu, Aug 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post).
 
-![](tachypleus/150619tuslks1m3.jpg)  
-*Tuas, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3).
 
-![](tachypleus/090627tmjk1m3.jpg)  
-*Tanah Merah, Jun 09*Photo shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/06/tanah-merah-making-babiesl).
 
-![](tachypleus/170331chg7mn1.jpg)  
-*Changi, Mar 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3).
 
-![](tachypleus/190422cnyrk2.jpg)  
-*Coney Island, Apr 19*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156989306517906&set=a.10156989301812906&type=3&theater).
 
-*![](tachypleus/151001blymn3m3.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story).
 
-![](tachypleus/170115blymn1.jpg)  
-*Berlayar Creek, Jan 17*Photo shared by Marcus Ng on [flickr](https://flic.kr/p/2eDrcyW).
 
-![](tachypleus/220815labccn1.jpg)  
-*Labrador, Aug 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/794658653/videos/a.10159869577328654/623763189062633).
 
-![](tachypleus/170626sntay1.jpg)  
-*Sentosa Tg. Rimau, Jun 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10210929597728192&set=a.10210195940747226&type=3&theater).
 
-![](tachypleus/110122hntrl1m6l.JPG)  
-*Pulau Hantu, Jan 11*Photo shared by Russel Low on [his blog](http://intothewildsingapore.blogspot.com/2011/01/pulau-hantul).
 
-![](tachypleus/250331hntrg1.jpg) *Pulau Hantu, Apr 25*Photo shared by Rachael Goh on [facebook](https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R).
 
-![](tachypleus/150717smksljl2m3.jpg)  
-*Pulau Semakau South, Jul 15*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10153074790566295.1073741856.542241294&type=3&pnref=story).
 
-![](tachypleus/160807smknrl1.jpg)  
-*Pulau Semakau North, Aug 16*Photo shared by Russel Low on [facebook](https://www.facebook.com/singaporereefwatch/photos/?tab=album&album_id=1183948044989919).
 
-![](tachypleus/181027smkmn1.jpg)  
-*Pulau Semakau, Oct 18*Photo shared by Marcus Ng and [flickr](https://flic.kr/p/NGqErv).
 
 # Links
 

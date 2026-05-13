@@ -2,7 +2,7 @@
 title: Ipil
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "intsia, bijuga, fabaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 37]
 family: Fabaceae
 genus: Intsia
@@ -17,6 +17,23 @@ order: Fabales
 subfamily: Detarioideae
 tribe: Afzelieae
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6731m3.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6729m3.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6728m3.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6733m3.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/intsia/bijuga/110307admd6727m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,25 +99,11 @@ soaked for 3-4 days, then boiled.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.
 
-*![](bijuga/110307admd6727m6l.jpg)  
-Admiralty
-Park, Mar 11  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](bijuga/110307admd6731m3.jpg)  
-Admiralty
-Park, Mar 11*
 
-![](bijuga/110307admd6729m3.jpg)  
-*Admiralty
-Park, Mar 11*
 
-![](bijuga/110307admd6728m3.jpg)  
-*Admiralty
-Park, Mar 11*
 
-*![](bijuga/110307admd6733m3.jpg)*  
-*Admiralty
-Park, Mar 11*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Feathery green seaweeds compared
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 division: Chlorophyta
 family: ""
 genus: ""
@@ -12,6 +12,50 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg"
+  caption: |
+    <p><a href="../../seagrass/spinulosa">Fern seagrass</a> Halophila spinulosa</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -44,11 +88,9 @@ them apart.
 
 ---
 
-*![](taxifolia/040703sisd1564m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mexicana/040901sjid6072m3.jpg)*
 
-*![](scalpelliformis/050428cftg5309m3.jpg)*
 
 **[Taxifolia
 feathery green seaweed](taxifolia)**  
@@ -60,11 +102,8 @@ green seaweed**](mexicana)
 
 **[Scalpel green seaweed](scalpelliformis)** *Caulerpa scalpelliformis*
 
-*![](taxifolia/041116labd8420m3a.jpg)*
 
-*![](mexicana/040901sjid6072m3b.jpg)*
 
-*![](scalpelliformis/050428cftg5309m3a.jpg)*
 
 Mid-rib
 or central 'stem' is may be slightly flat to rounded, width usually
@@ -95,11 +134,8 @@ to the mid-rib.
 
 ---
 
-*![](sertularioides/050623cjd4103m3.jpg)*
 
-![](cupressoides/050621skdg7924m3.jpg)
 
-![](serrulata/050610sntg7630m3.jpg)
 
 **[Delicate
 feathery green seaweed](sertularioides)** *Caulerpa sertularioides*
@@ -111,11 +147,8 @@ feathery green seaweed](sertularioides)** *Caulerpa sertularioides*
 green seaweed**](serrulata)  
 *Caulerpa serrulata*
 
-*![](sertularioides/050621skdg7890m3a.jpg)*
 
-![](cupressoides/050621skdg7924m3a.jpg)
 
-*![](serrulata/050610sntg7630m3a.jpg)*
 
 Mid-rib
 or central 'stem' is cylindrical narrow.
@@ -148,12 +181,7 @@ are NOT seaweeds**
 
 ---
 
-*![](../../seagrass/spinulosa/070716chgd4197m3.jpg)*  
-[**Fern
-seagrass**](../../seagrass/spinulosa)  
-*Halophila spinulosa*
 
-![](../../seagrass/spinulosa/030928cjd0024m3a.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 title: Sap-sucking slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, sap, sucking, sacoglossan, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Caliphyllidae
 genus: ""
 species: ""
@@ -18,6 +18,75 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngslugs.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg"
+  caption: |
+    <p>Internal shell of the <a href="polybranchia.htm">Bushy slug</a>.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg"
+  caption: |
+    <p>The <a href="berthelinia.htm">Singapore bivalve slug</a> has external shells.</p>
+    <p>Pulau Hantu, May 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050722cjg9966m3.jpg"
+  caption: |
+    <p>The <a href="woolly.htm">Wooly leaf slug</a> has a pair of flaps.</p>
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg"
+  caption: |
+    <p><a href="pusilla.htm">Halimeda slugs</a> resemble the seaweed that they eat!</p>
+    <p>Labrador Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg"
+  caption: |
+    <p><a href="bryopsis.htm">Bryopsis slugs</a> are ometimes seen in large numbers on the seaweed that they eat.</p>
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg"
+  caption: |
+    <p>Smaller 'male' <a href="volvatella.htm">Volvatella slug</a> with a larger hermaphrodite slug.</p>
+    <p>Sentosa, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7206m3.jpg"
+  caption: |
+    <p>Mating <a href="ornata.htm">Ornate leaf slugs</a>.</p>
+    <p>St.</p>
+    <p>John's Island, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg"
+  caption: |
+    <p>Closer look at the penis.</p>
+    <p>St.</p>
+    <p>John's Island, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg"
+  caption: |
+    <p><a href="pusilla.htm">Halimeda slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/070602sjig9801m3.jpg"
+  caption: |
+    <p><a href="ornata.htm">Ornate leaf slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg"
+  caption: |
+    <p><a href="woolly.htm">Woolly leaf slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5712m3.jpg"
+  caption: |
+    <p><a href="volvatella.htm">Volvatella slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg"
+  caption: |
+    <p><a href="polybranchia.htm">Bushy slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg"
+  caption: |
+    <p><a href="lobiger.htm">Tendril slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg"
+  caption: |
+    <p><a href="thuridilla.htm">Thuridilla slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/100302tmd9841m3a.jpg"
+  caption: |
+    <p><a href="costasiella.htm">Strawberry slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/stiliger/120818lazd0303m3.jpg"
+  caption: |
+    <p><a href="stiliger.htm">Emerald slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg"
+  caption: |
+    <p><a href="berthelinia.htm">Singapore bivalve slug</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -28,7 +97,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngslugs.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -76,14 +145,8 @@ confused with** other sea slugs that appear similar but belong
 to different orders. Here's more on how to tell apart [sap-sucking
 slugs from other sea slugs](../../nudiharesac.htm).
 
-![](polybranchia/110519chgd2177m3.jpg)  
-Internal shell of the [Bushy slug](polybranchia.htm). *Changi, May 11*
 
-![](berthelinia/130511hntd6666m6.jpg)  
-The [Singapore bivalve slug](berthelinia.htm) has external shells.  *Pulau Hantu, May 13*
 
-![](woolly/050722cjg9966m3.jpg)  
-The [Wooly leaf slug](woolly.htm) has a pair of flaps. *Chek Jawa, Jul 05*
 
 **What do they eat?** These slugs
 suck the sap of seaweeds. They have a distinctive radula with a single
@@ -95,12 +158,7 @@ in a restricted range of seaweed species. Some sacoglossans, however,
 eat the eggs of other slugs. The worn out teeth are stored in a sac,
 hence the name of the Order.
 
-![](pusilla/050330labg3921m3a.jpg)  
-[Halimeda slugs](pusilla.htm) resemble   
-the seaweed that they eat! *Labrador Mar 05*
 
-![](bryopsis/120506sisd1123m6la.jpg)  
-[Bryopsis slugs](bryopsis.htm) are ometimes seen in large numbers on the seaweed that they eat. *Sisters Island, May 12*
 
 **Stolen food factories:** Some of
 these slugs retain the seaweed's chloroplasts (the part that contains
@@ -112,14 +170,8 @@ studies](http://phenomena.nationalgeographic.com/2013/11/19/solar-powered-slugs-
 also recycle the defensive poisons of seaweed into their own secretions
 to repel potential predators.
 
-*![](volvatella/120620sntd5712m3.jpg)*Smaller 'male' [Volvatella slug](volvatella.htm)  
-with a larger hermaphrodite slug. *Sentosa, Jun 12*
 
-![](ornata/050529sjig7206m3.jpg)  
-Mating [Ornate leaf slugs](ornata.htm).  
-*St. John's Island, May 05*
 
-![](ornata/050529sjig7219m3.jpg)Closer look at the penis. *St. John's Island, May 05*
 
 **Baby Sacoglossa:** These slugs are
 simultaneous hermaphrodites, that is, each animal has both male and
@@ -144,40 +196,21 @@ slugs on Singapore shores**
 
 ---
 
-**![](pusilla/050625labg8575m3.jpg)  
- [Halimeda slug](pusilla.htm)**
 
-**![](ornata/070602sjig9801m3.jpg)  
-[Ornate leaf slug](ornata.htm)**
 
-**![](woolly/050721cjg9776m3.jpg)[Woolly leaf slug](woolly.htm)**
 
 ---
 
-**![](volvatella/120620sntd5712m3.jpg)  
- [Volvatella slug](volvatella.htm)**
 
-**![](polybranchia/050806skdg0455m3.jpg)  
- [Bushy slug](polybranchia.htm)**
 
-**![](lobiger/050622cftg8209m3.jpg)  
- [Tendril slug](lobiger.htm)**
 
 ---
 
-**![](thuridilla/120408sjid8606m3.jpg)  
- [Thuridilla slug](thuridilla.htm)**
 
-***![](costasiella/100302tmd9841m3a.jpg)*[Strawberry
-slug](costasiella.htm)**
 
-***![](stiliger/120818lazd0303m3.jpg)*[Emerald
-slug](stiliger.htm)**
 
 ---
 
-**![](berthelinia/150802bbtch1m3.jpg)  
- [Singapore bivalve slug](berthelinia.htm)**
 
 ---
 

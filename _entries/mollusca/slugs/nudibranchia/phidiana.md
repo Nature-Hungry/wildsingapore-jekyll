@@ -2,7 +2,7 @@
 title: Phidiana nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "phidiana, militaris, aeolid, glaucidae, facelinidae, aeolidina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Facelinidae
 genus: Phidiana
 species: militaris
@@ -20,6 +20,23 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429chgg5462m6l.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/170626skdtch4.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/250201bsislks3.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/210213bsistch1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159224479928713&set=a.10159224523503713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phidiana/050429cftg5446m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,11 +79,8 @@ over the head and along the long oral tentacles. The oral tentacles,
 the corners of the foot and rhinophores are tipped yellow and the
 oral tentacles have orange stripes.
 
-*![](phidiana/050429cftg5446m3.jpg)  
-Changi, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](phidiana/050429chgg5462m6l.jpg)  
-*Changi, Apr 05*
 
 ---
 
@@ -85,18 +99,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](phidiana/170626skdtch4.jpg)  
-*Pulau Sekudu, Jun 17*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3).
 
 ---
 
-*![](phidiana/250201bsislks3.jpg)*  
- *Big Sisters Island, Feb 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post).
 
-![](phidiana/210213bsistch1.jpg)  
-*Big Sisters Island, Feb 21*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159224479928713&set=a.10159224523503713).
 
 ---
 

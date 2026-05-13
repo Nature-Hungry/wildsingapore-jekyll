@@ -2,7 +2,51 @@
 title: "Plate montipora corals (Montipora sp.) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3.jpg"
+  caption: |
+    <p>Terumbu Buran, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168143657/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4804m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4805m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5609m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5610m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4295m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4297m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -33,46 +77,17 @@ info on plate montipora corals](monplbumpy.htm)
 
 ---
 
-![](monplate/110324tryas07908m3.jpg)  
-*Terumbu
-Raya, Mar 11  
-![](monplate/110324tryas07908m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](monplate/101106burs00310m3.jpg)  
-*Terumbu
-Buran, Nov 10  
-![](monplate/101106burs00310m3a.jpg)*
 
 ---
 
-![](monplate/091205sudlks12m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](monplate/091205sudlks12m3a.jpg)*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4168143657/).
 
-*![](monplate/100613sngd5532m3.jpg)  
-*Pulau Sudong,
-Jun 10  
-![](monplate/100613sngd5532m3a.jpg)**
 
-*![](monplate/100601slud4804m3.jpg)  
-*Pulau Sudong,
-Jun 10  
-![](monplate/100601slud4805m3a.jpg)**
 
 ---
 
-*![](monplate/091205sudd5609m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](monplate/091205sudd5610m3.jpg)**
 
-*![](monplate/100530tbkd4295m3.jpg)  
-*Pulau Berkas,
-May 10  
-![](monplate/100530tbkd4297m3a.jpg)**
 
   
 back to [general info on plate montipora corals](monplbumpy.htm)

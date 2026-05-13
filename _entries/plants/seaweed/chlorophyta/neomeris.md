@@ -2,7 +2,7 @@
 title: 'Taugeh' seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Dasycladaceae
 genus: Neomeris
@@ -15,6 +15,47 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3a.jpg"
+  caption: |
+    <p>Sentosa, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m6l.jpg"
+  caption: |
+    <p>Sentosa, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/070408sntg8568m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/070408sntg8568m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/111224labd4775m6l.jpg"
+  caption: |
+    <p>Labrador, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/111224labd4775m3.jpg"
+  caption: |
+    <p>Labrador, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/111224labd4775m3a.jpg"
+  caption: |
+    <p>The tiny spheres exposed produce spores (sporangium).</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/160124smkell4.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153671838553964.1073741871.716233963&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/200626tptvc1.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750326127945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/100601slud4706m3b.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/100130brkd8474m3b.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/091204pawd5388m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/101223sntd3942m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,24 +113,11 @@ there are 7 current *Neomeris* species. The species are hard to tell apart in th
   
 Neomeris is the name of one of the 50 Greek nymphs or sea
 goddesses collectively called the Nereides.
-*![](neomeris/101223sntd3942m3.jpg)  
-Sentosa, Dec 10* *![](neomeris/101223sntd3942m3a.jpg)  
-Sentosa, Dec 10* 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](neomeris/101223sntd3942m6l.jpg)  
-Sentosa, Dec 10*
 
-*![](neomeris/070408sntg8568m3.jpg)  
-Sentosa, Apr 07  
-![](neomeris/070408sntg8568m3a.jpg)*
 
-*![](neomeris/111224labd4775m6l.jpg)  
-Labrador, Dec 11*
 
-*![](neomeris/111224labd4775m3.jpg)  
-Labrador, Dec 11  
-![](neomeris/111224labd4775m3a.jpg)* The
-tiny spheres exposed produce spores (sporangium).
 
  *\*Species
 are difficult to positively identify without close examination of internal
@@ -114,22 +142,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](neomeris/160124smkell4.jpg)  
-Pulau Semakau East, Jan 16*Photo shared by Lisa Lim on [facebook](https://www.facebook.com/media/set/?set=a.10153671838553964.1073741871.716233963&type=3).
 
-*![](neomeris/200626tptvc1.jpg)  
-Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157750326127945&set=a.10157750324127945&type=3&theater).
 
 ---
 
-*![](neomeris/100601slud4706m3b.jpg)  
-Pulau Salu, Jun 10*
 
-*![](neomeris/100130brkd8474m3b.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](neomeris/091204pawd5388m3.jpg)  
-Pulau Pawai, Dec 09*
 
 ---
 

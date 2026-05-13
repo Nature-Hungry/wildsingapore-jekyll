@@ -2,7 +2,7 @@
 title: Moon-headed sidegill slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, head, side, gill, notaspidea, euselenops, luniceps, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pleurobranchidae
 genus: Euselenops
 species: luniceps
@@ -19,6 +19,40 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
+  caption: |
+    <p>Changi East, Dec 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/090428chgd0868m3a.jpg"
+  caption: |
+    <p>Showing the gill on one side.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/081231sisd4502m3b.jpg"
+  caption: |
+    <p>Closer look at oral veil and mouth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/170528chg7lks1.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/posts/10155349682483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/170528chg6mn6.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/110123sislks4m3.JPG"
+  caption: |
+    <p>Sisters Island, Jan 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/01/colours-of-big-sisters-shore.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/090510hntnml1m3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/05/woooo.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/091205sudd5467m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +94,9 @@ member of its genus and is distinctive. No other slug looks similar!
 Some have a dark underside, others a paler one. The small gill is
 on its right side which may be yellowish or white.
 
-![](euselenops/121214chged2264m3.jpg)  
-*Changi East, Dec 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](euselenops/090428chgd0868m3.jpg)*Underside.  
-*Changi, Apr 09*
 
-*![](euselenops/090428chgd0868m3a.jpg)*Showing the gill on one side.  
-*Changi, Apr 09*
 
 The slug is adapted for living in a sandy habitat. A broad foot and
 flattened body for crawling over sand or burrowing underneath. A long
@@ -78,11 +107,7 @@ oral veil fringed with lots of sensory 'hairs' on the underside to
 detect prey. The slug can swim for some distance by flapping the sides
 of its body.
 
-![](euselenops/081231sisd4502m3.jpg)  
-Underside.
 
-![](euselenops/081231sisd4502m3b.jpg)  
-Closer look at oral veil and mouth.
 
 **Sometimes mistaken for** a [squid
 or cuttlefish](../../cephalopoda/squid.htm).  
@@ -111,24 +136,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](euselenops/170528chg7lks1.jpg)  
- *Changi, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/posts/10155349682483158).
 
-![](euselenops/170528chg6mn6.jpg)  
-*Changi, May 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3).
 
 ---
 
-![](euselenops/110123sislks4m3.JPG)  
- *Sisters Island, Jan 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/01/colours-of-big-sisters-shore.html).
 
-![](euselenops/090510hntnml1m3.jpg)  
- *Pulau Hantu, May 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/05/woooo.html).
 
-![](euselenops/091205sudd5467m3.jpg)  
- *Pulau Sudong, Dec 09*
 
 ---
 

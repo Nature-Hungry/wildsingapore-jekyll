@@ -2,7 +2,7 @@
 title: Burrowing giant clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "burrowing, giant, clam, tridacna, crocea, tridacnidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Tridacnidae
 genus: Tridacna
 species: crocea
@@ -20,6 +20,62 @@ order: Cardiida
 superfamily: Cardioidea
 subfamily: Tridacninae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg"
+  caption: |
+    <p>Thick fleshy 'lips' when submerged.</p>
+    <p>Terumbu Raya , May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/great-reef-lives-up-to-its-name.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
+  caption: |
+    <p>Short fluted scuplturing on shell.</p>
+    <p>Pulau Hantu, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/160314lazlks1.JPG"
+  caption: |
+    <p>Lazarus Island, Mar 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/03/lazarus-trekking-with-giant-clam-find.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/250503cyrky1.jpg"
+  caption: |
+    <p>Tiny one about 3cm long Cyrene, May 25Photo by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10171998767670112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210823smkejll2.jpg"
+  caption: |
+    <p>Tiny one about 3cm long Pulau Semakau (East).</p>
+    <p>Aug 21Photo by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10158472750936295&set=a.10158472745926295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/11/id026-boring-giant-clam.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100519tsmklks4m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100519tsmjk11m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/091105smknml1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/11/id026-boring-giant-clam.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/150620tblks6m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153428823588158.1073741884.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100629tpdjk11m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/091231biojk2m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4230898635/in/set-72157622842029671/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100131slulks3m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4351228572/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100130brkd8701m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100810sngd9891m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210428slulks6.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159162466513158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/100502trylks6m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,23 +134,10 @@ activities such as reclamation and pollution. Trampling by careless
 visitors and over-collection can also affect local populations of
 young clams.
 
-*![](crocea/100502trylks6m3.jpg)*  
-Thick fleshy
-'lips' when submerged. *Terumbu Raya
-, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/great-reef-lives-up-to-its-name.html).
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](crocea/050312hntg3342m3.jpg)*Short
-fluted scuplturing on shell.  
-*Pulau Hantu,
-Mar 05*
 
-![](crocea/160314lazlks1.JPG)  
-*Lazarus Island, Mar 16*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/03/lazarus-trekking-with-giant-clam-find.html).
 
-![](crocea/060211hntg4575m3.jpg)  
- *Pulau Hantu, Feb 06*
  
 
 ---
@@ -114,70 +157,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](crocea/250503cyrky1.jpg)  
-Tiny one about 3cm long *Cyrene, May 25*Photo by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10171998767670112&type=3&ref=embed_post).
 
-![](crocea/210823smkejll2.jpg)  
-Tiny one about 3cm long *Pulau Semakau (East). Aug 21*Photo by Jianlin LIu on [facebook](https://www.facebook.com/photo/?fbid=10158472750936295&set=a.10158472745926295).
 
-![](crocea/091105smknml1m3.jpg)  
-*Pulau
-Semakau, Nov 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/11/id026-boring-giant-clam.html).
 
 ---
 
-*![](crocea/100519tsmklks4m3.jpg)*  
- *Terumbu Semakau, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html).
 
-*![](crocea/100519tsmjk11m3.jpg)*  
- *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
 
-![](crocea/091105smknml1m3.jpg)  
-*Pulau
-Semakau, Nov 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/11/id026-boring-giant-clam.html).
 
 ---
 
-*![](crocea/150620tblks6m3.jpg)*  
-*Terumbu Bemban, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153428823588158.1073741884.547198157&type=3).
 
-*![](crocea/100629tpdjk11m3.jpg)*  
-*Terumbu
-Pempang Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
  
 
 ---
 
-![](crocea/091231biojk2m3.jpg)  
-*Pulau
-Biola, Dec 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4230898635/in/set-72157622842029671/).
 
-![](crocea/100131slulks3m3.jpg)  
-*Terumbu
-Salu, Jan 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4351228572/).
 
 ---
 
-![](crocea/100130brkd8701m3.jpg)  
-*Terumbu
-Berkas, Jan 10*
 
-![](crocea/100810sngd9891m3.jpg)  
-*Pulau
-Senang, Aug 10*
 
-![](crocea/210428slulks6.jpg)  
-*Pulau
-Salu, Apr 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159162466513158&set=a.10159162473618158).
 
 ---
 

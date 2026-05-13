@@ -2,7 +2,7 @@
 title: Star barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chthalamidae
 genus: Chthamalus
 species: ""
@@ -21,6 +21,29 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Chthamaloidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg"
+  caption: |
+    <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025460752945&set=a.10158025536362945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,14 +87,9 @@ and protrudes from the shell opening. They are often found close to
 one another, so much so that the 'shells' of individual animals seem
 to merge together.
 
-![](euraphia/050512tmg6400m3.jpg)  
-*Tanah Merah, May 05* ![](euraphia/050512tmg6400m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](euraphia/060716sisg6735m3.jpg)  
-*Sisters Island, Jul 06*![](euraphia/060716sisg6735m3a.jpg)
 
-![](euraphia/060613ecpd3118m3.jpg)  
-*East Coast, Jun 06*![](euraphia/060613ecpd3118m3a.jpg)
 
   
 *\***Species
@@ -96,8 +114,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](euraphia/201020swgvc5.jpg)  
-Sembawang, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158025460752945&set=a.10158025536362945).
  
  
 

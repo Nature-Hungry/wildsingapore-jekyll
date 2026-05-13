@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
-layout: default
+layout: entry
 shape: encrusting
 title: Lumpy orange sponge
 family: ""
@@ -12,6 +12,17 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3b.jpg"
+  caption: |
+    <p>Tiny hole, submerged.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3a.jpg"
+  caption: |
+    <p>Surface grainy but smooth, glossy.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpyorange/150802bbd8779m3.jpg"
 ---
 
 
@@ -32,14 +43,9 @@ seen?** This encrusting sponge reminds of our favourite 'Milo dinosaur' beverage
 in diameter, small lumpy clump. Clusters
 of lumps with large holes.
 Colours bright orange.
-![](lumpyorange/150802bbd8779m3.jpg)  
-*Beting Bronok, Aug 15* 
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lumpyorange/150802bbd8779m3b.jpg)  
-Tiny hole, submerged.
 
-![](lumpyorange/150802bbd8779m3a.jpg)  
-Surface grainy but smooth, glossy.
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience

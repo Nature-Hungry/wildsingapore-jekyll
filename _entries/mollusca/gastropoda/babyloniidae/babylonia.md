@@ -2,7 +2,7 @@
 title: Spiral babylonia snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Babyloniidae
 genus: Babylonia
 species: spirata
@@ -15,6 +15,42 @@ class: Gastropoda
 subclass: Caenogastropoda
 order: Neogastropoda
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg"
+  caption: |
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8043m3.jpg"
+  caption: |
+    <p>Muscular foot with operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/230704chg1rk3.jpg"
+  caption: |
+    <p>Scavenging on something dead?</p>
+    <p>Changi Carpark 1, Jul 23 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160587839917906&set=a.10160587835882906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/160125obsmn5.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8058m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917sbwmn2.jpg"
+  caption: |
+    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157485865148660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/201020prpalks5.jpg"
+  caption: |
+    <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706823983158&set=a.10158706826698158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200917prplks2.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625857423158&set=a.10158625872343158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/200705chg1mn1.jpg"
+  caption: |
+    <p>Changi, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157519439248660&set=a.10157519442258660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/171206ubnlks1.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914551643158&set=a.10155914547808158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/220616chgerk1.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159804110727906&set=a.10159804107292906">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/babyloniidae/babylonia/130624chg7d8060m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -53,21 +89,10 @@ is notch at the tip of the shell where the long siphon emerges. Operculum
 thin and flexible, made of a horn-like material. Body pale, with a
 long muscular foot that is dark with an orange rim, short tentacles
 and long siphon.
-*![](babylonia/130624chg7d8060m3.jpg)  
-Changi, Jun 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](babylonia/130624chg7d8043m3.jpg)*  
-Muscular foot with operculum.
 
-*![](babylonia/230704chg1rk3.jpg)*  
-Scavenging on something dead?  
-*Changi Carpark 1, Jul 23*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160587839917906&set=a.10160587835882906).
 
-*![](babylonia/160125obsmn5.jpg)  
-Pulau Ubin OBS, Jan 16*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3).
-*![](babylonia/130624chg7d8058m3.jpg)*
 
 ---
 
@@ -86,32 +111,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](babylonia/200917sbwmn2.jpg)  
-Sembawang Beach, Sep 20*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157485865148660&set=a.10157485864973660).
 
 ---
 
-![](babylonia/201020prpalks5.jpg)  
-*Pasir Ris-Loyang, Oct 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158706823983158&set=a.10158706826698158).
 
-*![](babylonia/200917prplks2.jpg)  
-Pasir Ris Park, Sep 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158625857423158&set=a.10158625872343158).
 
 ---
 
-*![](babylonia/200705chg1mn1.jpg)  
-Changi, Jul 20*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10157519439248660&set=a.10157519442258660&type=3&theater).
 
-*![](babylonia/171206ubnlks1.jpg)  
-Pulau Ubin, Dec 17*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155914551643158&set=a.10155914547808158&type=3&theater).
-*![](babylonia/220616chgerk1.jpg)  
-Changi Lost Coast, Jun 22*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159804110727906&set=a.10159804107292906).
 
 ---
 

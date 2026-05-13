@@ -2,7 +2,7 @@
 title: "Agar-agar red seaweeds "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "agar, gracilaria, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Gracilariaceae
 genus: Gracilaria
@@ -17,6 +17,26 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg"
+  caption: |
+    <p>Many bunches growing on an abandoned net.</p>
+    <p>Chek Jawa, Jul 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/050427tmg5203m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/060613ecpd2949m3.jpg"
+  caption: |
+    <p>Denser bunches of short 'stems'.</p>
+    <p>East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/111030skdd3192m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg"
+  caption: |
+    <p>Made up of club-shaped segments.</p>
+    <p><a href="salicornia">Knobbly agar-agar red seaweed</a> Chek Jawa, May 05</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/020714cjcpd3122m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -110,20 +130,10 @@ Besides *Gracilaria*, other species used to produce commercial
 agar-agar include *Ahnfeltiopsis, Gelidium, Gelidiella, Pterocladiella*
 and *Pterocladia*.  
 
-![](gracilaria/020714cjcpd3122m3.jpg)  
-Many bunches growing on   
-an abandoned net. *Chek Jawa, Jul 02*  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](gracilaria/050427tmg5203m3.jpg)  
-Loose clusters of long 'stems'. *Tanah Merah, Apr 05*![](gracilaria/060613ecpd2949m3.jpg)  
-Denser bunches of short 'stems'. *East Coast, Jun 06*
 
-![](gracilaria/111030skdd3192m3.jpg)  
-*Pulau Sekudu, Oct 11*
 
-![](salicornia/050526cjg6877m3.jpg)  
-Made up of club-shaped segments. [Knobbly agar-agar red seaweed](salicornia)  
-*Chek Jawa, May 05*
 
   
 *\*Seaweed

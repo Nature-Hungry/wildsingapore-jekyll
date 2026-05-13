@@ -2,7 +2,7 @@
 title: Pink   button zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, button, colonial, anemone, zoanthid, zoanthus, vietnamensis, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: Zoanthidae
 genus: Zoanthus
@@ -16,6 +16,35 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg"
+  caption: |
+    <p>Changi, Jun 08 .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/080607chgd5260m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/070324cyrd9317m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/070324cyrd9317m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/040804skdd4116m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/040804skdd4116m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/251009sjilvo1.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136995108927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/101108bkoms00627m3.jpg"
+  caption: |
+    <p>Terumbu Bukom, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/100130brkd8486m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/pink/080607chgd5260m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,16 +84,9 @@ most obvious when the tentacles are tucked into the body.
   
 More about [button zoanthids in general](zoanthus).
 
-*![](pink/080607chgd5260m3.jpg)**Changi, Jun 08* .*![](pink/080607chgd5260m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pink/070324cyrd9317m3.jpg)  
-Cyrene Reef, Mar 07  
-![](pink/070324cyrd9317m3a.jpg)*
 
-*![](pink/040804skdd4116m3.jpg)  
-Pulau Sekudu,
-Aug 04  
-![](pink/040804skdd4116m3a.jpg)*
 
  *\*Species
 are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience of
@@ -87,16 +109,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pink/251009sjilvo1.jpg)  
-St John's Island, Oct 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122136995108927700&type=3&ref=embed_post).
 
-*![](pink/101108bkoms00627m3.jpg)  
-Terumbu Bukom,
-Nov 10*
 
-*![](pink/100130brkd8486m3.jpg)  
-Terumbu Berkas,
-Jan 10*
 
 ---
 

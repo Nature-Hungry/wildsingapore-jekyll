@@ -2,7 +2,7 @@
 title: Mangrove ear snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, ear, cassidula, snail, ellobiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ellobiidae
 genus: Cassidula
 species: ""
@@ -20,6 +20,14 @@ order: Ellobiida
 superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307brld7462.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,13 +69,8 @@ ear snail](banded.htm) which has bands on its shell and is pink around the shell
 **What does it eat?** It grazes on
 algae growing on mangrove trees and on the ground.
 
-![](cassidula/090307brld7462.jpg)  
-*Berlayar
-Creek, Mar 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cassidula/090307blyd7470m3.jpg)  
-*Berlayar
-Creek, Mar 09*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Straw tubeworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chaetopteridae
 genus: ""
 species: identification*
@@ -14,6 +14,28 @@ phylum: Annelida
 class: Polychaeta
 subclass: Sedentaria
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg"
+  caption: |
+    <p>Regularly separated, not tightly clustered.</p>
+    <p>Chek Jawa, Jan 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG"
+  caption: |
+    <p>Peeking out of its tube.</p>
+    <p>Changi, Aug 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2902842349/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg"
+  caption: |
+    <p>Changi, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Chaetopteridae">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg"
 ---
 
 
@@ -44,20 +66,11 @@ large areas, the tubes usually regularly separated from one another
   
 The actual animals are complex with 'wings' and other extensions.   
 
-![](strawtube/080122cjd9082m3.jpg)  
-Regularly separated,
-not tightly clustered. *Chek Jawa, Jan 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](strawtube/080801chglks.JPG)  
-Peeking out of
-its tube. *Changi, Aug 08*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2902842349/in/album-72157607622389163/).
 
-![](strawtube/120410chgd9214m3.jpg)  
-*Changi, Apr 12*
 
-![](strawtube/120410chgd9214m3a.jpg)
 
-![](strawtube/120410chgd9214m3b.jpg)
 
 *\***Species
 are difficult to positively identify without close examination.   
@@ -81,8 +94,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](strawtube/171206ubnlks4.jpg)  
-*Pulau Ubin, Dec 17*Photo shared by Loh Kok Sheng on [facebook](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Chaetopteridae).
 
 ---
 
@@ -99,5 +110,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - Wee Y.C.
   and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
   National Council on the Environment. 163pp.
-
-

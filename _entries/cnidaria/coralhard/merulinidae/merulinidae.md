@@ -2,7 +2,7 @@
 title: "Merulinid corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crispy, crust, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Merulinidae
 genus: ""
 species: ""
@@ -15,6 +15,129 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg"
+  caption: |
+    <p><a href="hydboulder.htm">Boulder horn coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1101m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg"
+  caption: |
+    <p><a href="hydbranch.htm">Branching horn coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6498m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg"
+  caption: |
+    <p><a href="pectinia.htm">Carnation coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/merulina/110802smkd8153m3.jpg"
+  caption: |
+    <p><a href="merulina.htm">Ridged plate coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/merulina/110802smkd8156m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0177m3.jpg"
+  caption: |
+    <p><a href="geoffroyi.htm">Cabbage coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0177m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg"
+  caption: |
+    <p><a href="caulastraea.htm">Trumpet coral</a> Colony appears boulder-shaped, but is not solid.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg"
+  caption: |
+    <p><a href="cyphastrea.htm">Meteor coral</a>Colony boulder-shaped, sometimes in hillocks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg"
+  caption: |
+    <p>Corallites large trumpet-shaped, long narrow flaring to oval opening.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg"
+  caption: |
+    <p>Corallites a tiny circular ring often not packed tightly, with tiny bumps between the corallites.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg"
+  caption: |
+    <p><a href="../faviidae/ring/ringpurplewhite.htm">Purple-and-white ring coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070102sisd7332m3.jpg"
+  caption: |
+    <p><a href="../faviidae/ring/ringsmall.htm">Small ring coral</a> Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3.jpg"
+  caption: |
+    <p><a href="../faviidae/ring/ringbig.htm">Big ring coral</a> Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg"
+  caption: |
+    <p>Corallites a tiny ring often packed tightly, walls purple, polyps fleshy white or greenish.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringsmall/070102sisg7132m3c.jpg"
+  caption: |
+    <p>Corallites small circular ring often packed tightly.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3c.jpg"
+  caption: |
+    <p>Corallites large ring-shaped often squashed tightly so they may be oval or bean-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisd6295m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexatiny.htm">Tiny hexa coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2126m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexasmall.htm">Small hexa coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexatoothed.htm">Toothed hexagonal coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisg2836m3.jpg"
+  caption: |
+    <p>Corallites with shared walls that form tiny hexagonal cells.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmall/060527sjid2127m3.jpg"
+  caption: |
+    <p>Corallites with shared walls that form small hexagonal cells.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg"
+  caption: |
+    <p>Corallites with shared walls that form hexagonal cells.</p>
+    <p>The walls have relatively large 'teeth'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexasmooth.htm">Smooth hexa coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexacolumn.htm">Columnar hexa coral</a>Colony encrusting or dome-shaped, with untidy lumps or columns.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/hexahoneycomb.htm">Honeycomb hexa coral</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg"
+  caption: |
+    <p>Corallites hexagonal with shared walls, a smooth surface in between the corallites.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg"
+  caption: |
+    <p>Corallites may jut out with thick, shared walls, forming irregular, sharp angled, usually hexagonal cells.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3c.jpg"
+  caption: |
+    <p>Corallites with thin, tall, shared walls that form large hexagonal cells.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg"
+  caption: |
+    <p><a href="../faviidae/hexa/mazehexa.htm">Maze hexa corals</a>Colony boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg"
+  caption: |
+    <p><a href="../faviidae/maze/mazejigsaw.htm">Jigsaw maze coral</a> Colony boulder-shaped often spherical.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg"
+  caption: |
+    <p><a href="../faviidae/maze/mazeothers.htm">Other maze corals</a>Colony encrusting or boulder-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg"
+  caption: |
+    <p>Corallites with shared walls forming irregular hexagons or short maze-like valleys.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3b.jpg"
+  caption: |
+    <p>Corallites with shared parallel walls that form long meandering valleys.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3a.jpg"
+  caption: |
+    <p>Corallites with shared walls often thick forming long meandering valleys, maze-like or hexagonal patterns that are coarser than other kinds of maze favid corals.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -52,148 +175,50 @@ corals on Singapore shores**
 
 ---
 
-**![](hydboulder/060402ulrd1100m3.jpg)  
-[Boulder horn coral](hydboulder.htm)  
-![](hydboulder/060402ulrd1101m3.jpg)**
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](hydbranch/060714rlhg6493m3.jpg)  
-[Branching horn coral](hydbranch.htm)  
-![](hydbranch/060714rlhg6498m3b.jpg)**
 
-![](pectinia/060714rlhg6527m3.jpg)  
-[**Carnation coral**](pectinia.htm)  
-![](pectinia/060714rlhg6527m3b.jpg)
 
 ---
 
-![](../merulinidae/echinopora/060714rlhg6515m3.jpg)  
-**[Hedgehog coral](echinopora.htm)**![](../merulinidae/echinopora/060714rlhg6522m3.jpg)
 
-**![](merulina/110802smkd8153m3.jpg)  
-[Ridged plate coral](merulina.htm)  
-![](merulina/110802smkd8156m3a.jpg)**
 
-**![](geoffroyi/050724bbg0177m3.jpg)  
-[Cabbage coral](geoffroyi.htm)  
-![](geoffroyi/050724bbg0177m3b.jpg)**
 
 ---
 
-![](caulastraea/040522kusbd0064m3.jpg)  
-[**Trumpet
-coral**](caulastraea.htm)  
-Colony appears
-boulder-shaped,   
-but is not solid.
 
-![](cyphastrea/120124sisd5992m3.jpg)  
-**[Meteor coral](cyphastrea.htm)**Colony boulder-shaped,  
-sometimes in hillocks.
 
-![](caulastraea/040522kusad0062m3.jpg)  
-Corallites large trumpet-shaped, long narrow flaring to oval opening.
 
-![](cyphastrea/120124sisd5996m3.jpg)  
-Corallites a tiny circular ring often not packed tightly, with tiny
-bumps between the corallites.
 
 ---
 
-![](../faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg)  
-**[Purple-and-white
-ring coral](../faviidae/ring/ringpurplewhite.htm)**Colony boulder-shaped.
 
-![](../faviidae/ring/ringsmall/070102sisd7332m3.jpg)  
-**[Small
-ring coral](../faviidae/ring/ringsmall.htm)**  
-Colony boulder-shaped.
 
-![](../faviidae/ring/ringbig/060402ulrd1209m3.jpg)  
-[**Big ring coral**](../faviidae/ring/ringbig.htm)  
-Colony boulder-shaped.
 
-![](../faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg)  
-Corallites a tiny ring often packed tightly, walls purple, polyps
-fleshy white or greenish.
 
-![](../faviidae/ring/ringsmall/070102sisg7132m3c.jpg)  
-Corallites small circular ring often packed tightly.
 
-![](../faviidae/ring/ringbig/060402ulrd1209m3c.jpg)  
-Corallites large ring-shaped often squashed tightly so they may
-be oval or bean-shaped.
 
 ---
 
-**![](../faviidae/hexa/hexatiny/051103sisd6295m3.jpg)  
-[Tiny hexa coral](../faviidae/hexa/hexatiny.htm)**Colony
-boulder-shaped.
 
-**![](../faviidae/hexa/hexasmall/060527sjid2126m3.jpg)  
-[Small hexa coral](../faviidae/hexa/hexasmall.htm)**Colony
-boulder-shaped.
 
-**![](../faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg)  
-[Toothed hexagonal coral](../faviidae/hexa/hexatoothed.htm)**Colony
-boulder-shaped.
 
-*![](../faviidae/hexa/hexatiny/051103sisg2836m3.jpg)*Corallites with shared walls that form tiny hexagonal cells.
 
-![](../faviidae/hexa/hexasmall/060527sjid2127m3.jpg)  
-Corallites with shared walls that form small hexagonal cells.
 
-![](../faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg)  
-Corallites with shared walls that form hexagonal cells. The walls
-have relatively large 'teeth'.
 
 ---
 
-**![](../faviidae/hexa/hexasmooth/050706sntg8979m3.jpg)  
-[Smooth hexa coral](../faviidae/hexa/hexasmooth.htm)**Colony
-boulder-shaped.
 
-**![](../faviidae/hexa/hexacolumn/060102sisg3673m3.jpg)  
-[Columnar hexa coral](../faviidae/hexa/hexacolumn.htm)**Colony
-encrusting or dome-shaped, with untidy lumps or columns.
 
-**![](../faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg)  
-[Honeycomb hexa coral](../faviidae/hexa/hexahoneycomb.htm)**Colony boulder-shaped.
 
-![](../faviidae/hexa/hexasmooth/050706sntg8981m3.jpg)  
-Corallites hexagonal with shared walls, a smooth surface in between
-the corallites.
 
-![](../faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg)  
-Corallites may jut out with thick, shared walls, forming irregular,
-sharp angled, usually hexagonal cells.
 
-![](../faviidae/hexa/hexahoneycomb/050509hntg5989m3c.jpg)  
-Corallites with thin, tall, shared walls that form large hexagonal
-cells.
 
 ---
 
-**![](../faviidae/hexa/mazehexa/050720sntg9544m3.jpg)  
-[Maze hexa corals](../faviidae/hexa/mazehexa.htm)**Colony
-boulder-shaped.
 
-**![](../faviidae/maze/jigsaw/040605kuscd0015m3.jpg)  
-[Jigsaw maze coral](../faviidae/maze/mazejigsaw.htm)** Colony
-boulder-shaped often spherical.
 
-**![](../faviidae/maze/others/050611kusg7740m3.jpg)  
-[Other maze corals](../faviidae/maze/mazeothers.htm)**Colony
-encrusting or boulder-shaped.
 
-*![](../faviidae/hexa/mazehexa/050720sntg9545m3a.jpg)*  
-Corallites with shared walls forming irregular hexagons or short maze-like
-valleys.
-![](../faviidae/maze/jigsaw/040605kuscd0015m3b.jpg)  
-Corallites with shared parallel walls that form long meandering valleys.
-![](../faviidae/maze/others/050611kusg7740m3a.jpg)  
-Corallites with shared walls often thick forming long meandering valleys,
-maze-like or hexagonal patterns that are coarser than other kinds
-of maze favid corals.
 
 ---
 

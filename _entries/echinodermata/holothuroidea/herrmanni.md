@@ -2,7 +2,7 @@
 title: Herrmann's sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curryfish, cucumber, seacucumber, stichopus, herrmanni, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Stichopodidae
 genus: Stichopus
@@ -16,6 +16,35 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2651m6l.jpg"
+  caption: |
+    <p>Flat underside with three rows of tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9014m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/080803smkd9015m3.jpg"
+  caption: |
+    <p>Tube feet on the underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/081214smkelm3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 08 Photo by Yvonne Yeoh courtesy of Eric Leong.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch2.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/170501tsmktch3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/herrmanni/130824smkd2647m6l.jpg"
 ---
 
 
@@ -53,15 +82,10 @@ annually.
 **Cucumber home:** This sea cucumber
 is host to the pearlfish *Carapus mourlani* and *Carapus homei*.
 
-*![](herrmanni/130824smkd2647m6l.jpg)  
-*Pulau Semakau, Aug 13**
+{% include img-wrap-group.html items=page.page_images %}
 
-![](herrmanni/130824smkd2647m3.jpg)
 
-![](herrmanni/130824smkd2651m3.jpg)
 
-![](herrmanni/130824smkd2651m6l.jpg)  
-Flat underside with three rows of tube feet.
 
 **Human uses:** This is one of the
 sea cucumbers whose body fluids are harvested in Malaysia for 'Air
@@ -80,10 +104,7 @@ by more than 60-90% in at least 50% of its range, as there is some
 refuge in deeper waters, and is considered over exploited in at least
 40% of it range although exact declines are difficult to estimate."
 
-*![](herrmanni/080803smkd9014m6l.jpg)  
-*Pulau Semakau, Aug 08**
 
-*![](herrmanni/080803smkd9015m3.jpg)*Tube feet on the underside.
 
 ---
 
@@ -102,16 +123,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](herrmanni/081214smkelm3.jpg)  
-Pulau Semakau, Dec 08*  
-Photo by Yvonne Yeoh courtesy of Eric Leong.
 
 ---
 
-*![](herrmanni/170501tsmktch2.jpg)  
-*Terumbu Semakau, May 17**Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3).
 
-*![](herrmanni/170501tsmktch3.jpg)*
 
 ---
 
@@ -142,5 +157,3 @@ Photo by Yvonne Yeoh courtesy of Eric Leong.
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

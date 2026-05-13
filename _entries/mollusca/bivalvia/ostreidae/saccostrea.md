@@ -2,7 +2,7 @@
 title: Spiked rock oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiked, rock, oyster, saccostrea, cuccullata, osteridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Osteridae
 genus: Saccostrea
 species: cuccullata*
@@ -18,6 +18,17 @@ order: Ostreida
 superfamily: Ostreoidea
 subfamily: Saccostreinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/050512tmg6390m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,13 +70,9 @@ The spines might make it difficult for such a snail to bore a hole
 in the oyster's shell. But this is no defense against determined humans.
 This oyster is eaten in many parts of the wold where they occur.
 
-*![](saccostrea/050512tmg6390m3.jpg)  
-Tanah Merah, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](saccostrea/050512tmg6390m3a.jpg)*
 
-*![](saccostrea/090308blyd7566m3.jpg)  
-Berlayar Creek, Mar 09*
 
   
 *\*Species are difficult

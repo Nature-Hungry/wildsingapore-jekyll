@@ -2,7 +2,7 @@
 title: All-black hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, hermit, crab, clibanarius, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Clibanarius
@@ -21,6 +21,26 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg"
+  caption: |
+    <p>Sisters Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/120210tmftd6284m3a.jpg"
+  caption: |
+    <p>Tanah Merah, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/241210ecpcnky2.jpg"
+  caption: |
+    <p>East Coast PCN, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169198523420112&set=a.10169198519290112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/240212sjiky1.jpg"
+  caption: |
+    <p>St John's Island, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169204502660112&set=a.10169204495945112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/251011ssisyls8.jpg"
+  caption: |
+    <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -68,13 +88,9 @@ bright red.
   
 More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
-*![](black/080816sisd9480m3.jpg)  
-Sisters Island, Aug 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](black/080816sisd9480m3d.jpg)*
 
-*![](black/120210tmftd6284m3a.jpg)  
-Tanah Merah, Feb 12*
 
   
 *\*Species are
@@ -99,14 +115,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](black/241210ecpcnky2.jpg)  
-*East Coast PCN, Feb 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169198523420112&set=a.10169198519290112).
 
-![](black/240212sjiky1.jpg)  
-*St John's Island, Feb 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169204502660112&set=a.10169204495945112).
 
-*![](black/251011ssisyls8.jpg)  
-Small Sisters Island, Oct 25*Photo shared by Yan Le Su on [facebook](https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post).
 
 ---
 

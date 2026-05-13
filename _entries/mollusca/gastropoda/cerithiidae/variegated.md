@@ -2,7 +2,7 @@
 title: Variegated creeper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "variegated, creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 78, 100, 111, 123]
 family: Cerithiidae
 genus: ""
@@ -15,6 +15,32 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg"
+  caption: |
+    <p>Sisters Island, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3a.jpg"
+  caption: |
+    <p>Closeup of shell opening and operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/050706sntg8955m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/110121tmfts03807m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/080920hntd0782m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250727smkwrk2.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162822850792906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/200709bbbvc2.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jul 20 Photo shared by VIncent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157786568377945&set=a.10157785669142945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/250712tplrk5.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,18 +86,11 @@ Many species of creeper snails are have variegated patterns. They
 are difficult to tell apart in the field. The creeper snails on this
 page may not all be of the same species.
 
-*![](variegated/060212sisg4837m3.jpg)  
-Sisters Island, Feb 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](variegated/060212sisg4837m3a.jpg)*  
-Closeup of shell opening and operculum.
 
-*![](variegated/050706sntg8955m3.jpg)  
-Sentosa, Jul 05*
 
-*![](variegated/110121tmfts03807m6l.jpg)* *Tanah Merah, Jan 11*
 
-*![](variegated/080920hntd0782m3.jpg)* *Pulau Hantu, Sep 08*
 
   
 *\*Species are difficult
@@ -96,18 +115,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](variegated/250727smkwrk2.jpg)*  
-*Pulau Semakau (West), Jul 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162822850792906&type=3&ref=embed_post).
 
 ---
 
-![](variegated/200709bbbvc2.jpg)  
-*Beting Bemban Besar, Jul 20*  
-Photo shared by VIncent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157786568377945&set=a.10157785669142945&type=3&theater).
 
-*![](variegated/250712tplrk5.jpg)  
-Terumbu
-Pempang Laut, Jul 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

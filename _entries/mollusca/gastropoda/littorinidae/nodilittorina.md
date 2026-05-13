@@ -2,7 +2,7 @@
 title: Knobbly periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "knobbly, periwinkle, echinolittorina, malaccana, nodilittorina, trochoides, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 75, 100, 111, 123]
 family: Littorinidae
 genus: Echinolittorina
@@ -17,6 +17,24 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg"
+  caption: |
+    <p>Lazarus Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5611m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/110203sjim6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,21 +79,11 @@ shell helps to keep the animal cool. It is often found so high up on
 the rocks that it is only wet for a few hours for the few days
 of high spring tides every two weeks or so. This tough snail feeds
 only during these high spring tides or perhaps when it rains.
-*![](nodilittorina/110203sjim6l.jpg)  
-St. John's Island, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nodilittorina/110203sjim3.jpg)
 
-*![](nodilittorina/040706lzrd2452m3.jpg)  
-Lazarus Island, Jul 04* 
 
-![](nodilittorina/050502cjg5611m3.jpg)  
-*Chek Jawa,
-May 05*
 
-![](nodilittorina/050502cjg5584m3.jpg)  
-*Chek Jawa,
-May 05*
 
 **Human
 uses:** Surprisingly, even though it is so tiny, this snail is said to be collected

@@ -2,7 +2,7 @@
 title: Magnificent anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "magnificent, anemone, heteractis, magnifica, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 9, 15, 19, 25, 47, 48, 79, 88, 113]
 family: Stichodactylidae
 genus: Heteractis
@@ -17,6 +17,136 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: July 2024
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg"
+  caption: |
+    <p>Kusu Island, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg"
+  caption: |
+    <p>Long tentacles densely cover the oral disk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg"
+  caption: |
+    <p>The animal can tuck its tentacles into its body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100201hntd9194m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100201hntd9195m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/080208hntd9479m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/080208hntd9479m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120409tptd8774m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120409tptd8774m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/181225kuslks5.jpg"
+  caption: |
+    <p>A small fish caught in its tentacles.</p>
+    <p>Kusu Island, Dec 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156868568578158&set=a.10156868565383158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg"
+  caption: |
+    <p><a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone shrimp</a> on the anemone.</p>
+    <p>Pulau Hantu, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/110802smkd8206m3.jpg"
+  caption: |
+    <p><a href="../../vertebrates/fish/pomacentridae/ocellaris.htm">Clown anemonefish</a> lives safely in the anemone.</p>
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250715bbkky1.jpg"
+  caption: |
+    <p>Beting Bemban Kecil, Jul 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172615275025112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250715bbkky2.jpg"
+  caption: |
+    <p>Beting Bemban Kecil, Jul 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172615275025112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/200707hntdc3.jpg"
+  caption: |
+    <p>Sea anemone in the process of cloning itself!</p>
+    <p>Pulau Hantu, Jul 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2949565735160183&set=a.2949753721808051&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkesg2.jpg"
+  caption: |
+    <p>One beaching among normal.</p>
+    <p>Pulau Semakau (East), Jul 24 Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo/?fbid=10232414359970924&set=a.10232414418852396">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkerk2.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Semakau (East), Jul 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161255000977906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240708smkeky1.jpg"
+  caption: |
+    <p>Stressed.</p>
+    <p>Pulau Semakau (East), Jul 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169681662395112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240820kusky5.jpg"
+  caption: |
+    <p>During global mass coral bleaching.</p>
+    <p>Kusu Island, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910378325112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240725smknky1.jpg"
+  caption: |
+    <p>During global mass coral bleaching.</p>
+    <p>Pulau Semakau (North), Jul 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169746973045112&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250714srpccn1.jpg"
+  caption: |
+    <p>One bleaching in a cluster of many anemones.</p>
+    <p>Sentosa Serapong, Jul 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120408sjilks4m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island , Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120707jnglks2m3.JPG"
+  caption: |
+    <p>Pulau Jong, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250727smkwlks6.jpg"
+  caption: |
+    <p>Pulau Semakau West, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250727smkwlks6a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/110717tbjk3m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jul 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/240412tbky1.jpg"
+  caption: |
+    <p>Terumbu Bemban, 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169362039350112&set=a.10169362037385112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/200624tryjll2.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157505355481295&set=a.10157505355066295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100629tpdjk3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/250712tpltl1.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162785401019264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks2m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks1m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719481708/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks4m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/100613snglks4m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719500558/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/091204pawjk12m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/091204pawjk12m3a.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171813522/in/pool-1329734@N22">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/210428slulks7.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469968158&set=a.10159162473618158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/220201brklks8.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700484513158&set=a.10159700487188158">facebook</a>.</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +157,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -83,19 +213,9 @@ large sea anemones and similar large cnidarians. Here's more on how
 to tell apart [large
 sea anemones with long tentacles](cfbiglong.htm) and [large
 'hairy' cnidarians](../cflargecnidarians.htm).
-*![](magnifica/040522kusbd0005m3.jpg)**Kusu Island, May 04*
-*![](magnifica/040522kusbd0005m3b.jpg)*Long tentacles densely cover the oral disk.
-![](magnifica/040522kusad0015m3.jpg)The animal can tuck its tentacles   
-into its body.
 
-*![](magnifica/100201hntd9194m3.jpg)  
-Pulau Hantu, Jan 10![](magnifica/100201hntd9195m3a.jpg)*
 
-*![](magnifica/080208hntd9479m3.jpg)  
-Pulau Hantu, Feb 08![](magnifica/080208hntd9479m3a.jpg)*
 
-*![](magnifica/120409tptd8774m3.jpg)  
-Terumbu Pempang Tengah, Apr 12 ![](magnifica/120409tptd8774m3a.jpg)*
 
 **Magnificent friends:** The
 Magnificent anemone harbours symbiotic algae (called zooxanthellae)
@@ -107,48 +227,21 @@ tentacles of the Magnificent anemone. These include Anemone
 shrimps like the [Peacock-anemone
 anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.htm) (*Periclimenes brevicarpalis*) and fishes
 such as *Dascyllus trimaculatus* and [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.htm) including *A. akallopisos, A. bicinctus, A. clarkii, A. nigripes, [A. ocellaris](../../vertebrates/fish/pomacentridae/ocellaris.htm)* (Clown anemonefish)*, A. percula, A. perideraion, A. xanthurus.*
-![](magnifica/181225kuslks5.jpg)  
-A small fish caught in its tentacles.  
-*Kusu Island, Dec 18*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156868568578158&set=a.10156868565383158&type=3&theater).
 
-*![](../../crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg)*[Peacock-tail
-anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.htm) on the anemone. *Pulau Hantu, Apr 04*
 
-*![](magnifica/110802smkd8206m3.jpg)*[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.htm) lives safely in the anemone. *Pulau Semakau, Aug 11*
 
 ****Masses of Magnificence****:**** These anemones is sometimes seen in clusters of many individuals crammed together. Such clusters probably form when the anemone reproduces asexually - one anemone splits into fragments, and each fragment develops into a full sized clone, identical to the original. That is probably why the anemones crammed together in a cluster usually have body columns of the same colour.
-![](magnifica/250715bbkky1.jpg)  
-*Beting Bemban Kecil, Jul 25*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172615275025112&type=3&ref=embed_post).
 
-![](magnifica/250715bbkky2.jpg)  
-*Beting Bemban Kecil, Jul 25*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172615275025112&type=3&ref=embed_post).
 
-*![](magnifica/200707hntdc3.jpg)*  
-Sea anemone in the process of cloning itself! *Pulau Hantu, Jul 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2949565735160183&set=a.2949753721808051&type=3&theater).
 
 **Magnificently Tough****:** During mass coral bleaching in 2010 and 2016, they were not seen to be bleaching. But during the 2024 global mass coral bleaching, a few were seen bleaching or stressed. The majority, however, seemed normal. **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
-![](magnifica/240708smkesg2.jpg)  
-One beaching among normal. *Pulau Semakau (East), Jul 24*  
-Photo shared by Shawne Goh on [facebook](https://www.facebook.com/photo/?fbid=10232414359970924&set=a.10232414418852396).
 
-![](magnifica/240708smkerk2.jpg)  
-Bleaching. *Pulau Semakau (East), Jul 24*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161255000977906).
 
-![](magnifica/240708smkeky1.jpg)Stressed. *Pulau Semakau (East), Jul 24*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169681662395112).
 
 ---
 
-*![](magnifica/240820kusky5.jpg)*During global mass coral bleaching. *Kusu Island, Aug 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169910378325112&type=3&ref=embed_post).
 
-![](magnifica/240725smknky1.jpg)During global mass coral bleaching. *Pulau Semakau (North), Jul 24*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169746973045112&type=3).
 
-*![](magnifica/250714srpccn1.jpg)*One bleaching in a cluster of many anemones. *Sentosa Serapong, Jul 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654).
 
 ---
 
@@ -167,73 +260,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](magnifica/120408sjilks4m3.jpg)*  
-*St. John's
-Island , Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html).
 
-*![](magnifica/120707jnglks2m3.JPG)*  
- *Pulau Jong, Jun 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html).
 
 ---
 
-*![](magnifica/250727smkwlks6.jpg)*  
-*Pulau Semakau West, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post).
 
-*![](magnifica/250727smkwlks6a.jpg)*
 
 ---
 
-*![](magnifica/110717tbjk3m3.jpg)*  
-*Terumbu Bemban, Jul 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html).
 
-*![](magnifica/240412tbky1.jpg)*  
-*Terumbu Bemban, 24*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169362039350112&set=a.10169362037385112).
 
-*![](magnifica/200624tryjll2.jpg)*  
-*Terumbu Raya, Jun 20*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157505355481295&set=a.10157505355066295&type=3&theater).
 
 ---
 
-*![](magnifica/100629tpdjk3m3.jpg)*  
-*Terumbu Pempang
-Darat, Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
 
-*![](magnifica/250712tpltl1.jpg)*  
-*Terumbu Pempang
-Laut, Jul 25*Photo
-shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162785401019264&type=3&ref=embed_post).
 
 ---
 
-*![](magnifica/100613snglks2m3.jpg)  
-Pulau Senang, Jun 10  
-![](magnifica/100613snglks1m3.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719481708/).
 
-*![](magnifica/100613snglks4m3.jpg)  
-Pulau Senang, Jun 10  
-![](magnifica/100613snglks4m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719500558/).
 
-*![](magnifica/091204pawjk12m3.jpg)  
-Pulau Pawai, Dec 09  
-![](magnifica/091204pawjk12m3a.jpg)*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171813522/in/pool-1329734@N22).
 
 ---
 
-*![](magnifica/210428slulks7.jpg)  
-Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162469968158&set=a.10159162473618158).
 
-*![](magnifica/220201brklks8.jpg)  
-Pulau Berkas, Feb 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159700484513158&set=a.10159700487188158).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Galloping sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "galloping, sea star, seastar, starfish, star, fish, stellaster, childreni, equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 91, 92, 106]
 family: Goniasteridae
 genus: Stellaster
@@ -16,6 +16,38 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg"
+  caption: |
+    <p>Pale underside with colourful markings</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg"
+  caption: |
+    <p>Tube feet with sucker tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4c.jpg"
+  caption: |
+    <p>Tiny conical points on upperside</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4b.jpg"
+  caption: |
+    <p>Underside</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg"
 ---
 
 
@@ -48,27 +80,15 @@ synchronised stepping action of its tube feet.
 **Where
 seen?** According to Marsh and Fromont, the stomach has been seen filled with sand, mud and foraminfera.
 
-![](equestris/110814smkd9075m3.jpg)  
-*Pulau Semakau,
-Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](equestris/110814smkd9084m3.jpg)
 
-![](equestris/110814smkd9084m3b.jpg)
 
 ---
 
-![](equestris/100420sntd1471m3.jpg)  
-*Sentosa, Apr
-10*
 
-![](equestris/100420sntd1471m3a.jpg)
 
-![](equestris/100420sntd1475m3.jpg)  
-Pale underside with colourful markings
 
-![](equestris/100420sntd1475m3a.jpg)  
-Tube feet with sucker tips.
 
 ---
 
@@ -87,15 +107,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](equestris/20251010blytl4.jpg)  
-Berlayar Creek, Oct 25*Photo
-shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post).
 
-![](equestris/20251010blytl4c.jpg)  
-Tiny conical points on upperside
 
-![](equestris/20251010blytl4b.jpg)  
-Underside
 
 ---
 
@@ -117,5 +130,3 @@ Underside
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

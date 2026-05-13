@@ -2,7 +2,7 @@
 title: Button zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: Zoanthidae
 genus: Zoanthus
@@ -16,6 +16,78 @@ subclass: Hexacorallia
 order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3d.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/060625bbd3512m3.jpg"
+  caption: |
+    <p>Long body column.</p>
+    <p>Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050330labg3938m3b.jpg"
+  caption: |
+    <p>Some have longer tentacles.</p>
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050708labg9175m3b.jpg"
+  caption: |
+    <p>Others have shorter tentacles.</p>
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100811slud0082m3a.jpg"
+  caption: |
+    <p>With their tentacles tucked in, they look like blobs or little sausages.</p>
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg"
+  caption: |
+    <p>Sometimes packed so tightly that each polyp is polygonal.</p>
+    <p>Thus mistaken for hard corals.</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/160208smkstch1.jpg"
+  caption: |
+    <p>A nudibranch (Baeolidia rieae?) found among these zoanthids.</p>
+    <p>Pulau Semakau South, Feb 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153934852983713.1073742004.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5225m3a.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5213m3a.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091205sudd5442m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100131slud8842m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100530tbkd4352m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/151001blylks4m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,17 +145,9 @@ generally pale blue but oral disk and tentacles in a wide range of
 colours, often the oral disk is a contrasting colour from the tentacles. Andy Dinesh
 took a [video clip of some zoanthids flourescing](zoanthus1v) under black light!
 
-*![](zoanthus/040804skdd4111m3.jpg)  
-Pulau Sekudu,
-Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](zoanthus/040804skdd4111m3b.jpg)  
-Pulau Sekudu,
-Aug 04*
 
-*![](zoanthus/040804skdd4111m3d.jpg)  
-Pulau Sekudu,
-Aug 04*
 
 The
 most commonly encountered species of button zoanthids on Singapore
@@ -98,13 +162,8 @@ mistaken for hard coral.
 blob-like animals. Here's more on [how
 to tell apart blob-like animals](../../../glossary/blobs)
 
-*![](zoanthus/060625bbd3512m3.jpg)*Long body column. *Beting Bronok, Jun 06*
 
-*![](zoanthus/050330labg3938m3b.jpg)*Some
-have longer tentacles. *Labrador, Mar 05*
 
-*![](zoanthus/050708labg9175m3b.jpg)*Others have
-shorter tentacles. *Labrador, Jul 05*
 
 **What
 do they eat?** Button zoanthids harbour microscopic, single-celled symbiotic algae (zooxanthellae)
@@ -115,16 +174,8 @@ also feed on bacteria, algae and dissolved substances in the water.
 There are also reports that they may capture edible food bits from
 the water, while others report that they do not capture plankton.
 
-*![](zoanthus/100811slud0082m3a.jpg)*With their tentacles tucked in,  
-they look like blobs or little sausages. *Pulau Salu, Aug 10*
 
-*![](zoanthus/050526cj6886m3.jpg)*Sometimes packed so tightly that  
-each polyp is polygonal.   
-Thus mistaken for hard corals*.  
-Chek Jawa, May 05*
 
-*![](zoanthus/160208smkstch1.jpg)*A nudibranch (*Baeolidia rieae*?)   
-found among these zoanthids. *Pulau Semakau South, Feb 16*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153934852983713.1073742004.619308712&type=3).
 
 **Status and threats:** Button zoanthids
 are not listed among the threatened animals of Singapore. However,
@@ -157,45 +208,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](zoanthus/100130brkd8511m3.jpg)  
-Terumbu Berkas,
-Jan 10  
-![](zoanthus/100130brkd8511m3a.jpg)*
 
-*![](zoanthus/091231biod7025m3.jpg)  
-Pulau Biola, Dec 09  
-![](zoanthus/091231biod7025m3a.jpg)*
 
-*![](zoanthus/100601slud4702m3.jpg)  
-Pulau Salu,
-Jun 10  
-![](zoanthus/100601slud4702m3a.jpg)*
 
 ---
 
-*![](zoanthus/091204pawd5225m3a.jpg)  
-Pulau Pawai,
-Dec 09*
 
-*![](zoanthus/091204pawd5213m3a.jpg)  
-Pulau Pawai,
-Dec 09*
 
-*![](zoanthus/091205sudd5442m3.jpg)  
-Pulau Sudong,
-Dec 09*
 
 ---
 
-*![](zoanthus/100131slud8842m3.jpg)  
-Terumbu Salu,
-Jan 10*
 
-*![](zoanthus/100530tbkd4352m3.jpg)  
-Pulau Berkas, May 10*
 
-*![](zoanthus/151001blylks4m3.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story).
 
 ---
 

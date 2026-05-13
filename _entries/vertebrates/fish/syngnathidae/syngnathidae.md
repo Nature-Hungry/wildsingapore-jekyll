@@ -2,7 +2,7 @@
 title: "Pipefishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Syngnathidae
 genus: ""
 species: ""
@@ -17,6 +17,42 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+  caption: |
+    <p>Often seen in a pair.Flexible tail used to hang onto objects.</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg"
+  caption: |
+    <p>The Alligator pipefish also has a rehensile tail.</p>
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg"
+  caption: |
+    <p>Mobile eyes can move while the body remains still.</p>
+    <p>Toothless jaws used like a straw.</p>
+    <p>Changi, Jul 07 Pregnant fathers: In many members of this family, the male carries the eggs.</p>
+    <p>In some species, the male has a pouch.</p>
+    <p>For those without a pouch, such as pipefishes, the eggs may be glued to the underside of the male's tail or abdomen.</p>
+    <p>Often the eggs are embedded in a spongy tissue.</p>
+    <p>Some have a pair of flaps that fold over the eggs.</p>
+    <p>Females have an ovipositor to lay eggs on the male's body, where the eggs are then fertilised.</p>
+    <p>In some species, 'pregnant' males may hang out together in small groups.</p>
+    <p>The eggs develop safely on dad's body.</p>
+    <p>The father 'gives birth' to live young, which emerge as miniatures of the adults.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg"
+  caption: |
+    <p>Very pregnant seahorse papa.</p>
+    <p>Sisters Island, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg"
+  caption: |
+    <p>Some seahorses are tiny!</p>
+    <p>Watch your step!</p>
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg"
+  caption: |
+    <p>Very pregnant piepfish papa.</p>
+    <p>Changi, Jun 13</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -80,33 +116,10 @@ pipefishes.
 **What do they eat?**  Seahorses and
 pipefishes feed on tiny creatures. These are sucked up with their
 tube-like, toothless snouts. 'Syngnathus' means 'fused jaws' in Greek.
-*![](kuda/090806tmd8401m3.jpg)*Often seen in a pair.Flexible tail used to hang onto objects. *Tanah Merah, Aug 09* 
-![](biaculeatus/080523cyrd3895m3c.jpg)  
-The Alligator pipefish also has a rehensile tail.  
-*Cyrene Reef, May 08*
-![](kuda/070702chgd3169m3.jpg)  
-Mobile eyes can move while the body   
-remains still. Toothless jaws used like a straw.  
-*Changi, Jul 07*
-**Pregnant fathers:** In many members
-of this family, the male carries the eggs. In some species, the male
-has a pouch. For those without a pouch, such as pipefishes, the eggs
-may be glued to the underside of the male's tail or abdomen. Often
-the eggs are embedded in a spongy tissue. Some have a pair of flaps
-that fold over the eggs. Females have an ovipositor to lay eggs on
-the male's body, where the eggs are then fertilised. In some species,
-'pregnant' males may hang out together in small groups. The eggs develop
-safely on dad's body. The father 'gives birth' to live young, which
-emerge as miniatures of the adults.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](comes/120312siss04823m3.jpg)  
-Very pregnant seahorse papa. *Sisters Island, Mar 12*
 
-*![](kuda/060724chgg4880m3.jpg)*Some seahorses are tiny!  
-Watch your step! *Changi, Jul 06*
 
-![](seagrass/130624chg7d8080m3.jpg)  
-Very pregnant piepfish papa. *Changi, Jun 13*
 
 **Human uses:** Pipefishes and seahorses
 are used in traditional Chinese medicine. Some species are also caught

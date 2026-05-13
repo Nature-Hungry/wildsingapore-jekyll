@@ -2,7 +2,7 @@
 title: False stonefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, stone, scorpion, fish, scorpaenopsis, diabolus, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Scorpaenidae
 genus: Scorpaenopsis
@@ -18,6 +18,26 @@ order: Perciformes
 suborder: Scorpaenoidei
 subfamily: Scorpaeninae
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14873894034/in/album-72157646319379351/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/190831kuslks2.jpg"
+  caption: |
+    <p>Kusu Island, Sep 19 Photo shared by Loh Kok Sheng on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0150m6l.jpg"
+  caption: |
+    <p>Lazarus Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0154m3.jpg"
+  caption: |
+    <p>Shallow depression near the eye.</p>
+- url: "https://live.staticflickr.com/968/41263247755_14c66fe637_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/41263247755/ "False stonefish (Scorpaenopsis diabolus)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/200820ssistch.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10158761616278713&set=a.10158761681943713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/140810smkmn.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,19 +85,11 @@ scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*), a groupe
 looks very similar. Here's more on [how
 to tell apart fishes that look like stones](../cfstonefish).
 
-*![](diabolus/140810smkmn.jpg)*  
-*Pulau Semakau, Aug 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14873894034/in/album-72157646319379351/).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](diabolus/190831kuslks2.jpg)  
-*Kusu Island, Sep 19*  
-Photo shared by Loh Kok Sheng on facebook.
 
-*![](diabolus/120818lazd0150m6l.jpg)  
-Lazarus Island, Aug 12*
 
-*![](diabolus/120818lazd0154m3.jpg)*Shallow depression near the eye.
 
-[![False stonefish (Scorpaenopsis diabolus)](https://live.staticflickr.com/968/41263247755_14c66fe637_z.jpg)](https://www.flickr.com/photos/wildsingapore/41263247755/ "False stonefish (Scorpaenopsis diabolus)")
 
 ---
 
@@ -96,9 +108,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](diabolus/200820ssistch.jpg)  
-*Small Sisters Island, Aug 20*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10158761616278713&set=a.10158761681943713).
 
 **Links**  
 

@@ -2,7 +2,7 @@
 title: Red-mouth nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dostia, neritina, violacea, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: Neritina
 species: violacea
@@ -17,6 +17,20 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg"
+  caption: |
+    <p>Side view.</p>
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8039m3.jpg"
+  caption: |
+    <p>Animal emerging from the shell.</p>
+    <p>Mandai, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8043m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,12 +79,9 @@ patches but those seen were pale with dark spots and a black foot.
   
 **Sometimes mistaken for**  the [Black-mouth
 nerite](cornucopia.htm) (*Neritina cornocupia*) which has the same shell shape but has a black mouth.
-*![](violacea/110328mndd8043m3.jpg)*  
-Side view. *Mandai, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](violacea/110328mndd8041m3.jpg)*Underside. *Mandai, Mar 11*
 
-*![](violacea/110328mndd8039m3.jpg)*Animal emerging from the shell. *Mandai, Mar 11*
 
 ---
 

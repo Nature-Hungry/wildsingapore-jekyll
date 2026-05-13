@@ -2,7 +2,7 @@
 title: Big coin green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Halimedaceae
 genus: Halimeda
@@ -15,6 +15,64 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg"
+  caption: |
+    <p>Large stretch of shore covered with this seaweed.</p>
+    <p>Tuas, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060101sisg3531m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg"
+  caption: |
+    <p>A pair of <a href="../../../mollusca/slugs/sacoglossa/pusilla">slugs</a> on the seaweed.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040603sntg0132m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/200626tptdc3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2920711074712316&set=a.2920978031352287&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060714rlhg6593m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/091204pawd5268m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100613sngd5622m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/100130brkd8517m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/080916tusd0013m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,26 +133,13 @@ grew to about 10-15cm tall. The thickets of stiff seaweeds seemed
 to provide shelter for a wide variety of animals and were overgrown
 with a variety of encrusting organisms.
 
-*![](halbig/080916tusd0013m6.jpg)*Large stretch of shore covered   
-with this seaweed. *Tuas, Sep 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](halbig/060101sisg3531m3.jpg)  
-Sisters Islands, Jan 06  
-![](halbig/060101sisg3531m3a.jpg)*
 
-*![](halbig/060527sjid2264m3.jpg)  
-St. John's Island, May 06  
-![](halbig/060527sjid2264m3a.jpg)*
 
 ---
 
-*![](halbig/050330labg3921m3.jpg)  
-Labrador, Mar 05*![](halbig/050330labg3921m3a.jpg)  
-A pair of [slugs](../../../mollusca/slugs/sacoglossa/pusilla) on the seaweed.
 
-*![](halbig/040603sntg0132m3.jpg)  
-Sentosa, Jun 04  
-![](halbig/040603sntg0132m3b.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.  
@@ -118,27 +163,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](halbig/200626tptdc3.jpg)  
-*Terumbu Pempang Tengah, Jun 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2920711074712316&set=a.2920978031352287&type=3&theater).
 
 ---
 
-![](halbig/060714rlhg6593m3.jpg)  
-*Raffles Lighthouse, Jul 06*![](halbig/060714rlhg6593m3a.jpg)
 
-![](halbig/091204pawd5268m3.jpg)  
-*Pulau Pawai, Dec 09*![](halbig/091204pawd5268m3a.jpg)
 
-![](halbig/100613sngd5622m3.jpg)  
-*Pulau Senang, Jun 10*![](halbig/100613sngd5622m3b.jpg)
 
 ---
 
-![](halbig/100130brkd8517m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](halbig/040605kusbd0026m3.jpg)  
-*Pulau Pawai, Dec 09*
 
 ---
 

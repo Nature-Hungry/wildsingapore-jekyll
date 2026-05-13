@@ -2,7 +2,7 @@
 title: " "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, granatum, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 61, 68]
 family: Meliaceae
 genus: Xylocarpus
@@ -17,6 +17,40 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 196657
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg"
+  caption: |
+    <p>Leaflets spoon-shaped, with rounded tips.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg"
+  caption: |
+    <p>Bark smooth flaking off in patches.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/110109ubnd4812m3a.jpg"
+  caption: |
+    <p>Seeds fit like a puzzle within the fruit.</p>
+    <p>Pulau Ubin, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg"
+  caption: |
+    <p>Large globular fruit.</p>
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg"
+  caption: |
+    <p>Well-developed ribbon-like buttresses.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Apr 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090112smkd5008m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -94,35 +128,16 @@ and so thin that a tree yields very little of it. Medicinal uses include
 the bark for dysentery, roots in a secret recipe against cholera,
 and the seeds for various ailments.
 
-![](granatum/090112smkd5008m6l.jpg)  
-*Pulau Semakau,
-Jan 09![](granatum/090124ubnd6016m3.jpg)*Leaflets
-spoon-shaped, with rounded tips. *Pulau Ubin, Jan 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](granatum/090126ubnd6191m3.jpg)  
-Bark
-smooth flaking off in patches.  
-Pulau Ubin, Jan 09*
 
-*![](granatum/110109ubnd4812m3a.jpg)*Seeds
-fit like a puzzle within the fruit. *Pulau Ubin, Jan 11*
 
-*![](granatum/090208smkd6461m3.jpg)  
-Large
-globular fruit.  
-Pulau Semakau, Feb 09*
 
-*![](granatum/090124ubnd6015m3.jpg)*Well-developed
-ribbon-like buttresses. *Pulau Ubin, Jan 09*
 
 ---
 
-*![](granatum/090411lckd9438m3b.jpg)*
 
-*![](granatum/090411lckd9438m3a.jpg)*
 
-*![](granatum/090411lckd9438m3.jpg)  
-Lim Chu Kang, Apr 09*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Commensal snapping shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Alpheidae
 genus: ""
@@ -21,6 +21,20 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg"
+  caption: |
+    <p>Changi, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6la.jpg"
+  caption: |
+    <p>Changi, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3548m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/080521chgd3551m3.jpg"
+  caption: |
+    <p>Under a stone.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/110603chgd3749m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -62,13 +76,9 @@ Often found in pairs.
 [White snapping shrimps](alphballsoft) are also often
 seen in ball soft corals.
 
-*![](alphcommensal/110603chgd3749m6l.jpg)* *Changi, Jun 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](alphcommensal/110603chgd3749m6la.jpg)* *Changi, Jun 11*
 
-*![](alphcommensal/080521chgd3548m3a.jpg)  
-Changi, May 08*![](alphcommensal/080521chgd3551m3.jpg)  
-Under a stone.
 
   
 *\*Species are difficult

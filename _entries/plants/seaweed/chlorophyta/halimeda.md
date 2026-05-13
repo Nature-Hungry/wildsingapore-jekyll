@@ -2,7 +2,7 @@
 title: Coin green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coin, seaweed, weed, green, halimeda, halimedaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Halimedaceae
 genus: Halimeda
@@ -15,6 +15,21 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg"
+  caption: |
+    <p>Big and small coin green seaweed next to one another  Kusu Island, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/050330labg3921m3a.jpg"
+  caption: |
+    <p>A pair of <a href="../../../mollusca/slugs/sacoglossa/pusilla">Halimeda slugs</a> on the seaweed.</p>
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/060527sjid2273m3.jpg"
+  caption: |
+    <p><a href="halsmall">Small coin green seaweed</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/060527sjid2264m3.jpg"
+  caption: |
+    <p><a href="halbig">Big coin green seaweed</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halsmall/050528kusg7092m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -82,13 +97,8 @@ Bahamas and the Great Barrier Reef.
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=33699),
 there are 60 current *Halimeda* species.   
 
-![](halsmall/050528kusg7092m3a.jpg)  
-Big and small coin green seaweed   
-next to one another  *Kusu Island, May 05*  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](halbig/050330labg3921m3a.jpg)  
-A pair of [Halimeda
-slugs](../../../mollusca/slugs/sacoglossa/pusilla) on the seaweed. *Labrador, Mar 05*
 
 **Human
 uses:** Some species of *Halimeda* are used
@@ -96,10 +106,7 @@ as fertilizers to recondition acidic soils. They are also
 used as animal feed and reportedly have anti-bacterial and
 anti-fungal properties.
 
-**![](halsmall/060527sjid2273m3.jpg)  
-[Small coin green seaweed](halsmall)**
 
-***![](halbig/060527sjid2264m3.jpg)*[Big coin green seaweed](halbig)**
 
   
 *\*Species are difficult

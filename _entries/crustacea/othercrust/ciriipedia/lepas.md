@@ -2,7 +2,7 @@
 title: Goose barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Lepadidae
 genus: Lepas
 species: ""
@@ -21,6 +21,27 @@ superorder: Thoracicalcarea
 order: Scalpellomorpha
 superfamily: Lepadoidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg"
+  caption: |
+    <p>Sisters Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3b.jpg"
+  caption: |
+    <p>Leathery stalk attaches the clam-like shell to a hard surface.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg"
+  caption: |
+    <p>No operculum to seal the shell opening.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>IKAN-Unterwasserachiv, Frankfurt.</p>
+    <p>321 pp.</p>
+    <p>- Jones Diana S.</p>
+    <p>and Gary J.</p>
+    <p>Morgan, 2002.</p>
+    <p>A Field Guide to Crustaceans of Australian Waters.</p>
+    <p>Reed New Holland.</p>
+    <p>224 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,12 +86,9 @@ in their shells. Like other barnacles, feeds with its feathery feet.
 Some species of Goose barnacles can grow very large, with shells 5cm
 long and a stalk 20cm long!
 
-![](lepas/040703sisd1824m3.jpg) *Sisters Island, Jul 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lepas/040703sisd1824m3b.jpg)Leathery stalk attaches the clam-like  
-shell to a hard surface.
 
-![](lepas/040703sisd1824m3c.jpg)No operculum to seal the shell opening.
 
   
 *\***Species
@@ -100,11 +118,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   the National University of Singapore. 160 pp.
 - Debelius,
   Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

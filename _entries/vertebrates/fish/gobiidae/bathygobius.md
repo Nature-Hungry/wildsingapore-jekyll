@@ -2,7 +2,7 @@
 title: Frill-fin goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frill, fin, goby, bathygobius, fuscus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 69, 70]
 family: Gobiidae
 genus: Bathygobius
@@ -18,6 +18,28 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m6l.jpg"
+  caption: |
+    <p>Tiny white dots regularly spaced on face and in rows on its body.</p>
+    <p>St.</p>
+    <p>John's Island, Sep 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/201118nsrcssjk5.jpg"
+  caption: |
+    <p>East Coast NSRCC, Nov 20Photo shared by James Koh on flickr.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/151001blyjt10m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/160509srpmn4.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153650562648660.1073741902.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090624jnglt1m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/06/wet-on-jong.html">her blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/090621hntd4458.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +82,8 @@ The most commonly seen frill-fin gobies on our shores are the Common
 frill-fin goby (*Bathygobius fuscus*) and Meggitt's frill-fin
 goby (*Bathygobius meggitti*) which look very similar.
 
-![](bathygobius/090621hntd4458.jpg)  
-*Pulau Hantu, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bathygobius/070901sjid6547m6l.jpg)  
-Tiny white dots
-regularly spaced on face
-and in rows on its body. *St. John's
-Island, Sep 07*
 
 ---
 
@@ -86,24 +102,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bathygobius/201118nsrcssjk5.jpg)  
-*East Coast NSRCC, Nov 20*Photo shared by James Koh on flickr.
 
 ---
 
-![](bathygobius/151001blyjt10m3.jpg)  
-*Berlayar Creek, Oct 15*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3&pnref=story).
 
-![](bathygobius/160509srpmn4.jpg)  
-*Sentosa Serapong,
-May 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153650562648660.1073741902.624178659&type=3).
 
 ---
 
-![](bathygobius/090624jnglt1m3.jpg)  
-*Pulau Jong,
-Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/06/wet-on-jong.html).
 
 ---
 

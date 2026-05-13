@@ -2,7 +2,7 @@
 title: "Noodle seagrass "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Noodle seagrass
 family: Cymodoceaceae
@@ -18,6 +18,28 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050309smkd1462m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3a.jpg"
+  caption: |
+    <p>Pulau Semakau, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159145163277945&set=a.10159145289027945">facebook</a>.</p>
 ---
 
 
@@ -88,19 +110,10 @@ it is also sometimes called Dugong grass.
 and threats:** It is listed as 'Endangered' on the Red List
 of threatened plants of Singapore.
 
-*![](syringodium/050309smkd1462m3.jpg)*  
-*Pulau Semakau, Mar 05* *![](syringodium/050626smkg8824m3.jpg)*  
-*Pulau Semakau, Jun 05* *![](syringodium/050626smkg8824m3a.jpg)*  
-*Pulau Semakau, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](syringodium/100519tsmc4069m3.jpg)*  
-*Terumbu Semakau, May 10*
 
-*![](syringodium/081016cyrd0933m3.jpg)*  
-*Cyrene Reef, Oct 08*
 
-*![](syringodium/110830cyrd0547m3.jpg)*  
-*Cyrene Reef, Aug 11*
 
 ---
 
@@ -124,8 +137,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](syringodium/220618tmftvc4.jpg)*  
- *Tanah Merah Ferry Terminal, Jun 22*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159145163277945&set=a.10159145289027945).
 
 ---
 
@@ -159,5 +170,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

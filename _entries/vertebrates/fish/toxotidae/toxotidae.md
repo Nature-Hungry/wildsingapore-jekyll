@@ -2,7 +2,7 @@
 title: Archerfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Toxotidae
 genus: ""
 species: ""
@@ -17,6 +17,42 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg"
+  caption: |
+    <p>Archerfishes hanging under the main bridge.</p>
+    <p>Sungei Buloh Wetland Reserve, Nov 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg"
+  caption: |
+    <p>Swimming at the surface among floating debris.</p>
+    <p>Kranji, Feb 11 Shooting fish: Archerfishes are famed for their ability to shoot down insects and small creatures resting on foliage or mangrove roots.</p>
+    <p>In fact, 'toxotes' means 'bowman' or 'archer'.</p>
+    <p>Their flattened body presents a narrow profile from above, so they can sneak up on their prey.</p>
+    <p>The bold black-and-white markings camouflage them in the sundappled water under mangrove vegetation.</p>
+    <p>How do they shoot?</p>
+    <p>Archerfishes are like submarine water pistols and can spit out a strong and accurate jet of water.</p>
+    <p>To form this water jet, the tongue is placed against the groove on the roof of the mouth.</p>
+    <p>Water is powerfully forced through this tube by snapping the gills shut.</p>
+    <p>The tip of the tongue acts as a valve.</p>
+    <p>The Australian Museum Fish Site has a <a href="http://www.amonline.net.au/fishes/fishfacts/fish/tchatar">photo of the inside of an archerfish's mouth</a> to show the groove on the roof of the mouth and shape of the tongue.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg"
+  caption: |
+    <p>A large upward facing mouth.</p>
+    <p>Sungei Buloh Wetland Reserve, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49100315031/">flickr</a>.</p>
+    <p>Other ways to get their lunch: Archerfishes, however, prefer to leap out of water to grab the prey in their jaws when it is close enough.</p>
+    <p>When the leap fails, they may then resort to spitting.</p>
+    <p>Why is this so?</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg"
+  caption: |
+    <p><a href="jaculatrix">Banded archerfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg"
+  caption: |
+    <p><a href="chatareus">Spotted archerfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -62,24 +98,7 @@ the Philippines, Australia and Polynesia. **Features:** To about 20cm long. Body
 shaped like a knife with a pointed snout and broad rear end. Large
 scales. Large eyes near the top of the head and large upward-facing
 mouth.
-*![](jaculatrix/040110sbwrd0029m3a.jpg)*Archerfishes hanging
-under the main bridge. *Sungei Buloh Wetland Reserve, Nov 04* 
-![](jaculatrix/110205krjd5875m6l.jpg)  
-Swimming at the surface among floating debris.   
-*Kranji, Feb 11*
-**Shooting fish:** Archerfishes are
-famed for their ability to shoot down insects and small creatures
-resting on foliage or mangrove roots. In fact, *'toxotes'* means
-'bowman' or 'archer'. Their flattened body presents a narrow profile
-from above, so they can sneak up on their prey. The bold black-and-white
-markings camouflage them in the sundappled water under mangrove vegetation.  **How do they shoot?** Archerfishes
-are like submarine water pistols and can spit out a strong and accurate
-jet of water. To form this water jet, the tongue is placed against
-the groove on the roof of the mouth. Water is powerfully forced through
-this tube by snapping the gills shut. The tip of the tongue acts as
-a valve. The Australian Museum Fish Site has a [photo
-of the inside of an archerfish's mouth](http://www.amonline.net.au/fishes/fishfacts/fish/tchatar) to show the groove on the
-roof of the mouth and shape of the tongue.  
+{% include img-wrap-group.html items=page.page_images %}
   
 To get a good jet of water, the snout sticks out of the water, but
 the rest of the fish remains underwater. The jet of water is directed
@@ -99,15 +118,6 @@ Once the jet of water knocks down a tasty titbit, it is gulped down
 with the large mouth which faces upwards. If the blast doesn't knock
 down the prey, sometimes the weight of the water on the wings causes
 the insect to lose its grip and fall.
-![](jaculatrix/031008sbwrd0038m6l.jpg)  
-A large upward
-facing mouth. *Sungei Buloh Wetland Reserve, Oct 03*
-![](jaculatrix/170820kusmn.jpg)  
-Juvenile. *Kusu Island, Aug 17*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49100315031/).
-**Other ways to get their lunch:** Archerfishes,
-however, prefer to leap out of water to grab the prey in their jaws
-when it is close enough. When the leap fails, they may then resort
-to spitting. Why is this so?   
   
 Archerfishes usually swim in shooting parties. Often, several shoot
 at the same prey, and shoot relentlessly. When the prey finally falls,
@@ -149,10 +159,7 @@ mangroves and by collection for the pet trade.
 
 ---
 
-***![](jaculatrix/051208sbwrd0532m3.jpg)*****[Banded
-archerfish](jaculatrix)**
 
-***![](chatareus/050225sbwrd1096m3.jpg)*[Spotted archerfish](chatareus)**
 
 ---
 

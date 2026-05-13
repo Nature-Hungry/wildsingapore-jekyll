@@ -2,7 +2,7 @@
 title: Paradise tree snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "paradies, flying, tree, snake, chrysopelea, paradisi, elapidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Colubridae
 genus: Chrysopelea
 species: paradisi
@@ -17,6 +17,21 @@ order: Squamata
 suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0008m3.jpg"
+  caption: |
+    <p>Yellow spots form five bands across the head.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/120223sbwrmn.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6928208695/in/photolist-bydT54">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/110109ubnd4909m6l.jpg"
+  caption: |
+    <p>This one landed on the road from a tall tree.</p>
+    <p>Pulau Ubin, Jan 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/paradisi/031005ubnad0009m6l.jpg"
 ---
 
 
@@ -79,16 +94,9 @@ about their breeding habits. They lay 6-11 eggs, hatchlings are 15-20cm
 long and have the same pattern as the adults but their colours are
 brighter.
 
-![](paradisi/031005ubnad0009m6l.jpg)  
-*Pulau Ubin,
-Oct 03*  
-![](paradisi/031005ubnad0008m3.jpg)  
-Yellow spots form five bands across the head.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](paradisi/120223sbwrmn.jpg)**Sungei Buloh Wetland Reserve, Feb 12*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6928208695/in/photolist-bydT54).
 
-*![](paradisi/110109ubnd4909m6l.jpg)*This one landed on the road from a tall tree. *Pulau Ubin, Jan 11*
 
 ---
 
@@ -143,5 +151,3 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

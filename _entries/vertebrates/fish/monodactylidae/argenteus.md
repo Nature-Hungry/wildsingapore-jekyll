@@ -2,7 +2,7 @@
 title: Silver moony
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "silver, moony, monodactylus, argenteus, monodactylidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Monodactylidae
 genus: Monodactylus
@@ -16,6 +16,18 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrad0039m3.jpg"
+  caption: |
+    <p>Seen from the front, it resembles a stick!</p>
+    <p>Sungei Buloh Wetland Reserve, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/090510sntik5m3.jpg"
+  caption: |
+    <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monodactylidae/argenteus/031008sbwrd0042m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,11 +79,7 @@ Being really flat, from the front, the fish looks like a stick! 'Mono'
 means 'one' and 'daktylos' means 'finger'.  
   
 **Sometimes confused with** the [Batfish](../ephippidae/ephippidae).
-![](argenteus/031008sbwrd0042m3.jpg)  
-*Sungei Buloh Wetland Reserve, Oct 03*
-![](argenteus/031008sbwrad0039m3.jpg)  
-Seen from the front, it resembles a stick!  
-*Sungei Buloh Wetland Reserve, Oct 03*
+{% include img-wrap-group.html items=page.page_images %}
  
 **What does it eat?** It feeds on
 plankton and detritus and are said to be highly territorial.  
@@ -97,9 +105,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](argenteus/090510sntik5m3.jpg)  
-*Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
  
  
 

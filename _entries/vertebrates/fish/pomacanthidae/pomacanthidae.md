@@ -2,7 +2,7 @@
 title: Angelfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "angelfish, angel,  fish, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pomacanthidae
 genus: ""
 species: ""
@@ -16,6 +16,22 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
+  caption: |
+    <p>Yellowtail or Vermiculated anglefish caught in a fish trap.</p>
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg"
+  caption: |
+    <p>The juvenile looks very different.</p>
+    <p>Tanah Merah, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks.JPG"
+  caption: |
+    <p><a href="mesoleucus.htm">Yellowtail or Vermiculated anglefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg"
+  caption: |
+    <p><a href="annularis.htm">Blue-ring angelfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,10 +85,8 @@ Some large species can produce a loud drumming or thumping sound.
 Most adults depend on shelter such as caves, rock- or coral-crevices.
 In the wild, they are seldom sighted in the open. They are mostly
 bottom feeders, dashing back and forth from feeding to their shelters.
-*![](mesoleucus/040605kusbd0137m3.jpg)*Yellowtail or Vermiculated anglefish   
-caught in a fish trap. *Kusu Island, Jun 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](annularis/110418tmftd9010m6l.jpg)*The juvenile looks very different. *Tanah Merah, Apr 11*
 
 **What do they eat?** As a family,
 they eat a wide variety of things. These include filamentous algae,
@@ -106,11 +120,6 @@ by hobbyists and overfishing can also have an impact on local populations.
 
 ---
 
-*![](mesoleucus/120721tptlks.JPG)*  
-**[Yellowtail or   
-Vermiculated anglefish](mesoleucus.htm)**
-![](annularis/060114cjg3805m3.jpg)  
-[**Blue-ring angelfish**](annularis.htm)
  
 
 ---

@@ -2,7 +2,7 @@
 title: "Yellow-spotted gymnodoris nudibranchs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, spot, gymnodoris, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 90, 110]
 family: Gymnodorididae
 genus: Gymnodoris
@@ -22,6 +22,110 @@ infraorder: Doridoidei
 superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg"
+  caption: |
+    <p>Sisters Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060612cftg6141m3.jpg"
+  caption: |
+    <p>Changi, Jun 06 There are several species of gymnodoris nudibranchs with yellow spots and they are rather difficult to tell apart in the field.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110830cyrlks1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntlks3.jpg"
+  caption: |
+    <p>Just laid egg string?</p>
+    <p>Sentosa Tg Rimau, Nov 21Photo shared by Lok Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159544062468158&set=a.10159544071408158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/130512bsismn.jpg"
+  caption: |
+    <p>Big Sisters Island, May 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28943583835/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120508skdtch2m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10150864191998713.434799.619308712&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2a.jpg"
+  caption: |
+    <p>Attempting to eat the larger nudibranch?</p>
+    <p>Lazarus (Eagle Bay), Nov 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6373553082658009&set=a.6373553772657940">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/221127lazjk2.jpg"
+  caption: |
+    <p>Attempting to eat the larger <a href="ianthina.htm">Blue Dragon nudibranch</a>?</p>
+    <p>Lazarus (Eagle Bay), Nov 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6373553082658009&set=a.6373553772657940">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks10m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111030skdlks.JPG"
+  caption: |
+    <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6343989978/in/album-72157607907125005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/210626cjtch2.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159555806658713&set=a.10159555848543713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/180714cjjll1.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155750684581295.1073741911.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160706skdtch4.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10154334722473713.1073742021.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/100516skdtch8m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220618tmftccn3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10160220575298713&set=a.10160220623003713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/111226tmftjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/12/111226-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/211106sntjll2.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Nov 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158610368961295&set=a.10158610308121295">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170129tslgtch1.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/170611bsismn2.jpg"
+  caption: |
+    <p>Big Sisters Island, Jun 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154727405693660&set=a.10154515554383660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120506lssisjkm6l.jpg"
+  caption: |
+    <p>Small Sisters Island, May 12Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7147099191/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201115tkkjll4.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157865072621295&set=a.10157865069206295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200112sjiljll3.jpg"
+  caption: |
+    <p>St John's Island, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156997583491295&set=a.10156997583281295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/200705kusjll1.jpg"
+  caption: |
+    <p>Kusu Island, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541502256295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/120707jngmn.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7533653758/in/album-72157630463270656/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/081113jngtch03m3.jpg"
+  caption: |
+    <p>Pulau Jong, Nov 08Shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3029038617/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/250811jngjll4.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/091108hntjk4m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Nov 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4082888883/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/101108bkomlks7m3.JPG"
+  caption: |
+    <p>Terumbu Bukom, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukom.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/201018smkslks7.jpg"
+  caption: |
+    <p>Pulau Semakau South, Oct 20Photo shared by Lok Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158700247588158&set=a.10158700249983158">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/110814smklks3m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/160124smkelks5.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/220102biotch3.jpg"
+  caption: |
+    <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918007278713&set=a.10159918036293713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodoris/060102sisg3720m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,12 +162,7 @@ on some of our shores.
   
 **Features:** 1-2cm long. Body slender
 white, yellow or orange with yellow spots.
-*![](gymnodoris/060102sisg3720m6l.jpg)  
-Sisters Island, Jan 06*
-*![](gymnodoris/060612cftg6141m3.jpg)  
-Changi, Jun 06*
-There are several species of gymnodoris nudibranchs with yellow spots
-and they are rather difficult to tell apart in the field.  
+{% include img-wrap-group.html items=page.page_images %}
   
 *Gymnodoris ceylonica*: According to Bill
 Rudman, it has a translucent white body with small bright orange-red
@@ -86,24 +185,11 @@ one will eat the other as they mate!
 Rudman, it ranges in colour from translucent yellow to deep reddish
 orange with slightly raised darker coloured bumps.
 
-*![](gymnodoris/110830cyrlks1m3.jpg)*  
- *Cyrene Reef, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
 
-*![](gymnodoris/211106sntlks3.jpg)*Just laid egg string? *Sentosa Tg Rimau, Nov 21*Photo shared by Lok Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159544062468158&set=a.10159544071408158).
 
-*![](gymnodoris/130512bsismn.jpg)  
-Big Sisters Island, May 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/28943583835/).
 
-*![](gymnodoris/120508skdtch2m3.jpg)*  
-*Pulau Sekudu, May 12*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10150864191998713.434799.619308712&type=1).
 
-*![](gymnodoris/221127lazjk2a.jpg)*  
-Attempting to eat the larger nudibranch?   
-*Lazarus (Eagle Bay), Nov 22*Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6373553082658009&set=a.6373553772657940).
 
-*![](gymnodoris/221127lazjk2.jpg)*Attempting to eat the larger [Blue Dragon nudibranch](ianthina.htm)?   
-*Lazarus (Eagle Bay), Nov 22*Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6373553082658009&set=a.6373553772657940).
 
 **What do they eat?** Gymnodoris
 species are described to be 'voracious predators' of other sea slugs like [nudibranchs](../../nudibranchia.htm), [sacoglossans](../sacoglossa/sacoglossa.htm) and [sea hares](../anaspidae/anaspidea.htm).
@@ -131,119 +217,56 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](gymnodoris/111030skdlks10m3.jpg)  
-Pulau Sekudu, Oct 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html).
 
-*![](gymnodoris/111030skdlks.JPG)  
-Pulau Sekudu, Oct 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6343989978/in/album-72157607907125005/).
 
 ---
 
-*![](gymnodoris/210626cjtch2.jpg)  
-Chek Jawa, Jun 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159555806658713&set=a.10159555848543713).
 
-*![](gymnodoris/180714cjjll1.jpg)  
-Chek Jawa, Jul 18*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10155750684581295.1073741911.542241294&type=3).
 
 ---
 
-*![](gymnodoris/160706skdtch4.jpg)  
-Pulau Sekudu, Jul 16*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10154334722473713.1073742021.619308712&type=3).
 
-*![](gymnodoris/100516skdtch8m3.jpg)  
-Pulau Sekudu, May 10*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html).
 
 ---
 
-*![](gymnodoris/220618tmftccn3.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10160220575298713&set=a.10160220623003713).
 
-*![](gymnodoris/111226tmftjk1m3.jpg)  
-Tanah Merah, Dec 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/12/111226-tanah-merah.html).
 
 ---
 
-*![](gymnodoris/211106sntjll2.jpg)  
-Sentosa Tg Rimau, Nov 21*   
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158610368961295&set=a.10158610308121295)
 
-*![](gymnodoris/170129tslgtch1.jpg)  
-Terumbu Selegie, Jan 17*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3).
 
 ---
 
-*![](gymnodoris/170611bsismn2.jpg)  
-Big Sisters Island, Jun 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154727405693660&set=a.10154515554383660&type=3&theater).
 
 ---
 
-*![](gymnodoris/120506lssisjkm6l.jpg)  
-Small Sisters Island, May 12*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/7147099191/).
 
 ---
 
-*![](gymnodoris/201115tkkjll4.jpg)  
-Pulau Tekukor, Nov 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157865072621295&set=a.10157865069206295).
 
-*![](gymnodoris/200112sjiljll3.jpg)  
-St John's Island, Jan 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156997583491295&set=a.10156997583281295&type=3&theater).
 
-*![](gymnodoris/200705kusjll1.jpg)  
-Kusu Island, Jul 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157541502256295&set=a.10157541499231295&type=3&theater).
 
 ---
 
-*![](gymnodoris/120707jngmn.jpg)  
-Pulau Jong, Jul 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7533653758/in/album-72157630463270656/).
 
-*![](gymnodoris/081113jngtch03m3.jpg)  
-Pulau Jong, Nov 08*Shared by Toh Chay Hoon on [flickr](http://www.flickr.com/photos/ilmare77/3029038617/).
 
 ---
 
-![](gymnodoris/250811jngjll3.jpg)  
- *Pulau Jong, Aug 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post).
 
-![](gymnodoris/250811jngjll4.jpg)  
- *Pulau Jong, Aug 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post).
 
 ---
 
-*![](gymnodoris/091108hntjk4m3.jpg)  
-Pulau Hantu, Nov 09*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4082888883/).
 
-*![](gymnodoris/101108bkomlks7m3.JPG)  
-Terumbu Bukom, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukom.html).
 
 ---
 
-*![](gymnodoris/201018smkslks7.jpg)*  
- *Pulau Semakau South, Oct 20*Photo shared by Lok Kok Sheng on [flickr](https://www.facebook.com/photo?fbid=10158700247588158&set=a.10158700249983158).
 
-*![](gymnodoris/110814smklks3m3.jpg)*  
- *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html).
 
-*![](gymnodoris/160124smkelks5.jpg)  
-Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
   
 
 ---
 
-*![](gymnodoris/220102biotch3.jpg)  
-Pulau Biola, Jan 22*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159918007278713&set=a.10159918036293713).
 
 ---
 

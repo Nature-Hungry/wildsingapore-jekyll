@@ -2,7 +2,7 @@
 title: Mangrove jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, acromitus, rhizostomeae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Catosylidae
 genus: Acromitus
 species: ""
@@ -16,6 +16,23 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 09Photo shared by <a href="http://www.brandonphotography.blogspot.com?">Brandon Chia</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/080412cjd1238m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/121110cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8171907955/in/album-72157607712316054/">flickr</a>.</p>
+- url: "https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,16 +72,9 @@ small bell.
   
 **Status:** It is listed as Vulnerable at 2024 in the Singapore Red Data Book.
 
-![](mangrove/090214sbwrbc1m3.jpg)  
-*Sungei Buloh
-Wetland Reserve, Feb 09*Photo shared by [Brandon
-Chia](http://www.brandonphotography.blogspot.com?)
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mangrove/090410ubnd9384m3.jpg)  
-Pulau Ubin, Apr 09*
 
-*![](mangrove/080412cjd1238m3.jpg)  
-Chek Jawa, Apr 08*
 
 ---
 
@@ -83,12 +93,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](mangrove/121110cjlks.JPG)  
-*Chek Jawa, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8171907955/in/album-72157607712316054/).
 
 ---
 
-[![Bloom of Mangrove jellyfish (Acromitus sp.)](https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg)](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)")
 
 ---
 

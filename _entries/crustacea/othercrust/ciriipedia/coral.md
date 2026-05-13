@@ -2,7 +2,7 @@
 title: Coral barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barnacle, pyrgoma, pyrgomatidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pyrgomatidae
 genus: Pyrgoma
 species: ""
@@ -22,6 +22,35 @@ subfamily: Tarachodinae
 tribe: Tarachodini
 subtribe: Tarachodina
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg"
+  caption: |
+    <p>St John's Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjig6089m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse,</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/250529cjlk4a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/250529cjlk4b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/040410sisbd0030m3.jpg"
+  caption: |
+    <p>Sisters Island, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/040410sisbd0031m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/090806tmd8391m3a.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/060527sjid2249m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -60,28 +89,14 @@ tiny burrowing animals pock-mark some hard corals.
 be seen on the surface of the hard coral are tiny slits (0.2cm), sometimes
 bright blue.  
 
-![](coral/060527sjid2249m3.jpg)  
- *St John's Island,
-May 06*![](coral/060527sjig6089m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](coral/070618rlhg0562m3.jpg)  
- *Raffles Lighthouse,
-Jun 07*![](coral/070618rlhg0562m3a.jpg)
 
-**![](../../../cnidaria/coralhard/poritidae/gonsmall/250529cjlk4a.jpg)*  
-Chek Jawa, May 2025![](../../../cnidaria/coralhard/poritidae/gonsmall/250529cjlk4b.jpg)*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post).
 
 ---
 
-![](coral/040410sisbd0030m3.jpg)  
- *Sisters Island, Apr
-04*
 
-![](coral/040410sisbd0031m3.jpg)
 
-![](coral/090806tmd8391m3a.jpg)  
- *Tanah Merah, Aug 09*
 
   
 *\***Species

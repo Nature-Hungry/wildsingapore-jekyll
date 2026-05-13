@@ -2,7 +2,7 @@
 title: Banded-leg swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Portunidae
 genus: Charybdis
 species: annulata*
@@ -25,6 +25,29 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg"
+  caption: |
+    <p>East Coast, Aug 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprisesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg"
+  caption: |
+    <p>East Coast, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG"
+  caption: |
+    <p>Changi, Jun 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27215282870/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,16 +92,10 @@ greenish grey, orange. The legs have alternating bands of dark brown
 and bright blue. The tips of the pincers are also banded dark brown
 and bright blue. There is a fine network of brown lines on the pincers.
 
-![](annulata/080719sntd7851m3.jpg)  
-*Sentosa, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](annulata/090820ecplkh1m3.jpg) *East Coast, Aug 09*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprisesl).
 
-![](annulata/110504nsrccd0574m3.jpg) *East Coast, May 11*
 
-![](annulata/080719sntd7851m3c.jpg)
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -102,12 +119,8 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](160606chglks1.JPG) *Changi, Jun 16*
 
-![](160606chglks2.JPG)Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27215282870/in/album-72157607622389163/).
 
-![](160606chglks3.JPG)
 
 ---
 

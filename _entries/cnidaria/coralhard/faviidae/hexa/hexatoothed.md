@@ -2,7 +2,7 @@
 title: Toothed hexagonal  corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,54 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/111127sisd3835m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/111127sisd3836m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/050720sntg9580m3.jpg"
+  caption: |
+    <p>Sentosa, Jul</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/050720sntg9580m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/080802sjid8760m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/080802sjid8760m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091204pawd5314m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091204pawd5315m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091205sudd5515m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/091205sudd5515m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/100130brkd8640m3b.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/100130brkd8640m3c.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatoothed/070322cyrd9119m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -61,29 +109,14 @@ Some species of corals recorded for Singapore that have these
 patterns include: *Favites* species. It's hard to distinguish
 them without close examination of small features and they are grouped
 here by large external features for convenience of display.
-![](hexatoothed/070322cyrd9119m3.jpg)  
-*Pulau Semakau,
-Mar 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hexatoothed/070322cyrd9119m3b.jpg)*
 
-![](hexatoothed/070322cyrd9119m3c.jpg)
 
 ---
 
-![](hexatoothed/111127sisd3835m3.jpg)  
-*Sisters Island,
-Nov 11  
-![](hexatoothed/111127sisd3836m3.jpg)*
 
-![](hexatoothed/050720sntg9580m3.jpg)  
-*Sentosa, Jul
-05*![](hexatoothed/050720sntg9580m3a.jpg)
 
-![](hexatoothed/080802sjid8760m3.jpg)  
-*St. John's
-Island, Aug 08  
-![](hexatoothed/080802sjid8760m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -107,20 +140,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hexatoothed/091204pawd5314m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](hexatoothed/091204pawd5315m3.jpg)*
 
-![](hexatoothed/091205sudd5515m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](hexatoothed/091205sudd5515m3a.jpg)*
 
-![](hexatoothed/100130brkd8640m3b.jpg)  
-*Terumbu
-Berkas, Jan 10  
-![](hexatoothed/100130brkd8640m3c.jpg)*
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

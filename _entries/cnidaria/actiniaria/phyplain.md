@@ -2,7 +2,7 @@
 title: Plain frilly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "plain, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 51, 88]
 family: Phymantidae
 genus: Phymanthus
@@ -17,6 +17,63 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg"
+  caption: |
+    <p>Sisters Island, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg"
+  caption: |
+    <p>Dark oral disk with broad white border and spots.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/040123sisd0067m3.jpg"
+  caption: |
+    <p>Body column dark with white verrucae.</p>
+    <p>Sisters Island, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/070518tkrd1013m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/031028sntbd0058m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060115sntg3939m3.jpg"
+  caption: |
+    <p>Sentosa, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/230617lygrk2.jpg"
+  caption: |
+    <p>Changi Loyang, Jun 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160560456692906&set=a.10160560437997906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/101106tbrnlks.JPG"
+  caption: |
+    <p>Terumbu Buran, Jan 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5152390691/in/album-72157625202884091/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806534721295&set=a.10157806532326295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110421jngsy1m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 11Photo shared by Sam Yeo on <a href="http://www.facebook.com/media/set/fbx/?set=a.10150230110618140.360062.580878139">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/160124smkegl1.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110422tbmjk3m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110422-terumbu-bemban.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/100130brkd8438m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/100131slud8780m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/091205sudtch9m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4187693932/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/100530tbkd4332m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/100601slud4703m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/091204pawd5210m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -59,26 +116,14 @@ border of pale or white bars that form a pattern resembling petals
 when the disk is expanded. Small dark spots throughout the oral disk.
 Body column dark with rows of small white bumps (verrucae).
 
-*![](phymanthus/plain/060729sisd5407m3.jpg)  
-Sisters Island, Jul 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](phymanthus/plain/060729sisd5407m3a.jpg)*Dark
-oral disk with   
-broad white border and spots.
 
-*![](phymanthus/plain/040123sisd0067m3.jpg)*Body
-column dark with white verrucae. *Sisters Island, Jan 04*
 
 ---
 
-*![](phymanthus/plain/070518tkrd1013m3.jpg)  
-Pulau Tekukor, May 07*
 
-*![](phymanthus/plain/031028sntbd0058m3.jpg)  
-Sentosa, Oct 03*
 
-*![](phymanthus/plain/060115sntg3939m3.jpg)  
-Sentosa, Jan 06*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -102,55 +147,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](phymanthus/plain/230617lygrk2.jpg)  
-Changi Loyang, Jun 23*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160560456692906&set=a.10160560437997906).
 
 ---
 
-*![](phymanthus/plain/101106tbrnlks.JPG)  
-Terumbu Buran, Jan 10*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5152390691/in/album-72157625202884091/).
 
-*![](phymanthus/plain/201019sjijll5.jpg)*  
-*St John's Island, Oct 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157806534721295&set=a.10157806532326295).
 
-*![](phymanthus/plain/110421jngsy1m3.jpg)*  
-*Pulau Jong, Apr 11*Photo shared by Sam Yeo on [facebook](http://www.facebook.com/media/set/fbx/?set=a.10150230110618140.360062.580878139).
 
 ---
 
-*![](phymanthus/plain/160124smkegl1.jpg)  
-Pulau Semakau East, Jan 16*Photo
-shared by Geraldine Lee on [facebook](https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story).
 
-*![](phymanthus/plain/110422tbmjk3m3.jpg)  
-Terumbu Bemban, Apr 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/04/110422-terumbu-bemban.html).
 
 ---
 
-*![](phymanthus/plain/100130brkd8438m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](phymanthus/plain/100131slud8780m3.jpg)  
-Terumbu Salu, Jan 10*
 
-*![](phymanthus/plain/091205sudtch9m3.jpg)  
-Pulau Sudong, Dec 09*Photo
-shared by Toh Chay Hoon on [her flickr](http://www.flickr.com/photos/ilmare77/4187693932/).
 
 ---
 
-*![](phymanthus/plain/100530tbkd4332m3.jpg)  
-Pulau Berkas, May 10*
 
-*![](phymanthus/plain/100601slud4703m3.jpg)  
-Pulau Salu, Jun 10*
 
-*![](phymanthus/plain/091204pawd5210m3.jpg)  
-Pulau Pawai, Dec 09*
 
 [links](../../links.htm)
 | [references](../../references.htm)

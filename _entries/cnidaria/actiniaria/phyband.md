@@ -2,7 +2,7 @@
 title: Banded frilly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, branched, tentacle, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 51, 88]
 family: Phymantidae
 genus: Phymanthus
@@ -17,6 +17,48 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070630sisg0760m3.jpg"
+  caption: |
+    <p>Just ate a crab?</p>
+    <p>Sisters Island, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110619tslgd4302m3.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110619tslgd4302m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070804smkg1882m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/070804smkg1882m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/040507rlhad0102m3.jpg"
+  caption: |
+    <p>Raffles Lighthous, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/040507rlhad0102m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100130brklks4m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353259772/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/110220lazrl12m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/160124smkegl2.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/100629tpdjk2m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -58,26 +100,14 @@ usually darker tentacles. Generally
 all the tentacles are same colour usually brown or greenish. Oral
 disk with radiating pale lines and small dark spots.
 
-*![](phymanthus/band/050808sntg0904m3.jpg)  
-Sentosa, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](phymanthus/band/050808sntg0904m3b.jpg)*
 
-*![](phymanthus/band/070630sisg0760m3.jpg)*Just ate a crab? *Sisters Island, Jun 07*
 
 ---
 
-*![](phymanthus/band/110619tslgd4302m3.jpg)  
-Terumbu Selegie, Jun 11  
-![](phymanthus/band/110619tslgd4302m3a.jpg)*
 
-*![](phymanthus/band/070804smkg1882m3.jpg)  
-Pulau Semakau, Aug 07  
-![](phymanthus/band/070804smkg1882m3a.jpg)*
 
-*![](phymanthus/band/040507rlhad0102m3.jpg)  
-Raffles Lighthous, May 04  
-![](phymanthus/band/040507rlhad0102m3a.jpg)*
 
   
 *\*Species are difficult
@@ -102,26 +132,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](phymanthus/band/100130brklks4m3.jpg)  
-Terumbu Berkas, Jan 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353259772/).
 
-*![](phymanthus/band/110220lazrl12m3.jpg)  
-*Lazarus Island, Feb 11**Photo
-shared by Russel Low on [facebook](http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717).
 
 ---
 
-**![](phymanthus/band/160124smkegl2.jpg)*  
-*Pulau Semakau East, Jan 16**Photo
-shared by Geraldine Lee on [facebook](https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story).
 
-**![](phymanthus/band/100629tpdjk2m3.jpg)*  
-*Terumbu Pempang
-Darat, Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).*
 
 ---
 

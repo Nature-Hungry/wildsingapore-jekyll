@@ -2,7 +2,7 @@
 title: "Ruby reef crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ruby, reef, crab, actaea, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Xanthidae
 genus: Actaea
@@ -17,6 +17,20 @@ order: Ranunculales
 subfamily: Ranunculoideae
 tribe: Actaeeae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0032m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,14 +69,10 @@ seen?** This tiny jewel of a crab was seen once on Labrador.
 and claws bright red with bumps and ridges. Like other brightly coloured
 Xanthid crabs, it is probably [poisonous](xanthidae).
 
-![](venosa/050723labg0037m3.jpg)  
-*Labrador, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](venosa/050723labg0037m3a.jpg)
 
-![](venosa/050723labg0032m3.jpg)
 
-![](venosa/050723labg0032m3a.jpg)
 
 ---
 

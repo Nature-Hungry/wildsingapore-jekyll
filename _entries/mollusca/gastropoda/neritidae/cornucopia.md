@@ -2,7 +2,7 @@
 title: Black-mouth nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dostia, neritina, cornucopia, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: Neritina
 species: cornucopia
@@ -17,6 +17,32 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg"
+  caption: |
+    <p>Top view.</p>
+    <p>Sungei Pandan, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Sungei Pandan, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/110329mndd8253m3.jpg"
+  caption: |
+    <p>Side view.</p>
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/251228spgrqo4a.jpg"
+  caption: |
+    <p>Sg Pang Sua,</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/251228spgrqo4b.jpg"
+  caption: |
+    <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.913753374474737&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/251231prprqo4a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/251231prprqo4b.jpg"
+  caption: |
+    <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4046m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,13 +93,9 @@ with the underside with an orangey border. Body plain black.
 **Sometimes mistaken for**  the [Red-mouth
 nerite](violacea.htm) which has the same shell shape but has a red mouth.
 
-*![](cornucopia/090612pndd4046m3.jpg)*  
-Top view. *Sungei Pandan, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](cornucopia/090612pndd4045m3.jpg)* Underside. *Sungei Pandan, Jun 09*
 
-*![](cornucopia/110329mndd8253m3.jpg)*  
-Side view. *Mandai, Mar 11*
 
 ---
 
@@ -92,12 +114,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](cornucopia/251228spgrqo4a.jpg)  
-Sg Pang Sua,
-Dec 25![](cornucopia/251228spgrqo4b.jpg)*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.913753374474737&type=3&ref=embed_post).
 
-*![](cornucopia/251231prprqo4a.jpg)  
-Pasir Ris Park, Dec 25![](cornucopia/251231prprqo4b.jpg)*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Obelisk creeper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "obelisk, vertagus, creeper, cerith, snail, shell, rhinoclavis, sinensis,  cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cerithiidae
 genus: Rhinoclavis
 species: sinensis*
@@ -16,6 +16,55 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070901sjid6524m3b.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Sep 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/070531sisg9643m3.jpg"
+  caption: |
+    <p>Mating?</p>
+    <p>Sisters Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/141010lablks1m3.jpg"
+  caption: |
+    <p>Labrador, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152768654323158.1073741860.547198157&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162128558571295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251009sjijll3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/251011ssisky3.jpg"
+  caption: |
+    <p>Small Sisters Island, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173350275700112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260103bsisrqo4.jpg"
+  caption: |
+    <p>Big Sisters Island, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.918105007372907">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/170129slglks.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jan 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154977119278158&set=a.10154977116448158.1073741932.547198157&type=3&l=cda22f1c8c&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/2007024thntjt2.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jul 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158582880833119&set=a.10158582872123119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/260201cyrccn2.jpg"
+  caption: |
+    <p>Cyrene, Feb 26Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163627378368654&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/210428slutch4.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407096328713&set=a.10159407302613713">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/091231biolks7m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4232299965/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,18 +113,11 @@ They are preyed upon by other snails such as [Drills](../muricidae/muricidae.htm
 **Human uses:** Where they are abundant,
 they may be collected for food and for their shell.
 
-*![](obelisk/081030sntd1464m3.jpg)  
-Sentosa, Oct 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](obelisk/081030sntd1463m3.jpg)*
 
-*![](obelisk/081030sntd1463m3b.jpg)*
 
-*![](obelisk/070901sjid6524m3b.jpg)  
-St. John's Island, Sep 07*
 
-*![](obelisk/070531sisg9643m3.jpg)*Mating?  
-*Sisters Island, May 07*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -99,47 +141,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](obelisk/141010lablks1m3.jpg)  
-Labrador, Oct 14*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10152768654323158.1073741860.547198157&type=1).
 
-*![](obelisk/251009sjijll3.jpg)*  
-*St John's Island,
-Oct 25*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162128558571295&type=3&ref=embed_post).
 
-*![](obelisk/251009sjijll3.jpg)*
 
 ---
 
-*![](obelisk/251011ssisky3.jpg)*  
-*Small Sisters Island,
-Oct 25*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173350275700112&type=3&ref=embed_post).
 
-*![](obelisk/260103bsisrqo4.jpg)*  
-*Big Sisters Island,
-Dec 25*Photo
-shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=100075202496320&set=a.918105007372907).
 
 ---
 
-*![](obelisk/170129slglks.jpg)  
-Terumbu Selegie, Jan 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154977119278158&set=a.10154977116448158.1073741932.547198157&type=3&l=cda22f1c8c&theater).
 
-*![](obelisk/2007024thntjt2.jpg)  
-Terumbu Hantu, Jul 20*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10158582880833119&set=a.10158582872123119&type=3&theater).
 
-*![](obelisk/260201cyrccn2.jpg)  
-Cyrene, Feb 26*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10163627378368654&type=3&ref=embed_post).
 
 ---
 
-*![](obelisk/210428slutch4.jpg)  
-Pulau Salu, Apr 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159407096328713&set=a.10159407302613713)..
 
-*![](obelisk/091231biolks7m3.jpg)  
-Pulau Biola, Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4232299965/).
 
 ---
 

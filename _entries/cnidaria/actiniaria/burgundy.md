@@ -2,7 +2,7 @@
 title: Burgundy anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [5, 6, 88]
 family: Actiniidae
 genus: Bunodosoma
@@ -17,6 +17,32 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2924
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110701pgld5000m3.jpg"
+  caption: |
+    <p>Punggol, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/120604pgld3628m3.jpg"
+  caption: |
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/080702prpd6501m3.jpg"
+  caption: |
+    <p>Pasir Ris, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4556m3.jpg"
+  caption: |
+    <p>Punggol, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4558m3a.jpg"
+  caption: |
+    <p>Punggol, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/110620pgld4557m3.jpg"
+  caption: |
+    <p>Punggol, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/burgundy/121016ubnlks1m3.JPG"
+  caption: |
+    <p>Pulau Ubin, Oct 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/12/highlights-of-trips-with-northern.html">his blog</a>.</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +53,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -63,23 +89,11 @@ tide, it tucks its tentacles into its body column.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-*![](burgundy/110701pgld5000m3.jpg)  
-Punggol, Jul 11*
 
-*![](burgundy/120604pgld3628m3.jpg)  
-Punggol, Jun 12*
 
-*![](burgundy/080702prpd6501m3.jpg)  
-Pasir Ris, Jul 08*
 
-*![](burgundy/110620pgld4556m3.jpg)  
-Punggol, Jul 11*
 
-*![](burgundy/110620pgld4558m3a.jpg)  
-Punggol, Jul 11*
 
-*![](burgundy/110620pgld4557m3.jpg)  
-Punggol, Jul 11*
 
 ---
 
@@ -98,9 +112,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](burgundy/121016ubnlks1m3.JPG)  
-Pulau Ubin, Oct 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/12/highlights-of-trips-with-northern.html).
 
 ---
 

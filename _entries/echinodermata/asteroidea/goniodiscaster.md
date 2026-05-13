@@ -2,7 +2,7 @@
 title: Biscuit sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "biscuit, sea star, seastar, starfish, star, fish, goniodiscater, scaber, oreasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 58, 92]
 family: Oreasteridae
 genus: Goniodiscaster
@@ -16,6 +16,38 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg"
+  caption: |
+    <p>Tuas, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3b.jpg"
+  caption: |
+    <p>Upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3c.jpg"
+  caption: |
+    <p>Does not have large bivalved pedicellaria.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8535m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050623cjg8410m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/030702cjd0113m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/101011chgd2150m3.jpg"
+  caption: |
+    <p>Changi, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/081114cyrlks01m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/081114cyrlks02m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/goniodiscaster/050624tusg8536m3.jpg"
 ---
 
 
@@ -61,30 +93,16 @@ sea star](gymnanthenea) (*Gymnanthenea laevis*) and the [Cake
 sea star](anthenea) (*Anthenea aspera*). Here's more on [how
 to tell apart large sea stars](cfbigstars) seen on our shores.
 
-*![](goniodiscaster/050624tusg8536m3.jpg)  
-Tuas, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](goniodiscaster/050624tusg8536m3b.jpg)*Upperside.
 
-![](goniodiscaster/050624tusg8535m3.jpg)  
-Underside.
 
-![](goniodiscaster/050624tusg8535m3c.jpg)  
-Does not have large bivalved pedicellaria.
 
-*![](goniodiscaster/050624tusg8535m3d.jpg)*
 
 ---
 
-*![](goniodiscaster/050623cjg8410m3.jpg)  
-Chek Jawa, Jun 05*
 
-![](goniodiscaster/030702cjd0113m3.jpg)  
-*Chek Jawa,
-Jul 03*
 
-*![](goniodiscaster/101011chgd2150m3.jpg)  
-Changi, Oct 10*
 
 ---
 
@@ -103,10 +121,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](goniodiscaster/081114cyrlks01m3.jpg)  
-Cyrene Reef, Nov 08  
-![](goniodiscaster/081114cyrlks02m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).
 
 ---
 
@@ -131,5 +145,3 @@ blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).
   Neville. 2007. *Sea
   stars: Echinoderms of Asia/Indo-Pacific*. Neville Coleman's
   Underwater Geographic Pty Ltd, Australia.136pp.
-
-

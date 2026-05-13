@@ -2,7 +2,7 @@
 title: Oriental sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oriental, flat, fish, flatfish, sole, brachirus, orientalis, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Soleidae
 genus: Brachirus
@@ -17,6 +17,51 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg"
+  caption: |
+    <p>Kusu Island, Jul 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2944518182331605&set=a.2944697072313716&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m6l.jpg"
+  caption: |
+    <p>East Coast Park, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4980m3.jpg"
+  caption: |
+    <p>Underside: Tail fin joined to the dorsal and anal fins.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg"
+  caption: |
+    <p>Eyes on the right side with small curved mouth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/110705chgL1060441m3.jpg"
+  caption: |
+    <p>Often seen trapped in fishing nets.</p>
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/100116cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Jan 10 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4283757944/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/240625bbky1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169627354665112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250501skdlks2.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/211108ecpjll3.jpg"
+  caption: |
+    <p>East Coast Park, Nov 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158614315026295&set=a.10158614307991295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090712kusjkm6l.jpg"
+  caption: |
+    <p>Kusu Island, Jul 09 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-sectionl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250430sjiml1.jpg"
+  caption: |
+    <p>St John's Island, Apr 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/250331hntrg3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 25Photo shared by Rachael Goh on <a href="https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/180715thnjll1.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jul 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155752809126295&set=a.10155752806801295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090330trylks3m6l.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3558524051/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/200705kusdc1a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,20 +104,11 @@ The [Large-toothed
 flounder](../paralichthyidae/paralichthyidae) (Family Paralichthyidae) looks very similar but it is
 left-eyed. Here's more on [how
 to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
-*![](orientalis/200705kusdc1a.jpg)  
-Kusu Island, Jul 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2944518182331605&set=a.2944697072313716&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](orientalis/090623ecpd4978m6l.jpg)  
-*East Coast Park, Jun 09*
 
-![](orientalis/090623ecpd4980m3.jpg)  
-Underside: Tail fin joined to the dorsal and anal fins*.*
 
-![](orientalis/090623ecpd4978m3a.jpg)  
-Eyes on the right side with small curved mouth.
 
-![](orientalis/110705chgL1060441m3.jpg)  
-Often seen trapped in fishing nets. *Changi, Jul 11*
 
 **What does it eat?** Lying buried
 in the sand, it preys on bottom dwelling animals especially crustaceans.  
@@ -97,48 +133,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](orientalis/100116cjlks.JPG)  
-*Chek Jawa, Jan 10*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4283757944/in/album-72157607712316054/).
 
-![](orientalis/240625bbky1.jpg) *Beting Bronok, Jun 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169627354665112).
 
 ---
 
-![](orientalis/250501skdlks2.jpg)  
-*Pulau Sekudu, May 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post).
 
 ---
 
-![](orientalis/211108ecpjll3.jpg)  
-*East Coast Park, Nov 21*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158614315026295&set=a.10158614307991295).
 
 ---
 
-![](orientalis/090712kusjkm6l.jpg)  
-*Kusu Island, Jul 09*  
-Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/kusu-island-sandy-lagoon-with-sectionl).
 
 ---
 
-![](orientalis/250430sjiml1.jpg)*St John's Island, Apr 25*   
-Photo shared by Mathias Luk on [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R).
 
 ---
 
-![](orientalis/250331hntrg3.jpg) *Pulau Hantu, Apr 25*Photo shared by Rachael Goh on [facebook](https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R).
 
-![](orientalis/180715thnjll1.jpg)  
-*Terumbu Hantu, Jul 18*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10155752809126295&set=a.10155752806801295&type=3&theater).
 
 ---
 
-![](orientalis/090330trylks3m6l.jpg)  
-*Terumbu Raya, Mar 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/3558524051/).
 
 ---
 

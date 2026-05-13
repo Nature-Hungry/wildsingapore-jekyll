@@ -2,7 +2,7 @@
 title: Y-branch brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Dictyota
@@ -17,6 +17,59 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg"
+  caption: |
+    <p>Tuas, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Vincent Choo on facebook.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Bookmark, Inc., the Philippines.</p>
+    <p>197 pp.</p>
+    <p>- Huisman, John M.</p>
+    <p>2000.</p>
+    <p>[Marine</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>University of Western Australia Press.</p>
+    <p>300pp.</p>
+    <p>- Trono, Gavino.</p>
+    <p>C.</p>
+    <p>Jr., 1997.</p>
+    <p>[Field</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Bookmark, Inc., the Philippines.</p>
+    <p>306 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -68,21 +121,14 @@ in meat and flavour sauces, milk shakes, pastries and salad dressings.
 Extracts from it are also used in industry as emulsifiers, gelling
 agents, stabilisers.
 
-![](dictyota/050413labd2529m3.jpg)  
-*Labrador, Apr 05*![](dictyota/050413labd2529m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dictyota/060809skdd5554m3.jpg) *Pulau Sekudu, Aug 06*![](dictyota/060809skdd5554m3b.jpg)
 
-![](dictyota/050429cftg5397m3.jpg)  
-*Changi, Apr 05*![](dictyota/050429cftg5397m3a.jpg)
 
 ---
 
-![](dictyota/120209blyd6238m3.jpg) *Berlayar Creek, Feb 12*
 
-![](dictyota/050624tusg8538m3.jpg) *Tuas, Jun 05*
 
-![](dictyota/070615sntrd2173m3.jpg) *Sentosa, Jun 07*
 
   
 *\*Seaweed species are
@@ -112,7 +158,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](dictyota/230608tmftvc4.jpg) *Tanah Merah Ferry Terminal, Jun 23*Photo shared by Vincent Choo on facebook.
 
 ---
 
@@ -149,16 +194,6 @@ Dictyota lata*
   100 pp. Uploaded 1 August 2011.
 - Calumpong,
   H. P. & Menez, E. G., 1997.*[Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
-  Bookmark, Inc., the Philippines. 197 pp.
-- Huisman,
-  John M. 2000. *[Marine
-  Plants of Australia](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  University of Western Australia Press. 300pp.
-- Trono, Gavino.
-  C. Jr., 1997. *[Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -2,7 +2,7 @@
 title: Mullets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fish, mugilidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60, 106, 108]
 family: Mugilidae
 genus: ""
@@ -16,6 +16,49 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg"
+  caption: |
+    <p>Tiny juvenile.</p>
+    <p>Sentosa, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110713labd6195m6l.jpg"
+  caption: |
+    <p>Small juvenile.</p>
+    <p>Labrador, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m6lb.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/110205krjd5890m3.jpg"
+  caption: |
+    <p>Large ones seen from the boardwalk.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/170528chgmn.jpg"
+  caption: |
+    <p>Tiny juveniles often seen in schools.</p>
+    <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/48696700551/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250626ubnrk3.jpg"
+  caption: |
+    <p>Pulau Ubin Jetty, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162634269992906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/241022ecpgig2.jpg"
+  caption: |
+    <p>East Coast (G), Oct 24Photo shared by Isaac Ong on <a href="https://www.facebook.com/media/set?vanity=61567026176318&set=a.122112498608567539">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/260104trmrqo4.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/250909laztt5.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/160622ssismn.jpg"
+  caption: |
+    <p>Small Sisters Island, Jun 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27234162574/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140902kusmn.jpg"
+  caption: |
+    <p>Kusu Island, Sep 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/15832732917/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/140809hntmn.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/34186266745/">flickr</a>.</p>
+    <p>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mugilidae/mugilidae/050113sntg2859m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,16 +102,10 @@ can reach 90cm long.
 tiny to small juveniles (1-4cm) can be seen. Body long and cylindrical with
 a broad flat blunt head and a small mouth. Two dorsal fins, wide apart
 from one another. Colour generally silvery, some with stripes.
-![](mugilidae/050113sntg2859m3.jpg)  
-Tiny juvenile. *Sentosa, Jan
-05* 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mugilidae/110713labd6195m6l.jpg)*Small juvenile. *Labrador, Jul 11*
 
-![](mugilidae/110205krjd5890m6lb.jpg)  
-*Sungei Buloh Wetland Reserve, Feb 11*
 
-*![](mugilidae/110205krjd5890m3.jpg)*Large ones seen from the boardwalk. *Sungei Buloh Wetland Reserve, Feb 11*
 
 **What do they eat?** They feed
 by filtering large quantities of bottom detritus, to eat microscopic
@@ -96,34 +133,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](mugilidae/170528chgmn.jpg)*Tiny juveniles often seen in schools. *Changi, May 17*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/48696700551/).
 
-*![](mugilidae/250626ubnrk3.jpg)*  
- *Pulau Ubin Jetty, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162634269992906&type=3&ref=embed_post).
 
 ---
 
-![](mugilidae/241022ecpgig2.jpg)  
- *East Coast (G), Oct 24*Photo shared by Isaac Ong on [facebook](https://www.facebook.com/media/set?vanity=61567026176318&set=a.122112498608567539).
 
 ---
 
-*![](mugilidae/260104trmrqo4.jpg)  
-Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post).
 
-![](mugilidae/250909laztt5.jpg)  
-*Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post).
 
-![](mugilidae/160622ssismn.jpg)  
-*Small Sisters Island, Jun 16*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/27234162574/).
 
 ---
 
-![](mugilidae/140902kusmn.jpg)  
-*Kusu Island, Sep 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/15832732917/).
 
-![](mugilidae/140809hntmn.jpg)  
-*Pulau Hantu, Aug 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/34186266745/). .
 
 ---
 

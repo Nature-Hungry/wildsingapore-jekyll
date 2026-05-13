@@ -2,7 +2,7 @@
 title: See-through sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "transparent, sea-through, cucumber, seacucumber, paracaudina, australis, caudinidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Caudinidae
 genus: Paracaudina
@@ -16,6 +16,29 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Molpadida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3a.jpg"
+  caption: |
+    <p>Short stubby feeding tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3b.jpg"
+  caption: |
+    <p>Internal organs sometimes can be seen.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks1m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/090113prplks2m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/01/soft-sediment-creatures-of-pasir-risl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/251107chgmn4.jpg"
+  caption: |
+    <p>Changi Point, Nov 25Shared by <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">Marcus Ng</a> on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/221226ecpgky1.jpg"
+  caption: |
+    <p>East Coast (G), Dec 2022Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167869234980112&set=a.10167869237595112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/paracaudina/030928cjd0009m3.jpg"
 ---
 
 
@@ -50,14 +73,9 @@ tentacles.
 feeds in soft ground. It breathes through its anus so it sticks its
 backside out to the surface.
 
-![](paracaudina/030928cjd0009m3.jpg)  
-*Chek Jawa, Sep 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](paracaudina/030928cjd0009m3a.jpg)  
-Short stubby feeding tentacles.
 
-![](paracaudina/030928cjd0009m3b.jpg)  
-Internal organs sometimes can be seen.
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -81,21 +99,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](paracaudina/090113prplks1m3.jpg)  
-Pasir Ris Park, Jan 09*
 
-![](paracaudina/090113prplks2m3.jpg)  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/01/soft-sediment-creatures-of-pasir-risl).
 
 ---
 
-![](paracaudina/251107chgmn4.jpg)  
- *Changi Point, Nov 25*Shared by [Marcus Ng](https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post) on facebook.
 
 ---
 
-![](paracaudina/221226ecpgky1.jpg)  
-*East Coast (G), Dec 2022*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167869234980112&set=a.10167869237595112).
 
 ---
 
@@ -112,5 +122,3 @@ Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/20
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

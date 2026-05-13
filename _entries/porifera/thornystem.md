@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,"
-layout: default
+layout: entry
 shape: branching
 title: Thorny stem sponge
 family: Niphatidae
@@ -16,6 +16,35 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg"
+  caption: |
+    <p>Sentosa Serapong,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3.jpg"
+  caption: |
+    <p>Kusu Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3.jpg"
+  caption: |
+    <p>Beting Bemban</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks1.JPG"
+  caption: |
+    <p>Tuas, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3559364250/in/album-72157618623639729/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/080609hnttsj.JPG"
+  caption: |
+    <p>Pulau Hantu, Jun 08Photo shared by Tan Sijjie on <a href="https://www.flickr.com/photos/ivantsj/2563553805/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg"
 ---
 
 
@@ -38,17 +67,9 @@ of a few stems long (10-20cm), sparsely branched, cylindrical covered
 with small spiny 'thorns'. Many small holes unevenly scattered over
 the surface. Colour blue or greenish blue.
 
-![](thornystem/120507sntspgd1360m3.jpg)  
-*Sentosa Serapong,
-May 12![](thornystem/120507sntspgd1360m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](thornystem/120607kusd4886m3.jpg)  
-*Kusu Island,
-Jun 12*![](thornystem/120607kusd4886m3a.jpg)
 
-![](thornystem/090625bbbd5261m3.jpg)  
-*Beting Bemban
-Besar, Jun 09*![](thornystem/090625bbbd5261m3b.jpg)
 
   
 *\*Sponge species are difficult to positively identify without close examination.   
@@ -72,15 +93,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](thornystem/090310tuslks1.JPG)  
-*Tuas,
-Mar 09*
 
-*![](thornystem/090310tuslks2.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3559364250/in/album-72157618623639729/).
 
-![](thornystem/080609hnttsj.JPG)  
-*Pulau Hantu,
-Jun 08*Photo shared by Tan Sijjie on [flickr](https://www.flickr.com/photos/ivantsj/2563553805/).
 
 ---
 

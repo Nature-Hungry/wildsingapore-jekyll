@@ -2,7 +2,7 @@
 title: Beaded nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bead, hoplodoris, nodulosa, dorididae, doridina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Discodorididae
 genus: Hoplodoris
 species: nodulosa
@@ -21,6 +21,66 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m6l.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/060723skdg6829m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Pulau Sekudu, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m3.jpg"
+  caption: |
+    <p>Rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m3a.jpg"
+  caption: |
+    <p>Feathery gills.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/200309prp.jpg"
+  caption: |
+    <p>Egg ribbon laid by the nudibranch.</p>
+- url: "https://live.staticflickr.com/31337/49638806413_a6090b9c88_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/49638806413/in/dateposted-public/ "Hoplodoris nodulosa")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/180911pgldc4.jpg"
+  caption: |
+    <p>Punggol, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1746137148836387&set=a.1746136788836423&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/121213chglks.JPG"
+  caption: |
+    <p>Changi, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8459824211/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/200113chgjll2.jpg"
+  caption: |
+    <p>Changi, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157001191881295&set=a.10157001189406295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/121216ubnlks.JPG"
+  caption: |
+    <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8523083175/in/album-72157607906657391/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/140104cjlks4m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/090426skdtch06m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/090426skdtch06m3a.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/071126cjtch01m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Nov 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/071126cjtch01m3b.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2085403233/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/090806tmjk4m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/090806tmjk5m3.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/170211cyrlks1.jpg"
+  caption: |
+    <p>Cyrene, Feb 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155021944613158.1073741934.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/200126bsisjll2.jpg"
+  caption: |
+    <p>Big Sisters Island, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157035133476295&set=a.10157035131206295&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nodulosa/050806skdg0598m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,26 +123,15 @@ darker in colour. Colour usually pale beige, brown, pinkish. Sometimes with a fe
 feathery and orange. The underside is pale with some smudged darkish
 blotches on the margins. The narrow foot is plain.
 
-*![](nodulosa/050806skdg0598m6l.jpg)  
-Pulau Sekudu, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](nodulosa/060723skdg6829m3.jpg)*  
-Underside.  
-*Pulau Sekudu, Jul 06*
 
-*![](nodulosa/050806skdg0598m3.jpg)*  
-Rhinophores.
 
-*![](nodulosa/050806skdg0598m3a.jpg)*  
-Feathery gills.
 
-*![](nodulosa/200309prp.jpg)*  
-Egg ribbon laid by the nudibranch.
   
 *Pasir Ris, Mar 20*
 
 An upside down nudibranch turning itself right side up, with a glimpse of egg ribbon nearby, probably laid by it.  
-[![Hoplodoris nodulosa](https://live.staticflickr.com/31337/49638806413_a6090b9c88_z.jpg)](https://www.flickr.com/photos/wildsingapore/49638806413/in/dateposted-public/ "Hoplodoris nodulosa")
 
 ---
 
@@ -101,47 +150,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](nodulosa/180911pgldc4.jpg)  
-Punggol, Sep 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1746137148836387&set=a.1746136788836423&type=3&theater).
 
-*![](nodulosa/121213chglks.JPG)  
-Changi, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8459824211/in/album-72157607622389163/).
 
-*![](nodulosa/200113chgjll2.jpg)  
-Changi, Jan 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157001191881295&set=a.10157001189406295&type=3&theater).
 
 ---
 
-*![](nodulosa/121216ubnlks.JPG)  
-Pulau Ubin, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8523083175/in/album-72157607906657391/).
 
-*![](nodulosa/140104cjlks4m3.jpg)  
-Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3).
 
 ---
 
 ---
 
-*![](nodulosa/090426skdtch06m3.jpg)**Pulau Sekudu, Apr 09  
-![](nodulosa/090426skdtch06m3a.jpg)*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
 
-*![](nodulosa/071126cjtch01m3a.jpg)  
-Chek Jawa, Nov 07  
-![](nodulosa/071126cjtch01m3b.jpg)*Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/2085403233/).
 
-*![](nodulosa/090806tmjk4m3.jpg)*  
-*Tanah Merah, Jul 09  
-![](nodulosa/090806tmjk5m3.jpg)*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html).
 
-*![](nodulosa/170211cyrlks1.jpg)  
-Cyrene, Feb 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155021944613158.1073741934.547198157&type=3).
 
-*![](nodulosa/200126bsisjll2.jpg)  
-Big Sisters Island, Jan 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157035133476295&set=a.10157035131206295&type=3&theater).
 
 ---
 

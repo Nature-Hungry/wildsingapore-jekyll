@@ -2,7 +2,7 @@
 title: Acropora corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 19, 25, 38, 47, 48, 79, 103, 104, 106]
 family: Acroporidae
 genus: Acropora
@@ -15,6 +15,82 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
+  caption: |
+    <p>Some acropora coral form table-like colonies.</p>
+    <p>Raffles Lighthouse, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg"
+  caption: |
+    <p>Corallites with tentacles contracted.</p>
+    <p>Sisters Island, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3c.jpg"
+  caption: |
+    <p>With the tentacles extended, the colony can appear 'furry'.</p>
+    <p>Pulau Semakau, Apr 08 Role in the habitat: Acropora corals are among the important building blocks of a reef.</p>
+    <p>Together with Montipora species, also members of the Family Acroporidae, acropora corals account for one-third of reef-building coral species.</p>
+    <p>Acropora corals include some of the fastest growing hard corals.</p>
+    <p>Their branching forms provide shelter to a wide variety of animals, from small fishes to tiny clams, small crabs to shrimps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/050309smkd1518m3c.jpg"
+  caption: |
+    <p>Producing mucus to protect themselves.</p>
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/190220smkm3.jpg"
+  caption: |
+    <p>The coral turns pink when stressed.</p>
+    <p>Pulau Semakau, Feb 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/080519sisd3399m3a.jpg"
+  caption: |
+    <p><a href="../../../mollusca/bivalvia/pectinidae/coral.htm">Coral scallop</a> Sisters Island, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/coralliocaris.htm">Machine gun shrimp</a> Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acropora/060305sisd0062m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/crab/trapezioidea/bandit.htm">Bandit coral crab</a> Sisters Islands, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg"
+  caption: |
+    <p><a href="../../../vertebrates/fish/gobiidae/histrio.htm">Acropora goby</a> Sisters Islands, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg"
+  caption: |
+    <p><a href="acrelegant.htm">Elegant acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7657m3.jpg"
+  caption: |
+    <p><a href="acrtubular.htm">Tubular acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrtubular/110323tsmkd7658m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0582m3.jpg"
+  caption: |
+    <p><a href="acrstaghorn.htm">Staghorn acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstaghorn/070618rlhg0583m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg"
+  caption: |
+    <p><a href="acrpinecone.htm">Pinecone acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3.jpg"
+  caption: |
+    <p><a href="acrstumpy.htm">Stumpy acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/070406hntg8468m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3.jpg"
+  caption: |
+    <p><a href="acrstumpy.htm">Stumpy acropora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3320m3a.jpg"
+  caption: |
+    <p></p>
+- url: "https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/19455986182/ "Elegant acropora coral (Acropora sp.)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -86,47 +162,10 @@ of colours.
 Some acropora corals are rather delicate and will shatter if they
 are knocked against. So please do not touch them, in fact, we should
 not touch any living hard corals.
-![](acrowide/070618rlhg0608m3.jpg)  
-Some acropora coral form table-like colonies. *Raffles Lighthouse, Jun 07*
-![](acrstumpy/051204sisg3229m3.jpg)  
-Corallites with tentacles
-contracted. *Sisters Island, Dec 05*
-![](acrelegant/080422smkd1440m3c.jpg)  
-With the tentacles extended,   
-the colony can appear 'furry'.  
-*Pulau Semakau, Apr 08*
-**Role in the habitat:** Acropora
-corals are among the important building blocks of a reef. Together
-with *Montipora* species, also members of the Family Acroporidae,
-acropora corals account for one-third of reef-building coral species.
-Acropora corals include some of the fastest growing hard corals. Their
-branching forms provide shelter to a wide variety of animals, from
-small fishes to tiny clams, small crabs to shrimps.
-![](acropora/050309smkd1518m3c.jpg)  
-Producing mucus to protect themselves.  
-*Pulau Semakau, Mar 05*
-![](acropora/190220smkm3.jpg)  
-The coral turns pink when stressed.  
-*Pulau Semakau, Feb 19*
-![](acrstumpy/080519sisd3399m3a.jpg)  
-[Coral
-scallop](../../../mollusca/bivalvia/pectinidae/coral.htm)   
-*Sisters Island, May 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](../../../crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg)*[Machine
-gun shrimp](../../../crustacea/othercrust/shrimp/coralliocaris.htm) *Kusu Island, Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
 
-![](acropora/060305sisd0062m3.jpg)  
-[Bandit
-coral crab](../../../crustacea/crab/trapezioidea/bandit.htm)   
-*Sisters Islands, Mar 06*
 
-![](../../../vertebrates/fish/gobiidae/histrio/051204sisg3318m3a.jpg)  
-[Acropora
-goby](../../../vertebrates/fish/gobiidae/histrio.htm)  
-*Sisters Islands, Dec 05*
 
 **Human uses:** Acropora corals are
 popular in the live aquarium trade and wild colonies are often taken
@@ -144,31 +183,13 @@ captive bred corals are more expensive.
 
 ---
 
-**![](acrelegant/070704jngg1275m3.jpg)  
-[Elegant acropora coral](acrelegant.htm)   
-![](acrelegant/070704jngg1276m3a.jpg)**
 
-**![](acrtubular/110323tsmkd7657m3.jpg)  
-[Tubular acropora coral](acrtubular.htm)   
-*![](acrtubular/110323tsmkd7658m3.jpg)***
 
-**![](acrstaghorn/070618rlhg0582m3.jpg)  
-[Staghorn acropora coral](acrstaghorn.htm)   
-*![](acrstaghorn/070618rlhg0583m3a.jpg)***
 
 ---
 
-**![](acrpinecone/060713rlhd4272m3.jpg)  
-[Pinecone acropora coral](acrpinecone.htm)   
-![](acrpinecone/060713rlhd4272m3b.jpg)**
 
-**![](acrstumpy/070406hntg8468m3.jpg)  
-[Stumpy acropora coral](acrstumpy.htm)   
-![](acrstumpy/070406hntg8468m3a.jpg)**
 
-**![](acrstumpy/051204sisg3320m3.jpg)  
-[Stumpy acropora coral](acrstumpy.htm)   
-![](acrstumpy/051204sisg3320m3a.jpg)**
 
 ---
 
@@ -176,7 +197,6 @@ captive bred corals are more expensive.
 
 ---
 
-[![Elegant acropora coral (Acropora sp.)](https://farm1.staticflickr.com/507/19455986182_c73bb99065_z.jpg)](https://www.flickr.com/photos/wildsingapore/19455986182/ "Elegant acropora coral (Acropora sp.)")
 
 ---
 

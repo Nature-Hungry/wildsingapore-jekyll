@@ -2,7 +2,7 @@
 title: "Porcelain crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Porcellanidae
 genus: ""
 species: ""
@@ -21,6 +21,46 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg"
+  caption: |
+    <p>Huge flat pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3a.jpg"
+  caption: |
+    <p>Long antennae emerging from outside instead of between the eyes.</p>
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/050607chgg7319m3a.jpg"
+  caption: |
+    <p>Last pair of legs folded on the sides of the body.</p>
+    <p>Changi, Jun 05 Falling apart at the seams: The porcelain crab tends to shed limbs if stressed, hence its common name.</p>
+    <p>This is a useful trait, in case a limb is trapped between rocks shifting in the currents, or grabbed by a predator.</p>
+    <p>A dropped pincer may continue to move, to distract the predator while the owner makes its getaway.</p>
+    <p>The lost limb eventually re-grows with subsequent <a href="../../../moulting">moults</a>, but this takes time.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg"
+  caption: |
+    <p>Feathery mouthparts.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg"
+  caption: |
+    <p>Lazarus, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg"
+  caption: |
+    <p><a href="petrolisthes">Big porcelain crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg"
+  caption: |
+    <p><a href="tinystone">Tiny brown porcelain crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg"
+  caption: |
+    <p><a href="hermit">Hermit porcelain crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg"
+  caption: |
+    <p><a href="picta">Painted porcelain crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg"
+  caption: |
+    <p><a href="commensal">Commensal porcelain crabs</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/others/200705kusjll5.jpg"
+  caption: |
+    <p>Kusu Island, Jul 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541501661295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5779m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -79,27 +119,7 @@ feed peacefully using their feathery mouthparts (see below). Some
 species may use their pincers to snip off or scrape bits of algae,
 and others may scavenge on dead animals. Some species use their pincers
 mainly against rival porcelain crabs in territorial and other disputes.
-![](petrolisthes/080619chgd5779m3.jpg)  
-Huge
-flat pincers.
-![](petrolisthes/080619chgd5779m3a.jpg)  
-Long
-antennae emerging from outside   
-instead of between the eyes. *Changi, Jun
-08*
-![](petrolisthes/050607chgg7319m3a.jpg)  
-Last
-pair of legs folded on  
-the sides of the body.  
-*Changi,* *Jun
-05*
-**Falling apart at the seams:** The
-porcelain crab tends to shed limbs if stressed, hence its common name.
-This is a useful trait, in case a limb is trapped between rocks shifting
-in the currents, or grabbed by a predator. A dropped pincer may continue
-to move, to distract the predator while the owner makes its getaway.
-The lost limb eventually re-grows with subsequent [moults](../../../moulting),
-but this takes time.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **Not a true crab!** The porcelain
 crab is not a true crab. True crabs belong to the subgroup Brachyura
@@ -117,11 +137,6 @@ filter feed at high tide. They have large mouthparts which are feathery
 with long silky hairs. These are extended into the water like nets
 to strain plankton from the water. Internal mouthparts scrape off
 any edible titbits caught on the hairs and transfer them to the mouth.
-![](petrolisthes/120818lazd0353m3a.jpg)  
-Feathery mouthparts.
-*![](petrolisthes/120818lazd0359m3a.jpg)  
-Lazarus, Aug
-12* 
  
 **Porcelain babies:** Porcelain crab
 eggs hatch into free-swimming larvae that only later settle down and
@@ -148,20 +163,12 @@ crabs on Singapore shores**
 
 ---
 
-**![](petrolisthes/120818lazd0353m3.jpg)  
-[Big porcelain crab](petrolisthes)**
 
-**![](tinystone/080521chgd3524m3.jpg)  
-[Tiny brown porcelain crab](tinystone)**
 
 ---
 
-***![](hermit/050315cjd1820m3.jpg)*[Hermit porcelain crab](hermit)**
 
-***![](../../../../cnidaria/others/pennatulacea/spiky/040716chgd2523m3.jpg)* [Painted porcelain crab](picta)**
 
-**![](commensal/110715cyrd6659m3.jpg)  
-[Commensal porcelain crabs](commensal)**
 
 ---
 
@@ -169,9 +176,6 @@ crabs on Singapore shores**
 
 ---
 
-![](others/200705kusjll5.jpg)  
-*Kusu Island, Jul 20*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157541501661295&set=a.10157541499231295&type=3&theater).
  
  
 

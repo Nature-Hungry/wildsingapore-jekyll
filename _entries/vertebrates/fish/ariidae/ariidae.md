@@ -2,7 +2,7 @@
 title: Sea catfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, catfish, cat, fish, ariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Ariidae
 genus: ""
@@ -17,6 +17,20 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg"
+  caption: |
+    <p>This large one (about 30cm) was caught by a fisherman.</p>
+    <p>Pulau Sekudu, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/020101bcjd4293m3.jpg"
+  caption: |
+    <p>This large one (20cm) was trapped in a rock pool at low tide.</p>
+    <p>Chek Jawa, Jan 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/030608cjd0063m3.jpg"
+  caption: |
+    <p>Small ones (about 6cm) are sometimes seen in large numbers on the shores.</p>
+    <p>Chek Jawa, Jun 03</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ariidae/ariidae/040509skdad0088m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,18 +85,9 @@ All the fishes in this page are *Hexanematichthys sagor* previously
 known as *Arius sagor*. Thanks to Dr Ng Heok Hee for identifying
 them.
 
-![](ariidae/040509skdad0088m3.jpg)  
-This large one
-(about 30cm)   
-was caught by a fisherman. *Pulau Sekudu, May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ariidae/020101bcjd4293m3.jpg)*This
-large one (20cm) was trapped   
-in a rock pool at low tide. *Chek Jawa, Jan 02*
 
-*![](ariidae/030608cjd0063m3.jpg)*Small
-ones (about 6cm) are sometimes seen in  
-large numbers on the shores. *Chek Jawa, Jun 03*
 
 **Catfish babies:** The males usually
 carry the relatively large eggs in his mouth until the eggs hatch.  

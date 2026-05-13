@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, ircinia, irciniidae, porifera, field, guide, seashore, sea, shore,"
-layout: default
+layout: entry
 shape: branching
 title: Brown prickly branching sponge
 family: Irciniidae
@@ -16,6 +16,71 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/050610sntg7665m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/070317sntg8089m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/070317sntg8089m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100812tpld0265m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100812tpld0265m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/091204pawd5336m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/091204pawd5337m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100130brkd8570m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100130brkd8570m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100131slud8864m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100131slud8864m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100601slud4732m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100601slud4732m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5511m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5511m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5637m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/100613sngd5637m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/101108bkoms00719m3.jpg"
+  caption: |
+    <p>Terumbu Bukom, Nov 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/branchbrown/020101cjcpd3703m3.jpg"
 ---
 
 
@@ -48,26 +113,15 @@ paler brown inside.
   
 Another species that may appear similar is *Dactylospongia elegans*.
 
-![](branchbrown/020101cjcpd3703m3.jpg)  
-*Chek Jawa, Jan 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](branchbrown/050610sntg7665m3.jpg)  
-*Sentosa, Jun 05*
 
-![](branchbrown/050610sntg7665m3a.jpg)
 
-![](branchbrown/020101cjcpd3703m3a.jpg)
 
 ---
 
-![](branchbrown/070317sntg8089m3.jpg)  
-*Sentosa, Mar 07*![](branchbrown/070317sntg8089m3a.jpg)
 
-![](branchbrown/100812tpld0265m3.jpg)  
-*Terumbu Pempang Laut, Aug 10*![](branchbrown/100812tpld0265m3a.jpg)
 
-![](branchbrown/091204pawd5336m3.jpg)  
-*Pulau Pawai, Dec 09*![](branchbrown/091204pawd5337m3.jpg)
 
   
 *\*Species are difficult
@@ -93,25 +147,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](branchbrown/100130brkd8570m3.jpg)  
-*Terumbu Berkas, Jan 10*![](branchbrown/100130brkd8570m3a.jpg)
 
-![](branchbrown/100131slud8864m3.jpg)  
-*Terumbu Salu, Jan 10*![](branchbrown/100131slud8864m3a.jpg)
 
-![](branchbrown/100601slud4732m3.jpg)  
-*Pulau Salu, Jun 10*![](branchbrown/100601slud4732m3a.jpg)
 
 ---
 
-![](branchbrown/100613sngd5511m3.jpg)  
-*Pulau Senang, Jun 10*![](branchbrown/100613sngd5511m3a.jpg)
 
-![](branchbrown/100613sngd5637m3.jpg)  
-*Pulau Senang, Jun 10*![](branchbrown/100613sngd5637m3a.jpg)
 
-![](branchbrown/101108bkoms00719m3.jpg)  
-*Terumbu Bukom, Nov 10*
 
 ---
 

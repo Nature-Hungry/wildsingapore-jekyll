@@ -2,7 +2,7 @@
 title: Sargassum nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crosslandia, daedali, sargassum, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 30, 33, 90]
 family: Scyllaeidae
 genus: Crosslandia
@@ -20,6 +20,39 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg"
+  caption: |
+    <p>Tiny brush-like rhinophore at the tip of long rhinophore stalk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Western Australian Museum.</p>
+    <p>184 pp.</p>
+    <p>- Coleman, Neville.</p>
+    <p>2001.</p>
+    <p>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs.</p>
+    <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,16 +99,9 @@ bright blue spots and white spikes.
 **What does it eat?** This nudibranch
 grazes tiny [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm) that grow on seaweeds.
 
-![](crosslandia/060131sjig4508m3.jpg)  
-*St. John's
-Island, Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](crosslandia/060131sjig4508m3a.jpg)
 
-![](crosslandia/060131sjig4511m3a.jpg)  
-Tiny brush-like
-rhinophore at the tip   
-of long rhinophore stalk.
 
 ---
 
@@ -94,23 +120,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](crosslandia/111001sjitch1m3.jpg)  
-*St. John's
-Island, Oct 11*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html).
 
-![](crosslandia/111001sjitch2m3.jpg)  
-*St. John's
-Island, Oct 11*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html).
 
-![](crosslandia/111001sjitch3m3.jpg)  
-*St. John's
-Island, Oct 11*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html).
 
 ---
 
@@ -136,12 +147,6 @@ Big Sisters Islands, Jan 2019
 - Wells, Fred
   E. and Clayton W. Bryce. 2000. *Slugs
   of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -2,7 +2,7 @@
 title: Seagrass       sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, seahare, hare, phyllaplysia, aplysiidae, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 27, 33, 90]
 family: Aplysiidae
 genus: Phyllaplysia
@@ -18,6 +18,33 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg"
+  caption: |
+    <p>Pulau Hantu, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3a.jpg"
+  caption: |
+    <p>Tiny ones!</p>
+    <p>Pulau Hantu, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m6l.jpg"
+  caption: |
+    <p>Pulau Hantu, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1455m3a.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/230901kustch2.jpg"
+  caption: |
+    <p>Kusu Island, Aug 23Photo shared by Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161114098318713&set=a.10161114118923713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/091107hntd3997m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,27 +87,16 @@ tentacles and tiny black eyes. Some seen were translucent green with fine white 
 encrusting organisms growing on the seagrass blades as the area
 around the slug is often 'clean' of encrusting growths.
 
-![](seagrass/091107hntd3997m6la.jpg)  
-*Pulau Hantu, Nov 09*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](seagrass/100201hntd9184m3a.jpg)  
-Tiny ones! *Pulau Hantu, Feb 10*
 
-![](seagrass/100201hntd9184m6l.jpg)  
-*Pulau Hantu, Feb 10*
 
 ---
 
-![](seagrass/121116sjjid1458m3.jpg)  
-*St. John's Island, Nov 12*
 
-![](seagrass/121116sjjid1455m3.jpg)  
-*St. John's Island, Nov 12*
 
-![](seagrass/121116sjjid1455m3a.jpg)  
-*St. John's Island, Nov 12*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -103,8 +119,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](seagrass/230901kustch2.jpg)  
-Kusu Island, Aug 23*Photo shared by Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10161114098318713&set=a.10161114118923713).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Mole mushroom coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mole, mushroom, polyphyllia, talpina, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fungiidae
 genus: Polyphyllia
 species: talpina
@@ -15,6 +15,66 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3a.jpg"
+  caption: |
+    <p>Petal-like, radial patterns.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisg3523m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6445m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/050720sntg9591m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/050720sntg9596m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060628sntd3787m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060628sntd3789m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/030802hntd0196m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/030802hntd0197m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/210430sjijk1.jpg"
+  caption: |
+    <p>St John's Island, Apr 21Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/51148157548/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100616tsmlks2m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711488704/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100131slulks1m6l.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4350484573/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100130brklks16m3.jpg"
+  caption: |
+    <p>Terumbu Berkas Besar, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100130brklks16m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352604227/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100613sngd5487m3.jpg"
+  caption: |
+    <p>Pulau Senang,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100613sngd5487m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/210428slulks13.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468393158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/060101sisd6444m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,33 +128,16 @@ has many mouths all over the upper surface.
 long mushroom corals. Here's more on how to [tell
 apart elongated mushroom hard corals](cflong.htm).
 
-*![](polyphyllia/060101sisd6444m3.jpg)  
-Sisters Island, Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](polyphyllia/060101sisg3523m3a.jpg)*Petal-like, radial patterns.
 
-*![](polyphyllia/060101sisg3523m3b.jpg)*
 
-*![](polyphyllia/060101sisd6445m3.jpg)*Underside
 
-![](polyphyllia/060101sisd6445m3a.jpg)
 
 ---
 
-![](polyphyllia/050720sntg9591m3.jpg)  
-*Sentosa, Jul
-05  
-![](polyphyllia/050720sntg9596m3.jpg)*
 
-![](polyphyllia/060628sntd3787m3.jpg)  
-*Sentosa, Jun
-06  
-![](polyphyllia/060628sntd3789m3.jpg)*
 
-![](polyphyllia/030802hntd0196m3.jpg)  
-*Pulau Hantu,
-Aug 03  
-![](polyphyllia/030802hntd0197m3a.jpg)*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -117,35 +160,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](polyphyllia/210430sjijk1.jpg)  
-*St John's Island, Apr 21*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/51148157548/).
 
 ---
 
-![](polyphyllia/100616tsmlks2m3.jpg)  
-Bleaching. *Terumbu Semakau, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4711488704/).
 
-*![](polyphyllia/100131slulks1m6l.jpg)  
-Terumbu Salu, Jan 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4350484573/).
 
 ---
 
-![](polyphyllia/100130brklks16m3.jpg)  
-*Terumbu Berkas
-Besar, Jan 10  
-![](polyphyllia/100130brklks16m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4352604227/).
 
-![](polyphyllia/100613sngd5487m3.jpg)  
-*Pulau Senang,
-Jun 10*![](polyphyllia/100613sngd5487m3a.jpg)  
-Bleaching.
 
-![](polyphyllia/210428slulks13.jpg)  
-*Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162468393158&set=a.10159162473618158).
 
 ---
 

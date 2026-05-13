@@ -2,7 +2,7 @@
 title: Turf green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Ulvaceae
 genus: Enteromorpha
@@ -15,6 +15,54 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg"
+  caption: |
+    <p>Sheets of Ulva with filamentous Enteromorpha</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg"
+  caption: |
+    <p>Changi, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7852m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>University of Western Australia Press.</p>
+    <p>300pp.</p>
+    <p>- Calumpong, H.</p>
+    <p>P.</p>
+    <p>& Menez, E.</p>
+    <p>G., 1997.[Field</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Bookmark, Inc., the Philippines.</p>
+    <p>197 pp.</p>
+    <p>- Trono, Gavino.</p>
+    <p>C.</p>
+    <p>Jr., 1997.</p>
+    <p>[Field</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Bookmark, Inc., the Philippines.</p>
+    <p>306 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -78,22 +126,11 @@ mossy ones used to garnish dishes in Japan and some parts of China.
 They are also used as animal feed, fertiliser and as medicine for
 their antibacterial properties.
 
-![](enteromorpha/050711tmd4976m3.jpg)  
-Coats rocks in a furry carpet. *Tanah Merah, Jul 05*![](enteromorpha/050711tmftd4991m3.jpg)  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](enteromorpha/070420sntd0150m3.jpg)  
-Sheets of *Ulva*
-with   
-filamentous *Enteromorpha*
 
-![](enteromorpha/100202chgd9210m6l.jpg)  
-*Changi, Feb 10*
 
-![](enteromorpha/100202chgd9209m3.jpg)  
-*Chek Jawa, Mar 02*![](enteromorpha/100202chgd9209m3a.jpg)
 
-![](enteromorpha/020328cjd7853m3.jpg)  
-*Chek Jawa, Mar 02*![](enteromorpha/020328cjd7852m3.jpg)
 
 ---
 
@@ -159,16 +196,6 @@ ovata*
   Centre. 128 pages.
 - Huisman,
   John M. 2000. *[Marine
-  Plants of Australia](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FMarine-Plants-Australia-John-Huisman%2Fdp%2F1876268336%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580260%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  University of Western Australia Press. 300pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*[Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-common-mangroves-seagrasses-Philippines%2Fdp%2F9715691978%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175577689%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)*![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1).
-  Bookmark, Inc., the Philippines. 197 pp.
-- Trono, Gavino.
-  C. Jr., 1997. *[Field
-  Guide and Atlas of the Seaweed Resources of the Philippines.](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FField-guide-seaweed-resources-Philippines%2Fdp%2F9715692524%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262450%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Bookmark, Inc., the Philippines. 306 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: Thuridilla slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thuridilla, slug, seaslug, elysiidae, plakobranchidae, sacoglossa, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Plakobranchidae
 genus: Thuridilla
 species: sp.*
@@ -18,6 +18,36 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120707jngtch1m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 12Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.387440897982281.87499.133291903397183&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/250201bsisvc3.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/100528tkkjk.JPG"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4647298132/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/150606tryjt2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 15Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10153004264733576.1073741900.518238575&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/130824smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24801463921/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/241116smkslks1.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Nov 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161880742313158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/091209pawlks1.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4166046366/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/230122jngjll4.jpg"
+  caption: |
+    <p>Pulau Jong, Jan 23Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10159413147171295&set=a.10159413154211295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/thuridilla/120408sjid8606m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,11 +88,8 @@ Dark to black with very thin white stripes along the body and a thin
 orange edge on the short 'wings'. It has two long tentacles with orange
 tips.
 
-![](thuridilla/120408sjid8606m3.jpg)  
- *St. John's Island, Apr 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](thuridilla/120707jngtch1m3.jpg)  
-*Pulau Jong, Jun 12*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.387440897982281.87499.133291903397183&type=1).
 
   
 *\*Species are difficult
@@ -87,30 +114,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](thuridilla/250201bsisvc3.jpg)  
- *Big Sisters Island, Feb 25*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945).
 
-![](thuridilla/100528tkkjk.JPG)  
-*Pulau Tekukor, May 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4647298132/).
 
-![](thuridilla/150606tryjt2m3.jpg)  
-*Terumbu Raya, Jun 15*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10153004264733576.1073741900.518238575&type=3).
 
 ---
 
-![](thuridilla/130824smklks.JPG)  
-*Pulau Semakau, Aug 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24801463921/in/album-72157607751329669/).
 
-![](thuridilla/241116smkslks1.jpg)  
-*Pulau Semakau (South), Nov 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161880742313158&type=3&ref=embed_post).
 
 ---
 
-![](thuridilla/091209pawlks1.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4166046366/).
 
-![](thuridilla/230122jngjll4.jpg)  
-*Pulau Jong, Jan 23*Photo shared by Jianlin LIu on [facebook](https://www.facebook.com/photo/?fbid=10159413147171295&set=a.10159413154211295).
 
 ---
 

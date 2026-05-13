@@ -2,11 +2,28 @@
 title: "Daisy green seaweed (Parvocaulis parvulus) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: ""
 genus: Parvocaulis
 species: parvulus
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3a.jpg"
+  caption: |
+    <p>Pulau Jong, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100517jngd2849m3b.jpg"
+  caption: |
+    <p>Pulau Jong, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/110220lazd6249m3a.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -35,22 +52,13 @@ to [general info on daisy green seaweed](daisy)
 
 ---
 
-![](daisy/110220lazd6249m3a.jpg)  
-*Lazarus Island, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](daisy/100517jngd2849m3a.jpg)  
-*Pulau Jong, May 10*
 
-![](daisy/100517jngd2849m3b.jpg)  
-*Pulau Jong, May 10*
 
 ---
 
-![](daisy/100810sngd9935m3c.jpg)  
-*Pulau Senang, Aug 10*
 
-![](daisy/100130brkd8494m3c.jpg)  
-*Terumbu Berkas, Jan 10*
 
 back
 to [general info on daisy green seaweed](daisy)

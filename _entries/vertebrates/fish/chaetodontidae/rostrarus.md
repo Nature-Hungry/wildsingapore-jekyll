@@ -2,7 +2,7 @@
 title: Copperband butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "copperband, copper, band, banded, butterflyfish, butterfly, beaked, coralfish, fish, chelmon, rostratus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Chaetodontidae
 genus: Chelmon
@@ -17,6 +17,107 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Heniochinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg"
+  caption: |
+    <p>Pointed snout to nibble on small things.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg"
+  caption: |
+    <p>It almost disappears when seen from above or head on.</p>
+    <p>Sentosa, Oct 03 What does it eat?</p>
+    <p>It uses its long snout to pick out bottom dwelling creatures from crevices.</p>
+    <p>These include worms and small crabs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/180911pglrk2.jpg"
+  caption: |
+    <p>Punggol, Sep 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156462600137906&set=a.10156462598342906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/200722lygdc1.jpg"
+  caption: |
+    <p>Changi-Loyang, Jul 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2990272811089475&set=a.2990375381079218&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/240706ubntch4.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 24Photo by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161672400203713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/250627bbjjl8.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161666315596295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/150705skdjjl.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 15Photo by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10153048206601295&set=a.10153048204536295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/090607tmjk2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3602626598/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/091106smkjk3m3.jpg"
+  caption: |
+    <p>Tanah Merah, Nov 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/11/091106-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/171108ecpmblks15.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/240527srplks2.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161375029933158&set=a.10161375044483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/251011labyls3.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122101681779062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/120407lazlks7m3.jpg"
+  caption: |
+    <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/160508kusjt2.jpg"
+  caption: |
+    <p>Kusu Island, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/230831sjirk3.jpg"
+  caption: |
+    <p>St John's Island, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160700871217906&set=a.10160700864147906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/090822sisnml1m3.JPG"
+  caption: |
+    <p>Sisters Island, Aug 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-little.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100911ssismn.jpg"
+  caption: |
+    <p>Small Sisters Island, Sep 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4998097929/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/200627cyrlks7.jpg"
+  caption: |
+    <p>Cyrene, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405644298158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100103tkkjk1m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237882316/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/250811jngmn3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161854402173660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/190520hntjll4.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156408099976295&set=a.10156408097666295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/251207hntky7.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/180715thndc2.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jul 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1659345094182260&set=a.1659334347516668&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/150717smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19371900554/in/album-72157653696565904/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/140713tsmkjll1m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jul 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152260947936295.1073741832.542241294&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/230509tsmkky2.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168333674735112&set=a.10168333683745112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/200625tblks2.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158398028308158&set=a.10158398059803158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100403tbbtch2m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Apr 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besar.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/110422tplrl4m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/250712tplmn2.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Jul 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161742250663660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/210428slujll5.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250486295&set=a.10158234241606295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,14 +168,7 @@ flat, circular disk-shaped, snout is long and pointed. It is sometimes called th
 pelvic fins are bright orange and yellow. Juveniles are solitary, more secretive and found in shallower water.
 Adults have proportionally taller fins swimming in the open near the
 sea bottom, forming pairs during breeding.
-![](rostratus/031029sntbd0064m3.jpg)  
-*Sentosa, Oct 03* 
-*![](rostratus/031029sntbd0064m3b.jpg)*Pointed snout to nibble on small things.
-*![](rostratus/050526cjg6792m3.jpg)*It almost disappears when seen   
-from above or head on. *Sentosa, Oct 03*
-**What does it eat?** It uses its
-long snout to pick out bottom dwelling creatures from crevices. These
-include worms and small crabs.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Unfortunately these
 beautiful fishes are popular in the live aquarium trade although they
@@ -103,120 +197,54 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](rostratus/180911pglrk2.jpg)  
-*Punggol, Sep 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156462600137906&set=a.10156462598342906&type=3&theater).
 
-![](rostratus/200722lygdc1.jpg)  
-*Changi-Loyang, Jul 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2990272811089475&set=a.2990375381079218&type=3&theater).
 
 ---
 
-*![](rostratus/240706ubntch4.jpg)  
-Pulau Ubin, Jul 24*Photo by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10161672400203713).
 
-![](rostratus/250627bbjjl8.jpg)  
- *Beting Bronok, Jun 25*Photo by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161666315596295&type=3&ref=embed_post).
 
-![](rostratus/150705skdjjl.jpg)  
- *Pulau Sekudu, Jul 15*Photo by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10153048206601295&set=a.10153048204536295).
 
 ---
 
-![](rostratus/090607tmjk2m3.jpg)  
-*Tanah Merah, Jun 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/3602626598/).
 
-![](rostratus/091106smkjk3m3.jpg)  
-*Tanah Merah, Nov 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091106-semakau.html).
 
-![](rostratus/171108ecpmblks15.jpg)  
-*East Coast-Marina Bay, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3).
 
 ---
 
-![](rostratus/240527srplks2.jpg)  
-*Sentosa Serapong, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161375029933158&set=a.10161375044483158).
 
-![](rostratus/251011labyls3.jpg)  
-*Labrador, Oct 25*Photo shared by Yan Le Su on [facebook](https://www.facebook.com/permalink.php?story_fbid=122101681779062825&id=61581884764116&ref=embed_post).
 
 ---
 
-![](rostratus/120407lazlks7m3.jpg)  
-*Seringat
-Kias, Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 
-![](rostratus/160508kusjt2.jpg)  
-*Kusu Island, May 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3).
 
-![](rostratus/230831sjirk3.jpg)  
-*St John's Island, Aug 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160700871217906&set=a.10160700864147906).
 
 ---
 
-![](rostratus/090822sisnml1m3.JPG)  
-*Sisters Island, Aug 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-little.html).
 
-![](rostratus/100911ssismn.jpg)  
-*Small Sisters Island, Sep 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4998097929/).
 
 ---
 
-![](rostratus/200627cyrlks7.jpg)  
-*Cyrene, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158405644298158&set=a.10158405653668158&type=3&theater).
 
-![](rostratus/100103tkkjk1m3.jpg)  
-*Pulau Tekukor, Jan 10*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4237882316/).
 
-![](rostratus/250811jngmn3.jpg)  
-*Pulau Jong, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161854402173660&type=3&ref=embed_post).
 
 ---
 
-![](rostratus/190520hntjll4.jpg)  
-*Pulau Hantu, May 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156408099976295&set=a.10156408097666295&type=3&theater).
 
-![](rostratus/251207hntky7.jpg)  
-*Pulau Hantu, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
 
-![](rostratus/180715thndc2.jpg)  
-*Terumbu Hantu, Jul 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1659345094182260&set=a.1659334347516668&type=3&theater).
 
 ---
 
-![](rostratus/150717smkmn.jpg)  
-*Pulau Semakau, Jul 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/19371900554/in/album-72157653696565904/).
 
-![](rostratus/140713tsmkjll1m3.jpg)  
-*Terumbu Semakau, Jul 14*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10152260947936295.1073741832.542241294&type=1).
 
-![](rostratus/230509tsmkky2.jpg)  
-*Terumbu Semakau, May 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168333674735112&set=a.10168333683745112).
 
 ---
 
-![](rostratus/200625tblks2.jpg)  
-*Terumbu Bemban, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158398028308158&set=a.10158398059803158&type=3&theater).
 
-![](rostratus/100403tbbtch2m3.jpg)  
-*Beting Bemban Besar, Apr 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besar.html).
 
 ---
 
-![](rostratus/110422tplrl4m3.jpg)  
-*Terumbu Pempang Laut, Apr 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947).
 
-![](rostratus/250712tplmn2.jpg)  
-*Terumbu Pempang
-Laut, Jul 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161742250663660&type=3&ref=embed_post).
 
-![](rostratus/210428slujll5.jpg)  
-*Pulau Salu, Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158234250486295&set=a.10158234241606295).
 
 ---
 

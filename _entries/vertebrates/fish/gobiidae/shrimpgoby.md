@@ -2,7 +2,7 @@
 title: Goby and snapping shrimp partners
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crustacea, alpheidae, prawn, shrimp, goby, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Gobiidae
 genus: ""
 species: ""
@@ -17,6 +17,89 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>Labrador, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with an adult <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>Pulau Semakau, Feb 09Photos shared by Tang Hung Bun.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a <a href="leptocephalus.htm">Pink-speckled shrimp-goby</a>.</p>
+    <p>Kusu Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphsmooth.htm">Smooth snapping shrimp</a> with <a href="triangularis.htm">Brown shore goby</a>.</p>
+    <p>Pasir Ris, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3a.jpg"
+  caption: |
+    <p>There seems to be TWO shrimps in the burrow.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8618m3.jpg"
+  caption: |
+    <p>Pasir Ris, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8618m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8618m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8583m3.jpg"
+  caption: |
+    <p>Pasir Ris, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8583m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8583m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8571m3.jpg"
+  caption: |
+    <p>Pasir Ris, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8571m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/110812prpd8571m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg"
+  caption: |
+    <p>Punggol, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27935539966/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/131107pgllks.JPG"
+  caption: |
+    <p>Punggol, Nov 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/11659951156/in/album-72157625372847848/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/260103prpyls1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 26 Photos shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122118127263062825&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/081115sntmn01m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 08 Photos shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2008/11/frequent-visitors-to-rubbly-shores-and-seagrass-patches-will-be-familiar-with-the-incessant-clicking-of-snapping-shrimps.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/081115sntmn03m3.jpg"
+  caption: |
+    <p>Young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/081115sntmn03m3b.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/161214sjimn.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>St.</p>
+    <p>John's Island, Dec 16 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/31402440040/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/111001sjiro3m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/100518bbbjk1m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
+    <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,55 +139,29 @@ is literally constantly in touch with the goby with at least one of
 its antennae always on the goby. When the goby darts into the burrow,
 the shrimp is right behind it!
 
-![](maudae/050513labg6528m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a young
-[Saddled
-shrimp-goby](maudae.htm). *Labrador,
-May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](maudae/090208smkthb1m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-an adult [Saddled
-shrimp-goby](maudae.htm). *Pulau Semakau,
-Feb 09*Photos shared
-by Tang Hung Bun.
 
-*![](leptocephalus/080830kusd9939m3.jpg)* [Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a [Pink-speckled shrimp-goby](leptocephalus.htm).  *Kusu Island, Aug 08*
 
 ---
 
-*![](triangularis/040618chgd0527m3.jpg)* [Smooth snapping shrimp](../../../crustacea/othercrust/shrimp/alphsmooth.htm) with  
-[Brown shore goby](triangularis.htm). *Pasir Ris, Aug 11*
 
-*![](triangularis/040618chgd0527m3a.jpg)*There seems to be TWO shrimps in the burrow.
 
-*![](triangularis/040618chgd0527m3b.jpg)*
 
 ---
 
-*![](gobiidaenoid/110812prpd8618m3.jpg)* *Pasir Ris, Aug 11*
 
-*![](gobiidaenoid/110812prpd8618m3a.jpg)*
 
-*![](gobiidaenoid/110812prpd8618m3b.jpg)*
 
 ---
 
-*![](gobiidaenoid/110812prpd8583m3.jpg)* *Pasir Ris, Aug 11*
 
-*![](gobiidaenoid/110812prpd8583m3a.jpg)*
 
-*![](gobiidaenoid/110812prpd8583m3b.jpg)*
 
 ---
 
-*![](gobiidaenoid/110812prpd8571m3.jpg)* *Pasir Ris, Aug 11*
 
-*![](gobiidaenoid/110812prpd8571m3a.jpg)*
 
-*![](gobiidaenoid/110812prpd8571m3b.jpg)*
 
 ---
 
@@ -123,54 +180,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](triangularis/131107pglmn.jpg)  
-*Punggol, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/27935539966/).
 
-*![](gobiidaenoid/131107pgllks.JPG)  
-Punggol, Nov 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/11659951156/in/album-72157625372847848/).
 
 ---
 
-![](gobiidaenoid/260103prpyls1.jpg)  
-*Pasir Ris Park, Jan 26*  
-Photos shared
-by Yan Le Su on [facebook](https://www.facebook.com/media/set/?set=a.122118127263062825&type=3&ref=embed_post).
 
 ---
 
-![](maudae/081115sntmn01m3.jpg)  
-*Sentosa,
-Nov 08*  
-Photos shared
-by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2008/11/frequent-visitors-to-rubbly-shores-and-seagrass-patches-will-be-familiar-with-the-incessant-clicking-of-snapping-shrimps.html).
 
-![](maudae/081115sntmn03m3.jpg)  
-Young [Saddled
-shrimp-goby](maudae.htm).
 
-![](maudae/081115sntmn03m3b.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm).
 
 ---
 
-![](maudae/161214sjimn.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a young [Saddled
-shrimp-goby](maudae.htm). *St. John's
-Island, Dec 16*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/31402440040/).
-![](maudae/111001sjiro3m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a young [Saddled
-shrimp-goby](maudae.htm). *St. John's
-Island, Oct 11*  
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3).
-![](maudae/100518bbbjk1m3.jpg)  
-[Many-banded snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband.htm) with  
-a young [Saddled
-shrimp-goby](maudae.htm). *Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html).
 
 ---
 

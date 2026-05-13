@@ -2,7 +2,7 @@
 title: "Maze hexagonal  corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,162 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9545m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9996m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9997m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050723labg9998m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/070506sjig9175m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2438m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050917smkg2439m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4153m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4157m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/111128sntd4155m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbd5393m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0186m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050724bbg0173m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks6m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks6m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks10m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks10m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks8m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/090512tmlks8m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091205sudd5537m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091205sudd5537m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6958m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6959m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100131slud8844m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100131slud8844m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8509m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8510m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8558m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100130brkd8558m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6971m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/091231biod6971m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3b.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5429m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5457m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5457m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5639m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100613sngd5639m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0141m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0141m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0075m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100811slud0075m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100601slud4769m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100601slud4769m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/100530tbkd4256m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/mazehexa/050720sntg9544m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -71,63 +227,34 @@ Merulinid corals with maze-like walls that form long valleys or form jigsaw-like
 patterns are grouped as [Jigsaw maze
 corals](../maze/mazejigsaw.htm).
 
-![](mazehexa/050720sntg9544m3.jpg)  
-*Sentosa, Jul
-05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](mazehexa/050720sntg9544m3a.jpg)*
 
-![](mazehexa/050720sntg9545m3a.jpg)
 
 ---
 
-![](mazehexa/050723labg9996m3.jpg)  
-*Labrador,
-Jul 05*
 
-![](mazehexa/050723labg9997m3.jpg)
 
-![](mazehexa/050723labg9998m3b.jpg)
 
 ---
 
-![](mazehexa/070506sjig9175m3.jpg)  
-*St. John's
-Island, May 07*
 
-![](mazehexa/070506sjig9175m3b.jpg)
 
-![](mazehexa/070506sjig9175m3d.jpg)
 
 ---
 
-![](mazehexa/050917smkg2438m3.jpg)  
-*Pulau Semakau,
-Sep 05*
 
-![](mazehexa/050917smkg2439m3.jpg)
 
-![](mazehexa/050917smkg2439m3c.jpg)
 
 ---
 
-![](mazehexa/111128sntd4153m3.jpg)  
-*Sentosa, Nov
-11*
 
-![](mazehexa/111128sntd4157m3.jpg)
 
-![](mazehexa/111128sntd4155m3a.jpg)
 
 ---
 
-![](mazehexa/050724bbd5393m3.jpg)  
-*Beting Bronok,
-Jul 05*
 
-![](mazehexa/050724bbg0186m3a.jpg)
 
-![](mazehexa/050724bbg0173m3b.jpg)
 
   
 *\*Species are difficult
@@ -152,102 +279,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](mazehexa/090512tmlks6m3.jpg)  
-*Tanah Merah,
-May 09  
-![](mazehexa/090512tmlks6m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
-![](mazehexa/090512tmlks10m3.jpg)  
-*Tanah Merah,
-May 09   
-![](mazehexa/090512tmlks10m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
-![](mazehexa/090512tmlks8m3.jpg)  
-*Tanah Merah,
-May 09  
-![](mazehexa/090512tmlks8m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
 ---
 
-![](mazehexa/091205sudd5537m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](mazehexa/091205sudd5537m3a.jpg)*
 
-![](mazehexa/091231biod6958m3.jpg)  
-*Pulau Biola,
-Dec 09  
-![](mazehexa/091231biod6959m3.jpg)*
 
-![](mazehexa/100131slud8844m3.jpg)  
-*Terumbu Salu,
-Jan 10  
-![](mazehexa/100131slud8844m3a.jpg)*
 
 ---
 
-![](mazehexa/100130brkd8509m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](mazehexa/100130brkd8510m3a.jpg)*
 
-![](mazehexa/100130brkd8558m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](mazehexa/100130brkd8558m3a.jpg)*
 
-![](mazehexa/091231biod6971m3.jpg)  
-*Pulau Biola,
-Dec 09  
-![](mazehexa/091231biod6971m3a.jpg)*
 
 ---
 
-![](mazehexa/100613sngd5429m3.jpg)  
-*Pulau Senang,
-Jun 10  
-![](mazehexa/100613sngd5429m3a.jpg)*
 
-![](mazehexa/100613sngd5429m3b.jpg)  
-*Pulau Senang,
-Jun 10  
-![](mazehexa/100613sngd5429m3c.jpg)*
 
-![](mazehexa/100613sngd5457m3.jpg)  
-*Pulau Senang,
-Jun 10  
-![](mazehexa/100613sngd5457m3a.jpg)*
 
 ---
 
-![](mazehexa/100613sngd5639m3.jpg)  
-*Pulau Senang,
-Jun 10  
-![](mazehexa/100613sngd5639m3a.jpg)*
 
-![](mazehexa/100811slud0141m3.jpg)  
-*Pulau Salu,
-Aug 10  
-![](mazehexa/100811slud0141m3a.jpg)*
 
-![](mazehexa/100811slud0075m3.jpg)  
-*Pulau Salu,
-Aug 10  
-![](mazehexa/100811slud0075m3a.jpg)*
 
 ---
 
-![](mazehexa/100601slud4769m3.jpg)  
-*Pulau Salu,
-Jun 10  
-![](mazehexa/100601slud4769m3a.jpg)*
 
-*![](mazehexa/100530tbkd4256m3.jpg)  
-Pulau Berkas,
-May 10*
 
   
 *.*

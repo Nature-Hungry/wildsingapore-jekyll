@@ -2,7 +2,7 @@
 title: Encrusting coralline red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "encrusting, coralline, red, seaweed, weed, algae, mesophyllum, hydrolithon, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Corallinaceae
 genus: ""
@@ -18,6 +18,49 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg"
+  caption: |
+    <p>Encrusting dead coral.</p>
+    <p>Sentosa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg"
+  caption: |
+    <p>Encrusting a rock.</p>
+    <p>Sisters Island, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg"
+  caption: |
+    <p>Encrusting a <a href="../../../mollusca/bivalvia/malleidae/malleus">Hammer oyster</a>.</p>
+    <p>Pulau Semakau.</p>
+    <p>Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/041019labd7736m3b.jpg"
+  caption: |
+    <p>The whitish stuff that grows on seagrass leaves is probably also coralline algae Labrador, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3.jpg"
+  caption: |
+    <p>Encrusting seagrasses.</p>
+    <p>Sentosa, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/110220lazd6287m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7479m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100103sisd7480m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100810sngd9944m3a.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/100617tbd6269m3c.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/091204pawd5392m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -80,26 +123,12 @@ a reef.
 Elsewhere, some species can grow unattached (called rhodoliths) forming
 extensive localised beds, made up of thousands of individuals.
 
-*![](encrust/050610sntg7603m3.jpg)*  
-Encrusting dead coral. *Sentosa, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](encrust/100103sisd7480m3.jpg)  
-Encrusting a rock.  
-Sisters Island, Jan 10*
 
-*![](../../../mollusca/bivalvia/malleidae/malleus/090207smkd6360m3.jpg)*Encrusting a [Hammer
-oyster](../../../mollusca/bivalvia/malleidae/malleus).  
-*Pulau Semakau. Feb 09*
 
-![](../../seagrass/thalassia/041019labd7736m3b.jpg)  
-The whitish stuff
-that grows on seagrass leaves   
-is probably also coralline algae  
-*Labrador, Oct 04*
 
-*![](encrust/081030sntd1456m3.jpg)*Encrusting seagrasses. *Sentosa, Oct 08*
 
-*![](encrust/081030sntd1456m3a.jpg)*
 
   
 *\*Seaweed species are
@@ -124,22 +153,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](encrust/110220lazd6287m3.jpg)* *Lazarus Island, Feb 11*
 
-*![](encrust/100103sisd7479m3.jpg)  
-Sisters Islands, Jan 10*
 
-*![](encrust/100103sisd7480m3.jpg)  
-Sisters Islands, Jan 10*
 
 ---
 
-*![](encrust/100810sngd9944m3a.jpg)* *Pulau Senang, Aug 10*
 
-*![](encrust/100617tbd6269m3c.jpg)  
-Terumbu Bemban, Jun 10*
 
-*![](encrust/091204pawd5392m3.jpg)* *Pulau Pawai, Dec 09*
 
 ---
 

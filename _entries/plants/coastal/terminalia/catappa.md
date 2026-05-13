@@ -2,7 +2,7 @@
 title: "Ketapang "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "almond, terminalia, catappa, combretaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 62]
 family: Combretaceae
 genus: Terminalia
@@ -15,6 +15,43 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg"
+  caption: |
+    <p>'Autumn colours' before the tree sheds its leaves.</p>
+    <p>Chek Jawa, Oct 01</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090419chgcrkd0318m3.jpg"
+  caption: |
+    <p>Typical 'pagoda' growth form.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/1003021hntd9574m3.jpg"
+  caption: |
+    <p>Often with buttress roots.</p>
+    <p>Pulau Hantu, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090926cjd1967m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090329cjd8715m3a.jpg"
+  caption: |
+    <p>Fallen flowers on the ground.</p>
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3b.jpg"
+  caption: |
+    <p>Lazarus, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/120407lazd8079m3a.jpg"
+  caption: |
+    <p>Lazarus, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3a.jpg"
+  caption: |
+    <p>The embryo is edible but not worth the effort to extract.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/090125kntd6090m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/040831sjid6040m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Aug 04</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/terminalia/catappa/011019cjcpd21m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -108,33 +145,15 @@ applied to rheumatic joints, juice of young leaves for headache and
 colic. According to Wee, the leaves are used in the Philippines to
 expel intestinal worms.
 
-*![](catappa/011019cjcpd21m3.jpg)*'Autumn
-colours' before the tree sheds its leaves. *Chek Jawa, Oct 01  
-![](catappa/090419chgcrkd0318m3.jpg)*Typical
-'pagoda' growth form. *Changi, Apr 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](catappa/1003021hntd9574m3.jpg)*Often
-with buttress roots. *Pulau Hantu, Feb 10  
   
-![](catappa/090926cjd1967m3.jpg)  
-Chek Jawa, Sep 09*
 
-*![](catappa/090329cjd8715m3a.jpg)*Fallen
-flowers on the ground. *Chek Jawa, Mar 09*
 
-*![](catappa/120407lazd8079m3b.jpg)**Lazarus, Apr 12*
 
-*![](catappa/120407lazd8079m3a.jpg)**Lazarus, Apr 12*
 
-*![](catappa/090125kntd6090m3a.jpg)*The
-embryo is edible but not   
-worth the effort to extract.
 
-*![](catappa/090125kntd6090m3.jpg)  
-Sungei Buloh Wetland Reserve, Jan 09*
 
-*![](catappa/040831sjid6040m3.jpg)  
-St. John's Island, Aug 04*
 
 ---
 

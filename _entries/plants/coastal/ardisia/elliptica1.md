@@ -2,7 +2,35 @@
 title: "Mata pelandok (Ardisia elliptica) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "ardisia, elliptica, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8711m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
+  caption: |
+    <p>Planted specimen.</p>
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0379m6l.jpg"
+  caption: |
+    <p>Planted specimen.</p>
+    <p>Pasir Ris, Apr 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -30,25 +58,13 @@ to [general info on mata pelandok](elliptica.htm)
 
 ---
 
-![](elliptica/090329cjd8714m3.jpg)  
-*Chek Jawa,
-Mar 09*![](elliptica/090329cjd8714m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](elliptica/090329cjd8708m3a.jpg)*  
-*Chek Jawa,
-Mar 09  
-![](elliptica/090329cjd8711m3.jpg)*
 
-![](elliptica/090329cjd8708m6l.jpg)  
-Planted specimen. *Chek Jawa, Mar 09*
 
 ---
 
-![](elliptica/090425prpd0367m3.jpg)  
-*Pasir Ris, Apr 09*![](elliptica/090425prpd0367m3a.jpg)
 
-![](elliptica/090425prpd0379m6l.jpg)  
-Planted specimen. *Pasir Ris, Apr 09*
 
 back
 to [general info on mata pelandok](elliptica.htm)

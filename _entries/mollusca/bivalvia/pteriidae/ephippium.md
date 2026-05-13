@@ -2,7 +2,7 @@
 title: Leaf oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [2, 33, 59]
 family: Pteriidae
 genus: Isognomon
@@ -17,6 +17,29 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg"
+  caption: |
+    <p>Growing along a muddy mangrove creek.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2375m3.jpg"
+  caption: |
+    <p>Changi Creek mangroves, May 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 20Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827011994009331&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,16 +82,9 @@ thus giving the common name of tree oyster. Often found in clusters.
 **Human uses:** In Thailand, they
 are regularly collected for food and marketed.
 
-![](ephippium/050809lckg1060m3.jpg)  
-*Lim Chu Kang, Aug 05*![](ephippium/050809lckg1060m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ephippium/031128sbwrbd0035m3.jpg)  
-Growing on a mangrove tree.![](ephippium/050327sbwrg3830m3.jpg)  
-*Sungei Buloh Wetland Reserve, Nov 03*
 
-*![](ephippium/170515chgsafd2376m3.jpg)*Growing along a muddy mangrove creek.  
-![](ephippium/170515chgsafd2375m3.jpg)  
-*Changi Creek mangroves, May 17*
 
   
 *\*Species are difficult
@@ -93,8 +109,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ephippium/200125prpAhd1.jpg)  
-*Pasir Ris Park, Jan 20*Photo shared by Nurulhuda on [facebook](https://www.facebook.com/photo.php?fbid=2827011994009331&set=a.2826977530679444&type=3&theater).
 
 ---
 

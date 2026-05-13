@@ -2,7 +2,7 @@
 title: "Sandpaper corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sandpaper, psammocora, siderastreidae, psammocoridae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Psammocoridae
 genus: ""
 species: ""
@@ -15,6 +15,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg"
+  caption: |
+    <p>Tiny petal-shaped holes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1956m3.jpg"
+  caption: |
+    <p>Granular surface giving their common name of sandpaper coral.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/041018sntd7498m3a.jpg"
+  caption: |
+    <p>A tiny shrimp.</p>
+    <p>Sentosa, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060312hntd0199m3a.jpg"
+  caption: |
+    <p>A tiny <a href="../../../mollusca/bivalvia/pectinidae/coral">scallop clam</a>.</p>
+    <p>Pulau Hantu, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg"
+  caption: |
+    <p>A <a href="../../../worm/polychaeta/sabellidae">fan worm</a>.</p>
+    <p>Raffles Lighthouse, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8447m3.jpg"
+  caption: |
+    <p><a href="psacrinkled">Crinkled sandpaper coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3676m3.jpg"
+  caption: |
+    <p><a href="psacrinkled">Crinkled sandpaper coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1948m3.jpg"
+  caption: |
+    <p><a href="psaboulder">Boulder sandpaper coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/120408sjid8450m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/crinkled/060102sisg3677m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/120508skdd1952m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/psammocoridae/boulder/050625labg8619m3c.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,24 +107,13 @@ the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0). Like other 
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.   
-*![](boulder/050625labg8619m3c.jpg)*Tiny petal-shaped holes.
-![](boulder/120508skdd1956m3.jpg)Granular surface giving their common  
-name of sandpaper coral.
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
 
-![](crinkled/041018sntd7498m3a.jpg)  
-A tiny shrimp.  
-*Sentosa, Oct 04*
 
-![](crinkled/060312hntd0199m3a.jpg)  
-A tiny [scallop
-clam](../../../mollusca/bivalvia/pectinidae/coral).  
-*Pulau Hantu, Mar 06*
 
-*![](../../../worm/polychaeta/sabellidae/banded/060810rlhd5679m3.jpg)*A
-[fan worm](../../../worm/polychaeta/sabellidae). *Raffles Lighthouse, Aug 06*
 
 ---
 
@@ -95,18 +122,9 @@ corals on Singapore shores**
 
 ---
 
-**![](crinkled/120408sjid8447m3.jpg)  
-[Crinkled sandpaper coral](psacrinkled)**
 
-**![](crinkled/060102sisg3676m3.jpg)  
-[Crinkled sandpaper coral](psacrinkled)**
 
-**![](boulder/120508skdd1948m3.jpg)  
-[Boulder sandpaper coral](psaboulder)**
 
-*![](crinkled/120408sjid8450m3d.jpg)*
-*![](crinkled/060102sisg3677m3.jpg)*
-*![](boulder/120508skdd1952m3.jpg)*
 
 ---
 

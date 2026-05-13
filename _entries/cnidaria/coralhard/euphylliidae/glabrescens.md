@@ -2,7 +2,7 @@
 title: Torch anchor coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "torch, anchor, euphyllia, glabrescens, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphylliidae
 genus: Euphyllia
 species: glabrescens*
@@ -15,6 +15,59 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/120609tsmkd5147m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100617tbjk1m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100519tsmjk7m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/210811tryrk1.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159271868537906&set=a.10159271859862906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100403tbbjk2m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Apr 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/110522bbblks12m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/100530tbkd4225m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,12 +126,9 @@ the IUCN](http://www.iucnredlist.org/). Like other creatures of the intertidal z
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
-![](glabrescens/051203smkg3165m3.jpg)  
-*Pulau Semakau, Dec 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](glabrescens/051203smkg3161m3c.jpg)
 
-*![](glabrescens/051203smkg3161m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -102,56 +152,28 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](glabrescens/120609tsmkd5147m3.jpg)  
- *Terumbu
-Semakau, Jun 12*
 
-![](glabrescens/120609tsmkd5147m3a.jpg)
 
-![](glabrescens/120609tsmkd5147m3b.jpg)
 
 ---
 
-![](glabrescens/080707hntd7529m3.jpg)  
- *Pulau Hantu,
-Jul 08*
 
-![](glabrescens/080707hntd7529m3a.jpg)
 
-![](glabrescens/080707hntd7529m3b.jpg)
 
 ---
 
-*![](glabrescens/100617tbjk1m3.jpg)  
-Terumbu Bemban, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html).
 
-*![](glabrescens/100519tsmjk7m3.jpg)*  
- *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
 
-*![](glabrescens/210811tryrk1.jpg)*  
- *Terumbu Raya, Aug 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159271868537906&set=a.10159271859862906).
 
 ---
 
-*![](glabrescens/100403tbbjk2m3.jpg)  
-Beting Bemban Besar, Apr 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html).
 
-*![](glabrescens/110522bbblks12m3.jpg)*  
-*Beting Bemban Besar, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
  
 
 ---
 
-*![](glabrescens/100530tbkd4225m3.jpg)  
-Pulau Berkas, May 10*
 
-*![](glabrescens/100530tbkd4225m3a.jpg)*
 
-*![](glabrescens/100530tbkd4225m3b.jpg)*
 
 ---
 

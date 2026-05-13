@@ -2,7 +2,7 @@
 title: Tree climbing crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Sesarmidae
 genus: Episesarma
@@ -23,6 +23,36 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
+  caption: |
+    <p>About to munch on flowers?</p>
+    <p>Sungei Buloh Wetland Reserve, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg"
+  caption: |
+    <p>Kranji Nature Trail, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg"
+  caption: |
+    <p>Singapore tree climbing crab (Episesarma singaporense) has all red pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg"
+  caption: |
+    <p>Violet tree climbing crab (Episesarma versicolor) has purple-white pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg"
+  caption: |
+    <p>Pink tree climbing crab (Episesarma chentongense) has red-white pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Sep 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6146753647/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Sep 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7961124836/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG"
+  caption: |
+    <p>Pasir Ris Park, Dec 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/16163390685/in/album-72157649634263729/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,13 +95,9 @@ help recirculate and oxygenate water in the gill chambers. In this
 way, these crabs can breathe air and stay out of the water for some
 time.
 
-*![](episesarma/030928sbwad0054m3.jpg)*About to munch on flowers? *Sungei Buloh Wetland Reserve, Sep 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](episesarma/101226krjd4185m3.jpg)  
-Kranji Nature Trail, Dec 10*
 
-*![](episesarma/031213sbwrd0047m3.jpg)  
-Sungei Buloh Wetland Reserve, Dec 03*
 
 Many are burrowers, digging holes at the base of mangrove trees and
 in mud lobster mounds. At high tide during the day, tree-climbing
@@ -83,17 +109,8 @@ such as birds.
 Some of the *Episesarma* species seen in Singapore can be distinguished
 by the colour of their pincers.
 
-*![](episesarma/031204prpd0094m3.jpg)***Singapore tree climbing crab**  
-(*Episesarma *singaporense**)  
-has all red pincers.
 
-*![](episesarma/101226krjd4307m3a.jpg)***Violet tree climbing crab**  
-(*Episesarma versicolor*)  
-has purple-white pincers.
 
-*![](episesarma/110419krjd9186m3.jpg)***Pink tree climbing crab**  
-(*Episesarma *chentongense**)  
-has red-white pincers.
 
 **What does it eat?** It eats mainly
 leaves, gathering these at night from the ground or by climbing up
@@ -122,14 +139,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](episesarma/110910cjlks.JPG)  
-Chek Jawa, Sep 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6146753647/in/album-72157607712316054/).
 
-*![](episesarma/120908cjlks.JPG)  
-Chek Jawa, Sep 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/7961124836/in/album-72157607712316054/).
 
-*![](episesarma/141227prplks.JPG)  
-Pasir Ris Park, Dec 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/16163390685/in/album-72157649634263729/).
 
 ---
 

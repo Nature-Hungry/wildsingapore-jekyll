@@ -2,7 +2,7 @@
 title: Rose spindle cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rose, spindle, ovulid, cowrie, ovulidae, pellasimnia, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ovulidae
 genus: Pellasimnia
 species: ""
@@ -17,6 +17,23 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0421m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks.JPG"
+  caption: |
+    <p>East Coast Park, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/120508ecplks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7181930840/in/album-72157607719316847/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,13 +74,9 @@ and pointed at the ends. Shell colour white, cream also pink and rose. Body mant
   
 The two species found in Singapore are quite similar *P. angasi and P. improcera.*
 
-![](pellasimnia/060323ulrd0409m3.jpg)  
-*Pulau Hantu, Mar 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pellasimnia/060323ulrd0421m3.jpg)  
-Underside.
 
-![](pellasimnia/060323ulrd0421m3a.jpg)
 
   
 
@@ -89,11 +102,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](pellasimnia/120508ecplks.JPG)  
-*East Coast Park, May 12*
 
-![](pellasimnia/120508ecplks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/7181930840/in/album-72157607719316847/).
 
 ---
 

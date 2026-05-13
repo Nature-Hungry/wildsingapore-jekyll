@@ -2,7 +2,7 @@
 title: Black sea urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, urchin, temnoplerus, toreumaticus, temnopleuridae, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 92, 93, 94]
 family: Temnopleuridae
 genus: Temnopleurus
@@ -19,6 +19,51 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngechinoidea)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3.jpg"
+  caption: |
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6608m3b.jpg"
+  caption: |
+    <p>Zig-zag lines on the upperside.</p>
+    <p>With long tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/040702chgd1470m3.jpg"
+  caption: |
+    <p>Sometimes found in large groups.</p>
+    <p>Changi, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050524chgg6613m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/050607chgg7287m3.jpg"
+  caption: |
+    <p>Worm-like animal often seen around the mouth.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/190811chgm3.jpg"
+  caption: |
+    <p>Carrying a shell.</p>
+    <p>Changi, Aug 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/220616chgelks5.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940596033158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/251205cjky1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173769335860112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/240723chgeky1.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169737487400112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/100614bbtch2m3a.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080507ecplks04m3.jpg"
+  caption: |
+    <p>East Coast, May 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl">his blog</a>.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -29,7 +74,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -73,22 +118,11 @@ and is not often seen on the Northern shores.
 **Prickly Home:** Sometimes, an [Urchin-mouth worm](../../../worm/polychaeta/oxydromus) is seen curled around the mouth of the sea
 urchin.
 
-*![](temnopleurus/050524chgg6608m3.jpg)  
-Changi, May 05*
 
-![](temnopleurus/050524chgg6608m3b.jpg)  
-Zig-zag lines on the upperside.  
-With long tube feet.
 
-*![](temnopleurus/040702chgd1470m3.jpg)*Sometimes found in large groups. *Changi, Jul 04*
 
-![](temnopleurus/050524chgg6613m3.jpg)  
-Underside.
 
-*![](temnopleurus/050607chgg7287m3.jpg)*Worm-like animal often seen around the
-mouth. *Changi, Jun 05*
 
-*![](temnopleurus/190811chgm3.jpg)*Carrying a shell. *Changi, Aug 19*
 
 ---
 
@@ -107,31 +141,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](temnopleurus/220616chgelks5.jpg)  
-*Changi Lost Coast, Jun 22*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940596033158&set=a.10159940599688158).
 
-*![](temnopleurus/251205cjky1.jpg)  
-Chek Jawa, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173769335860112&type=3&ref=embed_post).
 
-*![](temnopleurus/240723chgeky1.jpg)  
-Changi East (Lost Coast), Jul 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169737487400112).
 
 ---
 
-![](temnopleurus/100614bbtch2m3.jpg)  
-*Beting Bronok,
-Jun 10*
 
-![](temnopleurus/100614bbtch2m3a.jpg)  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
-![](temnopleurus/080507ecplks04m3.jpg)  
- *East Coast,
-May 08*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Tiny brown porcelain crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny,  porcelain, crab, porcellanidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 122]
 family: Porcellanidae
 genus: ""
@@ -21,6 +21,41 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg"
+  caption: |
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/150522pgld4818m3.jpg"
+  caption: |
+    <p>Often, many individuals of different sizes seen together under a stone.</p>
+    <p>Punggol, May 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080619chgd5713m3.jpg"
+  caption: |
+    <p>A moult under?</p>
+    <p>Seen under a stone.</p>
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/200917prplks9.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858388158&set=a.10158625872343158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/160125obsmn7.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/160125obsmn9.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/170822labjll4.jpg"
+  caption: |
+    <p>Labrador, Aug 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154966496831295.1073741899.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/240528tslvc10.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/tinystone/080521chgd3524m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -72,20 +107,13 @@ Species are difficult to positively identify without close examination.
 On this website, they are grouped by external features for convenience
 of display.
 
-![](tinystone/080521chgd3524m3.jpg)  
-*Changi, Jun 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tinystone/080521chgd3524m3b.jpg)
 
-![](tinystone/080521chgd3524m3a.jpg)
 
 ---
 
-![](tinystone/150522pgld4818m3.jpg)  
-Often, many individuals of different sizes seen together under a stone. *Punggol, May 15*
 
-![](tinystone/080619chgd5713m3.jpg)  
-A moult under? Seen under a stone. *Changi, Jun 08*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -108,22 +136,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tinystone/200917prplks9.jpg)  
-*Pasir Ris Park, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158625858388158&set=a.10158625872343158).
 
-![](tinystone/160125obsmn7.jpg)  
-*Pulau Ubin OBS, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3).
 
-![](tinystone/160125obsmn9.jpg)  
-*Pulau Ubin OBS, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3).
 
 ---
 
-![](tinystone/170822labjll4.jpg)  
-*Labrador, Aug 17*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10154966496831295.1073741899.542241294&type=3).
 
-![](tinystone/240528tslvc10.jpg)  
-*Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
 
 [links](../../../../links)
 | [references](../../../../references)

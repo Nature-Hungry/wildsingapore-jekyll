@@ -2,7 +2,7 @@
 title: "Pipefishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Syngnathidae
 genus: ""
 species: ""
@@ -17,6 +17,38 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg"
+  caption: |
+    <p>Changi, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg"
+  caption: |
+    <p>Long tube-like toothless snout.</p>
+    <p>Tiny tubular nostrils.</p>
+    <p>Tiny pelvic fins.</p>
+    <p>Changi, Aug 14 Pipefish babies: Like the seahorse, the male pipefish also carries the eggs.</p>
+    <p>In some species, the male has a pouch on the underside of his tail.</p>
+    <p>For those without a pouch, the eggs are glued to the underside of the male's tail or abdomen.</p>
+    <p>Often the eggs are embedded in a spongy tissue.</p>
+    <p>Some have a pair of flaps that fold over the eggs.</p>
+    <p>Females have an ovipositor to lay eggs on the male's body, where the eggs are then fertilised.</p>
+    <p>In some species, 'pregnant' males may hang out together in small groups.</p>
+    <p>The eggs develop safely on dad's body.</p>
+    <p>The father 'gives birth' to live young, which emerge as miniatures of the adults.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg"
+  caption: |
+    <p>Carrying eggs on the underside Pulau Semakau, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg"
+  caption: |
+    <p>Very pregnant papa with a bulging pouch on the underside.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg"
+  caption: |
+    <p><a href="seagrass">Seagrass pipefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg"
+  caption: |
+    <p><a href="biaculeatus">Alligator pipefish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,36 +113,14 @@ and patterns.
 **What do they eat?** Pipefishes feed
 on tiny creatures. To suck these up, they use their long tube-like
 snouts tipped with a small toothless mouth.
-![](seagrass/071001chgd6784m6la.jpg)  
-*Changi, Oct
-07*
-![](seagrass/140812chg4d8517m3.jpg)  
-Long tube-like toothless snout.   
-Tiny tubular nostrils.
-Tiny pelvic fins.  
-*Changi, Aug 14*
-**Pipefish babies:** Like the seahorse,
-the male pipefish also carries the eggs. In some species, the male
-has a pouch on the underside of his tail. For those without a pouch,
-the eggs are glued to the underside of the male's tail or abdomen.
-Often the eggs are embedded in a spongy tissue. Some have a pair of
-flaps that fold over the eggs. Females have an ovipositor to lay eggs
-on the male's body, where the eggs are then fertilised. In some species,
-'pregnant' males may hang out together in small groups. The eggs develop
-safely on dad's body. The father 'gives birth' to live young, which
-emerge as miniatures of the adults.  
+{% include img-wrap-group.html items=page.page_images %}
   
 Some pipefishes may perform courtship dances before mating. Unlike
 seahorses, a mating pair of pipefishes may not remain faithful only
 to one another. A female might lay her eggs on several males, and
 a male might carry the eggs of several females.
 
-![](biaculeatus/050627smkg8911m3.jpg)  
-Carrying eggs
-on the underside *Pulau Semakau, Jun 05*
 
-![](seagrass/090427chgd0639m6l.jpg)  
-Very pregnant papa with a bulging pouch on the underside. *Changi, Apr 09*
 
 **Human uses:** Pipefishes are used
 in traditional Chinese medicine, often as a substitute for seahorses.
@@ -126,11 +136,7 @@ on Singapore shores**
 
 ---
 
-**![](seagrass/120510chgd2756m3.jpg)  
-[Seagrass pipefish](seagrass)**
 
-**![](biaculeatus/080523cyrd3932m3.jpg)  
-[Alligator pipefish](biaculeatus)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Brain anchor coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Euphylliidae
 genus: Euphyllia
@@ -15,6 +15,65 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg"
+  caption: |
+    <p>Tentacles with U-shaped tips</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
+  caption: |
+    <p>Brain-like meandering valleys.</p>
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg"
+  caption: |
+    <p>Wide, deep gaps between corallite walls.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg"
+  caption: |
+    <p>Fanworms in a living colony.</p>
+    <p>Terumbu Raya, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7821m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519769935/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Apr 12Photo shared by Sam Yeo on <a href="https://www.facebook.com/media/set/?set=a.10150809396683140.474611.580878139&type=1">facebook</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,35 +129,19 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-![](ancora/110324tryas07803m3.jpg)  
-*Terumbu Raya, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ancora/060714rlhg0655m3b.jpg)  
-Tentacles with U-shaped tips
 
-![](ancora/060714rlhg0655m3a.jpg)
 
 ---
 
-![](ancora/060714rlhg0654m3.jpg)  
-Brain-like meandering valleys. *Raffles Lighthouse, Jul 06*
 
-![](ancora/060714rlhg0654m3a.jpg)  
-Wide, deep gaps between corallite walls.
 
-![](ancora/150606tryo6060262m3.jpg)  
-Fanworms in a living colony. *Terumbu Raya, Jun 15*
 
 ---
 
-![](ancora/080830kusd9987m3.jpg)  
-*Kusu Island, Aug 08*![](ancora/080830kusd9987m3c.jpg)
 
-![](ancora/090209tryd6798m3.jpg)  
-*Terumbu Raya, Feb 09*![](ancora/090209tryd6798m3d.jpg)
 
-![](ancora/110323tsmkd7819m3.jpg)  
-*Terumbu Semakau, Mar 11*![](ancora/110323tsmkd7821m3.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -122,23 +165,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ancora/100515sjilks5m3.jpg)  
-*St. John's Island, May 10*![](ancora/100515sjilks5m3a.jpg)  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html).
 
-![](ancora/120408sjilks2m3.jpg)  
-*St. John's
-Island , Apr 12*![](ancora/120408sjilks2m3a.jpg)Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html).
 
 ---
 
-![](ancora/120721tptlks.JPG)  
-*Terumbu Pempang Laut, Jul 12*
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519769935/in/album-72157626616274147/).
 
-![](ancora/120411thntsy3m3.jpg) *Terumbu Hantu, Apr 12*Photo shared by Sam Yeo on [facebook](https://www.facebook.com/media/set/?set=a.10150809396683140.474611.580878139&type=1)
 
 ---
 

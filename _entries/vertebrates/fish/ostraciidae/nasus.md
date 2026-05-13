@@ -2,7 +2,7 @@
 title: "Shortnose boxfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "short, nose, shortnose, boxfish, box, fish, rhynchostracion, ostracion, rhynchostracion, nasus, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Ostraciidae
 genus: Rhynchostracion
@@ -17,6 +17,29 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/160607bbjll2.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/190704bbjll1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/140615skdmn2m6l.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10152207108638660&set=a.10152202740248660.1073741838.624178659&type=3&src=https%3A%2F%2Fscontent-b-kul.xx.fbcdn.net%2Fhphotos-xfp1%2Ft1.0-9%2F10427214_10152207108638660_5241159062668957618_n.jpg&size=960%2C640">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/220714chgky1.jpg"
+  caption: |
+    <p>Changi Fairy Point, Jul 22 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167207994730112&set=a.10167208042325112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5612m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,11 +81,8 @@ bony plates with gaps for the various tiny fins, the tail and the
 mouth. No horns. A small bump on the 'nose' above the
 upper lip and a ridge along the middle of the back. Body pattern of hexagons with brown spots.
 
-![](nasus/090625cyrd5612m3.jpg)  
-*Cyrene Reef, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nasus/090625cyrd5620m6l.jpg)  
-*Cyrene Reef, Jun 09*
 
 **Toxic box:**  It is said
 to be toxic. It is probably one of the species that secretes
@@ -88,27 +108,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](nasus/160607bbjll2.jpg)  
-*Beting Bronok, Jun 16*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/10153726155456295).
 
-![](nasus/190704bbjll1.jpg)  
-*Beting Bronok, Jul 19*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3).
 
 ---
 
-![](nasus/140615skdmn2m3.jpg)  
-*Pulau Sekudu, Jun 14*
 
-![](nasus/140615skdmn2m6l.jpg)  
-*Pulau Sekudu, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10152207108638660&set=a.10152202740248660.1073741838.624178659&type=3&src=https%3A%2F%2Fscontent-b-kul.xx.fbcdn.net%2Fhphotos-xfp1%2Ft1.0-9%2F10427214_10152207108638660_5241159062668957618_n.jpg&size=960%2C640).
 
 ---
 
-![](nasus/220714chgky1.jpg)  
-*Changi Fairy Point, Jul 22*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167207994730112&set=a.10167208042325112).
 
 ---
 

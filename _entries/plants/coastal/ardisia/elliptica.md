@@ -2,7 +2,7 @@
 title: "Mata pelandok "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ardisia, elliptica, primulaceae, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 120]
 family: Primulaceae
 genus: Ardisia
@@ -16,6 +16,24 @@ order: Ericales
 subfamily: Myrsinoideae
 inat_id: 158587
 updated: Nov 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
+  caption: |
+    <p>Planted specimen.</p>
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8714m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090905sbwrd0268m3a.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3a.jpg"
+  caption: |
+    <p>Pasir Ris, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090425prpd0367m3.jpg"
+  caption: |
+    <p>Pasir Ris, Apr 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/ardisia/elliptica/090329cjd8708m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,21 +98,11 @@ the world outside its natural range, this plant is considered an invasive
 introduced weed. Its ability to tolerate shade causes it to form dense
 carpets which exclude native plants.  
 
-![](elliptica/090329cjd8708m6l.jpg)  
-Planted specimen. *Chek Jawa, Mar 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](elliptica/090329cjd8714m3.jpg)  
-Chek Jawa,
-Mar 09*
 
-![](elliptica/090905sbwrd0268m3a.jpg)  
-*Sungei Buloh Wetland Reserve, Sep 09*
 
-![](elliptica/090425prpd0367m3a.jpg)  
-*Pasir Ris, Apr 09*
 
-![](elliptica/090425prpd0367m3.jpg)  
-*Pasir Ris, Apr 09*
 
 ---
 

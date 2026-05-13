@@ -2,7 +2,7 @@
 title: Humpbacked shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cleaner, shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Hippolytidae
 genus: ""
@@ -21,6 +21,28 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+  caption: |
+    <p>Sisters Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/110123sisd5269m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 01</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/100809cyrd9757m3a.jpg"
+  caption: |
+    <p>On a flowery soft coral.</p>
+    <p>Cyrene Reef, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/220715cjjk1.jpg"
+  caption: |
+    <p>With eggs.</p>
+    <p>Chek Jawa, Jul 22Photo by James Koh on <a href="https://www.facebook.com/photo/?fbid=5967382176608437&set=a.5967384696608185">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/200706skdtch3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158634924263713&set=a.10158634969763713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/120722cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7659582370/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -60,13 +82,9 @@ Body thick with an obvious humped back. A broad long 'nose'. It doesn't
 have long pincers. Usually green.  
   
 Several different species of shrimps might have this appearance.
-*![](humped/111002sisd2124m3.jpg)  
-Sisters Island, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](humped/110123sisd5269m3.jpg)* *Sisters Island, Jan 01*
 
-*![](humped/100809cyrd9757m3a.jpg)*On
-a flowery soft coral. *Cyrene Reef, Aug 10*
 
   
 *\*Species are difficult
@@ -91,18 +109,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](humped/220715cjjk1.jpg)*With eggs. *Chek Jawa, Jul 22*Photo by
-James Koh on [facebook](https://www.facebook.com/photo/?fbid=5967382176608437&set=a.5967384696608185).
 
-*![](humped/200706skdtch3.jpg)  
-Pulau Sekudu, Jul 20*Photo by
-Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158634924263713&set=a.10158634969763713&type=3&theater).
 
 ---
 
-![](humped/120722cyrmn.jpg)  
- *Cyrene Reef, Jul 12*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7659582370/).
 
 [links](../../../links)
 | [references](../../../references)

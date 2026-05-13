@@ -2,12 +2,44 @@
 title: Orange-footed mangrove onch slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, footed, slug, seaslug, onch, onchidium, griseum, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Onchidiidae
 genus: Onchidium
 species: griseum
 attributes: []
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg"
+  caption: |
+    <p>Lim Chu Kang,</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0951m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110104pndd4731m3.jpg"
+  caption: |
+    <p>Sungei Pandan, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110104pndd4732m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/101226krjd4187.jpg"
+  caption: |
+    <p>Kranji, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/101226krjd4189.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110109ubnjk2.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 11Photo shared by James Koh on flickr.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/110109ubnjk1.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/260218meky2a.jpg"
+  caption: |
+    <p>Marina East, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174373985000112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/260218meky2b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -47,21 +79,9 @@ with ridges along the centre and small bumps. Generally greyish or
 brown. The underside is mottled with a yellow or orange margin. The
 narrow foot is orange with horizontal ridges. Eyes on long thin stalks.
 
-![](griseum/050809lckg0948m3.jpg)  
-*Lim Chu Kang,
-Aug 05*![](griseum/050809lckg0951m3.jpg)  
-Underside
+{% include img-wrap-group.html items=page.page_images %}
 
-![](griseum/110104pndd4731m3.jpg)  
-*Sungei Pandan,
-Jan 11*  
-![](griseum/110104pndd4732m3.jpg)  
-Underside
 
-![](griseum/101226krjd4187.jpg)  
-*Kranji, Dec 10*  
-![](griseum/101226krjd4189.jpg)  
-Underside
 
  *\***Species are difficult to positively identify
 without close examination.  
@@ -85,18 +105,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](griseum/110109ubnjk2.jpg)  
-Pulau Ubin, Jan 11*Photo shared by James Koh on flickr.
 
-![](griseum/110109ubnjk1.jpg)  
-Underside
 
 ---
 
-![](griseum/260218meky2a.jpg)  
-*Marina East, Feb 26*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10174373985000112&type=3&ref=embed_post).
 
-![](griseum/260218meky2b.jpg)
 
 ---
 

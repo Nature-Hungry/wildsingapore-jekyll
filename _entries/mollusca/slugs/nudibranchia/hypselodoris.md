@@ -2,7 +2,7 @@
 title: "Hypselodoris nudibranchs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chromodorididae
 genus: Hypselodoris
 species: sp.
@@ -22,6 +22,42 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
+  caption: |
+    <p><a href="hypink.htm">Pink-gilled hypselodoris</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg"
+  caption: |
+    <p><a href="hymaritima.htm">Hypselodoris maritima</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg"
+  caption: |
+    <p><a href="hykanga.htm">Hypselodoris kanga</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>IKAN-Unterwasserachiv, Frankfurt.</p>
+    <p>321 pp.</p>
+    <p>- Wells, Fred E.</p>
+    <p>and Clayton W.</p>
+    <p>Bryce.</p>
+    <p>2000.</p>
+    <p>Slugs of Western Australia: A guide to the species from the Indian to</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Western Australian Museum.</p>
+    <p>184 pp.</p>
+    <p>- Coleman, Neville.</p>
+    <p>2001.</p>
+    <p>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs.</p>
+    <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
+    <p>- Humann, Paul and Ned Deloach.</p>
+    <p>2010.</p>
+    <p>Reef Creature Identification: Tropical Pacific New World Publications.</p>
+    <p>497pp.</p>
+    <p>- Coleman, Neville, 1989.</p>
+    <p>Nudibranchs of the South Pacific Vol 1.</p>
+    <p>64 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,13 +131,8 @@ glands on their backs where they repel predators.
 
 **Some hypselodoris
 nudibranchs on Singapore shores**
-*![](hypselodoris/020629chgcpd1310m3.jpg)*[Pink-gilled
-hypselodoris](hypink.htm)
-*![](hymaritima/060429skdg5808m3.jpg)  
-*[Hypselodoris maritima](hymaritima.htm)**
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](hykanga/020713cjcpd2511m3.jpg)*  
-*[Hypselodoris kanga](hykanga.htm)**
 
 ---
 
@@ -132,24 +163,6 @@ to Toh Chay Hoon for sorting out the *Hypselodoris* from the
   Museum of Biodiversity Research, National University of Singapore.
 - Debelius,
   Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

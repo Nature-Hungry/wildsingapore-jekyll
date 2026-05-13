@@ -2,7 +2,7 @@
 title: Blue-spot nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "denison, dendrodoris, denisoni, dendrodorididae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 63, 90]
 family: Dendrodorididae
 genus: Dendrodoris
@@ -21,6 +21,83 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/050430skdg5542m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/090524tmd2119m6l.jpg"
+  caption: |
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/090524tmd2120m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/070714bbd3947m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/080606cyrtch.jpg"
+  caption: |
+    <p>Tiny one, hardly wider than a seagrass blade.</p>
+    <p>Cyrene Reef, Jun 08 Shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2599809884/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/140420sisd4936m3.jpg"
+  caption: |
+    <p>Laying eggs.</p>
+    <p>Sisters Island, Apr 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/200818pglrk1.jpg"
+  caption: |
+    <p>Punggol, Aug 20Photo by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158426356267906&set=a.10158426303182906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/200917prplks5.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 20Photos shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858783158&set=a.10158625872343158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/210501chglks1.jpg"
+  caption: |
+    <p>Changi, May 21 Photos shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159168918383158&set=a.10159168924033158">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/250627bbvc3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25 Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/080407skdlks01m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/080407skdlks02m3.jpg"
+  caption: |
+    <p>Mating and laying eggs.Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/07/back-to-sekudu-after-year.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/190705cjmn.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 19 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/48202159502/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/111212tmjk.jpg"
+  caption: |
+    <p>Diseased?</p>
+    <p>Tanah Merah, Dec 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/6508982281/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/171009blymn.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49107120953/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/090526bbjk.jpg"
+  caption: |
+    <p>A pair mating?Tanah Merah, May 09 Photos shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3565360835/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/091218tmjk3m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091218-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/071125smktch01m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 07 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2060345606/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/220101smksjk.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Jan 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5364069583606369&set=a.5364071023606225">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/080605hntlks03m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 08Photo shared by Loh Koh Sheng on <a href="http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/100912kuslks.JPG"
+  caption: |
+    <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4993822895/in/album-72157607725117581/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/161215cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Dec 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/45973984445/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/denisoni/050430skdg5550m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,12 +140,9 @@ blue spots. Thick club-like rhinophores and large feathery gills.
 The animal is generally beige sometimes with a purplish or pinkish
 tinge. Younger animals may be more colourful than older ones.
 
-*![](denisoni/050430skdg5550m3.jpg)  
-Pulau Sekudu, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](denisoni/050430skdg5550m3a.jpg)*
 
-*![](denisoni/050430skdg5542m3a.jpg)*
 
 **What does it eat?** It eats sponges,
 possibly [sponges](../../../porifera/porifera.htm) that
@@ -78,21 +152,10 @@ onto the sponge and then sucks up the softened sponge. How is it the
 juices don't leak away into the surrounding water? [Dr Bill Rudman](http://www.seaslugforum.net/showall/denddeni) explainshow structures around the mouth might help it
 form a seal around the feeding site.
 
-*![](denisoni/090524tmd2119m6l.jpg)  
-Tanah Merah, May 09*
 
-![](denisoni/090524tmd2120m3.jpg)  
-Underside.
 
-*![](denisoni/070714bbd3947m3.jpg)  
-Beting Bronok, Jul 07*
 
-*![](denisoni/080606cyrtch.jpg)*Tiny one, hardly wider than a seagrass blade.  
-*Cyrene Reef, Jun 08*  
-Shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2599809884/).
 
-**![](denisoni/140420sisd4936m3.jpg)**
-Laying eggs. *Sisters Island, Apr 14*
 
 ---
 
@@ -111,79 +174,35 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](denisoni/200818pglrk1.jpg)* *Punggol, Aug 20*Photo by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158426356267906&set=a.10158426303182906&type=3&theater).
 
-*![](denisoni/200917prplks5.jpg)*  
-*Pasir Ris Park, Sep 20*Photos shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158625858783158&set=a.10158625872343158).
 
 ---
 
-*![](denisoni/210501chglks1.jpg)*  
-*Changi, May 21* Photos shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159168918383158&set=a.10159168924033158)..
 
-*![](denisoni/250627bbvc3.jpg)  
-Beting Bronok, Jun 25*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post).
 
 ---
 
-*![](denisoni/080407skdlks01m3.jpg)* *Pulau Sekudu, Apr 06*
 
-*![](denisoni/080407skdlks02m3.jpg)*  
-Mating and laying eggs.Photos shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/07/back-to-sekudu-after-year.html).
 
-*![](denisoni/190705cjmn.jpg)  
-Chek Jawa, Jul 19* Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/48202159502/).
 
-*![](denisoni/111212tmjk.jpg)*Diseased? *Tanah Merah, Dec 11*Photo
-shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/6508982281/)
 
 ---
 
-*![](denisoni/171009blymn.jpg)  
-Berlayar Creek, Oct 17* Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49107120953/).
 
-*![](denisoni/090526bbjk.jpg)*  
-A pair mating?*Tanah Merah, May 09*  
-Photos shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/3565360835/).
 
 ---
 
-*![](denisoni/091218tmjk3m3.jpg)  
-Tanah Merah, Dec 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/091218-tanah-merah.html).
 
 ---
 
-*![](denisoni/071125smktch01m3.jpg)  
-Pulau Semakau, Nov 07* Photo
-shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/2060345606/).
 
-*![](denisoni/220101smksjk.jpg)  
-Pulau Semakau (South), Jan 22* Photo
-shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=5364069583606369&set=a.5364071023606225).
 
 ---
 
-*![](denisoni/080605hntlks03m3.jpg)  
-Pulau Hantu, Jun 08*Photo
-shared by Loh Koh Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html).
 
-*![](denisoni/100912kuslks.JPG)  
-Kusu Island, Sep 10*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4993822895/in/album-72157607725117581/).
 
 ---
 
-*![](denisoni/161215cyrmn.jpg)  
-Cyrene Reef, Dec 16*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/45973984445/).
 
 ---
 

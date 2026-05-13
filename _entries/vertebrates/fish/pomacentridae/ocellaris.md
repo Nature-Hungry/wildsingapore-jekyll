@@ -2,7 +2,7 @@
 title: "Clown anemonefish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "false, clown, anemonefish, anemone, fish, ocellaris, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 19, 25, 47, 48, 79]
 family: Pomacentridae
 genus: Amphiprion
@@ -18,6 +18,150 @@ order: Blenniiformes
 subfamily: Pomacentrinae
 complex: Amphiprion percula
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/gigantea.htm">Giant carpet anemone</a>.</p>
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m6l.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/gigantea.htm">Giant carpet anemone</a>.</p>
+    <p>Sisters Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg"
+  caption: |
+    <p>Stranded at low tide: best to leave it alone.</p>
+    <p>Kusu Island, Aug 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/mertensii.htm">Merten's carpet anemone</a>.</p>
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/magnifica.htm">Magnificent anemone</a>.</p>
+    <p>Terumbu Semakau, Jul 14 An anemonefish seen swimming away from its home anemone as the tide falls.</p>
+    <p>Terumbu Pempang Laut, Aug 2021</p>
+- url: "https://live.staticflickr.com/31337/51368805976_a982090d14_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/51368805976/in/dateposted-public/ "nemo") Amazing gender switch: Anemonefishes can change their gender.</p>
+    <p>Often, a sea anemone will be home to several anemonefishes of the same species.</p>
+    <p>Usually the largest anemonefish in the group is the female and the next largest is the functioning male (although he is often less than half her size).</p>
+    <p>For the Clown anemonefish, besides the difference in size, there are generally no differences in patterns or colours between the genders.</p>
+    <p>If the female is removed from the group, the male becomes a female and the next largest becomes the dominant male.</p>
+    <p>In this way, anemonefishes can continue to breed throughout the year.</p>
+    <p>Small anemonefishes are not necessarily younger, just lower in the "pecking order".</p>
+    <p>It is believed they remain small because of the constant harassment by the dominant pair.</p>
+    <p>Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070728sisd4491m3.jpg"
+  caption: |
+    <p>Smaller anemonefishes are NOT the babies of larger fishes in the same anemone!</p>
+    <p>Sisters Island, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg"
+  caption: |
+    <p>Fishes of several different sizes in one Magnificent anemone.</p>
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166045440/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg"
+  caption: |
+    <p>Eggs laid near the sea anemone.</p>
+    <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan g on  <a href="https://www.flickr.com/photos/hai_ren/4160941556/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg"
+  caption: |
+    <p></p>
+- url: "https://live.staticflickr.com/7682/27559698565_9175509a7f_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/27559698565/ "Clown anemonefish (Amphiprion ocellaris) in Giant carpet anemone (Stichodactyla gigantea)") Human uses: Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade.</p>
+    <p>The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures.</p>
+    <p>Like other fish and creatures harvested from the wild, most die before they can reach the retailers.</p>
+    <p>Without professional care, most die soon after they are sold.</p>
+    <p>Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive.</p>
+    <p>In artificial conditions, many succumb to diseases and poor health.</p>
+    <p>Those that do survive are unlikely to breed.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/220618tmftlks3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943824163158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240724tmfttt1.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10234687335582762">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250714srpttt1.jpg"
+  caption: |
+    <p>In Magnificent anemone Sentosa Serapong, Jul 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10239542837847284&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg"
+  caption: |
+    <p>Seringat Kias, Apr 12Photo shared by James Koh on <a href="http://wondercreation.blogspot.sg/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG"
+  caption: |
+    <p>Terumbu Buran, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buran.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240528tslrk1.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161168216927906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251009sjilks.jpg"
+  caption: |
+    <p>In a Magnificent anemone.</p>
+    <p>St John's Island, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421399228158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/240624sjimn2.jpg"
+  caption: |
+    <p>St John's Island, Jun 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160283434453660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/120506ssisjk.jpg"
+  caption: |
+    <p>Small Sisters Island, Nov 12Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7001014186/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/070725sismn.jpg"
+  caption: |
+    <p>Sisters Island, Jul 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/923808672/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100517jngjk.jpg"
+  caption: |
+    <p>Pulau Jong, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4614749234/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/200918cyrlks7.jpg"
+  caption: |
+    <p>Cyrene, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158627945618158&set=a.10158627950818158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250726cyrjt5.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/260201cyrmn1.jpg"
+  caption: |
+    <p>Cyrene, Jul 26Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162566841483660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/121117hntmn.jpg"
+  caption: |
+    <p>Pulau Hantu, Nov 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8205259253/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/210429hntvc2.jpg"
+  caption: |
+    <p>In Magnificaent anemone Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437642882945&set=a.10158431262127945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/250531thntccn1.jpg"
+  caption: |
+    <p>Terumbu Hantu, May 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162476429128654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/080210smktch10m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 08Photo shared by Toh Chay Hoon on  <a href="http://www.flickr.com/photos/ilmare77/2389173006/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100502trygl3m3.JPG"
+  caption: |
+    <p>Terumbu Raya, May 10Photo shared byGeraldine Lee on <a href="http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocks.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tsmklks6m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100617tbtch6m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoom on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/251008bbbky11.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100530pbklks1m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on  <a href="http://www.flickr.com/photos/koksheng/4655957372/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan g on  <a href="https://www.flickr.com/photos/hai_ren/4160213127/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2.jpg"
+  caption: |
+    <p>Eggs laid near the sea anemone.</p>
+    <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan g on  <a href="https://www.flickr.com/photos/hai_ren/4160941556/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205sdgik2a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100613snglks2m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on  <a href="http://www.flickr.com/photos/koksheng/4719376754/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/100612sngmn.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695061069/in/album-72157624263311376/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,11 +222,8 @@ bands on the white body bars (see [SeaLife
 Base fact sheet](http://fishbase.sinica.edu.tw/Summary/speciesSummary.php?ID=9209&genusname=Amphiprion&speciesname=percula)). The natural distribution of these two species
 of anemonefishes do NOT overlap.
 
-*![](ocellaris/040605kusbd0077m3.jpg)*In a [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea.htm). *Kusu Island, Jun 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ocellaris/090822sisd9681m6l.jpg)  
-In
-a [Giant carpet anemone](../../../cnidaria/actiniaria/gigantea.htm). *Sisters Island, Aug 09*
 
 **Home Sweet Anemone Home:** On our intertidal, the fish is often seen in [Giant
 carpet anemones](../../../cnidaria/actiniaria/gigantea.htm). It is also sometimes in [Magnificent
@@ -91,55 +232,14 @@ carpet anemones](../../../cnidaria/actiniaria/mertensii.htm).
   
 The anemonefish may sometimes be seen stranded at low tide near its anemone home. It is probably best to leave it alone and NOT try to 'rescue' it by putting it in a pool of water far away from its anemone home. These fishes are adapted to surviving at low tide and it is best that they are are close as possible to their anemone home when the tide turns. As the water rushes in, so do predators which will quickly eat up a defenceless anemonefish far from its protective anemone.
 
-*![](ocellaris/190831kus.jpg)*  
-Stranded at low tide: best to leave it alone. *Kusu Island, Aug 19*
 
-*![](../../../cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg)*In a [Merten's carpet anemone](../../../cnidaria/actiniaria/mertensii.htm). *Terumbu Hantu, Apr 12*
 
-*![](ocellaris/140713tsmkd7177m3.jpg)*  
-In a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.htm). *Terumbu Semakau, Jul 14*
-An anemonefish seen swimming away from its home anemone as the tide falls.  
-Terumbu Pempang Laut, Aug 2021
   
-[![nemo](https://live.staticflickr.com/31337/51368805976_a982090d14_z.jpg)](https://www.flickr.com/photos/wildsingapore/51368805976/in/dateposted-public/ "nemo")
-**Amazing gender switch:** Anemonefishes
-can change their gender. Often, a sea anemone will be home to several
-anemonefishes of the same species. Usually the largest anemonefish
-in the group is the female and the next largest is the functioning
-male (although he is often less than half her size). For the Clown anemonefish, besides the
-difference in size, there are generally no differences in patterns
-or colours between the genders. If the female is removed from the
-group, the male becomes a female and the next largest becomes the
-dominant male. In this way, anemonefishes can continue to breed
-throughout the year. Small anemonefishes are not necessarily younger,
-just lower in the "pecking order". It is believed they
-remain small because of the constant harassment by the dominant
-pair.
-Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.
 
-*![](ocellaris/070728sisd4491m3.jpg)*  
-Smaller anemonefishes are NOT the babies   
-of larger fishes in the same anemone!  *Sisters Island, Jul 07*
 
-![](ocellaris/091205pawlks14m3.jpg)  
-Fishes of several different sizes in one Magnificent anemone. *Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/4166045440/).
 
-![](ocellaris/091205sdgik2.jpg)  
-Eggs laid near the sea anemone. *Pulau Sudong, Dec 09*Photo shared by Ivan Kwan g on  [flickr](https://www.flickr.com/photos/hai_ren/4160941556/).
 
-![](ocellaris/091205sdgik2a.jpg)
 
-Many Clown anemonefishes of various sizes![![Clown anemonefish (Amphiprion ocellaris) in Giant carpet anemone (Stichodactyla gigantea)](https://live.staticflickr.com/7682/27559698565_9175509a7f_z.jpg)](https://www.flickr.com/photos/wildsingapore/27559698565/ "Clown anemonefish (Amphiprion ocellaris) in Giant carpet anemone (Stichodactyla gigantea)")
-**Human uses:** Unfortunately, these
-fishes are taken in large numbers from the wild for the aquarium trade.
-The harvest may involve the use of cyanide or blasting, which damage
-the habitat and kill many other creatures. Like other fish and creatures
-harvested from the wild, most die before they can reach the retailers.
-Without professional care, most die soon after they are sold. Often
-of starvation as owners are unable to provide the small creatures
-and plants that these fishes need to survive. In artificial conditions,
-many succumb to diseases and poor health. Those that do survive are
-unlikely to breed.  
   
 There have been some success in breeding anemonefish for the aquarium
 trade. Although captive bred anemonefish are hardier, they are more
@@ -169,116 +269,55 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](ocellaris/220618tmftlks3.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943824163158&set=a.10159943838013158).
 
-*![](ocellaris/240724tmfttt1.jpg)  
-Tanah Merah Ferry Terminal, Jun 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10234687335582762).
 
 ---
 
-*![](ocellaris/250714srpttt1.jpg)*  
-In Magnificent anemone *Sentosa Serapong, Jul 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10239542837847284&type=3&ref=embed_post).
 
-*![](../../../cnidaria/actiniaria/magnifica/120407lazlks1m3a.jpg)*  
-*Seringat Kias, Apr 12*Photo shared by James Koh on [his
-blog](http://wondercreation.blogspot.sg/2012/04/lobster-at-seringat-kias.html).
 
 ---
 
-*![](../../../cnidaria/actiniaria/gigantea/101106burlks4m3.JPG)  
-Terumbu Buran, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buran.html).
 
-*![](ocellaris/240528tslrk1.jpg)*  
-*Terumbu Selegie, May 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161168216927906).
 
 ---
 
-*![](ocellaris/251009sjilks.jpg)*  
-In a Magnificent anemone. *St John's Island, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421399228158&type=3&ref=embed_post).
 
-*![](ocellaris/240624sjimn2.jpg)*  
- *St John's Island, Jun 24*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160283434453660).
 
 ---
 
-*![](ocellaris/120506ssisjk.jpg)*  
-*Small Sisters Island, Nov 12*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/7001014186/).
 
-*![](ocellaris/070725sismn.jpg)*  
- *Sisters Island, Jul 07*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/923808672/).
 
-*![](ocellaris/100517jngjk.jpg)*  
-*Pulau Jong, May 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4614749234/).
 
 ---
 
-*![](ocellaris/200918cyrlks7.jpg)*  
-*Cyrene, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158627945618158&set=a.10158627950818158).
 
-![](ocellaris/250726cyrjt5.jpg)  
-*Cyrene, Jul 25*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post).
 
-![](ocellaris/260201cyrmn1.jpg)  
-*Cyrene, Jul 26*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162566841483660&type=3&ref=embed_post).
 
 ---
 
-![](ocellaris/121117hntmn.jpg)  
-*Pulau Hantu, Nov 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8205259253/).
 
-*![](ocellaris/210429hntvc2.jpg)*  
-In Magnificaent anemone *Pulau Hantu, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158437642882945&set=a.10158431262127945).
 
 ---
 
-*![](ocellaris/250531thntccn1.jpg)*  
-*Terumbu Hantu, May 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162476429128654).
 
 ---
 
-![](ocellaris/080210smktch10m3.jpg)  
-*Pulau Semakau, Feb 08*Photo shared by Toh Chay Hoon on  [flickr](http://www.flickr.com/photos/ilmare77/2389173006/).
 
-![](ocellaris/100502trygl3m3.JPG)  
-*Terumbu Raya, May 10*Photo shared byGeraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocks.html).
 
-![](ocellaris/100617tsmklks6m3.jpg)  
-*Terumbu
-Semakau, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html).
 
 ---
 
-![](ocellaris/100617tbtch6m3.jpg)  
-*Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
 
-*![](ocellaris/251008bbbky11.jpg)*  
-*Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post).
 
-![](ocellaris/100530pbklks1m3.jpg)  
-*Pulau Berkas, May 10*Photo shared by Loh Kok Sheng on  [flickr](http://www.flickr.com/photos/koksheng/4655957372/).
 
 ---
 
-![](ocellaris/091205sdgik.jpg)  
-*Pulau Sudong, Dec 09*Photo shared by Ivan Kwan g on  [flickr](https://www.flickr.com/photos/hai_ren/4160213127/).
 
-![](ocellaris/091205sdgik2.jpg)  
-Eggs laid near the sea anemone. *Pulau Sudong, Dec 09*Photo shared by Ivan Kwan g on  [flickr](https://www.flickr.com/photos/hai_ren/4160941556/).
 
-![](ocellaris/091205sdgik2a.jpg)
 
 ---
 
-![](ocellaris/100613snglks2m3.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on  [flickr](http://www.flickr.com/photos/koksheng/4719376754/).
 
-![](ocellaris/100612sngmn.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4695061069/in/album-72157624263311376/).
 
 ---
 

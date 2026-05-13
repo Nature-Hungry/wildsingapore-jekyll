@@ -2,12 +2,38 @@
 title: Tiny Flower crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, swimming, crab, portunus, pelagicus, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Portunus
 species: pelacigus
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/070728sisd4545m3.jpg"
+  caption: |
+    <p>Sisters Island, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/070603sntrg9950m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/090413blyd9992m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/060225cjg5012m3.jpg"
+  caption: |
+    <p>Chek Jawa, Feb 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/251208melks5.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/110220lazro5m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050426cftg5050m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -49,24 +75,14 @@ beige, brown with light spots but no striking markings or patterns.
 Their eyes are wide apart and they have 8-9 spines on the sides of
 their bodies.
 
-![](tiny/050426cftg5050m3.jpg)  
-*Changi, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tiny/050426cftg5050m3a.jpg)
 
-![](tiny/070728sisd4545m3.jpg)  
-*Sisters Island, Jul 07*
 
 ---
 
-![](tiny/070603sntrg9950m3.jpg)  
-*Sentosa, Jun 07*
 
-*![](tiny/090413blyd9992m3.jpg)  
-Berlayar Creek, Apr 09*
 
-![](tiny/060225cjg5012m3.jpg)  
-*Chek Jawa, Feb 05*
 
 ---
 
@@ -85,12 +101,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tiny/251208melks5.jpg)  
-*Marina East, Dec 2025*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post).
 
-*![](tiny/110220lazro5m3.jpg)  
-Lazarus Island, Feb 11*Photo
-shared by Rene Ong on [facebook](http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf).
 
 [links](../../../links)
 | [references](../../../references)

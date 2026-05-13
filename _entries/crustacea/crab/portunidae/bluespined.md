@@ -2,7 +2,7 @@
 title: "Blue-spined swimming crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, spined, swimming, crab, thalamita, prymna, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Thalamita
@@ -24,6 +24,52 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3h.jpg"
+  caption: |
+    <p>6 rounded equal-sized lobes between the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg"
+  caption: |
+    <p>Fourth spine tinier than other spines so it may appear to have only four spines.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040731kusd3566m3.jpg"
+  caption: |
+    <p>A mating pair.</p>
+    <p>Kusu Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/250810bsislvo4.jpg"
+  caption: |
+    <p>A pair about to mate?</p>
+    <p>Big Sisters, Aug 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122119884008927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/210529epcnvc8.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497036122945&set=a.10158495877737945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/251011lablks8.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/201019sjilks4.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158704036973158&set=a.10158704042413158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/110619tslgjp3m3.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11Photo shared by Jerome Pang on <a href="http://www.facebook.com/media/set/?set=a.10150218843596523.321373.614016522">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/200707hntdc1.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2949560101827413&set=a.2949753721808051&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/150617ecpbslks3m3.jpg"
+  caption: |
+    <p>East Coast Park, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/160510ecpbsdc1.jpg"
+  caption: |
+    <p>East Coast Park, May 16Photo shared by Dayna Cheah on <a href="https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.924162001033910.1073741854.100003203558241&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/150121tpkjll2m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Kecil, Dec 15Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152686639956295.1073741844.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/210428slujll3.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234252246295&set=a.10158234241606295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,20 +117,11 @@ blotches.
 Thanks to comments by Ondrej
 Radosta on [Marcus Ng's photo on flickr](https://www.flickr.com/photos/budak/14662899363/) who shared that *Thalamita pelsarti* looks very similar; *T. prymna* has a smooth and glossy upper body, while *T. pelsarti* has a granular almost 'hairy' upper body.
 
-*![](bluespined/040818sntd4739m3.jpg)  
-Sentosa, Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bluespined/040818sntd4739m3h.jpg)*6 rounded equal-sized lobes between the eyes.
 
-*![](bluespined/040818sntd4739m3b.jpg)*Fourth spine tinier than other spines  
-so it may appear to have only four spines.
 
-![](bluespined/040731kusd3566m3.jpg)  
-A mating pair. *Kusu Island, Jul 04*
 
-![](bluespined/250810bsislvo4.jpg)  
-A pair about to mate?  
-*Big Sisters, Aug 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122119884008927700&type=3&ref=embed_post)*.*
 
   
 *\*Species are difficult to positively identify without close examination.  
@@ -108,40 +145,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bluespined/210529epcnvc8.jpg)  
-*East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497036122945&set=a.10158495877737945).
 
 ---
 
-![](bluespined/251011lablks8.jpg)  
-*Labrador, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post).
 
-![](bluespined/201019sjilks4.jpg)  
-*St John's Island, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158704036973158&set=a.10158704042413158).
 
 ---
 
-![](bluespined/110619tslgjp3m3.jpg)  
-*Terumbu Selegie, Jun 11*Photo shared by Jerome Pang on [facebook](http://www.facebook.com/media/set/?set=a.10150218843596523.321373.614016522).
 
-![](bluespined/200707hntdc1.jpg)  
-*Pulau Hantu, Jul 20*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=2949560101827413&set=a.2949753721808051&type=3&theater).
 
 ---
 
-![](bluespined/150617ecpbslks3m3.jpg)  
-*East Coast Park, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3).
 
-![](bluespined/160510ecpbsdc1.jpg)  
-*East Coast Park, May 16*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.924162001033910.1073741854.100003203558241&type=3).
 
-![](bluespined/150121tpkjll2m3.jpg)  
-*Terumbu Pempang Kecil, Dec 15*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10152686639956295.1073741844.542241294&type=3).
 
 ---
 
-![](bluespined/210428slujll3.jpg)  
-*Pulau Salu, Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158234252246295&set=a.10158234241606295).
 
 ---
 

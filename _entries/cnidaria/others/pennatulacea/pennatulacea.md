@@ -2,12 +2,63 @@
 title: "Sea pens "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pen, seapen, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Vertillidae
 genus: ""
 species: ""
 attributes: []
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg"
+  caption: |
+    <p>The orange foot is visible in this Spiky sea fan that washed ashore.</p>
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg"
+  caption: |
+    <p>Half dead <a href="pencil">sea pencil</a> washed ashore, showing the stick-like skeleton in the centre.</p>
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg"
+  caption: |
+    <p>Expanded and retracted polyps of a Flowery sea pen.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/050726chgg0426m3.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/anomura/porcellanidae/picta">Tiny porcelain crabs</a> are often seen in pairs in a sea pen.</p>
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg"
+  caption: |
+    <p>A <a href="../../../mollusca/slugs/nudibranchia/semperi">nudibranch that eats sea pens</a> is lurking near this one.</p>
+    <p>Changi, Aug 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/shrimp/palaemonidae">Commensal shrimp</a> on a sea pen.</p>
+    <p>All that can often be seen are a pair of eyes!</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg"
+  caption: |
+    <p><a href="veretillidae">Flowery sea pen</a> Family Veretillidae</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050426cftg5070m3.jpg"
+  caption: |
+    <p><a href="pencil">Sea pencil</a> (Lituaria sp.)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7083m3.jpg"
+  caption: |
+    <p><a href="spiky">Spiky sea pen</a> (Pteroeides sp.)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/120705chgd7086m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg"
+  caption: |
+    <p><a href="virgularia">Slender sea pen</a> (Virgularia sp.)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6506m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/spiky/081216prpd3387m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,14 +129,9 @@ lacks other kinds of polyps. The central stalk is usually stiffened
 by an internal 'bone' made of calcium. You might sometimes come across
 this bone washed ashore.
 
-*![](spiky/081216prpd3387m3.jpg)*The orange foot is visible in this Spiky sea fan that washed ashore.  
-*Chek Jawa, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pencil/060502cftd1783m3.jpg)*Half dead [sea pencil](pencil) washed ashore,
-showing the stick-like skeleton in the centre. *Changi, May 06*
 
-![](veretillidae/050524chgg6589m3c.jpg)  
-Expanded and retracted polyps of a Flowery sea pen. *Changi, May 05*
 
 The upper half called the rachis sticks out of the surface. The rachis
 is the budding zone where other kinds of polyps emerge. Some may have
@@ -116,18 +162,8 @@ dig into the ground for support. They retract completely into the
 soft ground when alarmed or at low tide. It is said that they can
 move along the bottom by looping their bodies.
 
-![](spiky/050726chgg0426m3.jpg)  
-[Tiny
-porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta) are often   
-seen in pairs in a sea pen.  
-*Changi, Jul 05*
 
-![](../../../mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg)  
-A [nudibranch that eats sea pens](../../../mollusca/slugs/nudibranchia/semperi) is lurking near this one. *Changi, Aug 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3).
 
-*![](veretillidae/050524cftg6598m3b.jpg)*[Commensal
-shrimp](../../../crustacea/othercrust/shrimp/palaemonidae) on a sea pen.   
-All that can often be seen are a pair of eyes! *Changi, May 05*
 
 **What do they eat?** A few sea pens
 may harbour zooxanthellae (symbiotic algae) inside their bodies. These
@@ -165,35 +201,19 @@ on Singapore shores**
 
 ---
 
-*![](veretillidae/050609chgg7516m3.jpg)*  
-**[Flowery sea pen](veretillidae)**  
-Family Veretillidae
 
-*![](veretillidae/050609chgg7516m3a.jpg)*
 
 ---
 
-![](pencil/050426cftg5070m3.jpg)  
-**[Sea pencil](pencil)**  
-(*Lituaria* sp.)
 
-![](pencil/050722cjg9824m3b.jpg)
 
 ---
 
-*![](spiky/120705chgd7083m3.jpg)*  
-[**Spiky sea pen**](spiky)  
-(*Pteroeides* sp.)
 
-*![](spiky/120705chgd7086m3b.jpg)*
 
 ---
 
-*![](virgularia/090722chgd7702m3.jpg)*  
-[Slender sea pen](virgularia)  
-(*Virgularia* sp.)
 
-*![](virgularia/120703chgd6506m3a.jpg)*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Brown peachia anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synpeachia temasek, peachia, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 67, 88]
 family: Haloclavidae
 genus: Synpeachia
@@ -17,6 +17,23 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg"
+  caption: |
+    <p>'Uprooted' anemone.</p>
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/120803chgd9338.jpg"
+  caption: |
+    <p>Bumps in the middle of the mouth.</p>
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7935.jpg"
+  caption: |
+    <p>With tentacles tucked in.</p>
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130821cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Aug 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24260866154/in/album-72157607712316054/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/synpeachia/130624chg7d7943.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -70,11 +87,9 @@ to tell apart sausage-like creatures](../../glossary/sausage.htm).
   
 **Status and threats:** As at 2024, it is listed as Critically Endangered in Singapore.
 
-*![](synpeachia/130624chg7d7943.jpg)*'Uprooted' anemone. *Changi, Jun 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](synpeachia/120803chgd9338.jpg)* Bumps in the middle of the mouth. *Changi, Aug 12*
 
-*![](synpeachia/130624chg7d7935.jpg)*With tentacles tucked in. *Changi, Jun 13*
 
 ---
 
@@ -93,10 +108,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](synpeachia/130821cjlks.JPG)  
-Chek Jawa, Aug 13*  
-Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24260866154/in/album-72157607712316054/).
 
 ---
 

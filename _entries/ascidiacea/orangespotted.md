@@ -2,8 +2,34 @@
 title: "Orange-spotted ascidians (Ascidiacea) "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/120621cyrd5911m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/120621cyrd5911m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111212tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6502982483/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/201116lazvc7.jpg"
+  caption: |
+    <p>Lazarus, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158082801417945&set=a.10158080800827945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/110814smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Aug 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6058702947/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/200310bbbsg1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 20Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo.php?fbid=10221813971887847&set=a.10221813963847646&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/orangespotted/111128sntd3993m3.jpg"
 ---
  
 
@@ -27,11 +53,8 @@ our shores.
 about 5-8cm in diameter. Rubbery blobs found near seagrasses. Dark
 blue background with bright orange spots arranged in petal-like shapes.
 
-*![](orangespotted/111128sntd3993m3.jpg)  
-Sentosa, Nov 11**![](orangespotted/111128sntd3993m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](orangespotted/120621cyrd5911m3.jpg)  
-Cyrene Reef, Jun 12**![](orangespotted/120621cyrd5911m3a.jpg)*
 
   
 *\***Species
@@ -56,19 +79,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](orangespotted/111212tmlks.JPG)  
-Tanah Merah, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6502982483/in/album-72157664044624940/).
 
-*![](orangespotted/201116lazvc7.jpg)  
-Lazarus, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158082801417945&set=a.10158080800827945).
 
 ---
 
-*![](orangespotted/110814smklks.JPG)  
-Pulau Semakau, Aug 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6058702947/in/album-72157607751329669/).
 
-*![](orangespotted/200310bbbsg1.jpg)  
-Beting Bemban Besar, Mar 20*Photo shared by Shawne Goh on [facebook](https://www.facebook.com/photo.php?fbid=10221813971887847&set=a.10221813963847646&type=3&theater).
 
 [links](../links)
 | [references](../references)

@@ -2,7 +2,51 @@
 title: "Marine eggs: photo index for the Shores of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "small, snail, shell, gastropod, mollusc, mollusk, mollusca, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg"
+  caption: |
+    <p><a href="../mollusca/gastropoda/melogenidae/cochlidium">Spiral melongena snail</a> Pugilina cochlidium</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/050110skdd9489m.jpg"
+  caption: |
+    <p><a href="../mollusca/gastropoda/muricidae/muricidae">Drills</a> Family Muricidae</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050608cftg7378ma.jpg"
+  caption: |
+    <p><a href="string">Egg string</a>  awaiting identification</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050726chgg0399m.jpg"
+  caption: |
+    <p><a href="string">Egg string</a>  awaiting identification</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050611kusg7835m.jpg"
+  caption: |
+    <p><a href="string">Egg string</a>  awaiting identification</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m.jpg"
+  caption: |
+    <p><a href="../mollusca/slugs/nudibranchia/eggs">Nudibranch egg mass</a> Order Nudibranchia</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg"
+  caption: |
+    <p><a href="../mollusca/gastropoda/naticidae/sandcollar">Sand collar</a> Family Naticidae</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/110418tmftd8998m.jpg"
+  caption: |
+    <p><a href="blobs">Egg blobs</a> possibly sea slugs</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/030619bbd0247ma.jpg"
+  caption: |
+    <p><a href="../mollusca/gastropoda/volutidae/nobilis">Noble volute</a> Cymbiola nobilis</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m.jpg"
+  caption: |
+    <p><a href="../mollusca/cephalopoda/cepeggs">Cephalopod egg capsules</a> Order Cephalopoda</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/031030sntd0022m.jpg"
+  caption: |
+    <p><a href="../mollusca/cephalopoda/cepeggs">Cephalopod egg capsules</a> Order Cephalopoda</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m.jpg"
+  caption: |
+    <p><a href="bubble">Bubble ascidians</a> awaiting identification</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m.jpg"
+  caption: |
+    <p><a href="jelly">Jelly sea squirt</a> awaiting identification</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/eudistoma/050311labg3270m.jpg"
+  caption: |
+    <p><a href="eudistoma">Yellow clustered bead ascidians</a> Eudistoma sp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg"
 ---
 eggs [text
 index](eggindex)
@@ -11,24 +55,11 @@ index of marine eggs on Singapore shores**
 
 ---
 
-![](../mollusca/gastropoda/melogenidae/cochlidium/050806skdg0609m.jpg)  
-[Spiral   
-melongena snail](../mollusca/gastropoda/melogenidae/cochlidium)   
-*Pugilina cochlidium*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](../mollusca/gastropoda/muricidae/chunky/050110skdd9489m.jpg)  
-[Drills](../mollusca/gastropoda/muricidae/muricidae)  
-Family Muricidae
 
-![](eggs/050608cftg7378ma.jpg)  
-[Egg string](string)  *awaiting identification*
 
-![](eggs/050726chgg0399m.jpg)  
-[Egg
-string](string)  *awaiting identification*
 
-![](eggs/050611kusg7835m.jpg)  
-[Egg string](string)  *awaiting identification*
 
 Capsules
 about 1.5cm tall, yellow or beige. Laid upright in rows on hard surfaces.
@@ -47,16 +78,8 @@ Sausage-like
 4-6cm long, 0.5cm wide. Fragile, usually transparent. Laid among seaweeds.
 Seasonally common on all our shores.
 
-![](../mollusca/slugs/nudibranchia/eggs/050309smkg3146m.jpg)[Nudibranch  
-egg mass](../mollusca/slugs/nudibranchia/eggs)   
-Order Nudibranchia
 
-![](../mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m.jpg)  
-[Sand collar](../mollusca/gastropoda/naticidae/sandcollar)   
-Family Naticidae
 
-![](eggs/110418tmftd8998m.jpg) [Egg blobs](blobs)   
-possibly sea slugs
 
 Egg
 mass to 1cm wide, white or beige. Frilly ribbons laid in spirals on
@@ -71,17 +94,8 @@ our Northern shores.
 long. Translucent blob, when submerged teardrop or light-bulb shaped.
 Sometimes seen in mudflats and sandflats.
 
-![](../mollusca/gastropoda/volutidae/nobilis/030619bbd0247ma.jpg)  
-[Noble volute](../mollusca/gastropoda/volutidae/nobilis)   
-*Cymbiola nobilis*
 
-![](../mollusca/cephalopoda/cepeggs/020715chgd3359m.jpg)[Cephalopod  
-egg capsules](../mollusca/cephalopoda/cepeggs)   
-Order Cephalopoda
 
-![](../mollusca/cephalopoda/cepeggs/031030sntd0022m.jpg)[Cephalopod  
-egg capsules](../mollusca/cephalopoda/cepeggs)   
-Order Cephalopoda
 
  
  
@@ -100,15 +114,8 @@ Sometimes seen on many of our shores.
 **NOT
 eggs**
 
-![](../ascidiacea/bubble/120820sisd0781m.jpg)  
-[Bubble ascidians](bubble) *awaiting identification*
 
-![](../ascidiacea/jelly/100726chgd9196m.jpg)  
-[Jelly sea squirt](jelly) *awaiting identification*
 
-![](../ascidiacea/eudistoma/050311labg3270m.jpg)  
-[Yellow clustered   
-bead ascidians](eudistoma) *Eudistoma* sp.
 
  
  

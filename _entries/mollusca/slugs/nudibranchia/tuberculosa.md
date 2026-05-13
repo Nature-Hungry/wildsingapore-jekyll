@@ -2,7 +2,7 @@
 title: Cauliflower nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cauliflower, dendrodoris, tuberculosa, dendrodorididae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 90, 124]
 family: Dendrodorididae
 genus: Dendrodoris
@@ -21,6 +21,57 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3b.jpg"
+  caption: |
+    <p>Rhinophore and rosette pattern.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3a.jpg"
+  caption: |
+    <p>Feathery gills.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7870m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150717smksd7873m3.jpg"
+  caption: |
+    <p>Spotted underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8110m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080721cyrd8114m3.jpg"
+  caption: |
+    <p>Spotted underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621hntmn.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/25576146077/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn.jpg"
+  caption: |
+    <p>Diseased?</p>
+    <p>Cyrene Reed, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080608cyrmn2.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2560061415">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk1m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/110522bbbjk6m3.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/150621tsmkmn.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19054101502/in/album-72157652530457954/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/240708smkerk3l.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Jul 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161255000977906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/160313trymn10.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/080108hntlks.JPG"
+  caption: |
+    <p>Pulau Hantu, Jan 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2928268429/in/album-72157607719695102/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tuberculosa/130511hntd6550m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,29 +114,14 @@ with lots of conical bumps arranged in clusters so that that resembles
 a cauliflower. Colours from dark greyish blue, pinkish purple to pale pink. The underside is distinctive with large pale round spots on a plain smooth background, usually darker. Large rhinophores and large feathery
 gills.
 
-*![](tuberculosa/130511hntd6550m3.jpg)  
-Pulau Hantu, May 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tuberculosa/130511hntd6550m3b.jpg)  
-Rhinophore and rosette pattern.
 
-![](tuberculosa/130511hntd6550m3a.jpg)  
-Feathery gills.
 
-*![](tuberculosa/150717smksd7870m6l.jpg)  
-Pulau Semakau, Jul 15*
 
-![](tuberculosa/150717smksd7873m3.jpg)  
-Spotted underside.
 
-*![](tuberculosa/080721cyrd8110m3.jpg)  
-Cyrene Reef, Jul 08*
 
-![](tuberculosa/080721cyrd8114m3.jpg)  
-Spotted underside.
 
-*![](tuberculosa/150621hntmn.jpg)  
-Pulau Hantu, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/25576146077/).
 
 ---
 
@@ -103,29 +139,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tuberculosa/080608cyrmn.jpg)* Diseased? *Cyrene Reed, Jun 08![](tuberculosa/080608cyrmn2.jpg)*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/2560061415).
 
-*![](tuberculosa/110522bbbjk1m3.jpg)  
-Beting Bemban Besar, May 11* *![](tuberculosa/110522bbbjk6m3.jpg)*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besar.html).
 
 ---
 
-*![](tuberculosa/150621tsmkmn.jpg)  
-Terumbu Semakau, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/19054101502/in/album-72157652530457954/).
 
-*![](tuberculosa/240708smkerk3l.jpg)  
-Pulau Semakau (East), Jul 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161255000977906).
 
 ---
 
-*![](tuberculosa/160313trymn10.jpg)  
-Terumbu Raya, Mar 16* Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3).
 
-*![](tuberculosa/080108hntlks.JPG)  
-Pulau Hantu, Jan 08*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2928268429/in/album-72157607719695102/).
 
 ---
 

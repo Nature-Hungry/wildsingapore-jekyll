@@ -2,7 +2,7 @@
 title: "Hedgehog corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hedgehog, echinopora, faviidae, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Merulinidae
 genus: Echinopora
 species: ""
@@ -15,6 +15,68 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6522m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3d.jpg"
+  caption: |
+    <p>Raffles Lighthouse,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6514m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/040507rflbd0129m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd8999m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/080803smkd9001m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943826773158&set=a.10159943838013158">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks14a.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943826773158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/140518tmlks6m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827118158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/220618tmftlks24a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827118158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks2.jpg"
+  caption: |
+    <p>Sisters Island, Sep 09 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4152294314/in/album-72157607605631877/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/090919sislks1.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4152294314/in/album-72157607605631877/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 23 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653906282906&set=a.10160653901047906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/230806tbrk1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653906282906&set=a.10160653901047906">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/echinopora/060714rlhg6515m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,26 +124,14 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-![](echinopora/060714rlhg6515m3.jpg)  
-*Raffles Lighthouse,
-Jul 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](echinopora/060714rlhg6522m3.jpg)
 
-![](echinopora/060714rlhg6522m3a.jpg)
 
 ---
 
-![](echinopora/060714rlhg6514m3d.jpg)  
-*Raffles Lighthouse,
-Jul 06*![](echinopora/060714rlhg6514m3a.jpg)
 
-![](echinopora/040507rflbd0129m3.jpg) *Raffles Lighthouse, May 04*![](echinopora/040507rflbd0129m3c.jpg)
 
-![](echinopora/080803smkd8999m3.jpg)  
-*Pulau Semakau,
-Aug 08  
-![](echinopora/080803smkd9001m3a.jpg)*
 
   
  *\*Species are difficult to positively identify without close examination.  
@@ -105,30 +155,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](echinopora/220618tmftlks14.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*  
-.![](echinopora/220618tmftlks14b.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943826773158&set=a.10159943838013158)
 
-![](echinopora/220618tmftlks14a.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943826773158&set=a.10159943838013158).
 
 ---
 
-![](echinopora/140518tmlks6m3.jpg) *Tanah Merah, May 14*![](echinopora/140518tmlks6m3a.jpg)  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html).
 
-![](echinopora/220618tmftlks24.jpg) *Tanah Merah Ferry Terminal, Jun 22*![](echinopora/220618tmftlks24a.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943827118158&set=a.10159943838013158).
 
 ---
 
-![](echinopora/090919sislks2.jpg) *Sisters Island, Sep 09*![](echinopora/090919sislks1.jpg)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4152294314/in/album-72157607605631877/).
 
-![](echinopora/230806tbrk1.jpg) *Terumbu Bemban, Aug 23*![](echinopora/230806tbrk1a.jpg)  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160653906282906&set=a.10160653901047906).
 
 ---
 

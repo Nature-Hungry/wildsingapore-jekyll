@@ -2,7 +2,7 @@
 title: Blood-spotted swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blood, spotted, swimming, crab, portunus, sanguinolentus, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Portunus
@@ -24,6 +24,14 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10152967123633660&set=a.10152965513123660.1073741863.624178659&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/sanguinolentus/150605kusmn4m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,11 +69,8 @@ on the intertidal.
 **Features:** Body somewhat fan-shaped, with 9 spines on the sides. The eyes
 not far apart. Last pair of legs are paddle-shaped and rotate like
 boat propellers. Body with three large red spots.
-![](sanguinolentus/150605kusmn4m3.jpg)  
-*Kusu Island, Jun 15*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sanguinolentus/150605kusmn4m3a.jpg)  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10152967123633660&set=a.10152965513123660.1073741863.624178659&type=3&theater).
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of

@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,"
-layout: default
+layout: entry
 shape: blobs
 title: Chocolate sponge
 family: Clionaidae
@@ -9,6 +9,78 @@ genus: Spheciospongia
 species: cf.
 attributes: []
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg"
+  caption: |
+    <p>The sponge can be found over a large area.</p>
+    <p>Terumbu Pempang Darat, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3a.jpg"
+  caption: |
+    <p>Low irregular mass with lumps growing on the sponge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3a.jpg"
+  caption: |
+    <p>Stout cones on an irregular mass.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3a.jpg"
+  caption: |
+    <p>Large globular lump on a stalk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg"
+  caption: |
+    <p>Various kinds of <a href="../echinodermata/ophiuroidea/tinysponge.htm">brittle stars</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8034m3a.jpg"
+  caption: |
+    <p><a href="../worm/polychaeta/spionidae.htm">Spionid sponge worms</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3.jpg"
+  caption: |
+    <p>Sentosa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3d.jpg"
+  caption: |
+    <p>Tiny <a href="../echinodermata/ophiuroidea/tinysponge.htm">brittle stars</a> and <a href="../crustacea/othercrust/ciriipedia/sponge.htm">sponge barnacles</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091205sudd5557m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8445m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8638m3b.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100810sngd9991m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg"
 ---
 
 
@@ -47,37 +119,15 @@ feeding 'feet' of these barnacles.Tiny [spinoid
 worms](../worm/polychaeta/spionidae.htm) may encrust the outer surface of the sponge, spacing themselves
 out regularly, at a distance equalling the length of their tentacles.  
 
-![](chocolate/100629tpdd7404m6l.jpg)  
-The sponge can be found over a large area. *Terumbu Pempang Darat, Jun 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](chocolate/050808sntg0806m3.jpg)* *Sentosa, Aug 05  
-![](chocolate/050808sntg0806m3a.jpg)*  
-Low irregular mass with  
-lumps growing on the sponge.
 
-![](chocolate/060211hntd6778m3.jpg)  
-*Pulau Hantu, Feb 06*![](chocolate/060211hntd6778m3a.jpg)  
-Stout cones on an irregular mass.
 
-![](chocolate/051203smkg3180m3.jpg)  
-*Pulau Semakau, Dec 05*![](chocolate/051203smkg3180m3a.jpg)  
-Large globular lump on a stalk.
 
 ---
 
-![](../echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg)  
-*Pulau Sekudu, Jul 04*![](../echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg)  
-Various kinds of [brittle
-stars](../echinodermata/ophiuroidea/tinysponge.htm).
 
-![](../worm/polychaeta/spionidae/110731tryd8033m3.jpg)  
-*Terumbu Raya, Jul 11*![](../worm/polychaeta/spionidae/110731tryd8034m3a.jpg)  
-[Spionid sponge worms](../worm/polychaeta/spionidae.htm).
 
-*![](chocolate/040521sntad0105m3.jpg)  
-Sentosa, May 04  
-![](chocolate/040521sntad0105m3d.jpg)*Tiny [brittle
-stars](../echinodermata/ophiuroidea/tinysponge.htm) and [sponge barnacles](../crustacea/othercrust/ciriipedia/sponge.htm).
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -101,30 +151,16 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](chocolate/091205sudd5557m3.jpg)  
-*Pulau Sudong, Dec 09*
 
-![](chocolate/100130brkd8445m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](chocolate/100130brkd8638m3b.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 
-![](chocolate/100131slud8755m3.jpg)  
-*Terumbu Salu, Jan 10*![](chocolate/100131slud8755m3a.jpg)
 
-![](chocolate/091204pawd5290m3.jpg)  
-*Pulau Pawai, Dec 09*![](chocolate/091204pawd5290m3a.jpg)
 
-![](chocolate/100811slud0094m3b.jpg)  
-*Pulau Salu, Aug 10*![](chocolate/100811slud0094m3c.jpg)
 
 ---
 
-![](chocolate/100810sngd9991m3.jpg)  
-*Pulau Senang, Aug 10*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Notobryon nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "notobryon, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 30, 33, 90]
 family: Scyllaeidae
 genus: Notobryon
@@ -20,6 +20,23 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3053m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110519bbjk.jpg"
+  caption: |
+    <p>Beting Bronok, May 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5736708784/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/110518bblks6m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/pretty-creatures-of-beting-bronok.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/notobryon/051105sisg3049m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,15 +78,9 @@ tiny and are at the tip of a huge rhinophore stalk.
 **What does it eat?** This nudibranch
 eats [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm).
 
-![](notobryon/051105sisg3049m3.jpg)  
-*Sisters Island,
-Nov 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](notobryon/051105sisg3053m3.jpg)  
-*Sisters Island,
-Nov 05*
 
-![](notobryon/051105sisg3049m3a.jpg)
 
 ---
 
@@ -88,16 +99,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](notobryon/110519bbjk.jpg)  
-*Beting Bronok,
-May 11*Photo
-shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/5736708784/).
 
-![](notobryon/110518bblks6m3.jpg)  
-*Beting Bronok,
-May 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/pretty-creatures-of-beting-bronok.html).
 
 ---
 

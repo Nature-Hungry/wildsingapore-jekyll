@@ -2,7 +2,7 @@
 title: Hairy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, seaweed, weed, green, bryopsis, bryopsidaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Bryopsidaceae
 genus: Bryopsis
@@ -20,6 +20,53 @@ superfamily: Noctuoidea
 subfamily: Noctuinae
 tribe: Bryophilini
 updated: Oct 2016
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngseaweed)</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/081017sntd0996m6l.jpg"
+  caption: |
+    <p>Seasonally may bloom, covering the shore in a thick furry blanket.</p>
+    <p>Sentosa, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/101109sntd2697m3.jpg"
+  caption: |
+    <p>Hairy green seaweeds of different structures may be seen together.</p>
+    <p>Sentosa, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/040410sisbd0011m3.jpg"
+  caption: |
+    <p>A <a href="../../../worm/polychaeta/giant">Giant reef worm</a> snatching a mouthful of seaweed back into its lair.</p>
+    <p>Sisters Island, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091104sntd3635m3.jpg"
+  caption: |
+    <p>Lots of tiny creatures are often seen on this seaweed.</p>
+    <p>Sentosa, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg"
+  caption: |
+    <p>Tiny <a href="../../../mollusca/slugs/sacoglossa/bryopsis">Bryopsis slugs</a> are often abundant on this seaweed.</p>
+    <p>Sentosa, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/080720cjd7926m3.jpg"
+  caption: |
+    <p>Sometimes parts may be orange.</p>
+    <p>Chek Jawa, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/060115sntg3898m3.jpg"
+  caption: |
+    <p>Sentosa, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/050608cftg7418m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100131slud8789m3a.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100811slud0104m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/091204pawd5236m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/100810sngd9940m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -30,7 +77,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../fngseaweed)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -94,36 +141,13 @@ eat the seaweed. Sometimes, the seaweed is thick with tiny little
 reef worm](../../../worm/polychaeta/giant) (*Eunice aphroditois*) snatching this seaweed back
 to its lair.   
 
-![](bryopsis/081017sntd0996m6l.jpg)  
-Seasonally may bloom, covering the shore  
-in a thick furry blanket. *Sentosa, Nov 10*  
   
-![](bryopsis/101109sntd2697m3.jpg)  
-Hairy green seaweeds of different structures  
-may be seen together*.  
-Sentosa, Nov 10*
 
-*![](../../../worm/polychaeta/giant/040410sisbd0011m3.jpg)*A [Giant reef worm](../../../worm/polychaeta/giant) snatching   
-a mouthful of seaweed back into its lair. *Sisters Island, Apr 04*
 
-`![](bryopsis/091104sntd3635m3.jpg)  
-Lots of tiny creatures are   
-often seen on this seaweed.  
-*Sentosa, Nov 09*
 
-![](../../../mollusca/slugs/sacoglossa/bryopsis/080919sntd0665m3.jpg)  
-Tiny [Bryopsis
-slugs](../../../mollusca/slugs/sacoglossa/bryopsis) are   
-often abundant on this seaweed. *Sentosa, Sep 08*
 
-![](bryopsis/080720cjd7926m3.jpg)  
-Sometimes parts may be orange. *Chek Jawa, Jul 08*
 
-![](bryopsis/060115sntg3898m3.jpg)  
-*Sentosa, Jan 06*
 
-![](bryopsis/050608cftg7418m3.jpg)  
-*Changi, Jun 05*
 
   
 *\*Species are difficult
@@ -149,23 +173,11 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](bryopsis/100131slud8789m3a.jpg)  
-Terumbu Salu,
-Jan 10*
 
-*![](bryopsis/100811slud0104m3.jpg)  
-Pulau Salu,
-Aug 10*
 
 ---
 
-*![](bryopsis/091204pawd5236m3.jpg)  
-Pulau Pawai,
-Dec 09*
 
-*![](bryopsis/100810sngd9940m3.jpg)  
-Pulau Senang,
-Aug 10*
 
 ---
 

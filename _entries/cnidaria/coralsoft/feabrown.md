@@ -2,7 +2,7 @@
 title: Brown feathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alcyonacea, soft, coral, xeniidae, alcyonacea, octocoral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Xeniidae
 genus: ""
 species: ""
@@ -15,6 +15,41 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg"
+  caption: |
+    <p>Sentosa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg"
+  caption: |
+    <p>Oral disk and main tentacle pale, side branches brown.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/090724cyrd7930m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/090724cyrd7930m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/100519tsmc3987m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/100519tsmc3987m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/040522kusad0088m3.jpg"
+  caption: |
+    <p>Kusu Island, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/040522kusad0089m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/160312tptmn4.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509281398660&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/110522bbbd2674m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -59,25 +94,13 @@ into the common tissue, and don't pulsate.
   
 Other soft corals with this form include *Anthelia* and *Sansibia* of the Family Xeniidae.
 
-![](feabrown/110522bbbd2674m3.jpg) *Beting Bemban Besar, May 11*![](feabrown/110522bbbd2674m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](feabrown/050329sntg3905m3.jpg)  
-*Sentosa, Mar 05*  
-![](feabrown/050329sntg3905m3b.jpg)  
-Oral disk and
-main tentacle pale,   
-side branches brown.
 
-![](feabrown/090724cyrd7930m3.jpg) *Cyrene Reef, Jul 09  
-![](feabrown/090724cyrd7930m3b.jpg)*
 
 ---
 
-![](feabrown/100519tsmc3987m3.jpg) *Terumbu Semakau, May 10  
-![](feabrown/100519tsmc3987m3a.jpg)*
 
-![](feabrown/040522kusad0088m3.jpg) *Kusu Island, May 04  
-![](feabrown/040522kusad0089m3.jpg)*
 
  *\*ID needs confirmation. Species are difficult to positively identify without
 close examination.   
@@ -101,7 +124,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](feabrown/160312tptmn4.jpg) *Terumbu Pempang Tengah, May 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509281398660&type=3).
 
 ---
 

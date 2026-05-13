@@ -2,7 +2,7 @@
 title: Leopard whipray
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leopard, whip, whipray, sting, ray, stingray, himantura, undulata, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Dasyatidae
 genus: Himantura
 species: undulata
@@ -18,6 +18,27 @@ infraclass: Batoidea
 order: Myliobatiformes
 subfamily: Urogymninae
 updated: Nov 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg"
+  caption: |
+    <p>Tail very long and slender.A large dead one seen on the sand bar.</p>
+    <p>Chek Jawa, May 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0108m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0114m3a.jpg"
+  caption: |
+    <p>Granular skin on adult.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m3a.jpg"
+  caption: |
+    <p>Broadly triangular snout.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro1m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 10Photo shared by Rene Ong on <a href="http://www.facebook.com/#!/album.php?fbid=135094696550237&id=133291903397183&aid=22355">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/101200cjro2m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/undulata/030525cjd0112m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,20 +92,14 @@ Status and threats: It is listed as Vulnerable on the IUCN Red List
 due to overharvesting, and loss of its preferred shallow water inshore
 habitats near mangroves.
 
-*![](undulata/030525cjd0112m6l.jpg)*Tail very long and slender.A large dead one seen on the sand bar. *Chek Jawa, May 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](undulata/030525cjd0108m3.jpg)*
 
-*![](undulata/030525cjd0114m3a.jpg)*Granular skin on adult.
 
-*![](undulata/030525cjd0112m3a.jpg)*Broadly triangular snout.
 
 ---
 
-*![](undulata/101200cjro1m6l.jpg)  
-Chek Jawa, Dec 10*Photo shared by Rene Ong on [facebook](http://www.facebook.com/#!/album.php?fbid=135094696550237&id=133291903397183&aid=22355).
 
-*![](undulata/101200cjro2m3a.jpg)*
 
 ---
 

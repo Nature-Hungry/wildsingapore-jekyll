@@ -2,7 +2,7 @@
 title: Striped eeltail catfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "striped, catfish, cat, fish, siluriformes, plotosidae, plotosus, lineatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Plotosidae
 genus: Plotosus
@@ -17,6 +17,67 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg"
+  caption: |
+    <p>'Whiskers' (barbels) at the top of the snout do not extend past the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m6l.jpg"
+  caption: |
+    <p>Sentosa, Sep 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/060628sntd3748m3.jpg"
+  caption: |
+    <p>Each about 6cm long.</p>
+    <p>Sentosa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg"
+  caption: |
+    <p>Each about 4cm long.</p>
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110409smks09415m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190704bbvc3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10156721307082945&set=a.10156721306377945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/171009blyay13.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/160410blylks2.jpg"
+  caption: |
+    <p>Berlayar Creek, Apr 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25743204643/in/album-72157625545414532/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/251011lablvo5.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122137417172927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/201116lazlks10.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158766766243158&set=a.10158766770633158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/110220lazlks7m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5473233321/in/datetaken/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100528tkklks1m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/090509sislks2m3.jpg"
+  caption: |
+    <p>Sisters Island, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/210429hntns1.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Nathaniel Soon on <a href="https://www.facebook.com/photo?fbid=10222857983737095&set=a.10222858811197781">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/130427tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749947404/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/230522tptrk2.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160504649097906&set=a.10160504639192906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/190622jnglks2.jpg"
+  caption: |
+    <p>Pulau Jong, 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157293063933158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/100130brkblks3m3.jpg"
+  caption: |
+    <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353335158/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,12 +139,7 @@ eyes.
 snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
-![](lineatus/040919sntd7020m3a.jpg)  
-'Whiskers'
-(barbels) at the top of the snout   
-do not extend past the eyes.
-*![](lineatus/040919sntd7020m6l.jpg)  
-Sentosa, Sep 04*
+{% include img-wrap-group.html items=page.page_images %}
   
 **Don't touch!** It has one venomous serrated
 spine on the dorsal fin and on each of the pectoral fins, which can be locked upright. The stings can be excruciating
@@ -100,14 +156,8 @@ also has a keen sense of hearing. Also a strong sense of smell, using their 'nos
 on the snout).
   
 
-![](lineatus/060628sntd3748m3.jpg)  
-Each about 6cm long. *Sentosa, Jun 06*
 
-![](lineatus/040605kuscd0186m3.jpg)  
-Each about 4cm long. *Kusu Island, Jun 04*
 
-![](lineatus/110409smks09415m3.jpg)  
- *Pulau Semakau, Apr 11*
 
 **Catfish babies:** Striped eeltail
 catfishes lay eggs that sink to the bottom (demersal eggs). These
@@ -144,70 +194,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](lineatus/190704bbvc3.jpg)  
-Beting Bronok, Jul 19*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10156721307082945&set=a.10156721306377945&type=3&theater).
 
-![](lineatus/171009blyay13.jpg)  
-*Berlayar Creek, Oct 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3).
 
 ---
 
-*![](lineatus/160410blylks2.jpg)  
-Berlayar Creek, Apr 16*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25743204643/in/album-72157625545414532/).
 
-![](lineatus/251011lablvo5.jpg)  
-*Labrador, Oct 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122137417172927700&type=3&ref=embed_post).
 
 ---
 
-*![](lineatus/201116lazlks10.jpg)  
-Lazarus Island, Nov 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158766766243158&set=a.10158766770633158).
 
-*![](lineatus/110220lazlks7m3.jpg)  
-Seringat-Kias, Feb 11*
 
-*![](lineatus/110220lazlks7m3a.jpg)*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/5473233321/in/datetaken/).
 
 ---
 
-*![](lineatus/100528tkklks1m3.jpg)  
-Pulau Tekukor, May 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl).
 
-*![](lineatus/090509sislks2m3.jpg)* *Sisters Island, May 09*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl).
 
-*![](lineatus/210429hntns1.jpg)*  
-*Pulau Hantu,
-Apr 21*Photo shared by Nathaniel Soon on [facebook](https://www.facebook.com/photo?fbid=10222857983737095&set=a.10222858811197781).
 
 ---
 
-*![](lineatus/130427tptlks.JPG)  
-Terumbu Pempang Tengah, Apr 13*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749947404/in/album-72157626616274147/).
 
-*![](lineatus/230522tptrk2.jpg)  
-Terumbu Pempang Tengah, May 23*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160504649097906&set=a.10160504639192906).
 
 ---
 
-*![](lineatus/190622jnglks2.jpg)  
-Pulau Jong, 19*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157293063933158&type=3).
 
-*![](lineatus/100130brkblks3m3.jpg)  
-Terumbu Berkas Besar, Jan 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353335158/).
 
 ---
 

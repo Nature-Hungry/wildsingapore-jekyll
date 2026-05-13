@@ -2,7 +2,7 @@
 title: Tellin clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Tellinidae
 genus: ""
 species: ""
@@ -19,6 +19,34 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157171695851310&set=a.10157171667441310&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09Photo shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/07/st-johns-surprises.html">her blog</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+    <p>- Abbott, R.</p>
+    <p>Tucker, 1991.</p>
+    <p>Seashells</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,13 +97,8 @@ often in a horizontal position.
   
 **Human
 uses:** Some are collected for food and the shell trade.
-![](tellinidae/050309smkd1477m3.jpg)  
-*Pulau Semakau,
-Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tellinidae/110409smks09259m3.jpg)  
-*Pulau Semakau,
-Apr 11*
 
 ---
 
@@ -94,13 +117,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tellinidae/190520hntjc2.jpg)  
-*Pulau Hantu, May 19*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo.php?fbid=10157171695851310&set=a.10157171667441310&type=3&theater).
 
-![](tellinidae/090711sjigl3m3.jpg)  
-*St. John's
-Island, Jul 09*Photo shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprises.html).
 
 ---
 
@@ -171,12 +188,6 @@ Tellinella pulcherrima*
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

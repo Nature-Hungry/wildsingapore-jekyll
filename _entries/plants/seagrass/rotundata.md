@@ -2,7 +2,7 @@
 title: "Smooth ribbon seagrass "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ribbon, grass, cymodocea, rotundata, cymodoceaceae, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Smooth ribbon seagrass
 family: Cymodoceaceae
@@ -18,6 +18,30 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/090627cjd5679m6l.jpg"
+  caption: |
+    <p>This seagrass grows quite near the Chek Jawa boardwalk.Chek Jawa, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100602tmd5158m3.jpg"
+  caption: |
+    <p>Patches growing on an artificial beach Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/060114cjg3880m3.jpg"
+  caption: |
+    <p>Thick rhizomes with 2-7 leaves.</p>
+    <p>Chek Jawa, Nov 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100605tmc4731m6l.jpg"
+  caption: |
+    <p>After the oil spill in May 10.</p>
+    <p>Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/120806tmfts02206m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6la.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 11</p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -96,29 +120,15 @@ not available.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.  
 
-*![](rotundata/090627cjd5679m6l.jpg)*This
-seagrass grows quite near   
-the Chek Jawa boardwalk.*Chek Jawa, Jun 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](rotundata/100602tmd5158m3.jpg)*Patches
-growing on an artificial beach *Tanah Merah, Jun 10*
 
-*![](rotundata/060114cjg3880m3.jpg)*Thick
-rhizomes with 2-7 leaves. *Chek Jawa, Nov 06*
 
-*![](rotundata/100605tmc4731m6l.jpg)*After
-the oil spill in May 10. *Tanah Merah, Jun 10*
 
 ---
 
-*![](rotundata/120806tmfts02206m6l.jpg)  
-Tanah Merah, Jun 10*
 
-*![](rotundata/110929tmftd1579m6la.jpg)  
-Tanah Merah, Sep 11*
 
-*![](rotundata/110929tmftd1579m6l.jpg)  
-Tanah Merah, Sep 11*
 
 ---
 
@@ -174,5 +184,3 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

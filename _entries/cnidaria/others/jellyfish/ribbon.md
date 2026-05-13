@@ -2,7 +2,7 @@
 title: Ribbon jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, chrysaora, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [56]
 family: Pelagiidae
 genus: Chrysaora
@@ -15,6 +15,58 @@ class: Scyphozoa
 subclass: Discomedusae
 order: Semaeostomeae
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
+  caption: |
+    <p>Terumbu Semakau, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/100429prpd1836m3.jpg"
+  caption: |
+    <p>Broken off parts of the jellyfish in the water.</p>
+    <p>Pasir Ris Park, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/100403tbbd0730m3.jpg"
+  caption: |
+    <p>Stranded jellyfish can still sting!</p>
+    <p>Don't touch them!</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8505m3.jpg"
+  caption: |
+    <p>Raffles Marina, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg"
+  caption: |
+    <p>Raffles Marina, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/100429prptch.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/4564035635/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/230617lyglks3.jpg"
+  caption: |
+    <p>Changi Loyang, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160715546663158&set=a.10160715553243158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/230606cjky1.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168426590055112/3247911998835610">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/150620kuslks.JPG"
+  caption: |
+    <p>Kusu Island, Jun 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/06/back-to-terumbu-bemban-reef-of-fish-trapl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/100515sjilks.JPG"
+  caption: |
+    <p>St John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/05/brittle-star-hitching-ride-on-jellyfishl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/090412hnttch02m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/230423cyrlks6.jpg"
+  caption: |
+    <p>Cyrene, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160612791308158&set=a.10160612798858158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/100617tblks3m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4710652115/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/090330trylks.JPG"
+  caption: |
+    <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4570168085/in/album-72157618622863607/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/230510tptrk3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160482041607906&set=a.10160482033187906">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,11 +108,8 @@ edge of the bell has large brown dots.
   
 **Status:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](ribbon/110323tsmkd7813m6la.jpg)  
-Terumbu Semakau, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ribbon/110323tsmkd7815m3.jpg)  
-Terumbu Semakau, Mar 11*
 
 **Ribbons of Pain!** This jellyfish stings painfully and powerfully. In the water, the jellyfish is translucent and easily overlooked, until you brush against one of its long stinging arms with bare skin.
   
@@ -73,15 +122,8 @@ the beach.
 **How to stay safe:** Do not touch jellyfishes. Wear covered shoes and long pants to cover all skin exposed
 to water.
 
-*![](ribbon/100429prpd1836m3.jpg)*Broken off parts of the jellyfish in the water.  
-*Pasir Ris Park, Apr 10*
 
-*![](ribbon/100403tbbd0730m3.jpg)*Stranded jellyfish can still sting!  
-Don't touch them!
 
-![](ribbon/050624tusg8505m3.jpg)  
-*Raffles Marina,
-Jul 05*
 
 ---
 
@@ -100,52 +142,24 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ribbon/050624tusg8515m3.jpg)  
-*Raffles Marina,
-Jul 05*
 
-![](ribbon/100429prptch.jpg)  
-*Pasir Ris Park,
-Apr 10*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/4564035635/).
 
 ---
 
-![](ribbon/230617lyglks3.jpg)  
-*Changi Loyang, Jun 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160715546663158&set=a.10160715553243158).
 
-![](ribbon/230606cjky1.jpg)  
-*Chek Jawa, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168426590055112/3247911998835610).
 
 ---
 
-![](ribbon/150620kuslks.JPG)  
-*Kusu Island,
-Jun 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/06/back-to-terumbu-bemban-reef-of-fish-trapl).
 
-![](ribbon/100515sjilks.JPG)  
-*St John's Island,
-May 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/05/brittle-star-hitching-ride-on-jellyfishl).
 
-*![](ribbon/090412hnttch02m3.jpg)  
-Pulau Hantu, Apr 09*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/partially-wet-pulau-hantul).
 
 ---
 
-*![](ribbon/230423cyrlks6.jpg)  
-Cyrene, Apr 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160612791308158&set=a.10160612798858158).
 
 ---
 
-*![](ribbon/100617tblks3m3.jpg)  
-Terumbu Bemban, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4710652115/).
 
-*![](ribbon/090330trylks.JPG)  
-Terumbu Raya, Mar 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4570168085/in/album-72157618622863607/).
 
-*![](ribbon/230510tptrk3.jpg)  
-Terumbu Pempang Tengah, May 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160482041607906&set=a.10160482033187906).
 
 ---
 

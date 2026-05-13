@@ -2,7 +2,7 @@
 title: Caulerpa green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caulerpa, caulerpaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,102 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg"
+  caption: |
+    <p>A bloom of Feathery green seaweed.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg"
+  caption: |
+    <p>[Round</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080605hntd4974m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg"
+  caption: |
+    <p><a href="peltata">Big parasol green seaweed</a> Caulerpa peltata</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+  caption: |
+    <p><a href="taxifolia">Taxifolia feathery green seaweed</a> Caulerpa taxifolia</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
+  caption: |
+    <p><a href="mexicana">Mexican green seaweed</a> Caulerpa mexicana</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg"
+  caption: |
+    <p><a href="sertularioides">Broad feathery green seaweed</a> Caulerpa sertularioides</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/040619sntd0600m3.jpg"
+  caption: |
+    <p><a href="serrulata">Serrated green seaweed</a> Caulerpa serrulata</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/040619sntd0600m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
+  caption: |
+    <p><a href="scalpelliformis">Scalpel green seaweed</a> Caulerpa scalpelliformis</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg"
+  caption: |
+    <p><a href="peltata">Big parasol green seaweed</a> Caulerpa peltata</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/090513labd1635m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/090513labd1635m3c.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -70,8 +166,7 @@ pest in the Mediterranean, Australia and California.
 slugs](../../../mollusca/slugs/sacoglossa/sacoglossa) (Order Sacoglossa) are often seen in Caulerpa green seaweeds.
   
 
-*![](scalpelliformis/070803cjd4992m6.jpg)*A
-bloom of Feathery green seaweed. *Chek Jawa, Aug 07*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -80,65 +175,32 @@ seaweeds on Singapore shores**
 
 ---
 
-*![](lentillifera/080510smkd3052m3.jpg)*[**Round
-sea grapes**](lentillifera) *Caulerpa lentillifera**![](lentillifera/080510smkd3052m3a.jpg)*
 
-![](racemosa/050625labd4351m3.jpg)  
-[**Oval sea grapes**](racemosa) *Caulerpa racemosa*![](racemosa/050625labd4351m3a.jpg)
 
-![](bell/080605hntd4974m3.jpg)  
-[**Bell sea grapes seaweed**](bell) *Caulerpa racemosa* var. *turbinata*![](bell/080605hntd4974m3b.jpg)
 
 ---
 
-![](peltata/050624tusg8530m3.jpg)  
-[**Big parasol green seaweed**](peltata) *Caulerpa peltata  
-![](peltata/050624tusg8530m3a.jpg)*
 
-![](peltatasmall/060713rlhd4358m3.jpg)  
-[**Small parasol green seaweed**](peltatasmall) *Caulerpa racemosa* var. *peltata*![](peltatasmall/060713rlhd4358m3a.jpg)
 
 ---
 
-*![](taxifolia/040703sisd1564m3.jpg)*[**Taxifolia feathery green seaweed**](taxifolia) *Caulerpa taxifolia  
-![](taxifolia/041116labd8420m3a.jpg)*
 
-*![](mexicana/040901sjid6072m3.jpg)*[**Mexican green seaweed**](mexicana) *Caulerpa mexicana**![](mexicana/040901sjid6072m3b.jpg)*
 
-*![](sertularioides/050621skdg7890m3.jpg)*[**Broad
-feathery green seaweed**](sertularioides) *Caulerpa sertularioides  
-![](sertularioides/050621skdg7890m3a.jpg)*
 
 ---
 
-![](cupressoides/050621skdg7924m3.jpg)  
-[**Zipper green seaweed**](cupressoides) *Caulerpa cupressoides*![](cupressoides/050621skdg7924m3a.jpg)
 
-*![](serrulata/040619sntd0600m3.jpg)*[**Serrated
-green seaweed**](serrulata) *Caulerpa serrulata  
-![](serrulata/040619sntd0600m3a.jpg)*
 
-*![](scalpelliformis/050428cftg5309m3.jpg)***[Scalpel green seaweed](scalpelliformis)** *Caulerpa scalpelliformis*  
-*![](scalpelliformis/050428cftg5309m3a.jpg)*
 
 ---
 
-![](peltata/050624tusg8530m3.jpg)  
-[**Big parasol green seaweed**](peltata) *Caulerpa peltata  
-![](peltata/050624tusg8530m3a.jpg)*
 
-![](peltatasmall/060713rlhd4358m3.jpg)  
-[**Small parasol green seaweed**](peltatasmall) *Caulerpa racemosa* var. *peltata*![](peltatasmall/060713rlhd4358m3a.jpg)
 
   
 
 ---
 
-*![](bottlebrush/080425cyrd1800m3a.jpg)*  
-[**Bottlebrush green seaweed**](bottlebrush) *Caulerpa webbiana**![](bottlebrush/080425cyrd1802m3.jpg)*
 
-![](fluffy/090513labd1635m3.jpg)  
-[**Fluffy green seaweed**](fluffy) *Caulerpa verticillata*![](fluffy/090513labd1635m3c.jpg)
 
 ---
 

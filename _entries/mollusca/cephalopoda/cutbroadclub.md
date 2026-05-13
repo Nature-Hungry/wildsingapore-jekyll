@@ -2,7 +2,7 @@
 title: Broadclub cuttlefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broadclub, cuttlefish, sepia, latimanus, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Sepiidae
 genus: Sepia
 species: latimanus
@@ -18,6 +18,66 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5031m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg"
+  caption: |
+    <p>Young cuttlefish resembles a floating mangrove leaf with midrib, veins and stem.</p>
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/150802bblks2.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25521924336/in/album-72157607605004155/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121117hntmn.jpg"
+  caption: |
+    <p>Pulau Hantu, Nov 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8195341139/in/album-72157632034330795/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091008tmjk5m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/160509srpik7.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/240212sjiky2.jpg"
+  caption: |
+    <p>St John's Island, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169204500070112&set=a.10169204495945112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/210113smkwvc3b.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158197907587945&set=a.10158197958107945">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/210113smkwvc3.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158197907517945&set=a.10158197958107945">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/221225smksmn1.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Dec 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159320168343660&set=a.10159320171603660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121115tsmklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/12/surprises-among-seaweed-bloom-at.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/121115tsmklks1.JPG"
+  caption: |
+    <p>Terumbu Semakau, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/131006smklks1.JPG"
+  caption: |
+    <p>Pulau Semakau, Oct 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/131006smklks2.JPG"
+  caption: |
+    <p>The same cuttlefish changi colour.Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/10/sunny-sunday-at-southern-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111026smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Oct 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6287591925/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/170311bbbjt.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 17Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/220521bbbjll1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 22Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo/?fbid=10158922915081295&set=a.10158922917211295">facebook</a>..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/111226tmftd5030m6l.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -75,15 +135,9 @@ ribs and scattered spots) as well as floating movement in the water. More about 
 an important commercial seafood harvested by trawl, setnet, jig, handline
 and spear.
 
-![](cutbroadclub/111226tmftd5030m6l.jpg)  
-*Tanah Merah, Dec 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cutbroadclub/111226tmftd5031m3c.jpg)
 
-![](cutbroadclub/091009tmd2690m3.jpg)  
-Young cuttlefish resembles a floating   
-mangrove leaf with midrib, veins and stem. *Tanah Merah, Oct 09*
-![](cutbroadclub/091009tmd2690m3b.jpg)
  
 
 ---
@@ -103,66 +157,34 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](cutbroadclub/150802bblks2.jpg)  
-*Beting Bronok, Aug 15*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25521924336/in/album-72157607605004155/).
 
-![](cutbroadclub/121117hntmn.jpg)  
-*Pulau Hantu, Nov 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8195341139/in/album-72157632034330795/).
 
 ---
 
-![](cutbroadclub/091008tmjk5m3.jpg)  
-*Tanah Merah, Oct 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-list.html).
 
 ---
 
-![](cutbroadclub/160509srpik7.jpg)  
-*Sentosa Serapong, May 16*Photo shared by Ivan Kwan on [facebook](https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3).
-![](cutbroadclub/240212sjiky2.jpg)  
-*St John's Island, Feb 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169204500070112&set=a.10169204495945112).
  
 
 ---
 
-*![](cutbroadclub/210113smkwvc3b.jpg)  
-Pulau Semakau (West), Jan 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158197907587945&set=a.10158197958107945)..
 
-![](cutbroadclub/210113smkwvc3.jpg)  
-*Pulau Semakau (West), Jan 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158197907517945&set=a.10158197958107945)..
 
 ---
 
-![](cutbroadclub/221225smksmn1.jpg)  
-*Pulau Semakau (South), Dec 22*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10159320168343660&set=a.10159320171603660).
 
 ---
 
-![](cutbroadclub/121115tsmklks2.JPG)  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/12/surprises-among-seaweed-bloom-at.html).
 
-![](cutbroadclub/121115tsmklks1.JPG)  
-*Terumbu Semakau, Nov 12*
 
 ---
 
-![](cutbroadclub/131006smklks1.JPG)  
-*Pulau Semakau, Oct 13*
 
-![](cutbroadclub/131006smklks2.JPG)  
-The same cuttlefish changi colour.Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/10/sunny-sunday-at-southern-semakau.html).
 
-![](cutbroadclub/111026smklks.JPG)  
-*Pulau Semakau, Oct 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6287591925/in/album-72157607751329669/).
 
 ---
 
-![](cutbroadclub/170311bbbjt.jpg)  
-*Beting Bemban Besar, Mar 17*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3)..
 
-![](cutbroadclub/220521bbbjll1.jpg)  
-*Beting Bemban Besar, May 22*Photo shared by Jianlin LIu on [facebook](https://www.facebook.com/photo/?fbid=10158922915081295&set=a.10158922917211295)..
 
 ---
 

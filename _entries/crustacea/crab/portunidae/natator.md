@@ -2,7 +2,7 @@
 title: Ridged swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "swimming, crab, charybdis, natator, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Charybdis
@@ -25,6 +25,50 @@ superfamily: Portunoidea
 subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120124sisd6045m3a.jpg"
+  caption: |
+    <p>6 spines on the body side.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130428chgmn2.jpg"
+  caption: |
+    <p>Changi, Apr 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/16370706513/in/photolist-qWC9Gz-erUxo7-tS18NT-ej6jDB-rKksQA-yzefbK-o1w5Gn-kPmU1x-cy9wLb-rSKJHS-eeVMwV-uEcjuz-uE2BAE-uEciyB-vBpxyp-vAtvsE">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/210528chg7lks2.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159231443728158&set=a.10159231448318158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/250501skdlks1.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130331tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/130331tmlks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8626305661/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/140501kusro1m3.jpg"
+  caption: |
+    <p>Kusu Island, May 14Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.680815488644819.1073741869.133291903397183&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/190123lazmn2.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 19Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156120983703660&set=a.10156120981723660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/120407lazlks13m3.jpg"
+  caption: |
+    <p>Lazarus Island, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/04/lobster-at-seringat-kiasl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/161215cyrlks.jpg"
+  caption: |
+    <p>Cyrene Reef, Dec 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154215663883660.1073741908.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/200209cyrlt2.jpg"
+  caption: |
+    <p>Cyrene, Feb 20Photo shared by Leon Tan on <a href="https://www.facebook.com/photo.php?fbid=3010042972340299&set=a.3010038165674113&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/210821cyrlks2.jpg"
+  caption: |
+    <p>Cyrene, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159405838038158&set=a.10159405840358158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/natator/050426cftg5047m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,14 +114,9 @@ with fine hairs which traps sediments. Legs and pincers reddish brown
 with dark coloured bumps, black tipped with blue spots at the base
 of the 'fingers' of the claw.
 
-![](natator/050426cftg5047m3.jpg)  
-*Changi, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](natator/120124sisd6045m3.jpg)  
-*Sisters Island, Jan 12*
 
-![](natator/120124sisd6045m3a.jpg)  
-6 spines on the body side.
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -100,50 +139,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](natator/130428chgmn2.jpg)  
-*Changi, Apr 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/16370706513/in/photolist-qWC9Gz-erUxo7-tS18NT-ej6jDB-rKksQA-yzefbK-o1w5Gn-kPmU1x-cy9wLb-rSKJHS-eeVMwV-uEcjuz-uE2BAE-uEciyB-vBpxyp-vAtvsE).
 
-![](natator/210528chg7lks2.jpg)  
-*Changi Carpark 7, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159231443728158&set=a.10159231448318158).
 
 ---
 
-*![](natator/250501skdlks1.jpg)  
-Pulau Sekudu, May 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post).
 
 ---
 
-![](natator/130331tmlks.JPG)  
-*Tanah Merah, Mar 13*
 
-![](natator/130331tmlks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8626305661/in/album-72157664044624940/).
 
-![](natator/140501kusro1m3.jpg)  
-*Kusu Island, May 14*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.680815488644819.1073741869.133291903397183&type=1).
 
 ---
 
-![](natator/190123lazmn2.jpg)  
-*Lazarus Island, Jan 19*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156120983703660&set=a.10156120981723660&type=3&theater).
 
-![](natator/120407lazlks13m3.jpg)  
-*Lazarus Island, Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/04/lobster-at-seringat-kiasl).
 
 ---
 
-![](natator/161215cyrlks.jpg)  
- *Cyrene Reef, Dec 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154215663883660.1073741908.624178659&type=3).
 
 ---
 
-![](natator/200209cyrlt2.jpg)  
-*Cyrene, Feb 20*Photo shared by Leon Tan on [facebook](https://www.facebook.com/photo.php?fbid=3010042972340299&set=a.3010038165674113&type=3&theater).
 
-![](natator/210821cyrlks2.jpg)  
-*Cyrene, Aug 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159405838038158&set=a.10159405840358158).
 
 ---
 

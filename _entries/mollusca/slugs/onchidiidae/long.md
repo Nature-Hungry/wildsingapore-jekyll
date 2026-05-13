@@ -2,7 +2,7 @@
 title: Long onch slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Onchidiidae
 genus: ""
 species: identification*
@@ -19,6 +19,23 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3a.jpg"
+  caption: |
+    <p>Eyes on stalks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1020m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2a.jpg"
+  caption: |
+    <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/251200admrqo2b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1017m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,15 +76,9 @@ greyish or brown. Sometimes with spots. One seen had opaque white
 spots which made it look powdery. Eyes on long thin stalks. Underside
 and narrow foot are white.
 
-![](long/050809lckg1017m3.jpg)  
-*Lim Chu Kang,
-Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](long/050809lckg1017m3a.jpg)  
-Eyes on stalks.
 
-![](long/050809lckg1020m3.jpg)  
-Underside
 
  *\***Species
 are difficult to positively identify without close examination.  
@@ -93,11 +104,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](long/251200admrqo2a.jpg)  
-Admiralty Park,
-Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post).
 
-![](long/251200admrqo2b.jpg)
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

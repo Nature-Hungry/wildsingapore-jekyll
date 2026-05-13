@@ -2,7 +2,7 @@
 title: Sea apple sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "apple, seacucumber, cucumber, pseudocolochirus, axiologus, violaceus, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Cucumariidae
 genus: Pseudocolochirus
@@ -16,6 +16,46 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3.jpg"
+  caption: |
+    <p>Changi, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3b.jpg"
+  caption: |
+    <p>Colourful feeding tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/190604chg4m3.jpg"
+  caption: |
+    <p>Small one.</p>
+    <p>Changi, Jun 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3e.jpg"
+  caption: |
+    <p>Backside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3d.jpg"
+  caption: |
+    <p>Yellow tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/020501cjcpd8877m3.jpg"
+  caption: |
+    <p>Inflated.</p>
+    <p>Chek Jawa, May 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/170430lyglks4.jpg"
+  caption: |
+    <p>Changi Loyang, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155260871073158.1073741942.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/230617lyglks4.jpg"
+  caption: |
+    <p>Changi Loyang, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160715547598158&set=a.10160715553243158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/200622chgmn2.jpg"
+  caption: |
+    <p>Changi Creek, Jun 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157477172338660&set=a.10157477171708660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/160705cjlks3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154323414048158&set=a.10154323412343158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/200706skdlks3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431581613158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/230804ecpcnky4.jpg"
+  caption: |
+    <p>East Coast PCN, Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168623896515112&set=a.10168623886845112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/violaceus/100430chgd2029m3.jpg"
 ---
 
 
@@ -45,18 +85,12 @@ feeding tentacles. Anus is surrounded by five tiny teeth-like structures that ar
 as with most other sea cucumbers. When stressed, however, it may inflate
 itself into a large round ball.
 
-*![](violaceus/100430chgd2029m3.jpg)  
-Changi, May 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](violaceus/100430chgd2029m3b.jpg)*Colourful feeding tentacles.
 
-*![](violaceus/190604chg4m3.jpg)*Small one. *Changi, Jun 19*
 
-*![](violaceus/100430chgd2029m3e.jpg)*Backside.
 
-*![](violaceus/100430chgd2029m3d.jpg)*Yellow tube feet.
 
-*![](violaceus/020501cjcpd8877m3.jpg)*Inflated. *Chek Jawa, May 02*
 
 **Human uses:** These beautiful sea
 cucumbers unfortunately are harvested for the aquarium trade. Ironically,
@@ -84,25 +118,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](violaceus/170430lyglks4.jpg)*  
-*Changi Loyang, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155260871073158.1073741942.547198157&type=3).
 
-*![](violaceus/230617lyglks4.jpg)*  
-*Changi Loyang, Jun 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160715547598158&set=a.10160715553243158).
 
-*![](violaceus/200622chgmn2.jpg)*  
-*Changi Creek, Jun 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10157477172338660&set=a.10157477171708660&type=3&theater).
 
 ---
 
-*![](violaceus/160705cjlks3.jpg)*  
-*Chek Jawa, Jul 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154323414048158&set=a.10154323412343158&type=3&theater).
 
-*![](violaceus/200706skdlks3.jpg)*  
-*Pulau Sekudu, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158431581613158&set=a.10158431591203158&type=3&theater).
 
-*![](violaceus/230804ecpcnky4.jpg)*  
-*East Coast PCN, Aug 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168623896515112&set=a.10168623886845112).
 
 ---
 
@@ -126,5 +148,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
-
-

@@ -2,7 +2,7 @@
 title: Margined conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "margined, conch, strombus,  marginatus, robustus, sowerbyorum, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 64, 71, 100, 111, 123]
 family: Strombidae
 genus: Strombus
@@ -16,6 +16,57 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9072m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/240723chgeccn3b.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/251206chgelks3.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163665477508158&type=3&ref=embed_post">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100911ecpnml1m3.jpg"
+  caption: |
+    <p>East Coast Park, Sep 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/09/oil-spill-check-up-with-smu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090207ecplks.JPG"
+  caption: |
+    <p>East Coast Park, Feb 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3509568291/in/album-72157663938916840/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090514prplks1.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090514prplks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3541897392/in/album-72157607599260498/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbblks1.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbblks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23473194813/in/album-72157623141793370/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110830cyrlks4m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110830cyrlks10m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/100518bbbnml2m6l.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/05/diverse-beting-bembam-besar.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/141108bbbmn5m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Nov 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152497513118660.1073741850.624178659&type=1">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/090711sjid7253m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,13 +105,9 @@ opposite to the flared lip.
 Upperside smooth with a pattern of brown bars, sometimes plain, sometimes covered with encrusting organisms. Shell opening pearly white. Body mottled. Large eyes on
 eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 
-![](marginatus/090711sjid7253m3.jpg)  
- *St. John's Island, Jul 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](marginatus/110814smkd9070m3.jpg)  
- *Pulau Semakau, Aug 11*
 
-![](marginatus/110814smkd9072m3.jpg)
 
 **Human uses:** It is locally collected
 for food and the shell trade in some parts of our region.
@@ -82,49 +129,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](marginatus/240723chgeccn3.jpg)  
-Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
-*![](marginatus/240723chgeccn3b.jpg)  
-Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
-![](marginatus/251206chgelks3.jpg)  
- *Changi East (Lost Coast), Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163665477508158&type=3&ref=embed_post)..
 
 ---
 
-![](marginatus/100911ecpnml1m3.jpg)  
- *East Coast Park, Sep 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/09/oil-spill-check-up-with-smu.html).
 
-![](marginatus/090207ecplks.JPG)  
- *East Coast Park, Feb 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3509568291/in/album-72157663938916840/).
 
 ---
 
-![](marginatus/090514prplks1.JPG)  
- *Pasir Ris, May 09*![](marginatus/090514prplks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3541897392/in/album-72157607599260498/).
 
-![](marginatus/141108bbblks1.JPG)  
- *Beting Bemban Besar, Nov 14*![](marginatus/141108bbblks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23473194813/in/album-72157623141793370/).
 
-![](marginatus/110830cyrlks4m3.jpg)  
- *Cyrene Reef, Aug 11*![](marginatus/110830cyrlks10m3.jpg)  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reef.html).
 
 ---
 
-![](marginatus/100518bbbnml2m6l.jpg)  
- *Beting Bemban
-Besar, May 10*Photo
-shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/diverse-beting-bembam-besar.html).
 
-![](marginatus/141108bbbmn5m3.jpg)  
- *Beting Bemban Besar, Nov 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152497513118660.1073741850.624178659&type=1).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Montipora corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "velvet, montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: Montipora
 species: sp.
@@ -15,6 +15,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
+  caption: |
+    <p>[Branching</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5360m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg"
+  caption: |
+    <p>[Branching</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9820m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg"
+  caption: |
+    <p><a href="monridged.htm">Ridged montipora coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
+  caption: |
+    <p>[Plate</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3263m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8578m3.jpg"
+  caption: |
+    <p>[Plate</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg"
+  caption: |
+    <p>[Ridged</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,31 +131,14 @@ more expensive.
 
 ---
 
-**![](monbranch/060301kusg5359m3.jpg)  
-[Branching  
-montipora coral](monbranch.htm)*![](monbranch/060301kusg5360m3b.jpg)***
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](monbranch/100809cyrd9819m3.jpg)  
-[Branching  
-montipora coral](monbranch.htm) *![](monbranch/100809cyrd9820m3.jpg)***
 
-**![](monridged/070221kusg7762m3.jpg)  
-[Ridged  
-montipora coral](monridged.htm)  
-![](monridged/070221kusg7762m3c.jpg)**
 
 ---
 
-***![](monplate/051204sisg3262m3.jpg)*[Plate  
-montipora coral](monplate.htm)  *![](monplate/051204sisg3263m3b.jpg)***
 
-**![](monplate/050625labg8578m3.jpg)  
-[Plate  
-montipora coral](monplate.htm) *![](monplate/050625labg8584m3b.jpg)***
 
-**![](monridged/060714rlhg6486m3.jpg)  
-[Ridged  
-montipora coral](monridged.htm)![](monridged/060714rlhg6486m3a.jpg)**
 
 ---
 

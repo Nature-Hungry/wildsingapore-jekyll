@@ -2,7 +2,7 @@
 title: "Dungun air "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brownlowia, tersa, malvaceae, tiliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 120]
 family: Malvaceae
 genus: Brownlowia
@@ -16,6 +16,28 @@ order: Malvales
 subfamily: Brownlowioideae
 inat_id: 189938
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg"
+  caption: |
+    <p>Leaves glossy above, hairy below.</p>
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090408wdld9190m3.jpg"
+  caption: |
+    <p>Tiny pink flowers.</p>
+    <p>Woodlands Park, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090408wdld9187m3a.jpg"
+  caption: |
+    <p>Woodlands Park, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7452m6l.jpg"
+  caption: |
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/090516wdld1792m6l.jpg"
+  caption: |
+    <p>Woodlands Park, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7400m3a.jpg"
+  caption: |
+    <p>Mandai, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/brownlowia/tersa/110317mndd7351m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,23 +105,12 @@ and threats:** *Brownlowia argentata* is considered
 'Presumed Nationally Extinct' while *Brownlowia tersa* is 'Endangered'.
 on the Red List of threatened plants of Singapore.  
 
-*![](tersa/110317mndd7351m6l.jpg)*Leaves
-glossy above, hairy below. *Mandai, Mar 11  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](tersa/090408wdld9190m3.jpg)*Tiny
-pink flowers. *Woodlands Park, Apr 09*
 
-*![](tersa/090408wdld9187m3a.jpg)  
-Woodlands Park, Apr 09*
 
-*![](tersa/110317mndd7452m6l.jpg)  
-Mandai, Mar 11*
 
-*![](tersa/090516wdld1792m6l.jpg)  
-Woodlands Park, May 09*
 
-*![](tersa/110317mndd7400m3a.jpg)  
-Mandai, Mar 11*
 
 ---
 

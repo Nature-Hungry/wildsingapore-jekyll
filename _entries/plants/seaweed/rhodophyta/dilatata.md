@@ -2,13 +2,58 @@
 title: Ruffled halymenia red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "halymenia, dilatata, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Halymeniales
 genus: ""
 species: ""
 attributes: [97, 98]
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040507rflbd0071m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100403tbbd0648m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/041018sntd7551m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/091204pawd5402m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100613sngd5620m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100530tbkd4300m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/100601slud4815m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -54,26 +99,14 @@ clump can be quite large but the clumps are scattered. Surface may
 be plain or have large paler blotches or mottles. Colours red, maroon,
 brownish-orange.
 
-*![](dilatata/070506sjig9197m3.jpg)  
-St. John's Island, May 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](dilatata/070506sjig9197m3a.jpg)*
 
-*![](dilatata/070506sjig9197m3b.jpg)*
 
 ---
 
-*![](dilatata/040507rflbd0071m3.jpg)  
-Raffles Lighthouse, May 04  
-![](dilatata/040507rflbd0071m3a.jpg)*
 
-*![](dilatata/100403tbbd0648m3.jpg)  
-Beting Bemban Besar, Apr 10  
-![](dilatata/100403tbbd0648m3a.jpg)*
 
-*![](dilatata/041018sntd7551m3.jpg)  
-Sentosa, Oct 04  
-![](dilatata/041018sntd7551m3b.jpg)*
 
   
 *\*Seaweed species are
@@ -100,21 +133,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](dilatata/091204pawd5402m3.jpg)  
-Pulau Pawai, Dec 09*
 
-*![](dilatata/100613sngd5620m3.jpg)  
-Pulau Senang, Jun 10*
 
-*![](dilatata/100530tbkd4300m3.jpg)  
-Pulau Berkas, May 10*
 
 ---
 
-*![](dilatata/100601slud4815m3.jpg)  
-Pulau Salu, Jun 10*
 
-*![](dilatata/100601slud4815m3a.jpg)*
 
 ---
 

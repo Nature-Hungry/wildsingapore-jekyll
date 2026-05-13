@@ -2,7 +2,7 @@
 title: Tiny carpet anemone shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, carpet, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Palaemonidae
 genus: Periclimenes
@@ -21,6 +21,32 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3c.jpg"
+  caption: |
+    <p>Eggs seen through the transparent body!</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftd2926m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050819cjg1478m3.jpg"
+  caption: |
+    <p>Size in comparison to carpet anemone</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050428cftg5260m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091106smkgl2m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 09Photo shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/091203ubnjk2m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,24 +92,14 @@ Studies of some specimens found at Chek Jawa, Pulau Semakau and the Singapore St
 completely transparent. Some with a dark stripe along the body length
 and blue eyes.
 
-*![](carpet/050621skdg8007m3.jpg)  
-Pulau Sekudu,
-Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](carpet/050621skdg8007m3c.jpg)  
-Eggs seen through
-the transparent body!
 
-![](carpet/050621skdg8007m3a.jpg)
 
 ---
 
-*![](carpet/050428cftd2926m3.jpg)* *Changi, Apr 05*
 
-![](carpet/050819cjg1478m3.jpg)Size in comparison to carpet anemone
 
-*![](carpet/050428cftg5260m3.jpg)  
-Changi, Apr 05*
 
   
 *\*Species are difficult
@@ -108,14 +124,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](carpet/091106smkgl2m3.jpg)  
-*Pulau Semakau, Nov 09*Photo shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul).
 
-*![](carpet/091203ubnjk2m3.jpg)  
-Pulau Ubin, Dec 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
 ---
 

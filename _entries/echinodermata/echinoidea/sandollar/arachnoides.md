@@ -2,7 +2,7 @@
 title: Cake sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 86, 92]
 family: Clypeasteridae
 genus: Arachnoides
@@ -21,6 +21,97 @@ order: Clypeasteroida
 suborder: Clypeasterina
 subfamily: Arachnoidinae
 updated: Mar 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngechinoidea)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg"
+  caption: |
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg"
+  caption: |
+    <p>They are often found in huge numbers.</p>
+    <p>Chek Jawa, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg"
+  caption: |
+    <p>Upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg"
+  caption: |
+    <p>Mouth on the underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg"
+  caption: |
+    <p>Upperside of test</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg"
+  caption: |
+    <p>Underside of test</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg"
+  caption: |
+    <p>Living sand dollar moving under wet sand.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg"
+  caption: |
+    <p>Changi, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg"
+  caption: |
+    <p>Living sand dollars, not moving under sand.</p>
+    <p>Lazarus Island, Jun 09 What eats sand dollars?</p>
+    <p>Some snails such as the <a href="../../../mollusca/gastropoda/cassidae/glaucum">Grey bonnet</a> are believed to feed on sand dollars.</p>
+    <p>A <a href="../../asteroidea/protoreaster">Knobbly sea star</a> was seen with its stomach stuck to a sand dollar.</p>
+    <p>A <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a> was also seen in the process of engulfing one.</p>
+    <p>Kok Sheng also shared a video clip (below) of <a href="../../../crustacea/othercrust/anomura/hermit/hermit">hermit crabs</a> arguing over a sand dollar.</p>
+    <p>Tiny <a href="../../../mollusca/gastropoda/eulimidae/eulimidae">parasitic snails</a> are sometimes seen on them too.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg"
+  caption: |
+    <p>Is this <a href="../../../mollusca/gastropoda/cassidae/glaucum">Grey bonnet snail</a> eating a sand dollar?</p>
+    <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg"
+  caption: |
+    <p>Being eaten by a <a href="../../asteroidea/protoreaster">Knobbly sea star</a>?</p>
+    <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg"
+  caption: |
+    <p>Tiny <a href="../../../mollusca/gastropoda/eulimidae/eulimidae">parasitic snail</a> on a Cake sand dollar.</p>
+    <p>Cyrene, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+  caption: |
+    <p>Cake sand dollar being swallowed by a <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a>.</p>
+    <p>Chek Jawa Feb 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg"
+  caption: |
+    <p>Bird footprints surround the sand dollar.</p>
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg"
+  caption: |
+    <p>It seems birds have flipped over some and pecked out the underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg"
+  caption: |
+    <p>Some are flipped but not harmed.</p>
+    <p>Only egg-bearing females are pecked?</p>
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jun 16Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10153767800051295.1073741870.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg"
+  caption: |
+    <p>Lazarus, Feb 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157639265773660&set=a.10157639263998660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -31,7 +122,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -66,78 +157,26 @@ coin). It has no slots in the body. While the star-shaped petalloid
 is not very obvious in living specimens, they are clearly seen in
 the test of a dead sand dollar. The colours of a living sand dollar
 may range from deep reddish-purple, to brownish-purple or beige.
-![](arachnoides/080506chgd2311m3.jpg)  
-*Changi, May
-08*
-![](arachnoides/080506chgd2312m3.jpg)  
-Underside.
-*![](arachnoides/080720cjd8021m6l.jpg)*They are often found in huge numbers. *Chek Jawa, Jan 09*
 
-![](arachnoides/080506chgd2311m3a.jpg)  
-Upperside.
 
-![](arachnoides/080506chgd2312m3a.jpg)  
-Mouth on the underside.
 
 **Dead or alive?** Sand dollars may
 appear dead, but they are very much alive. A living sand dollar is
 covered with fine spines and appears velvety. The skeleton (test) of a dead one is smooth,
 without any spines, and the details of skeleton can be seen more clearly.
 The skeleton is fragile and will shatter at the slightest pressure.
-![](arachnoides/060612chgd2851m3.jpg)  
-Upperside of test
-![](arachnoides/060612chgd2852m3.jpg)  
-Underside of test
-![](arachnoides/090628lazd6116m3.jpg)  
-Living sand dollar moving under wet sand.
-![](arachnoides/060612chgd2851m3a.jpg)  
-*Changi, Jun
-06*
-![](arachnoides/060612chgd2852m3b.jpg)
-![](arachnoides/090628lazd6115m3.jpg)Living sand dollars, not moving under sand. *Lazarus Island, Jun 09*
-**What eats sand dollars?** Some snails such as the [Grey
-bonnet](../../../mollusca/gastropoda/cassidae/glaucum) are believed to feed on sand dollars. A [Knobbly
-sea star](../../asteroidea/protoreaster) was seen with its stomach
-stuck to a sand dollar. A [Haddon's
-carpet anemone](../../../cnidaria/actiniaria/haddoni) was also seen in
-the process of engulfing one. Kok Sheng also shared a video clip (below)
-of [hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit) arguing over a sand dollar.
-Tiny [parasitic
-snails](../../../mollusca/gastropoda/eulimidae/eulimidae) are sometimes seen on them too.
 
-*![](../../../mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg)*Is
-this [Grey
-bonnet snail](../../../mollusca/gastropoda/cassidae/glaucum) eating a sand dollar? *Cyrene Reef, May 11*Photo
-shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
-*![](../../asteroidea/protoreaster/110508cyrmng5m3.jpg)*Being
-eaten by a [Knobbly sea
-star](../../asteroidea/protoreaster)? *Cyrene Reef, May 11*Photo
-shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
-![](../../../mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg)  
-Tiny [parasitic snail](../../../mollusca/gastropoda/eulimidae/eulimidae) on a Cake sand dollar. *Cyrene, Aug 11*
 
-![](../../../cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg)  
-Cake sand dollar being swallowed  
-by a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni). *Chek Jawa Feb 04*
 
 **Pecked to death?** On Chek Jawa, many sand dollars are observed flipped over with their
 undersides broken. From the prints around the sand dollars, it seems
 they were flipped and pecked by birds. Strangely, some sand dollars
 are flipped but unpecked. Perhaps only egg-bearing females are pecked?
 
-![](arachnoides/100328cjc1801m3.jpg)  
-Bird footprints surround the sand dollar. *Chek Jawa, Mar 10*
 
-![](arachnoides/100328cjc1802m3a.jpg)  
-It seems birds have flipped over some   
-and pecked out the underside.
 
-![](arachnoides/100328cjtsgc1803m3.jpg)  
-Some are flipped but not harmed.  
-Only egg-bearing females are pecked?  
-*Chek Jawa, Mar 10*
 
 **Status and threats:** The Cake sand dollar is not listed among the threatened animals of Singapore.
 The main threat is habitat loss due to reclamation or human activities
@@ -164,29 +203,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](arachnoides/251011tgrlks12.jpg)*  
-*Sentosa Tg Rimau, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post)
 
-![](arachnoides/160625tkkjll1.jpg)  
- *Pulau Tekukor, Jun 16*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10153767800051295.1073741870.542241294&type=3).
 
 ---
 
-![](arachnoides/090224lazlks02m3.jpg)  
-*Lazarus, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl).
 
-![](arachnoides/200820ssismn4.jpg)  
- *Small Sisters Island, Aug 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157639265773660&set=a.10157639263998660).
 
 ---
 
-![](arachnoides/110517tptlks6m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
-![](arachnoides/091205sudd5468m3.jpg)  
-*Pulau Sudong, Dec 09*
 
 ---
 

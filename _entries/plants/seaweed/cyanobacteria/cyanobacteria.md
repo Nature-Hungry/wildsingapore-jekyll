@@ -2,7 +2,7 @@
 title: Cyanobacteria
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cyanobacteria, blue-green, blue, green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 division: Cyanophyta
 family: ""
 genus: ""
@@ -12,6 +12,50 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg"
+  caption: |
+    <p>Hair-like cyanobacteria</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/061223lazd7071m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100813cyrd0515m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080422smk3d1587m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080719sntd7748m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/080207sisd9339m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/120818lazs02363m6l.jpg"
+  caption: |
+    <p>Lazarus Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100612chgd5266m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/100613sngd5640m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/cyanobacteria/cyanobacteria/050529sjid3577m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -111,33 +155,17 @@ On the other hand, blooms of cyanobacteria in nutrient rich waters
 (e.g., polluted by agricultural drainage or sewage) can produce toxins
 that poison the water.
 
-![](cyanobacteria/050529sjid3577m3.jpg)  
-Hair-like cyanobacteria  
-*St. John's Island, May 05* ![](cyanobacteria/061223lazd7071m3.jpg)  
-*Lazarus Island, Dec 06*![](cyanobacteria/100813cyrd0515m3.jpg)  
-Growing among and on seagrasses *Cyrene Reef, Aug 10*![](cyanobacteria/100813cyrd0515m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](cyanobacteria/080422smk3d1587m3.jpg)  
-*Pulau Semakau, Apr 08*![](cyanobacteria/080422smk3d1587m3a.jpg)
 
-![](cyanobacteria/080719sntd7748m3.jpg)  
-*Sentosa, Jul 08*![](cyanobacteria/080719sntd7748m3a.jpg)
 
-![](cyanobacteria/080207sisd9339m3.jpg)  
-*Sisters Island, Feb 08*![](cyanobacteria/080207sisd9339m3a.jpg)
 
 ---
 
-![](cyanobacteria/120818lazs02363m6l.jpg)  
-*Lazarus Island, Aug 12*
 
-![](cyanobacteria/100612chgd5266m3.jpg)  
-*Changi, Jun 10*![](cyanobacteria/100612chgd5266m3a.jpg)
 
-![](cyanobacteria/100613sngd5640m3.jpg)  
-*Pulau Senang, Jun 10*
 
 ---
 

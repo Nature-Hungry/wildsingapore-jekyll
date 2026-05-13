@@ -2,7 +2,7 @@
 title: Rubble-carrying  crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crab, hairy, crustacea, actumnus, setifer, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Pilumnidae
 genus: Actumnus
@@ -24,6 +24,32 @@ zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9603m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9599m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/160625tkklks3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/120722cyrmn1m3a.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 12 Photo shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn4.jpg"
+  caption: |
+    <p>Cyrene, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154910033668660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/170812cyrmn3.jpg"
+  caption: |
+    <p>Cyrene, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154910033668660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/budak/8911338681/ "Actumnus setifer clip 7 rubble-carrying hairy crab video") Video clip shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,16 +104,9 @@ of the rubble is a feeding chamber, leading up via a tunnel to a place
 for it live, and with 8-12 small openings to the outside of the rubble
 probably used by the crab to detect food.
 
-![](setifer/130721cjd9597m3.jpg)  
-*Chek Jawa, Jul 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](setifer/130721cjd9603m3.jpg)  
-*Chek
-Jawa, Jul 13*
 
-![](setifer/130721cjd9599m3.jpg)  
-*Chek
-Jawa, Jul 13*
 
 ---
 
@@ -106,32 +125,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](setifer/160625tkklks3.jpg)  
-*Pulau Tekukor, Jun 16*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3).
 
 ---
 
-![](setifer/120722cyrmn1m3a.jpg)  
-*Cyrene Reef, Jul 12*  
-Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl).
 
-![](setifer/170812cyrmn4.jpg)  
-*Cyrene, Aug 17*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154910033668660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
 
-![](setifer/170812cyrmn3.jpg)  
-*Cyrene, Aug 17*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154910033668660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
 
 ---
 
 1 Jun 2013  
-[![Actumnus setifer clip 7 rubble-carrying hairy crab video](https://farm4.staticflickr.com/3766/8911338681_fbe4a946c2_z.jpg)](https://www.flickr.com/photos/budak/8911338681/ "Actumnus setifer clip 7 rubble-carrying hairy crab video")
-Video clip shared
-by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2013/06/carrier-crabl).
 
 ---
 

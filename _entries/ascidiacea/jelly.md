@@ -2,8 +2,58 @@
 title: Jelly sea squirt (Ascidia gemmata)
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidia gemmata, ascidiidae, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg"
+  caption: |
+    <p>Changi, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/201118pglvc9.jpg"
+  caption: |
+    <p>Punggol, Nov 20Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086357052945&set=a.10158086509267945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/091019prplks.JPG"
+  caption: |
+    <p>Pasir Ris Park, Oct 09Photo by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4171394908/in/album-72157607599260498/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4.jpg"
+  caption: |
+    <p>Changi, Aug 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200820chgvc4b.jpg"
+  caption: |
+    <p>Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157886455977945&set=a.10157886455152945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/220715cjrk1.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 22Photo by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159851050172906&set=pcb.10159851053327906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/140613skdro1m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14Photo by Rene Ong on <a href="https://www.facebook.com/photo.php?fbid=709866435739724&set=a.709866325739735.1073741873.133291903397183&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/200723bbvc4.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 20Photo by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157818938872945&set=a.10157818937637945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210628ecpBvc1.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557374472945&set=a.10158557647212945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210401sntvc6.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158373656922945&set=a.10158373695697945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240528tslvc9.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/240211bigsisvc6.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 24Photo by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224110027945&set=a.10160224174947945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/241117cyrccn2.jpg"
+  caption: |
+    <p>Cyrene, Nov 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161636414613654&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/210501tbvc8.jpg"
+  caption: |
+    <p>Terumbu Bemban, May 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441851942945&set=a.10158441969957945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg"
 ---
  
 
@@ -27,12 +77,9 @@ Northern shores .
 **Features:**  2-3cm. A smooth translucent blob stuck under a stone, usually alone.
 One opening is ringed with a fine circular red line and fine red bars.
 
-*![](jelly/100726chgd9196m3.jpg)  
-Changi, Jul 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](jelly/100726chgd9196m3b.jpg)*
 
-*![](jelly/100726chgd9196m3a.jpg)*
 
   
 *\***Species
@@ -57,64 +104,28 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](jelly/201118pglvc9.jpg)  
-Punggol, Nov 20*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158086357052945&set=a.10158086509267945).
 
-*![](jelly/091019prplks.JPG)  
-Pasir Ris Park, Oct 09*Photo
-by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4171394908/in/album-72157607599260498/).
  
 
 ---
 
-*![](jelly/200820chgvc4.jpg)  
-Changi, Aug 20*
 
-![](jelly/200820chgvc4b.jpg)  
-Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157886455977945&set=a.10157886455152945).
  
 
 ---
 
-*![](jelly/220715cjrk1.jpg)  
-Chek Jawa, Jun 22*Photo
-by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159851050172906&set=pcb.10159851053327906).
 
-*![](jelly/140613skdro1m3.jpg)  
-Pulau Sekudu, Jun 14*Photo
-by Rene Ong on [facebook](https://www.facebook.com/photo.php?fbid=709866435739724&set=a.709866325739735.1073741873.133291903397183&type=3&theater).
 
 ---
 
-*![](jelly/200723bbvc4.jpg)  
-Beting Bronok, Jul 20*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157818938872945&set=a.10157818937637945&type=3&theater).
-*![](jelly/210628ecpBvc1.jpg)  
-East Coast Park (B), Jun 21*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158557374472945&set=a.10158557647212945).
 
 ---
 
-*![](jelly/210401sntvc6.jpg)  
-Sentosa Tg Rimau, Apr 21*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158373656922945&set=a.10158373695697945).
 
-![](jelly/240528tslvc9.jpg)  
-*Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
-*![](jelly/240211bigsisvc6.jpg)  
-Big Sisters Island, Feb 24*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160224110027945&set=a.10160224174947945).
 
 ---
 
-![](jelly/241117cyrccn2.jpg)  
- *Cyrene, Nov 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161636414613654&type=3&ref=embed_post).
 
-*![](jelly/210501tbvc8.jpg)  
-Terumbu Bemban, May 21*Photo
-by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158441851942945&set=a.10158441969957945).
  
 
 ---

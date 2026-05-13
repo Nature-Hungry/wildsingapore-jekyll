@@ -1,5 +1,5 @@
 ---
 title: "aspera"
-layout: default
+layout: entry
 ---
 

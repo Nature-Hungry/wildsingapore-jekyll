@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: branching
 title: Black antler sponge
 family: Chalinidae
@@ -16,6 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3.jpg"
+  caption: |
+    <p>Pulau Sekudu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/260103prplks4.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163789590103158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/160208smkshpy1.jpg"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg"
 ---
 
 
@@ -41,15 +67,9 @@ points. Also with low knobs. Holes at the top of knobs, and along
 the length of the 'stems'. Colour usually a deep black, but when exposed
 out of water may be greyish.
 
-![](branchblack/070716chgd4288m3.jpg)  
-*Changi, Jul 07*![](branchblack/070716chgd4288m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](branchblack/050806skdd5505m3.jpg)  
-*Pulau Sekudu,
-Aug 05*![](branchblack/050806skdd5505m3a.jpg)
 
-![](branchblack/100727chgd9359m3.jpg)  
-*Changi, Jul 10*![](branchblack/100727chgd9359m3a.jpg)
 
   
 *\*Species are difficult
@@ -74,12 +94,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](branchblack/260103prplks4.jpg)  
-*Pasir Ris Park, Jan 26*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163789590103158&type=3&ref=embed_post).
 
-![](branchblack/160208smkshpy1.jpg)  
-*Pulau Semakau South, Feb 16*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3).
  
 
 ---

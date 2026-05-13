@@ -2,7 +2,7 @@
 title: Giant clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, clam, tridacninae, tridacnidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cardiidae
 genus: ""
 species: ""
@@ -19,6 +19,61 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
+  caption: |
+    <p>The <a href="squamosa.htm">Fluted giant clam</a> is usually firmly attached to a hard surface.</p>
+    <p>Sisters Island, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/210823smkevc3.jpg"
+  caption: |
+    <p>Shell is anchored by a large byssus mass that emerges from a gap at the bottom.</p>
+    <p>Seen here in this dead clam.</p>
+    <p>Pulau Semakau (East), Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158649744167945&set=a.10158649794402945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
+  caption: |
+    <p>The <a href="crocea.htm">Burrowing giant clam</a> are often embedded inside corals.</p>
+    <p>Pulau Hantu, Mar 05 Features: 15-40cm.</p>
+    <p>Giant clams are among the largest bivalves to have ever existed on our planet!</p>
+    <p>The two-part shell is thick and usually has a wavy opening that never closes completely.</p>
+    <p>The shell opening faces the sunlight, while the hinged side is at the bottom.</p>
+    <p>The shell is attached to a hard surface by a large byssus mass that emerges from a gap between the valves near the hinge.</p>
+    <p>Some giant clams burrow into coral, with most of the shell hidden and only the shell opening facing sunlight.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/060211hntg4575m3.jpg"
+  caption: |
+    <p>Burrowing giant clam.</p>
+    <p>Pulau Hantu, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg"
+  caption: |
+    <p>Fluted giant clam.</p>
+    <p>Pulau Jong, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/180812cyrm6l.jpg"
+  caption: |
+    <p>Burrowing giant clam.</p>
+    <p>Cyrene, Aug 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg"
+  caption: |
+    <p>Fluted giant clam.</p>
+    <p>Big Sisters Island, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg"
+  caption: |
+    <p>Fluted giant clam.</p>
+    <p>Terumbu Hantu, Jun 13 What do they eat?</p>
+    <p>Unlike most other bivalves, the giant clam harbours symbiotic zooxanthellae (a kind of single-celled algae) in its fleshy body.</p>
+    <p>The zooxanthellae produce food through photosynthesis which it shares with the clam.</p>
+    <p>To maximise the productivity of its "farm", the clam faces the shell opening (and thus the body containing the algae) to sunlight.</p>
+- url: "https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/26583361756/ "Fluted giant clam (Tridacna squamosa) and Scallop (Family Pectinidae)") Giant myth: It is a mistaken belief that divers can be trapped underwater if the giant clam closes over their foot or hand.</p>
+    <p>Many of these peaceful clams can't even close their shells completely.</p>
+    <p>They certainly don't eat people!</p>
+    <p>More about this on the <a href="http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html">Psychedelic Nature blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
+  caption: |
+    <p><a href="squamosa.htm">Fluted giant clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
+  caption: |
+    <p><a href="crocea.htm">Burrowing giant clam</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,47 +117,10 @@ rubble.
 **What are giant clams?** Giant clams
 belong to [Family Cardiidae](../cardiidae/cardiidae.htm) (True cockles), subfamily Tridacninae. Previously, it was placed in
 Family Tridacnidae.
-![](squamosa/040123sisd0129m3.jpg)  
-The [Fluted
-giant clam](squamosa.htm) is usually  
-firmly attached to a hard surface. *Sisters Island, Jan 04*
-*![](crocea/210823smkevc3.jpg)*Shell is anchored by a large byssus mass   
-that
-emerges from a gap
-at the bottom.   
-Seen here in this dead clam.  
-*Pulau Semakau (East), Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158649744167945&set=a.10158649794402945).
-*![](crocea/050312hntg3342m3.jpg)*  
-The [Burrowing giant clam](crocea.htm)  
-are often embedded inside corals. *Pulau Hantu, Mar 05*
-**Features:** 15-40cm. Giant clams
-are among the largest bivalves to have ever existed on our planet!
-The two-part shell is thick and usually has a wavy opening that never
-closes completely. The shell opening faces the sunlight, while the
-hinged side is at the bottom. The shell is attached to a hard surface by a large
-byssus mass that emerges from a gap between the valves near the hinge.
-Some giant clams burrow into coral, with most of the shell hidden
-and only the shell opening facing sunlight.
-![](crocea/060211hntg4575m3.jpg)  
-Burrowing giant clam. *Pulau Hantu, Feb 06*
-![](squamosa/081113jngd1820m3.jpg)  
-Fluted giant clam. *Pulau Jong,
-Nov 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](crocea/180812cyrm6l.jpg)  
-Burrowing giant clam. *Cyrene, Aug 18*
 
-![](squamosa/130717bsisd0581m3.jpg)  
-Fluted giant clam. *Big Sisters Island, Jul 13*
 
-![](squamosa/130628thntd9014m3.jpg)  
-Fluted giant clam. *Terumbu Hantu, Jun 13*
-**What do they eat?** Unlike most
-other bivalves, the giant clam harbours symbiotic zooxanthellae (a
-kind of single-celled algae) in its fleshy body. The zooxanthellae
-produce food through photosynthesis which it shares with the clam.
-To maximise the productivity of its "farm", the clam faces
-the shell opening (and thus the body containing the algae) to sunlight.   
   
 The shell opening never closes completely even at low tide, and the
 body is exposed. The body expands under water and appears like colourful
@@ -121,12 +139,6 @@ able to filter feed like other bivalves.
 mature first as males then eventually become hermaphrodites, producing
 both eggs and sperm. Sperm is released first, probably to avoid self
 fertilisation.
-[![Fluted giant clam (Tridacna squamosa) and Scallop (Family Pectinidae)](https://live.staticflickr.com/1681/26583361756_e8899b025a_z.jpg)](https://www.flickr.com/photos/wildsingapore/26583361756/ "Fluted giant clam (Tridacna squamosa) and Scallop (Family Pectinidae)")
-**Giant myth:** It is a mistaken belief that divers can be trapped underwater if the
-giant clam closes over their foot or hand. Many of these peaceful
-clams can't even close their shells completely. They certainly don't
-eat people! More about this on the [Psychedelic
-Nature blog](http://psychedelic-nature.blogspot.com/2008/11/is-this-true.html).  
   
 **Human uses:** Giant clams are considered
 a delicacy and in some places, an aphrodisiac. The large shells of
@@ -180,11 +192,7 @@ the Giant Clam part 4: Squirting and conservation
 
 ---
 
-**![](squamosa/040123sisd0129m3.jpg)  
-[Fluted giant clam](squamosa.htm)** 
 
-***![](crocea/050312hntg3342m3.jpg)*  
-[Burrowing giant clam](crocea.htm)**
 
 ---
 

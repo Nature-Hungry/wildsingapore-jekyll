@@ -2,7 +2,7 @@
 title: Blue coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, heliopora, coerulea, helioporidae, coral, alcyonaria, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Helioporidae
 genus: Heliopora
 species: coerulea
@@ -15,6 +15,79 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160724tpto7240260m6l.jpg"
+  caption: |
+    <p>During mass coral bleaching, a small bleaching coral is seen in the middle of large Blue coral colonies that appear normal.</p>
+    <p>Terumbu Pempang Tengah, Jul 16 Features: Blue corals are confusing.</p>
+    <p>Firstly, they are often brown and don't appear blue at all.</p>
+    <p>Secondly, although they have a hard skeleton, they are not grouped with other hard corals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/050309smkg3125m3.jpg"
+  caption: |
+    <p>With polyps extended.</p>
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/110522bbbd2750m3b.jpg"
+  caption: |
+    <p>Polyps with branched tentacles more typical of soft than hard corals.</p>
+    <p>Beting Bemban Besar, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/060402ulrd1109m3a.jpg"
+  caption: |
+    <p>A look inside a broken blue coral showing the blue internal skeleton and tiny channels when the polyps are.</p>
+    <p>Pulau Hantu, Apr 06 What do they eat?</p>
+    <p>Blue coral polyps harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies.</p>
+    <p>The algae undergo photosynthesis to produce food from sunlight.</p>
+    <p>The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
+    <p>It is the zooxanthellae that give the animals their brownish colour.</p>
+    <p>However, during <a href="../../coralhard/coralhard">mass coral bleaching</a>, while other hard corals are bleaching in numbers, we usually don't see Blue corals undergoing the same kind of drastic colour change.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/210501tbtch2.jpg"
+  caption: |
+    <p>Doridomorpha gardineri Terumbu Bemban, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159415580868713&set=a.10159415623518713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091231biod6966m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091231biod6966m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100131slud8834m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100131slud8834m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100130brkd8520m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100130brkd8520m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100613sngd5497m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100613sngd5497m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100811slud0056m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100811slud0056m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091204pawd5240m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/091204pawd5240m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/100530tbkd4238m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/160313trymn1.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/070704jngg1167m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,14 +144,7 @@ million years ago. Most other corals have an evolutionary age of only
 several hundred thousand years. Blue corals used to be dominant before
 the last Ice Age when the seas were warmer. They are now only found
 in warm tropical waters.
-*![](heliopora/070704jngg1167m3.jpg)  
-Pulau Jong, Jul 07*
-*![](heliopora/160724tpto7240260m6l.jpg)*During mass coral bleaching, a small bleaching coral is seen   
-in the middle of large Blue coral colonies that appear normal. *Terumbu Pempang Tengah, Jul 16*
-**Features:** Blue corals are confusing.
-Firstly, they are often brown and don't appear blue at all. Secondly,
-although they have a hard skeleton, they are not grouped with other
-hard corals.  
+{% include img-wrap-group.html items=page.page_images %}
   
 Colonies 15-30cm, polyps about 0.5cm. Their internal skeletons are
 blue, hence their common name. The blue colour is due to the iron
@@ -97,26 +163,10 @@ Tiny polyps (about 0.5cm) have 8 tentacles with fine branches like
 other soft corals (True hard coral polyps have smooth tentacles in
 multiples of six). The polyps stick out of tiny holes (0.2cm) in the
 skeleton. They may be white or beige.
-*![](heliopora/050309smkg3125m3.jpg)*With polyps extended. *Pulau Semakau, Mar 05*
-*![](heliopora/110522bbbd2750m3b.jpg)*Polyps
-with branched tentacles  
-more typical of soft than hard corals. *Beting Bemban Besar, May 11*
-*![](heliopora/060402ulrd1109m3a.jpg)*A
-look inside a broken blue coral   
-showing the blue internal skeleton   
-and tiny channels when the polyps are. *Pulau Hantu, Apr 06*
-**What do they eat?** Blue
-coral polyps harbour microscopic, single-celled symbiotic algae (zooxanthellae)
-within their bodies. The algae undergo photosynthesis to produce food
-from sunlight. The food produced is shared with the host, which in
-return provides the algae with shelter and minerals. It is the zooxanthellae
-that give the animals their brownish colour.
-However, during [mass coral bleaching](../../coralhard/coralhard), while other hard corals are bleaching in numbers, we usually don't see Blue corals undergoing the same kind of drastic colour change.  
   
 **Blue food:**  This coral is preyed upon by a small nudibranch *Doridomorpha gardineri* that very closely resembles the surface of the coral.  
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.  
-*![](heliopora/210501tbtch2.jpg)**Doridomorpha gardineri* *Terumbu Bemban, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159415580868713&set=a.10159415623518713). 
 
 ---
 
@@ -135,39 +185,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](heliopora/091231biod6966m3.jpg)  
-Pulau Biola, Dec 09  
-![](heliopora/091231biod6966m3a.jpg)*
 
-*![](heliopora/100131slud8834m3.jpg)  
-Terumbu Salu, Jan 10  
-![](heliopora/100131slud8834m3a.jpg)*
 
-*![](heliopora/100130brkd8520m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](heliopora/100130brkd8520m3a.jpg)*
 
 ---
 
-*![](heliopora/100613sngd5497m3.jpg)  
-Pulau Senang, Jun 10  
-![](heliopora/100613sngd5497m3a.jpg)*
 
-*![](heliopora/100811slud0056m3.jpg)  
-Pulau Salu, Aug 10  
-![](heliopora/100811slud0056m3a.jpg)*
 
-*![](heliopora/091204pawd5240m3.jpg)  
-Pulau Pawai, Dec 09  
-![](heliopora/091204pawd5240m3a.jpg)*
 
 ---
 
-*![](heliopora/100530tbkd4238m3.jpg)  
-Pulau Berkas, May 10*
 
-*![](heliopora/160313trymn1.jpg)  
-Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3).
 
 ---
 

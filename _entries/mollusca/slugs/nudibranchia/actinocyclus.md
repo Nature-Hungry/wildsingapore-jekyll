@@ -2,7 +2,7 @@
 title: Fugly nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "actinocyclus, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 90, 124]
 family: Actinocyclidae
 genus: Actinocyclus
@@ -21,6 +21,42 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Chromodoridoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg"
+  caption: |
+    <p>Sentosa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3b.jpg"
+  caption: |
+    <p>Stumpy rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3a.jpg"
+  caption: |
+    <p>Stumpy gills that look like a bubble.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/070201tusg7373m6l.jpg"
+  caption: |
+    <p>Tuas, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150616chgfpd5578m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Changi, Jun 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/090824tusjk4m6l.jpg"
+  caption: |
+    <p>Tuas, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140713bblks3m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/140104cjlks1m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/150617ecpbslks9m3.jpg"
+  caption: |
+    <p>East Coast Park Big Splash, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/130512bsismn1.jpg"
+  caption: |
+    <p>Big Sisters Island, May 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/9189135484/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/220504hntvc1.jpg"
+  caption: |
+    <p>Pulau Hantu, May 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159047498247945&set=a.10159048140602945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/actinocyclus/040520sntbd0052m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,14 +106,9 @@ two species are identified. *A. verrucosus* has a few but large
 low rounded bumps (called tubercles). *A. papillatus* has many
 large rounded turbercles.
 
-*![](actinocyclus/040520sntbd0052m3.jpg)  
-Sentosa, May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](actinocyclus/040520sntbd0052m3b.jpg)*Stumpy rhinophores.
 
-![](actinocyclus/040520sntbd0052m3a.jpg)  
-Stumpy gills
-that look like a bubble.
 
 **Sometimes mistaken for** [onch
 slugs](../onchidiidae/onchidiidae.htm) (Family Onchididae). Onchs don't have feathery gills on
@@ -87,12 +118,7 @@ their backs and are much flatter than this nudibranch.
 Rudman](http://www.seaslugforum.net/showall/activerr) has drawings of the nudibranch showing its head and mouth
 and how it feeds.
 
-![](actinocyclus/070201tusg7373m6l.jpg)  
-*Tuas, Feb
-07*
 
-![](actinocyclus/150616chgfpd5578m3.jpg)  
-Underside. *Changi, Jun 16*
 
 ---
 
@@ -111,30 +137,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](actinocyclus/090824tusjk4m6l.jpg)  
-*Tuas, Aug
-09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
 
-![](actinocyclus/140713bblks3m3.jpg)  
-*Beting Bronok, Jul 14*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
 
 ---
 
-![](actinocyclus/140104cjlks1m3.jpg)  
-*Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3).
 
-![](actinocyclus/150617ecpbslks9m3.jpg)  
-*East Coast Park Big Splash, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3).
 
-![](actinocyclus/130512bsismn1.jpg)  
-*Big Sisters Island, May 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/9189135484/).
 
 ---
 
-![](actinocyclus/220504hntvc1.jpg)  
-*Pulau Hantu, May 22*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159047498247945&set=a.10159048140602945).
 
 ---
 

@@ -2,8 +2,35 @@
 title: "Beige sheet ascidians (Ascidiacea) "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg"
+  caption: |
+    <p>East Coast, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg"
+  caption: |
+    <p>East Coast, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg"
+  caption: |
+    <p><a href="../worm/polycladida/indicus">Flatworm</a> on the ascidian.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3b.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg"
+  caption: |
+    <p><a href="../worm/polycladida/ascidianbeige">These flatworms</a> were seen on Beige sheet ascidians growing beneath a stone.</p>
+    <p>Tanah Merah, Dec 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg"
 ---
  
 
@@ -27,19 +54,13 @@ In Serina Lee's article, photos of *Didemnum psammatodes* closely resemble these
 # What eats them?
 Various kinds of [flatworms](../worm/polycladida/polycladida) (Order Polycladida) are sometimes seen on the sheets, possibly eating them.
 
-*![](beige/090623ecpd4904m3.jpg) East Coast, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](beige/090623ecpd4897m3a.jpg) East Coast, Jun 09*
 
-*![](beige/120803chgd9293m3.jpg) Changi, Aug 12*
 
-*![](beige/070714bbd3972m3.jpg) Beting Bronok, Jun 10![](beige/070714bbd3972m3a.jpg)*
 
-*![](beige/050822cjg2070m3.jpg)*[Flatworm](../worm/polycladida/indicus) on the ascidian.
 
-*![](beige/050822cjg2070m3b.jpg)   Chek Jawa, Aug 05*
 
-*![](beige/101221tmfts02262m6l.jpg)*[These flatworms](../worm/polycladida/ascidianbeige) were seen on Beige sheet ascidians growing beneath a stone. *Tanah Merah, Dec 10*
 
 *\*Species are difficult to positively identify without examination of internal parts.   On this website, they are grouped by external features for convenience of display.*
 

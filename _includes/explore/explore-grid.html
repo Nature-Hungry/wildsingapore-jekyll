@@ -50,7 +50,7 @@ if (isNaN(currentPage) || currentPage < 1) {
 
 const perpage = 10
 
-fetch('/assets//search.json')
+fetch('/assets/search.json')
   .then(res => res.json())
   .then(json => {
     data = json
@@ -77,12 +77,13 @@ fetch('/assets//search.json')
         { name: "phylum", weight: 1 },
         { name: "kingdom", weight: 1 },
 
-        { name: "search_text", weight: 0.5 } // fallback for partial strings
+        { name: "search_text", weight: 0.5 }, // fallback for partial strings
       ]
     })
 
     results = json
 
+    filterResults()
     renderResults()
 
   })

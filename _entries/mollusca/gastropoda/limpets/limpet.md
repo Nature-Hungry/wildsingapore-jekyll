@@ -2,7 +2,7 @@
 title: Limpets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "limpet, lottiidae, nacellidae, siphonariidae, fissurellidae, gastropod, mollusc, scutus, true, false, shield, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Ostreidae
 genus: ""
@@ -17,6 +17,87 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: Aug 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fnggastropods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg"
+  caption: |
+    <p>A limpet is a snail with an umbrella shaped shell.</p>
+    <p>Pulau Tekukor, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg"
+  caption: |
+    <p>East Coast Park, Aug 12 What do they eat?</p>
+    <p>Most limpets graze the thin layer of tiny plants and animals that coat a rock.</p>
+    <p>In fact, to find limpets, look out for a 'bare' patch of rock!They feed at high tide.</p>
+    <p>At low tide, you may see some grazing at night or when it is cool or wet.</p>
+    <p>Those found in shallow tide pools may also continue to feed at low tide.</p>
+    <p>Home on the Rock: Some species of limpets have a strong homing instinct and move back to the same resting spot after a feeding bout.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/040502cjd0134m3.jpg"
+  caption: |
+    <p>Limpets in the middle of a well-grazed portion of a boulder.</p>
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/limpets/050412tusd2391m3.jpg"
+  caption: |
+    <p>Home scar of recently demised limpet.</p>
+    <p>Tuas, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg"
+  caption: |
+    <p>Drill snail drilled a hole in the limpet shell.</p>
+    <p>St.</p>
+    <p>John's Island, Sep 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/1299178409/">flickr</a>.</p>
+    <p>What are limpets?</p>
+    <p>Two major groups of snails have umbrella-shaped shells.</p>
+    <p>They come from quite separate groups and are not closely related.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg"
+  caption: |
+    <p>A True limpet, this <a href="cellana.htm">Smooth limpet</a> breathes through gills.</p>
+    <p>Chek Jawa, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
+  caption: |
+    <p>A False limpet, this <a href="guamensis.htm">Guam false limpet</a>, breathes through lungs.</p>
+    <p>Sisters Island, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg"
+  caption: |
+    <p>Often mistaken for a slug, the <a href="scutus.htm">Hoof-shield limpet</a> has a body much bigger than its shell!</p>
+    <p>Chek Jawa, Jul 02 Limpet Babies: Siphonaria limpets lay eggs in circular or coiling jelly-like masses that contain thousands of eggs suspended in a gelatinous matrix, attached to a hard surface.</p>
+    <p>The free-swimming limpet larvae have a little spiral shell like other 'normal' snails.</p>
+    <p>As they develop, the shell flattens and becomes umbrella-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg"
+  caption: |
+    <p>With egg masses?</p>
+    <p>East Coast Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg"
+  caption: |
+    <p>East Coast Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+  caption: |
+    <p><a href="cellana.htm">Smooth limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/070602sjig9881m3.jpg"
+  caption: |
+    <p><a href="keyhole.htm">Key-hole limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg"
+  caption: |
+    <p><a href="patelloida.htm">Star limpets</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg"
+  caption: |
+    <p><a href="guamensis.htm">Guam false limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg"
+  caption: |
+    <p><a href="javanica.htm">Javan false limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg"
+  caption: |
+    <p><a href="atra.htm">Flat false limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3562m3.jpg"
+  caption: |
+    <p><a href="scutus.htm">Hoof-shied limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg"
+  caption: |
+    <p><a href="scutus.htm">Hoof-shied limpet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg"
+  caption: |
+    <p><a href="scutus.htm">Hoof-shied limpet</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -27,7 +108,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fnggastropods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -80,19 +161,6 @@ animals found on rocks](../../../glossary/limpetbarnacle.htm).
 barnacles, limpets can move around. Like most other snails, limpets
 have tentacles, a broad foot and a radula. The limpet's broad foot
 firmly grips the rock to avoid being dislodged by waves or predators.
-![](keyhole/130426tkkd5691m6l.jpg)  
-A limpet is a snail with an umbrella shaped shell. *Pulau Tekukor, Apr 13*
-*![](guamensis/120817nsrccd9861.jpg)  
-East Coast Park, Aug 12* 
-**What
-do they eat?** Most limpets graze the thin layer of tiny
-plants and animals that coat a rock. In fact, to find limpets, look
-out for a 'bare' patch of rock!They feed at high tide. At
-low tide, you may see some grazing at night or when it is cool or
-wet. Those found in shallow tide pools may also continue to feed at
-low tide. **Home on the Rock:** Some species of
-limpets have a strong homing instinct and move back to the same resting
-spot after a feeding bout.   
   
 This spot is often a slight depression in the rock which fits the
 outline of the shell perfectly, and is called the 'home scar'. The
@@ -107,16 +175,6 @@ a limpet that has recently come to an unhappy end. Among the animals that prey o
 Some limpets are believed to follow their mucus trails back to the
 home scar. In some of these homing limpets, their mucus also stimulates
 the growth of algae!
-![](limpets/040502cjd0134m3.jpg)  
-Limpets in the middle of   
-a well-grazed portion of a boulder. *Chek Jawa, May 04*
-*![](limpets/050412tusd2391m3.jpg)*Home
-scar of recently demised limpet. *Tuas, Apr 05*
-*![](javanica/070901sjimn.jpg)*Drill snail drilled a hole in the limpet shell. *St. John's Island, Sep 07*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/1299178409/).
-**What
-are limpets?** Two major groups of snails have umbrella-shaped
-shells. They come from quite separate groups and are not closely related.   
   
 One group of limpets called **True limpets** breathe through gills.
 Some, like those of the Family Patellidae and Lottiidae do not have
@@ -145,27 +203,8 @@ jelly-like egg masses on the rocks.
   
 More on how to [tell apart the various kinds
 of limpets](cflimpets.htm).
-![](cellana/050108cjd9188m3.jpg)A True limpet, this [Smooth limpet](cellana.htm) breathes   
-through gills. *Chek Jawa, Jan 05*
-*![](guamensis/041212kusd8718m3.jpg)*A
-False limpet, this [Guam false limpet](guamensis.htm),   
-breathes through lungs.  
-*Sisters Island, Nov 05*
-*![](scutus/020716cjd3562m3.jpg)*Often
-mistaken for a slug,   
-the [Hoof-shield limpet](scutus.htm) has a body   
-much bigger than its shell! *Chek Jawa, Jul 02*
-**Limpet Babies:** *Siphonaria* limpets lay eggs in circular or coiling jelly-like masses that contain
-thousands of eggs suspended in a gelatinous matrix, attached to a
-hard surface. The free-swimming limpet larvae have a little spiral
-shell like other 'normal' snails. As they develop, the shell flattens
-and becomes umbrella-shaped.
 
-*![](javanica/110829ecpd0205m6l.jpg)*With
-egg masses? *East Coast Park, Aug 11*
 
-*![](javanica/110829ecpd0209m3a.jpg)  
-East Coast Park, Aug 11*
 
  **Human uses:** Large limpets are often harvested as food by
 coastal dwellers.   
@@ -183,28 +222,18 @@ on Singapore shores**
 
 ---
 
-**![](cellana/050502cjg5601m3.jpg)  
-[Smooth limpet](cellana.htm)**
 
-***![](keyhole/070602sjig9881m3.jpg)*[Key-hole limpet](keyhole.htm)**
 
-**![](patelloida/050108cjd9238m3.jpg)[Star limpets](patelloida.htm)**
 
 ---
 
-***![](guamensis/040901sjid6172m3.jpg)*[Guam false limpet](guamensis.htm)**
 
-***![](javanica/040901sjid6160m3.jpg)*[Javan false limpet](javanica.htm)**
 
-***![](atra/050509hntd3208m3.jpg)*[Flat false limpet](atra.htm)**
 
 ---
 
-***![](scutus/020716cjd3562m3.jpg)*[Hoof-shied limpet](scutus.htm)**
 
-***![](scutus/030412cjd0030m3.jpg)*[Hoof-shied limpet](scutus.htm)**
 
-***![](scutus/060326tusd0676m3.jpg)*[Hoof-shied limpet](scutus.htm)**
 
 ---
 

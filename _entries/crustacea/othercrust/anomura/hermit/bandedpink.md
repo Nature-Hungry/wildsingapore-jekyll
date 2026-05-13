@@ -2,7 +2,7 @@
 title: Pink banded hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, hermit, crab, pagurus, hedleyi, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Pagurus
@@ -21,6 +21,38 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3a.jpg"
+  caption: |
+    <p>Eye stalks and short antennae pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg"
+  caption: |
+    <p>Right pincer larger, darker at the base.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/080506chgd2321m3e.jpg"
+  caption: |
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130112pgld3426m3.jpg"
+  caption: |
+    <p>Punggol, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/091218tmd6050m3a.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/090526bbmn.jpg"
+  caption: |
+    <p>Beting Bronok, Sep 05Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3574889434/">flickr</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/090426skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Apr 04Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3481952503/">flickr</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/140613skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14462119166/">flickr</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/131107pgllks.JPG"
+  caption: |
+    <p>Punggol, Nov 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/12/a-change-of-punggol-shorel">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3458m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -63,26 +95,12 @@ darker at the claws. Legs sparsely hairy, with longer black bars in
 bands, joints may be bright pink. Short antennae pale with orange
 feathery tip. Eyestalks pale. Long antenna banded maroon or dark brown
 with white dots.
-![](bandedpink/130923tmftd3458m3.jpg)  
-*Tanah Merah, Sep 13* 
-![](bandedpink/130923tmftd3458m3a.jpg)  
-Eye stalks and short antennae pale.
-![](bandedpink/130923tmftd3454m3.jpg)  
-Right pincer
-larger, darker at the base.
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](bandedpink/080506chgd2321m3e.jpg)  
-*Changi, May 08*
 
-*![](bandedpink/130112pgld3426m3.jpg)  
-Punggol, Jan
-13*
 
-*![](bandedpink/091218tmd6050m3a.jpg)  
-Tanah Merah,
-Dec 09*
 
   
 *\*Species are
@@ -107,19 +125,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bandedpink/090526bbmn.jpg)  
-*Beting Bronok, Sep 05*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3574889434/)..
 
-![](bandedpink/090426skdmn.jpg)  
-*Pulau Sekudu, Apr 04*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3481952503/)..
 
-![](bandedpink/140613skdmn.jpg)  
-*Pulau Sekudu, Jun 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14462119166/)..
 
 ---
 
-![](bandedpink/131107pgllks.JPG)  
-*Punggol, Nov 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/12/a-change-of-punggol-shorel).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Salmacis sea urchins
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Temnopleuridae
 genus: Salmacis
 species: ""
@@ -19,6 +19,65 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngechinoidea)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg"
+  caption: |
+    <p>Sometimes gathered in large numbers.</p>
+    <p>Cyrene Reef, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg"
+  caption: |
+    <p>Carrying stuff.</p>
+    <p>Beting Bronok, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg"
+  caption: |
+    <p>Hole with 'burn' mark suggests the urchin was attacked by a <a href="../../../mollusca/gastropoda/cassidae/cassidae">Helmet snail</a>.</p>
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg"
+  caption: |
+    <p>Worm-like thing seen on the underside.</p>
+    <p>Changi, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg"
+  caption: |
+    <p>Parasitic snails seen on the urchin Cyrene, May 17Photo shared on Singapore Biodiversity Records.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg"
+  caption: |
+    <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
+    <p>Changi, Jun 17Photo shared on Singpaore Biodiversity Records.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg"
+  caption: |
+    <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
+    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235740598158&set=a.10159235746118158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg"
+  caption: |
+    <p><a href="sphaeroides">White salmacis urchin</a> (Salmacis sphaeroides)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg"
+  caption: |
+    <p>Spines shorter, mostly white, banded with green or maroon.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg"
+  caption: |
+    <p><a href="virgulata">Passion salmacis urchin</a> (Salmacis virgulata)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg"
+  caption: |
+    <p>Spines shorter, all maroon, not banded .</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg"
+  caption: |
+    <p><a href="bicolor">Two-toned salmacis urchin</a> (Salmacis bicolor)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg"
+  caption: |
+    <p>Spines longer, banded white and maroon</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg"
+  caption: |
+    <p>Underside</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -29,7 +88,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -66,34 +125,12 @@ or shield it from sunlight.
 **Role in the habitat:** Despite being prickly, come animals can eat them. Examination of tests (skeleton of a dead sea
 urchin) suggest that large snails might prey on them. Other animals live on the urchin, including [Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae), the Zebra crab and sometimes, the [Urchin-mouth worm](../../../worm/polychaeta/oxydromus) is found curled around the mouth.
 
-![](salmacis/070421cyrd0440m3.jpg)  
-Sometimes gathered
-in large numbers. *Cyrene Reef, Apr 07*
 
-![](salmacis/060528bbd2322m3.jpg)  
-Carrying
-stuff. *Beting Bronok, May 06*
 
-![](salmacis/080506chgd2299m3.jpg)  
-Hole with 'burn'
-mark suggests the urchin   
-was attacked by a [Helmet
-snail](../../../mollusca/gastropoda/cassidae/cassidae). *Changi, May 08*
 
-![](salmacis/101011chgd2159m3.jpg)  
-Worm-like thing
-seen on the underside.  
-*Changi, Oct 10*
 
-![](salmacis/170527cyrsbr.jpg)  
-Parasitic snails seen on the urchin  
-*Cyrene, May 17*Photo shared on Singapore Biodiversity Records.
 
-![](salmacis/170625chgsbr.jpg)  
-Zebra crab (*Zebrida adamsii*) seen on the urchin. *Changi, Jun 17*Photo shared on Singpaore Biodiversity Records.
 
-![](salmacis/210530ecpglks3a.jpg)  
-Zebra crab (*Zebrida adamsii*) seen on the urchin. *East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159235740598158&set=a.10159235746118158).
 
 ---
 
@@ -102,43 +139,18 @@ sea urchins on Singapore shores**
 
 ---
 
-![](salmacis/080506chgd2260m3.jpg)  
-[**White salmacis urchin**](sphaeroides)   
-(*Salmacis sphaeroides*)
 
-![](salmacis/080506chgd2263m3b.jpg)  
-Spines shorter, mostly white,   
-banded with green or maroon.
 
-![](salmacis/050524chgg6575m3a.jpg)  
-Underside
 
 ---
 
-![](virgulata/060529chgd2487m3.jpg)  
-[**Passion salmacis urchin**](virgulata)   
-(*Salmacis virgulata*)
 
-![](virgulata/060529chgd2487m3d.jpg)  
-Spines shorter, all maroon,  
-not banded
-.
 
-*![](virgulata/060529chgd2490m3a.jpg)*  
-Underside
 
 ---
 
-![](bicolor/090528mecpd2807m3.jpg)  
-[**Two-toned salmacis urchin**](bicolor)   
-(*Salmacis bicolor*)
 
-![](bicolor/090528mecpd2807m3b.jpg)  
-Spines longer, banded white  
-and maroon
 
-![](bicolor/090528mecpd2814m3a.jpg)  
-Underside
 
   
 

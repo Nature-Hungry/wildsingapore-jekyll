@@ -2,7 +2,7 @@
 title: Polka-dotted sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cucumber, seacucumber, bohadschia, holothuria, ocellata, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Holothuriidae
 genus: Bohadschia
@@ -16,6 +16,41 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg"
+  caption: |
+    <p>Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3a.jpg"
+  caption: |
+    <p>Circles around short conical bumps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8389m3.jpg"
+  caption: |
+    <p>Feeding tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8382m6l.jpg"
+  caption: |
+    <p>Obvious flat underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8385m3a.jpg"
+  caption: |
+    <p>Mouth</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata1.gif"
+  caption: |
+    <p>Ossicles of the sea cucumber.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata2.gif"
+  caption: |
+    <p>From the paper by <a href="http://rmbr.nus.edu.sg/nis/bulletin2009/2009nis411-414.pdf">Teo and Ng</a> (PDF).</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata4.gif"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/ocellata3.gif"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/251012chgmn8.jpg"
+  caption: |
+    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/090628lazlt6m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl">her blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/polkadot/080731chgd8384m3.jpg"
 ---
 
 
@@ -48,21 +83,11 @@ be buried in the sand, and other studies suggest it is usually deeply
 buried. Indeed, we often only encounter this animal at night or near
 sunrise.
 
-![](polkadot/080731chgd8384m3.jpg)  
-*Changi, Jul
-08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](polkadot/080731chgd8384m3a.jpg)  
-Circles around short conical bumps.
 
-![](polkadot/080731chgd8389m3.jpg)  
-Feeding tentacles.
 
-![](polkadot/080731chgd8382m6l.jpg)  
-Obvious flat underside.
 
-![](polkadot/080731chgd8385m3a.jpg)  
-Mouth
 
  *\*Species
 are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience of
@@ -85,26 +110,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](polkadot/ocellata1.gif)  
-Ossicles of the sea cucumber.
 
-![](polkadot/ocellata2.gif)  
-From the paper by [Teo
-and Ng](http://rmbr.nus.edu.sg/nis/bulletin2009/2009nis411-414.pdf) (PDF).
 
-![](polkadot/ocellata4.gif)
-![](polkadot/ocellata3.gif)
  
 
 ---
 
-*![](polkadot/251012chgmn8.jpg)  
-Changi, Oct 25*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post).
 
-![](polkadot/090628lazlt6m3.jpg)  
-*Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
 ---
 
@@ -125,5 +137,3 @@ blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-i
   Aspidochirotida: Holothuriidae) in Singapore*. on Nature in Singapore on the Lee Kong Chiang Natural History Museum. Jun 2010 pp. 411–414.
 
 ---
-
-

@@ -2,7 +2,7 @@
 title: "Conch snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gong, pearl, spider, conch, strombus, canarium, lambis, lambis, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Strombidae
 genus: ""
 species: ""
@@ -16,6 +16,61 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg"
+  caption: |
+    <p>Hopping along Tanah Merah, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg"
+  caption: |
+    <p>Claw-like operculum on a strong narrow foot.</p>
+    <p>Pulau Jong, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/150519chgcp1d4533.jpg"
+  caption: |
+    <p>The shell is a coiled beneath the flared lip.</p>
+    <p>Turbo-charged snail: Like the spoiler on a sports car, the flared shell keeps the conch down as it hops around and helps it from being rolled about in the currents.</p>
+    <p>If it does get overturned, it uses its operculum to right itself.</p>
+    <p>The inner surface of the flared shell is usually highly glossy and pearly, and in the Spider conch, in shades of pink and orange.</p>
+    <p>The upper side of the shell may have different patterns but in living snails these are usually obscured by sediments and camouflaging algae and encrusting animals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg"
+  caption: |
+    <p>Laying bright orange egg string.</p>
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg"
+  caption: |
+    <p>Laying fine beige egg string.</p>
+    <p>Tanah Merah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg"
+  caption: |
+    <p>A young Spider conch that hasn't developed spines on its shell yet.</p>
+    <p>Pulau Jong, Jul 07 Conch babies: Mama snails lay egg strings.</p>
+    <p>Young conch snails may look different from adults, with thinner lips on the shells or lacking spines.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8590.jpg"
+  caption: |
+    <p>Harvesting Gong-gong, dragging box behind.</p>
+    <p>Changi, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/140812chg4d8600.jpg"
+  caption: |
+    <p>Gong-gong in the box dragged behind.</p>
+    <p>Changi, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/041114kusd8273m3.jpg"
+  caption: |
+    <p><a href="canarium.htm">Gong-gong</a>or Pearl conch</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg"
+  caption: |
+    <p><a href="urceus.htm">Black-lipped conch</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjio7080261m3.jpg"
+  caption: |
+    <p><a href="vittatus.htm">Vitate conch</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/marginatus/110814smkd9070m3.jpg"
+  caption: |
+    <p><a href="marginatus.htm">Margined conch</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m3.jpg"
+  caption: |
+    <p><a href="aratrum.htm">Dark Diana conch</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg"
+  caption: |
+    <p><a href="lambis.htm">Spider conch</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/111212tmnbs00821m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -72,21 +127,7 @@ of the Conch family have a narrow operculum. Instead of a broad flat
 foot, a conch has a narrow foot that is strong and muscular. The conch
 digs its claw-like operculum into the sand and pushes against it to
 'hop' forwards like a pole-vaulter.
-![](canarium/111212tmnbs00821m3.jpg)  
-Hopping along  
-*Tanah Merah, Dec 11*
-*![](lambis/060813jngd6116m3.jpg)*Claw-like operculum on a strong narrow foot. *Pulau Jong, Aug 06*
-![](canarium/150519chgcp1d4533.jpg)  
-The shell is a coiled beneath the flared lip.
-**Turbo-charged
-snail:** Like the spoiler on a sports car, the flared shell
-keeps the conch down as it hops around and helps it from being rolled
-about in the currents. If it does get overturned, it uses its operculum
-to right itself. The inner surface of the flared shell is usually
-highly glossy and pearly, and in the Spider conch, in shades of pink
-and orange. The upper side of the shell may have different patterns
-but in living snails these are usually obscured by sediments and camouflaging
-algae and encrusting animals.  
+{% include img-wrap-group.html items=page.page_images %}
   
 While most snails have eyes at the base of their tentacles, a conch
 has large eyes on stalks. While most snail eyes generally only detect
@@ -107,24 +148,8 @@ its fleshy foot.
 do they eat?** Many conch snails are scavengers, eating decaying
 plants and animals. Others eat tiny algae. The flared shell also protects
 the proboscis as the animal sweeps the bottom for titbits.
-![](lambis/120411thnts06115m3.jpg)  
-Laying bright orange egg string.  
- *Terumbu Hantu, Apr 12*
-*![](canarium/100728tmd9438m3.jpg)*Laying fine beige egg string. *Tanah Merah,* *Jul
-10*
-*![](lambis/070704jngg1106m3.jpg)*A
-young Spider conch that hasn't developed   
-spines on its shell yet. *Pulau Jong, Jul 07* 
-**Conch babies:** Mama snails
-lay egg strings. Young conch snails may look different from adults, with thinner lips on the shells or lacking spines.
 
-![](canarium/140812chg4d8590.jpg)  
-Harvesting Gong-gong, dragging box behind.  
-*Changi, Aug 14*
 
-![](canarium/140812chg4d8600.jpg)  
-Gong-gong in the box dragged behind.  
-*Changi, Aug 14*
 
 **Human uses:** Conch snails are edible
 and eaten everywhere they are found. In Singapore, [Gong-gong](canarium.htm) were once plentiful, they are still harvested from our shores in small numbers. The Gong-gong is the most popularly eaten conch,
@@ -150,25 +175,13 @@ snails on Singapore shores**
 
 ---
 
-*![](canarium/041114kusd8273m3.jpg)*  
-[**Gong-gong**](canarium.htm)**or Pearl conch**
 
-**![](urceus/050611kusg7823m3.jpg)  
-[Black-lipped conch](urceus.htm)**
 
-**![](vittatus/160708sjio7080261m3.jpg)  
-[Vitate conch](vittatus.htm)**
 
 ---
 
-**![](marginatus/110814smkd9070m3.jpg)  
-[Margined conch](marginatus.htm)**
 
-**![](aratrum/090428chgd0825m3.jpg)  
-[Dark Diana conch](aratrum.htm)**
 
-**![](lambis/060813jngd6116m3.jpg)  
-[Spider conch](lambis.htm)**
 
 ---
 

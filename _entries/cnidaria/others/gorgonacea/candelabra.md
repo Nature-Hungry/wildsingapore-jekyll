@@ -2,7 +2,7 @@
 title: Candelabra sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, euplexaura, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Plexauridae
 genus: ""
 species: Euplexaura
@@ -15,6 +15,29 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg"
+  caption: |
+    <p>Tuas, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/170714chgsafo7130425m3a.jpg"
+  caption: |
+    <p><a href="../../../mollusca/cephalopoda/cepeggs">Squid egg capsules</a> attached to the sea fan.</p>
+    <p>Changi, Jul 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg"
+  caption: |
+    <p><a href="../../../mollusca/bivalvia/pteriidae/seafan">Winged oyster</a> on the sea fan.</p>
+    <p>Beting Bronok, Aug 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg"
+  caption: |
+    <p><a href="../../../echinodermata/ophiuroidea/tinycolourful">Tiny colourful brittle stars</a> on the sea fan.</p>
+    <p>Chek Jawa, Jul 15</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -63,23 +86,14 @@ into the stem.
   
 Animals seen on the sea fan include [Winged oysters,](../../../mollusca/bivalvia/pteriidae/seafan) [tiny colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful) and [squid egg capsules](../../../mollusca/cephalopoda/cepeggs).
 
-*![](candelabra/060528bbd2416m3.jpg)  
-Beting Bronok, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](candelabra/060528bbd2416m3a.jpg)*
 
-*![](candelabra/111222tusd4656m3.jpg)  
-Tuas, Dec 11*
 
 ---
 
-*![](candelabra/170714chgsafo7130425m3a.jpg)*[Squid egg capsules](../../../mollusca/cephalopoda/cepeggs) attached to the sea fan. *Changi, Jul 17*
 
-![](../../../mollusca/bivalvia/pteriidae/pteriidae/150802bbd8848m3a.jpg)  
-[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan) on the sea fan. *Beting Bronok, Aug 15*
 
-![](../../../echinodermata/ophiuroidea/tinycolourful/150704cjd6780m3.jpg)[Tiny colourful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful) on the sea fan. *Chek Jawa, Jul 15*
 
  *\***Species
 are difficult to positively identify without close examination.**On this website, they are grouped by external

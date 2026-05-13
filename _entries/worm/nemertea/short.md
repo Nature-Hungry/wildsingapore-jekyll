@@ -2,7 +2,7 @@
 title: Short ribbon worm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ribbon, worm, ribbonworm, nemertine, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: identification*
@@ -11,6 +11,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg"
+  caption: |
+    <p>Tanah Merah, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/060531labd2669m3.jpg"
+  caption: |
+    <p>Wrapped around a drill snail.</p>
+    <p>Labrador, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/070304hntg7898m3.jpg"
+  caption: |
+    <p>Coiled around a paralysed shrimp.</p>
+    <p>Pulau Hantu, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/250501skdky1.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10171993507610112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/090210lablks02m3.jpg"
+  caption: |
+    <p>Labrador, Feb 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/200112sjimn1.jpg"
+  caption: |
+    <p>St John's Island, Jan 20Shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156971332473660&set=a.10156971328013660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/240310tplta2.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Mar 24Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10231937620685899&set=a.10231937752849203">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg"
 ---
 
 
@@ -39,15 +64,9 @@ wrapped around a drill snail. It's not certain who was eating whom.
 Another was seen coiled around a paralysed shrimp. They are sometimes
 seen slithering about among oysters.
 
-*![](short/100213tmd9299m3a.jpg)  
-Tanah Merah, Feb 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](short/060531labd2669m3.jpg)  
-Wrapped around a drill snail. *Labrador, May 06*
 
-![](short/070304hntg7898m3.jpg)  
-Coiled around
-a paralysed shrimp. *Pulau Hantu, Mar 07*
 
   
 *\***Species
@@ -72,21 +91,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](short/250501skdky1.jpg)  
-Pulau Sekudu, May 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10171993507610112&type=3&ref=embed_post).
 
 ---
 
-*![](short/090210lablks02m3.jpg)*  
-*Labrador, Feb 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/to-see-labrador-for-myselfl).
 
-![](short/200112sjimn1.jpg)  
-*St John's Island, Jan 20*Shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156971332473660&set=a.10156971328013660&type=3&theater).
 
 ---
-
-*![](short/240310tplta2.jpg)  
-Terumbu Pempang Laut, Mar 24*Photo shared by Tommy Arden on [facebook](https://www.facebook.com/photo/?fbid=10231937620685899&set=a.10231937752849203).
-
-

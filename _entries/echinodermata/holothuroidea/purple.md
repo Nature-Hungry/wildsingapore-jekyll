@@ -2,7 +2,7 @@
 title: Purple sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cucumber, seacucumber,  cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Cucumariidae
 genus: ""
@@ -16,6 +16,68 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg"
+  caption: |
+    <p>Changi, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m3.jpg"
+  caption: |
+    <p>Tube feet long, thin.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050820bbg1695m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050820bbg1695m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/030105cjd7001m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/030105cjd7001m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050624tusd4210m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/050624tusd4210m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/091203ubnjk5m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200723bblks2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158480102728158&set=a.10158480109973158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/251208melks4.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/080507ecplks05m3.jpg"
+  caption: |
+    <p>East Coast, May 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/200210blylks3.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967186638158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110704srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, Jul 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5917454100/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/090510sntik10m3.jpg"
+  caption: |
+    <p>Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/130531tkkmn.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8902108131/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100626cyrlks3m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/110508cyrlks12m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/131006smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Oct 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/10378155945/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/100502trylks11m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4570184067/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/purple/031226chgd0061m6l.jpg"
 ---
 
 
@@ -40,19 +102,10 @@ long and narrow, squarish or quadrangular in cross-section. Doesn't have a clear
 Generally a uniform shade of purple, sometimes with alternating
 darker and lighter purple stripes along the length. Tube feet long and thin, appearing along the body length. Tube feet pale or purple. Feeding tentacles
 are translucent white with yellow speckles, branched tips black.
-*![](purple/031226chgd0061m6l.jpg)  
-Changi, Dec 03*
-*![](purple/031226chgd0061m3.jpg)  
-*Tube feet long, thin.** 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](purple/050820bbg1695m3a.jpg)  
-Beting Bronok, Aug 05*![](purple/050820bbg1695m3b.jpg)
 
-*![](purple/030105cjd7001m3.jpg)  
-Chek Jawa, Jan 03*  *![](purple/030105cjd7001m3a.jpg)*
 
-*![](purple/050624tusd4210m3.jpg)  
-Tuas, Jun 05**![](purple/050624tusd4210m3b.jpg)*
 
  *\*Species
 are difficult to positively identify without close examination.   
@@ -76,62 +129,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](purple/091203ubnjk5m3.jpg)  
-Pulau Ubin, Dec 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel).
 
-*![](purple/200723bblks2.jpg)  
-Beting Bronok, Jul 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158480102728158&set=a.10158480109973158&type=3&theater).
 
 ---
 
-![](purple/251208melks4.jpg)  
-*Marina East, Dec 2025*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post).
 
-![](purple/080507ecplks05m3.jpg)  
- *East Coast, May 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
 ---
 
-![](purple/200210blylks3.jpg)  
- *Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157967186638158&set=a.10157967182933158&type=3&theater).
 
-![](purple/110704srplks.JPG)  
- *Sentosa Serapong, Jul 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5917454100/in/album-72157627005920441/).
 
 ---
 
-![](purple/090510sntik10m3.jpg)  
-*Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol).
 
-![](purple/130531tkkmn.jpg)  
-*Pulau Tekukor, May 10*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8902108131/).
 
 ---
 
-![](purple/100626cyrlks3m6l.jpg)  
-*Cyrene Reef,
-Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/starry-night-trip-to-cyrenel).
 
-![](purple/110508cyrlks12m3.jpg)  
-*Cyrene Reef, May 11*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
-![](purple/131006smklks.JPG)  
- *Pulau Semakau, Oct 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/10378155945/in/album-72157607751329669/).
 
-![](purple/100502trylks11m3.jpg) *Terumbu Raya, May 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4570184067/).
 
 ---
 
@@ -141,5 +159,3 @@ flickr](http://www.flickr.com/photos/koksheng/4570184067/).
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

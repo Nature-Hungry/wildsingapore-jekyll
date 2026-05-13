@@ -2,7 +2,7 @@
 title: Pock-marked  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, plesiastrea, versipora, plesiastreidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Plesiastreidae
 genus: Plesiastrea
 species: versipora*
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg"
+  caption: |
+    <p>Tuas, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031126tusbd0016m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9857m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/050722cjg9856m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18a.jpg"
+  caption: |
+    <p>East Coast Park, May 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/210529ecpblks18.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233456813158&set=a.10159233461703158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00669m3.jpg"
+  caption: |
+    <p>Terumbu</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/101108bkoms00670m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3.jpg"
+  caption: |
+    <p>Labrador, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/080621labd6027m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/211009blylks5a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159490099598158&set=a.10159490105468158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250430sjilll3.jpg"
+  caption: |
+    <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/250812tblvo2.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122120521316927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Australian Institute of Marine Science, Australia.</p>
+    <p>3 volumes.</p>
+    <p>- Chou, L.</p>
+    <p>M., 1998.</p>
+    <p>A Guide to the Coral Reef Life of Singapore.</p>
+    <p>Singapore Science Centre.</p>
+    <p>128 pages.</p>
+    <p>- Erhardt, Harry and Daniel Knop.</p>
+    <p>2005.</p>
+    <p>Corals: Indo-Pacific Field Guide IKAN-Unterwasserachiv, Frankfurt.</p>
+    <p>305 pp.</p>
+    <p>- Borneman, Eric H.</p>
+    <p>2001.</p>
+    <p>Aquarium Corals: Selection, Husbandry and Natural History T.F.</p>
+    <p>H Publications.</p>
+    <p>464 pp</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/plesiastreidae/plesiastrea/031124tuscd0032m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -54,13 +119,9 @@ to the colony surface, i.e., body column is not long.
   
 Colours seen include blue, green and brown.
 
-![](plesiastrea/031124tuscd0032m3.jpg)  
-*Tuas,
-Nov 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](plesiastrea/031126tusbd0016m3.jpg)*
 
-*![](plesiastrea/031126tusbd0016m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -83,39 +144,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](plesiastrea/050722cjg9857m3.jpg)  
-*Chek Jawa,
-Jul 05  
-![](plesiastrea/050722cjg9856m3a.jpg)*
 
-![](plesiastrea/210529ecpblks18a.jpg)  
-*East Coast Park, May 21  
-![](plesiastrea/210529ecpblks18.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233456813158&set=a.10159233461703158).
 
 ---
 
-![](plesiastrea/101108bkoms00669m3.jpg)  
-*Terumbu
-Bukom, Nov 10![](plesiastrea/101108bkoms00670m3.jpg)*
 
-![](plesiastrea/080621labd6027m3.jpg)  
-*Labrador,
-Jun 08  
-![](plesiastrea/080621labd6027m3a.jpg)*
 
-![](plesiastrea/211009blylks5.jpg)  
-*Berlayar Creek, Oct 21  
-![](plesiastrea/211009blylks5a.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159490099598158&set=a.10159490105468158).*
 
 ---
 
-![](plesiastrea/250430sjilll3.jpg)  
- *St John's Island, Apr 25*  
-Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post) .
 
-*![](plesiastrea/250812tblvo2.jpg)  
-Terumbu Bemban, Aug 25* Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122120521316927700&type=3&ref=embed_post).
 
 ---
 
@@ -155,20 +193,6 @@ Plesiastreidae**
   Zoology Supplement No. 22: 69-80.
 - Veron,
   Jen. 2000. *Corals
-  of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Australian Institute of Marine Science, Australia. 3 volumes.
-- Chou, L.
-  M., 1998. *A
-  Guide to the Coral Reef Life of Singapore*. Singapore
-  Science Centre. 128 pages.
-- Erhardt,
-  Harry and Daniel Knop. 2005. *Corals:
-  Indo-Pacific Field Guide*
-  IKAN-Unterwasserachiv, Frankfurt. 305 pp.
-- Borneman,
-  Eric H. 2001. *Aquarium
-  Corals: Selection, Husbandry and Natural History*
-  T.F. H Publications. 464 pp
 
 [links](../../../links)
 | [references](../../../references)

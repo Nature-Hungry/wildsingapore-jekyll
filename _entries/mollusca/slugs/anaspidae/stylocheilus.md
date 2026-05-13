@@ -2,7 +2,7 @@
 title: Furry sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seahare, hare, anaspidea, aplysiidae, stylocheilus, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aplysiidae
 genus: Stylocheilus
 species: ""
@@ -18,6 +18,53 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg"
+  caption: |
+    <p>St John's Island, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3652m3d.jpg"
+  caption: |
+    <p>Long narrow tail with spots.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3a.jpg"
+  caption: |
+    <p>Two pairs of tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3c.jpg"
+  caption: |
+    <p>Spiky projections.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3b.jpg"
+  caption: |
+    <p>Purple or blue spots with fine lines running along the length of the body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/151128sjid0506.jpg"
+  caption: |
+    <p>Well camouflaged among seaweeds.</p>
+    <p>St John's Island, Nov 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/150604chg7d4928.jpg"
+  caption: |
+    <p>Tiny one among seagrasses.</p>
+    <p>Changi, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/090428chgd0786.jpg"
+  caption: |
+    <p>Small one among seagrasses.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tbtch10m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmklks9m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/100617tsmjk6m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks14m3.jpg"
+  caption: |
+    <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3.jpg"
+  caption: |
+    <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/120407lazlks15m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,34 +121,16 @@ does it eat?** It
 feeds on [cyanobacteria](../../../plants/seaweed/cyanobacteria/cyanobacteria.htm) formerly known as the filamentous blue-green algae. These sea hares
 are preyed upon by the *[Gymnodoris](../nudibranchia/gymnodoris.htm)* nudibranch.
 
-![](stylocheilus/050325sjig3648m3.jpg)  
-*St John's Island, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](stylocheilus/050325sjig3652m3d.jpg)*Long narrow tail with spots.
 
-![](stylocheilus/050325sjig3648m3a.jpg)  
-Two pairs of tentacles.
 
-![](stylocheilus/050325sjig3648m3c.jpg)  
-Spiky projections.
 
-![](stylocheilus/050325sjig3648m3b.jpg)  
-Purple or blue spots with fine lines   
-running along the length of the body.
 
 ---
 
-![](stylocheilus/151128sjid0506.jpg)  
-Well camouflaged among seaweeds.  
-*St John's Island, Nov 15*
 
-![](stylocheilus/150604chg7d4928.jpg)  
-Tiny one among seagrasses.  
-*Changi, Jun 15*
 
-![](stylocheilus/090428chgd0786.jpg)  
-Small one among seagrasses.  
-*Changi, Apr 09*
 
 ---
 
@@ -120,31 +149,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](stylocheilus/100617tbtch10m3.jpg)  
- *Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
 
-![](stylocheilus/100617tsmklks9m3.jpg)  
-*Terumbu Semakau,
-Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html).
 
-![](stylocheilus/100617tsmjk6m3.jpg) *Terumbu Semakau, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html).
 
 ---
 
-![](stylocheilus/120407lazlks14m3.jpg)  
-*Seringat Kias,
-Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 
-![](stylocheilus/120407lazlks15m3.jpg)  
-*Seringat Kias,
-Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 
-![](stylocheilus/120407lazlks15m3b.jpg)
 
 ---
 

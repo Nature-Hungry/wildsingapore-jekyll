@@ -2,8 +2,37 @@
 title: "Rock slime ascidians (Ascidiacea) "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4124m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg"
 ---
  
 
@@ -32,23 +61,14 @@ and a few large holes. When in water, inflates into more rounded shapes.
 In various shades of white, pink, lilac and orange. Out of water,
 it is deflated and appears to be a 'melted' or slimy layer.
 
-*![](rockslime/060129skdg4122m3.jpg)  
-Pulau Sekudu, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rockslime/060129skdg4122m3c.jpg)
 
-![](rockslime/060129skdg4124m3.jpg)
 
 ---
 
-![](rockslime/090623ecpd4854m3.jpg)  
-*East Coast Park, Jun 09*![](rockslime/090623ecpd4854m3b.jpg)
 
-![](rockslime/140812chg4d8502m3a.jpg)  
-*Changi, Aug 14*![](rockslime/140812chg4d8502m3.jpg)
 
-![](rockslime/100812tpld0272m3.jpg)  
-*Terumbu Pempang Laut, Aug 10*![](rockslime/100812tpld0272m3a.jpg)
 
   
 *\***Species

@@ -2,7 +2,7 @@
 title: Big pimply onch slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Onchidiidae
 genus: ""
 species: identification*
@@ -19,6 +19,108 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg"
+  caption: |
+    <p>Changi, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101222chgd3856m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3.jpg"
+  caption: |
+    <p>On the underside, a broad foot.</p>
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg"
+  caption: |
+    <p>One pair of eyes on stalks.</p>
+    <p>The mouth is on the underside.</p>
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101204tmftd3049m3a.jpg"
+  caption: |
+    <p>Pooping from the other end.</p>
+    <p>Tanah Merah, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3a.jpg"
+  caption: |
+    <p>A pair of tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg"
+  caption: |
+    <p>Leaving behind a grazed patch, and a trail of 'processed algae'.</p>
+- url: "https://live.staticflickr.com/4267/34163250884_b98c6138f0_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/34163250884/ "Big pimply onch slugs (Family Onchidiidae)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/150619tuslks3m3.jpg"
+  caption: |
+    <p>Tuas, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/251208meky1.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/160725sntmn1.jpg"
+  caption: |
+    <p>Sentosa, Jul 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/260104trmrqo10.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/260104trmrqo10b.jpg"
+  caption: |
+    <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/250713tryccn1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/250713tryccn1b.jpg"
+  caption: |
+    <p>Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162719653043654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100103tkkjk5m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237096089/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/160124smkelks.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/250515tptky1.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172084828660112&type=3&ref=embed_post">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100629tpdjk9m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/130427tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749947522/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/210629bbbvc4.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/210629bbbvc4b.jpg"
+  caption: |
+    <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158564936332945&set=a.10158565409977945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/091204pawd0002m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/091204pawd0002m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/091205sudd5450m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/091205sudd5451m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/091231bioik1m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09 Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4262487165/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100130brkd8691m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100613sngd5779m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100811slud0123m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/101222chgd3855m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,12 +170,9 @@ These slugs are usually well hidden on a warm and sunny day. But on
 cool days or early in the morning or at dusk, you might see lots of
 them crawling about. They can move quite fast!
 
-![](bigpimply/101222chgd3855m3.jpg)  
-*Changi, Dec 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bigpimply/101222chgd3856m3.jpg)
 
-![](bigpimply/101222chgd3856m3a.jpg)
 
 **Features:** 4-5cm. Body hard, broad
 and rather flat, sometimes with a raised hump along the centre of
@@ -89,23 +188,12 @@ hands to bounce away among the rocks.The poor slug might get hurt and it
 may not be able to climb back up to where it can find food
 and safety.
 
-*![](bigpimply/060714rlhg6624m3.jpg)*On the underside, a broad foot.  
-*Raffles Lighthouse, Jul 06*
 
-*![](bigpimply/060714rlhg6624m3a.jpg)*One pair of eyes on stalks.  
-The mouth is on the underside. *Raffles Lighthouse, Jul 06*
 
-*![](bigpimply/101204tmftd3049m3a.jpg)*Pooping from the other end.  
-*Tanah Merah, Dec 10*
 
 **What does it eat?** Like other onchs,
 it grazes on algae growing on the rocks. As it feeds, it often leaves
 a bare patch on the rock and a trail of 'processed algae' behind.
-*![](bigpimply/060714rlhg6623m3.jpg)* *Raffles Lighthouse, Jul 06* 
-*![](bigpimply/060714rlhg6623m3a.jpg)*A pair of tentacles.
-*![](bigpimply/060714rlhg6623m3b.jpg)*Leaving behind a grazed patch, and  
-a trail of 'processed algae'.
-[![Big pimply onch slugs (Family Onchidiidae)](https://live.staticflickr.com/4267/34163250884_b98c6138f0_z.jpg)](https://www.flickr.com/photos/wildsingapore/34163250884/ "Big pimply onch slugs (Family Onchidiidae)")
   
 *\***Species
 are difficult to positively identify without close examination.  
@@ -129,80 +217,34 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bigpimply/150619tuslks3m3.jpg)  
-*Tuas, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3).
 
-![](bigpimply/251208meky1.jpg)  
-*Marina East, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post).
 
-*![](bigpimply/160725sntmn1.jpg)  
-Sentosa,
-Jul 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3).
 
 ---
 
-*![](bigpimply/260104trmrqo10.jpg)  
-Sentosa Tg Rimau, Jan 26![](bigpimply/260104trmrqo10b.jpg)*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post).
 
-![](bigpimply/250713tryccn1a.jpg)  
-*Terumbu Raya, Jul 25![](bigpimply/250713tryccn1b.jpg)*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162719653043654).
 
 ---
 
-*![](bigpimply/100103tkkjk5m3.jpg)  
-Pulau Tekukor, Jan 10*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4237096089/).
 
-![](bigpimply/160124smkelks.jpg)  
-*Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
 ---
 
-![](bigpimply/250515tptky1.jpg)  
-*Terumbu
-Pempang Tengah, May 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172084828660112&type=3&ref=embed_post)..
 
-![](bigpimply/100629tpdjk9m3.jpg)  
-*Terumbu
-Pempang Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
 
-![](bigpimply/130427tptlks.JPG)  
-*Terumbu
-Pempang Tengah, Apr 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749947522/in/album-72157626616274147/).
 
 ---
 
-![](bigpimply/210629bbbvc4.jpg)  
-*Beting Bemban Besar, Jun 21*  
-![](bigpimply/210629bbbvc4b.jpg)  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158564936332945&set=a.10158565409977945).
 
-*![](bigpimply/091204pawd0002m3.jpg)  
-Pulau Pawai, Dec 09  
-![](bigpimply/091204pawd0002m3a.jpg)*
 
-*![](bigpimply/091205sudd5450m3.jpg)  
-Pulau Sudong, Dec 09  
-![](bigpimply/091205sudd5451m3.jpg)*
 
 ---
 
-![](bigpimply/091231bioik1m3.jpg)  
-*Pulau Biola, Dec 09*  
-Photo shared by Ivan Kwan on [his
-flickr](http://www.flickr.com/photos/hai_ren/4262487165/).
 
-![](bigpimply/100130brkd8691m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 
-![](bigpimply/100613sngd5779m3.jpg)  
-*Pulau Senang, Jun 10*
 
-![](bigpimply/100811slud0123m3.jpg)  
-*Pulau Salu, Aug 10*
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

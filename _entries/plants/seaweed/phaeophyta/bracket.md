@@ -2,7 +2,7 @@
 title: Bracket brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Lobophora
@@ -17,6 +17,32 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg"
+  caption: |
+    <p>Labrador, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg"
+  caption: |
+    <p>Labrador, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,21 +93,10 @@ and stiff with a slimy surface.
 According to [AlgaeBase](http://www.algaebase.org/browse/taxonomy/?id=8716):
 there are 10 species of *Lobophora.*
 
-*![](bracket/060501labd1721m3.jpg)  
-Labrador, May 06  
-![](bracket/060501labd1721m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bracket/060501labd1696m3.jpg)  
-Labrador, May 06  
-![](bracket/060501labd1696m3b.jpg)*
 
-*![](bracket/081115sntd2005m3.jpg)  
-Sentosa, Nov 08  
-![](bracket/081115sntd2005m3b.jpg)*
 
-*![](bracket/110619tslgd4319m3.jpg)  
-Terumbu Selegie, Jun 11  
-![](bracket/110619tslgd4319m3a.jpg)*
 
  *\*Seaweed species are difficult to positively identify without microscopic
 examination.  

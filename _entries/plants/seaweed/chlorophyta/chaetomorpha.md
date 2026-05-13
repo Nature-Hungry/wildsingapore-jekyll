@@ -2,7 +2,7 @@
 title: 'Bee hoon' green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bee, hoon, seaweed, weed, green, chaetomorpha, cladophoraceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Cladophoraceae
 genus: Chaetomorpha
@@ -15,6 +15,41 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg"
+  caption: |
+    <p>Large piles</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020224cjcpd7156m3.jpg"
+  caption: |
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1761m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100425kntd1755m3.jpg"
+  caption: |
+    <p>Forming a mossy carpet under mangrove trees.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/050610sntg7654m3.jpg"
+  caption: |
+    <p>Often entangled among other seaweeds.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/060115sntg3968m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/100810sngd9929m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/110323tsmkd7615m3b.jpg"
+  caption: |
+    <p>Terumbu Semakau, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/chaetomorpha/020225cjd7289m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -70,31 +105,15 @@ to tell apart some green seaweeds](cffeathery).
 **Human uses:** It is used as animal
 feed and eaten raw by people.
 
-![](chaetomorpha/020225cjd7289m3.jpg)  
-Large piles
-of the seaweed *Chek Jawa, Feb 02*![](chaetomorpha/020224cjcpd7156m3.jpg)  
-*Chek Jawa, Feb 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](chaetomorpha/100425kntd1761m3.jpg)  
-*Kranji Nature Trail, Apr 10*![](chaetomorpha/100425kntd1755m3.jpg)  
-Forming a mossy carpet under mangrove trees.
 
-![](chaetomorpha/050610sntg7654m3a.jpg)  
-*Sentosa, Jun 05*![](chaetomorpha/050610sntg7654m3.jpg)  
-Often entangled among other seaweeds.
 
-![](chaetomorpha/060115sntg3968m3b.jpg)  
-*Sentosa, Jan 06*![](chaetomorpha/060115sntg3968m3.jpg)
 
 ---
 
-![](chaetomorpha/100810sngd9929m3.jpg)  
-*Pulau Senang, Aug 10*
 
-![](chaetomorpha/100810sngd9929m3a.jpg)
 
-![](chaetomorpha/110323tsmkd7615m3b.jpg)  
-*Terumbu Semakau, Mar 11*
 
   
 *\*Species are difficult

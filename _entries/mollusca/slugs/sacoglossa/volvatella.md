@@ -2,7 +2,7 @@
 title: Volvatella slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, volvatella, vigourouxi, volvatellidae, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
 family: Volvatellidae
 genus: ""
@@ -18,6 +18,70 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg"
+  caption: |
+    <p>Smaller 'males' on top of a larger hermaphrodite snail.</p>
+    <p>Sentosa, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5884m6l.jpg"
+  caption: |
+    <p>Sentosa, Jun 12 What do they eat?</p>
+    <p>They have been seen on <a href="../../../plants/seaweed/chlorophyta/caulerpa.htm">Caulerpa</a> <a href="../../../plants/seaweed/chlorophyta/caulerpa.htm">green seaweeds</a> (Caulerpa sp.) as well as other kinds of green seaweeds including <a href="../../../plants/seaweed/chlorophyta/bryopsis.htm">Hairy green seaweeds</a> (Bryopsis sp.).</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110812prpd8594m6l.jpg"
+  caption: |
+    <p>Produces a white fluid when disturbed.</p>
+    <p>Pasir Ris, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210527chgsaftch2.jpg"
+  caption: |
+    <p>Laying eggs?</p>
+    <p>Changi Creek, May 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159478887578713&set=a.10159478904418713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/251012chgmn6.jpg"
+  caption: |
+    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/110519chglks3m3.jpg"
+  caption: |
+    <p>Changi, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-life.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140517chg1tch1m3.jpg"
+  caption: |
+    <p>Changi, May 14 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10152428240748713.1073741884.619308712&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/171206ubnlks8.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914550758158&set=a.10155914547808158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/240821skdch4.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 24Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161804173833713&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100516skdtch7m3a.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/090720skdmn3m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3741200295/in/set-72157621755591436/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/180714cjmn.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28534570417/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170624cjtch2.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155508836018713.1073742094.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/101009cjnml2m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/210626cjtch3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159555824568713&set=a.10159555848543713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/220616chgelks14.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940596658158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/100515sjlks.JPG"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 10 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4608610512/in/album-72157607929563969/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/140712cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Jul 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24813991051/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/170501tsmktch6.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/volvatella/120620sntd5876m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,15 +125,7 @@ It is difficult to tell apart the species in the field, but in general, *Volvate
   
 Another kind of Volvatella has a white shell with transparent
 spots and it has yet to be identified to species.
-![](volvatella/120620sntd5876m3.jpg)  
-Smaller 'males' on top of a larger  
-hermaphrodite snail. *Sentosa, Jun 12*
-![](volvatella/120620sntd5884m6l.jpg)  
-*Sentosa, Jun 12*
-**What do they eat?** They have been seen on *[Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa.htm)* [green
-seaweeds](../../../plants/seaweed/chlorophyta/caulerpa.htm) (*Caulerpa* sp.) as well as other kinds of green seaweeds
-including [Hairy
-green seaweeds](../../../plants/seaweed/chlorophyta/bryopsis.htm) (*Bryopsis* sp.).  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Baby volvatellas:** Often one or
 more smaller slugs are seen 'riding' on top of a larger one. Those
@@ -81,11 +137,7 @@ while the female parts are not yet active. Both are developed in larger
 ones. Thus smaller slugs may be acting as males on larger slugs which
 act as females.
 
-![](volvatella/110812prpd8594m6l.jpg)  
-Produces a white fluid when disturbed. *Pasir Ris, Aug 11*
 
-![](volvatella/210527chgsaftch2.jpg)  
-Laying eggs? *Changi Creek, May 21* Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159478887578713&set=a.10159478904418713).
 
 ---
 
@@ -104,66 +156,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](volvatella/251012chgmn6.jpg)  
-*Changi, Oct 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post).
 
-![](volvatella/110519chglks3m3.jpg)  
- *Changi, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-life.html).
 
-![](volvatella/140517chg1tch1m3.jpg)  
-*Changi, May 14* Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10152428240748713.1073741884.619308712&type=1).
 
 ---
 
-![](volvatella/171206ubnlks8.jpg)  
-*Pulau Ubin, Dec 17* Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155914550758158&set=a.10155914547808158&type=3&theater).
 
 ---
 
-![](volvatella/240821skdch4.jpg)  
-*Pulau Sekudu, Aug 24*Photo shared by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10161804173833713&type=3&ref=embed_post).
 
-![](volvatella/100516skdtch7m3a.jpg)  
-*Pulau Sekudu, May 10* Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/checking-up-pulau-sekudu.html).
 
-![](volvatella/090720skdmn3m3.jpg)  
-*Pulau Sekudu, Jul 09*Photo shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/3741200295/in/set-72157621755591436/).
 
 ---
 
-![](volvatella/180714cjmn.jpg)  
-*Chek Jawa, Jul 18* Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/28534570417/).
 
-![](volvatella/170624cjtch2.jpg)  
-*Chek Jawa, Jun 17* Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155508836018713.1073742094.619308712&type=3).
 
 ---
 
-![](volvatella/101009cjnml2m3.jpg)  
- *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html).
 
-![](volvatella/210626cjtch3.jpg)  
-*Chek Jawa, Jun 21* Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159555824568713&set=a.10159555848543713).
 
 ---
 
-![](volvatella/220616chgelks14.jpg)  
- *Changi Lost Coast, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940596658158&set=a.10159940599688158).
 
 ---
 
-![](volvatella/100515sjlks.JPG)  
- *St. John's Island, May 10* Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4608610512/in/album-72157607929563969/).
 
-![](volvatella/140712cyrlks.JPG)  
- *Cyrene Reef, Jul 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24813991051/in/album-72157607718672165/).
 
-![](volvatella/170501tsmktch6.jpg)  
- *Terumbu Semakau, May 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3).
 
 ---
 

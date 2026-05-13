@@ -2,7 +2,7 @@
 title: "Tit-berry "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tit, berry, allophylus, cobbe, sapindaceae, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Sapindaceae
 genus: Allophylus
@@ -15,6 +15,34 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Sapindales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0283m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/130102kntd2955m3.jpg"
+  caption: |
+    <p>Kranji Nature Trail, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3a.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0287m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0006m3.jpg"
+  caption: |
+    <p>Nymphs of bugs seen on berries.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/031123sbwrad0019m3.jpg"
+  caption: |
+    <p>Nymphs of bugs seen on leaves.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/090905sbwrd0285m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/allophylus/cobbe/091005cjd2099m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -75,31 +103,13 @@ edible and according to Selvam, tastes "very sweet". The
 leaves are used as a mouthwash, to treat fractures, relieve rashes.
 The roots are used to treat diarrhoea.  
 
-![](cobbe/091005cjd2099m3.jpg)  
-*Pulau Ubin,
-Oct 09  
-![](cobbe/090905sbwrd0283m3.jpg)  
-Sungei Buloh Wetland Reserve, Sep 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](cobbe/130102kntd2955m3.jpg)  
-Kranji Nature Trail, Jan 13*
 
-![](cobbe/090905sbwrd0287m3a.jpg)  
-*Sungei Buloh
-Wetland Reserve, Sep 09*
 
-![](cobbe/090905sbwrd0287m3.jpg)  
-*Sungei Buloh
-Wetland Reserve, Sep 09*
 
-*![](cobbe/031123sbwrad0006m3.jpg)*Nymphs
-of bugs seen on berries. *Sungei Buloh Wetland Reserve, Mar 11*
 
-*![](cobbe/031123sbwrad0019m3.jpg)*Nymphs
-of bugs seen on leaves. *Sungei Buloh Wetland Reserve, Mar 11*
 
-*![](cobbe/090905sbwrd0285m3.jpg)  
-Sungei Buloh Wetland Reserve, Sep 09*
 
 ---
 

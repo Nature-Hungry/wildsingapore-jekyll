@@ -2,7 +2,7 @@
 title: Veined branched brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "veined, branch, brown, seaweed, weed, dictyopteris, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Dictyopteris
@@ -17,6 +17,32 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080606cyrd5144m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/060727jngd5055m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/110220lazd6293m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/110220lazd6294m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/080410cyrd0003m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -64,17 +90,10 @@ there are more than 30 current *Dictyopteris* species.
 **Human uses:**It is eaten
 by people and is believed to have antibacterial and antitumor properties.
 
-![](veinedbranch/080410cyrd0003m3.jpg)  
-*Cyrene Reef, Apr 08*![](veinedbranch/080410cyrd0003m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](veinedbranch/080606cyrd5144m3.jpg)  
-*Cyrene Reef, Jun 08*![](veinedbranch/080606cyrd5144m3a.jpg)
 
-![](veinedbranch/060727jngd5055m3.jpg)  
-*Pulau Jong, Jul 06*![](veinedbranch/060727jngd5055m3a.jpg)
 
-![](veinedbranch/110220lazd6293m3.jpg)  
-*Lazarus Island, Feb 11*![](veinedbranch/110220lazd6294m3.jpg)
 
   
 *\*Seaweed species are

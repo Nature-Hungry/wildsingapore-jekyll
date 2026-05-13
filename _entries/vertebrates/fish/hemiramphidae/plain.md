@@ -2,7 +2,7 @@
 title: Plain halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "plain, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 47, 116]
 family: Hemiramphidae
 genus: ""
@@ -16,6 +16,27 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg"
+  caption: |
+    <p>Sisters Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m6l.jpg"
+  caption: |
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m6l.jpg"
+  caption: |
+    <p>Kusu Island, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/060713rlhd4211m3.jpg"
+  caption: |
+    <p>Sometimes seen in a small group.</p>
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/240706ubnlks3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/250909laztt4.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,15 +76,8 @@ tapers to a sharp point, the tip paler. Grouped here are those with unmarked bod
 forked.  
   
 The fishes grouped here may be different species.
-![](plain/080831sisd0179.jpg)  
-*Sisters Island, Aug 08*
-![](plain/031030sntd0034m6l.jpg)  
-*Sentosa, Oct 03*
-![](plain/110716kusd6882m6l.jpg)  
-*Kusu Island, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](plain/060713rlhd4211m3.jpg)  
-Sometimes seen in a small group. *Raffles Lighthouse, Jul 06*
 
  *\*Species are difficult
 to positively identify without closer examination.   
@@ -87,11 +101,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](plain/240706ubnlks3.jpg)*  
-*Pulau Ubin, Jul 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158).
 
-![](plain/250909laztt4.jpg)  
-*Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

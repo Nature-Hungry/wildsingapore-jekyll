@@ -2,7 +2,7 @@
 title: Hydroids
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Bougainvilliidae
 genus: ""
 species: ""
@@ -16,6 +16,70 @@ subclass: Hydroidolina
 order: Anthoathecata
 suborder: Filifera
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg"
+  caption: |
+    <p>Colourful <a href="candy">Candy hydroids</a>.</p>
+    <p>Tuas, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg"
+  caption: |
+    <p>Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
+  caption: |
+    <p><a href="thread">This jellyfish</a> belongs to Class Hydrozoa.</p>
+    <p>Tuas, Apr 04 The colony may be made up of two different kinds of polyps.</p>
+    <p>Feeding polyps look like sea anemones with tentacles armed with <a href="../../cnidaria">stingers like other Cnidrians</a>.</p>
+    <p>These stingers are used to gather food particles from the water.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg"
+  caption: |
+    <p>Tiny polyps of the <a href="sertularella">fern hydroid</a>.</p>
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg"
+  caption: |
+    <p>Polyp of <a href="fluffy">fluffy hydroid</a>.</p>
+    <p>Changi, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg"
+  caption: |
+    <p>Capsules of <a href="candy">candy hydroids</a>.</p>
+    <p>Pulau Sekudu, May 12 What do they eat?</p>
+    <p>The feeding polyps gather food with tiny tentacles armed with stinging cells.</p>
+    <p>The digested nutrients are shared with the rest of the colony.</p>
+    <p>Some hydroids such as Fire corals (Millepora sp.) harbour symbiotic algae (zooxanthellae) in their bodies.</p>
+    <p>The algae undergo photosynthesis to produce food from sunlight.</p>
+    <p>The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg"
+  caption: |
+    <p>Grass-like pale <a href="stinging">stinging hydroids</a>.</p>
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg"
+  caption: |
+    <p>Tiny tentacles of <a href="stinging">stinging hydroids</a>.</p>
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg"
+  caption: |
+    <p>Cuthona nudibranch on <a href="sertularella">Fern hydroid</a> Beting Bronok, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg"
+  caption: |
+    <p><a href="stinging">Stinging hydroids</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg"
+  caption: |
+    <p><a href="candy">Candy hydroids</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg"
+  caption: |
+    <p><a href="fluffy">Fluffy hydroids</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg"
+  caption: |
+    <p><a href="sertularella">Fern hydroids</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg"
+  caption: |
+    <p><a href="delicate">Delicate hydroids</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg"
+  caption: |
+    <p><a href="seagrass">Seagrass hydroids</a>grows on seagrasses.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg"
+  caption: |
+    <p><a href="giant">Giant hydroids</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,15 +129,7 @@ exoskeleton is made of). In some, each polyp lives in a bell-shaped
 'container' with a lid. The colony often takes on feathery, branching
 plant-like forms. The branches arise from a central stalk that is
 attached to a hard surface.
-*![](candy/040409tusad0141m3.jpg)*Colourful [Candy hydroids](candy). *Tuas, Apr 04*
-**![](140420sisd4964.jpg)**Blue button jellyfish **(Porpita porpita)  
-Sisters Island, Apr 14** 
-*![](thread/040409tuscd0019m3.jpg)*[This
-jellyfish](thread) belongs to Class Hydrozoa. *Tuas, Apr 04*
-The colony may be made up of two different kinds of polyps. Feeding
-polyps look like sea anemones with tentacles armed with [stingers
-like other Cnidrians](../../cnidaria). These stingers are used to gather food particles
-from the water.   
+{% include img-wrap-group.html items=page.page_images %}
   
 Other polyps function as reproductive organs and often don't have
 tentacles. Some hydroids have defensive polyps, usually club-shaped
@@ -88,28 +144,10 @@ these animals have powerful stingers.
 [Stinging hydroids](stinging) inflict powerful
 stings that can leave painful and hideous scars on the bare skin of
 careless visitors or divers.
-*![](sertularella/100614bbd6022m3.jpg)*Tiny
-polyps of the [fern hydroid](sertularella)*.  
-Beting Bronok, Jun 10*
-*![](fluffy/120410chgd9302m3.jpg)*Polyp of [fluffy hydroid](fluffy). *Changi, Apr 12*
-*![](candy/120508skdd2318m3.jpg)*Capsules
-of [candy hydroids](candy). *Pulau Sekudu, May 12* 
-**What do they eat?** The feeding
-polyps gather food with tiny tentacles armed with stinging cells.
-The digested nutrients are shared with the rest of the colony. Some
-hydroids such as Fire corals (*Millepora* sp.) harbour symbiotic
-algae (zooxanthellae) in their bodies. The algae undergo photosynthesis
-to produce food from sunlight. The food produced is shared with the
-host, which in return provides the algae with shelter and minerals.  
   
 **Living on a hydroid** Despite their powerful stingers, some tiny animals such as amphipods actually live on them. Their stingers don't deter some nudibranchs from eating them.
-*![](stinging/050821bbg1938m3.jpg)*Grass-like
-pale [stinging hydroids](stinging). *Beting Bronok, Aug 05* 
 
-*![](stinging/120803chgd9398m3.jpg)*Tiny
-tentacles of [stinging hydroids](stinging). *Changi, Aug 12*
 
-*![](../../../mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg)*Cuthona nudibranch on [Fern hydroid](sertularella) *Beting Bronok, Aug 06*
 
 **Hydroid babies:** To increase in
 size, the plant-like form buds new polyps and branches. Some species
@@ -138,25 +176,16 @@ hydroids on Singapore shores**
 
 ---
 
-***![](stinging/050411tusd2333m3.jpg)*[Stinging hydroids](stinging)**
 
-**![](candy/020629chgd1211m3.jpg)  
-[Candy hydroids](candy)**
 
-***![](fluffy/040409tusad0129m3.jpg)*[Fluffy hydroids](fluffy)**
 
 ---
 
-***![](sertularella/030714bbd0074m3.jpg)*[Fern hydroids](sertularella)**
 
-***![](delicate/050819cjg1531m3a.jpg)*[Delicate hydroids](delicate)**
 
-***![](seagrass/080208hntd9427m3.jpg)*[Seagrass hydroids](seagrass)**grows
-on seagrasses.
 
 ---
 
-***![](giant/100812tpld0425m6l.jpg)*[Giant hydroids](giant)**
 
 ---
 

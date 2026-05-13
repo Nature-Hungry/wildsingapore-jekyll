@@ -2,7 +2,7 @@
 title: "Lumpy rock crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lumpy, rock, crab, euxanthus, exsculptus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Xanthidae
 genus: Euxanthus
@@ -24,6 +24,54 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Euxanthinae
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1601m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110517tptd1598m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/111002bsismn.jpg"
+  caption: |
+    <p>Big Sisters Island, Oct 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6207620651/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2a.jpg"
+  caption: |
+    <p>Big Sisters Island, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158630375518158&set=a.10158630376778158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/200919bsislks2b.jpg"
+  caption: |
+    <p>Big Sisters Island, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158630375518158&set=a.10158630376778158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/190520hntjc1.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157171708536310&set=a.10157171667441310&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/110621smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5861876964/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/220911cyrccn2.jpg"
+  caption: |
+    <p>Cyrene, Sep 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159911496763654&set=a.10159911477933654">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/230901kuslks1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/230901kuslks1a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160894359833158&set=a.10160894366868158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/130210bsislks.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/130210bsislksa.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/161117rlhlks10.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/161117rlhlks11.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,14 +114,9 @@ covered with smooth lumps and bumps. Pincers very short with dark
 tips, and folds under the body. Walking legs not hairy, with pointy
 tips. In various colours often mottled shades of brown, beige, grey.
 
-*![](euxanthus/060527sjid2222m3.jpg)**St.
-John's Island, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](euxanthus/110517tptd1601m3.jpg)**Terumbu
-Pempang Tengah, May 11*
 
-![](euxanthus/110517tptd1598m3.jpg)  
-Underside.
 
 ---
 
@@ -92,37 +135,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](euxanthus/111002bsismn.jpg)  
-Big Sisters Island, Oct 11*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6207620651/).
 
-*![](euxanthus/200919bsislks2a.jpg)  
-Big Sisters Island, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158630375518158&set=a.10158630376778158).
 
 ---
 
  
-*![](euxanthus/200919bsislks2b.jpg)  
-Big Sisters Island, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158630375518158&set=a.10158630376778158).
 
 ---
 
-*![](euxanthus/190520hntjc1.jpg)  
-Pulau Hantu, May 19*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo.php?fbid=10157171708536310&set=a.10157171667441310&type=3&theater).
-*![](euxanthus/110621smklks.JPG)  
-Pulau Semakau, Jun 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5861876964/in/album-72157607751329669/).
-*![](euxanthus/220911cyrccn2.jpg)  
-Cyrene, Sep 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10159911496763654&set=a.10159911477933654)..
 
 ---
 
-*![](euxanthus/230901kuslks1.jpg)  
-Kusu Island, Aug 23![](euxanthus/230901kuslks1a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160894359833158&set=a.10160894366868158).
 
-*![](euxanthus/130210bsislks.JPG)  
-Sisters Island, Feb 13![](euxanthus/130210bsislksa.JPG)*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl).
 
-*![](euxanthus/161117rlhlks10.jpg)  
-Raffles Lighthouse, Nov 16![](euxanthus/161117rlhlks11.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
 
 ---
 

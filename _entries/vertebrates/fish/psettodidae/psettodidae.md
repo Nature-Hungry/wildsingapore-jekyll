@@ -2,7 +2,7 @@
 title: "Halibuts "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, fish, flatfish, halibut, psettodes, erumei psettodidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Psettodidae
 genus: ""
@@ -17,6 +17,19 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg"
+  caption: |
+    <p>Juvenile Indian halibut (about 3cm long) Tuas, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m6l.jpg"
+  caption: |
+    <p>Indian halibutL Large mouth with fang-like teeth.</p>
+    <p>Tail fin well separated from dorsal and anal fins.</p>
+    <p>Changi, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/250615chg6al1.jpg"
+  caption: |
+    <p>Changi Carpark 6, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10161705255808693&__cft__[0]=AZVo1GjtXIGtN4ebqmGCF0D4uWobNDIWLZJtSEgTemt3iLTh7dmNZ6SnGuNvj7_2TzOiFw8diJf3f-r9J20hweN30dmEXSe7srG9rv6IuvvB4NkHq6nrQxICd9mYgpSq2g8&__tn__=-UC%2CP-R">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/120327tusd7879m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,14 +81,8 @@ are black.
 Here's more on [how
 to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 
-![](erumei/120327tusd7879m3.jpg)  
-Juvenile Indian halibut (about 3cm long) *Tuas, Mar 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](erumei/090622chgd4715m6l.jpg)*Indian halibutL
-Large mouth with fang-like teeth. Tail fin well separated from
-dorsal and anal fins.  
-*Changi,
-Jun 09*
 
 **What does it eat?** The Indian halibut hunts mainly other
 fishes on the muddy and sandy bottom. During the day it lies deeply
@@ -102,8 +109,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](erumei/250615chg6al1.jpg)  
-*Changi Carpark 6, Jun 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?vanity=nekomun&set=a.10161705255808693&__cft__[0]=AZVo1GjtXIGtN4ebqmGCF0D4uWobNDIWLZJtSEgTemt3iLTh7dmNZ6SnGuNvj7_2TzOiFw8diJf3f-r9J20hweN30dmEXSe7srG9rv6IuvvB4NkHq6nrQxICd9mYgpSq2g8&__tn__=-UC%2CP-R).
 
 ---
 

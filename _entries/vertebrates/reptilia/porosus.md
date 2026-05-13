@@ -2,7 +2,7 @@
 title: "Estuarine crocodile "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Crocodylidae
 genus: Crocodylus
 species: porosus
@@ -15,6 +15,20 @@ subphylum: Vertebrata
 class: Reptilia
 order: Crocodylia
 updated: Apr 2018
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 09 Photo shared by Teo Siyang on <a href="http://uforest.blogspot.com/2009/09/crocodilel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Oct 09Photo shared by Brandon Chia on <a href="http://www.flickr.com/photos/brandonchia/3997939750/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on <a href="http://www.flickr.com/photos/brandonchia/3997936872/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg"
 ---
 
 
@@ -80,18 +94,9 @@ Here's NParks's advice on what you should do to stay safe
 - If a crocodile is spotted on the path, stay calm and back away slowly.
 - Do not approach, provoke or feed the crocodile.
 
-*![](porosus/100221sbwrd9556m3.jpg)  
-Sungei Buloh Wetland Reserve, Feb 10  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](porosus/090913sbwrtsy1m3a.jpg)**Sungei
-Buloh Wetland Reserve, Sep 09*  
-Photo shared by Teo Siyang on [his
-blog](http://uforest.blogspot.com/2009/09/crocodilel).  
   
-*![](porosus/091010sbwrbc3m6l.jpg)  
-Sungei Buloh Wetland Reserve, Oct 09*Photo
-shared by Brandon Chia on [his
-flickr](http://www.flickr.com/photos/brandonchia/3997939750/).
 
 **Status and threats:** Our Estuarine
 crocodiles are listed as 'Critically Endangered' in the Red List of
@@ -102,10 +107,6 @@ reduced hunting pressure on wild populations. They are hunted
 for their skin which is used to make leather goods such as shoes
 and handbags. Their meat is also eaten.
 
-*![](porosus/091010sbwrbc2m6l.jpg)**Sungei Buloh Wetland Reserve, Oct 09*  
-Photo shared
-by Brandon Chia on [his
-flickr](http://www.flickr.com/photos/brandonchia/3997936872/).
 
 ---
 
@@ -239,5 +240,3 @@ Tomistoma schlegelii* (Sunda gavial)
   G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
-
-

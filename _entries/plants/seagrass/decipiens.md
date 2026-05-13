@@ -2,7 +2,7 @@
 title: Hairy spoon seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Hairy spoon seagrass
 family: Hydrocharitaceae
@@ -18,6 +18,36 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg"
+  caption: |
+    <p>Growing on carpet on <a href="../../mollusca/bivalvia/mytilidae/musculista">Nest mussels</a>.</p>
+    <p>Changi, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg"
+  caption: |
+    <p>Pulau Sekusu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg"
+  caption: |
+    <p>Minute hairs on the leaf.</p>
+    <p>Changi Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg"
+  caption: |
+    <p>Leaf blade longer than wide.</p>
+    <p>Changi Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg"
+  caption: |
+    <p>Flower.</p>
+    <p>Pasir Ris Park, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg"
+  caption: |
+    <p>Fruit Pasir Ris Park, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg"
+  caption: |
+    <p>Seeds.</p>
+    <p>Pasir Ris Park, Aug 13</p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -82,29 +112,16 @@ recorded in Singapore in 2008, from specimens found off Pulau Semakau
 at a depth of about 8m. It has since been sighted at other locations
 in waters off the Southern islands and on the intertidal in the North.
 
-*![](decipiens/200728bb.jpg)  
-Beting Bronok, Jul 20*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](decipiens/120605lygd4072m3.jpg)*Growing
-on carpet on [Nest
-mussels](../../mollusca/bivalvia/mytilidae/musculista). *Changi, Jun 12*
 
-*![](decipiens/070522skdg9587.jpg)**Pulau Sekusu, Jul 07*
 
-**![](decipiens/090427chgd0665m3a.jpg)**Minute
-hairs on the leaf.  
-*Changi Apr 09*
 
-*******![](decipiens/090427chgd0666m3.jpg)*******Leaf blade longer than
-wide. *******Changi Apr 09*******
 
 ---
 
-*![](decipiens/130823prpd2336m3a.jpg)*Flower. *Pasir Ris Park, Aug 13*
 
-*![](decipiens/130823prpd2337m3.jpg)*Fruit *Pasir Ris Park, Aug 13*
 
-*![](decipiens/130823prpd2354m3.jpg)*Seeds. *Pasir Ris Park, Aug 13*
 
 ---
 
@@ -139,5 +156,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

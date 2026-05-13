@@ -2,7 +2,7 @@
 title: "Reticulated tailed-slug "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tailed, slug, philinopsis, reticulata, aglajidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aglajidae
 genus: ""
 species: Philinopsis
@@ -18,6 +18,17 @@ subterclass: Tectipleura
 order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg"
+  caption: |
+    <p>Cyrene Reef, Mar 11</p>
+- url: "https://live.staticflickr.com/1691/24291371114_e18ab08f2a_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24291371114/in/photolist-D1xCkm-9u2s5L "Reticulated tailed slug (Philinopsis reticulata)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/160209cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24290195313/in/album-72157607718672165/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,10 +70,8 @@ body that appears to be made up of two parts. A pair of 'tails', one a little lo
 eat [bubble shell snails](hamineoidae.htm), hunting them
 by following their slime trail then swallowing them whole.
 
-![](reticulata/110319cyrs07381m6la.jpg)  
- *Cyrene Reef, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-[![Reticulated tailed slug (Philinopsis reticulata)](https://live.staticflickr.com/1691/24291371114_e18ab08f2a_z.jpg)](https://www.flickr.com/photos/wildsingapore/24291371114/in/photolist-D1xCkm-9u2s5L "Reticulated tailed slug (Philinopsis reticulata)")
 
 ---
 
@@ -81,8 +90,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](reticulata/160209cyrlks.JPG)  
- *Cyrene Reef, Feb 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24290195313/in/album-72157607718672165/).
 
 ---
 

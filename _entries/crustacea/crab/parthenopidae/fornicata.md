@@ -2,7 +2,7 @@
 title: Domed elbow crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "domed, elbow, crab, cryptopodia, fornicata, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Parthenopidae
 genus: Cryptopodia
@@ -24,6 +24,48 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 subfamily: Parthenopinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg"
+  caption: |
+    <p>A domed body covers its limbs.</p>
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3b.jpg"
+  caption: |
+    <p>Large, angular pincers</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3a.jpg"
+  caption: |
+    <p>Tiny eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2664m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/090526bbd2661m3.jpg"
+  caption: |
+    <p>Carrying eggs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn1.jpg"
+  caption: |
+    <p>Changi, Jun 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7414527038/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/120605chgmn2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/130325tsmklks1.JPG"
+  caption: |
+    <p>Terumbu Semakau, Mar 13 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/05/terumbu-semakau-with-southernl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/130325tsmklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/05/terumbu-semakau-with-southernl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/111126bblks1.JPG"
+  caption: |
+    <p>Beting Bronok, Nov 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/111126bblks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/180714cjtch1.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10156654571338713.1073742153.619308712&type=3">facebook</a>..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,22 +109,14 @@ and angular.
 and threats:** This crab is listed as 'Endangered' on the
 Red List of threatened animals of Singapore.
 
-*![](fornicata/060711chgd4013m3.jpg)*A
-domed body covers its limbs. *Changi, Jul 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](fornicata/060711chgd4013m3b.jpg)*Large, angular pincers
 
-*![](fornicata/060711chgd4013m3a.jpg)*Tiny eyes.
 
 ---
 
-*![](fornicata/090526bbd2664m3.jpg)*Beting Bronok, May 09
 
-*![](fornicata/090526bbd2664m3b.jpg)*
 
-![](fornicata/090526bbd2661m3.jpg)  
-Carrying
-eggs.
 
 ---
 
@@ -101,21 +135,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](fornicata/120605chgmn1.jpg)**Changi, Jun 12*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7414527038/).
 
-![](fornicata/120605chgmn2.jpg)
 
 ---
 
-*![](fornicata/130325tsmklks1.JPG)**Terumbu Semakau, Mar 13**![](fornicata/130325tsmklks2.JPG)*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/terumbu-semakau-with-southernl).
 
-*![](fornicata/111126bblks1.JPG)**Beting Bronok**, Nov 11**![](fornicata/111126bblks2.JPG)*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl).
 
-*![](fornicata/180714cjtch1.jpg)**Chek Jawa, Jul 18*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10156654571338713.1073742153.619308712&type=3)..
 
 ---
 

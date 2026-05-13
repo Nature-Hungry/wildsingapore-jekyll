@@ -2,7 +2,7 @@
 title: Maiden's jealousy
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "maiden, jealousy, tristellateia, australasiae, malpighiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 35, 36]
 family: Malpighiaceae
 genus: Tristellateia
@@ -15,6 +15,35 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 321819
 updated: Sep 09
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"
+  caption: |
+    <p>Growing wild in a mangrove Kranji Nature Trail, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg"
+  caption: |
+    <p>Kranji Nature Trail, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0579m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg"
+  caption: |
+    <p>Planted.</p>
+    <p>Changi, Sep 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -54,24 +83,17 @@ up to 10m long). The twigs are puple with bumps (lenticels). The leaves
 (7-12cm) a fresh green, arranged opposite one another. The star-shaped
 flowers (2-3cm) are bright yellow appearing in clusters (4-30cm long).
 
-*![](australasiae/091227kntd6390m6l.jpg)*Growing
-wild in a mangrove *Kranji Nature Trail, Dec 09*
+{% include img-wrap-group.html items=page.page_images %}
 
 **Sometimes
 confused with** [Kuku
 tupai](../caesalpinia/crista) (*Caesalpinia crista*) when in bloom.
 
-*![](australasiae/091227kntd6389m3.jpg)**Kranji Nature Trail, Dec 09*
 
 ---
 
-*![](australasiae/090912chgbwd0580m3.jpg)  
-Changi, Sep 09 ![](australasiae/090912chgbwd0580m3a.jpg)*
 
-*![](australasiae/090912chgbwd0578m3.jpg)  
-Changi, Sep 09 ![](australasiae/090912chgbwd0579m3.jpg)*
 
-*![](australasiae/090912chgbwd0575m6la.jpg)*Planted. *Changi, Sep 09*
 
 ---
 
@@ -91,8 +113,6 @@ Changi, Sep 09 ![](australasiae/090912chgbwd0579m3.jpg)*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: Fat-armed jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies, catostylus, catostylidae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Catosylidae
 genus: Catostylus
@@ -16,6 +16,23 @@ subclass: Discomedusae
 order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426chgd2778m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/101208tmlks1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/tanah-merah-6-months-after-oil-spilll">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/160314lazjt2.jpg"
+  caption: |
+    <p>Lazarus Island, Mar 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153964702408119.1073741894.696593118&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -51,11 +68,7 @@ seen?** This large jellyfish is sometimes seen on some of our shores. Usually al
 do not have a long 'tail'.   
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
-![](fatarm/050426cftg5076m3.jpg)  
-*Changi, Apr
-05* 
-![](fatarm/050426chgd2778m3.jpg)
-![](fatarm/050426chgd2778m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -74,15 +87,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](fatarm/101208tmlks1m3.jpg)  
-*Tanah Merah,
-Dec 10*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/12/tanah-merah-6-months-after-oil-spilll).
 
-![](fatarm/160314lazjt2.jpg)  
-*Lazarus Island, Mar 16*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153964702408119.1073741894.696593118&type=3).
 
 ---
 

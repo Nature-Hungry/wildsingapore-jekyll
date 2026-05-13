@@ -2,7 +2,7 @@
 title: Javan turrid snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turrid, turricula, javana, turridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Turridae
 genus: Turricula
 species: javana
@@ -16,6 +16,23 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Conoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1665m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/111028chgelks4m3.jpg"
+  caption: |
+    <p>Changi East, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/150617ecpbsmn1m3.jpg"
+  caption: |
+    <p>East Coast Park Big Splash, Jun 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153078938003660.1073741877.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1667m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +77,9 @@ of a horn-like material, yellowish. Body pale
 with brownish spots with long muscular foot. Short tentacles, very
 long siphon which has a black tip.
 
-*![](turridae/100926cjd1667m3.jpg)  
-Chek Jawa, Sep 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](turridae/100926cjd1665m3.jpg)  
-Chek Jawa, Sep 10*
 
-*![](turridae/100926cjd1660m3.jpg)  
-Chek Jawa, Sep 10*
 
 ---
 
@@ -86,16 +98,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](turridae/111028chgelks4m3.jpg)  
-Changi East, Oct 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html).
 
 ---
 
-*![](turridae/150617ecpbsmn1m3.jpg)  
-East Coast Park Big Splash, Jun 15*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153078938003660.1073741877.624178659&type=3).
 
 ---
 

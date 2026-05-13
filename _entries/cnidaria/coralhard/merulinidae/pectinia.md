@@ -2,7 +2,7 @@
 title: Carnation corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "carnation, pectinia, pectiniidae, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Merulinidae
 genus: ""
 species: Pectinia
@@ -15,6 +15,90 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg"
+  caption: |
+    <p>Sisters Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2146m3.jpg"
+  caption: |
+    <p>With long tentacles extended.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2148m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5781m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/040830hntd5889m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6527m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/120124sisd5983m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/120124sisd5982m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/060714rlhg6535m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100710sisd8062m3b.jpg"
+  caption: |
+    <p>With long tentacles extended.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/150520ecpbslks2m3a.jpg"
+  caption: |
+    <p>East Coast Park Big Splash, May 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/05/coral-garden-on-reclaimed-east-coast.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/2007024pcnlks7.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482800873158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/090512tmlks18m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/250714srptccn6.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/110220lazrl1m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210430sjilks7.jpg"
+  caption: |
+    <p>St John's Island, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159166988533158&set=a.10159166993588158">facbeook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100519tsmlks2m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4625350877/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100616tsmmn1m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4708137591/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4373m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4384m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/100530tbkd4383m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/210428slulks9.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469063158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/pectinia/111002sisd2144m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,36 +141,19 @@ long, thin translucent tentacles surrounding the corallite centres,
 which may occur anywhere. Colony colours seen include brown, yellow,
 orange, green, blue, purple, often with a sheen of contrasting colours.
 
-![](pectinia/111002sisd2144m3.jpg)  
-*Sisters Island, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pectinia/111002sisd2146m3.jpg)  
-With long tentacles extended.
 
-![](pectinia/111002sisd2148m3a.jpg)
 
 ---
 
-![](pectinia/040830hntd5781m3.jpg)  
-*Pulau Hantu, Aug 04*![](pectinia/040830hntd5781m3b.jpg)
 
-![](pectinia/040830hntd5889m3.jpg)  
-*Pulau Hantu, Aug 04*![](pectinia/040830hntd5889m3b.jpg)
 
-![](pectinia/060714rlhg6527m3.jpg)  
-*Raffles Lighthouse, Jul 06*![](pectinia/060714rlhg6527m3b.jpg)
 
 ---
 
-![](pectinia/120124sisd5983m3.jpg)  
-*Sister Island, Jan 12*![](pectinia/120124sisd5982m3a.jpg)
 
-![](pectinia/060714rlhg6535m3.jpg)  
-*Raffles Lighthouse, Jul 06*![](pectinia/060714rlhg6535m3a.jpg)
 
-![](pectinia/100710sisd8062m3c.jpg)  
-*Sisters Island, Jul 10*![](pectinia/100710sisd8062m3b.jpg)  
-With long tentacles extended.
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -110,54 +177,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](pectinia/150520ecpbslks2m3a.jpg)  
-*East Coast Park Big Splash, May 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/05/coral-garden-on-reclaimed-east-coast.html).
 
-![](pectinia/2007024pcnlks7.jpg)  
-*East Coast PCN, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482800873158&set=a.10158482804868158&type=3&theater).
 
-![](pectinia/090512tmlks18m3.jpg)  
-*Tanah Merah,
-May 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
 ---
 
-![](pectinia/250714srptccn6.jpg)  
-*Sentosa Serapong, Jul 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654).
 
-![](pectinia/110220lazrl1m3.jpg)  
-*Lazarus Island, Feb 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717).
 
-![](pectinia/210430sjilks7.jpg)  
-*St John's Island, Apr 21*Photo shared by Loh Kok Sheng on [facbeook](https://www.facebook.com/photo?fbid=10159166988533158&set=a.10159166993588158).
 
 ---
 
-![](pectinia/100519tsmlks2m3.jpg)  
-*Terumbu Semakau, May 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4625350877/).
 
-![](pectinia/100616tsmmn1m3.jpg)  
-*Terumbu Semakau, Jun 10*Photo shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4708137591/).
 
 ---
 
-![](pectinia/100530tbkd4373m3.jpg)  
-*Pulau Berkas, May 10*
 
-![](pectinia/100530tbkd4384m3.jpg)  
-*Pulau Berkas, May 10*
 
-![](pectinia/100530tbkd4383m3.jpg)Bleaching. *Pulau Berkas, May 10*
 
 ---
 
-![](pectinia/210428slulks9.jpg)  
-*Pulau Salu, Apr 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162469063158&set=a.10159162473618158).
 
 ---
 

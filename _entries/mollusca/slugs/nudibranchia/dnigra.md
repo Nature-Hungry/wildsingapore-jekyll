@@ -2,7 +2,7 @@
 title: Black dendrodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, dendrodoris, nigra, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 63, 90]
 family: Dendrodorididae
 genus: Dendrodoris
@@ -21,6 +21,41 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/190122cyrjll2.jpg"
+  caption: |
+    <p>Cyrene Reef, Jan 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156160333176295&set=a.10156160333046295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Jun 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4735412590/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/100626cyrlks2.JPG"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10158041342408158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/200311blylks1b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1a.jpg"
+  caption: |
+    <p>St John's Island, Feb 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/240212sjivc1b.jpg"
+  caption: |
+    <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229943932945&set=a.10160230394282945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170212bsisjll1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 17Photo shared by Jianlin Liu g on <a href="https://www.facebook.com/photo.php?fbid=10154408482741295&set=a.10154408481176295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/170812cyrjll1.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154940410301295&set=a.10154940409826295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/171104cyrlks2.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830725953158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dnigra/110830cyrd0276m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,16 +103,10 @@ and lacks dark blotches on a lighter background. *Dendrodoris fumata* has 5-6 la
 cover the width of the animal. But the species can be definitively
 told apart only by looking at small internal features.
 
-*![](dnigra/110830cyrd0276m6l.jpg)  
-Cyrene Reef, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dnigra/190122cyrjll2.jpg)  
-*Cyrene Reef, Jan 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156160333176295&set=a.10156160333046295&type=3&theater).
 
-*![](dnigra/100626cyrlks.JPG)  
-Cyrene Reef, Jun 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4735412590/in/album-72157607718672165/).
 
-*![](dnigra/100626cyrlks2.JPG)*Underside.
 
 ---
 
@@ -96,31 +125,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](dnigra/200311blylks1.jpg)  
-*Berlayar Creek, Mar 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10158041342408158&type=3).
 
-![](dnigra/200311blylks1b.jpg)
 
 ---
 
-![](dnigra/240212sjivc1a.jpg)  
-*St John's Island, Feb 24*
 
-![](dnigra/240212sjivc1b.jpg)  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160229943932945&set=a.10160230394282945).
 
 ---
 
-*![](dnigra/170212bsisjll1.jpg)  
-Big Sisters Island, Feb 17*Photo shared by Jianlin Liu g on [facebook](https://www.facebook.com/photo.php?fbid=10154408482741295&set=a.10154408481176295&type=3&theater).
 
 ---
 
-![](dnigra/170812cyrjll1.jpg)  
-*Cyrene Reef, Aug 17*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10154940410301295&set=a.10154940409826295&type=3&theater).
 
-*![](dnigra/171104cyrlks2.jpg)  
-Cyrene Reef, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155830725953158&set=a.10155830725878158&type=3&theater).
 
 ---
 

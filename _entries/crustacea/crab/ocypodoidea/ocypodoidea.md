@@ -2,7 +2,7 @@
 title: "Stalk-eyed crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stalk, eye, crab, ocypodidae, ocypodoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Camptandriidae
 genus: ""
 species: ""
@@ -23,6 +23,59 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg"
+  caption: |
+    <p>The eye stalks of a ghost crab 'fold' away into grooves at the side of its body.</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg"
+  caption: |
+    <p>The Sentinel crab has super long eye stalks.</p>
+    <p>Pulau Hantu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg"
+  caption: |
+    <p>Some fiddler crabs have brightly coloured eye stalks.</p>
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg"
+  caption: |
+    <p><a href="ceratophthalmus">Horn-eyed ghost crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg"
+  caption: |
+    <p><a href="cordimanus">Smooth-eyed ghost crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg"
+  caption: |
+    <p><a href="macrophthalmus">Sentinel crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/scopimera/050326cjg3733m3a.jpg"
+  caption: |
+    <p><a href="scopimera">Sand bubbler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg"
+  caption: |
+    <p><a href="dotilla">Soldier crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ilyoplax/040101lckd0135m3.jpg"
+  caption: |
+    <p><a href="ilyoplax">Semaphore crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
+  caption: |
+    <p><a href="annulipes">Porcelain fiddler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg"
+  caption: |
+    <p><a href="vocans">Orange fiddler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
+  caption: |
+    <p><a href="rosea">Rosy fiddler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
+  caption: |
+    <p><a href="stoutpincer">Stout pincered fiddler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
+  caption: |
+    <p><a href="tinycolourful">Tiny colourful fiddler crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
+  caption: |
+    <p><a href="uca">Other unidentified fiddler crabs</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -33,7 +86,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -83,12 +136,6 @@ fleet footed indeed!
 members tend to feed on edible bits, sifting the sand or mud for them.
 Larger ones such as ghost crabs are scavengers and forage on the shores
 for the recently dead.
-*![](ceratophthalmus/090818tmd9312m3a.jpg)*The
-eye stalks of a ghost crab 'fold' away
-into grooves at the side of its body. *Tanah Merah, Aug 09*
-*![](macrophthalmus/050525hntg6712m3a.jpg)*The
-Sentinel crab has super long eye stalks. *Pulau Hantu, May 05*
-*![](uca/tinycolourful/090329cjd8659m3.jpg)*Some fiddler crabs have brightly coloured eye stalks. *Chek Jawa, Mar 09* 
 
 ---
 
@@ -97,40 +144,23 @@ crabs on Singapore shores**
 
 ---
 
-**![](ceratophthalmus/060713rlhd4149m3.jpg)  
-[Horn-eyed ghost crab](ceratophthalmus)**
 
-**![](cordimanus/110903sntd1078m3.jpg)  
-[Smooth-eyed ghost crab](cordimanus)**
 
-***![](macrophthalmus/050525hntg6712m3.jpg)*[Sentinel crab](macrophthalmus)**
 
 ---
 
-***![](scopimera/050326cjg3733m3a.jpg)*[Sand bubbler crab](scopimera)**
 
-***![](dotilla/041127cjd8656m3.jpg)*[Soldier crab](dotilla)**
 
-***![](ilyoplax/040101lckd0135m3.jpg)*[Semaphore crab](ilyoplax)**
 
 ---
 
-***![](uca/annulipes/040103sjid0059m3a.jpg)*[Porcelain fiddler crab](annulipes)**
 
-*![](uca/vocans/090510hntd1140m3.jpg)*[**Orange fiddler crab**](vocans)
 
-***![](uca/rosea/021008cjd6155m3.jpg)*  
-[Rosy fiddler crab](rosea)**
 
 ---
 
-***![](uca/stoutpincer/090816sbwrd9021m3.jpg)*[Stout pincered fiddler crab](stoutpincer)**
 
-***![](uca/tinycolourful/110327cjd7979m3.jpg)*  
-[Tiny colourful fiddler crab](tinycolourful)**
 
-*![](uca/noid/110327cjd7977m3.jpg)*  
-[**Other unidentified fiddler crabs**](uca)
 
 ---
 

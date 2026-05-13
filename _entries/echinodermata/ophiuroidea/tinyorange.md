@@ -2,7 +2,7 @@
 title: "Tiny orange brittle stars "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, orange, brittle, star, brittlestar, ophiothela, mirabilis, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 31, 92]
 family: Ophiotrichidae
 genus: Ophiothela
@@ -20,6 +20,48 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Oct 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 11 In <a href="../../cnidaria/coralsoft/nepasparagus">asparagus soft coral</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200822jng.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 20 In <a href="../../cnidaria/coralsoft/nepasparagus">asparagus soft coral</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/160209cyrlks4.JPG"
+  caption: |
+    <p>On <a href="../echinoidea/urchin/prionocidaris">pencil sea urchin</a> spine.</p>
+    <p>Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 16 In Spiky flowery soft coral</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200823cyr.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 20 In Leathery sea fan</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/230805thntjt1.jpg"
+  caption: |
+    <p>On <a href="../../cnidaria/coralsoft/letblackwhite">Black-and-white leathery soft coral</a>.</p>
+    <p>Terumbu Hantu, Aug 23 Photo shared by Johnathan Tan on <a href="https://www.facebook.com/photo/?fbid=10160899391108119&set=a.10160899431628119">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/200919bsisvc3.jpg"
+  caption: |
+    <p>On <a href="../../cnidaria/coralsoft/letblackwhite">Black-and-white leathery soft coral</a>.</p>
+    <p>Big Sisters Island, Sep 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157957421047945&set=a.10157957417432945">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/210822ssislks1.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159407414198158&set=a.10159407433713158">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/250430sjilll5.jpg"
+  caption: |
+    <p>On <a href="../../cnidaria/others/gorgonacea/leathery">Leathery sea fan</a>.</p>
+    <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240113lazky2.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169130255115112&set=a.10169130251430112">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240623hntlks9.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/240412tbccn6.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161071242143654&set=a.10161071207308654">facebook</a> .</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/111029smkd2954m3.jpg"
 ---
 
 
@@ -45,31 +87,14 @@ can be home to many of these tiny brittle stars.
 **Features:** Whole
 animal about 1cm wide. 5-6 arms with very small spines, held flat, along the sides of the arm. Uniformly bright orange. Sometimes confused with the [Tiny colourful brittle star](tinyorange) which are more colorful and found on a wider variety of animals.
 
-![](tinyorange/111029smkd2954m3.jpg)  
-*Pulau Semakau, Oct 11*  
-In [asparagus
-soft coral](../../cnidaria/coralsoft/nepasparagus).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tinyorange/200822jng.jpg)  
-*Pulau Jong,* Aug 20  
-In [asparagus
-soft coral](../../cnidaria/coralsoft/nepasparagus).
 
  **Sometimes confused with** the [Tiny colourful brittle star](tinycolourful) which
 have colourful bands on their arms and central disk also with colourful markings. The two kinds of tiny brittle stars are sometimes seen together.
 
-![](tinycolourful/160209cyrlks4.JPG)  
-On [pencil sea urchin](../echinoidea/urchin/prionocidaris) spine.  
-*Cyrene Reef, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
-![](tinyorange/161012cj.jpg)  
-*Chek Jawa, Oct 16*   
-In Spiky flowery soft coral
 
-![](tinyorange/200823cyr.jpg)  
- *Cyrene Reef, Aug 20*  
-In Leathery sea fan
 
  *\*Species are
 difficult to positively identify without close examination.   
@@ -93,36 +118,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tinyorange/230805thntjt1.jpg)  
-On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite). *Terumbu Hantu, Aug 23*   
-Photo shared by Johnathan Tan on [facebook](https://www.facebook.com/photo/?fbid=10160899391108119&set=a.10160899431628119) .
 
-.![](tinyorange/200919bsisvc3.jpg)  
-On [Black-and-white leathery soft coral](../../cnidaria/coralsoft/letblackwhite). *Big Sisters Island, Sep 20*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157957421047945&set=a.10157957417432945)
 
-![](tinyorange/210822ssislks1.jpg)  
- *Small Sisters Island, Aug 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159407414198158&set=a.10159407433713158) .
 
 ---
 
-![](tinyorange/250430sjilll5.jpg)  
-On [Leathery sea fan](../../cnidaria/others/gorgonacea/leathery). *St John's Island, Apr 25*  
-Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post) .
 
-![](tinyorange/240113lazky2.jpg)  
-*Lazarus Island, Jan 24*   
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169130255115112&set=a.10169130251430112) .
 
 ---
 
-![](tinyorange/240623hntlks9.jpg)*Pulau Hantu, Jun 24*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158).
 
-![](tinyorange/240412tbccn6.jpg)  
-*Terumbu Bemban, Apr 24*   
-Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161071242143654&set=a.10161071207308654) .
 
 ---
 
@@ -131,5 +136,3 @@ Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid
 - [*Ophiothela
   danae*](https://www.sealifebase.se/summary/Ophiothela-mirabilisl)
   on SeaLife Base: Technical fact sheet.
-
-

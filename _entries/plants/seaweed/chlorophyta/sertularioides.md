@@ -2,7 +2,7 @@
 title: Delicate feathery green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broad, feathery, seaweed, weed, green, caulerpa, sertularioides, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,47 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg"
+  caption: |
+    <p>Cylindrical 'branches' on a narrow central 'stem'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/040620skdd0693m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/040620skdd0693m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/070408sntg8562m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/070408sntg8562m3a.jpg"
+  caption: |
+    <p>Turns transparent after releasing spores?</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/201019cnyrk5.jpg"
+  caption: |
+    <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158588709952906&set=a.10158588678307906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/230608tmftvc5.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159819235977945&set=a.10159819328632945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/210429hntvc6.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437643072945&set=a.10158431262127945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/200626tptvc7.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/200626tptvc7a.jpg"
+  caption: |
+    <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750325112945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/100130brkd8660m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,20 +114,9 @@ to be edible, to have antibacterial, antifungal and antitumor properties,
 and to be used to treat high blood pressure and goiter. However, some *Caulerpa* species produce toxins to protect themselves from
 browsing fish. This also makes them toxic to humans.   
 
-*![](sertularioides/050621skdg7890m3.jpg)  
-Pulau Sekudu, Jun 05  
-![](sertularioides/050621skdg7890m3a.jpg)*Cylindrical
-'branches'   
-on a narrow central 'stem'.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](sertularioides/040620skdd0693m3.jpg)  
-Pulau Sekudu, Jun 04  
-![](sertularioides/040620skdd0693m3a.jpg)*
 
-*![](sertularioides/070408sntg8562m3.jpg)  
-Sentosa, Apr 07  
-![](sertularioides/070408sntg8562m3a.jpg)*Turns
-transparent after releasing spores?
 
 ---
 
@@ -105,27 +135,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](sertularioides/201019cnyrk5.jpg)  
-Coney Island, Oct 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158588709952906&set=a.10158588678307906).
 
-*![](sertularioides/230608tmftvc5.jpg)  
-Tanah Merah Ferry Terminal, Jun 23*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159819235977945&set=a.10159819328632945).
 
-*![](sertularioides/210429hntvc6.jpg)  
-Pulau Hantu, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158437643072945&set=a.10158431262127945).
 
 ---
 
-*![](sertularioides/200626tptvc7.jpg)  
-Terumbu Pempang Tengah, Jun 20  
-![](sertularioides/200626tptvc7a.jpg)*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157750325112945&set=a.10157750324127945&type=3&theater).
 
 ---
 
-*![](sertularioides/100130brkd8660m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](sertularioides/100130brkd8660m3a.jpg)*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grunter, perch, fish, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Terapontidae
 genus: ""
 species: ""
@@ -17,6 +17,17 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030518cjd0267m3.jpg"
+  caption: |
+    <p>Juvenile <a href="quadrilineatus">Trumpeter perch</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg"
+  caption: |
+    <p>Juvenile <a href="theraps">Banded perch</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/110730tmftd7695m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,10 +79,8 @@ uses:** Some species of perch are eaten and sold fresh or
 dried and salted. Some larger species of perch are also highly valued
 in sport fishing.
 
-**![](jarbua/110730tmftd7695m3.jpg)  
-[Cresent perch](jarbua) *![](quadrilineatus/030518cjd0267m3.jpg)*Juvenile [Trumpeter perch](quadrilineatus)  
+{% include img-wrap-group.html items=page.page_images %}
   
-*![](theraps/110831tmnbd0741m3.jpg)*Juvenile [Banded perch](theraps)**
 
 ---
 

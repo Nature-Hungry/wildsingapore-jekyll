@@ -2,12 +2,26 @@
 title: Map pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "starry, pufferfish, puffer, fish, arothon, mappa, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Tetraodontidae
 genus: Arothon
 species: mappa
 updated: Nov 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg"
+  caption: |
+    <p>Live one, seen diving.Photo by Toh Chay Hoon from Singapore Biodiversity Records 2019:54-55</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170820kusmn3.jpg"
+  caption: |
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928469953660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/170514bbbrl1a.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 17Photo shared by Russel Low on <a href="https://www.facebook.com/russel.low/posts/10154987102166273">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/200626tptjt1a.jpg"
+  caption: |
+    <p>Found in a large fish trap  Terumbu Pempang Tengah, Jun 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158485724658119&set=a.10158485764693119&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -39,11 +53,7 @@ Nov 2020*
 **Where
 seen?** Sometimes seen by divers. On the intertidal, sometimes seen trapped in large fish traps (bubu). Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
 about 60cm. Body covered with fine prickles. Body whitish covered with a dense network of black, brown or greenish broken lines. Dark and pale streaks radiating outwards from the eyes. Black reticulations below pectoral fins. Black area around anus. Juveniles (around 5cm) seen while diving were black with large yellow spots.
-![](mappa/sbr2019-054-055-mappa.jpg)  
-Live one, seen diving.Photo by Toh Chay Hoon from  
-Singapore Biodiversity Records 2019:54-55
-**![](mappa/170820kusmn3.jpg)**  
- *Kusu Island, Aug 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154928469953660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -51,15 +61,11 @@ Singapore Biodiversity Records 2019:54-55
 
 ---
 
-![](mappa/170514bbbrl1a.jpg)  
- *Beting Bemban Besar, May 17*Photo shared by Russel Low on [facebook](https://www.facebook.com/russel.low/posts/10154987102166273).
  
 
 ---
 
  
-![](mappa/200626tptjt1a.jpg)  
-Found in a large fish trap  *Terumbu Pempang Tengah, Jun 20*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10158485724658119&set=a.10158485764693119&type=3&theater).
 
 ---
 

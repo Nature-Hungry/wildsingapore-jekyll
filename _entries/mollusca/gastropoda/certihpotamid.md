@@ -2,7 +2,7 @@
 title: "Creeper, Bazillion and Horn snails"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cerithiidae, potamididae, batiillariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cerithidae
 genus: How
 species: to
@@ -17,6 +17,35 @@ order: Liliales
 subfamily: Lilioideae
 tribe: Lilieae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9130m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/batillariidae/zonalis/060212sisg4815m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/101226krjd4196m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg"
+  caption: |
+    <p><a href="cerithiidae/obelisk.htm">Plain creeper snails</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/050720sntg9501m3.jpg"
+  caption: |
+    <p><a href="cerithiidae/variegated.htm">Variegated creeper snails</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
+  caption: |
+    <p><a href="potamididae/cingulata.htm">Girlded horn snail</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -64,11 +93,9 @@ Family Batillariidae
 snails](potamididae/potamididae.htm)**  
 Family Potamididae
 
-*![](cerithiidae/obelisk/080509cyrd2908m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](batillariidae/zonalis/060212sisg4815m3.jpg)*
 
-*![](potamididae/obtusa/090816ubnd9130m3.jpg)*
 
 Creeper
 snails are usually smaller   
@@ -81,11 +108,8 @@ Horn
 snails are usually larger  
 than most creeper snails.
 
-*![](cerithiidae/obelisk/081030sntd1463m3a.jpg)*
 
-*![](batillariidae/zonalis/060212sisg4815m3a.jpg)*
 
-*![](potamididae/quadrata/101226krjd4196m3a.jpg)*
 
 Siphonal
 canal at the shell opening is narrow and long and usually upturned
@@ -112,12 +136,8 @@ comparisons**
 
 ---
 
-***![](cerithiidae/plain/080207sisg2290m3.jpg)*  
-[Plain creeper snails](cerithiidae/obelisk.htm)**
 
-***![](cerithiidae/variegated/050720sntg9501m3.jpg)*[Variegated creeper snails](cerithiidae/variegated.htm)**
 
-***![](potamididae/cingulata/070505kusg9136m3.jpg)*[Girlded horn snail](potamididae/cingulata.htm)**
 
 ---
 

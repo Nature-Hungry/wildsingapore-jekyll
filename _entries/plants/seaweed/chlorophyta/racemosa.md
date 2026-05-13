@@ -2,7 +2,7 @@
 title: Oval sea grapes seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,53 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg"
+  caption: |
+    <p>Labrador, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/170723ubnay7.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/081129ecpmlks01m3.jpg"
+  caption: |
+    <p>East Coast, Nov 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snailsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/160124smkegl3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,18 +128,11 @@ makes them toxic to humans.
   
 This seaweed is considered an alien invasive species in the Mediterranean.
 
-![](racemosa/070704jngg1230m3.jpg)  
-*Pulau Jong, Jul 07*![](racemosa/070704jngg1230m3a.jpg)  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](racemosa/110715cyrd6601m3.jpg)  
-*Cyrene Reef, Jul 11*
 
-![](racemosa/050625labd4351m3.jpg)  
-*Labrador, Jun 05*
 
-![](racemosa/050625labd4351m3a.jpg)
 
-![](racemosa/110715cyrd6602m3a.jpg)
 
  *\*Species are difficult to positively identify without close examination
 of internal parts. On this website, they are grouped by external features
@@ -116,26 +156,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](racemosa/170723ubnay7.jpg)  
-*Pulau Ubin, Jul 17* Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3).
 
-![](racemosa/081129ecpmlks01m3.jpg)  
-*East Coast, Nov 08* Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snailsl).
 
-![](racemosa/160124smkegl3.jpg)  
-*Pulau Semakau East, Jan 16*Photo shared by Geraldine Lee on [facebook](https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story).
 
 ---
 
-![](racemosa/100531biod4524m3.jpg)  
-*Pulau Biola, May 10*![](racemosa/100531biod4524m3a.jpg)
 
-![](racemosa/100130brkd8609m3.jpg)  
-*Terumbu Berkas, Jan 10*![](racemosa/100130brkd8609m3a.jpg)
 
-![](racemosa/100810sngd9888m3.jpg)  
-*Pulau Senang, Aug 10*![](racemosa/100810sngd9888m3a.jpg)
 
 ---
 

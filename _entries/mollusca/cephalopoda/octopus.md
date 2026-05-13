@@ -2,7 +2,7 @@
 title: Octopuses
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Octopodidae
 genus: ""
 species: Octopus
@@ -18,6 +18,101 @@ order: Octopoda
 suborder: Incirrata
 superfamily: Octopodoidea
 updated: May 2020
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcephalopods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/060501labd1608m3a.jpg"
+  caption: |
+    <p>Web spreading out along the sides of the tentacle.</p>
+    <p>Labrador, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg"
+  caption: |
+    <p>Hiding in a dead Noble volute shell.</p>
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg"
+  caption: |
+    <p>'Walking' with its head above the ground.</p>
+    <p>Changi, May 09 Armed and Dangerous: An octopus searches for prey mostly at night, spreading out its eight long arms to feel into crevices for crabs, prawns, snails, clams and other such morsels.</p>
+    <p>The highly flexible arms have strong suckers to grip objects so that the octopus can slowly 'creep' over the surface as it stealthily investigates all hiding places (octopuses use jet propulsion when they are in a bigger hurry, see below).</p>
+    <p>The arms also have numerous receptors sensitive to taste and touch.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040801hntd3776m3.jpg"
+  caption: |
+    <p>Using web as a net to trap prey.</p>
+    <p>Pulau Hantu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/070531sisd1525m3a.jpg"
+  caption: |
+    <p>Underside is full of suckers.</p>
+    <p>Sisters Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/081016cyrd0036m3.jpg"
+  caption: |
+    <p>Using jet propulsion to move.</p>
+    <p>Cyrene Reef, Oct 08 Octopuses bite!</p>
+    <p>Although octopuses have a hard beak and a radula (ribbon of teeth), they don't chew their food.</p>
+    <p>Digestive juices are injected into the prey which soften the tissues.</p>
+    <p>Some octopuses can drill a hole through a snail's shell to get at it.</p>
+    <p>Others crush shells and crack crabs with their hard beaks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2768m3.jpg"
+  caption: |
+    <p>These three photos are of the same animal ..</p>
+    <p>Sentosa, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2771m3.jpg"
+  caption: |
+    <p>...</p>
+    <p>taken minutes apart.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040718sntd2773m3.jpg"
+  caption: |
+    <p>...with rapid colour and texture changes!</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840m3.jpg"
+  caption: |
+    <p>Inking - octopus is perfectly camouflaged with the sand.</p>
+    <p>Cyrene, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/120330cyrd4840.jpg"
+  caption: |
+    <p>The ink coagulated a distance away, distracting from the octopus.</p>
+    <p>Cyrene, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050720sntd5063m6la.jpg"
+  caption: |
+    <p>A pair of mating octopuses, one pale and the other dark.</p>
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/120506sisd1212m3.jpg"
+  caption: |
+    <p>Tiny octopus among seaweeds.</p>
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg"
+  caption: |
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg"
+  caption: |
+    <p>Carrying eggs?</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/040703sisd1656m3.jpg"
+  caption: |
+    <p><a href="reefoctopus.htm">Reef octopus</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/reefoctopus/050822cjg2201m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/050428cftg5299m3.jpg"
+  caption: |
+    <p><a href="bigseagrass.htm">Big-head seagrass octopus</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/071001chgd6697m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/060726chgd4943m3.jpg"
+  caption: |
+    <p><a href="slenderseagrass.htm">Slender seagrass octopus</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/slenderseagrass/130624chgd7833m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2b.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shares by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764485833158&set=a.10158764488663158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/octopusnoid/201115tkklks2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shares by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764485998158&set=a.10158764488663158">facebook</a>.</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -28,7 +123,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngcephalopods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -75,21 +170,6 @@ a hunter with many tricks. Among its formidable weapons is its brain!
 The octopus is in fact considered the smartest known invertebrate.
 It has a well-developed brain and excellent eyesight. Studies show
 that the octopus can learn, not only by itself but also from one another!
-![](reefoctopus/060501labd1608m3a.jpg)  
-Web spreading out along the sides of the tentacle. *Labrador, May 06*
-![](bigseagrass/130624chg7d7811.jpg)  
-Hiding in a dead
-Noble volute shell. *Changi, Jun 13*
-![](bigseagrass/090525chgd2387m3.jpg)  
-'Walking' with its head above the ground. *Changi, May 09*
-**Armed and Dangerous:** An octopus
-searches for prey mostly at night, spreading out its eight long arms
-to feel into crevices for crabs, prawns, snails, clams and other such
-morsels. The highly flexible arms have strong suckers to grip objects
-so that the octopus can slowly 'creep' over the surface as it stealthily
-investigates all hiding places (octopuses use jet propulsion when
-they are in a bigger hurry, see below). The arms also have numerous
-receptors sensitive to taste and touch.   
   
 The arms are joined together near the head with webbing. An octopus
 uses this webbing like a net. For example, to envelope a little mound
@@ -97,17 +177,6 @@ of rubble where some small titbit might be hiding. When the prey attempts
 to escape, it is literally surrounded by octopus! Prey is killed with
 a bite of its sharp, hard beak. It is often then hauled back to the
 octopus' den for a leisurely meal.
-*![](reefoctopus/040801hntd3776m3.jpg)*Using
-web as a net to trap prey. *Pulau Hantu, Aug 04*
-*![](reefoctopus/070531sisd1525m3a.jpg)*Underside is full of suckers. *Sisters Island, May 07*
-![](reefoctopus/081016cyrd0036m3.jpg)  
-Using jet propulsion
-to move. *Cyrene Reef, Oct 08* 
-**Octopuses bite!** Although octopuses
-have a hard beak and a radula (ribbon of teeth), they don't chew their
-food. Digestive juices are injected into the prey which soften the
-tissues. Some octopuses can drill a hole through a snail's shell to
-get at it. Others crush shells and crack crabs with their hard beaks.   
   
 **Not
 cuddly:** Octopuses
@@ -124,14 +193,8 @@ additional hearts, each pumping extra blood through the gills. Its
 blood is blue due to concentrations of copper-based pigments that
 transport oxygen.
 
-![](reefoctopus/040718sntd2768m3.jpg)  
-These three photos are of the same animal .. *Sentosa, Jul 04*
 
-![](reefoctopus/040718sntd2771m3.jpg)  
-... taken minutes apart.
 
-![](reefoctopus/040718sntd2773m3.jpg)  
-...with rapid colour and texture changes!
 
 **Shell-less but not helpless:** Unlike
 most other molluscs, the octopus does not have a shell at all. This
@@ -152,12 +215,7 @@ disorient predators. The ink may contain substances that affect the
 senses of other sea creatures. In the clouded water, the octopus makes
 its getaway.
 
-![](reefoctopus/120330cyrd4840m3.jpg)  
-Inking - octopus is perfectly camouflaged   
-with the sand. *Cyrene, Mar 12*
 
-![](reefoctopus/120330cyrd4840.jpg)  
-The ink coagulated a distance away, distracting from the octopus. *Cyrene, Mar 12*
 
 **Octopus
 babies:** Octopuses have separate genders. To mate, the male
@@ -169,19 +227,10 @@ In most octopus species, the eggs are laid in capsules attached to
 hard surfaces. Here are some photos of [cephalopod
 egg capsules](cepeggs.htm).
 
-*![](reefoctopus/050720sntd5063m6la.jpg)*A pair of mating octopuses,   
-one pale and the other dark. *Sentosa, Jul 05*
 
-![](octopusnoid/120506sisd1212m3.jpg)  
-Tiny octopus among seaweeds. *Sisters Island, May 12*
 
-![](bigseagrass/080801chgd8632m3.jpg)  
- *Changi, Jul 09*
 
-![](bigseagrass/080801chgd8632m3a.jpg)  
-Carrying eggs?
 
-![](bigseagrass/080801chgd8632m3b.jpg)
 
 **Good mama:**  In bottom-dwelling octopuses, the female looks after her eggs; keeping
 them oxygenated, free of algae and bacteria, and defending them from
@@ -212,17 +261,8 @@ on Singapore shores**
 
 ---
 
-**![](reefoctopus/040703sisd1656m3.jpg)  
-[Reef octopus](reefoctopus.htm)  
-![](reefoctopus/050822cjg2201m3.jpg)**
 
-**![](bigseagrass/050428cftg5299m3.jpg)  
-[Big-head seagrass octopus](bigseagrass.htm)  
-![](bigseagrass/071001chgd6697m3.jpg)**
 
-**![](slenderseagrass/060726chgd4943m3.jpg)  
-[Slender seagrass octopus](slenderseagrass.htm)  
-![](slenderseagrass/130624chgd7833m3.jpg)**
 
 ---
 
@@ -230,10 +270,6 @@ on Singapore shores**
 
 ---
 
-![](octopusnoid/201115tkklks2b.jpg)  
-*Pulau Tekukor, Nov 20*Photo shares by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158764485833158&set=a.10158764488663158).
-![](octopusnoid/201115tkklks2.jpg)  
-*Pulau Tekukor, Nov 20*Photo shares by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158764485998158&set=a.10158764488663158).
 
 ---
 

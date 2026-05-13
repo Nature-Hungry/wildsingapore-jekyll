@@ -2,7 +2,7 @@
 title: Banded hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, hermit, crab, pseudopaguristes, monoporus, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Pseudopaguristes
@@ -21,6 +21,31 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050806skdg0582m3b.jpg"
+  caption: |
+    <p>Eye stalks banded blue and orange.</p>
+    <p>Pulau Sekudu, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3.jpg"
+  caption: |
+    <p>Right pincer larger.</p>
+    <p>Sentosa, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/110120pgllks.JPG"
+  caption: |
+    <p>Punggol, Jan 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/01/punggol-shore-is-alivel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/200113chgmn2.jpg"
+  caption: |
+    <p>Changi, Jan 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156972764993660&set=a.10156972764058660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/200921chgwvc3.jpg"
+  caption: |
+    <p>Changi West, Sep 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157963792382945&set=a.10157963789392945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/150705skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 15 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19237168234/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/030814skdd0062m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -61,14 +86,9 @@ in bands. Short antennae banded orange-bright blue with orange feathery
 tips. Eyestalks banded orange-bright blue-orange. Long antenna banded
 maroon or dark brown with white dots.
 
-*![](banded/030814skdd0062m3.jpg)  
-Pulau Sekudu, Aug 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](banded/050806skdg0582m3b.jpg)*Eye stalks
-banded blue and orange. *Pulau Sekudu, Aug 05*
 
-*![](banded/050113sntg2834m3.jpg)*Right pincer larger.   
-*Sentosa, Jan 05*
 
  *\*Species are
 difficult to positively identify without close examination.  
@@ -91,21 +111,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](banded/110120pgllks.JPG)  
-Punggol, Jan 11*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/01/punggol-shore-is-alivel).
 
-*![](banded/200113chgmn2.jpg)  
-Changi, Jan 20*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156972764993660&set=a.10156972764058660&type=3&theater).
 
-*![](banded/200921chgwvc3.jpg)**Changi West, Sep 20*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157963792382945&set=a.10157963789392945).
 
 ---
 
-*![](banded/150705skdmn.jpg)* *Pulau Sekudu, Jul 15*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/19237168234/).
 
 [links](../../../../links)
 | [references](../../../../references)

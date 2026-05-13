@@ -2,7 +2,7 @@
 title: Starry leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "starry, leathery, sinularia, brassica, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Alcyoniidae
 genus: ""
 species: Sinularia
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7099m3.jpg"
+  caption: |
+    <p>8 short fat branched tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8623m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100130brkd8625m3.jpg"
+  caption: |
+    <p>Many fat, spindle shaped structures embedded in the common tissue .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8741m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/120409tptd8746m3a.jpg"
+  caption: |
+    <p>Spindles sticking out of torn common tissue.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0034m3b.jpg"
+  caption: |
+    <p>Tiny spots give the common tissue a 'crystalline' appearance.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0305m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/050725labg0302m3.jpg"
+  caption: |
+    <p>Tiny transparent star-like polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3g.jpg"
+  caption: |
+    <p>Tuas, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/031223tused0033m3i.jpg"
+  caption: |
+    <p>Polyps appear on lumps or tubular extensions.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/170113tkkmn.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154298085208660.1073741910.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/160806tpllks6a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154410920623158&set=a.10154410914668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6981m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/091231biod6980m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8806m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/100131slud8808m3c.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letstar/110717tbd7097m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -72,39 +137,14 @@ during daylight visits.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-![](letstar/110717tbd7097m3.jpg)  
-*Terumbu Bemban, Jul 11*  
-![](letstar/110717tbd7099m3.jpg)  
-8 short fat branched tentacles.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](letstar/100130brkd8623m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](letstar/100130brkd8625m3.jpg)  
-Many fat, spindle shaped structures  
-embedded in the common tissue
-.
 
-*![](letstar/120409tptd8741m3.jpg)  
-Terumbu Pempang Tengah, Apr 12  
-![](letstar/120409tptd8746m3a.jpg)*Spindles
-sticking out of torn common tissue.
 
 ---
 
-*![](letstar/031223tused0034m3.jpg)  
-Tuas, Dec 03![](letstar/031223tused0034m3b.jpg)*Tiny
-spots give the common tissue  
-a 'crystalline' appearance.
 
-*![](letstar/050725labg0305m3.jpg)  
-Labrador, Jul 05  
-![](letstar/050725labg0302m3.jpg)*Tiny
-transparent star-like polyps.
 
-*![](letstar/031223tused0033m3g.jpg)  
-Tuas, Dec 03  
-![](letstar/031223tused0033m3i.jpg)*Polyps
-appear on lumps or tubular extensions.
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience
@@ -127,27 +167,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](letstar/170113tkkmn1.jpg)  
-Pulau Tekukor, Jan 17  
-![](letstar/170113tkkmn.jpg)*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154298085208660.1073741910.624178659&type=3).
 
-*![](letstar/160806tpllks6.jpg)  
-Terumbu Pempang Laut, Aug 16
   
-![](letstar/160806tpllks6a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154410920623158&set=a.10154410914668158&type=3&theater).
 
-*![](letstar/091231biod6981m3.jpg)  
-Pulau Biola, Dec 09  
-![](letstar/091231biod6980m3.jpg)*
 
 ---
 
-*![](letstar/100131slud8806m3.jpg)  
-Terumbu Salu, Jan 10*
 
-*![](letstar/100131slud8808m3a.jpg)*
 
-*![](letstar/100131slud8808m3c.jpg)*
 
 ---
 

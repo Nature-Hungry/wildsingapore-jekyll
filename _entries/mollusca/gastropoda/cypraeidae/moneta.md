@@ -2,7 +2,7 @@
 title: "Money cowrie "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "money, cowrie, cypraeidae, cypraea, monetaria, moneta, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cypraeidea
 genus: Monetaria
 species: moneta
@@ -17,6 +17,38 @@ order: Ericales
 subfamily: Myrsinoideae
 section: Nummularia
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg"
+  caption: |
+    <p>Cyene Reef, Jun 19Photo shared by Victor Toh on <a href="https://www.facebook.com/photo.php?fbid=10157519928947743&set=a.10157519902457743&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrrl1.jpg"
+  caption: |
+    <p>Cyene Reef, Jun 19Photo shared by Russel Low on <a href="https://www.facebook.com/pg/singaporereefwatch/photos/?tab=album&album_id=2421957154522329">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3.jpg"
+  caption: |
+    <p>Cyene Reef, Jun 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3a.jpg"
+  caption: |
+    <p>Cyene Reef, Jun 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrm3b.jpg"
+  caption: |
+    <p>Cyene Reef, Jun 19</p>
+- url: "https://live.staticflickr.com/31337/48105665873_396f96f416_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/48105665873/in/photolist-2ghW7ui-2ghVSf9-2ghWtS7-2ghW8v1 "Money cowrie (Monetaria moneta)?")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks1.jpg"
+  caption: |
+    <p>Cyene Reef, Apr 21Photos shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159105377828158&set=a.10159105307863158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks2.jpg"
+  caption: |
+    <p>Foot</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks3.jpg"
+  caption: |
+    <p>Underside of shell with 'teeth'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/210403cyrlks4.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -51,22 +83,12 @@ seen?** This
 squat cowrie was seen once at Cyrene. It is was previously known as *Cypraea moneta.* Called 'money cowry' because in the past, the shells were used as currency in the Pacific and Indian Ocean. **Features:** 2-3cm. Shell rather irregular in shape, almost hexagonal, yellowish white with dark smudges around the humped up middle part of the shell. Underside plain white (no markings) without
 coloured 'teeth'. The living animal has a translucent mantle with a pattern of fine dark bars and short translucent 'hairs'.
 
-![](moneta/190621cyrvt1.jpg)  
-*Cyene Reef, Jun 19*Photo shared by Victor Toh on [facebook](https://www.facebook.com/photo.php?fbid=10157519928947743&set=a.10157519902457743&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](moneta/190621cyrrl1.jpg)  
-*Cyene Reef, Jun 19*Photo shared by Russel Low on [facebook](https://www.facebook.com/pg/singaporereefwatch/photos/?tab=album&album_id=2421957154522329).
 
-![](moneta/190621cyrm3.jpg)  
-*Cyene Reef, Jun 19*
 
-![](moneta/190621cyrm3a.jpg)  
-*Cyene Reef, Jun 19*
 
-![](moneta/190621cyrm3b.jpg)  
-*Cyene Reef, Jun 19*
 
-[![Money cowrie (Monetaria moneta)?](https://live.staticflickr.com/31337/48105665873_396f96f416_z.jpg)](https://www.flickr.com/photos/wildsingapore/48105665873/in/photolist-2ghW7ui-2ghVSf9-2ghWtS7-2ghW8v1 "Money cowrie (Monetaria moneta)?")
 
 ---
 
@@ -85,16 +107,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](moneta/210403cyrlks1.jpg)  
-*Cyene Reef, Apr 21*Photos shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159105377828158&set=a.10159105307863158).
 
-![](moneta/210403cyrlks2.jpg)  
-Foot
 
-![](moneta/210403cyrlks3.jpg)  
-Underside of shell with 'teeth'.
 
-![](moneta/210403cyrlks4.jpg)
  
  
 

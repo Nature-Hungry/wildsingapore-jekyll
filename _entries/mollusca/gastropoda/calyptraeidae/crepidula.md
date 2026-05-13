@@ -2,7 +2,7 @@
 title: Flat slipper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, slipper, siphopatella, crepidula, walshi, clyptraea, crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Calyptraeidae
 genus: Siphopatella
 species: walshi
@@ -16,6 +16,29 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg"
+  caption: |
+    <p>The smaller shell is usually the male.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg"
+  caption: |
+    <p>Changi, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/210402tmskvc3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158381220617945&set=a.10158381328717945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,25 +83,14 @@ confused with limpets** which are also gastropods but which
 can move about. Here's more on [how
 to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.htm).
 
-*![](crepidula/050315cjd1823m3.jpg)  
-Chek Jawa, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](crepidula/050315cjd1823m3a.jpg)* The
-smaller shell is usually the male.
 
-*![](../../../crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg)  
-Changi, Apr 05*
 
 ---
 
-*![](../../../crustacea/othercrust/anomura/hermit/veryhairy/101224sisd4096m3.jpg)  
-Sisters Island, Jan 11*
 
-![](crepidula/130923tmftd3409.jpg)  
-*Tanah Merah, Sep 13*
 
-![](../../../arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg)  
- *Changi, Jul 04*
 
 ---
 
@@ -97,8 +109,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](crepidula/210402tmskvc3.jpg)  
-Terumbu Semakau, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158381220617945&set=a.10158381328717945).
 
 ---
 

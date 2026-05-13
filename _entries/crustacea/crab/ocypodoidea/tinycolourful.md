@@ -2,7 +2,7 @@
 title: Tiny colourful fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106, 112]
 family: Ocypodidae
 genus: ""
@@ -23,6 +23,29 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158833147053158&set=a.10158833162093158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158833147063158&set=a.10158833162093158">facebook</a>.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -33,7 +56,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -62,13 +85,9 @@ and a rather short and stout enlarged pincer is seen in the back mangroves.
 **Features:** Body width 1-1.5cm.
 Body somewhat triangular. Red eyes on a pale or yellow eye stalk.
 
-*![](uca/tinycolourful/090329cjd8662m3a.jpg)* *Chek Jawa, Mar 09*
 
-*![](uca/tinycolourful/110327cjd7979m3.jpg)* *Chek Jawa, Mar 11*
 
-*![](uca/tinycolourful/090329cjd8659m3.jpg)* *Chek Jawa, Mar 09*
 
-*![](uca/tinycolourful/090329cjd8668m3.jpg)**Chek Jawa, Mar 09*
 
  *\*Species are
 difficult to positively identify without close examination.  
@@ -92,11 +111,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](uca/tinycolourful/201216cjlks1.jpg)  
-Chek Jawa, Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158833147053158&set=a.10158833162093158).
 
-*![](uca/tinycolourful/201216cjlks2.jpg)  
-Chek Jawa, Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158833147063158&set=a.10158833162093158).
 
 [links](../../../links)
 | [references](../../../references)

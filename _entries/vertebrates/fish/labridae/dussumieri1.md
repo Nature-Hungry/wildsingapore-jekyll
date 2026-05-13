@@ -2,7 +2,19 @@
 title: "Diamond tuskfishes (Halichoeres dussumieri) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "diamond, tuskfish, wrasse, fish, halichoeres, dussumieri, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jan 06 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/1295897656/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091204pawd5248m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091204pawd5251m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/070902sjitch02m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -31,16 +43,9 @@ info on diamond tuskfishes](dussumieri.htm)
 
 ---
 
-![](dussumieri/070902sjitch02m3.jpg)  
-*St. John's Island, Jan 06*  
-Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/1295897656/).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dussumieri/091204pawd5248m3.jpg)  
-*Pulau Pawai, Dec 09*
 
-![](dussumieri/091204pawd5251m3.jpg)  
-*Pulau Pawai, Dec 09*
 
 back to [general
 info on diamond tuskfishes](dussumieri.htm)

@@ -2,7 +2,7 @@
 title: Flat-spire nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flatspire, flat, spire, nerita, nerite, ilynerita, planospira, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: Nerita
 species: planospira
@@ -17,6 +17,14 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Aug 05</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1009m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,10 +73,7 @@ a thin, brown 'skin' (periostracum) which covers a pink shell with
 dark bands and patches. The flat underside white or beige with a dark blotch at the edge.
 Small notched 'teeth' (4-5) on the straight edge at the shell opening.
 Operculum thick, smooth, glossy, grey or black. Body black.
-*![](planospira/050809lckg1009m3.jpg)  
-Lim Chu Kang, Aug 05*
-![](planospira/050809lckg1011m3.jpg)  
-*Lim Chu Kang, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
  
 **Human uses:** It is occasionally
 collected for food and shellcraft.  

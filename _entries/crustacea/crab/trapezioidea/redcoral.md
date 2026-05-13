@@ -2,7 +2,7 @@
 title: Red coral crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, red, coral, crab, trapezia. cymodoce, trapeziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Trapeziidae
 genus: Trapezia
@@ -24,6 +24,54 @@ zoosubsection: Heterotremata
 superfamily: Trapezioidea
 subfamily: Trapeziinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/201215bsrpvc6.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140894112945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/120507sntspgd1509m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3.jpg"
+  caption: |
+    <p>A pair in a bleaching Cauliflower coral.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100527tmd3504m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/220618tmftky2.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167135088555112&set=a.10167135084985112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/200124sntky1.jpg"
+  caption: |
+    <p>Sentosa Tg.</p>
+    <p>Rimau, Jan 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163510255175112&set=a.10163510237495112&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/240114lazvc2.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160184895407945&set=a.10160174802537945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/250810bsistl1.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10162943031594264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/160209cyrmn3.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100627hntlks1m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/150717smksnml2m3.jpg"
+  caption: |
+    <p>Pulau Semakau South, Jul 15Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/110423tpllks11m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8231m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,20 +123,11 @@ sea star.
 crab is listed as 'Vulnerable' in our Red List of threatened animals
 of Singapore.
 
-![](redcoral/100711cyrd8231m6l.jpg)  
-*Cyrene Reef, Jul 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](redcoral/201215bsrpvc6.jpg)  
-*Sentosa Serapong, Dec 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140894112945&set=a.10158140917142945).
 
 ---
 
-![](redcoral/120507sntspgd1509m3a.jpg)  
-*Sentosa Serapong, May 12*![](redcoral/120507sntspgd1509m3.jpg)
-*![](redcoral/100711cyrd8229m3a.jpg)  
-Cyrene Reef, Jul 10*![](redcoral/100711cyrd8229m3.jpg)  
-A pair in
-a bleaching Cauliflower coral.
  
 
 ---
@@ -108,41 +147,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](redcoral/100527tmd3504m3.jpg)  
-*Tanah Merah, May 10*
 
-![](redcoral/220618tmftky2.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167135088555112&set=a.10167135084985112).
 
 ---
 
-![](redcoral/200124sntky1.jpg)  
-*Sentosa Tg. Rimau, Jan 20*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo.php?fbid=10163510255175112&set=a.10163510237495112&type=3&theater).
 
-![](redcoral/240114lazvc2.jpg)  
-*Lazarus Island, Jan 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160184895407945&set=a.10160174802537945).
 
-![](redcoral/250810bsistl1.jpg)  
-*Big Sisters, Aug 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10162943031594264).
 
 ---
 
-![](redcoral/160209cyrmn3.jpg)  
-*Cyrene Reef, Feb 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section).
 
 ---
 
-![](redcoral/100627hntlks1m3.jpg)  
-*Pulau Hantu, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/bleaching-at-hantul).
 
-![](redcoral/150717smksnml2m3.jpg)  
-*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l).
 
-![](redcoral/110423tpllks11m3.jpg)  
-*Terumbu Pempang
-Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 

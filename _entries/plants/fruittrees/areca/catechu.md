@@ -2,7 +2,7 @@
 title: "Pinang palm "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [8, 18, 20, 21, 36, 82]
 family: Arecaceae
 genus: Areca
@@ -18,6 +18,44 @@ tribe: Areceae
 subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg"
+  caption: |
+    <p>Flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg"
+  caption: |
+    <p>Fruits.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+    <p>- Whitmore, T.</p>
+    <p>C.</p>
+    <p>1998 (2nd edition).</p>
+    <p><a href="http://www.amazon.com/gp/product/0196382424?ie=UTF8&tag=wildsingapo08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0196382424">Palms of Malaya.</a> .</p>
+    <p>White Lotus.</p>
+    <p>136 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -71,27 +109,12 @@ by the Chinese to expel tapeworms and roundworms, to treat diabetes,
 indigestion, lumbago and urinary problems. The Malays use the leaves
 in a treatment for diarrhoea in children.  
 
-![](catechu/091005cjd2240m6l.jpg)  
-*Chek Jawa,
-Oct 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](catechu/091005cjd2244m3a.jpg)  
-Flowers.  
-![](catechu/091005cjd2244m3b.jpg)
 
-![](catechu/091005cjd2244m3c.jpg)  
-Fruits.  
-![](catechu/091005cjd2244m3d.jpg)
 
-![](catechu/091005cjd2246m6l.jpg)  
-*Chek Jawa,
-Oct 09*
 
-![](catechu/091005cjd2247m3a.jpg)
 
-![](catechu/091005cjd2247m3.jpg)  
-*Chek Jawa,
-Oct 09*
 
 ---
 
@@ -109,12 +132,6 @@ Oct 09*
   160pp.
 - Burkill,
   I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Whitmore,
-  T. C. 1998 (2nd edition). [*Palms
-  of Malaya*.](http://www.amazon.com/gp/product/0196382424?ie=UTF8&tag=wildsingapo08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0196382424) . White Lotus. 136 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

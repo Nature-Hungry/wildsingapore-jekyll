@@ -2,7 +2,7 @@
 title: Cardinalfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Apogonidae
 genus: ""
 species: ""
@@ -17,6 +17,40 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Apogonoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg"
+  caption: |
+    <p>Sometimes found in groups.</p>
+    <p>Pulau Hantu, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg"
+  caption: |
+    <p>Brooding eggs in the mouth.</p>
+    <p>Pulau Semakau, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg"
+  caption: |
+    <p>Brooding young in the mouth.</p>
+    <p>Pulau Semakau, Oct 11 Cardinalfish babies: Cardinalfishes are mouth brooders.</p>
+    <p>The fertilised egg mass is kept in the mouth until they hatch in several days' time.</p>
+    <p>Usually it is the male that undertakes this task, but in some species both the male and female do this.</p>
+    <p>What do they eat?</p>
+    <p>As a group they eat a wide variety from small fishes, crabs, prawns and other tiny animals including plankton.</p>
+    <p>Most are more active at night.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg"
+  caption: |
+    <p><a href="margaritophorus">Chequered cardinalfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg"
+  caption: |
+    <p><a href="candystripe">Candystripe cardinalfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg"
+  caption: |
+    <p><a href="candystripe">Candystripe cardinalfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg"
+  caption: |
+    <p><a href="orbicularis">Orbicular cardinalfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg"
+  caption: |
+    <p><a href="melas">Black cardinalfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,20 +103,7 @@ comes from the red colour of many of the species, although they come
 in all colours from yellow to brown and blue. Often found in small
 groups, sheltering among the seagrasses or other hiding places during
 the day.
-![](margaritophorus/031125hntad0022m3.jpg)  
-Sometimes found in groups. *Pulau Hantu, Nov 03*
-![](margaritophorus/111029smkd3106m3b.jpg)  
-Brooding eggs in the mouth. *Pulau Semakau, Oct 11*
-![](margaritophorus/111029smkd3110m3.jpg)  
-Brooding young in the mouth. *Pulau Semakau, Oct 11*
-**Cardinalfish
-babies:** Cardinalfishes are mouth brooders. The fertilised egg mass is kept
-in the mouth until they hatch in several days' time. Usually it is
-the male that undertakes this task, but in some species both the male
-and female do this. **What
-do they eat?** As a group they eat a wide variety from small
-fishes, crabs, prawns and other tiny animals including plankton. Most
-are more active at night.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Some species of cardinalfish
 like the Five-lined Cardinalfish (*Cheilodipterus quinquelineatus*)
@@ -97,21 +118,12 @@ on Singapore shores**
 
 ---
 
-**![](margaritophorus/060130hntg4314m3.jpg)  
-[Chequered cardinalfish](margaritophorus)**
 
-**![](candystripe/110506tmftd0831.jpg)[Candystripe cardinalfish](candystripe)**
 
-![](candystripe/100528tkkd3753m3.jpg)  
-**[Candystripe cardinalfish](candystripe)**
 
 ---
 
-**![](orbicularis/040830hntd5831m3.jpg)  
-[Orbicular cardinalfish](orbicularis)**
 
-**![](melas/100810sngd9986m3.jpg)  
-[Black cardinalfish](melas)**
 
 ---
 

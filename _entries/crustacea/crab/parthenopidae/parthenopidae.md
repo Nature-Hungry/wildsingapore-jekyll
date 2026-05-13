@@ -2,7 +2,7 @@
 title: Elbow crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Parthenopidae
 genus: ""
 species: ""
@@ -23,6 +23,22 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg"
+  caption: |
+    <p>Pincers many times longer than its body.</p>
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg"
+  caption: |
+    <p>Underside of the Domed elbow crab.</p>
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg"
+  caption: |
+    <p><a href="common">Common elbow crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg"
+  caption: |
+    <p><a href="fornicata">Domed elbow crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,12 +83,8 @@ Like other creatures of the intertidal zone, they are affected by
 human activities such as reclamation and pollution. Trampling by careless
 visitors also have an impact on local populations.
 
-*![](common/060502chgg5971m6l.jpg)**Pincers
-many times longer than its body.  
-Changi, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-***![](fornicata/060711chgg6293m3.jpg)***Underside
-of the Domed elbow crab. *Changi, Jul 06*
 
 ---
 
@@ -81,11 +93,7 @@ crabs on Singapore shores**
 
 ---
 
-**![](common/090821chgd9613m3.jpg)  
-[Common elbow crab](common)**
 
-**![](fornicata/060711chgd4013m3.jpg)  
-[Domed elbow crab](fornicata)**
 
 ---
 

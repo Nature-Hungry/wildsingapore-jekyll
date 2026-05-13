@@ -2,7 +2,7 @@
 title: Black whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, whelk, nassarius, pullus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [23, 33, 87, 100, 111, 123]
 family: Nassariidae
 genus: Nassarius
@@ -17,6 +17,27 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg"
+  caption: |
+    <p>Sisters Islands, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4808m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/251206chgerk2a.jpg"
+  caption: |
+    <p>Changi East (Lost Coast).</p>
+    <p>Dec 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/251206chgerk2.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163402757582906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/170820kusmn.jpg"
+  caption: |
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49099105603/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4813m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -53,12 +74,9 @@ is sometimes seen in sandy areas on our Southern shores.
 conical with neat, regular ridges. Shell plain brown or bluish grey often with two smudgy broad darker bands. Underside with a distinctive broad flat white smooth base, a dark blotch
 in the centre and 'teeth' at the shell opening. Body pale. Pperculum
 thin and yellow.
-*![](pullus/060212sisg4813m3.jpg)  
-Sisters Islands, Feb 06* 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pullus/060212sisg4808m3.jpg)*
 
-*![](pullus/060212sisg4807m3.jpg)*
 
 ---
 
@@ -73,14 +91,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pullus/251206chgerk2a.jpg)  
-Changi East (Lost Coast). Dec 25
-![](pullus/251206chgerk2.jpg)*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163402757582906&type=3&ref=embed_post).
  
-*![](pullus/170820kusmn.jpg)  
-Kusu Island, Aug 17*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49099105603/).
 
 ---
 

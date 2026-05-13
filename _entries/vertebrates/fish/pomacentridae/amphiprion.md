@@ -2,7 +2,7 @@
 title: Anemonefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "anemonefish, anemone, fish, pomacentridae, amphiprion, amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pomacentridae
 genus: Amphiprion
 species: ""
@@ -17,6 +17,58 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/magnifica.htm">Magnificent anemone</a>.</p>
+    <p>Terumbu Semakau, Jul 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/mertensii.htm">Merten's carpet anemone</a>.</p>
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/190831kus.jpg"
+  caption: |
+    <p>Stranded at low tide: best to leave it alone.</p>
+    <p>Kusu Island, Aug 19 How do they stay alive in a sea anemone?</p>
+    <p>The anemonefish is believed to develop this immunity slowly.</p>
+    <p>To acclimatise to a host anemone, an anemonefish will at first gingerly swim among the tentacles, touching it with its fins then withdrawing rapidly, in an elaborate dance.</p>
+    <p>Only after some time will the fish be able to dive right in among the tentacles.</p>
+    <p>One theory is that the fish smears mucus from the anemone all over itself.</p>
+    <p>In this way, to the anemone, the fish is just another part of the anemone.</p>
+    <p>Thus the sea anemone doesn't sting the fish.</p>
+    <p>Another theory is that the mucus of the fish (all fishes are covered in mucus) lacks substances that trigger a sea anemone to discharge its stingers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/091205pawlks14m3.jpg"
+  caption: |
+    <p>Fishes of several different sizes in one anemone.</p>
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166045440/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg"
+  caption: |
+    <p>Eggs laid near the host sea anemone.</p>
+    <p>Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention">facebook</a>.</p>
+    <p>Amazing gender switch: Anemonefishes can change their gender.</p>
+    <p>Often, a sea anemone will be home to several anemonefishes of the same species.</p>
+    <p>Usually the largest anemonefish in the group is the female and the next largest is the functioning male (although he is often less than half her size).</p>
+    <p>If the female is removed from the group, the male becomes a female and the next largest becomes the dominant male.</p>
+    <p>In this way, anemonefishes can continue to breed throughout the year.</p>
+    <p>Small anemonefishes are not necessarily younger, just lower in the "pecking order".</p>
+    <p>It is believed they remain small because of the constant harassment by the dominant pair.</p>
+    <p>Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.</p>
+- url: "https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/32960802914/ "Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)") Human uses: Unfortunately, these fishes are taken in large numbers from the wild for the aquarium trade.</p>
+    <p>The harvest may involve the use of cyanide or blasting, which damage the habitat and kill many other creatures.</p>
+    <p>Like other fish and creatures harvested from the wild, most die before they can reach the retailers.</p>
+    <p>Without professional care, most die soon after they are sold.</p>
+    <p>Often of starvation as owners are unable to provide the small creatures and plants that these fishes need to survive.</p>
+    <p>In artificial conditions, many succumb to diseases and poor health.</p>
+    <p>Those that do survive are unlikely to breed.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+  caption: |
+    <p><a href="ocellaris.htm">Clown anemonefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
+  caption: |
+    <p><a href="frenatus.htm">Tomato anemonefish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -92,41 +144,11 @@ disk of the anemone.
   
 The anemonefish may sometimes be seen stranded at low tide near its anemone home. It is probably best to leave it alone and NOT try to 'rescue' it by putting it in a pool of water far away from its anemone home. These fishes are adapted to surviving at low tide and it is best that they are are close as possible to their anemone home when the tide turns. As the water rushes in, so do predators which will quickly eat up a defenceless anemonefish far from its protective anemone.
 
-*![](ocellaris/140713tsmkd7177m3.jpg)*  
-In a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica.htm). *Terumbu Semakau, Jul 14*
-*![](../../../cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg)*In a [Merten's carpet anemone](../../../cnidaria/actiniaria/mertensii.htm). *Terumbu Hantu, Apr 12*
-*![](ocellaris/190831kus.jpg)*  
-Stranded at low tide: best to leave it alone. *Kusu Island, Aug 19*
-**How do they stay alive in a sea anemone?** The anemonefish is believed to develop this immunity slowly. To
-acclimatise to a host anemone, an anemonefish will at first gingerly
-swim among the tentacles, touching it with its fins then withdrawing
-rapidly, in an elaborate dance. Only after some time will the fish
-be able to dive right in among the tentacles. One theory is that
-the fish smears mucus from the anemone all over itself. In this
-way, to the anemone, the fish is just another part of the anemone.
-Thus the sea anemone doesn't sting the fish. Another theory is that
-the mucus of the fish (all fishes are covered in mucus) lacks substances
-that trigger a sea anemone to discharge its stingers.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **What do they eat?** Anemonefishes
 eat mainly plankton. Some also graze algae from the surface or gathered
 from the water.
-![](ocellaris/091205pawlks14m3.jpg)  
-Fishes of several different sizes in one anemone. *Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/4166045440/).
-*![](frenatus/150606trytch2m3.jpg)*Eggs laid near the host sea anemone. *Terumbu Raya, Jun 15*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention).
-**Amazing gender switch:** Anemonefishes
-can change their gender. Often, a sea anemone will be home to several
-anemonefishes of the same species. Usually the largest anemonefish
-in the group is the female and the next largest is the functioning
-male (although he is often less than half her size). If the female is removed from the
-group, the male becomes a female and the next largest becomes the
-dominant male. In this way, anemonefishes can continue to breed
-throughout the year. Small anemonefishes are not necessarily younger,
-just lower in the "pecking order". It is believed they
-remain small because of the constant harassment by the dominant
-pair.
-Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.
   
   
 **Anemonefish babies:** Anemonefishes
@@ -150,17 +172,6 @@ end of the problems for the young fish. If the anemone already has
 resident anemonefishes, the new fish is usually bullied by the residents
 and may even be driven away.
 Pulau Semakau, Apr 17  
-[![Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)](https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg)](https://www.flickr.com/photos/wildsingapore/32960802914/ "Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)")
-**Human uses:** Unfortunately, these
-fishes are taken in large numbers from the wild for the aquarium trade.
-The harvest may involve the use of cyanide or blasting, which damage
-the habitat and kill many other creatures. Like other fish and creatures
-harvested from the wild, most die before they can reach the retailers.
-Without professional care, most die soon after they are sold. Often
-of starvation as owners are unable to provide the small creatures
-and plants that these fishes need to survive. In artificial conditions,
-many succumb to diseases and poor health. Those that do survive are
-unlikely to breed.  
   
 There have been some success in breeding anemonefish for the aquarium
 trade. Although captive bred anemonefish are hardier, they are more
@@ -186,10 +197,7 @@ on Singapore shores**
 
 ---
 
-**![](ocellaris/040605kusbd0077m3.jpg)  
-[Clown anemonefish](ocellaris.htm)**
 
-***![](frenatus/040829kusg1741m3.jpg)*[Tomato anemonefish](frenatus.htm)**
 
 ---
 

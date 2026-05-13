@@ -2,12 +2,27 @@
 title: Lined       whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "whelk, nassarius, teretiusculus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Nassariidae
 genus: Nassarius
 species: teretiusculus*
 attributes: []
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg"
+  caption: |
+    <p>East Coast Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/050711tmg9452m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 05 Clean up crew: At Tanah Merah, several of these tiny snails were seen cleaning out the shell of a recently demised snail, while a hermit crab hung onto the shell, waiting patiently to try out its potential new home!</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg"
+  caption: |
+    <p>Whelks cleaning out a recently dead snail while a hermit crab waits patiently.</p>
+    <p>Tanah Merah, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/110829ecpd0142m3.jpg"
+  caption: |
+    <p>East Coast Park, Aug 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/110829ecpd0140m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -47,19 +62,7 @@ thick conical with regular ridges, and smoother portion
 near the front. Shell pattern pale yellow with fine purple spirals.
 Body pale with white spots, very long siphon and short tentacles.
 Operculum yellow often with a smudged black line.
-![](lined/110829ecpd0140m6la.jpg)  
-*East Coast Park, Aug 11*
-![](lined/050711tmg9452m3.jpg)  
-*Tanah Merah, Jul 05*
-**Clean up crew:** At Tanah Merah, several of these tiny snails were seen cleaning
-out the shell of a recently demised snail, while a hermit crab
-hung onto the shell, waiting patiently to try out its potential
-new home!
-![](../../../crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg)  
-Whelks cleaning out a recently dead snail  
-while a hermit crab waits patiently. *Tanah Merah, Feb 07*
-![](lined/110829ecpd0142m3.jpg)  
-*East Coast Park, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
  
  *\*Identification to
 be confirmed. Species are difficult to positively identify without close

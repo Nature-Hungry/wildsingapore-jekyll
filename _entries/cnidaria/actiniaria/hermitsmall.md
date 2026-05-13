@@ -2,7 +2,7 @@
 title: Small hermit-hitching  anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: ""
 genus: ""
@@ -11,6 +11,52 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg"
+  caption: |
+    <p>With a sea anemone on its shell.</p>
+    <p>Changi, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3.jpg"
+  caption: |
+    <p>Hermit half buried, with its sea anemones.</p>
+    <p>Changi, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070419chgg8762m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070614chgd2117m3.jpg"
+  caption: |
+    <p>Changi, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/070702chgg0904m3.jpg"
+  caption: |
+    <p>Changi, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/091108hntjk2m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Nov 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/11/091107-hantu-pooping-slug.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/140502chgmn.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/140502chgmn2.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14087377034/in/album-72157644515755803/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
+  caption: |
+    <p>East Coast Park, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/160210cyrmn2.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -57,11 +103,9 @@ three of these anemones.
 occupied by hermit crabs. While other anemones [hitch
 a ride on the shell of living snails](snail.htm).
 
-*![](../../crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg)*With a sea anemone on its shell. *Changi, Apr 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hermitsmall/070419chgg8762m3.jpg)*Hermit half buried, with its sea anemones. *Changi, Apr 07*
 
-*![](hermitsmall/070419chgg8762m3a.jpg)*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -84,29 +128,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](hermitsmall/070614chgd2117m3.jpg)* *Changi, Jun 07*
 
-*![](hermitsmall/070702chgg0904m3.jpg)* *Changi, Jul 07*
 
-*![](hermitsmall/091108hntjk2m3.jpg)* *Pulau Hantu, Nov 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091107-hantu-pooping-slug.html).
 
 ---
 
-*![](hermitsmall/140502chgmn.jpg)  
-Changi, May 14![](hermitsmall/140502chgmn2.jpg)*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14087377034/in/album-72157644515755803/).
 
-*![](hermitsmall/150617ecpbsmn2m3.jpg)* *East Coast Park, Jun 15**![](hermitsmall/150617ecpbsmn2m3a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3).
 
 ---
 
-*![](../../crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg)  
-Cyrene Reef, Feb 16![](hermitsmall/160210cyrmn2.jpg)*Photo shared by
-Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660.624178659&type=3).
 
-![](../../crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg)  
- *Cyrene, Jul 25*![](../../crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1a.jpg)  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post).
 
 [links](../../links.htm)
 | [references](../../references.htm)

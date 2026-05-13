@@ -2,7 +2,7 @@
 title: "Turban snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Turbinidae
 genus: ""
 species: ""
@@ -16,6 +16,60 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Oct 2019
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fnggastropods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg"
+  caption: |
+    <p>Sisters Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg"
+  caption: |
+    <p>Two different kinds of turban snails.</p>
+    <p>More easily distinguished by their operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg"
+  caption: |
+    <p>Sometimes, only the operculum is seen on the shore.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg"
+  caption: |
+    <p>Spurred turban snail Cyrene Reef, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg"
+  caption: |
+    <p>Dolphin shell snail Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg"
+  caption: |
+    <p>Ribbed turban snail Labrador, May 05 Sometimes confused with the <a href="../trochidae/trochidae.htm">Top shell snail</a> (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material.</p>
+    <p>While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum.</p>
+    <p>Here's more on <a href="../topturban.htm">how to tell apart turban and top shell snails</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg"
+  caption: |
+    <p><a href="intercostalis.htm">Ribbed turban snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg"
+  caption: |
+    <p>Operculum smooth, green centre with white and yellow margins,</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg"
+  caption: |
+    <p>Spiral ribs smooth without scales.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg"
+  caption: |
+    <p><a href="bruneus.htm">Dwarf turban snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg"
+  caption: |
+    <p>Operculum bumpy, green centre with white and greyish margins.</p>
+    <p>No yellow.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg"
+  caption: |
+    <p>Spiral ribs rough with tiny scales.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
+  caption: |
+    <p><a href="angaria.htm">Dolphin snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
+  caption: |
+    <p><a href="calcar.htm">Spurred turban snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
+  caption: |
+    <p><a href="petholatus.htm">Tapestry turban snail</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -26,7 +80,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fnggastropods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -66,16 +120,8 @@ actually refers to a top, the spinning toy. The shells of are sometimes
 covered in encrusting lifeforms so that the texture and colours are
 hidden.
 
-![](intercostalis/111002sisd2101m3.jpg)  
-*Sisters Island, Oct 11*
 
-![](intercostalis/111002sisd2100m3.jpg)  
-Two different kinds of turban snails.  
-More easily distinguished by their operculum.
 
-![](intercostalis/120620sntd5829m3.jpg)  
-Sometimes, only the operculum  
-is seen on the shore.
 
 **Cat's eye:** In most of the common
 turban snails, the operculum is smooth and hemi-spherical (rounded)
@@ -85,18 +131,6 @@ of the operculum makes it look like a cat's eye so that is what it
 is sometimes called. Although their shells may appear boring and dull, the living animal
 can be in bright shades of green or blue. Under the large shell, peep
 little eyes and long tentacles.
-*![](calcar/120722cyrd8426m3.jpg)*Spurred
-turban snail *Cyrene Reef, Jul 12*
-*![](angaria/091008tmd2543m3.jpg)*Dolphin shell snail *Tanah Merah, Oct 09*
-![](intercostalis/050513labg6474m3.jpg)  
-Ribbed turban
-snail *Labrador, May 05*
-**Sometimes confused with** the [Top
-shell snail](../trochidae/trochidae.htm) (Family Trochidae) has a more pyramidal shell and
-a thin operculum made of a horn-like material. While the turban shell
-snail has a shell with more distinct whorls and a thick, chalky operculum.
-Here's more on [how to tell apart turban
-and top shell snails](../topturban.htm).  
   
 **What do they eat?** Turban shells
 graze the algae that thrive on the rocks, scraping this off with their
@@ -124,37 +158,18 @@ snails on Singapore shores**
 
 ---
 
-![](intercostalis/050513labg6469m3a.jpg)  
-[**Ribbed turban snail**](intercostalis.htm)
 
-![](intercostalis/050513labg6469m3b.jpg)  
-Operculum smooth, green centre with white and yellow margins,
 
-![](intercostalis/050513labg6477m3a.jpg)  
-Spiral ribs smooth without scales.
 
 ---
 
-**![](bruneus/080208hntd9445m3a.jpg)  
-[Dwarf turban snail](bruneus.htm)**
 
-![](bruneus/080208hntd9445m3b.jpg)  
-Operculum bumpy, green centre with  
-white and greyish margins. No yellow.
 
-![](bruneus/080208hntd9446m3b.jpg)  
-Spiral ribs rough with tiny scales.
 
 ---
 
-***![](angaria/100602tmd5119m3.jpg)*  
-[Dolphin snail](angaria.htm)**
 
-**![](calcar/090308blyd7605m3.jpg)  
-[Spurred turban snail](calcar.htm)**
 
-**![](petholatus/150830hntd9887m3.jpg)  
-[Tapestry turban snail](petholatus.htm)**
 
 ---
 

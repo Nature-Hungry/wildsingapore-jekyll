@@ -2,7 +2,7 @@
 title: Common file clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lima, vulgaris, file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Limidae
 genus: Lima
 species: vulgaris
@@ -17,6 +17,56 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg"
+  caption: |
+    <p>Sisters Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3a.jpg"
+  caption: |
+    <p>Foot extended out of the shell.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg"
+  caption: |
+    <p>With tentacles open.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210626cjlks1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210626cjlks1b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159298711098158&set=a.10159298723568158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/091010tmjk3m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/091010tmjk4m3.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4a.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158373656252945&set=a.10158373695697945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210401sntvc4b.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158373656252945&set=a.10158373695697945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/160124smkelks7.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/240725smkntt5.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234701792024164">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210811tryvc3.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641289062945&set=a.10158641345557945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210501tbvc4.jpg"
+  caption: |
+    <p>Terumbu Bemban, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/655472944/videos/a.10158441969957945/10158441854947945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/130628thntlks.JPG"
+  caption: |
+    <p>Terumbu Hantu, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24527357159/in/album-72157664453928665/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519767251/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/210502tptvc9.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594167945&set=a.10158447654442945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,16 +114,9 @@ the shells are used to make ornaments.
 and threats:** This animal is listed as "Vulnerable" on the Red List of threatened animals
 of Singapore.
 
-*![](limidae/120820sisd0717m3.jpg)  
-Sisters Island,
-Aug 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](limidae/120820sisd0881m3a.jpg)  
-Foot extended
-out of the shell.
 
-![](limidae/120820sisd0881m3.jpg)  
-With tentacles open.
 
 ---
 
@@ -92,51 +135,24 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](limidae/210626cjlks1.jpg)  
-Chek Jawa, Jun 21*![](limidae/210626cjlks1b.jpg)  
-Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159298711098158&set=a.10159298723568158).
 
-*![](limidae/091010tmjk3m3.jpg)  
-Tanah Merah, Oct 09*  
-*![](limidae/091010tmjk4m3.jpg)*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/10/tanah-merah-saron.html).
 
 ---
 
-*![](limidae/210401sntvc4a.jpg)  
-Sentosa Tg Rimau, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158373656252945&set=a.10158373695697945).
 
-*![](limidae/210401sntvc4b.jpg)  
-Sentosa Tg Rimau, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158373656252945&set=a.10158373695697945).
 
 ---
 
-*![](limidae/160124smkelks7.jpg)  
-Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
-![](limidae/240725smkntt5.jpg)  
-*Pulau Semakau North, Jul 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234701792024164).
 
 ---
 
-*![](limidae/210811tryvc3.jpg)  
-Terumbu Raya, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158641289062945&set=a.10158641345557945).
 
-*![](limidae/210501tbvc4.jpg)  
-Terumbu Bemban, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/655472944/videos/a.10158441969957945/10158441854947945).
 
 ---
 
-*![](limidae/130628thntlks.JPG)  
-Terumbu Hantu, Jun 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24527357159/in/album-72157664453928665/).
 
-*![](limidae/120721tptlks.JPG)  
-Terumbu Pempang Tengah, Jul 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519767251/in/album-72157626616274147/).
 
-*![](limidae/210502tptvc9.jpg)  
-Terumbu Pempang Tengah, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447594167945&set=a.10158447654442945).
 
 ---
 

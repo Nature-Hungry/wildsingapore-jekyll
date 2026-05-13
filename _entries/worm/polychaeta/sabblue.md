@@ -2,7 +2,7 @@
 title: Blue fanworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Sabellidae
 genus: ""
 species: identification*
@@ -16,6 +16,38 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050721cjd5115m3.jpg"
+  caption: |
+    <p>Chek Jawa , Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/060528bbd2473m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/060528bbd2473m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/251012chgal5.jpg"
+  caption: |
+    <p>Changi, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162242368023693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/180714cjjll4.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo.php?fbid=10155750685241295&set=a.10155750684581295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/230803skdmn2.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159746595503660&set=a.10159746604188660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/240625bbky2.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169627354665112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/blue/050623cjg8275m3.jpg"
 ---
 
 
@@ -49,22 +81,12 @@ Sometimes this fanworm is seen at low tide with the fan still out
 of the tube and the fan 'feathers' stuck together into 'petals' so
 that it looks like a bizarre flower!  
 
-*![](sabellidae/blue/050623cjg8275m3.jpg)  
-Chek Jawa, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sabellidae/blue/050623cjg8275m3c.jpg)
 
-![](sabellidae/blue/050623cjg8275m3b.jpg)
 
-![](sabellidae/blue/050721cjd5115m3.jpg)  
-*Chek Jawa
-, Jul 05*
 
-![](sabellidae/blue/060528bbd2473m3.jpg)  
-*Beting Bronok,
-May 06*
 
-![](sabellidae/blue/060528bbd2473m3a.jpg)
 
   
 *\***Species
@@ -89,14 +111,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sabellidae/blue/251012chgal5.jpg) *Changi, Oct 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162242368023693&type=3&ref=embed_post).
  
  
 
 ---
-
-![](sabellidae/blue/180714cjjll4.jpg) *Chek Jawa, Jul 18*Photo shared by Jianlin LIu on [facebook](https://www.facebook.com/photo.php?fbid=10155750685241295&set=a.10155750684581295&type=3&theater).
-![](sabellidae/blue/230803skdmn2.jpg) *Pulau Sekudu, Aug 23*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10159746595503660&set=a.10159746604188660).
-![](sabellidae/blue/240625bbky2.jpg) *Beting Bronok, Jun 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169627354665112).
-
-

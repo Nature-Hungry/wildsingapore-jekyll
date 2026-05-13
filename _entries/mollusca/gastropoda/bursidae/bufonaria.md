@@ -2,7 +2,7 @@
 title: "Frog snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frog, bufonaria, bursidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Bursidae
 genus: Bufonaria
 species: ""
@@ -16,6 +16,32 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg"
+  caption: |
+    <p>East Coast, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2290m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2297m3a.jpg"
+  caption: |
+    <p>Muscular foot with operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/090723ecplks9m3.jpg"
+  caption: |
+    <p>East Coast, Jul 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/07/lively-east-coast-shore.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17a.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078843158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/180616bblks17.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078843158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/bursidae/bufonaria/081117ecpmd2288m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,17 +91,11 @@ and large salivary glands, that are probably used to anaesthetize
 the worms in their tubes; the worms are then sucked out and swallowed
 whole.
 
-*![](bufonaria/081117ecpmd2288m3.jpg)  
-East Coast, Nov 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bufonaria/081117ecpmd2290m3.jpg)*
 
-*![](bufonaria/090723ecplks9m3.jpg)*
 
-*![](bufonaria/081117ecpmd2297m3.jpg)*
 
-![](bufonaria/081117ecpmd2297m3a.jpg)  
-Muscular foot with operculum.
 
 ---
 
@@ -94,15 +114,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bufonaria/090723ecplks9m3.jpg)  
-East Coast, Jul 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/lively-east-coast-shore.html).
 
-*![](bufonaria/180616bblks17a.jpg)  
-Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450078843158&set=a.10156450071873158&type=3&theater).
 
-*![](bufonaria/180616bblks17.jpg)  
-Beting Bronok, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450078843158&set=a.10156450071873158&type=3&theater).
 
 ---
 

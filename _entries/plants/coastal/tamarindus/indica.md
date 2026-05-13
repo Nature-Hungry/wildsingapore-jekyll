@@ -2,7 +2,7 @@
 title: "Asam tree "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "asam, tamarind, tamarindus, indica, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 37]
 family: Fabaceae
 genus: Tamarindus
@@ -17,6 +17,69 @@ order: Fabales
 subfamily: Detarioideae
 tribe: Amherstieae
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0298m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0298m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0292m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0296m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0302m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0295m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0287m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrkd0287m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/091213ubnd5782m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/091213ubnd5782m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Tee Swee Ping and Wee Mei Lynn (eds).</p>
+    <p>2001.</p>
+    <p>Trees of our Garden City.</p>
+    <p>National Parks Board.</p>
+    <p>202 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/tamarindus/indica/090419chgcrko0374m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -101,32 +164,19 @@ tree with [Heritage
 Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79). It is at Surin Ave Park with a girth of 3.5m and
 height 22m.
 
-![](indica/090419chgcrko0374m6l.jpg)  
-*Changi, Apr
-09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](indica/090419chgcrkd0298m3.jpg)  
   
-![](indica/090419chgcrkd0298m3a.jpg)*
 
-*![](indica/090419chgcrkd0292m3.jpg)*
 
-*![](indica/090419chgcrkd0296m3a.jpg)*
 
-*![](indica/090419chgcrkd0302m3.jpg)*
 
-*![](indica/090419chgcrkd0295m3a.jpg)*
 
-*![](indica/090419chgcrkd0287m3.jpg)*
 
-*![](indica/090419chgcrkd0287m3a.jpg)*
 
 ---
 
-*![](indica/091213ubnd5782m3.jpg)  
-Pulau Ubin, Dec 09*
 
-*![](indica/091213ubnd5782m3a.jpg)*
 
 ---
 
@@ -140,21 +190,6 @@ Pulau Ubin, Dec 09*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Tee Swee
-  Ping and Wee Mei Lynn (eds). 2001. *Trees of our Garden City*.
-  National Parks Board. 202 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

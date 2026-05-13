@@ -2,7 +2,7 @@
 title: Zebrafish sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Stichopodidae
 genus: Stichopus
@@ -16,6 +16,23 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10154373785068158.1073741920.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg"
+  caption: |
+    <p>Large conical bumps with dark stripes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg"
+  caption: |
+    <p>Flat underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg"
+  caption: |
+    <p>Short tube feet in three broad rows.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg"
+  caption: |
+    <p>Short tube feet.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg"
 ---
 
 
@@ -45,20 +62,11 @@ tube feet appearing in three rows along the body length. Mouth is downward facin
 **Human uses:** According to the [IUCN
 Red List](http://www.iucnredlist.org/details/180545/0): "It is commercially harvested through out much of its range. Although this species is of current low value in fisheries, it can be expected that this species may become more popular after the depletion or reduction of other species of higher commercial importance and value. There is a subsistence fishery in Palau targeting gonads and/or intestines. The species is heavily exploited in Indonesia."
 
-*![](vastus/160723smkelks3.jpg)  
-Pulau Semakau, Jul 16*  
-Photo by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10154373785068158.1073741920.547198157&type=3).
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](vastus/160723smkelks4a.jpg)*Large conical bumps with dark stripes.
 
-*![](vastus/160723smkelks2.jpg)*  
-Flat underside.
 
-![](vastus/160723smkelks1.jpg)  
-Short tube feet in three broad rows.
 
-*![](vastus/160723smkelks1a.jpg)*  
-Short tube feet.
 
 ---
 
@@ -82,5 +90,3 @@ Short tube feet.
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

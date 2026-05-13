@@ -2,7 +2,7 @@
 title: Marbled sea snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snake, marbled, aipysurus, eydouxii, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Elapidae
 genus: Aipysurus
 species: eydouxii
@@ -18,6 +18,36 @@ suborder: Serpentes
 subfamily: Hydrophiinae
 tribe: Hydrophiini
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjcpd01091m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00711m3.jpg"
+  caption: |
+    <p>Writhing and turning upside down.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/250528ch7ky1.jpg"
+  caption: |
+    <p>A piece of one on the intertidal.</p>
+    <p>Changi Carpark 7, May 2025 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172175603920112&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/100614bbtch9m6l.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/150802bblks2m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/140616bbmn1m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/130526chglks.JPG"
+  caption: |
+    <p>Changi, May 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/05/long-stretch-of-changi-shore-with-lotsl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/eydouxii/020810cjd00881m3.jpg"
 ---
 
 
@@ -58,20 +88,11 @@ eat only fish eggs.
   
 **Marbled babies:** Mama snake bears
 live young.
-*![](eydouxii/020810cjd00881m3.jpg)  
-Chek Jawa, Aug 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](eydouxii/020810cjcpd01091m3.jpg)*
 
-*![](eydouxii/020810cjcpd01091m3a.jpg)  
-Chek Jawa, Aug 02*
 
-*![](eydouxii/020810cjd00711m3.jpg)*Writhing
-and turning upside down.
 
-*![](eydouxii/250528ch7ky1.jpg)*A piece of one on the intertidal.  
-Changi Carpark 7, May 2025  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172175603920112&type=3).
 
 ---
 
@@ -86,19 +107,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](eydouxii/100614bbtch9m6l.jpg)  
-*Beting Bronok, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
-*![](eydouxii/150802bblks2m3.jpg)  
-Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
 ---
 
-*![](eydouxii/140616bbmn1m3.jpg)**Beting Bronok, Jun 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1).
 
-![](eydouxii/130526chglks.JPG)  
-*Changi, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/05/long-stretch-of-changi-shore-with-lotsl).
 
 ---
 
@@ -132,5 +145,3 @@ Beting Bronok, Aug 15*Photo shared by Loh Kok Sheng on [his blog](http://wonderc
 - Stuebing,
   Robert B and Robert F. Inger. 1999. *A
   Field Guide to the Snakes of Borneo* Natural History Publications (Borneo). 254 pp.
-
-

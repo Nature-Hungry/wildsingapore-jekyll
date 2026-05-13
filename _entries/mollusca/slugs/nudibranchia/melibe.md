@@ -2,7 +2,7 @@
 title: Melibe nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "melibe, viridis, tethydidae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Tethydidae
 genus: Melibe
 species: viridis
@@ -20,6 +20,47 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg"
+  caption: |
+    <p>With hood (oral veil) expanded.</p>
+    <p>Cyrene Reef, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrm3.jpg"
+  caption: |
+    <p>Sensitive hairs on the inner edge of the oral veil.</p>
+    <p>Cyrene Reef, Jun12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0979m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080410cyrd0995m3.jpg"
+  caption: |
+    <p>Swims upside down.</p>
+    <p>Cyrene Reef, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/090310tusd7857m3.jpg"
+  caption: |
+    <p>Tuas, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/081114cyrlks04m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080608cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2560059755/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 12 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7429305804/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120621cyrjk1m3.jpg"
+  caption: |
+    <p>Sensitive hairs on the inner edge of the oral veil.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/120819cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519782821/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn1.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/10670618993/in/album-72157637303861923/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/131104smkmn2.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/10681259485/in/album-72157637303861923/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/melibe/080721cyrd8148m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,16 +115,11 @@ clips](melibev1.htm) of the hood in action, and the animal swimming.
 Its foot is said to be better suited to clinging to seaweeds and seagrasses
 than for creeping along the ground.
 
-*![](melibe/080721cyrd8148m6l.jpg)*With hood (oral veil) expanded. *Cyrene Reef, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](melibe/120621cyrm3.jpg)*Sensitive hairs on the inner edge of the oral veil. *Cyrene Reef, Jun12*
 
-*![](melibe/080410cyrd0979m3.jpg)  
-Cyrene Reef, Apr 08*
 
-*![](melibe/080410cyrd0995m3.jpg)*Swims upside down. *Cyrene Reef, Apr 08*
 
-*![](melibe/090310tusd7857m3.jpg)* *Tuas, Mar 09*
 
 ---
 
@@ -102,33 +138,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](melibe/081114cyrlks04m3.jpg)  
-Cyrene Reef, Nov 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrene.html).
 
-*![](melibe/080608cyrmn.jpg)**Cyrene Reef, Jun 08*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/2560059755/).
 
 ---
 
-*![](melibe/120621cyrjk1m6l.jpg)* *Cyrene
-Reef, Jun 12*  
-Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/7429305804/)
-![](melibe/120621cyrjk1m3.jpg)  
-Sensitive hairs on the inner edge of the oral veil.  
 
 ---
 
-*![](melibe/120819cyrlks.JPG)**Cyrene Reef, Aug 12*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519782821/in/album-72157607718672165/).
 
 ---
 
-*![](melibe/131104smkmn1.jpg)  
-Pulau Semakau, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/10670618993/in/album-72157637303861923/).
 
-*![](melibe/131104smkmn2.jpg)  
-Pulau Semakau, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/10681259485/in/album-72157637303861923/).
 
 ---
 

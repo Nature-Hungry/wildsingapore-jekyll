@@ -2,7 +2,7 @@
 title: Carpet corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 102]
 family: Discosomidae
 genus: Rhodactis
@@ -15,6 +15,56 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg"
+  caption: |
+    <p>Sisters Islands, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg"
+  caption: |
+    <p>Underside smooth and brown, edge fringed with short tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3b.jpg"
+  caption: |
+    <p>Upturned mouth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3a.jpg"
+  caption: |
+    <p>Each tentacle appears to be branched at the tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg"
+  caption: |
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3a.jpg"
+  caption: |
+    <p>Can retract into the body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3b.jpg"
+  caption: |
+    <p>Tips rounded often white.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5116m3a.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5117m3b.jpg"
+  caption: |
+    <p>Unidentifed purple strings: eggs?</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8601m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8602m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100403tbbjk1m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Apr 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100519tsmjk5m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,14 +104,9 @@ on many of our Southern shores, on coral rubble.
 in diameter. Sometimes seen in large numbers, carpeting an area of
 30-50cm square.
 
-*![](carpet/031224sisd0121m3.jpg)  
-Sisters Islands, Dec 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](carpet/031224sisd0126m3.jpg)*Underside smooth and brown,  
-edge fringed with short tentacles.
 
-![](carpet/031224sisd0121m3b.jpg)  
-Upturned mouth.
 
 Each polyp has lots of short, thin tentacles that densely cover the
 oral disk, so that the entire group of animals appears to be a living
@@ -80,25 +125,12 @@ A study found that *Rhodactis indosinensis* can also look like [White-tip corall
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-*![](carpet/070701hntg0879m3.jpg)  
-Pulau Hantu, Jul 07*
 
-*![](carpet/070701hntg0879m3a.jpg)*Each tentacle appears to be   
-branched at the tips.
 
 ---
 
-*![](carpet/120506sisd1112m3.jpg)  
-Sisters Island, May 12  
-![](carpet/120506sisd1112m3a.jpg)*Can retract into the body column.
 
-*![](carpet/080510smkd3053m3.jpg)  
-Pulau Semakau, May 08  
-![](carpet/080510smkd3053m3b.jpg)*Tips rounded often white.
 
-*![](carpet/120609tsmkd5116m3a.jpg)  
-Terumbu Semakau, Jun 12  
-![](carpet/120609tsmkd5117m3b.jpg)*Unidentifed purple strings: eggs?
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -122,23 +154,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](carpet/100130brkd8601m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](carpet/100130brkd8602m3a.jpg)*
 
 ---
 
-*![](carpet/100403tbbjk1m3.jpg)  
-Beting Bemban Besar, Apr 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html).
 
-*![](carpet/100519tsmjk5m3.jpg)*  
- *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html).
 
-*![](carpet/250812tbmn3.jpg)*  
- *Terumbu Bemban, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post).
   
 
 ---

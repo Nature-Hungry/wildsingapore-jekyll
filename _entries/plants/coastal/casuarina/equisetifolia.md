@@ -2,7 +2,7 @@
 title: "Rhu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rhu, casuarina, equisetifolia, casuarinaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 37]
 family: Casuarinaceae
 genus: Casuarina
@@ -15,6 +15,37 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Fagales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090809sjid8818m3.jpg"
+  caption: |
+    <p>Growing on rocky shore.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8041m3a.jpg"
+  caption: |
+    <p>True leaves reduced to tiny scales.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3.jpg"
+  caption: |
+    <p>Young fruit.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8048m3a.jpg"
+  caption: |
+    <p>Female flowers.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8060m3.jpg"
+  caption: |
+    <p>Male flowers.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8040m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8056m3.jpg"
+  caption: |
+    <p>Fallen fruit, split open to release seeds.</p>
+    <p>Pulau Semakau, Mar 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/casuarina/equisetifolia/090314smkd8054m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -104,36 +135,13 @@ the twigs to treat swellings. According to Giersen, the heavy hard
 timber makes excellent firewood and charcoal and is sometimes used
 as beams. The bark yields a resin that is useful for tanning.
 
-![](equisetifolia/090314smkd8054m6l.jpg)  
-*Pulau Semakau,
-Mar 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](equisetifolia/090809sjid8818m3.jpg)  
-Growing on rocky
-shore.  
-St. John's Island, Aug 09**![](equisetifolia/090314smkd8041m3a.jpg)  
-True leaves
-reduced to tiny scales.  
-Pulau Semakau, Mar 09*
 
-*![](equisetifolia/090314smkd8048m3.jpg)  
-Young fruit.  
-Pulau Semakau, Mar 09*
 
-![](equisetifolia/090314smkd8048m3a.jpg)  
-Female flowers. *Pulau Semakau, Mar 09*
 
-![](equisetifolia/090314smkd8060m3.jpg)  
-Male flowers. *Pulau Semakau, Mar 09*
 
-![](equisetifolia/090314smkd8040m3.jpg)  
-*Pulau Semakau,
-Mar 09*
 
-*![](equisetifolia/090314smkd8056m3.jpg)*Fallen
-fruit, split open to release seeds.  
-*Pulau
-Semakau, Mar 09*
 
 ---
 

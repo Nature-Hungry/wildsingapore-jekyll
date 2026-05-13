@@ -2,7 +2,7 @@
 title: Moon coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: ""moon, diploastrea, heliopora, faviidae,"
-layout: default
+layout: entry
 family: Faviidae
 genus: Diploastrea
 species: heliopora*
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1251m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150605kusmn2m3a.jpg"
+  caption: |
+    <p>Tentacles about to emerge?</p>
+    <p>Kusu Island, Jun 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/150706srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/19308407859/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250714srptl3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100515sjilks5m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/210430sjilks8.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159166988433158&set=a.10159166993588158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3.jpg"
+  caption: |
+    <p>Pulau Semakau West, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250727smkwlks3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/250629smkelks7.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/220521bbblks2.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159889924863158&set=a.10159889925883158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/120721tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519773307/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/2007025smknlks1b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100617tsmlks1m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4710891167/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/100131slud8869m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/diploastrea/070704jngg1249m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,15 +131,10 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-![](diploastrea/070704jngg1249m3.jpg)  
-*Pulau Jong, Jul 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](diploastrea/070704jngg1249m3a.jpg)
 
-![](diploastrea/070704jngg1251m3a.jpg)
 
-![](diploastrea/150605kusmn2m3a.jpg)  
-Tentacles about to emerge? *Kusu Island, Jun 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3).
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -97,53 +157,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](diploastrea/150706srplks.JPG)  
- *Sentosa Serapong, Jul 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/19308407859/in/album-72157627005920441/).
 
-![](diploastrea/250714srptl3.jpg)  
- *Sentosa Serapong, Jul 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post).
 
-![](diploastrea/250714srptl3a.jpg)
 
 ---
 
-![](diploastrea/100515sjilks5m3.jpg)  
- *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html).
 
-![](diploastrea/210430sjilks8.jpg)  
- *St. John's Island, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159166988433158&set=a.10159166993588158).
 
 ---
 
-*![](diploastrea/250727smkwlks3.jpg)  
-Pulau Semakau West, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post).
 
-![](diploastrea/250727smkwlks3a.jpg)
 
-![](diploastrea/250629smkelks7.jpg)  
-*Pulau Semakau East, Jun 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post).
 
 ---
 
-![](diploastrea/220521bbblks2.jpg)  
- *Beting Bemban Besar, May 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159889924863158&set=a.10159889925883158).
 
-![](diploastrea/120721tptlks.JPG)  
- *Terumbu Pempang Tengah, Jul 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519773307/in/album-72157626616274147/).
 
 ---
 
-![](diploastrea/2007025smknlks1.jpg)  
- *Pulau Semakau (North), Jul 20*![](diploastrea/2007025smknlks1b.jpg)
 
-![](diploastrea/100617tsmlks1m3.jpg)  
- *Terumbu Semakau, Jun 10*![](diploastrea/100617tsmlks1m3a.jpg)  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4710891167/).
 
-![](diploastrea/100131slud8869m3.jpg)  
-*Terumbu Salu, Jan 10*![](diploastrea/100131slud8869m3a.jpg)
 
 ---
 

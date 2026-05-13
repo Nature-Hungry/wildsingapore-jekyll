@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, ball, sponge, porifera, dysidea, dysideidae, field, guide, seashore,"
-layout: default
+layout: entry
 shape: ball
 title: Spiky ball sponge
 family: Dysideidae
@@ -16,6 +16,42 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3a.jpg"
+  caption: |
+    <p>Thin 'lips' around large opening.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/060611cjd2765m3e.jpg"
+  caption: |
+    <p>Brittle star deep in the crevices.</p>
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg"
+  caption: |
+    <p>Sometimes draped with synaptid sea cucumbers Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3b.jpg"
+  caption: |
+    <p>Spiky with net-like texture.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/020101cjcpd3741m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/020101cjcpd3741m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/080704sekd6895m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/080704sekd6895m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/110518bbd1887m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/110518bbd1887m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/ballspiky/120508skdd1884m3.jpg"
 ---
 
 
@@ -52,36 +88,15 @@ Sometimes, these sponges are draped with [synaptid
 sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) and brittle stars are sometimes glimpsed deep in
 the crevices of the sponge.
 
-![](ballspiky/120508skdd1884m3.jpg)  
-*Pulau Sekudu, May 12* ![](ballspiky/120508skdd1884m3a.jpg)  
-Thin 'lips' around large opening.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ballspiky/060611cjd2765m3e.jpg)  
-Brittle star deep in the crevices. *Chek Jawa, Jun 06*
 
-*![](../echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg)*  
-Sometimes draped with synaptid sea cucumbers  
-*Chek Jawa, May 04*
 
-![](ballspiky/120508skdd1884m3b.jpg)  
-Spiky with net-like texture.
 
 ---
 
-![](ballspiky/020101cjcpd3741m3.jpg)  
-*Chek
-Jawa, Jan 02   
-![](ballspiky/020101cjcpd3741m3a.jpg)*
 
-![](ballspiky/080704sekd6895m3.jpg)  
-*Pulau
-Sekudu, Jul 08  
-![](ballspiky/080704sekd6895m3a.jpg)*
 
-![](ballspiky/110518bbd1887m3.jpg)  
-*Beting
-Bronok, May 11  
-![](ballspiky/110518bbd1887m3a.jpg)*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of

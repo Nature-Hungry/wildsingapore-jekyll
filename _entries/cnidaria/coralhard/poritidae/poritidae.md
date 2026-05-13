@@ -2,7 +2,7 @@
 title: "Poritid corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Poritidae
 genus: ""
 species: ""
@@ -15,6 +15,32 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg"
+  caption: |
+    <p><a href="porbranch">Branching pore coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusg7796m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisg3282m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3.jpg"
+  caption: |
+    <p><a href="gonsmall">Small goniopora corals</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,21 +94,14 @@ corals on Singapore shores**
 
 ---
 
-![](porboulder/060102sisg3684m3.jpg)  
-[**Boulder pore coral**](porboulder) *![](porboulder/060102sisg3685m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](porbranch/070221kusd8248m3.jpg)  
-[Branching pore coral](porbranch)  
-![](porbranch/070221kusg7796m3b.jpg)**
 
 *`*
 
 ---
 
-![](gonbig/051204sisd6415m3.jpg)  
-[**Anemone corals**](gonbig) ![](gonbig/051204sisg3282m3a.jpg)
 
-*![](gonsmall/050625labg8612m3.jpg)* [**Small goniopora corals**](gonsmall)*![](gonsmall/050625labg8612m3b.jpg)*
 
 ---
 

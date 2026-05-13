@@ -2,7 +2,7 @@
 title: Snaky anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cork, screw, corkscrew, tentacle, anemone, macrodactyla, heteractis, doreensis, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 113]
 family: Actiniidae
 genus: Heteractis
@@ -17,6 +17,107 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3a.jpg"
+  caption: |
+    <p>White stripes radiating from the centre.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3c.jpg"
+  caption: |
+    <p>White eyed-shaped verrucae.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/120621cyrd6061m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/120621cyrd6061m3a.jpg"
+  caption: |
+    <p>With <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone shrimp</a> (Periclimenes brevicarpalis)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/070322cyrd9203m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/070322cyrd9203m3a.jpg"
+  caption: |
+    <p>Tentacles in tight curls.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3b.jpg"
+  caption: |
+    <p>Body column purplish on the upper portion and white on the lower.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210528chg7tch1.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484921813713&set=a.10159484959768713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230605chg7lks2.jpg"
+  caption: |
+    <p>Changi Carpark 7, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10160711617403158&set=a.10160711621108158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/250627bbdc4.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Dayna Cheah on <a href="https://www.facebook.com/media/set?vanity=dayna.cheah&set=a.9995861807197172">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/191214cjlks1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157773600348158&set=a.10157773598893158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/200706skdjll2.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157545198066295&set=a.10157545196741295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/170625bblks3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155490537633158.1073741949.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/220716bbtl1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159959538074264&set=a.10159959530369264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/090528ecplks.JPG"
+  caption: |
+    <p>East Coast Park, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3573333634/in/album-72157607719316847/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230608tmftky1.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168433596865112&set=a.10168433602810112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/251107tmftlks9.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/190422srpay3.jpg"
+  caption: |
+    <p>Sentosa Serapong, Apr 2019Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10215725253376586&set=a.10213576506259251&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240527srpky3.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169494421615112&set=a.10169494404930112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/171108lazro.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210625kusrk1.jpg"
+  caption: |
+    <p>Kusu Island, Jun 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159181562272906&set=a.10159181555287906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230321tkrky1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Mar 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168169216400112&set=a.10168169217310112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/230321tkrtl1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Mar 23Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10160499091024264&set=a.10160499088574264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240512jngky3.jpg"
+  caption: |
+    <p>Pulau Jong, May 2024Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169448197285112&set=a.10169448186065112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/200627cyrlks3.jpg"
+  caption: |
+    <p>Cyrene, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405642108158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/210429hntjll1.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158236257861295&set=a.10158236250826295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/180421smksjll.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Apr 2018Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155568308201295.1073741905.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/100519tsmklks2m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/220619tsmtl1.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159916124019264&set=a.10159916117854264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/240526bbbtt1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234254934653009">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/181125jt.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Nov 18Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10156045666568576&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -94,30 +195,12 @@ seen on the intertidal during low tide.
 beautiful animals are harvested from the wild for the live aquarium
 trade, although they are difficult to maintain in captivity.**Status and threats:** As at 2024, it is listed as Endangered in Singapore.
 
-![](doreensis/050821bbd5815m3.jpg)  
-*Beting Bronok, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](doreensis/050821bbd5815m3a.jpg)  
-White stripes radiating from the centre.
 
-![](doreensis/050821bbd5815m3c.jpg)  
-White eyed-shaped verrucae.
 
-*![](doreensis/120621cyrd6061m3.jpg)  
-Cyrene Reef, Jun 12  
-![](doreensis/120621cyrd6061m3a.jpg)*With [Peacock-tail
-anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.htm)   
-(*Periclimenes brevicarpalis*)
 
-*![](doreensis/070322cyrd9203m3.jpg)  
-Cyrene Reef, Mar 07  
-![](doreensis/070322cyrd9203m3a.jpg)*Tentacles in tight curls.
 
-![](doreensis/050821bbg1876m3.jpg)  
- *Beting Bronok, Aug 05   
-![](doreensis/050821bbg1876m3b.jpg)*  
-Body column purplish on the upper portion  
-and white on the lower.
 
 ---
 
@@ -136,86 +219,49 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](doreensis/210528chg7tch1.jpg)*  
-*Changi Carpark 7, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159484921813713&set=a.10159484959768713).
 
-*![](doreensis/230605chg7lks2.jpg)*  
-*Changi Carpark 7, Jun 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10160711617403158&set=a.10160711621108158).
 
-*![](doreensis/250627bbdc4.jpg)  
-Beting Bronok, Jun 25*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/media/set?vanity=dayna.cheah&set=a.9995861807197172).
 
 ---
 
-*![](doreensis/191214cjlks1.jpg)*  
-*Chek Jawa, Dec 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157773600348158&set=a.10157773598893158&type=3&theater).
 
-*![](doreensis/200706skdjll2.jpg)*  
-*Pulau Sekudu, Jul 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157545198066295&set=a.10157545196741295&type=3&theater).
 
 ---
 
-*![](doreensis/170625bblks3.jpg)*  
-*Beting Bronok, Jun 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155490537633158.1073741949.547198157&type=3).
 
-*![](doreensis/220716bbtl1.jpg)*  
-*Beting Bronok, Jul 22*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10159959538074264&set=a.10159959530369264).
 
 ---
 
-*![](doreensis/090528ecplks.JPG)East Coast Park, May 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3573333634/in/album-72157607719316847/).
 
-*![](doreensis/230608tmftky1.jpg)Tanah Merah Ferry Terminal, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168433596865112&set=a.10168433602810112).
 
-*![](doreensis/251107tmftlks9.jpg)*  
-*Tanah Merah Ferry Terminal, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post).
 
 ---
 
-*![](doreensis/190422srpay3.jpg)Sentosa Serapong, Apr 2019*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10215725253376586&set=a.10213576506259251&type=3&theater).
 
-*![](doreensis/240527srpky3.jpg)Sentosa Serapong, May 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169494421615112&set=a.10169494404930112).
 
 ---
 
-*![](doreensis/171108lazro.jpg)*
 
 *Lazarus Island, Nov 17*Photo shared by Rene Ong on [facebook](https://www.facebook.com/photo.php?fbid=10155241916721848&set=pcb.10155241916886848&type=3&theater).
 
-*![](doreensis/210625kusrk1.jpg)Kusu Island, Jun 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159181562272906&set=a.10159181555287906).
 
 ---
 
-*![](doreensis/230321tkrky1.jpg)Pulau Tekukor, Mar 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168169216400112&set=a.10168169217310112).
 
-*![](doreensis/230321tkrtl1.jpg)Pulau Tekukor, Mar 23*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10160499091024264&set=a.10160499088574264).
 
-*![](doreensis/240512jngky3.jpg)Pulau Jong, May 2024*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169448197285112&set=a.10169448186065112).
 
 ---
 
-*![](doreensis/200627cyrlks3.jpg)Cyrene, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158405642108158&set=a.10158405653668158&type=3&theater).
 
-*![](doreensis/210429hntjll1.jpg)Pulau Hantu, Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158236257861295&set=a.10158236250826295).
 
 ---
 
-*![](doreensis/180421smksjll.jpg)Pulau Semakau (South), Apr 2018*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10155568308201295.1073741905.542241294&type=3).
 
-*![](doreensis/100519tsmklks2m3.jpg)*  
- *Terumbu Semakau, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html).
 
-*![](doreensis/220619tsmtl1.jpg)*  
- *Terumbu Semakau, Jun 22*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10159916124019264&set=a.10159916117854264).
 
 ---
 
-![](doreensis/240526bbbtt1.jpg)  
-*Beting Bemban Besar, May 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234254934653009).
 
-*![](doreensis/181125jt.jpg)*  
- *Terumbu Pempang Tengah, Nov 18*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10156045666568576&type=3).
 
 ---
 

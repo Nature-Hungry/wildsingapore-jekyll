@@ -2,7 +2,7 @@
 title: "Bakau kurap "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, mucronata, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 117]
 family: Rhizophoraceae
 genus: Rhizophora
@@ -15,6 +15,44 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196666
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg"
+  caption: |
+    <p>Pulau Ubin,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg"
+  caption: |
+    <p>Fruit on stalks.</p>
+    <p>Fruit large compared to sepals.</p>
+    <p>St.</p>
+    <p>John's Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg"
+  caption: |
+    <p>Flower with short style, more visible without petals.</p>
+    <p>Pasir Ris Park, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg"
+  caption: |
+    <p>Flowers on long branching stalks.</p>
+    <p>Pulau Ubin, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7091m3a.jpg"
+  caption: |
+    <p>Sungei Buloh, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg"
+  caption: |
+    <p>Very long hypocotyl.</p>
+    <p>Pasir Ris Park, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3a.jpg"
+  caption: |
+    <p>Short style, more visible without petals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090214sbwrd7090m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090611prpd3892m3b.jpg"
+  caption: |
+    <p>Pasir Ris, Jun 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8186m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -89,35 +127,17 @@ to protect bunds and dykes. Seedlings that have been dried in the
 shade for several days before planting avoid being eaten by crabs.
 It is believed the process causes accumulations of tannin in the tissues.  
 
-![](mucronata/090802ubind8186m6l.jpg)  
-*Pulau Ubin,
-Aug 09![](mucronata/090802ubind8187m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](mucronata/090809sjid8838m3a.jpg)  
-Fruit on stalks.  
-Fruit large compared to sepals.  
-*St. John's Island, Aug 09*
 
-*![](mucronata/090801prpd8011m3b.jpg)*Flower with short style,   
-more visible without petals. *Pasir Ris Park, Aug 09*
 
-![](mucronata/090517ubnd1957m3.jpg)  
-Flowers on long branching stalks.  
-*Pulau Ubin, May 09*
 
 ---
 
-![](mucronata/090214sbwrd7091m3a.jpg)  
-*Sungei Buloh, Feb 09*
 
-*![](mucronata/090801prpd8013m6l.jpg)*Very long hypocotyl. *Pasir Ris Park, Aug 09*
 
-*![](mucronata/090611prpd3892m3a.jpg)*Short style, more visible without petals.
 
-*![](mucronata/090214sbwrd7090m3.jpg)*
 
-*![](mucronata/090611prpd3892m3b.jpg)*  
-*Pasir Ris, Jun 09*
 
 ---
 

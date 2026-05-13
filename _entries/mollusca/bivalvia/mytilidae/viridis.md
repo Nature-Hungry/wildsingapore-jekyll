@@ -2,7 +2,7 @@
 title: Green mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [2, 33, 59, 107]
 family: Mytilidae
 genus: Perna
@@ -18,6 +18,40 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+  caption: |
+    <p>Growing on a large boulder.</p>
+    <p>Changi, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg"
+  caption: |
+    <p>Growing on a large boulder.</p>
+    <p>Changi, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg"
+  caption: |
+    <p>Growing in cracks of boulder.</p>
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg"
+  caption: |
+    <p>When submerged, filter feeds.</p>
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg"
+  caption: |
+    <p>It has a large mobile foot.</p>
+    <p>From the <a href="https://singapore.biodiversity.online/species/A-Moll-Bivalvia-000146">Lee Kong Chian Natural History Museum</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg"
+  caption: |
+    <p>Coney Island, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158651295897906&set=a.10158651280122906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG"
+  caption: |
+    <p>Tuas, Mar 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3558550953/in/album-72157618623639729/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on facebook.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,13 +97,9 @@ shell is thin, smooth. Young clams often all bright green, older clams usually b
 attaches to hard surfaces with byssus threads, usually in clusters
 of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
 
-*![](viridis/040121chgd0031m3.jpg)*Growing
-on a large boulder. *Changi, Jan 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](viridis/040121chgd0027m3.jpg)*Growing
-on a large boulder. *Changi, Jan 04*
 
-*![](viridis/120604pgld3525m3.jpg)*Growing in cracks of boulder. *Punggol, Jun 12*
 
 **What does it eat?** Like most other
 bivalves, it is a filter feeder. At high tide, it opens
@@ -78,15 +108,8 @@ the shell and sieves out the food particles with enlarged gills. When
 the tide goes out, it clamps up its shells tightly to prevent water
 loss.
 
-*![](viridis/031207cjd0034m3.jpg)  
-Chek Jawa, Dec 03*
 
-![](viridis/120604pgld3696m3.jpg)  
-When submerged, filter feeds. *Punggol, Jun 12*
 
-![](viridis/lkcnhm.jpg)  
-It has a large mobile foot.  
-From the [Lee Kong Chian Natural History Museum](https://singapore.biodiversity.online/species/A-Moll-Bivalvia-000146)
 
 **What eats it?** Besides humans, other animals that relish them include fishes, crabs and octopuses.  
   
@@ -120,16 +143,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](viridis/201116cnyrk1.jpg)  
-Coney Island, Nov 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10158651295897906&set=a.10158651280122906).
 
 ---
 
-*![](viridis/090310tuslks.JPG)  
-Tuas, Mar 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3558550953/in/album-72157618623639729/).
 
-*![](viridis/200311blylks7.jpg)  
-Berlayar Creek, Mar 20*Photo shared by Loh Kok Sheng on facebook.
 
 ---
 

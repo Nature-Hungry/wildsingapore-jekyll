@@ -2,7 +2,7 @@
 title: "Piai lasu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fern, acrostichum, speciosum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [8, 18, 21, 36, 96]
 family: Pteridaceae
 genus: ""
@@ -16,6 +16,22 @@ order: Polypodiales
 suborder: Pteridineae
 inat_id: 48437
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0035m3a.jpg"
+  caption: |
+    <p>Young fronds are green.Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/130202mdd3863m3.jpg"
+  caption: |
+    <p>Sterile fronds have tapering pointed tips.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/110307admd6750m3.jpg"
+  caption: |
+    <p>Fertile fronds.</p>
+    <p>Admiralty Park, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/speciosum/090328sbwrd0043m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,18 +75,10 @@ with dark brown spores (sporangia). Sterile leaflets gradually tapering to a nar
 See the [main page on mangrove ferns](acrostichum)
 for their human uses.   
 
-*![](speciosum/090328sbwrd0043m6l.jpg)  
-Sungei Buloh Wetland Reserve, Mar 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](speciosum/090328sbwrd0035m3a.jpg)*Young
-fronds are green.*Sungei
-Buloh Wetland Reserve, Mar 09*
 
-*![](speciosum/130202mdd3863m3.jpg)*Sterile
-fronds have tapering pointed tips. *Sungei Buloh Wetland Reserve, Mar 09*
 
-*![](speciosum/110307admd6750m3.jpg)*Fertile
-fronds. *Admiralty Park, Mar 11*
 
 ---
 

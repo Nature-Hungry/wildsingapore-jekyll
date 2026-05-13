@@ -2,7 +2,7 @@
 title: "Agaricid corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Agariciidae
 genus: ""
 species: ""
@@ -15,6 +15,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
+  caption: |
+    <p>Ringed plate coral.</p>
+    <p>Pulau Semakau, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg"
+  caption: |
+    <p>Castle coral.</p>
+    <p>Terumbu Bemban, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/180715thntm3.jpg"
+  caption: |
+    <p>Lettuce coral.</p>
+    <p>Terumbu Hantu, Jul 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5255m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7311m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg"
+  caption: |
+    <p>[Lettuce</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2863m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,13 +105,7 @@ global listing](http://www.iucnredlist.org/). Like other creatures of the intert
 are affected by human activities such as reclamation and pollution.
 Trampling by careless visitors, and over-collection by hobbyists also
 have an impact on local populations.
-![](pachyseris/070830smkg2021m3.jpg)  
-Ringed plate coral. *Pulau Semakau, Aug 07*
-![](castle/110717tbd7228m3.jpg)  
-Castle coral.  
-*Terumbu Bemban, Jul 07*
-![](pavona/180715thntm3.jpg)  
-Lettuce coral. *Terumbu Hantu, Jul 18*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -88,15 +114,8 @@ corals on Singapore shores**
 
 ---
 
-**![](pachyseris/070830smkg2020m3.jpg)  
-[Ringed plate coral](pachyseris.htm)*![](pachyseris/090625bsrd5255m3a.jpg)***
 
-**![](castle/110717tbd7310m3.jpg)  
-[Castle coral](castle.htm)![](castle/110717tbd7311m3b.jpg)**
 
-**![](pavona/070630sisd2861m3.jpg)  
-[Lettuce
-coral](pavona.htm) ![](pavona/070630sisd2863m3a.jpg)**
 
 ---
 

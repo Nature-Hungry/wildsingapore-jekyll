@@ -2,7 +2,7 @@
 title: Wrasses
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wrasse, fish, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Labridae
 genus: ""
 species: ""
@@ -17,6 +17,55 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Labroidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg"
+  caption: |
+    <p>Well camouflaged!</p>
+    <p>Tuas, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/091206tmd5769m3.jpg"
+  caption: |
+    <p>Often half buried in the sand.</p>
+    <p>Pulau Sekudu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/060429skdd1373m3.jpg"
+  caption: |
+    <p>Seen from above.</p>
+    <p>Pulau Sekudu, Apr 06 Wrasse food: Most wrasses are carnivorous predators and eat small crustaceans, snails and worms.</p>
+    <p>Most wrasses have thick lips and sharp canine teeth that stick out.</p>
+    <p>Mostly solitary hunters, they can be aggressive towards others of their own kind.</p>
+    <p>Some wrasses may also scavange.</p>
+    <p>Some eat plankton, and a few eat parasites off larger fish (see below).</p>
+    <p>Many are sand burrowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/160608cyrlks6a.jpg"
+  caption: |
+    <p>Caught by a <a href="../pseudochromidae/subducens.htm">Carpet eel-blenny</a>.</p>
+    <p>Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170128smkso1280222m3.jpg"
+  caption: |
+    <p>Often seen in abandoned nets and traps.</p>
+    <p>Pulau Semakau, Jan 17 Human uses: Being colourful and lively, wrasses of various kinds are extensively harvested from the wild for the live aquarium trade.</p>
+    <p>Some large ones are harvested as food.</p>
+    <p>The Napolean wrasse (Cheilinus undulatus) is a large fish that is being over-collected as a luxury food item for the Chinese market.</p>
+    <p>These gentle, intelligent fishes can live for 50 years and reach up to 180kgs.</p>
+    <p>Unsustainable harvesting of these fishes may doom them to extinction.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/bicolor/140811tryd8448m3.jpg"
+  caption: |
+    <p><a href="bicolor.htm">Brown-striped wrasse</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/dussumieri/050819cjg1629m3.jpg"
+  caption: |
+    <p><a href="dussumieri.htm">Diamond wrasse</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg"
+  caption: |
+    <p><a href="pteragogus.htm">Weedy wrasse</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m3.jpg"
+  caption: |
+    <p><a href="schoenleinii.htm">Black-spot tuskfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m3.jpg"
+  caption: |
+    <p><a href="anchorago.htm">Anchor tuskfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmna.jpg"
+  caption: |
+    <p><a href="oligacanthus.htm">Singapore tuskfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,20 +122,7 @@ As adults, they also change colours during breeding season, the males
 usually becoming more brightly coloured. Some may also change colours
 to match their surroundings. This is why wrasses are sometimes difficult
 to identify.
-*![](pteragogus/080409tusd0842m3.jpg)*Well camouflaged! *Tuas, Apr 08*
-![](dussumieri/091206tmd5769m3.jpg)  
-Often half buried in the sand.  
-*Pulau Sekudu, Apr 06*
-![](dussumieri/060429skdd1373m3.jpg)  
-Seen from above.  
-*Pulau Sekudu, Apr 06*
-**Wrasse food:** Most wrasses are
-carnivorous predators and eat small crustaceans, snails and worms.
-Most wrasses have thick lips and sharp canine teeth that stick out.
-Mostly solitary hunters, they can be aggressive towards others of
-their own kind. Some wrasses may also scavange. Some eat plankton,
-and a few eat parasites off larger fish (see below). Many are sand
-burrowers.   
+{% include img-wrap-group.html items=page.page_images %}
   
 An intriguing member of this family is the Cleaner wrasse (*Labroides
 dimidiatus*). This little wrasse performs cleaning services for
@@ -105,19 +141,6 @@ and another that was born a female and later turned male. Primary
 males can produce more sperm than those that change into males; however,
 primary males usually wear the colours of a female! Mating wrasses
 rise up to the water surface together, releasing eggs and sperm simultaneously.
-![](dussumieri/160608cyrlks6a.jpg)  
-Caught by a [Carpet eel-blenny](../pseudochromidae/subducens.htm). *Cyrene Reef, Jun 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reef.html).
-![](anchorago/170128smkso1280222m3.jpg)  
-Often seen in abandoned nets and traps. *Pulau Semakau, Jan 17* 
-**Human uses:** Being colourful and
-lively, wrasses of various kinds are extensively harvested from the
-wild for the live aquarium trade. Some large ones are harvested as
-food. The Napolean wrasse (*Cheilinus undulatus*) is a large
-fish that is being over-collected as a luxury food item for the Chinese
-market. These gentle, intelligent fishes can live for 50 years and
-reach up to 180kgs. Unsustainable harvesting of these fishes may doom
-them to extinction.  
   
 **Status and threats:** None of our
 wrasses are listed among the threatened animals of Singapore. However,
@@ -139,23 +162,13 @@ on Singapore shores**
 
 ---
 
-***![](bicolor/140811tryd8448m3.jpg)* [Brown-striped wrasse](bicolor.htm)**
 
-**![](dussumieri/050819cjg1629m3.jpg)  
-[Diamond wrasse](dussumieri.htm)**
 
-***![](pteragogus/070421cyrg8905m3.jpg)*[Weedy
-wrasse](pteragogus.htm)**
 
 ---
 
-***![](schoenleinii/050720sntg9598m3.jpg)*[Black-spot tuskfish](schoenleinii.htm)**
 
-**![](anchorago/110418tmftd9074m3.jpg)  
-[Anchor tuskfish](anchorago.htm)**
 
-**![](oligacanthus/170812cyrmna.jpg)  
-[Singapore tuskfish](oligacanthus.htm)**
 
 ---
 

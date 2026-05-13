@@ -2,7 +2,7 @@
 title: Peacock-tail anemone shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peacock, tail, anemone, shrimp, ancylocaris, periclimenes, brevicarpalis, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Palaemonidae
 genus: Ancylocaris
@@ -21,6 +21,116 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg"
+  caption: |
+    <p>Kusu Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3c.jpg"
+  caption: |
+    <p>Five black-ringed orange spots on the tail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3.jpg"
+  caption: |
+    <p>The male often smaller and more transparent.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/080706chg7333m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040508skdbd0073m3.jpg"
+  caption: |
+    <p>This filefish appeared to be presenting itself to the shrimp Pulau Sekudu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3618m3.jpg"
+  caption: |
+    <p>'Locked out' of its sea anemone at low tide!</p>
+    <p>Kusu Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg"
+  caption: |
+    <p>Sometimes, both anemone shrimps and <a href="../../../vertebrates/fish/pomacentridae/ocellaris">anemonefishes</a> share the same anemone.</p>
+    <p>Pulau Hantu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a>Kusu Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040411hntd0083m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/magnifica">Magnificent anemone</a> Pulau Hantu, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070603sntrg9937m3.jpg"
+  caption: |
+    <p>In a <a href="../../../cnidaria/actiniaria/gigantea">Giant carpet anemone</a> Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks6m3a.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/cryptodendrum">pizza anemone</a>.</p>
+    <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/crispa">leathery anemone</a>.</p>
+    <p>Kusu Island, May 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4649067805/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/110507cyrd0994m3.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/doreensis">snaky anemone</a>.</p>
+    <p>Cyrene Reef, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/121215sislks1.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/entacmaea">bubble-tip anemone</a> Sisters Island, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8460870596/in/album-72157607605631877/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/phymanthus">Frilly anemone</a> Tanah Merah, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13989032809/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/230804pcn1.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/actinodendron">Fire anemone</a> East Coast PCN, Aug 2023</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/171009blylks2.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155763645663158&set=pcb.10155763646593158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/201019sjijll6.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157806535261295&set=a.10157806532326295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250726cyrjt6.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/250531thntrk2.jpg"
+  caption: |
+    <p>Terumbu Hantu, May 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162519522322906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100519tsmjk4m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100502trygl2m3.JPG"
+  caption: |
+    <p>Terumbu Raya, May 10Photo shared byGeraldine Lee on <a href="http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocksl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11 Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/251008bbbmn3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162098271523660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0041m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100811slud0119m3a.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/091204pawd5203m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100613snglks5m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719502148/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719769650/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg"
+  caption: |
+    <p>On a <a href="../../../cnidaria/actiniaria/cryptodendrum">pizza anemone</a>.</p>
+    <p>Pulau Pawai, Dec 09Shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171813792/">his flickr</a>.</p>
+- url: "https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24292062483/ "Peacock-tail anemone shrimp (Periclimenes brevicarpalis) on Haddon's carpet anemone (Stichodactyla haddoni)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/070505kusg9020m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,18 +180,12 @@ At low tide, they are more easily spotted at night when they are still
 somewhat active. During the day, they often remain hidden under the
 anemone.
 
-*![](brevicarpalis/070505kusg9020m3.jpg)  
-Kusu Island, May 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](brevicarpalis/070505kusg9020m3c.jpg)*Five black-ringed orange spots on the tail.
 
-*![](brevicarpalis/070505kusg9020m3b.jpg)*
 
-*![](brevicarpalis/080706chg7333m3.jpg)*The male often smaller and more transparent.
 
-*![](brevicarpalis/080706chg7333m3a.jpg)*
 
-*![](brevicarpalis/080706chg7333m3b.jpg)*
 
 **Home Sweet Home:** We have seen these shrimps with these large sea anemones: [Giant
 carpet anemones](../../../cnidaria/actiniaria/gigantea), [Haddon's
@@ -105,58 +209,17 @@ Instead, they are believed to shelter in the anemone for protection
 and may feed on left overs. The shrimps have often been seen "hanging"
 over the edge of their anemone home with their pincers extended.
 
-![](brevicarpalis/040508skdbd0073m3.jpg)  
-This filefish appeared to be  
-presenting itself to the shrimp *Pulau Sekudu, May 05*
 
-*![](brevicarpalis/040731kusd3618m3.jpg)*'Locked out' of its   
-sea anemone at low tide! *Kusu Island, Jul 04*
 
-![](../../../cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg)  
-Sometimes, both anemone shrimps and   
-[anemonefishes](../../../vertebrates/fish/pomacentridae/ocellaris)
-share the same anemone.  
-*Pulau Hantu, Jul 07*
 
-*![](brevicarpalis/040731kusd3491m3.jpg)*In
-a [Haddon's carpet
-anemone](../../../cnidaria/actiniaria/haddoni)*Kusu Island, Jul 04*
 
-*![](brevicarpalis/040411hntd0083m3.jpg)*In
-a [Magnificent
-anemone](../../../cnidaria/actiniaria/magnifica)   
- *Pulau
-Hantu, Apr 04*
 
-*![](brevicarpalis/070603sntrg9937m3.jpg)*In a [Giant
-carpet anemone](../../../cnidaria/actiniaria/gigantea) *Sentosa, Jun 07*
 
-*![](brevicarpalis/100529kuslks6m3a.jpg)*  
-On a [pizza
-anemone](../../../cnidaria/actiniaria/cryptodendrum). *Kusu Island, Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul).
 
-*![](../../../cnidaria/actiniaria/crispa/100528kusmn1m3.jpg)*  
-On a [leathery
-anemone](../../../cnidaria/actiniaria/crispa). *Kusu Island, May 10*Photo
-shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4649067805/).
 
-*![](brevicarpalis/110507cyrd0994m3.jpg)*  
-On a [snaky
-anemone](../../../cnidaria/actiniaria/doreensis). *Cyrene Reef, May 11*
 
-*![](brevicarpalis/121215sislks1.jpg)*  
-On a [bubble-tip anemone](../../../cnidaria/actiniaria/entacmaea) *Sisters Island, Dec 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8460870596/in/album-72157607605631877/).
 
-*![](brevicarpalis/130527tmlks.JPG)*  
-On a [Frilly anemone](../../../cnidaria/actiniaria/phymanthus) *Tanah Merah, May 13*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/13989032809/in/album-72157664044624940/).
 
-*![](brevicarpalis/230804pcn1.jpg)*  
-On a [Fire anemone](../../../cnidaria/actiniaria/actinodendron) *East Coast PCN, Aug 2023*
 
 ---
 
@@ -174,73 +237,35 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](brevicarpalis/171009blylks2.jpg)  
- *Berlayar Creek, Oct 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155763645663158&set=pcb.10155763646593158&type=3&theater).
 
-![](brevicarpalis/201019sjijll6.jpg)  
- *St John's Island, Oct 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10157806535261295&set=a.10157806532326295).
 
 ---
 
-![](brevicarpalis/250726cyrjt6.jpg)  
-*Cyrene, Jul 25*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post).
 
-![](brevicarpalis/250531thntrk2.jpg)  
- *Terumbu Hantu, May 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162519522322906&type=3&ref=embed_post).
 
 ---
 
-![](brevicarpalis/100519tsmjk4m3.jpg)  
- *Terumbu Semakau, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul).
 
-*![](brevicarpalis/100502trygl2m3.JPG)*  
-*Terumbu Raya, May 10*Photo shared byGeraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2010/05/terumbu-raya-rocksl).
 
-*![](../../../cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg)**Terumbu Bemban, Apr 11*  
-Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947).
 
 ---
 
-*![](brevicarpalis/251008bbbmn3.jpg)  
-Beting Bemban Besar, Oct 25*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162098271523660&type=3&ref=embed_post).
 
 ---
 
-*![](brevicarpalis/100811slud0041m3.jpg)  
-Pulau Salu, Aug 10*
 
-*![](brevicarpalis/100811slud0119m3.jpg)  
-Pulau Salu, Aug 10*
 
-*![](brevicarpalis/100811slud0119m3a.jpg)  
-Pulau Salu, Aug 10*
 
 ---
 
-*![](brevicarpalis/091204pawd5203m3.jpg)  
-Pulau Pawai, Dec 09*
 
-*![](brevicarpalis/100613snglks5m3.jpg)  
-Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719502148/).
 
-*![](../../../cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg)  
-Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719769650/).
 
 ---
 
-![](../../../cnidaria/actiniaria/cryptodendrum/091204pawjk13m3d.jpg)  
-On a [pizza
-anemone](../../../cnidaria/actiniaria/cryptodendrum). *Pulau Pawai, Dec 09*Shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171813792/).
 
 ---
 
-[![Peacock-tail anemone shrimp (Periclimenes brevicarpalis) on Haddon's carpet anemone (Stichodactyla haddoni)](https://live.staticflickr.com/1495/24292062483_93f0593c4a_z.jpg)](https://www.flickr.com/photos/wildsingapore/24292062483/ "Peacock-tail anemone shrimp (Periclimenes brevicarpalis) on Haddon's carpet anemone (Stichodactyla haddoni)")
 
 ---
 

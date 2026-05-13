@@ -2,7 +2,7 @@
 title: Fan clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, pen, shell, fanshell, clam, pinnidae, pinna, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [2, 33, 59]
 family: Pinnidae
 genus: ""
@@ -17,6 +17,82 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg"
+  caption: |
+    <p>Byssus threads on the narrow end of the shell anchor the animal in the ground.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/011021cjd0933m3.jpg"
+  caption: |
+    <p>The razor-sharp edge can cut barefoot visitors.</p>
+    <p>Chek Jawa, Oct 01 Role in the ecosystem: All manner of seaweeds and encrusting animals often settle on the portions of the fan clam that sticks out above the sand, even when the clam is still alive.</p>
+    <p>These provide food and shelter for small animals.</p>
+    <p>The tiny Pea crab (Pinnotheres sp.) and small snapping shrimps are sometimes found living inside these clams.</p>
+    <p>The crab not only gains shelter but also eats some of the food gathered by the fan shell host.</p>
+    <p>The space between the valves of a dead fan clam is a safe space for animals to shelter or lay their eggs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060625bbd3447m3.jpg"
+  caption: |
+    <p>When submerged, the valves of a living clam open slightly and the animal filter feeds Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2921m3.jpg"
+  caption: |
+    <p>All kinds of animals stuck on a Fan shell.</p>
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg"
+  caption: |
+    <p>Keelworms on the portion of the shell above the ground.</p>
+    <p>Pulau Sekudu, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch2.jpg"
+  caption: |
+    <p>Snapping shrimp found inside a living Fan shell.</p>
+    <p>Changi, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158684691063713&set=a.10158684715908713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/2007024chgtch1.jpg"
+  caption: |
+    <p>Snapping shrimp found inside a living Fan shell.</p>
+    <p>Changi, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158684684293713&set=a.10158684715908713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg"
+  caption: |
+    <p>A <a href="../../../vertebrates/fish/blenniidae/variabilis.htm">fang-blenny</a> guarding eggs laid inside a dead Fan shell.</p>
+    <p>Tanah Merah, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgd2790m3.jpg"
+  caption: |
+    <p>Crab and Drills hiding in a dead Fan shell.</p>
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/120510chgs07181m3.jpg"
+  caption: |
+    <p>Eggs laid on the inside of a dead Fan shell.</p>
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/190218cnyrk1.jpg"
+  caption: |
+    <p>Coney Island, Feb 19 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156856801417906&set=a.10156856799117906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250909lazlks8.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160508kusjt13.jpg"
+  caption: |
+    <p>Kusu Island, May 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/111001sjiro4m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/160208smkshpy2.jpg"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100617tblks4m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4710723253/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/250812tbal4.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100130brklks8m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353270058/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/100601slud4790m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/32210599507/ "Fan shell clams (Family Pinnidae)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/050511cftg6307m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,55 +158,15 @@ shells a little. They then generate a current of water through the
 shell and sieve out the food particles with enlarged gills. When the
 tide goes out, they clamp up their shells tightly to prevent water
 loss.
-![](pinnidae/050511cftg6307m6l.jpg)  
-Byssus threads on the narrow end of the shell anchor the animal
-in the ground. *Changi, May 05*  
-*![](pinnidae/011021cjd0933m3.jpg)*The razor-sharp edge can cut barefoot visitors*.  
-Chek Jawa, Oct 01*
-**Role
-in the ecosystem:** All manner of seaweeds and encrusting
-animals often settle on the portions of the fan clam that sticks out
-above the sand, even when the clam is still alive. These provide food and shelter for small animals. The tiny
-Pea crab (*Pinnotheres* sp.) and small snapping shrimps are sometimes found living inside
-these clams. The crab not only gains shelter but also eats some of the food gathered
-by the fan shell host. The space between the valves of a dead fan clam is a safe space for animals to shelter or lay their eggs.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pinnidae/060625bbd3447m3.jpg)  
-When submerged,
-the valves of a living clam   
-open slightly
-and the animal filter feeds  
-*Beting Bronok, Jun 06*
 
-![](pinnidae/120510chgd2921m3.jpg)  
-All kinds of animals stuck on a Fan shell.  
-*Changi, May 12*
 
-![](pinnidae/060624skdd3239m3d.jpg)  
-Keelworms on the portion of   
-the shell above the ground.  
-*Pulau Sekudu, Jun 06*
 
-![](pinnidae/2007024chgtch2.jpg)  
-Snapping shrimp found inside a living Fan shell.  
-*Changi, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158684691063713&set=a.10158684715908713&type=3&theater).
 
-![](pinnidae/2007024chgtch1.jpg)  
-Snapping shrimp found inside a living Fan shell.  
-*Changi, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158684684293713&set=a.10158684715908713&type=3&theater).
 
-![](../../../vertebrates/fish/blenniidae/variabilis/090918tmd0989m3a.jpg)  
-A [fang-blenny](../../../vertebrates/fish/blenniidae/variabilis.htm) guarding eggs   
-laid inside a dead Fan shell.  
-*Tanah Merah, Sep 09*
 
-![](pinnidae/120510chgd2790m3.jpg)  
-Crab and Drills hiding in a dead Fan shell.  
-*Changi, May 12*
 
-![](pinnidae/120510chgs07181m3.jpg)  
-Eggs laid on the inside of a dead Fan shell.  
-*Changi, May 12*
 
 **Human
 uses:** Fan clams are edible and were once plentiful in Singapore
@@ -169,50 +205,24 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pinnidae/190218cnyrk1.jpg)  
-Coney Island, Feb 19*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156856801417906&set=a.10156856799117906&type=3&theater).
 
 ---
 
-*![](pinnidae/250909lazlks8.jpg)  
-Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post).
 
-*![](pinnidae/160508kusjt13.jpg)*  
-*Kusu
-Island, May 16*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3).
 
-*![](pinnidae/111001sjiro4m3.jpg)*  
-*St. John's
-Island, Oct 11*  
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3).
 
 ---
 
-*![](pinnidae/160208smkshpy2.jpg)  
-Pulau Semakau South, Feb 16*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3).
 
-*![](pinnidae/100617tblks4m3.jpg)  
-Terumbu Bemban, Jun 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4710723253/).
 
-![](pinnidae/250812tbal4.jpg) *Terumbu Bemban, Aug 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post).
 
 ---
 
-*![](pinnidae/100130brklks8m3.jpg)  
-Terumbu Berkas, Jan 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353270058/).
 
-*![](../pinnidae/pinnidae/100601slud4790m3.jpg)**Pulau
-Salu, Jun 10*
 
 ---
 
 [Sudden explosion of Fan clams at Changi, Feb 2019](https://wildshores.blogspot.com/2019/02/clam-takeover-at-changi.html) from the wild shores of singapore blog.  
-[![Fan shell clams (Family Pinnidae)](https://live.staticflickr.com/7906/32210599507_87b4528e75_z.jpg)](https://www.flickr.com/photos/wildsingapore/32210599507/ "Fan shell clams (Family Pinnidae)")
 
 ---
 

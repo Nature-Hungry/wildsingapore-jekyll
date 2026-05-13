@@ -2,7 +2,7 @@
 title: Sidegill slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "side, gill, notaspidea, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pleurobranchidae
 genus: ""
 species: ""
@@ -19,6 +19,20 @@ superorder: Nudipleura
 order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
+  caption: |
+    <p><a href="pleurobranchus.htm">Forskal's sidegill slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
+  caption: |
+    <p><a href="euselenops.htm">Moon-headed sidegill slug</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg"
+  caption: |
+    <p>Pleurobranchea brockii Changi, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155349681278158&set=pcb.10155349682483158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg"
+  caption: |
+    <p>Pleurobranchea brockii Changi, May 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154707808471295&set=a.10154707806301295&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,10 +90,7 @@ Sidegill slugs of Singapore**
 
 ---
 
-**![](pleurobranchus/090606tmftd3261m3.jpg)  
-[Forskal's sidegill slug](pleurobranchus.htm)**
-**![](euselenops/121214chged2264m3.jpg)  
-[Moon-headed sidegill slug](euselenops.htm)**
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
@@ -88,13 +99,7 @@ Sidegill slugs of Singapore**
 
 ---
 
-*![](others/170528chglks3.jpg)*  
-*Pleurobranchea brockii  
-Changi, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155349681278158&set=pcb.10155349682483158&type=3&theater).
 
-![](others/170528chgjll1.jpg)  
-*Pleurobranchea brockii  
-Changi, May 17*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10154707808471295&set=a.10154707806301295&type=3&theater).
 
 ---
 

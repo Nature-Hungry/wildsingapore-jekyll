@@ -2,7 +2,7 @@
 title: Baler volute
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "baler, shell, melo, melo, volutidae, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Volutidae
 genus: Melo
 species: melo
@@ -15,6 +15,66 @@ subphylum: Vertebrata
 class: Aves
 order: Passeriformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/050820bbg1813m6l.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/140616bbmn.jpg"
+  caption: |
+    <p>Baler snail eating a <a href="nobilis.htm">Noble volute</a>!</p>
+    <p>Beting Bronok, Jun 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/32623305000/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg"
+  caption: |
+    <p>Baler snail eating a <a href="nobilis.htm">Noble volute</a>!</p>
+    <p>Chek Jawa, Jun 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/chek-jawa-northern-sandbar-check-out.html">her blog.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100614bbd5993m6l.jpg"
+  caption: |
+    <p>A much smaller one riding on the back of a bigger one.</p>
+    <p>Prelude to mating?</p>
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/080705bbd7195.jpg"
+  caption: |
+    <p>Small juvenile snail.</p>
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/110520chglks4m3a.jpg"
+  caption: |
+    <p>'Face' of the Baler snail!</p>
+    <p>Changi, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discover.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/090622chglks.JPG"
+  caption: |
+    <p>Changi, Jun 09 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4170658087/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/120802chglks.JPG"
+  caption: |
+    <p>Changi, Aug 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8502457349/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100912chgnml1m3a.jpg"
+  caption: |
+    <p>Changi, Sep 10 Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/09/snails-solefish-slugs-galore.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/180811chglks1.jpg"
+  caption: |
+    <p>Changi, Aug 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156547444658158&set=a.10156547440993158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/080704bblks.jpg"
+  caption: |
+    <p>Eating a <a href="../strombidae/canarium.htm">Gong-gong snail</a>?</p>
+    <p>Beting Bronok, Jul 08 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2901972588/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/210627bbtch1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159558280973713&set=a.10159558307518713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/230706bbky2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 23 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168526812850112&set=a.10168526808550112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/150618tmfhpy2m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153322164199000.1073741963.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/180909ecpdc1.jpg"
+  caption: |
+    <p>East Coast Park, Sep 18 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744181052365330&set=a.1744178422365593&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/200723nrsccrk3.jpg"
+  caption: |
+    <p>East Coast Park, Jul 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158355544417906&set=a.10158355526527906&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/060625bbd3342m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,23 +127,13 @@ large foot which is plain and pale on the underside. It has a pair
 of slender tentacles, a long siphon that sticks out of the notch at
 the front of the shell, and a long proboscis, both banded brown and
 white.
-*![](melo/060625bbd3342m3.jpg)  
-Beting Bronok, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](melo/050820bbg1813m6l.jpg)  
-Beting Bronok, Aug 05*
 
 **What does it eat?** This predator and hunts other snails, moving about on the surface. Like
 other volutes, it uses its large foot to enclose the prey. So far, we have seen them eating [Noble volutes](nobilis.htm) and also [Gong-gong snail](../strombidae/canarium.htm).
 
-*![](melo/140616bbmn.jpg)*Baler snail eating a [Noble volute](nobilis.htm)!  
-*Beting Bronok, Jun 14*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/32623305000/).
 
-*![](melo/100619cjtch1m3.jpg)*Baler snail eating a [Noble volute](nobilis.htm)!  
-*Chek Jawa, Jun 10*   
-Photo shared by Toh Chay Hoon on [her
-blog.](http://colorclouds.blogspot.com/2010/06/chek-jawa-northern-sandbar-check-out.html)
 
 **Volute babies:** In members of the
 Famliy Volutidae, the male fertilises the female internally. There
@@ -91,10 +141,7 @@ is no free-swimming larval stage and crawling juvenile snails emerge
 from the egg. As a result, volutes have a restricted range and local
 populations can be wiped out by over-collection.
 
-*![](melo/100614bbd5993m6l.jpg)* A much smaller one riding on the   
-back of a bigger one. Prelude to mating? *Beting Bronok, Jun 10*
 
-*![](melo/080705bbd7195.jpg)*Small juvenile snail. *Beting Bronok, Jul 08*
 
 **Human uses:** This snail is collected for
 food even, sadly, on Singapore shores. Elsewhere, the empty shell
@@ -134,53 +181,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](melo/110520chglks4m3a.jpg)*'Face' of the Baler snail! *Changi, May 11*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discover.html).
 
-*![](melo/090622chglks.JPG)  
-Changi, Jun 09*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4170658087/in/album-72157607622389163/).
 
 ---
 
-*![](melo/120802chglks.JPG)  
-Changi, Aug 12*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8502457349/in/album-72157607622389163/).
 
-*![](melo/100912chgnml1m3a.jpg)**Changi, Sep 10*  
-Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/09/snails-solefish-slugs-galore.html).
 
-*![](melo/180811chglks1.jpg)  
-Changi, Aug 18*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156547444658158&set=a.10156547440993158&type=3&theater).
 
 ---
 
-*![](melo/080704bblks.jpg)*Eating a [Gong-gong snail](../strombidae/canarium.htm)? *Beting Bronok, Jul 08*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2901972588/).
 
-*![](melo/210627bbtch1.jpg)  
-Beting Bronok, Jun 21*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159558280973713&set=a.10159558307518713).
 
-*![](melo/230706bbky2.jpg)  
-Beting Bronok, Jul 23*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168526812850112&set=a.10168526808550112).
 
 ---
 
-*![](melo/150618tmfhpy2m3.jpg)**Tanah Merah Ferry Terminal, Jun 15*  
-Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153322164199000.1073741963.589418999&type=3).
 
-*![](melo/180909ecpdc1.jpg)  
-East Coast Park, Sep 18*   
-Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1744181052365330&set=a.1744178422365593&type=3&theater).
 
-*![](melo/200723nrsccrk3.jpg)  
-East Coast Park, Jul 20*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158355544417906&set=a.10158355526527906&type=3&theater).
 
 ---
 

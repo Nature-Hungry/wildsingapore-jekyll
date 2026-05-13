@@ -2,7 +2,7 @@
 title: Geographic sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aplysiidae
 genus: Syphonota
 species: geographica
@@ -18,6 +18,45 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg"
+  caption: |
+    <p>Tiny rhinophores near one another, held between parapodia.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg"
+  caption: |
+    <p>Thin internal shell.</p>
+    <p>Changi, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg"
+  caption: |
+    <p>Laying egg string Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg"
+  caption: |
+    <p>Half buried in soft sediment.</p>
+    <p>Changi, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg"
+  caption: |
+    <p>Swimming sea hare!</p>
+    <p>Cyrene Reef, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg"
+  caption: |
+    <p>East Coast Park, May 16Photo shared by Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG"
+  caption: |
+    <p>Tuas, Mar 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/03/underwater-fantasy-at-tuas.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2011/08/more-surprises-at-cyrene-reefs.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg"
+  caption: |
+    <p>Cyrene, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405641258158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Sea Challengers.</p>
+    <p>314pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,16 +106,9 @@ with fine line horizontal lines along the body.
   
 **Sometimes confused with** the [Spotted sea hare](spotted.htm) which has a pattern of tiny white spots that form patches and doesn't have fine horizontal lines.
 
-![](geographica/050608cftg7393m3.jpg)  
-*Changi, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](geographica/050608cftg7393m3a.jpg)  
-Tiny rhinophores near one another,  
-held between parapodia.
 
-![](geographica/070614chgd2152m3.jpg)  
-Thin internal
-shell. *Changi, Jun 07*
 
 **Baby sea hares:**  It lays long tangles of
 pink egg strings among seaweeds and seagrasses.  
@@ -86,16 +118,8 @@ to feed on brown seaweeds, but in our observations, these animals
 seem more abundant during blooms of the green [sea
 lettuce seaweed](../../../plants/seaweed/chlorophyta/ulva.htm) (*Ulva* sp.).
 
-![](geographica/050622cftd4094m3.jpg)  
-Laying egg string  
-*Changi, Jun 05*
 
-![](geographica/120410chgd9081m3.jpg)  
-Half buried in soft sediment. *Changi, Apr 12*
 
-![](geographica/111124cyrs00191m3.jpg)  
-Swimming sea
-hare!  *Cyrene Reef, Nov 11*
 
 ---
 
@@ -114,22 +138,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](geographica/160510ecpbsyj2.jpg)  
-*East Coast Park, May 16*Photo shared by Ywee Chieh on [facebook](https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3).
 
-![](geographica/150320tuslks2m3.JPG)  
-*Tuas, Mar 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/03/underwater-fantasy-at-tuas.html).
 
 ---
 
-![](geographica/110830cyrnml1m3.JPG)  
-*Cyrene Reef,
-Aug 11*Photo
-shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2011/08/more-surprises-at-cyrene-reefs.html).
 
-![](geographica/200627cyrlks2.jpg)  
-*Cyrene, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158405641258158&set=a.10158405653668158&type=3&theater).
 
 ---
 
@@ -162,7 +175,6 @@ blog](http://psychedelic-nature.blogspot.com/2011/08/more-surprises-at-cyrene-re
 - Gosliner,
   Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)* Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -2,7 +2,7 @@
 title: Threespot damselfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "three, spot, damsel, fish, damselfish, pomacentrus, tripunctatus, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60, 69, 70, 106, 108]
 family: Pomacentridae
 genus: Pomacentrus
@@ -17,6 +17,84 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg"
+  caption: |
+    <p>Tiny juvenile.</p>
+    <p>Cyrene, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m6l.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m6l.jpg"
+  caption: |
+    <p>Adult.</p>
+    <p>Tuas, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3566m3.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Tanah Merah, Jun 11</p>
+- url: "https://live.staticflickr.com/2805/33971040050_e22ae4991b_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/33971040050/ "Threespot damselfish (Pomacentrus tripunctatus)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/200722lyglks5.jpg"
+  caption: |
+    <p>Changi-Loyang, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158477543388158&set=a.10158477547983158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180517skddc1.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1588199397963497&set=a.1588198184630285&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/120508skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7233288090/in/album-72157629635241400/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090818tmjk5m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappointsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/090918tmjk2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/220813pcnccn1.jpg"
+  caption: |
+    <p>East Coast Park (PCN), Aug 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159864598923654&set=a.10159864580043654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/210628ecpBlks7.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300983688158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntccn1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161141184508654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks4.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161368188203158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240527sntlks5.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161368188203158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/260104trmlvo3.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 26Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/171009blyay10.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/240820kusmn1.jpg"
+  caption: |
+    <p>Kusu Island, Aug 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10160432626088660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100502trylks1m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4570783612/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/140810smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14940725441/in/album-72157646319379351/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/180514jngll1.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1892284834128180&set=a.1892282920795038&type=3&theater">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/190522tsmll1.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 19Photo shared by Liz Lim on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110517tptsy1m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Sam Yeo on <a href="http://www.facebook.com/media/set/?set=a.10150253820478140.371891.580878139">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/100530biomn.jpg"
+  caption: |
+    <p>Pulau Biola, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4655544802/in/album-72157624047023581/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,24 +137,16 @@ seen about 12-15cm long. Adults dull greenish black or dark grey with
 a blue-edged black spot on the upper tail base, usually seen under rocks at low tide. Juveniles may have an additional blue-edged black spot on the soft
 parts of the dorsal fin and blue lines on the head and back.
 
-![](tripunctatus/080410cyrd0050m3.jpg)  
-Tiny juvenile. *Cyrene, Apr 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tripunctatus/110602tmftd3572m6l.jpg)  
-Juvenile. *Tanah Merah, Jun 11*
 
-![](tripunctatus/050411tusg4489m6l.jpg)  
-Adult. *Tuas, Apr 05*
 
-![](tripunctatus/110602tmftd3566m3.jpg)  
-Juvenile. *Tanah Merah, Jun 11*
 
 **Tiny but tough:** Tiny juveniles 2-3cm long can have electric blue lines (although
 these little fishes may also be the juveniles of *Pomacentrus cuneatus* or *Pomacentrus cheraphilus*). These tiny fishes seem to be territorial and swim in jerky darting movements around their 'turf'.  
   
 **What does it eat?** It eats mainly
 algae growing on the sea bottom.
-[![Threespot damselfish (Pomacentrus tripunctatus)](https://live.staticflickr.com/2805/33971040050_e22ae4991b_z.jpg)](https://www.flickr.com/photos/wildsingapore/33971040050/ "Threespot damselfish (Pomacentrus tripunctatus)")
 
 ---
 
@@ -95,83 +165,39 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tripunctatus/200722lyglks5.jpg)  
-*Changi-Loyang, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158477543388158&set=a.10158477547983158&type=3&theater).
 
-![](tripunctatus/180517skddc1.jpg)  
-*Pulau Sekudu, May 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1588199397963497&set=a.1588198184630285&type=3&theater).
-![](tripunctatus/120508skdmn.jpg)  
-*Pulau Sekudu, May 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7233288090/in/album-72157629635241400/).
 
 ---
 
-![](tripunctatus/090818tmjk5m3.jpg)  
-*Tanah Merah, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappointsl).
 
-![](tripunctatus/090918tmjk2m3.jpg)  
-*Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl).
 
 ---
 
-![](tripunctatus/220813pcnccn1.jpg)  
-*East Coast Park (PCN), Aug 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10159864598923654&set=a.10159864580043654).
 
-![](tripunctatus/210628ecpBlks7.jpg)  
-*East Coast Park (B), Jun 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159300983688158&set=a.10159300990763158).
  
 
 ---
 
-*![](tripunctatus/240527sntccn1.jpg)**Sentosa Tg Rimau, May 24*  
-Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161141184508654).
 
-![](tripunctatus/240527sntlks4.jpg)  
-*Sentosa Tg Rimau, May 24*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161368188203158).
-![](tripunctatus/240527sntlks5.jpg)  
-*Sentosa Tg Rimau, May 24*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161368188203158).
 
 ---
 
-*![](tripunctatus/260104trmlvo3.jpg)  
-Sentosa Tg Rimau, Jan 26*Photo
-shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post).
 
 ---
 
-![](tripunctatus/171009blyay10.jpg)  
-*Berlayar Creek, Oct 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3).
 
-![](tripunctatus/240820kusmn1.jpg)  
-*Kusu Island, Aug 24*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10160432626088660&type=3&ref=embed_post).
 
 ---
 
-![](tripunctatus/100502trylks1m3.jpg)  
-*Terumbu Raya, May 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4570783612/).
 
-![](tripunctatus/140810smkmn.jpg)  
-*Pulau Semakau, Aug 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14940725441/in/album-72157646319379351/).
 
 ---
 
-![](tripunctatus/180514jngll1.jpg)  
-*Pulau Jong, Aug 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=1892284834128180&set=a.1892282920795038&type=3&theater)
 
-![](tripunctatus/190522tsmll1.jpg)  
-*Terumbu Semakau, May 19*Photo shared by Liz Lim on facebook.
 
 ---
 
-![](tripunctatus/110517tptsy1m3.jpg)  
-*Terumbu Pempang Tengah, May 11*Photo shared by Sam Yeo on [facebook](http://www.facebook.com/media/set/?set=a.10150253820478140.371891.580878139)
 
-![](tripunctatus/100530biomn.jpg)  
-*Pulau Biola, May 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4655544802/in/album-72157624047023581/).
 
 ---
 

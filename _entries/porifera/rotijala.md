@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "roti, jala, sponge, porifera, terpios, suberitidae, field, guide, seashore,"
-layout: default
+layout: entry
 shape: encrusting
 title: 'Roti jala' sponge
 family: Suberitidae
@@ -16,6 +16,17 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3a.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0115m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 13</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/rotijala/130723bbd0097m3.jpg"
 ---
 
 
@@ -40,14 +51,9 @@ Jala](http://hungerhunger.blogspot.sg/2008/03/roti-jala-net-pancakes.html). It i
 in diameter, in a tangled jumble that may be 20cm wide. On rubbly
 areas or tangled on other encrusting organisms. Although the surface
 may appear smooth, it is rather rough. The strings are fragile.
-![](rotijala/130723bbd0097m3.jpg)  
-*Beting Bronok, Jul 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rotijala/130723bbd0115m3a.jpg)  
-*Beting Bronok, Jul 13*
 
-![](rotijala/130723bbd0115m3.jpg)  
-*Beting Bronok, Jul 13*
 
   
 *\*Sponge

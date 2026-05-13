@@ -2,7 +2,7 @@
 title: Variegated sundial snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sundial, heliacus, variegatus, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Architectonicidae
 genus: Heliacus
 species: variegatus
@@ -15,6 +15,27 @@ class: Gastropoda
 subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg"
+  caption: |
+    <p>St John's Island, Feb 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg"
+  caption: |
+    <p>Operculum is conical and resembles a drill.</p>
+    <p>St John's Island, Feb 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg"
+  caption: |
+    <p>St John's Island, Feb 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/2555361951/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on  <a href="http://www.flickr.com/photos/chimck/2652195775/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4149.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,12 +75,7 @@ texture, colours usually alternating dark and light. The operculum is conical wi
 **What does it eat?** It feeds on [zoanthids](../../../cnidaria/others/zoanthid/zoanthid.htm) and is said to be always found in close association with zoanthids.  
   
 **Baby sundials:** It lays long egg strings.
-![](variegatus/130211sjid4149.jpg)  
-*St John's Island, Feb 13*
-![](variegatus/130211sjid4147.jpg)  
-Operculum is conical and resembles a drill. *St John's Island, Feb 13*
-![](variegatus/130211sjid4300.jpg)  
-*St John's Island, Feb 13*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -78,18 +94,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](variegatus/080606cyrcck1m3.jpg)  
-*Cyrene Reef, Jun 08*  
-Photo shared by Chim
-Chee Kong on [flickr](http://www.flickr.com/photos/chimck/2555361951/).
 
-![](variegatus/080606cyrcck2m3.jpg)  
- *Cyrene Reef,
-Jun 08*  
-Photo shared by Chim
-Chee Kong on  [flickr](http://www.flickr.com/photos/chimck/2652195775/).
 
-![](variegatus/080606cyrcck2m3b.jpg)
 
 ---
 

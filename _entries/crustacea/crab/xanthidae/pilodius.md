@@ -2,7 +2,7 @@
 title: Pilodius rock crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rock, crab, pilodius, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Xanthidae
 genus: Pilodius
@@ -24,6 +24,18 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Chlorodiellinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1827m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,12 +77,9 @@ The pincers with spoon-shaped tips. Legs with pointed tips.
 **Sometimes confused with** juveniles
 of other crabs of the [Family Xanthidae](xanthidae).
 
-*![](pilodius/111001sjid1824m3.jpg)*  
-*St. John's Island, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pilodius/111001sjid1827m3.jpg)*
 
-*![](pilodius/111001sjid1827m3a.jpg)*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Ridged corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, platyzoanthus, mussoides, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 102]
 family: Discosomidae
 genus: Platyzoanthus
@@ -15,6 +15,59 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060212sisg4720m3.jpg"
+  caption: |
+    <p>Sisters Islands, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060212sisg4721m3.jpg"
+  caption: |
+    <p>Splitting up into two?</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060628sntd3753m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/060628sntd3753m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5569m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100617tbjk2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/220619tsmjk1.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5892055577474431&set=a.5892057857474203">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100131slulks4m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/100131slulks4m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4350456277/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/110717tblks6m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/110717tblks6m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/octopuses-mating-at-terumbu-bemban.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/210428slulks1.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/210428slulks1a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467068158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/120124sisd5864m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,24 +112,14 @@ brown.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](ridged/120124sisd5864m3.jpg)  
-Sisters Island, Jan 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ridged/120124sisd5864m3a.jpg)*
 
-*![](ridged/120124sisd5864m3b.jpg)*
 
 ---
 
-*![](ridged/060212sisg4720m3.jpg)  
-Sisters Islands, Feb 06  
-![](ridged/060212sisg4721m3.jpg)*Splitting up into two?
 
-*![](ridged/060628sntd3753m3.jpg)  
-Sentosa, Jun 06![](ridged/060628sntd3753m3a.jpg)*
 
-*![](ridged/050807sjid5569m3.jpg)  
-St John's Island, Aug 05**![](ridged/050807sjid5570m3.jpg)*
 
   
 *\*Species are difficult
@@ -101,27 +144,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](ridged/100617tbjk2m3.jpg)  
-Terumbu Bemban, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100617-terumbu-bemban-and-terumbu.html).
 
-*![](ridged/220619tsmjk1.jpg)  
-Terumbu Semakau, Jun 22*Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=5892055577474431&set=a.5892057857474203).
 
 ---
 
-*![](ridged/100131slulks4m3.jpg)  
-Terumbu Salu, Jan 10**![](ridged/100131slulks4m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4350456277/).
 
-*![](ridged/110717tblks6m3.jpg)*  
-*Terumbu Bemban, Jul 11  
-![](ridged/110717tblks6m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/octopuses-mating-at-terumbu-bemban.html).
 
-*![](ridged/210428slulks1.jpg)  
-Pulau Salu, Apr 21  
-![](ridged/210428slulks1a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162467068158&set=a.10159162473618158).
 
 ---
 

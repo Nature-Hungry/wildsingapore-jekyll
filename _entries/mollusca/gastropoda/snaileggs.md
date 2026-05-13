@@ -2,7 +2,7 @@
 title: Snail eggs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snail, egg, capsule, mass, gastropod,  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: ""
@@ -11,6 +11,61 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg"
+  caption: |
+    <p><a href="melogenidae/cochlidium.htm">Spiral melongena snail</a> laying its large egg capsules.</p>
+    <p>Tanah Merah, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg"
+  caption: |
+    <p><a href="muricidae/elegant.htm">Elegant drills</a> laying eggs on a rock.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg"
+  caption: |
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260098m3.jpg"
+  caption: |
+    <p><a href="muricidae/chicoreus.htm">Reef murex</a> laying egg capsules on a dead Fan clam shell.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260098m3b.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg"
+  caption: |
+    <p><a href="strombidae/canarium.htm">Gong gong snail</a> laying fine beige egg string.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/030619bbd0247m3.jpg"
+  caption: |
+    <p><a href="volutidae/nobilis.htm">Noble volute</a> with its egg capsule.</p>
+    <p>Beting Bronok, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
+  caption: |
+    <p><a href="naticidae/sandcollar.htm">Sand collar</a> of a moon snail.</p>
+    <p>Pulau Sekudu, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg"
+  caption: |
+    <p><a href="limpets/limpet.htm">Limpet</a> with its egg capsule.</p>
+    <p>East Coast Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/050526cjg6730m3.jpg"
+  caption: |
+    <p><a href="cypraeidae/cypraeidae.htm">Mother cowries</a> usually stay over their egg mass.</p>
+    <p>Don't remove them.</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/050206cjd9930m3.jpg"
+  caption: |
+    <p>Another mama cowrie with her eggs.</p>
+    <p>Chek Jawa, Feb 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg"
+  caption: |
+    <p><a href="neritidae/neritidae.htm">Nerites</a> mating with their white egg capsules.</p>
+    <p>Chek Jawa, Feb 02</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -58,32 +113,15 @@ capsules, little packages of several eggs. These are often attached
 to hard surfaces. Other snails may form other egg masses, such as
 the sand collar of the moon snail.
 
-*![](melogenidae/cochlidium/110929tmftd1502m3.jpg)*[Spiral
-melongena snail](melogenidae/cochlidium.htm) laying its large egg capsules.  
-*Tanah Merah, Sep 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](melogenidae/cochlidium/110929tmftd1502m3a.jpg)*
 
-![](melogenidae/cochlidium/111226tmftd5043m3.jpg)
 
 ---
 
-![](muricidae/elegant/050726chgg0439m3.jpg)  
-[Elegant
-drills](muricidae/elegant.htm) laying eggs on a rock.
   
-![](muricidae/elegant/050726chgg0439m3c.jpg)  
-*Changi, Jul 05*
 
-*![](muricidae/chicoreus/170726cyro7260098m3.jpg)*[Reef murex](muricidae/chicoreus.htm) laying egg capsules   
-on a dead Fan clam shell.  
-*![](muricidae/chicoreus/170726cyro7260098m3b.jpg)  
-Cyrene Reef, Jun 17*
 
-*![](strombidae/canarium/100728tmd9438m3.jpg)*[Gong gong snail](strombidae/canarium.htm) laying fine beige egg string.  
-*![](strombidae/canarium/100728tmd9438m3b.jpg)  
-Tanah Merah, Jul
-10*
 
 ---
 
@@ -92,35 +130,13 @@ eggs on Singapore shores**
 
 ---
 
-![](volutidae/nobilis/030619bbd0247m3.jpg)  
-[Noble
-volute](volutidae/nobilis.htm) with its egg capsule.  
-*Beting Bronok, Jul 03*
 
-![](naticidae/sandcollar/030703skdd0250m3.jpg)  
-[Sand
-collar](naticidae/sandcollar.htm) of a moon snail.  
-*Pulau Sekudu, Jul 03*
 
-![](limpets/javanica/110829ecpd0209m3b.jpg)  
-[Limpet](limpets/limpet.htm) with its egg capsule.  
-*East Coast Park, Aug 11*
 
 ---
 
-![](cypraeidae/errones/050526cjg6730m3.jpg)  
-[Mother
-cowries](cypraeidae/cypraeidae.htm) usually stay over   
-their egg mass. Don't remove them.  
-*Chek Jawa, May 05*
 
-***![](cypraeidae/milliaris/050206cjd9930m3.jpg)***  
-Another mama cowrie with her eggs.  
-*Chek Jawa, Feb 05*
 
-![](neritidae/neritidaenoid/020213cjd6879m3.jpg)  
-[Nerites](neritidae/neritidae.htm) mating with their white egg capsules.  
-*Chek Jawa, Feb 02*
 
 [links](../../links.htm)
 | [references](../../references.htm)

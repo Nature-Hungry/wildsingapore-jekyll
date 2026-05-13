@@ -2,7 +2,7 @@
 title: "Chengam "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chengam, scyphiphora, hydrophyllacea, rubiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 120]
 family: Rubiaceae
 genus: Scyphiphora
@@ -17,6 +17,27 @@ subfamily: Ixoroideae
 tribe: Scyphiphoreae
 inat_id: 426640
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090126ubnd6180m3.jpg"
+  caption: |
+    <p>Small ridged fruits.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090517ubnd1888m3a.jpg"
+  caption: |
+    <p>Small pinkish flowers.</p>
+    <p>Pulau Ubin, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/090802ubind8202m3b.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/scyphiphora/hydrophyllacea/091115ubnd4242m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,18 +97,10 @@ make household objects such as spoons, while larger pieces are used
 for fence posts and firewood. The leaves are used to treat stomach
 problems.  
 
-*![](hydrophyllacea/091115ubnd4242m6l.jpg)  
-Pulau Ubin, Nov 09![](hydrophyllacea/090802ubind8202m3.jpg)  
-St. John's Island, Jul 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hydrophyllacea/090126ubnd6180m3.jpg)*Small
-ridged fruits. *Pulau Ubin, Jan 09*
 
-*![](hydrophyllacea/090517ubnd1888m3a.jpg)*Small
-pinkish flowers. *Pulau Ubin, May 09*
 
-*![](hydrophyllacea/090802ubind8202m3b.jpg)  
-St. John's Island, Jul 09*
 
 ---
 

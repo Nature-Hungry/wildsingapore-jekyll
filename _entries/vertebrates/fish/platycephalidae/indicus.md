@@ -2,7 +2,7 @@
 title: Bartail flathead
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flathead, flat, head, fish, platycephalus, indicus, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Platycephalidae
 genus: Platycephalus
@@ -17,6 +17,29 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg"
+  caption: |
+    <p>East Coast Park, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/100202chgsafd9255m6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8a.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/251107tmftlks8b.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/240820kusky3.jpg"
+  caption: |
+    <p>Kusu Island, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,26 +88,16 @@ with two pairs of white blotches across the body near the tail.
 **Sometimes mistaken** for other flattened fishes that live on the sea bottom. Here's more on [how to tell apart fishes
 with flat heads](../cfflatheads).
 
-![](indicus/081117ecpmd2274m3.jpg)  
-*East Coast Park, Nov 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](indicus/100202chgsafd9255m6l.jpg)
 
 ---
 
-*![](indicus/251107tmftlks8a.jpg)*  
-*Tanah Merah Ferry Terminal, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post).
 
-![](indicus/251107tmftlks8b.jpg)  
-*Tanah Merah Ferry Terminal, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post).
 
 ---
 
-![](indicus/030927cjd0083m3c.jpg)
 
-![](indicus/030927cjd0083m6l.jpg)  
-*Chek
-Jawa, Sep 03*
 
 **Human uses:** It is considered a
 good food fish and is used in traditional Chinese medicine.
@@ -110,7 +123,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](indicus/240820kusky3.jpg)* *Kusu Island, Aug 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post).
 
 ---
 

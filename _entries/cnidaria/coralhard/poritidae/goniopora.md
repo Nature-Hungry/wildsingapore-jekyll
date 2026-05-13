@@ -2,7 +2,7 @@
 title: Goniopora corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Poritidae
 genus: Goniopora
 species: ""
@@ -15,6 +15,44 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg"
+  caption: |
+    <p>Larger polyps of Anemone coral compared with smaller Small goniopora coral.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/050625labg8612m3b.jpg"
+  caption: |
+    <p>Circular corallites.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/031223tused0053m3b.jpg"
+  caption: |
+    <p>With tiny <a href="../../../worm/polycladida/acoel">acoel flatworms</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/060130hntg4247m3e.jpg"
+  caption: |
+    <p>With <a href="../../../worm/acoela/acoela">acoel flatworm</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100201hntd8971m3.jpg"
+  caption: |
+    <p><a href="gonbig">Anemone corals</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisd6415m3.jpg"
+  caption: |
+    <p><a href="gonbig">Anemone corals</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3.jpg"
+  caption: |
+    <p><a href="gonsmall">Small goniopora corals</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100201hntd8968m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/051204sisg3282m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonsmall/080510smkd3101m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/110522bbbd2821m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,25 +116,14 @@ starvation.
   
 **Status:** While a few species are listed as Near Threatened, for most there is inadequate information as at 2024 to make an informed assesment of their conservation status in Singapore.
 
-*****![](gonbig/110522bbbd2821m3.jpg)*****  
-Larger polyps of Anemone coral compared with smaller Small goniopora
-coral.
+{% include img-wrap-group.html items=page.page_images %}
 
-*****![](gonbig/110522bbbd2821m3a.jpg)*****
 
-*****![](gonbig/110522bbbd2821m3b.jpg)*****
 
 ---
 
-*****![](gonsmall/050625labg8612m3b.jpg)*****  
-Circular corallites.
 
-*![](gonsmall/031223tused0053m3b.jpg)*With tiny [acoel
-flatworms](../../../worm/polycladida/acoel).
 
-![](gonbig/060130hntg4247m3e.jpg)  
-With [acoel
-flatworm](../../../worm/acoela/acoela).
 
 ---
 
@@ -105,19 +132,11 @@ corals on Singapore shores**
 
 ---
 
-![](gonbig/100201hntd8971m3.jpg)  
-[**Anemone corals**](gonbig)
 
-![](gonbig/051204sisd6415m3.jpg)  
-[**Anemone corals**](gonbig)
 
-***![](gonsmall/080510smkd3101m3.jpg)* [**Small goniopora corals**](gonsmall)**
 
-![](gonbig/100201hntd8968m3a.jpg)
 
-![](gonbig/051204sisg3282m3a.jpg)
 
-*********![](gonsmall/080510smkd3101m3a.jpg)*********
 
   
 *\*Species are difficult

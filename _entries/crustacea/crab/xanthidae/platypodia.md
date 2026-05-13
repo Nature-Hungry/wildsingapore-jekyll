@@ -2,7 +2,7 @@
 title: "Curry puff crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ruby, reef, crab, liomera, venosa, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Xanthidae
 genus: Platypodia
@@ -24,6 +24,50 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8018m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250131tkkrk1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162082253287906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240608kustl5.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161279668269264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/190520hntlks2.jpg"
+  caption: |
+    <p>Pulau Hantu, Mau 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157209325888158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240725smkntt4.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234701792024164">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250629smkeal2.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/250727smkwml1.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jul 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122174317976554640&type=3&ref=embed_post">fcebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/230221trylks3.jpg"
+  caption: |
+    <p>Terumbu Raya, Feb 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160490621868158&set=a.10160490628508158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240310tplvc3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Mar 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253359202945&set=a.10160254104782945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/240609tptccn1.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161175291733654&set=a.10161175268323654">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd7985m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -74,16 +118,11 @@ floridus*).
 is listed as 'Endangered' in our Red List of threatened animals of
 Singapore.
 
-![](platypodia/110731tryd7985m3.jpg)  
-*Terumbu Raya, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](platypodia/110731tryd8022m3.jpg)
 
-![](platypodia/110731tryd8022m3a.jpg)
 
-![](platypodia/110731tryd8018m3a.jpg)
 
-![](platypodia/110731tryd8018m3.jpg)
 
 ---
 
@@ -102,38 +141,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](platypodia/250131tkkrk1.jpg)  
- *Pulau Tekukor, Jan 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162082253287906&type=3&ref=embed_post).
 
-![](platypodia/240608kustl5.jpg)  
- *Kusu Island, Jun 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161279668269264).
 
-![](platypodia/190520hntlks2.jpg)  
-*Pulau Hantu, Mau 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157209325888158&type=3).
 
 ---
 
-![](platypodia/240725smkntt4.jpg)  
-*Pulau Semakau North, Jul 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234701792024164).
 
-![](platypodia/250629smkeal2.jpg)  
-*Pulau Semakau East, Jun 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post).
 
-![](platypodia/250727smkwml1.jpg)  
-*Pulau Semakau (West), Jul 25*Photo shared by Mathias Luk on [fcebook](https://www.facebook.com/media/set/?set=a.122174317976554640&type=3&ref=embed_post).
 
 ---
 
-![](platypodia/230221trylks3.jpg)  
-*Terumbu Raya, Feb 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160490621868158&set=a.10160490628508158).
 
 ---
 
-![](platypodia/240310tplvc3.jpg)  
-*Terumbu Pempang Laut, Mar 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160253359202945&set=a.10160254104782945).
 
-![](platypodia/240609tptccn1.jpg)  
-*Terumbu Pempang Tengah, Jun 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161175291733654&set=a.10161175268323654).
 
 ---
 

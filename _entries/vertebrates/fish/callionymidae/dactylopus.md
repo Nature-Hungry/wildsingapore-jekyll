@@ -2,7 +2,7 @@
 title: Kuiter's dragonet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kuiter, dragonet, fish, callionymidae, dactylopus, kuiteri, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Callionymidae
 genus: Dactylopus
@@ -17,6 +17,36 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m6l.jpg"
+  caption: |
+    <p>Kusu Island, May 14 What does it eat?</p>
+    <p>It feeds on molluscs, worms and crustaceans.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/171104cyrtch1.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155928421028713.1073742117.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508crylks1m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kuslks.JPG"
+  caption: |
+    <p>Kusu Island, May 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24881096796/in/album-72157607725117581/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/110508cyrro1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11 Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.165439056849134.40120.133291903397183">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/080425cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2440246005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170514bbbdc1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 17 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1243709809079126&set=a.1243708225745951&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch2.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/170513tpltch1.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,13 +105,7 @@ fin.
   
 **Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
 to tell apart fish with flat heads](../cfflatheads).
-![](dactylopus/170513tpltch1.jpg)  
-*Terumbu Pempang Laut, May 17*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story).
-![](dactylopus/140501kusd5015m6l.jpg)  
-*Kusu Island, May 14*
-**What does it eat?** It feeds on
-molluscs, worms and crustaceans.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** May be harvested for
 the aquarium trade.
@@ -103,39 +127,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](dactylopus/171104cyrtch1.jpg)  
-*Cyrene Reef, Nov 17* Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155928421028713.1073742117.619308712&type=3).
 
-![](dactylopus/110508crylks1m6l.jpg)  
-*Cyrene Reef, May 11*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
 ---
 
-![](dactylopus/140501kuslks.JPG)  
-*Kusu Island, May 14*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24881096796/in/album-72157607725117581/).
 
-![](dactylopus/110508cyrro1m3.jpg)  
-*Cyrene Reef, May 11*  
-Photo shared by Rene Ong on [facebook](http://www.facebook.com/media/set/?set=a.165439056849134.40120.133291903397183).
 
 ---
 
-![](dactylopus/080425cyrmn.jpg)  
-*Cyrene Reef, Apr 08*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/2440246005/).
 
-![](dactylopus/170514bbbdc1.jpg)  
-*Beting Bemban Besar, May 17*  
-Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1243709809079126&set=a.1243708225745951&type=3&theater).
 
 ---
 
-![](dactylopus/170513tpltch2.jpg)  
-*Terumbu Pempang Laut, May 17*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story).
 
 ---
 

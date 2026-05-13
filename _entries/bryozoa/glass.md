@@ -2,7 +2,7 @@
 title: Glassy branching bryozoan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: identification*
@@ -11,6 +11,30 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3349m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3347m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9021m3.jpg"
+  caption: |
+    <p>Changi, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9304m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9305m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/130112pgllks.JPG"
+  caption: |
+    <p>Okenia pellucida, a nudibranch that is seen on this Bryozoan.</p>
+    <p>Punggol, Jan 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567658318/in/album-72157625372847848/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
 ---
  
 
@@ -38,25 +62,17 @@ branches.
   
 **Sometimes mistaken for** a [hydroid](../cnidaria/others/hydrozoa/hydrozoa).
 
-*![](glass/111030skdd3345m3.jpg)  
-Pulau Sekudu, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](glass/111030skdd3349m3.jpg)*
 
-*![](glass/111030skdd3347m3a.jpg)*
 
 ---
 
-*![](glass/120410chgd9021m3.jpg)  
-Changi, Apr 12*
 
-*![](glass/120410chgd9304m3.jpg)*
 
-*![](glass/120410chgd9305m3.jpg)*
 
 ---
 
-*![](glass/130112pgllks.JPG)**Okenia pellucida*, a nudibranch that is seen on this Bryozoan. *Punggol, Jan 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8567658318/in/album-72157625372847848/).
 
  *\*Species are difficult
 to positively identify without close examination.  

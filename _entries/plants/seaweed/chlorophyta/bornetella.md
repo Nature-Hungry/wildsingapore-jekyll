@@ -2,7 +2,7 @@
 title: Green sea sausage seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sausage, seaweed, weed, green, bornetella, oligospora, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Dasycladaceae
 genus: Bornetella
@@ -15,6 +15,45 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2286m3a.jpg"
+  caption: |
+    <p>Tufts of white filaments at the tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100617tsmd6418m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/040522kusad0037m3.jpg"
+  caption: |
+    <p>With thinner <a href="neomeris">white-stemmed seaweed</a>.</p>
+    <p>Kusu Island , May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/160314lazjt1.jpg"
+  caption: |
+    <p>Lazarus Island, Mar 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153964702408119.1073741894.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/060713rlhd4364m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100531biod4454m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100613sngd5536m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/091231biod6815m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/100502tryd2285m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,17 +114,10 @@ that are slightly curved, sometimes with reddish tips. The two species
 are only positively distinguished by microscopic examination of reproductive
 features.
 
-*![](bornetella/100502tryd2285m3.jpg)  
-Terumbu Raya, May 10  
-![](bornetella/100502tryd2286m3a.jpg)*Tufts
-of white filaments at the tips.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bornetella/100617tsmd6418m3.jpg)  
-*Terumbu Semakau, Jun 10*
 
-![](bornetella/100617tsmd6418m3b.jpg)
 
-*![](bornetella/040522kusad0037m3.jpg)*With thinner [white-stemmed seaweed](neomeris). *Kusu Island , May 04*
 
   
 *\*Species are difficult
@@ -111,29 +143,16 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](bornetella/160314lazjt1.jpg)  
-Lazarus Island, Mar 16  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153964702408119.1073741894.696593118&type=3).*
 
-![](bornetella/060713rlhd4364m3.jpg)  
-*Raffles Lighthouse, Jul 06*
 
 ---
 
-![](bornetella/100531biod4454m3.jpg)  
-*Pulau Biola, May 10*
 
-![](bornetella/100613sngd5536m3.jpg)  
-*Pulau Senang, Jun 10*
 
 ---
 
-![](bornetella/091231biod6815m3.jpg)  
-*Pulau Biola, Dec 09*
 
-![](bornetella/091231biod6815m3a.jpg)
 
-![](bornetella/091231biod6815m3b.jpg)
 
 ---
 

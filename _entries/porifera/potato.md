@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "potato, sponge, biemna, porifera, field, guide, seashore, sea, shore, marine,"
-layout: default
+layout: entry
 shape: sausage
 title: Potato sponge
 family: Desmacellidae
@@ -16,6 +16,23 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Biemnida
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potato/120411thnts06123m3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potato/120606bbd4277m3a.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potato/200705ecpbslks1.jpg"
+  caption: |
+    <p>East Coast Park, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158428309148158&set=a.10158428314278158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potato/160313trymn9.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/potato/100715tbtd8931m3.jpg"
 ---
 
 
@@ -39,17 +56,9 @@ about 1cm in diameter, 1-2cm tall. The surface is uneven and very
 hairy which traps sediments and sand, camouflaging the sponge. Colour
 pale brown.
 
-![](potato/100715tbtd8931m3.jpg)  
-*Terumbu Pempang
-Tengah, Jul 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](potato/120411thnts06123m3.jpg)  
-*Terumbu Hantu,
-Apr 12*
 
-![](potato/120606bbd4277m3a.jpg)  
-*Beting Bronok,
-Jun 12*
 
   
  *\*Species are difficult to positively identify without close examination.   
@@ -73,11 +82,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](potato/200705ecpbslks1.jpg)  
-*East Coast Park, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158428309148158&set=a.10158428314278158&type=3&theater).
 
-![](potato/160313trymn9.jpg)  
-*Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3).
  
 
 ---

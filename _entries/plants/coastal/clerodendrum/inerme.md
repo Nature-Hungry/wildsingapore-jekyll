@@ -2,7 +2,7 @@
 title: "Gambir laut "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "clerodendrum, inerme, lamiaceae, verbenacae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Verbenaceae
 genus: Clerodendrum
@@ -16,6 +16,25 @@ class: Magnoliopsida
 order: Lamiales
 subfamily: Ajugoideae
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg"
+  caption: |
+    <p>Lim Chu Kang, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg"
+  caption: |
+    <p>Pulau Ubin, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg"
+  caption: |
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Apr 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -71,20 +90,10 @@ used to treat poisoning from fish and other marine animals. The leaves
 are used to treat wounds, and fruits to dysentery. The leaves are
 used in an appetizer dish in Indonesia.
 
-![](inerme/090411lckd9586m6l.jpg)  
-*Lim Chu Kang,
-Apr 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](inerme/090517ubnd1946m3.jpg)  
-Pulau Ubin, May 09*
 
-*![](inerme/110317mndd7324m3a.jpg)*  
-*Mandai, Mar
-11*
 
-![](inerme/090411lckd9574m3.jpg)  
-*Lim Chu Kang,
-Apr 09*
 
 ---
 
@@ -118,8 +127,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp..
 
 [www.**flickr**.com](http://www.flickr.com)  
 

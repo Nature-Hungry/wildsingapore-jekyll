@@ -2,7 +2,7 @@
 title: "Freckled   goatfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "freckled, goatfish, upeneus, tragula, mullidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 69, 70]
 family: Mullidae
 genus: Upeneus
@@ -17,6 +17,44 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Mulloidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg"
+  caption: |
+    <p>Pair of barbels under the chin Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/100810sngd9966m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/150802bbtch.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153528143493713.1073741971.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/251011lablks11.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/170429kusis1.jpg"
+  caption: |
+    <p>Kusu Island, Apr 17Photo shared by Ian Siah on <a href="https://www.facebook.com/iansiah/media_set?set=a.10154502162102227.1073741936.533257226&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250331hntrg2.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 25Photo shared by Rachael Goh on <a href="https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/191028bsisvc4.jpg"
+  caption: |
+    <p>Big Sisters Island, Oct 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157018278007945&set=a.10157015211837945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/250810bsisrk8.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162879113892906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/240410cyrky3.jpg"
+  caption: |
+    <p>Cyrene, Apr 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169356965810112&set=a.10169356961615112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/140810smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/34281024325/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/110517tptik8m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/190902tryky1.jpg"
+  caption: |
+    <p>Terumbu Raya, Sep 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/mullidae/upeneus/130624chg7d7878m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,11 +102,8 @@ used by males during courtship of females. When not in use, the barbels
 are tucked away tightly under the chin. These fishes can change their
 colours with mood and during the day and night. Juveniles may look
 very different from adults.
-![](upeneus/130624chg7d7878m3.jpg)  
-Pair of barbels under the chin *Changi, Jun 13*   
+{% include img-wrap-group.html items=page.page_images %}
 
-![](upeneus/100810sngd9966m6l.jpg)  
- *Pulau Senang, Aug 10*
 
 **Features:** The Freckled goatfish is up to 30cm long, those seen about 4-8cm long.
 Body long and somewhat cylindrical, with a blunt snout. The pair of
@@ -107,46 +142,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](upeneus/150802bbtch.jpg)  
-*Beting Bronok, Aug 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153528143493713.1073741971.619308712&type=3).
 
 ---
 
-![](upeneus/251011lablks11.jpg)  
-*Labrador, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post).
 
 ---
 
-![](upeneus/170429kusis1.jpg)  
-*Kusu Island, Apr 17*Photo shared by Ian Siah on [facebook](https://www.facebook.com/iansiah/media_set?set=a.10154502162102227.1073741936.533257226&type=3).
 
 ---
 
-![](upeneus/250331hntrg2.jpg) *Pulau Hantu, Apr 25*Photo shared by Rachael Goh on [facebook](https://www.facebook.com/rachaelrenee.goh/posts/pfbid0Nh6GUpHBKynYmfRenEFZisy4KDRkoY91zjcHaXWxEtPCiEVUANbcgHamyeb1g7Q1l?__cft__[0]=AZXhZsduPUeEUub6twfG2jwTY4OvM714B2VEX2YBpW2VK3DCwbQsglg2BST53q-SN1XZsKhJOuPIYAqX-KVUgEg83RnyxyZ1onHq5mLVQh_7DUc9tV6l97CEba8Lq8POvfX_n2CPHVfZ6467F6Hd0hrG3DrW6rTb2367CGHtEQmbpA&__tn__=%2CO%2CP-R).
 
-![](upeneus/191028bsisvc4.jpg)  
-*Big Sisters Island, Oct 19*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157018278007945&set=a.10157015211837945&type=3&theater).
 
 ---
 
-*![](upeneus/250810bsisrk8.jpg)  
-Big Sisters, Aug 25* Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162879113892906&type=3&ref=embed_post).
 
 ---
 
-![](upeneus/240410cyrky3.jpg)  
-*Cyrene, Apr 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169356965810112&set=a.10169356961615112).
 
-![](upeneus/140810smkmn.jpg)  
-*Pulau Semakau, Aug 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/34281024325/).
 
 ---
 
-![](upeneus/110517tptik8m3.jpg)  
-*Terumbu Pempang Tengah, May 11*Photo shared by Ivan Kwan on [flickr](http://www.flickr.com/photos/hai_ren/sets/72157626616789601/).
 
-![](upeneus/190902tryky1.jpg)  
-*Terumbu Raya, Sep 19*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3).
 
 ---
 

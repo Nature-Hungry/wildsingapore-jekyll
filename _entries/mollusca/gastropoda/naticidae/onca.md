@@ -2,7 +2,7 @@
 title: "China moon snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "china, moon, snail, shell, natica, naticarius, onca, gualtieriana, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Naticidae
 genus: Naticarius
 species: onca
@@ -17,6 +17,66 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg"
+  caption: |
+    <p>Spiral tip sticking out a little.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg"
+  caption: |
+    <p>Small circular depression on underside.Operculum shelly with regular grooves.</p>
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/120722cyrlks.JPG"
+  caption: |
+    <p>Eating a clam.</p>
+    <p>Cyrene Reef, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8481630982/in/album-72157607718672165/">flickr</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg"
+  caption: |
+    <p>Dragging a small shell behind.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/211207chgelks2.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Dec 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159603136583158&set=a.10159603137098158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/160605tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27475536235/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/251107tmftlks10.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/190830epcnky2.jpg"
+  caption: |
+    <p>East Coast Park, Sep 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162801861755112&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/251011tgrlks6.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/150605kustch1m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153369005738713.1073741960.619308712&type=1&pnref=story">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/240608kusmn1.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/250201bsisvc4.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/250726cyrlks2.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/150717smksnml1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Neo Mei Lin in <a href="http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/200918cyrvc1.jpg"
+  caption: |
+    <p>Cyrene Reef, Sep 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10157955274362945&set=a.10157955272987945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/230423cyrjll2.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 23Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159584102826295&set=a.10159584094506295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/150717smksnml1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Neo Mei Lin in <a href="http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/200918cyrvc1.jpg"
+  caption: |
+    <p>Cyrene Reef, Sep 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10157955274362945&set=a.10157955272987945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,18 +125,12 @@ when the animal is fully expanded). Tentacles short, red.
 **Snail takeaway?** Some have been seen 'dragging' a small snail shell behind them attached
 to the foot. Is it taking the meal away to some other place to eat it in safety?
 
-*![](onca/110830cyrd0332m3.jpg)*  
-Spiral tip sticking
-out a little.  
-*Cyrene Reef, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](onca/111127sisd3940m3.jpg)*Small circular depression on underside.Operculum shelly with regular grooves. *Sisters Island, Nov 11*
 
 ---
 
-*![](onca/120722cyrlks.JPG)*Eating a clam. *Cyrene Reef, Jul 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8481630982/in/album-72157607718672165/)..
 
-*![](onca/110830cyrd0383m3.jpg)*Dragging a small shell behind. *Cyrene Reef, Aug 11*
 
 ---
 
@@ -95,62 +149,31 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](onca/211207chgelks2.jpg)  
-Changi East (Lost Coast), Dec 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159603136583158&set=a.10159603137098158).
 
 ---
 
-*![](onca/160605tmlks.JPG)  
-Tanah Merah, Jun 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27475536235/in/album-72157664044624940/).
 
-![](onca/251107tmftlks10.jpg)  
-*Tanah Merah Ferry Terminal, Nov 25*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post).
 
-*![](onca/190830epcnky2.jpg)  
-East Coast Park, Sep 19*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162801861755112&type=3).
 
 ---
 
-![](onca/251011tgrlks6.jpg)  
- *Sentosa Tg Rimau, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post).
 
-*![](onca/150605kustch1m3.jpg)  
-Kusu Island, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153369005738713.1073741960.619308712&type=1&pnref=story)
 
-![](onca/240608kusmn1.jpg)  
-*Kusu Island, Jun 24*  
-Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660).
 
 ---
 
-![](onca/250201bsisvc4.jpg)  
- *Big Sisters Island, Feb 25*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945).
 
 .
 
 ---
 
-*![](onca/250726cyrlks2.jpg)*  
-*Cyrene, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post).
 
-*![](onca/150717smksnml1m3.jpg)  
-Cyrene Reef, Aug 11*Photo shared by Neo Mei Lin in [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html).
 
-*![](onca/200918cyrvc1.jpg)  
-Cyrene Reef, Sep 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10157955274362945&set=a.10157955272987945).
 
 ---
 
-*![](onca/230423cyrjll2.jpg)  
-Cyrene Reef, Apr 23*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10159584102826295&set=a.10159584094506295).
 
-*![](onca/150717smksnml1m3.jpg)  
-Cyrene Reef, Aug 11*Photo shared by Neo Mei Lin in [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015.html).
 
-*![](onca/200918cyrvc1.jpg)  
-Cyrene Reef, Sep 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10157955274362945&set=a.10157955272987945).
 
 ---
 

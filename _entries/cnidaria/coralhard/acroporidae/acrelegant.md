@@ -2,7 +2,7 @@
 title: Elegant acropora coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: Acropora
 species: sp.*
@@ -15,6 +15,104 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/120124sisd5895m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/120124sisd5896m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080722cyrd8218m3.jpg"
+  caption: |
+    <p>Cyrene Reefs,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080722cyrd8218m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/080422smkd1440m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/090512tmlk23m3.jpg"
+  caption: |
+    <p>Tanah Merah,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/090512tmlk23m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/220618tmftlks22.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/220618tmftlks22a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943829053158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/210628ecpBlks5a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/210628ecpBlks5b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300983258158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/201116lazlks9.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158766764623158&set=a.10158766770633158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5565m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100613sngd5566m3.jpg"
+  caption: |
+    <p>Bleaching</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100601slud4974m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100601slud4974m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100601slud4785m3.jpg"
+  caption: |
+    <p>Pulau Salu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100601slud4786m3a.jpg"
+  caption: |
+    <p>Bleaching</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100530tbkd4298m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100530tbkd4298m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091204pawd5273m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091204pawd5273m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091231biod7071m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091231biod7071m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091205pawlks2m3.jpg"
+  caption: |
+    <p>Pulau Pawai,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/091205pawlks2m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4165239971">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/100131slulks7m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4350452745/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/120409tptd8827m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,30 +160,13 @@ There are probably several different species on this page. It's hard
 to distinguish them without close examination of small features and
 they are grouped by large external features for convenience of display.
 
-![](acrelegant/120409tptd8827m6l.jpg)  
-*Sisters Island,
-Jan 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](acrelegant/070704jngg1275m3.jpg)  
-*Pulau Jong, Jul 07*
-*![](acrelegant/070704jngg1276m3a.jpg)*
-![](acrelegant/070704jngg1276m3c.jpg)
 
 ---
 
-![](acrelegant/120124sisd5895m3.jpg)  
-*Sisters Island,
-Jan 12  
-![](acrelegant/120124sisd5896m3.jpg)*
 
-![](acrelegant/080722cyrd8218m3.jpg)  
-*Cyrene Reefs,
-Jul 08![](acrelegant/080722cyrd8218m3a.jpg)*
 
-![](acrelegant/080422smkd1440m3.jpg)  
-*Pulau Semakau,
-Apr 08  
-![](acrelegant/080422smkd1440m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -109,75 +190,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](acrelegant/090512tmlk23m3.jpg)  
-*Tanah Merah,
-May 09**![](acrelegant/090512tmlk23m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
-![](acrelegant/220618tmftlks22.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22![](acrelegant/220618tmftlks22a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943829053158&set=a.10159943838013158).
 
-![](acrelegant/210628ecpBlks5a.jpg)  
-*East Coast Park (B), Jun 21![](acrelegant/210628ecpBlks5b.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159300983258158&set=a.10159300990763158).
 
 ---
 
-![](acrelegant/201116lazlks9.jpg)  
-*Lazarus Island, Nov 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10158766764623158&set=a.10158766770633158).
  
 
 ---
 
-*![](acrelegant/100613sngd5565m6l.jpg)  
-Pulau Senang,
-Jun 10*
 
-![](acrelegant/100613sngd5566m3.jpg)  
-Bleaching
 
 ---
 
-![](acrelegant/100601slud4974m3.jpg)  
-*Pulau Salu,
-Jun 10   
-![](acrelegant/100601slud4974m3a.jpg)*
 
-*![](acrelegant/100601slud4785m3.jpg)  
-*Pulau Salu,
-Jun 10*![](acrelegant/100601slud4786m3a.jpg)  
-Bleaching*
 
-![](acrelegant/100530tbkd4298m3.jpg)  
-*Pulau Berkas,
-May 10   
-![](acrelegant/100530tbkd4298m3a.jpg)*
 
 ---
 
-![](acrelegant/091204pawd5273m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](acrelegant/091204pawd5273m3a.jpg)*
 
-*![](acrelegant/091231biod7071m3.jpg)  
-Pulau Biola,
-Dec 09  
-![](acrelegant/091231biod7071m3a.jpg)*
 
-![](acrelegant/091205pawlks2m3.jpg)  
-*Pulau Pawai,
-Dec 09*![](acrelegant/091205pawlks2m3a.jpg)  
-Photo shared
-by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4165239971).
 
 ---
 
-*![](acrelegant/100131slulks7m3.jpg)  
-Terumbu
-Salu, Jan 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4350452745/).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

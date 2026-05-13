@@ -2,7 +2,7 @@
 title: Pufferfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Tetraodontidae
 genus: ""
 species: ""
@@ -17,6 +17,49 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg"
+  caption: |
+    <p>And inflated fish that was dead/dying and washed ashore.</p>
+    <p>St.</p>
+    <p>John's Island, Dec 16Photo shared by Rene Ong on <a href="https://www.facebook.com/photo.php?fbid=10154297935466848&set=a.10150265860361848.333002.650781847&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2.jpg"
+  caption: |
+    <p>Fused teeth, on a dead pufferfish.</p>
+    <p>Changi, Nov 08Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2998495843/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik2a.jpg"
+  caption: |
+    <p>Fine prickly skin, on a dead pufferfish.</p>
+    <p>Changi, Nov 08Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2998495843/">flickr</a>.</p>
+    <p>What do they eat?</p>
+    <p>Some species appear to eat whatever they can find.</p>
+    <p>Others may specialise in eating algae or invertebrates.</p>
+    <p>Some may scavenge.</p>
+    <p>The mouth is small and teeth fused into a beak made up of four fused powerful teeth.</p>
+    <p>The scientific name comes from the Greek 'tetra' which means 'four' and 'odous' which means 'teeth'.</p>
+    <p>Puffer babies: Pufferfishes lay eggs in a nest and it is presumed that the nest is defended.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg"
+  caption: |
+    <p><a href="patoca">Milk-spotted pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg"
+  caption: |
+    <p><a href="nigroviridis">Spotted green pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg"
+  caption: |
+    <p><a href="immaculatus">Yelloweye pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg"
+  caption: |
+    <p><a href="caeruleopunctatus">Blue-spotted pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/sbr2019-054-055-stellatus.jpg"
+  caption: |
+    <p><a href="stellatus">Starry pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg"
+  caption: |
+    <p><a href="reticularis">Reticulated pufferfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/mappa/sbr2019-054-055-mappa.jpg"
+  caption: |
+    <p><a href="mappa">Map pufferfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/stellatus/161214sjiro2.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,23 +125,7 @@ spines, some have fleshy filaments. In most, the underside of the
 body is white while the upper side may have various patterns. The
 gill opening does not have a cover and are simple slits in front of
 the pectoral fins. They lack pelvic fins.
-**![](stellatus/161214sjiro2.jpg)**  
-And inflated fish that was dead/dying   
-and
-washed ashore. *St. John's Island, Dec 16*Photo shared by Rene Ong on [facebook](https://www.facebook.com/photo.php?fbid=10154297935466848&set=a.10150265860361848.333002.650781847&type=3).
-![](reticularis/081101chgik2.jpg)  
-Fused teeth, on a dead pufferfish. *Changi, Nov 08*Photo shared by Ivan Kwan on [flickr](https://www.flickr.com/photos/hai_ren/2998495843/).
-![](reticularis/081101chgik2a.jpg)  
-Fine prickly skin, on a dead pufferfish. *Changi, Nov 08*Photo shared by Ivan Kwan on [flickr](https://www.flickr.com/photos/hai_ren/2998495843/).
-**What do they eat?** Some species
-appear to eat whatever they can find. Others may specialise in eating
-algae or invertebrates. Some may scavenge. The mouth is small and
-teeth fused into a beak made up of four fused powerful teeth. The
-scientific name comes from the Greek '*tetra*' which means 'four'
-and '*odous*' which means 'teeth'.  
- **Puffer
-babies:** Pufferfishes lay eggs in a nest and it is presumed
-that the nest is defended.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Despite their toxic
 nature, pufferfishes are eaten in Japan as a delicacy.  
@@ -115,19 +142,9 @@ can also have an impact on local populations.
 
 ---
 
-**![](patoca/050708labd4747m3.jpg)  
-[Milk-spotted pufferfish](patoca)**
-**![](nigroviridis/050218sbwrd0424m3.jpg)  
-[Spotted green pufferfish](nigroviridis)**
-**![](immaculatus/070219sisd8189m3.jpg)  
-[Yelloweye pufferfish](immaculatus)**
 
 ---
 
-**![](caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg)  
-[Blue-spotted pufferfish](caeruleopunctatus)**
-![](stellatus/sbr2019-054-055-stellatus.jpg)  
-**[Starry pufferfish](stellatus)**
  
 Fine blue lines circle the eye.
 Dense black spots around the eye.
@@ -135,10 +152,6 @@ Dense black spots around the eye.
 
 ---
 
-![](reticularis/sbr2018-091.jpg)  
-[**Reticulated pufferfish**](reticularis)
-![](mappa/sbr2019-054-055-mappa.jpg)  
-**[Map pufferfish](mappa)**
  
 Brown and whitish lines circle the eye.
 Pale and dark streaks radiating from the eye.

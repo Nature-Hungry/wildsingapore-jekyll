@@ -2,7 +2,7 @@
 title: Rabbitfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Siganidae
 genus: ""
 species: ""
@@ -16,6 +16,30 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
+  caption: |
+    <p>Juveniles often seen among Sargassum.</p>
+    <p>There are two here, can you spot them?</p>
+    <p>Changi, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg"
+  caption: |
+    <p>Spines on the dorsal fin raised: these can inject a painful venom.</p>
+    <p>Chek Jawa, Aug 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg"
+  caption: |
+    <p>Rabbitfishes are often seen trapped in fishing nets.</p>
+    <p>Terumbu Semakau, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg"
+  caption: |
+    <p><a href="canaliculatus">White-spotted rabbitfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg"
+  caption: |
+    <p><a href="guttatus">Orange-spotted rabbitfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg"
+  caption: |
+    <p><a href="javus">Streaked rabbitfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,11 +90,8 @@ for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
 Spinefoot after the spines on its pelvic fins, a unique feature of
 this family. It has tiny scales.
-![](canaliculatus/110123sisd5272m3.jpg)  
-Juveniles often seen among Sargassum.  
-There are two here, can you spot them?  *Changi, Apr 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](javus/020811cjd0467m6l.jpg)Spines on the dorsal fin raised: these can inject a painful venom. *Chek Jawa, Aug 02*
 
   
 **Painful sting!** The rabbitfish has spines on its fins
@@ -80,8 +101,6 @@ be quite painful to humans, but is generally not fatal. The fishes
 use their spines in self-defence and not for hunting prey.**How to stay safe:** Wear covered shoes. Don't handle rabbitfishes.
   
 
-![](guttatus/110605tsmkd3949m6l.jpg)  
-Rabbitfishes are often seen trapped in fishing nets. *Terumbu Semakau, Jun 11*
 
 **What do they eat?**  Most rabbitfishes
 are herbivores, grazing on algae that grows on the sea bottom, seaweeds
@@ -104,10 +123,6 @@ on Singapore shores**
 
 ---
 
-**![](canaliculatus/100529kusd4023m3.jpg)  
-[White-spotted rabbitfish](canaliculatus)**
-***![](guttatus/020811cjd492m3.jpg)*[Orange-spotted rabbitfish](guttatus)**
-***![](javus/020811cjd0467m3.jpg)*[Streaked rabbitfish](javus)**
 
 ---
 

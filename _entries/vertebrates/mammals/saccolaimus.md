@@ -2,7 +2,7 @@
 title: Pouched tomb bat
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pouched, bearing, tomb, bat, saccolaimus, emballonuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Emballonuridae
 genus: Saccolaimus
 species: saccolaimus
@@ -21,6 +21,11 @@ suborder: Yangochiroptera
 superfamily: Emballonuroidea
 subfamily: Taphozoinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 03</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/saccolaimus/030717skdd0217m6la.jpg"
 ---
 
 
@@ -51,9 +56,7 @@ They roost in rock crevices, hollow trees and within buildings.
 **What does it eat?** It eats insects,
 foraging for these high above the canopy of trees.  
 
-*![](saccolaimus/030717skdd0217m6la.jpg)**Pulau
-Sekudu,* *Jul
-03*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -82,5 +85,3 @@ Sekudu,* *Jul
 
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

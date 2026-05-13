@@ -2,7 +2,7 @@
 title: "Periwinkles "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Littorinidae
 genus: ""
 species: ""
@@ -16,6 +16,46 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fnggastropods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg"
+  caption: |
+    <p>Several kinds of periwinkles may be found together.</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg"
+  caption: |
+    <p>Like other snails, they have a broad foot and tentacles.</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg"
+  caption: |
+    <p>A thin operculum.</p>
+    <p>Labrador, May 05 Surviving the low tide: At low tide, periwinkles attach the lip of the shell to the surface with mucus then seal the shell opening tightly with a thin, horny operculum.</p>
+    <p>Don't pick periwinkles off a rock or a mangrove tree!</p>
+    <p>Left unattached, they may wash away when the tide comes in and they will die.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg"
+  caption: |
+    <p>Kranji, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg"
+  caption: |
+    <p>Mucus strands used to stick onto a tree.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg"
+  caption: |
+    <p><a href="nodilittorina.htm">Knobbly periwinkle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg"
+  caption: |
+    <p><a href="rock.htm">Rock periwinkle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg"
+  caption: |
+    <p><a href="round.htm">Round periwinkle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg"
+  caption: |
+    <p><a href="mangrove.htm">Mangrove periwinkle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg"
+  caption: |
+    <p><a href="melanostoma.htm">Black-mouth mangrove periwinkle</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -26,7 +66,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fnggastropods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -74,20 +114,6 @@ of a horn-like material.
 Some very similar species are difficult to positively identify without
 close examination. On this website, they are grouped by external features
 for convenience of display.
-![](others/050822cjg2240m3.jpg)  
-Several kinds
-of periwinkles   
-may be found together. *Chek Jawa, Aug 05*
- *![](nodilittorina/050502cjg5584m3.jpg)*Like other snails, they have  
-a broad foot and tentacles*.  
-Chek Jawa, May 05*
-*![](rock/050513labg6424m3.jpg)*A thin operculum.  
-Labrador, May 05
-**Surviving the low tide:** At low
-tide, periwinkles attach the lip of the shell to the surface with
-mucus then seal the shell opening tightly with a thin, horny operculum.
-Don't pick periwinkles off a rock or a mangrove tree! Left unattached, they may wash
-away when the tide comes in and they will die.  
   
 **What do they eat?**  Periwinkles
 graze on tiny algae growing as a film over the rocks. Some species
@@ -102,10 +128,7 @@ develop. Others lay gelatinous egg masses or retain their eggs until
 these hatch. Free-swimming larvae hatch from the eggs, only later
 developing into snails.
 
-*![](melanostoma/130317krjd4625m3.jpg)  
-Kranji, Mar 13*
 
-*![](melanostoma/130317krjd4625m3a.jpg)*Mucus strands used to stick onto a tree.
 
 **Human uses:** In our region, they are collected for subsistence food by coastal dwellers and for shellcraft. Large periwinkles are eaten in temperate countries such as England. In fact, the name 'periwinkle' comes from the Old English for 'penny winkle' as they were then sold for a penny per handful. They were also used as jewellery.  
   
@@ -118,20 +141,12 @@ on Singapore shores**
 
 ---
 
-***![](nodilittorina/040706lzrd2452m3.jpg)*[Knobbly periwinkle](nodilittorina.htm)**
 
-**![](rock/041031cjd7944m3.jpg)  
-[Rock periwinkle](rock.htm)**
 
-**![](round/031028sntad0048m3a.jpg)  
-[Round periwinkle](round.htm)**
 
 ---
 
-***![](mangrove/070304hntg7887m3.jpg)* [Mangrove periwinkle](mangrove.htm)**
 
-***![](melanostoma/050327sbwrg3810m3.jpg)*[Black-mouth   
-mangrove periwinkle](melanostoma.htm)**
 
 ---
 

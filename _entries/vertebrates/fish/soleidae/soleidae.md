@@ -2,7 +2,7 @@
 title: Soles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, fish, flatfish, sole, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Soleidae
 genus: ""
 species: ""
@@ -17,6 +17,72 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
+  caption: |
+    <p>Lurking under the sand.</p>
+    <p>Chek Jawa, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/040724sbwrd3052m3.jpg"
+  caption: |
+    <p>Underside of a sole in a tank.</p>
+    <p>Sungei Buloh Wetland Reserve, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg"
+  caption: |
+    <p>Eating a worm!</p>
+    <p>What do they eat?</p>
+    <p>Soles hunt small animals that live on the bottom of the sea including other fishes.</p>
+    <p>Some species have tentacles around the mouth on the blind side.</p>
+    <p>Teeth only on the blind side of the mouth, on both jaws.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/130911sismn.jpg"
+  caption: |
+    <p>Pelagic juvenile sole.</p>
+    <p>Sisters Island, Sep 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/13923337196/in/album-72157644171393224/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/110505tmnbd0602.jpg"
+  caption: |
+    <p>Unidentified juvenile sole.</p>
+    <p>Tanah Merah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/140501kusmn.jpg"
+  caption: |
+    <p>Unidentified juvenile sole.</p>
+    <p>Kusu Island, May 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/13893899327/">flickr</a>.</p>
+    <p>Single-sided Fish: Flatfishes undergo an amazing change as they grow up.</p>
+    <p>When it first hatches, a flatfish larva looks like the larva of other 'normal' fish.</p>
+    <p>As the larva matures, it starts to swim on one side of its body.</p>
+    <p>One eye moves to what becomes the upperside, also called the eyed side.</p>
+    <p>The mouth and one pectoral fin also becomes asymmetrically distorted.</p>
+    <p>There are also changes in the skeleton and digestive system.</p>
+    <p>The change may be completed within five days.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4.jpg"
+  caption: |
+    <p><a href="ovata">Ovate sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg"
+  caption: |
+    <p><a href="commersonnii">Commerson's sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg"
+  caption: |
+    <p><a href="pavoninus">Peacock sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m4d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg"
+  caption: |
+    <p><a href="orientalis">Oriental sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg"
+  caption: |
+    <p><a href="zebra">Zebra sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,32 +145,7 @@ to package and store and could not be used to protect humans.
 confused with** other [flatfishes](../pleuronectiformes/pleuronectiformes).
 Here's more on [how
 to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
-![](commersonnii/040120cjd0035m3.jpg)  
-Lurking under the sand.  
-*Chek Jawa, Jan 04*  
-![](040724sbwrd3052m3.jpg)  
-Underside of a sole in a tank.  
-*Sungei Buloh Wetland Reserve, Jul 04*
-![](commersonnii/070702chgd3131m3.jpg)  
-Eating a worm!
-**What do they eat?** Soles hunt small animals that live on
-the bottom of the sea including other fishes. Some species have tentacles
-around the mouth on the blind side. Teeth only on the blind side of
-the mouth, on both jaws.
-![](130911sismn.jpg)  
-Pelagic juvenile sole. *Sisters Island, Sep 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/13923337196/in/album-72157644171393224/).
-![](../soleidae/110505tmnbd0602.jpg)  
-Unidentified juvenile sole. *Tanah Merah, May 11* 
-![](140501kusmn.jpg)  
-Unidentified juvenile sole. *Kusu Island, May 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/13893899327/).
-**Single-sided Fish:** Flatfishes
-undergo an amazing change as they grow up. When it first hatches,
-a flatfish larva looks like the larva of other 'normal' fish. As the
-larva matures, it starts to swim on one side of its body.
-One eye moves to what becomes the upperside, also called the eyed
-side. The mouth and one pectoral fin also becomes asymmetrically distorted.
-There are also changes in the skeleton and digestive system. The change
-may be completed within five days.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Some species are economically
 very important and are harvested for the food trade.
@@ -116,28 +157,14 @@ on Singapore shores**
 
 ---
 
-**![](ovata/050511cftg6220m4.jpg)  
-[Ovate sole](ovata)**
 
-***![](commersonnii/050818cftg1401m3.jpg)*[Commerson's sole](commersonnii)**
 
-**![](pavoninus/050722cjg9806m3.jpg)  
- [Peacock sole](pavoninus)**
 
-![](ovata/050511cftg6220m4d.jpg)
-![](commersonnii/050818cftg1401m3c.jpg)
-![](pavoninus/050722cjg9806m3c.jpg)
 
 ---
 
-**![](orientalis/090623ecpd4978m3.jpg)  
- [Oriental sole](orientalis)**
 
-**![](zebra/100612chgd5283m3.jpg)  
- [Zebra sole](zebra)**
 
-![](orientalis/090623ecpd4978m3a.jpg)
-![](zebra/100612chgd5283m3b.jpg)
  
 
 ---

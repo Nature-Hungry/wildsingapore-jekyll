@@ -2,7 +2,7 @@
 title: "Stone "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Menippidae
 genus: Myomenippe
@@ -23,6 +23,74 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9350m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9350m3b.jpg"
+  caption: |
+    <p>Green eyes ringed with red.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/080702prpd6401m3.jpg"
+  caption: |
+    <p>A tiny juvenile.</p>
+    <p>Pasir Ris Park, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/090309cyrlks05m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Mar 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/01/soft-sediment-creatures-of-pasir-risl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/250626ubns.jpg"
+  caption: |
+    <p>With eggs Pulau Ubin (South), Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg"
+  caption: |
+    <p>Eating a jellyfish Beting Bronok, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/080521chgd3701m3.jpg"
+  caption: |
+    <p>Eating something shredded.</p>
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/120508skdd1788m3.jpg"
+  caption: |
+    <p>Clinging onto a clam.</p>
+    <p>Pulau Sekudu, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/200723bblks4.jpg"
+  caption: |
+    <p>About to eat a cowrie?</p>
+    <p>Beting Bronok, Jul 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158480104273158&set=a.10158480109973158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/160507cjjt3.jpg"
+  caption: |
+    <p>Clutching a sea hare.</p>
+    <p>Chek Jawa, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10153811457703119.1073741881.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/200917prpjt1.jpg"
+  caption: |
+    <p>Working on the <a href="../../../mollusca/bivalvia/mactridae/bigbrown">Mactra clam</a> next to it?</p>
+    <p>Pasir Ris, Sep 20 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10158812334398119&set=a.10158812351093119">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/201020prpalks3.jpg"
+  caption: |
+    <p>Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706824808158&set=a.10158706826698158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/160125obslks5.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/220616chgelks15.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940595318158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/151001blyjt8m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/201117labvc5.jpg"
+  caption: |
+    <p>Labrador, Nov 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158085666082945&set=a.10158084785112945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/160209cyrjtm2.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16 Photo shared by Juria Toramae on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/250726cyrjk1.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 25 Photo shared by Jayden Kang on <a href="https://www.facebook.com/media/set/?vanity=jeidun&set=a.30466129736369151">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/181125tptrk.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Nov 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10156634552277906&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,14 +143,9 @@ pimples) with black tips. One pincer is enlarged with a large molar-like
 tooth at the base of the finger. Walking legs sparsely hairy. It is
 identified by bright green eyes, often circled with red.
 
-![](hardwickii/050110skdd9348m3.jpg)  
-*Pulau Sekudu, Jan 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](hardwickii/050110skdd9350m3.jpg)  
-*Pulau Sekudu, Jan 05*
 
-![](hardwickii/050110skdd9350m3b.jpg)  
-Green eyes ringed with red.
 
 **Steady crab:** When a stone is overturned,
 other crabs usually madly dash out helter skelter. The stone crab
@@ -98,15 +161,8 @@ the ground, somewhere near a hiding place. It will shortly let go
 and run into the hiding place. It is best, in the first place, not
 to handle crabs so that they don't pinch you at all.
 
-![](hardwickii/080702prpd6401m3.jpg)  
-A tiny juvenile. *Pasir Ris Park, Jul 08*
 
-![](hardwickii/090309cyrlks05m3.jpg)  
-*Cyrene Reef, Mar 09*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/01/soft-sediment-creatures-of-pasir-risl).
 
-![](hardwickii/250626ubns.jpg)  
-With eggs *Pulau Ubin (South), Jun 25*
 
 **What does it eat?** The stone crab
 eats snails and clams, crushing their shells with its powerful pincers. Sightings also suggest that the crab may scavange on dead animals such as fishes and jellyfishes. One was also seen eating a seahare.  
@@ -117,23 +173,12 @@ stone crab](rumphii) (*Menippe rumphii*). Here's
 more on how to tell apart [big crabs
 with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
 
-![](hardwickii/060528bbd2348m3.jpg)  
-Eating a jellyfish *Beting Bronok, May 06*
 
-![](hardwickii/080521chgd3701m3.jpg)  
-Eating something shredded. *Changi, Jun 08*
 
-![](hardwickii/120508skdd1788m3.jpg)  
-Clinging onto a clam. *Pulau Sekudu, May 12*
 
 ---
 
-![](hardwickii/200723bblks4.jpg)  
-About to eat a cowrie? *Beting Bronok, Jul 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158480104273158&set=a.10158480109973158&type=3&theater).
 
-![](hardwickii/160507cjjt3.jpg)  
-Clutching a sea hare. *Chek Jawa, May 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10153811457703119.1073741881.696593118&type=3).
 
 ---
 
@@ -152,46 +197,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hardwickii/200917prpjt1.jpg)  
-Working on the [Mactra clam](../../../mollusca/bivalvia/mactridae/bigbrown) next to it? *Pasir Ris, Sep 20*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo?fbid=10158812334398119&set=a.10158812351093119).
 
-![](hardwickii/201020prpalks3.jpg)  
-*Pasir Ris-Loyang, Oct 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158706824808158&set=a.10158706826698158).
 
 ---
 
-![](hardwickii/160125obslks5.jpg)  
-*Pulau Ubin OBS, Jan 16*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story).
 
-![](hardwickii/220616chgelks15.jpg)  
-*Changi Lost Coast, Jun 22*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940595318158&set=a.10159940599688158).
 
 ---
 
-![](hardwickii/151001blyjt8m3.jpg)  
-*Berlayar Creek, Oct 15*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater).
 
-![](hardwickii/201117labvc5.jpg)  
-*Labrador, Nov 20*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158085666082945&set=a.10158084785112945).
 
 ---
 
-![](hardwickii/160209cyrjtm2.jpg)  
-*Cyrene Reef, Feb 16*  
-Photo shared by Juria Toramae on facebook.
 
-![](hardwickii/250726cyrjk1.jpg)  
-*Cyrene Reef, Jul 25*  
-Photo shared by Jayden Kang on [facebook](https://www.facebook.com/media/set/?vanity=jeidun&set=a.30466129736369151).
 
-![](hardwickii/181125tptrk.jpg)  
- *Terumbu Pempang Tengah, Nov 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10156634552277906&type=3).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Banded bead anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, bead, anemone, anthopleura, actiniidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: Actiniidae
 genus: Anthopleura
@@ -17,6 +17,57 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1785m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/050315cjd1790m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3895m3.jpg"
+  caption: |
+    <p>Anthopleura dixoniana Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3898m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/120604pgld3891m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg"
+  caption: |
+    <p><a href="buddemeieri.htm">Anthopleura buddemeieri</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3.jpg"
+  caption: |
+    <p>Anthopleura dixoniana</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/090809sjid8699m3a.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091021chgd3030m6l.jpg"
+  caption: |
+    <p>Changi, Oct 09 Often found in crevices on large rocks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/091217sbglks.JPG"
+  caption: |
+    <p>Sembawang, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4197561818/in/album-72157622905436345/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/160125obsll2.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153672023638964.1073741872.716233963&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/251208meky8.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/100103tkkjk9m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237851498/">his flickr</a>.</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +78,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -97,39 +148,18 @@ tentacles (called acrorhagi) have white tips.
   
 Another bead anemone sometimes seen on our shores is the Pink-spotted bead anemone ([*Anthopleura buddemeieri*](buddemeieri.htm)). It looks very different. Pale body column with red spots along the entire length, tentacles
 grey with a reddish cast.
-*![](beadbanded/041031cjd7939m3.jpg)  
-Chek Jawa, Oct 04*
-*![](beadbanded/050315cjd1785m3.jpg)  
-Chek Jawa, Mar 05*
-*![](beadbanded/050315cjd1790m3.jpg)  
-Chek Jawa, Mar 05* 
 
 ---
 
-![](beadbanded/120604pgld3895m3.jpg)  
-*Anthopleura dixoniana  
-Punggol, Jun 12*
 
-![](beadbanded/120604pgld3898m3.jpg)
 
-![](beadbanded/120604pgld3891m3.jpg)
 
 ---
 
-*![](buddemeieri/111001sjid1809m3.jpg)**[Anthopleura
-buddemeieri](buddemeieri.htm)  
-![](buddemeieri/111001sjid1798m3.jpg)
   
 St. John's Island, Oct 11*
 
-*![](beadbanded/090809sjid8699m3.jpg)  
-Anthopleura dixoniana  
-![](beadbanded/090809sjid8699m3a.jpg)  
-St. John's Island*
 
-![](beadbanded/091021chgd3030m6l.jpg)  
-*Changi, Oct 09*  
-Often found in crevices on large rocks.
 
   
 *\*Species
@@ -154,20 +184,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](beadbanded/091217sbglks.JPG)  
-*Sembawang, Dec 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4197561818/in/album-72157622905436345/).
 
-![](beadbanded/160125obsll2.jpg)  
-*Pulau Ubin OBS, Jan 16*Photo shared by Lisa Lim on [facebook](https://www.facebook.com/media/set/?set=a.10153672023638964.1073741872.716233963&type=3).
 
 ---
 
-![](beadbanded/251208meky8.jpg)  
-*Marina East, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post).
 
-![](beadbanded/100103tkkjk9m3.jpg)  
-*Pulau Tekukor, Jan 10*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4237851498/).
 
 ---
 

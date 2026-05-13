@@ -2,7 +2,7 @@
 title: "Sea hibiscus "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Malvaceae
 genus: Talipariti
@@ -17,6 +17,88 @@ order: Malvales
 subfamily: Malvoideae
 tribe: Hibisceae
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg"
+  caption: |
+    <p>Sungei Buloh</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg"
+  caption: |
+    <p>Slits on</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg"
+  caption: |
+    <p>The yellow flower turns orange</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg"
+  caption: |
+    <p>Juvenile <a href="../../../insecta/dysdercus.htm">Cotton stainer bug</a> These bugs feed on its seeds.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090214sbwrd7160m3a.jpg"
+  caption: |
+    <p>Adult Bugs are often found in large numbers under Sea hibiscus leaves.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg"
+  caption: |
+    <p>Kranji Canal, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg"
+  caption: |
+    <p>Changi Boardwalk, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg"
+  caption: |
+    <p>Changi Boardwalk, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0546m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg"
+  caption: |
+    <p>Woodland Park, Apr 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Tomlinson, P.</p>
+    <p>B., 1986.</p>
+    <p>[The</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Cambridge University Press.</p>
+    <p>USA.</p>
+    <p>419 pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+    <p>- Wee Yeow Chin.</p>
+    <p>1992.</p>
+    <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
+    <p>The Singapore Science Centre.</p>
+    <p>160pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -105,42 +187,18 @@ Indonesia and used to control fevers. The leaves are also used to
 sooth and remove phlegm in respiratory ailments. In the Philippines,
 fresh bark soaked in water is used to treat dysentery.
 
-![](tiliaceus/020120sbwrcpd5232m3.jpg)  
-*Sungei Buloh
-Wetland Reserve, Jan 02* *![](tiliaceus/020415sbwrcpd8160m3.jpg)*Slits on
-the leaf veins. *Sungei Buloh Wetland Reserve, Apr 02* *![](tiliaceus/031120sbwrd0002m3.jpg)*The yellow
-flower turns orange   
-before it drops off. *Sungei Buloh Wetland Reserve, Nov 03* *![](tiliaceus/090117smkd5536m3.jpg)  
-Pulau Semakau, Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](../../../insecta/dysdercus/081206smkd2478m3.jpg)*Juvenile [Cotton stainer
-bug](../../../insecta/dysdercus.htm)   
-These bugs feed on its seeds. *Pulau Semakau, Dec 08*
 
-*![](../../../insecta/dysdercus/090214sbwrd7160m3a.jpg)*Adult Bugs are often found in large numbers   
-under Sea hibiscus leaves.  *Sungei Buloh Wetland Reserve, Feb 09*
 
-*![](tiliaceus/090321krjo3211491m3a.jpg)  
-Kranji Canal, Mar 09*
 
 ---
 
-*![](tiliaceus/090912chgbwd0552m3.jpg)  
-Changi Boardwalk, Sep 09  
-![](tiliaceus/090912chgbwd0552m3a.jpg)*
 
-*![](tiliaceus/090912chgbwd0537m3a.jpg)  
-Changi Boardwalk, Sep 09  
-![](tiliaceus/090912chgbwd0546m3a.jpg)*
 
-*![](tiliaceus/091005cjd2206m3.jpg)  
-Chek Jawa, Oct 09  
-![](tiliaceus/091005cjd2206m3a.jpg)*
 
 ---
 
-*![](tiliaceus/090408wdld9158m3.jpg)  
-Woodland Park, Apr 09*
 
 ---
 
@@ -171,26 +229,6 @@ references**
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Tomlinson,
-  P. B., 1986. *[The
-  Botany of Mangroves](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FBotany-Mangroves-Cambridge-Tropical-Biology%2Fdp%2F0521255678%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1176262494%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Cambridge University Press. USA. 419 pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: Triple-striped flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, tristriatus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: updated Sep 2019
 genus: Pseudoceros
 species: rubrotentaculatus
@@ -15,6 +15,46 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/060810rlhd5700m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/120707jnglks4m3.JPG"
+  caption: |
+    <p>Pulau Jong, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jongl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/060101sisg3571m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/060810rlhd5700m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/160625tkklks1.jpg"
+  caption: |
+    <p>Pseudoceros sp.</p>
+    <p>5\ Pulau Tekukor, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/170113tkrrk.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 17Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10154783552542906.1073741879.563787905&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/090509sislks1.jpg"
+  caption: |
+    <p>Sisters Island, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3541402040/in/album-72157607605631877/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/130211sjilks1m3.JPG"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Feb 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/02/cny-day-2-st-johns-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/150718smketch1m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/160124smkelks2.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/160124smkelks2a.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/tristriatus/060810rlhd5700m3.jpg"
 ---
 
 
@@ -41,21 +81,11 @@ of the body, although not always obvious.
   
 According to Rene Ong, this flatworm resembles *Pseudoceros tristriatus* which also has triple-stripes. But while *Pseudoceros tristriatus* has a blue body with three orange stripes, each bordered by black or dark purple,  *Pseudoceros rubrotentaculatus* has a creamy-white body with three non-connecting ocher stripes bordered dark brown or purplish brown. So far, there has been no actual record of *Pseudoceros tristriatus* in Singapore.
 
-![](tristriatus/060810rlhd5700m3.jpg)  
-*Raffles Lighthouse,
-Aug 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tristriatus/060810rlhd5700m3a.jpg)
 
-![](tristriatus/120707jnglks4m3.JPG)  
- *Pulau Jong, Jun 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jongl).
 
-![](tristriatus/060101sisg3571m3.jpg)  
-*Sisters Island,
-Jan 06*
 
-![](tristriatus/060810rlhd5700m3a.jpg)
 
   
 *\***Species are difficult to positively identify without close
@@ -81,33 +111,16 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](tristriatus/160625tkklks1.jpg)  
- *Pseudoceros* sp. 5*\*  
-Pulau Tekukor, Jun 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3).
 
-![](tristriatus/170113tkrrk.jpg)  
- *Pulau Tekukor, Jan 17*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10154783552542906.1073741879.563787905&type=3).
 
 ---
 
-![](tristriatus/090509sislks1.jpg)  
- *Sisters Island, May 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3541402040/in/album-72157607605631877/).
 
-*![](tristriatus/130211sjilks1m3.JPG)  
-St. John's Island, Feb 13*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/02/cny-day-2-st-johns-islandl).
 
 ---
 
-![](tristriatus/150718smketch1m3.jpg)  
- *Pulau Semakau East, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3).
 
-![](tristriatus/160124smkelks2.jpg)  
- *Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
-![](tristriatus/160124smkelks2a.jpg)  
- *Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
 ---
 
@@ -130,5 +143,3 @@ and its identification.
 - Kuiter, Rudie
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-
-

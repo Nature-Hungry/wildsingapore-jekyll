@@ -2,7 +2,7 @@
 title: Alligator pipefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "alligator, double, end, ended, pipefish, pipe, fish, syngnathoides, biaculeatus, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 47, 116]
 family: Syngnathidae
 genus: Syngnathoides
@@ -18,6 +18,67 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8893m6la.jpg"
+  caption: |
+    <p>Pulau Semakau, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3a.jpg"
+  caption: |
+    <p>Long narrow snout.</p>
+    <p>Tiny pelvic fins.</p>
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8908m3a.jpg"
+  caption: |
+    <p>A pair of tentacles on the long snout.</p>
+    <p>Pulau Semakau, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg"
+  caption: |
+    <p>Prehensile tail.</p>
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg"
+  caption: |
+    <p>Eggs on the underside.</p>
+    <p>Pulau Semakau, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4003m3.jpg"
+  caption: |
+    <p>Eggs on the underside.</p>
+    <p>Cyrene, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/070217skdg7690m3.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Pulau Sekudu, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/070422cjmn.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Chek Jawa, Apr 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/469212182/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250627bbjjl5.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161666315596295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/190122cyrjll3.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Cyrene, Jan 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156160334161295&set=a.10156160333046295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/200209cyrlks1.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Cyrene, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157964168513158&set=a.10157964167633158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/100301hntjk.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Pulau Hantu, Mar 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4395932404/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080511smkljh1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08 Photo shared by Lin Juanhui on <a href="http://flickr.com/photos/juanicths/2538708562/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250713tryjk1.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 25 Photo shared by Jayden Kang on <a href="https://www.facebook.com/media/set/?set=a.30284476521201141&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/250715bbbtl1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162808258719264&set=a.10162808156564264">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd4008m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,26 +127,11 @@ The males carry the eggs below the body and tail. May be green, brown or grey, t
 Here's more on [how to tell apart stick-like
 fishes](../cfstick) commonly seen on our shores.
 
-*![](biaculeatus/080523cyrd4008m3.jpg)  
-Cyrene Reef, May 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](biaculeatus/050627smkg8893m6la.jpg)  
-*Pulau Semakau,
-Jun 05*
 
-![](biaculeatus/080523cyrd3932m3a.jpg)  
-Long narrow snout.
-Tiny pelvic fins. *Cyrene Reef, May 08*
 
-![](biaculeatus/050627smkg8908m3a.jpg)  
-A pair of tentacles
-on the long snout.  
-*Pulau Semakau,
-Jun 05*
 
-![](biaculeatus/080523cyrd3895m3c.jpg)  
-Prehensile tail.  
-*Cyrene Reef, May 08*
 
 **Pipefish babies:** Like the seahorse,
 the male pipefish also carries the eggs. In some species, the male
@@ -103,15 +149,8 @@ seahorses, a mating pair of pipefishes may not remain faithful only
 to one another. A female might lay her eggs on several males, and
 a male might carry the eggs of several females.
 
-![](biaculeatus/050627smkg8911m3.jpg)  
-Eggs on the
-underside. *Pulau Semakau, Jun 05*
 
-![](biaculeatus/080523cyrd4003m3.jpg)  
-Eggs on the
-underside. *Cyrene, May 08*
 
-*![](biaculeatus/070217skdg7690m3.jpg)*Juvenile? *Pulau Sekudu, Feb 07*
 
 **What does it eat?** It feeds on
 tiny planktonic animals.  
@@ -140,36 +179,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](biaculeatus/070422cjmn.jpg)  
-Juvenile? *Chek Jawa, Apr 07*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/469212182/).
 
 ---
 
-![](biaculeatus/250627bbjjl5.jpg)  
- *Beting Bronok, Jun 25*Photo by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161666315596295&type=3&ref=embed_post).
 
 ---
 
-*![](biaculeatus/190122cyrjll3.jpg)*Juvenile? *Cyrene, Jan 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156160334161295&set=a.10156160333046295&type=3&theater).
 
 ---
 
-*![](biaculeatus/200209cyrlks1.jpg)*Juvenile? *Cyrene, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157964168513158&set=a.10157964167633158&type=3&theater).
 
 ---
 
-*![](biaculeatus/100301hntjk.jpg)*Juvenile? *Pulau Hantu, Mar 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4395932404/).
 
-*![](biaculeatus/080511smkljh1m3.jpg)  
-Pulau Semakau, May 08* Photo shared by Lin Juanhui on [flickr](http://flickr.com/photos/juanicths/2538708562/)
 
 ---
 
-*![](biaculeatus/250713tryjk1.jpg)  
-Terumbu Raya, Jul 25* Photo shared by Jayden Kang on [facebook](https://www.facebook.com/media/set/?set=a.30284476521201141&type=3&ref=embed_post).
 
-*![](biaculeatus/250715bbbtl1.jpg)  
-Beting Bemban Besar, Jul 25* Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10162808258719264&set=a.10162808156564264).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Belalang puak "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 109]
 family: Pittosporaceae
 genus: Pittosporum
@@ -15,6 +15,51 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Apiales
 updated: Feb 11
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg"
+  caption: |
+    <p>Growing also the natural shore Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Singapore University Press.</p>
+    <p>215 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+    <p>- Davison, G.W.</p>
+    <p>H.</p>
+    <p>and P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>Ng and Ho Hua Chew, 2008.</p>
+    <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+    <p>Nature Society (Singapore).</p>
+    <p>285 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -72,21 +117,10 @@ used as fish poison.
 is listed as 'Vulnerable' in the Red List of threatened plants of
 Singapore.
 
-![](ferrugineum/110220lazd6170m6l.jpg)  
-Growing also
-the natural shore *Lazarus Island, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ferrugineum/110220lazd6171m3a.jpg)  
- *Lazarus Island,
-Feb 11**
 
-*![](ferrugineum/110220lazd6171m3c.jpg)  
- *Lazarus Island,
-Feb 11**
 
-*![](ferrugineum/110220lazd6171m3b.jpg)  
- *Lazarus Island,
-Feb 11**
 
 ---
 
@@ -97,22 +131,6 @@ With grateful thanks to Bian Tan for identifying this plant.
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan.1998, *[The
-  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Singapore University Press. 215 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

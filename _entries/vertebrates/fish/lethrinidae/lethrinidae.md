@@ -2,7 +2,7 @@
 title: "Emperors "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "emperor, fish, lethrinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Lethrinidae
 genus: ""
 species: ""
@@ -16,6 +16,17 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg"
+  caption: |
+    <p><a href="lentjan">Pink ear emperor</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg"
+  caption: |
+    <p><a href="lentjan">Pink ear emperor</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/nebulosus/120508skdd1871m3.jpg"
+  caption: |
+    <p><a href="nebulosus">Spangled emperor</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,13 +94,9 @@ on Singapore shores**
 
 ---
 
-**![](lentjan/070614chgg0240m3.jpg)  
-[Pink ear emperor](lentjan)**
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](lentjan/070419chgg8754m3.jpg)  
-[Pink ear emperor](lentjan)**
 
-***![](nebulosus/120508skdd1871m3.jpg)*[Spangled emperor](nebulosus)**
 
 ---
 

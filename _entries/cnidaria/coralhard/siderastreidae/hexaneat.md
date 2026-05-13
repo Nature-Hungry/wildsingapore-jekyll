@@ -2,7 +2,7 @@
 title: Neat hexagonal  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, scleractinia, pseudosiderastrea, tayamai, siderastreidae, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Siderastreidae
 genus: Pseudosiderastrea
 species: tayamai*
@@ -15,6 +15,35 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg"
+  caption: |
+    <p>Beting Bronok,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3.jpg"
+  caption: |
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/120704chgd6845m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5.jpg"
+  caption: |
+    <p>Terumbu Pempang</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/250712tplmn5a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161742250663660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/170723ubnay6.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/210529ecpblks17.jpg"
+  caption: |
+    <p>East Coast Park (B), May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233458613158&set=a.10159233461703158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/220419sjimn1.jpg"
+  caption: |
+    <p>St John's Island, Apr 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158838566793660&set=a.10158838479268660">facebook</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/siderastreidae/hexaneat/050821bbg2002m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,18 +102,9 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-![](hexaneat/050821bbg2002m3.jpg)  
-*Beting Bronok,
-Aug 05**![](hexaneat/050821bbg2002m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hexaneat/120704chgd6845m3.jpg)  
-*Changi, Jul
-12  
-*![](hexaneat/120704chgd6845m3a.jpg)***
 
-![](hexaneat/250712tplmn5.jpg)  
-*Terumbu Pempang
-Laut, Jul 25![](hexaneat/250712tplmn5a.jpg)*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161742250663660&type=3&ref=embed_post).
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -108,16 +128,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**![](hexaneat/170723ubnay6.jpg)*  
-*Pulau Ubin, Jul 17**Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3).
 
-*![](hexaneat/210529ecpblks17.jpg)  
-*East Coast Park (B), May 21**Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233458613158&set=a.10159233461703158).
 
 ---
 
-![](hexaneat/220419sjimn1.jpg)  
-*St John's Island, Apr 22*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10158838566793660&set=a.10158838479268660)
 
 ---
 

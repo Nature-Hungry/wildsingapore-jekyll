@@ -2,8 +2,55 @@
 title: "Orange lobed ascidians (Ascidiacea) "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/100518tbbc3695m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3d.jpg"
+  caption: |
+    <p>Some kind of animal embedded in the ascidian.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050623cjg8270m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050623cjg8270m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/080704sekd6781m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/080704sekd6781m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/110814smkd9103m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/110814smkd9103m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/150619tuslks.JPG"
+  caption: |
+    <p>Tuas, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472537154/in/album-72157618623639729/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/241021ecppcnig1.jpg"
+  caption: |
+    <p>East Coast (PCN), Oct 24Photo shared by Isaac Goh on <a href="https://www.facebook.com/photo/?fbid=122109071852567539&set=pcb.122110023188567539">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/101205blylks2.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5241365626/in/album-72157625545414532/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/160608cyrmn3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/orange/050722cjg9833m3.jpg"
 ---
  
 
@@ -37,18 +84,11 @@ It's hard to identify ascidians without close examination of small
 features. On this website, they are grouped by large external features
 for convenience of display.
 
-*![](orange/050722cjg9833m3.jpg)  
-Chek Jawa, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](orange/050722cjg9833m3c.jpg)*
 
-*![](orange/050722cjg9833m3b.jpg)*
 
-*![](orange/100518tbbc3695m3.jpg)  
-Beting Bemban Besar, May 10*
 
-![](orange/050722cjg9833m3d.jpg)  
-Some kind of animal embedded in the ascidian.
 
   
 *\*Species
@@ -73,37 +113,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](orange/050623cjg8270m3.jpg)  
-Chek Jawa, Jun 05  
-![](orange/050623cjg8270m3b.jpg)*
 
-*![](orange/080704sekd6781m3.jpg)  
-Pulau Sekudu, Jul 08  
-![](orange/080704sekd6781m3a.jpg)*
 
-*![](orange/110814smkd9103m3.jpg)  
-Pulau Semakau, Aug 11  
-![](orange/110814smkd9103m3a.jpg)*
 
 ---
 
-*![](orange/150619tuslks.JPG)  
-Tuas, Jun 15*Photo shared by
-Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23472537154/in/album-72157618623639729/).
 
-*![](orange/241021ecppcnig1.jpg)  
-East Coast (PCN), Oct 24*Photo shared by
-Isaac Goh on [facebook](https://www.facebook.com/photo/?fbid=122109071852567539&set=pcb.122110023188567539).
 
 ---
 
-*![](orange/101205blylks2.jpg)  
-Berlayar Creek, Oct 15*Photo shared by
-Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5241365626/in/album-72157625545414532/).
 
-*![](orange/160608cyrmn3.jpg)  
-Cyrene Reef, Jun 16*Photo shared by
-Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3).
 
 ---
 

@@ -2,12 +2,72 @@
 title: Penaeid prawns
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Penaeidae
 genus: Family
 species: Penaeidae
 attributes: []
 updated: Feb 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngshrimps)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg"
+  caption: |
+    <p>Like other shrimps, it contracts its abdomen to quickly swim backwards.</p>
+    <p>Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg"
+  caption: |
+    <p>Some hide in the sand with only the 'nose' and eyes sticking out.</p>
+    <p>Chek Jawa, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg"
+  caption: |
+    <p><a href="penbluetail">Blue-tailed penaeid prawns</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
+  caption: |
+    <p><a href="penbanded">Banded penaeid prawns</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
+  caption: |
+    <p><a href="penslender">Slender penaid prawns</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
+  caption: |
+    <p><a href="penspeckled">Speckled penaeid prawns</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+    <p>- Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001.</p>
+    <p>The</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Didier Millet, Malaysia.</p>
+    <p>144 pp.</p>
+    <p>- Jones Diana S.</p>
+    <p>and Gary J.</p>
+    <p>Morgan, 2002.</p>
+    <p>A Field Guide to Crustaceans of Australian Waters.</p>
+    <p>Reed New Holland.</p>
+    <p>224 pp.</p>
+    <p>- Debelius, Helmut, 2001.</p>
+    <p>Crustacea</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>IKAN-Unterwasserachiv, Frankfurt.</p>
+    <p>321 pp.</p>
+    <p>- Gosliner, Terrence M., David W.</p>
+    <p>Behrens and Gary C.</p>
+    <p>Williams.</p>
+    <p>1996.</p>
+    <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Sea Challengers.</p>
+    <p>314pp.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -18,7 +78,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -87,16 +147,6 @@ mate and lay eggs in deeper waters.
 are important commercially. Tiger prawns are widely aquacultured and
 often raised unsustainably. More about the [impact
 of prawn farming](../../../concepts/prawnfarms).
-*![](penbanded/050721cjg9666m3.jpg)  
-Chek Jawa, Jul 05*
-*![](penbluetail/070615sntrg0335m3.jpg)*Like
-other shrimps, it contracts its abdomen  
-to quickly swim backwards.  
-*Sentosa,
-Jun 07* 
-*![](penbluetail/030716cjd0023m3.jpg)*Some
-hide in the sand with only  
-the 'nose' and eyes sticking out. *Chek Jawa, Jul 03*
 
 ---
 
@@ -105,19 +155,11 @@ prawns on Singapore shores**
 
 ---
 
-**![](penbluetail/030716cjd0025m3.jpg)  
-[Blue-tailed penaeid prawns](penbluetail)**
 
-***![](penbanded/080731chgd8379m3.jpg)*  
-[Banded penaeid prawns](penbanded)**
 
-**![](penslender/041019labd7633m3.jpg)  
-[Slender penaid prawns](penslender)**
 
 ---
 
-***![](penspeckled/091106smkd3846m3.jpg)*  
-[Speckled penaeid prawns](penspeckled)**
 
 ---
 
@@ -213,24 +255,6 @@ Parapenaeopsis merguiensis**\*Penaeus monodon* (Black tiger prawn) *\*Penaeus se
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Ong, Jin
-  Eong & Gong, Wooi Khoon (eds.), 2001. *The
-  Encyclopedia of Malaysia (Vol. 6): The Seas![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Didier Millet, Malaysia. 144 pp.
-- Jones Diana
-  S. and Gary J. Morgan, 2002. *A Field Guide to Crustaceans of
-  Australian Waters*. Reed New Holland. 224 pp.
-- Debelius,
-  Helmut, 2001. *Crustacea
-  Guide of the World: Atlantic Ocean, Indian Ocean, Pacific Ocean![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Sea Challengers. 314pp.
 
 [links](../../../links)
 | [references](../../../references)

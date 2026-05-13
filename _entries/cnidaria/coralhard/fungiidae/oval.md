@@ -2,7 +2,7 @@
 title: Oval mushroom coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fungiidae
 genus: Fungia
 species: ""
@@ -15,6 +15,59 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg"
+  caption: |
+    <p>Prominent central furrow.</p>
+    <p>Sisters Island, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3a.jpg"
+  caption: |
+    <p>Tiny teeth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg"
+  caption: |
+    <p>Lines appear smooth when covered with the tissue.</p>
+    <p>Pink tips tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3.jpg"
+  caption: |
+    <p>Undeside</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4749m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3c.jpg"
+  caption: |
+    <p>Lines appear smooth when covered with the tissue.</p>
+    <p>Pink tips tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/110717tbd7222m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/110717tbd7221m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/080707hntd7469m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/2007025smknjll1a.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157596595281295&set=a.10157596595111295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/090330trylks1m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 09 Photo shared by Loh Kok Sheng on his <a href="http://www.flickr.com/photos/koksheng/3558525309/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/100130brklks14m3b.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on his <a href="http://www.flickr.com/photos/koksheng/4353324860/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/210428slulks8.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469053158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060212sisg4747m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,40 +118,17 @@ pinkish brown or yellowish brown.
 long mushroom corals. Here's more on how to [tell
 apart elongated mushroom hard corals](cflong.htm).
 
-*![](oval/060212sisg4747m3.jpg)*Prominent central furrow. *Sisters Island, Feb 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](oval/060212sisg4747m3a.jpg)  
-Tiny teeth.
 
-![](oval/060212sisg4747m3c.jpg)  
-Lines appear smooth when covered   
-with the tissue. Pink tips tentacles.
 
-![](oval/060212sisg4749m3.jpg)  
-Undeside
 
-![](oval/060212sisg4749m3a.jpg)
 
-![](oval/060212sisg4747m3c.jpg)  
-Lines appear smooth when covered   
-with the tissue. Pink tips tentacles.
 
 ---
 
-![](oval/060402ulrd0962m3.jpg)  
-*Pulau Hantu,
-Apr 06  
-![](oval/060402ulrd0962m3a.jpg)*
 
-![](oval/110717tbd7222m3.jpg)  
-*Terumbu Bemban,
-Jul 11  
-![](oval/110717tbd7221m3c.jpg)*
 
-![](oval/080707hntd7469m3.jpg)  
-*Pulau Hantu,
-Jul 08  
-![](oval/080707hntd7469m3b.jpg)*
 
   
  *\*Species are difficult to positively identify without close examination.  
@@ -122,21 +152,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](oval/2007025smknjll1a.jpg)**Pulau Semakau North, Jul 20*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157596595281295&set=a.10157596595111295&type=3&theater).
 
-*![](oval/090330trylks1m3.jpg)**Terumbu
-Raya, Mar 09*  
-Photo shared by Loh Kok Sheng on his [flickr](http://www.flickr.com/photos/koksheng/3558525309/)
 
 ---
 
-*![](oval/100130brklks14m3b.jpg)**Terumbu
-Berkas, Jan 10*  
-Photo shared by Loh Kok Sheng on his [flickr](http://www.flickr.com/photos/koksheng/4353324860/)
 
-*![](oval/210428slulks8.jpg)**Pulau Salu, Apr 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162469053158&set=a.10159162473618158).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -2,7 +2,7 @@
 title: Mangrove ant-house plant
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ant, house, dischidia, major, apocynaceae, asclepiadoideae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 35, 36]
 family: Apocynaceae
 genus: Dischidia
@@ -17,6 +17,36 @@ subfamily: Asclepiadoideae
 tribe: Marsdenieae
 inat_id: 345969
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg"
+  caption: |
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/030913cjd0026m3.jpg"
+  caption: |
+    <p>Roots grow nside the hollow leaf.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3a.jpg"
+  caption: |
+    <p>Small circular fat leaves.</p>
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m3.jpg"
+  caption: |
+    <p>Large hollow leaves.</p>
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6l.jpg"
+  caption: |
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m6la.jpg"
+  caption: |
+    <p>Fruit pods.</p>
+    <p>Mandai, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/110317mndd7360m3b.jpg"
+  caption: |
+    <p>Flower</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/090926cjd1949m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dischidia/dischidia/040501cjd0003m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,33 +105,13 @@ Many of our *Dischia*  species are listed as 'Nationally Extinct'
 or 'Critically Endangered' on the Red List of threatened plants of
 Singapore.   
 
-![](dischidia/040501cjd0003m6.jpg)  
-*Chek Jawa,
-May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dischidia/030913cjd0026m3.jpg)  
-Roots grow nside
-the hollow leaf.  
-*Chek Jawa, Sep 03*
 
-*![](dischidia/040501cjd0003m3a.jpg)*Small circular
-fat leaves.  
-*Chek Jawa, May 04*
 
-![](dischidia/040501cjd0003m3.jpg)  
-Large hollow
-leaves.  
-*Chek Jawa, May 04*
 
-![](dischidia/110317mndd7360m6l.jpg)  
-*Mandai, Mar 11*
 
-*![](dischidia/110317mndd7360m6la.jpg)*Fruit
-pods. *Mandai, Mar 11*
 
-*![](dischidia/110317mndd7360m3b.jpg)* Flower
-bud. *Mandai, Mar 11![](dischidia/090926cjd1949m3a.jpg)  
-Chek Jawa, Sep 09*
 
 ---
 

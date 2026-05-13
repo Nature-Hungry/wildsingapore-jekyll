@@ -2,7 +2,7 @@
 title: "Star limpet "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "star, limpet, patelloida, saccharinoides, acmaeidae, lottiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
 family: Acmaeidae
 genus: Patelloida
@@ -18,6 +18,20 @@ superfamily: Lottioidea
 subfamily: Lottiinae
 tribe: Patelloidini
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/091021chgd3059m3.jpg"
+  caption: |
+    <p>Changi, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/160610jngmn.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/35811888952/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9238m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,15 +72,9 @@ from a raised centre and stick out at the edges forming an overall
 star-like shape. There is no hole at the top of the shell. Body plain
 white. A true limpet, it breathes through one feathery gill.
 
-![](patelloida/050108cjd9238m3.jpg)  
-*Chek
-Jawa, Jan 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](patelloida/050108cjd9237m3.jpg)Underside.
 
-![](patelloida/091021chgd3059m3.jpg)  
-*Changi,
-Oct 09*
 
 ---
 
@@ -85,8 +93,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](patelloida/160610jngmn.jpg)  
-*Pulau Jong, Jun 16*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/35811888952/).
 
 ---
 

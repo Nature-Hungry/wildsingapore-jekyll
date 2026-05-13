@@ -2,7 +2,7 @@
 title: Peanut worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peanut, worm, sipuncula, sipunculida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Phascolosomatidae
 genus: ""
@@ -13,6 +13,80 @@ kingdom: Animalia
 phylum: Annelida
 order: Sipuncula
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090514prpd1761m3.jpg"
+  caption: |
+    <p>Pasir Ris, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718959441/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/020406cjd8036m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/031122cjd0011m3.jpg"
+  caption: |
+    <p>Chek Jawa, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/080706chg7364m3.jpg"
+  caption: |
+    <p>Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmn.jpg"
+  caption: |
+    <p>Changi, Jan 15 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/16229725939/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150122chgmna.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/090720skdmn8m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 09Photo shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2009/07/the-long-and-short-of-sekudul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210114chg7vc1.jpg"
+  caption: |
+    <p>Changi CP7, Jan 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158198897207945&set=a.10158199512532945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/120425blys06795m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/260201cyrlks2.jpg"
+  caption: |
+    <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210429hntvc9.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437640287945&set=a.10158431262127945">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/210113smkwjll6.jpg"
+  caption: |
+    <p>Pulau Semakau West, Jan 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157988358726295&set=a.10157988367216295">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/150718smkehpy2m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 15 Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/media/set/?set=a.10153415231599000.1073741968.589418999&type=3">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718959441/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100613snglks3m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100527tmd3597m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5151m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100602tmd5153m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100728tmd9440m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/100729tmd9578m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/sipuncula/sipuncula/070421cyrg8928m3.jpg"
 ---
 
 
@@ -44,13 +118,9 @@ seagrasses.
 worms are unsegmented and belong to Phylum Sipuncula. There are about
 300 known species of peanut worms.
 
-![](sipuncula/070421cyrg8928m3.jpg)  
-*Cyrene Reef, Apr 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sipuncula/070421cyrg8928m3a.jpg)
 
-![](sipuncula/090514prpd1761m3.jpg)  
-*Pasir Ris, May 09*
 
 **Features:** 5-10cm long. Peanut
 worms are burrowing worm-like creatures that are sometimes seen above
@@ -74,11 +144,7 @@ into the mouth. Using their introvert, peanut worms can collect food
 while their soft bodies remain safely hidden. Some also use their
 introvert to burrow. One species even uses its introvert to swim!
 
-![](sipuncula/100613snglks3m6l.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718959441/).
 
-![](sipuncula/100613snglks3m3.jpg)
 
 **What do they eat?** Most peanut
 worms eat detritus, most of them mopping it up from the surface. Others
@@ -116,82 +182,39 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sipuncula/020406cjd8036m3.jpg)  
- *Chek Jawa, Apr 02*
 
-![](sipuncula/031122cjd0011m3.jpg)  
-*Chek Jawa, Nov 03*
 
-![](sipuncula/080706chg7364m3.jpg)  
-*Changi, Jul 08*
 
 ---
 
-![](sipuncula/150122chgmn.jpg)  
-*Changi, Jan 15*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/16229725939/).
 
-![](sipuncula/150122chgmna.jpg)
 
-![](sipuncula/090720skdmn8m3.jpg)  
- *Pulau Sekudu, Jul 09*Photo shared by Marcus Ng on [his
-blog](http://budak.blogs.com/the_annotated_budak/2009/07/the-long-and-short-of-sekudul).
 
 ---
 
-![](sipuncula/210114chg7vc1.jpg)  
-*Changi CP7, Jan 21*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158198897207945&set=a.10158199512532945).
 
-![](sipuncula/120425blys06795m3.jpg)  
-*Berlayar Creek, Apr 12*
 
 ---
 
-![](sipuncula/260201cyrlks2.jpg)  
-*Cyrene, Feb 26*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post).
 
-![](sipuncula/210429hntvc9.jpg)  
-*Pulau Hantu, Apr 21*  
-Photo shared by Vincent Choo on [facbook](https://www.facebook.com/photo?fbid=10158437640287945&set=a.10158431262127945).
 
 ---
 
-![](sipuncula/210113smkwjll6.jpg)  
-*Pulau Semakau West, Jan 21*  
-Photo shared by Jianlin Liu on [facbook](https://www.facebook.com/photo?fbid=10157988358726295&set=a.10157988367216295).
 
-![](sipuncula/150718smkehpy2m3.jpg)  
-*Pulau Semakau East, Jul 15*  
-Photo shared by Heng Pei Yan on [facbook](https://www.facebook.com/media/set/?set=a.10153415231599000.1073741968.589418999&type=3).
 
 ---
 
-![](sipuncula/100613snglks3m6l.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718959441/).
 
-![](sipuncula/100613snglks3m3.jpg)
 
 ---
 
 **Peanut worms seen
 above ground in Tanah Merah after the oil spill in May 10**  
 
-![](sipuncula/100527tmd3597m3.jpg)  
-*Tanah Merah, May 10*
 
-![](sipuncula/100602tmd5151m3.jpg)  
-*Tanah Merah, Jun 10*
 
-![](sipuncula/100602tmd5153m3.jpg)  
-*Tanah Merah, Jun 10*
 
-![](sipuncula/100728tmd9440m3.jpg)  
-*Tanah Merah, Jul 10*
 
-![](sipuncula/100729tmd9578m3.jpg)  
-*Tanah Merah, Jul 10*
 
 ---
 
@@ -266,5 +289,3 @@ signifer=\*Themiste (Lagenopsis) lageniformis*
   Jan A., 2005. *Biology
   of the Invertebrates*.
   5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-
-

@@ -2,7 +2,7 @@
 title: Indo-Pacific hump-backed dolphin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sousa, chinensis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Delphinidae
 genus: Sousa
 species: chinensis
@@ -23,6 +23,25 @@ parvorder: Odontoceti
 superfamily: Delphinoidea
 subfamily: Delphininae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg"
+  caption: |
+    <p>St John's Island, Aug 17Photos by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10155614375233119&set=a.10155614374353119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml1m3.jpg"
+  caption: |
+    <p>Off Pulau Semakau, Jun 09Photos by Karenne Tun shared on <a href="http://psychedelic-nature.blogspot.com/2009/06/dolphin-picturesl">Neo Mei Lin's blog</a>.</p>
+    <p>Features:Head and body length 120-280cm, up to about 140kg.</p>
+    <p>Long narrow jaws filled with teeth, broad tail flukes (45cm), with a dorsal fisn (15cm tall) and pectoral fins (30cm).</p>
+    <p>Colours may be brown, grey, black above and paler beneath.</p>
+    <p>Some may be whitish, speckled or freckled.</p>
+    <p>They are sometimes also called Pink dolphins.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/090610smknml2m3.jpg"
+  caption: |
+    <p>Off Pulau Semakau, Jun 09 Photos by Karenne Tun shared on <a href="http://psychedelic-nature.blogspot.com/2009/06/dolphin-picturesl">Neo Mei Lin's blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/070521sisckt1m6.jpg"
+  caption: |
+    <p>Off Sisters Islands, May 07Photo shared by CK Tan on <a href="http://www.flickr.com/photos/habitatnews/507546478/">the habitatnews flickr</a> Dolphin babies: Baby dolphins are about 100cm long at birth and suckle on their mother's milk for about two years.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/sousa/170823tsmkjt2.jpg"
 ---
 
 
@@ -48,35 +67,10 @@ and upstream in large rivers.
   
 According to Lee and Ooi (June 2020), in discussing the dolphins seen off Jurong Island, "the occurrence of dolphins in such a highly urbanized marine environment could be due to fairly good water quality there as waterpollution has been cited as a major threat to this locally ‘endangered’ dolphin. It has been shown that the waters around the southern coast of Singapore Island, despite being more industrialised, are less polluted in terms of bacteria, chemical tracers and pathogenic vibrios compared to the Johor Strait along the northern coast. This may explain why most sightings of this dolphin species has been in the Singapore Strait and the  
 eastern Johor Strait."
-*![](sousa/170823tsmkjt2.jpg)**St John's Island, Aug 17*Photos
-by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10155614375233119&set=a.10155614374353119&type=3&theater).
-*![](sousa/090610smknml1m3.jpg)**Off
-Pulau Semakau, Jun 09*Photos
-by Karenne Tun shared   
-on [Neo
-Mei Lin's blog](http://psychedelic-nature.blogspot.com/2009/06/dolphin-picturesl).
-**Features:**Head and body
-length 120-280cm, up to about 140kg. Long narrow jaws filled with
-teeth, broad tail flukes (45cm), with a dorsal fisn (15cm tall) and
-pectoral fins (30cm). Colours may be brown, grey, black above and
-paler beneath. Some may be whitish, speckled or freckled. They are
-sometimes also called Pink dolphins.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **What does it eat?** Feeds mainly
 on fish, as well as cephalopods (octopus, squid and cuttlefish).
-*![](sousa/090610smknml2m3.jpg)**Off
-Pulau Semakau, Jun 09*  
-Photos
-by Karenne Tun shared   
-on [Neo
-Mei Lin's blog](http://psychedelic-nature.blogspot.com/2009/06/dolphin-picturesl).
-*![](sousa/070521sisckt1m6.jpg)**Off
-Sisters Islands, May 07*Photo
-shared by CK Tan on [the
-habitatnews flickr](http://www.flickr.com/photos/habitatnews/507546478/)
-**Dolphin babies:** Baby dolphins
-are about 100cm long at birth and suckle on their mother's milk for
-about two years.   
   
 **Status and threats:** This dolphin
 is listed as 'Endangered' in the Red List of threatened animals of
@@ -192,5 +186,3 @@ sightings of dolphins in Singapore: social media**
   M. 2003. *Walker's
   Marine Mammals of the World*. The Johns Hopkins University
   Press. 263 pp.
-
-

@@ -2,7 +2,7 @@
 title: Mermaid's fan seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mermaid, fan, ear, brown, seaweed, weed, padina, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Padina
@@ -17,6 +17,68 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3a.jpg"
+  caption: |
+    <p>Circular fan-shaped, often torn at the edges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3972m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3.jpg"
+  caption: |
+    <p>Tiny hairs on edges and along concentric circles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3823m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3824m3.jpg"
+  caption: |
+    <p>Tiny hairs on edges and along concentric circles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3825m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091204pawd5267m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091205sudd5541m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091231biod7012m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100131slud8839m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100130brkd8512m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,43 +130,18 @@ there are more than 30 current *Padina* species.
 is eaten in some places. It is also used as animal feed, fertiliser
 and traditional medicine.
 
-![](padina/040423sntd0023m3.jpg)  
-*Sentosa, Apr
-04   
-![](padina/040423sntd0023m3a.jpg)*Circular fan-shaped, often torn at the edges.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](padina/111128sntd3972m3.jpg)  
-*Sentosa, Nov
-11*
 
-![](padina/111128sntd3973m3.jpg)  
-Tiny hairs on
-edges and   
-along concentric circles.
 
-![](padina/111128sntd3973m3b.jpg)
 
-![](padina/111127sisd3823m3.jpg)  
-*Sisters Island,
-Nov 11*
 
-![](padina/111127sisd3824m3.jpg)  
-Tiny hairs on
-edges and   
-along concentric circles.
 
-![](padina/111127sisd3825m3.jpg)
 
 ---
 
-![](padina/051103sisg2811m3.jpg)  
-*Sisters Island, Nov 05*![](padina/051103sisg2811m3a.jpg)
 
-![](padina/060131sjid6688m3.jpg)  
-*St. John's Island, Jan 06*![](padina/060131sjid6688m3a.jpg)
 
-![](padina/040409tusad0066m3.jpg)  
-*Tuas, Apr 04*![](padina/040409tusad0066m3a.jpg)
 
  *\*Seaweed species are difficult to positively identify without microscopic
 examination.  
@@ -129,25 +166,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](padina/091204pawd5267m3.jpg)  
-*Pulau Pawai, Dec 09*
 
-![](padina/091205sudd5541m3.jpg)  
-*Pulau Sudong, Dec 09*
 
-![](padina/091231biod7012m3.jpg)  
-*Pulau Biola, Dec 09*
 
 ---
 
-![](padina/100131slud8839m3.jpg)  
-*Terumbu Salu, Jan 10*
 
-![](padina/100130brkd8512m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](padina/100810sngd9917m3.jpg)  
-*Pulau Senang, Aug 10*
 
 ---
 

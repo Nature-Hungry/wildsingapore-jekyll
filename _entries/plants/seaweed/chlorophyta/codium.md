@@ -2,7 +2,7 @@
 title: Codium green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "knobbly, codium, codiaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Codiaceae
 genus: ""
@@ -15,6 +15,59 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/050412tusd2442m3.jpg"
+  caption: |
+    <p>Tuas, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/050412tusd2442m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100401labd0296m3.jpg"
+  caption: |
+    <p>Labrador, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100401labd0296m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/100130brklks1m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353254052/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3b.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/091231biod7067m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200710mevc11.jpg"
+  caption: |
+    <p>East Coast-Marina East, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811092257945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210529epcnvc10.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497031347945&set=a.10158495877737945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/251208melks10.jpg"
+  caption: |
+    <p>Marina East, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/200210blyhud2.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Nurulhuda Abdul Rahim on <a href="https://www.facebook.com/photo.php?fbid=2859933254050538&set=a.2859896557387541&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201215bsrpvc10.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140901297945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/201019sjivc6.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158023604652945&set=a.10158021785797945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/220518kusrk1.jpg"
+  caption: |
+    <p>Kusu Island, May 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159750836687906&set=a.10159750827347906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/210429hntvc5.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437637402945&set=a.10158431262127945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/230510tptrk2.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160482043922906&set=a.10160482033187906">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/codium/120219smkd7180m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,34 +131,14 @@ from the wild and sold in local markets. They are also used as insect
 repellant. They are reported to have anti-bacterial and anti-tumor
 properties.
 
-![](codium/120219smkd7180m6l.jpg)  
-*Pulau Semakau,
-Feb 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](codium/050412tusd2442m3.jpg)  
-*Tuas, Apr
-05  
-![](codium/050412tusd2442m3b.jpg)*
 
-![](codium/100401labd0296m3.jpg)  
-*Labrador,
-Apr 10  
-![](codium/100401labd0296m3a.jpg)*
 
 ---
 
-![](codium/100130brklks1m3.jpg)  
-*Terumbu
-Berkas, Jan 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353254052/).
 
-![](codium/091231biod7067m3b.jpg)  
-*Pulau Biola,
-Dec 09*
 
-![](codium/091231biod7067m3.jpg)  
-*Pulau Biola,
-Dec 09*
 
 *\*Species are difficult to positively identify
 without close examination of internal parts.  
@@ -129,40 +162,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](codium/200710mevc11.jpg)  
-*East Coast-Marina East, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157811092257945&set=a.10157811088932945&type=3&theater).
 
-![](codium/210529epcnvc10.jpg)  
-*East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497031347945&set=a.10158495877737945).
 
 ---
 
-![](codium/251208melks10.jpg)  
-*Marina East, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post).
 
 ---
 
-![](codium/200210blyhud2.jpg)  
-*Berlayar Creek, Feb 20*Photo shared by Nurulhuda Abdul Rahim on [facebook](https://www.facebook.com/photo.php?fbid=2859933254050538&set=a.2859896557387541&type=3&theater).
 
-![](codium/201215bsrpvc10.jpg)  
-*Sentosa Serapong, Dec 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140901297945&set=a.10158140917142945).
 
 ---
 
-![](codium/201019sjivc6.jpg)  
-*St John's Island, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158023604652945&set=a.10158021785797945).
 
-![](codium/220518kusrk1.jpg)  
-*Kusu Island, May 22*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159750836687906&set=a.10159750827347906).
 
-![](codium/210429hntvc5.jpg)  
-*Pulau Hantu, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158437637402945&set=a.10158431262127945).
 
 ---
 
-![](codium/230510tptrk2.jpg)  
-*Terumbu Pempang Tengah, May 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160482043922906&set=a.10160482033187906).
 
 ---
 

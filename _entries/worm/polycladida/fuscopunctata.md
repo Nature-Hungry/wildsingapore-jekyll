@@ -2,7 +2,7 @@
 title: Punctuated flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, maritigrella, fuscopunctata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euryleptidae
 genus: Maritigrella
 species: fuscopunctata*
@@ -15,6 +15,41 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2.jpg"
+  caption: |
+    <p>Big Sisters Island, Jan 20 Shared by Rene Ong on <a href="https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895472817179064/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/200126bsisro2a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18 Shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=1898233756902980">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro1a.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2a.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjro2.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18 Shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=1898233756902980">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210626cjtch5.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 21 Shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159555832168713&set=a.10159555848543713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/180714cjdc1.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18 Shared by Dayna Cheah on <a href="https://www.flickr.com/photos/wildsingapore/tags/Maritigrella%2520fuscopunctata/map?&fLat=1.2626&fLon=103.8681&zl=11&order_by=recent">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/230122jngjll1.jpg"
+  caption: |
+    <p>Pulau Jong, Jan 23 Shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159413141056295&set=a.10159413154211295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/210501tbtch4.jpg"
+  caption: |
+    <p>Terumbu Bemban, May 21 Shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159415592553713&set=a.10159415623518713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/fuscopunctata/050819cjg1561m3.jpg"
 ---
 
 
@@ -45,14 +80,9 @@ Underside has a similiar pattern and colour. Has a pair of tentacles that extend
 part of the gut) that can be pushed out through the mouth to engulf
 the prey.
 
-![](fuscopunctata/050819cjg1561m3.jpg)  
- *Chek Jawa, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](fuscopunctata/200126bsisro2.jpg)  
-*Big Sisters Island, Jan 20*  
-Shared by Rene Ong on [facebook](https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895472817179064/?type=3&theater).
 
-![](fuscopunctata/200126bsisro2a.jpg)
 
   
 *\***Species are difficult to positively identify without close
@@ -77,41 +107,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](fuscopunctata/180714cjro1.jpg)  
-*Chek Jawa, Jul 18*  
-Shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=1898233756902980).
 
-![](fuscopunctata/180714cjro1a.jpg)  
-Underside.
 
 ---
 
-![](fuscopunctata/180714cjro2a.jpg)  
-Underside.
 
-![](fuscopunctata/180714cjro2.jpg)  
-*Chek Jawa, Jul 18*  
-Shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=1898233756902980).
 
 ---
 
-![](fuscopunctata/210626cjtch5.jpg)  
-*Chek Jawa, Jun 21*  
-Shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159555832168713&set=a.10159555848543713).
 
-![](fuscopunctata/180714cjdc1.jpg)  
-*Chek Jawa, Jul 18*  
-Shared by Dayna Cheah on [facebook](https://www.flickr.com/photos/wildsingapore/tags/Maritigrella%2520fuscopunctata/map?&fLat=1.2626&fLon=103.8681&zl=11&order_by=recent).
 
 ---
 
-![](fuscopunctata/230122jngjll1.jpg)  
-*Pulau Jong, Jan 23*  
-Shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10159413141056295&set=a.10159413154211295).
 
-![](fuscopunctata/210501tbtch4.jpg)  
-*Terumbu Bemban, May 21*  
-Shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159415592553713&set=a.10159415623518713).
 
 ---
 
@@ -142,5 +150,3 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 - Kuiter, Rudie
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-
-

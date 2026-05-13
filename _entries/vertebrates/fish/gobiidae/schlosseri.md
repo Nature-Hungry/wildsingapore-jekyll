@@ -2,7 +2,7 @@
 title: Giant mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, mudskipper, mud, skipper, fish, periophthalmodon, schlosseri, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 19, 25, 47, 72]
 family: Gobiidae
 genus: Periophthalmodon
@@ -18,6 +18,42 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg"
+  caption: |
+    <p>Night pattern: additional dark bars.</p>
+    <p>Pasir Risk Park, Dec 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m6l.jpg"
+  caption: |
+    <p>Day pattern: dark stripe along the body.</p>
+    <p>Pasir Ris Park, Feb 12 Baby giants: Possible courtship behaviour was reported, with two fishes stayed close together, but neither of them having the typical dark stripe along the body.</p>
+    <p>The male builds deep burrows in the mud as a nursery for its young.</p>
+    <p>A 'swimming pool' is constructed at the opening of the burrow.</p>
+    <p>The female lays eggs in the burrow which are fertilised by the male.</p>
+    <p>During the breeding season, both the male and female may live in and maintain the burrow.</p>
+    <p>The male cares for the eggs by gulping air in his mouth and releasing it inside the burrow so that the eggs remain well oxygenated.</p>
+    <p>The eggs hatch and develop from the larval stage to juveniles inside the burrow.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg"
+  caption: |
+    <p>A tunnel at the base of the 'swimming pool'.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6810m3.jpg"
+  caption: |
+    <p>Swirling at the base of the pool face down.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6815m3.jpg"
+  caption: |
+    <p>Then spitting out a mouthful of mud.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3a.jpg"
+  caption: |
+    <p>The poor fish often a target of mosquitoes!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215prpd7035m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/121227prpd2761m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,31 +103,13 @@ confused with**  the [Yellow-spotted mudskipper](walailakae.htm) which were long
 Unlike the Giant mudskipper, the Yellow-spotted mudskipper does not
 have a broad black band along the body length and lacks the white-bluish,
 iridescent speckles often seen on the Giant mudskipper's cheeks.
-![](schlosseri/121227prpd2761m3.jpg)  
-Night pattern: additional dark bars. *Pasir Risk Park, Dec 12*
-![](schlosseri/150313deadfishd2601m6l.jpg)  
-Day pattern: dark stripe along the body. *Pasir Ris Park, Feb 12*
-**Baby giants:** Possible courtship behaviour was reported, with two fishes stayed close together, but neither of them having the typical dark stripe along the body. The male builds deep burrows in the mud as a nursery for its young. A 'swimming pool' is constructed at the opening of the burrow. The female lays eggs in the burrow which are fertilised by the male. During the
-breeding season, both the male and female may live in and maintain
-the burrow. The male cares for the eggs by gulping air in his mouth and releasing it inside the burrow so that the eggs remain well oxygenated. The eggs hatch and develop from the larval stage to juveniles inside the burrow.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](schlosseri/120215sbwrd6794m3.jpg)  
-A tunnel at the base of the 'swimming pool'. *Sungei Buloh Wetland Reserve, Feb 12*
 
-![](schlosseri/120215sbwrd6810m3.jpg)  
-Swirling at the base of the pool face down.  
-*Sungei Buloh Wetland Reserve, Feb 12*
 
-![](schlosseri/120215sbwrd6815m3.jpg)  
-Then spitting out a mouthful of mud.
 
-![](schlosseri/120215prpd7035m3.jpg)  
-*Pasir Ris Park, Feb 12*
 
-![](schlosseri/120215prpd7035m3a.jpg)  
-The poor fish often a target of mosquitoes!
 
-![](schlosseri/120215prpd7035m3b.jpg)
 
 **What does it eat?** An aggressive
 hunter, it eats crabs (one study found it prefers crabs) as well as prawns, worms and insects. It may even

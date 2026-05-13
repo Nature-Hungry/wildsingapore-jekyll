@@ -2,7 +2,7 @@
 title: Shore pit viper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "shore, pit, viper, snake, cryptelytrops, trimeresurus, purpureomaculatus, viperidae, crotalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Viperidae
 genus: Cryptelytrops
 species: purpureomaculatus
@@ -17,6 +17,17 @@ order: Squamata
 suborder: Serpentes
 subfamily: Crotalinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3a.jpg"
+  caption: |
+    <p>A prehensile tail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/purpureomaculatus/031102sbwrd0031m3.jpg"
 ---
 
 
@@ -67,12 +78,7 @@ Shore pit vipers are listed as 'Endangered' on the Red List of threatened
 animals of Singapore. Like other creatures of the intertidal zone,
 they are affected by human activities such as reclamation and pollution.
 
-![](purpureomaculatus/031102sbwrd0031m3.jpg)  
-*Sungei Buloh
-Wetland Reserve, Nov 03  
-![](purpureomaculatus/031102sbwrd0031m3a.jpg)*A prehensile
-tail.  
- *![](purpureomaculatus/031102sbwrd0031m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -137,5 +143,3 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

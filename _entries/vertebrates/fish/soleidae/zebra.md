@@ -2,7 +2,7 @@
 title: Zebra sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zebra, flat, fish, flatfish, sole, zebrias, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Soleidae
 genus: Zebrias
@@ -17,6 +17,26 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg"
+  caption: |
+    <p>Changi, Aug 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m6l.jpg"
+  caption: |
+    <p>Changi, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3a.jpg"
+  caption: |
+    <p>Colourful tail!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3b.jpg"
+  caption: |
+    <p>Eyes on the right side.</p>
+    <p>Tiny spines sticking out near the gill covers.</p>
+    <p>What does it eat?</p>
+    <p>It hunts small animals living on the bottom of the sea, especially small crustaceans.</p>
+- url: "https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/36704530105/in/photolist-BVbkeb-WFYYLa-WFYYHp-WFYYPB-XVsj2X-cmuNj5-cmuNnQ-9HPHxz-9HPHAM-89H6x3-fsLzZk-89H6Bh "Zebra sole (Zebrias zebra)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/170821chg1d8552m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,23 +77,11 @@ that extend across to the fins. The tail has bright yellow and black
 markings. It crawls slowly on the bottom by undulating its dorsal
 and anal fins, its body covered in sand, but its colouful tail held
 vertically. Perhaps the tail acts as a lure? *Zebrias quagga* looks similar.
-![](zebra/170821chg1d8552m3.jpg)  
-*Changi, Aug 17*
-![](zebra/100612chgd5283m6l.jpg)  
-*Changi, Jun 10* 
+{% include img-wrap-group.html items=page.page_images %}
  
-![](zebra/100612chgd5283m3a.jpg)  
-Colourful tail!
-![](zebra/100612chgd5283m3b.jpg)  
-Eyes on the right
-side.  
-Tiny spines sticking out near the gill covers.
-**What does it eat?** It hunts small
-animals living on the bottom of the sea, especially small crustaceans.  
   
 **Human uses:** It is marketed fresh,
 frozen and dried-salted.
-[![Zebra sole (Zebrias zebra)](https://live.staticflickr.com/4341/36704530105_cd62082eba_z.jpg)](https://www.flickr.com/photos/wildsingapore/36704530105/in/photolist-BVbkeb-WFYYLa-WFYYHp-WFYYPB-XVsj2X-cmuNj5-cmuNnQ-9HPHxz-9HPHAM-89H6x3-fsLzZk-89H6Bh "Zebra sole (Zebrias zebra)")
 
 ---
 

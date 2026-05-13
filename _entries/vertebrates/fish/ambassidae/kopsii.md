@@ -2,7 +2,7 @@
 title: Asiatic glass perchlets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 69, 70]
 family: Ambassidae
 genus: ""
@@ -16,6 +16,41 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg"
+  caption: |
+    <p>Mouth upturned, large eyes.</p>
+    <p>Pulau Sekudu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg"
+  caption: |
+    <p>Kops' glass perchelet (Ambassis kopsii) Dorsal fin deeply notched, with blackish tip.</p>
+    <p>Kusu Island, Apr 05</p>
+- url: "https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/37781483284/ "Kops' glass perchlet (Ambassis kopsii)") What do they eat?</p>
+    <p>They eat tiny crustaceans such as ostracods and copepods, insects and sometimes fishes.</p>
+    <p>Human uses: Perchlets are eaten in some places and sold fresh or dried and salted.</p>
+    <p>Some are used as an ingredient in making fish sauce.</p>
+    <p>They are also used as bait.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250626ubnrk5.jpg"
+  caption: |
+    <p>Pulau Ubin Jetty, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162634269992906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/241019lazccn2.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/251009sjilks11.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421399228158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/250810bsisjk6.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Jayden Kang on <a href="https://www.facebook.com/jeidun/posts/30698691466446309?ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,22 +102,10 @@ tip of the dorsal fin, which is deeply notched. Else seen in coastal and brackis
   
 **Sometimes confused with** [Mojarras](../gerreidae/gerreidae.htm) (Family Gerreidae) which have a single dorsal
 fin that is not deeply notched. More on [how to tell apart small silvery fishes](../cfsilvery.htm).
-![](kopsii/040828skdd5497m3.jpg)  
-Mouth upturned, large eyes. *Pulau Sekudu, Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](kopsii/050410kusg4216m6l.jpg)  
-Kops' glass perchelet *(Ambassis kopsii*)  
-Dorsal fin deeply notched, with blackish tip. *Kusu Island, Apr 05*
 
 Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17  
-[![Kops' glass perchlet (Ambassis kopsii)](https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg)](https://www.flickr.com/photos/wildsingapore/37781483284/ "Kops' glass perchlet (Ambassis kopsii)")
-**What do they eat?** They
-eat tiny crustaceans such as ostracods and copepods, insects and sometimes
-fishes.  
- **Human uses:** Perchlets
-are eaten in some places and sold fresh or dried and salted. Some are used as an ingredient in making
-fish sauce. They are also used
-as bait.
 
 ---
 
@@ -100,29 +123,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](kopsii/250626ubnrk5.jpg)*  
- *Pulau Ubin Jetty, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162634269992906&type=3&ref=embed_post).
 
 ---
 
-![](kopsii/171010blymn2.jpg)  
-*Berlayar Creek, Oct 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3).
 
-*![](kopsii/241019lazccn2.jpg)  
-Lazarus Island, Oct 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654).
 
-*![](kopsii/251009sjilks11.jpg)  
-St John's Island, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421399228158&type=3&ref=embed_post).
 
 ---
 
-![](kopsii/250810bsisjk6.jpg)  
-*Big Sisters, Aug 25*Photo shared by Jayden Kang on [facebook](https://www.facebook.com/jeidun/posts/30698691466446309?ref=embed_post).
 
 ---
 
-![](kopsii/160208smkshpy5.jpg)  
-*Pulau Semakau South, Feb 16*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Common olive snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "olive, snail, shell, oliva, oliva, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Olividae
 genus: ""
 species: Oliva
@@ -16,6 +16,27 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg"
+  caption: |
+    <p>Tall conical spire.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg"
+  caption: |
+    <p>White lip ends at less than half the shell opening length.</p>
+    <p>Shell opening pinkish.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/130428chgmn.jpg"
+  caption: |
+    <p>Changi, Apr 13 Photo shared by Marcus Ng on flickr.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/100419chgjk.jpg"
+  caption: |
+    <p>Changi, Apr 10Photo shared byJames Koh on <a href="https://www.flickr.com/photos/jameskoh/4532841893/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/180812nsrtlks10.jpg"
+  caption: |
+    <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550002638158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,15 +79,9 @@ at less than half of the shell opening length. Shell pattern
 and colour varies. The shell opening pinkish. Body large beige with brownish spots all over. A long
 siphon sticks out of the notch in the shell. It does not have an operculum.
 
-![](oliva/110814smkd9100m3.jpg)  
-*Pulau Semakau, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](oliva/110814smkd9097m3b.jpg)  
-Tall conical spire.
 
-![](oliva/110814smkd9097m3.jpg)White lip ends at less  
-than half the shell opening length.  
-Shell opening pinkish.
 
   
 *\*Species are difficult
@@ -91,17 +106,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](oliva/130428chgmn.jpg)  
-*Changi, Apr 13*  
-Photo shared by Marcus Ng on flickr.
 
-![](oliva/100419chgjk.jpg)  
-*Changi, Apr 10*Photo shared byJames Koh on [flickr](https://www.flickr.com/photos/jameskoh/4532841893/).
 
 ---
 
-![](oliva/180812nsrtlks10.jpg)  
-*East Coast Park, Aug 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156550002638158&set=a.10156549999868158&type=3&theater).
 
 ---
 

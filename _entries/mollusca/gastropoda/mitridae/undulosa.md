@@ -2,7 +2,7 @@
 title: Waved mitre snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mitre, pterygia, undulosa, mitridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Mitridae
 genus: Pterygia
 species: undulosa
@@ -17,6 +17,36 @@ order: Neogastropoda
 superfamily: Mitroidea
 subfamily: Cylindromitrinae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3a.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8870m3.jpg"
+  caption: |
+    <p>One big one with two smaller ones.</p>
+    <p>Mating?</p>
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0134m3.jpg"
+  caption: |
+    <p>Changi, Sep 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0133m3.jpg"
+  caption: |
+    <p>Egg capsules laid on a Window-pane shell.</p>
+    <p>Changi, Sep 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/150901chg7d0123m3.jpg"
+  caption: |
+    <p>Laying egg capsules on a dead bivalve shell.</p>
+    <p>Changi, Sep 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/160507cjik1.jpg"
+  caption: |
+    <p>Chek Jawa, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598246906179.1073741847.602806178&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/171204chglks6.jpg"
+  caption: |
+    <p>Changi, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155911534303158&set=a.10155911533538158&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/mitridae/undulosa/120801chgd8977m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,24 +86,14 @@ a broad foot and short tentacles. Operculum small and brown.
 **What does it eat?** Mitre snails
 are carnivorous and many feed on worms. They may also scavenge.
 
-*![](undulosa/120801chgd8977m3.jpg)  
-Changi, Aug 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](undulosa/120801chgd8977m3a.jpg)  
-Changi, Aug 12*
 
-![](undulosa/120801chgd8870m3.jpg)  
-One big one
-with two smaller ones. Mating? *Changi, Aug 12*
 
 **Baby mitres:** The snail was seen in groups of several individuals with small egg capsules laid on hard surfaces nearby.
 
-*![](undulosa/150901chg7d0134m3.jpg)  
-Changi, Sep 15*
 
-*![](undulosa/150901chg7d0133m3.jpg)*Egg capsules laid on a Window-pane shell. *Changi, Sep 15*
 
-*![](undulosa/150901chg7d0123m3.jpg)*Laying egg capsules on a dead bivalve shell. *Changi, Sep 15*
 
 ---
 
@@ -92,11 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](undulosa/160507cjik1.jpg)  
-Chek Jawa, May 16*Photo shared by Ivan Kwan on [facebook](https://www.facebook.com/media/set/?set=a.10153598246906179.1073741847.602806178&type=3).
 
-*![](undulosa/171204chglks6.jpg)  
-Changi, Dec 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155911534303158&set=a.10155911533538158&type=3&theater).
 
 ---
 

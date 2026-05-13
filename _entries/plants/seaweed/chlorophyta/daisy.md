@@ -2,7 +2,7 @@
 title: Daisy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seaweed, weed, green, parvocaulis, parvulus, acetabularia, polyphysaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Polyphysaceae
 genus: Parvocaulis
@@ -15,6 +15,30 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Dasycladales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg"
+  caption: |
+    <p>Sentosa, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/090922sjid1590m3.jpg"
+  caption: |
+    <p>Growing among <a href="neomeris">'Taugeh' seaweed</a> St.</p>
+    <p>John's Island, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/160209cyrlks6.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24290173393/in/dateposted/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100810sngd9935m3c.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/100130brkd8494m3c.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/daisy/101223sntd3940m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,15 +80,10 @@ up on a thin stalk. This tiny seaweed is calcified, in different degrees
 depending on the species. The young cap is green and turns white as
 it ages.   
 
-![](daisy/101223sntd3940m3.jpg)  
-*Sentosa, Dec 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](daisy/090922sjid1590m3.jpg)  
-Growing among ['Taugeh' seaweed](neomeris) *St. John's Island, Sep 09*
 
-![](daisy/101223sntd3940m3b.jpg)
 
-![](daisy/101223sntd3940m3a.jpg)
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.   
@@ -89,14 +108,8 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](daisy/160209cyrlks6.jpg)  
-*Cyrene Reef, Feb 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24290173393/in/dateposted/).
 
-![](daisy/100810sngd9935m3c.jpg)  
-*Pulau Senang, Aug 10*
 
-![](daisy/100130brkd8494m3c.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 

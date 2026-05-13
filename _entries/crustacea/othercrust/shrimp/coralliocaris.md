@@ -2,7 +2,7 @@
 title: Machine gun coral shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "shrimp, coralliocaris, graminea, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Palaemonidae
 genus: Coralliocaris
@@ -21,6 +21,54 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100615tmjk5m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/130527tmlks.jpg"
+  caption: |
+    <p>Tanah Merah, May 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110618tmftlks.JPG"
+  caption: |
+    <p>Tanah Merah, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/tanah-merah-still-best-mainland-corall">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/190901lablks2.jpg"
+  caption: |
+    <p>Labrador, Sep 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157474554228158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/120507sntsrglks1m3.jpg"
+  caption: |
+    <p>A juvenile.</p>
+    <p>Sentosa Serapong, May 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-atl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/120507srpmn.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7152430303/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/150605kusmn.jpg"
+  caption: |
+    <p>Kusu Island, Jun 15Photo shared by Marcus Ng and <a href="https://www.flickr.com/photos/budak/18692859553/in/photostream/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100529kuslks1m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg"
+  caption: |
+    <p>In <a href="../../../cnidaria/coralhard/acroporidae/acrstumpy">Stumpy acropora coral</a> Big Sisters, Aug 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122119884008927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/210625kusjk2.jpg"
+  caption: |
+    <p>Kusu Island, Jun 21Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/51269692713/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100612sngmn.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695701318/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/130428tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750445438/in/album-72157624104220316/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/100809cyrd9823m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -77,13 +125,9 @@ eat their host and simply use the coral as shelter.
   
 Usually, a pair is seen in a single coral colony.
 
-*![](coralliocaris/100809cyrd9823m3.jpg)  
-Cyrene Reef, Aug 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](coralliocaris/100809cyrd9823m3a.jpg)*
 
-*![](coralliocaris/110126hntd5201m3.jpg)  
-Pulau Hantu, Jan 11*
 
 ---
 
@@ -102,65 +146,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](coralliocaris/100615tmjk5m3.jpg)*  
-*Tanah Merah,
-Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
-*![](coralliocaris/130527tmlks.jpg)*  
-*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl).
 
-*![](coralliocaris/110618tmftlks.JPG)*  
-*Tanah Merah, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/tanah-merah-still-best-mainland-corall).
 
 ---
 
-*![](coralliocaris/190901lablks2.jpg)*  
-*Labrador, Sep 19*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10157474554228158&type=3).
 
-*![](coralliocaris/120507sntsrglks1m3.jpg)  
-A juvenile.  
-Sentosa Serapong, May 12*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-atl).
 
-*![](coralliocaris/120507srpmn.jpg)*  
-*Sentosa Serapong,
-May 12*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7152430303/).
 
 ---
 
-*![](coralliocaris/150605kusmn.jpg)  
-Kusu Island, Jun 15*Photo
-shared by Marcus Ng and [flickr](https://www.flickr.com/photos/budak/18692859553/in/photostream/).
 
-*![](coralliocaris/100529kuslks1m3.jpg)  
-Kusu Island, Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul).
 
 ---
 
-![](../../../cnidaria/coralhard/acroporidae/acrstumpy/250810bsislvo2b.jpg)  
-In [Stumpy acropora coral](../../../cnidaria/coralhard/acroporidae/acrstumpy)  
-*Big Sisters, Aug 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122119884008927700&type=3&ref=embed_post)*.*
 
-*![](coralliocaris/210625kusjk2.jpg)  
-Kusu Island, Jun 21*Photo
-shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/51269692713/).
 
 ---
 
-*![](coralliocaris/100612sngmn.jpg)  
-Pulau Senang, Jun 10*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4695701318/).
 
-*![](coralliocaris/130428tsmklks.JPG)*  
-*Terumbu Semakau, Nov 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8750445438/in/album-72157624104220316/).
 
 ---
 

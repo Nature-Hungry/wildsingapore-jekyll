@@ -2,7 +2,7 @@
 title: "Frog spawn coral "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frog, spawn, euphyllia, paradivisa, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphylliidae
 genus: Euphyllia
 species: paradivisa*
@@ -15,6 +15,74 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6851m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/150618tmftlks14m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/200707hntsg1b.jpg"
+  caption: |
+    <p>Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo.php?fbid=10223151762571778&set=a.10223155698390171&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240623hntrg1a.jpg"
+  caption: |
+    <p>Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2952227124919921&set=a.2952223924920241">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/2007024thntsg1b.jpg"
+  caption: |
+    <p>Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo.php?fbid=10223303510205374&set=a.10223303928855840&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/160723smkerl1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10154235589692906.1073741866.563787905&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/240725smkntl1b.jpg"
+  caption: |
+    <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161378909209264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhcd0101m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/040507rlhbd0096m3c.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,25 +135,16 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.   
 
-![](paradivisa/050310smkg3182m3.jpg)  
-*Pulau Semakau, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](paradivisa/050310smkg3182m3a.jpg)
 
-![](paradivisa/050310smkg3182m3b.jpg)
 
-![](paradivisa/050310smkg3182m3d.jpg)
 
-![](paradivisa/050310smkg3182m3c.jpg)
 
 ---
 
-![](paradivisa/061122smkd6849m3.jpg)  
-*Pulau Semakau, Mar 05*
 
-![](paradivisa/061122smkd6851m3.jpg)
 
-![](paradivisa/061122smkd6854m3b.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -109,38 +168,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](paradivisa/150618tmftlks14m3.jpg)  
-*Tanah Merah Ferry Terminal, Jun 15*.
 
-![](paradivisa/150618tmftlks14m3a.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3)
 
 ---
 
-![](paradivisa/200707hntsg1a.jpg)  
-*Pulau Hantu, Jul 20*![](paradivisa/200707hntsg1b.jpg)  
-Photo shared by Shawne Goh on [facebook](https://www.facebook.com/photo.php?fbid=10223151762571778&set=a.10223155698390171&type=3&theater).
 
-![](paradivisa/240623hntrg1.jpg)  
-*Pulau Hantu, Jun 24*![](paradivisa/240623hntrg1a.jpg)  
-Photo shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2952227124919921&set=a.2952223924920241).
 
-![](paradivisa/2007024thntsg1a.jpg)  
-*Terumbu Hantu, Jul 20*![](paradivisa/2007024thntsg1b.jpg)  
-Photo shared by Shawne Goh on [facebook](https://www.facebook.com/photo.php?fbid=10223303510205374&set=a.10223303928855840&type=3&theater).
 
 ---
 
-![](paradivisa/160723smkerl1.jpg)  
-*Pulau Semakau East, Jul 16*![](paradivisa/160723smkerl1a.jpg)  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10154235589692906.1073741866.563787905&type=3).
 
-![](paradivisa/240725smkntl1.jpg)  
-*Pulau Semakau North, Jul 24*![](paradivisa/240725smkntl1b.jpg)  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161378909209264).
 
-![](paradivisa/040507rlhcd0101m3.jpg)  
-*Raffles Lighthouse, May 04*![](paradivisa/040507rlhbd0096m3c.jpg)
 
 ---
 

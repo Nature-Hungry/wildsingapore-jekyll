@@ -2,7 +2,7 @@
 title: "Frilly halymenia red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frilly, sheet, seaweed, weed, halymenia, maculata, halymeniaceae, rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Halymeniaceae
 genus: Halymenia
@@ -17,6 +17,44 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050725labg0263m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050413labg4689m3.jpg"
+  caption: |
+    <p>Labrador, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/050413labg4689m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/060727jngd5024m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/060727jngd5024m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040603sntg0161m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040603sntg0161m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/100613sngd5537m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/100613sngd5537m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/040817sntd4664m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -58,28 +96,15 @@ flat branches with very frilly edges. The surface has little, regular
 bumps all over it, sometimes giving the seaweed a mottled look. Colours from dull greyish brown to chocolate brown
 and purplish; also bright yellowish or orangey brown.
 
-*![](maculata/040817sntd4664m3.jpg)  
-Sentosa, Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](maculata/050725labg0263m3a.jpg)*
 
-*![](maculata/050725labg0263m3.jpg)  
-Labrador, Jul 05*
 
-*![](maculata/040817sntd4664m3a.jpg)*
 
 ---
 
-*![](maculata/050413labg4689m3.jpg)  
-Labrador, Apr 05  
-![](maculata/050413labg4689m3b.jpg)*
 
-*![](maculata/060727jngd5024m3.jpg)  
-Pulau Jong, Jul 06**![](maculata/060727jngd5024m3b.jpg)*
 
-*![](maculata/040603sntg0161m3.jpg)  
-Sentosa, Jun 04  
-![](maculata/040603sntg0161m3a.jpg)*
 
   
 *\*Seaweed species are
@@ -105,9 +130,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](maculata/100613sngd5537m3.jpg)  
-Pulau Senang, Jun 10  
-![](maculata/100613sngd5537m3a.jpg)*
 
 ---
 

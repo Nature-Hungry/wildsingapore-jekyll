@@ -2,7 +2,7 @@
 title: Palaemonid shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "commensal, anemone, shrimp, periclimenes, palaemonid, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Palaemonidae
 genus: ""
@@ -21,6 +21,37 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngshrimps)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
+  caption: |
+    <p>About 1cm, several seen on a <a href="../../../echinodermata/holothuroidea/colochirus">Thorny sea cucumber</a>.</p>
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg"
+  caption: |
+    <p>About 1cm, a pair seen on a <a href="../../../cnidaria/others/pennatulacea/veretillidae">Flowery sea pen</a>.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+  caption: |
+    <p><a href="brevicarpalis">Peacock-tail anemone shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+  caption: |
+    <p><a href="carpet">Tiny carpet anemone shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg"
+  caption: |
+    <p><a href="holthuisi">'Gelek' anemone shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg"
+  caption: |
+    <p><a href="rednose">Little red nose shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg"
+  caption: |
+    <p><a href="coralliocaris">Machine gun coral shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg"
+  caption: |
+    <p><a href="palaemon">Glass shrimp</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -31,7 +62,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -59,17 +90,6 @@ sea cucumbers, feather stars, and hard and soft corals. Some are also seen in sm
 groups on the ground and among seaweeds. These shrimps are hard to
 spot as they are small and transparent; and usually only active at
 night and when their host is submerged.
-![](../../../echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg)  
-About 1cm, several seen on   
-a [Thorny
-sea cucumber](../../../echinodermata/holothuroidea/colochirus).  
-*Beting Bronok, Aug 05*
-![](other/050524cftg6598m3b.jpg)  
-About 1cm, a
-pair seen on   
-a [Flowery
-sea pen](../../../cnidaria/others/pennatulacea/veretillidae).  
-*Changi, May 05*
  
 
 ---
@@ -79,19 +99,13 @@ shrimps on Singapore shores**
 
 ---
 
-***![](brevicarpalis/040731kusd3491m3.jpg)* [Peacock-tail anemone shrimp](brevicarpalis)**
 
-**![](carpet/050621skdg8007m3.jpg)[Tiny carpet anemone shrimp](carpet)**
 
-*![](holthuisi/130626chgd8741m3.jpg)***['Gelek' anemone shrimp](holthuisi)**
 
 ---
 
-**![](rednose/060527sjig6054m3.jpg) [Little red nose shrimp](rednose)**
 
-***![](coralliocaris/110126hntd5201m3.jpg)*[Machine gun coral shrimp](coralliocaris)**
 
-*![](palaemon/060527sjig6099m3.jpg)***[Glass shrimp](palaemon)**
 
 ---
 

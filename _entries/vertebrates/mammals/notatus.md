@@ -2,7 +2,7 @@
 title: "Plantain squirrel "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Sciuridae
 genus: Callosciurus
 species: notatus
@@ -21,6 +21,20 @@ suborder: Sciuromorpha
 subfamily: Callosciurinae
 tribe: Callosciurini
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg"
+  caption: |
+    <p>Lower Peirce Trail, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/101211sbwrs02032m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/040110sbwrd0038m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/180904snt.jpg"
+  caption: |
+    <p>Sentosa, Sep 18 Photo shared by Malcolm Lord</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/notatus/041002lptd7258m6l.jpg"
 ---
 
 
@@ -54,14 +68,10 @@ nest of twigs and leaves to raise its young.
 **What does it eat?** It eats fruits,
 seeds, leaves, bark and insects, foraging in the trees.
 
-*![](notatus/041002lptd7258m6l.jpg)* *Lower Peirce Trail, Jan 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](notatus/101211sbwrs02032m6l.jpg)* *Sungei Buloh Wetland Reserve, Dec 10*
 
-*![](notatus/040110sbwrd0038m3.jpg)*
 
-*![](notatus/180904snt.jpg)* *Sentosa, Sep 18*  
-Photo shared by Malcolm Lord
 
 ---
 
@@ -107,5 +117,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Charles M. 2001. *Mammals
   of South-East Asia*
   New Holland Publishers. 128 pp.
-
-

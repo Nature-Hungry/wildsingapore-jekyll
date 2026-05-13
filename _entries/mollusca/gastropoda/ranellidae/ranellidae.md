@@ -2,7 +2,7 @@
 title: "Triton snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ranellidae
 genus: ""
 species: ""
@@ -16,6 +16,24 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
+  caption: |
+    <p><a href="gyrineum.htm">Common triton snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg"
+  caption: |
+    <p><a href="cymatium.htm">Leopard triton snail</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+    <p>- Abbott, R.</p>
+    <p>Tucker, 1991.</p>
+    <p>Seashells of South East Asia.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,9 +87,7 @@ specimens were used a trumpets. Thus another common name for them is Trumpet she
 
 ---
 
-***![](gyrineum/070902skdd6596m3.jpg)*****[Common triton
-snail](gyrineum.htm)**
-***![](cymatium/120510chgd2996m3.jpg)*[Leopard triton snail](cymatium.htm)**
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
@@ -138,12 +154,6 @@ triton snails)
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

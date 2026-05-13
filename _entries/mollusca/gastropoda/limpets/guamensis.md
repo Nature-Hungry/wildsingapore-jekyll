@@ -2,7 +2,7 @@
 title: Guam false limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
 family: Siphonariidae
 genus: Siphonaria
@@ -19,6 +19,29 @@ superorder: Siphonarimorpha
 order: Siphonariida
 superfamily: Siphonarioidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg"
+  caption: |
+    <p>Changi, May 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg"
+  caption: |
+    <p>East Coast Park, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
+  caption: |
+    <p>A broad foot to cling firmly to the surface.</p>
+    <p>Kusu Island, Dec 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3583.jpg"
+  caption: |
+    <p>Coiled egg mass laid on a rock.</p>
+    <p>Changi, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3585.jpg"
+  caption: |
+    <p>Tiny eggs embedded in the coiled egg mass.</p>
+    <p>Changi, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/170626skdmn1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49193185806/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,14 +81,9 @@ Shell thin conical with a pointed tip and many fine white ribs. There
 is no hole at the top of the shell. Body plain white. It
 is a false limpet and breathes through lungs instead of gills.
 
-*![](guamensis/020527chgcpd9714m3.jpg)  
-Changi, May
-02*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](guamensis/120817nsrccd9861.jpg)  
-East Coast Park, Aug 12*
 
-*![](guamensis/041212kusd8718m3.jpg)*A broad foot to cling firmly to the surface. *Kusu Island, Dec 04*
 
 **Limpet Babies:** *Siphonaria* limpets lay eggs in circular or coiling jelly-like masses that contain
 thousands of eggs suspended in a gelatinous matrix, attached to a
@@ -73,9 +91,7 @@ hard surface. The free-swimming limpet larvae have a little spiral
 shell like other 'normal' snails. As they develop, the shell flattens
 and becomes umbrella-shaped.
 
-*![](guamensis/130113chgd3583.jpg)*Coiled egg mass laid on a rock. *Changi, Jan 13*
 
-*![](guamensis/130113chgd3585.jpg)*Tiny eggs embedded in the coiled egg mass. *Changi, Jan 13*
 
 ---
 
@@ -94,9 +110,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](guamensis/170626skdmn1.jpg)  
-Pulau Sekudu, Jun 17*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49193185806/).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Blue dragon nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, dragon, pteraeolidia, ianthina, glaucidae, aeolid, aeolidina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Facelinidae
 genus: Pteraeolidia
 species: ianthina
@@ -21,6 +21,79 @@ suborder: Aeolidina
 superfamily: Aeolidioidea
 subfamily: Pteraeolidiinae
 updated: Jun 2023
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3a.jpg"
+  caption: |
+    <p>Purple bands on oral tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3e.jpg"
+  caption: |
+    <p>Feathery rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m6l.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/120508skdd2006m3.jpg"
+  caption: |
+    <p>Cerata in hand-like clusters</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/221127lazjk1.jpg"
+  caption: |
+    <p>Laying egg string on seagrass.</p>
+    <p>Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6373552955991355&set=a.6373553772657940">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/221127lazjk1a.jpg"
+  caption: |
+    <p>Laying egg string on seagrass.</p>
+    <p>Lazarus (Eagle Bay), Nov 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6373552955991355&set=a.6373553772657940">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/120508skdjk.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7157328156/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/150705skdrom3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 15 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.940607409332291.1073741879.133291903397183&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/100614bblks1m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/annual-beting-bronok-checkup.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/210628ecpBlks9.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300983978158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/201215bsrpvc5.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140903652945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/180519ssisay1.jpg"
+  caption: |
+    <p>Small Sisters Island, May 18 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213376208371929&set=a.10213376186491382&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/200822jnglks4.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158561948563158&set=a.10158561952098158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/081114cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3032845831/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/170528cyrtch1.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155423536838713.1073742092.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/260629smkeal1.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/080410cyrtch1.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 08Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2403067522/in/album-72157605547125208/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/160124smkelks6.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/080620smklks2m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/2929832363/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/100502trytch2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-raya.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/120609tmskrl3m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 12 Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.397609960290402.103153.109257872458947&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/210428slujll1.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158234252311295&set=a.10158234241606295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ianthina/050821bbg1953m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,27 +135,13 @@ on its long oral tentacles. It has a pair of shorter feathery rhinophores.
   
 A recent study suggests this species comprises a cryptic species complex, with what is currently perceived as a single species actually being multiple genetically-distinct species that look almost indistinguishable to the naked eye.
 
-![](ianthina/050821bbg1953m3.jpg)  
-*Beting Bronok,
-Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ianthina/050821bbg1953m3a.jpg)*Purple bands on oral tentacles.
 
-*![](ianthina/050821bbg1953m3e.jpg)*Feathery rhinophores.
 
-*![](ianthina/120508skdd2006m6l.jpg)  
-Pulau Sekudu, May 12*
 
-*![](ianthina/120508skdd2006m3.jpg)*Cerata in hand-like clusters
 
-![](ianthina/221127lazjk1.jpg)  
-Laying egg string on seagrass.  
-*Lazarus (Eagle Bay), Nov 22*  
-Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6373552955991355&set=a.6373553772657940)
 
-*![](ianthina/221127lazjk1a.jpg)*Laying egg string on seagrass.  
-*Lazarus (Eagle Bay), Nov 22*  
-Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6373552955991355&set=a.6373553772657940)
 
 **What does it eat?** It eats [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm)*.* A large solitary hydroid, *Ralpharia* sp. is among the adult's
 favourite food. Young ones have been seen among short 'turfing' hydroids.
@@ -116,81 +175,35 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](ianthina/120508skdjk.jpg)  
-Pulau Sekudu, May 12*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/7157328156/).
 
-*![](ianthina/150705skdrom3.jpg)  
-Pulau Sekudu, Jul 15*   
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.940607409332291.1073741879.133291903397183&type=3&pnref=story).
 
 ---
 
-*![](ianthina/100614bblks1m3.jpg)  
-Beting Bronok, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/annual-beting-bronok-checkup.html).
 
-*![](ianthina/210628ecpBlks9.jpg)  
-East Coast Park (B), Jun 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159300983978158&set=a.10159300990763158).
 
 ---
 
-*![](ianthina/201215bsrpvc5.jpg)  
-Sentosa Serapong, Dec 20*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140903652945&set=a.10158140917142945).
 
 ---
 
-*![](ianthina/180519ssisay1.jpg)  
-Small Sisters Island, May 18*   
-Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10213376208371929&set=a.10213376186491382&type=3&theater).
 
-*![](ianthina/200822jnglks4.jpg)  
-Pulau Jong, Aug 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10158561948563158&set=a.10158561952098158).
 
 ---
 
-*![](ianthina/081114cyrmn.jpg)  
-Cyrene Reef, Nov 08*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3032845831/).
 
-*![](ianthina/170528cyrtch1.jpg)  
-Cyrene Reef, Jun 17*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155423536838713.1073742092.619308712&type=3).
 
 ---
 
-![](ianthina/260629smkeal1.jpg)  
-*Pulau Semakau East, Jun 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post).
 
-*![](ianthina/080410cyrtch1.jpg)  
-Cyrene Reef, Apr 08*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2403067522/in/album-72157605547125208/).
 
 ---
 
-*![](ianthina/160124smkelks6.jpg)  
-Pulau Semakau East, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3).
 
-*![](ianthina/080620smklks2m3.jpg)  
-Pulau Semakau, Jun 08*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/2929832363/).
 
 ---
 
-*![](ianthina/100502trytch2m3.jpg)  
-Terumbu Raya, May 10*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-raya.html).
 
-*![](ianthina/120609tmskrl3m3.jpg)  
-Terumbu Semakau, Jun 12*  
-Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.397609960290402.103153.109257872458947&type=3).
 
-*![](ianthina/210428slujll1.jpg)  
-Pulau Salu, Apr 21*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158234252311295&set=a.10158234241606295).
 
 ---
 

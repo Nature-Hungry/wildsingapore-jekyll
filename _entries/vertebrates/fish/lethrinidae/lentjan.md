@@ -2,7 +2,7 @@
 title: "Pink ear emperor "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, ear, emperor, fish, lethrinus, lentjan, lethrinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Lethrinidae
 genus: Lethrinus
@@ -17,6 +17,36 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Lethrininae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg"
+  caption: |
+    <p>Changi, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070614chgg0240m6l.jpg"
+  caption: |
+    <p>Changi, Jun 07 What does it eat?</p>
+    <p>It eats mainly crustaceans and snails and clams, but also eats considerable quantities of echinoderms, worms and fishes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/201020chgsafmn4.jpg"
+  caption: |
+    <p>Changi, Oct 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157786479243660&set=a.10157785574688660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/220616chgelks20.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940593813158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/180812nsrtlks3.jpg"
+  caption: |
+    <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550001053158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/240707pcntt1.jpg"
+  caption: |
+    <p>East Coast Park (PCN), Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/photo/?fbid=10234543403824558&set=a.10234543444625578">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/250714srptccn8.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/181126labrk.jpg"
+  caption: |
+    <p>Labrador, Nov 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10156646111892906&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/160409sjilks2.JPG"
+  caption: |
+    <p>St John's Island, Apr 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lethrinidae/lentjan/070419chgg8754m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,13 +87,7 @@ seen on the intertidal about 15cm. Like other members of the Family
 Lethrinidae, it has large scales in a 'distinctive pattern' -- a kind
 of diamond pattern. There is a red margin around its gill covers and
 a red mark at the base of the pectoral fins. As well as red edges to dorsal fin and tail fin.
-![](lentjan/070419chgg8754m3.jpg)  
-*Changi, Apr 07*
-![](lentjan/070614chgg0240m6l.jpg)  
-*Changi, Jun 07*
-**What does it eat?** It eats mainly
-crustaceans and snails and clams, but also eats considerable quantities
-of echinoderms, worms and fishes.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** It is valued as seafood.
 
@@ -84,32 +108,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lentjan/201020chgsafmn4.jpg)  
-*Changi, Oct 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157786479243660&set=a.10157785574688660).
 
-![](lentjan/220616chgelks20.jpg)  
-*Changi Lost Coast, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940593813158&set=a.10159940599688158).
 
 ---
 
-![](lentjan/180812nsrtlks3.jpg)  
-*East Coast Park, Aug 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156550001053158&set=a.10156549999868158&type=3&theater).
 
-![](lentjan/240707pcntt1.jpg)  
-*East Coast Park (PCN), Jul 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/photo/?fbid=10234543403824558&set=a.10234543444625578).
 
 ---
 
-![](lentjan/250714srptccn8.jpg)  
-*Sentosa Serapong, Jul 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654).
-![](lentjan/181126labrk.jpg)  
-*Labrador, Nov 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10156646111892906&type=3).
 
 ---
 
-![](lentjan/160409sjilks2.JPG)  
-*St John's Island,
-Apr 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl).
 
 ---
 

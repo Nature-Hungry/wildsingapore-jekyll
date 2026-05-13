@@ -2,7 +2,7 @@
 title: Sapphire flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sapphire, flat, worm, flatworm, pseudoceros, caeruleocinctus, sapphirinus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
 species: caeruleocinctus
@@ -15,6 +15,17 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg"
+  caption: |
+    <p>Tuas, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4482m3a.jpg"
+  caption: |
+    <p>Pseudotentacles made up of folded edges of body margin.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/200310lazvc1.jpg"
+  caption: |
+    <p>Lazarus, Mar 20 Photo shared by VIncent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157391599037945&set=a.10157391593172945&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/sapphirinus/050411tusg4484m3.jpg"
 ---
 
 
@@ -40,15 +51,8 @@ seen?** This beautiful worm is rarely seen.
 black to reddish brown, margin bright blue, the outer margin comprising black with a very fine white outermost margin. Underside uniformly black with a fine white
 margin. The body is usually not highly ruffled. It has a pair of
 pseudotentacles that are simple and made up of folded edges of the body.
-![](sapphirinus/050411tusg4484m3.jpg)  
- *Tuas, Apr 05*
-![](sapphirinus/050411tusg4482m3a.jpg)  
-Pseudotentacles made up of folded   
-edges of body margin.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sapphirinus/200310lazvc1.jpg)  
-*Lazarus, Mar 20*  
-Photo shared by VIncent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157391599037945&set=a.10157391593172945&type=3&theater).
 
 ---
 
@@ -88,5 +92,3 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 - Kuiter, Rudie
   H and Helmut Debelius. 2009. *World
   Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-
-

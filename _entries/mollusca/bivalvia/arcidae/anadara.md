@@ -2,7 +2,7 @@
 title: See-hum
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cockle, ark, shell, clam, anandara, arcidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Arcidae
 genus: Anadara
 species: sp.
@@ -17,6 +17,17 @@ infraclass: Pteriomorphia
 order: Arcida
 superfamily: Arcoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/020612selcpd0171m3.jpg"
+  caption: |
+    <p>Seletar, Jun 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050427tmg5176m3.jpg"
+  caption: |
+    <p>Tanah Merah, Apr 05</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/anadara/050607chgg7280m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,15 +79,9 @@ habitats.
 inside these bivalves. The
 crab not only gains shelter but also eats some of the food gathered
 by the host clam.
-![](anadara/050607chgg7280m3.jpg)  
-*Changi, Jun
-05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](anadara/020612selcpd0171m3.jpg)  
-Seletar, Jun 02*
 
-*![](anadara/050427tmg5176m3.jpg)  
-Tanah Merah, Apr 05*
 
 **Human
 uses:** 'See-hum' is relished in many local favourites

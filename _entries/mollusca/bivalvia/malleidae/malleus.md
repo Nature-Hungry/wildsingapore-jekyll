@@ -2,7 +2,7 @@
 title: "Hammer oyster "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hammer, oyster, malleus, malleidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [2, 33, 73]
 family: Malleidae
 genus: Malleus
@@ -17,6 +17,59 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg"
+  caption: |
+    <p>Sometimes seen lying on the ground.</p>
+    <p>Cyrene Reef, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/120510chgd2926m3.jpg"
+  caption: |
+    <p>Sometimes partially buried.</p>
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090208smkd6647m3.jpg"
+  caption: |
+    <p>Spatula-shaped clams seen sticking out from among rubble and rocks.</p>
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/111225tmskd4833m6l.jpg"
+  caption: |
+    <p>On the inside, a small depression at the hinge and area of mother-of-pearl is small relative to the shell length.</p>
+    <p>Terumbu Semakau, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/160208smkso2080010m3.jpg"
+  caption: |
+    <p>Stuck under a stone.</p>
+    <p>Pulau Semakau, Feb 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100612chglks5m3.jpg"
+  caption: |
+    <p>Changi, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-ever.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/241021ecppcnlll1.jpg"
+  caption: |
+    <p>East Coast (Sailing Centre), Oct 24Photo shared by Low Liong Leong on <a href="https://www.facebook.com/low.liongleong/posts/pfbid02rU53x96g6PeF4HAR8jwBZsgABGAN54qAbuZsxDAN4dupaVr8Bag3MM5ZikaHjCcTl?__cft__[0]=AZXuLXWq3DNlCNn35z0fqwtHM8fRlpIkgYqUixxKJ3GZc2qU66ISJcKuTMdExIajITNCA0pKU02VR_LUzfKu0zaTP0tVcOnFAUh6eqt1Vo7kHveFrGlS3tE_Kaqvo2_MMOEcCNJx1aZ-tpV6B7HLb3yMWG33Qa0iIUzYye-rFTfKqQ&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201215bsrpvc2.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent on <a href="https://www.facebook.com/photo?fbid=10158140903487945&set=a.10158140917142945">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201116lazlks4.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158766768908158&set=a.10158766770633158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/110203sjilks2m3.JPG"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/201115tkklks1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764485348158&set=a.10158764488663158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/200626tptky4.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10164415164175112&set=a.10164415147495112&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/121115tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8234880462/in/album-72157624104220316/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/100131slud8785m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/210428sluvc1.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158429561582945&set=a.10158429573917945">facebok</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/malleidae/malleus/090625cyrd5536m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -75,19 +128,9 @@ and a small area of mother-of-pearl, relative to the shell length.
 **Human uses:** In Indonesia and the
 Philippines, they are collected. The shell may be used for shellcraft
 or as lime.
-*![](malleus/090625cyrd5536m3.jpg)*Sometimes
-seen lying on the ground. *Cyrene Reef, Jul 09*
-*![](malleus/120510chgd2926m3.jpg)*Sometimes
-partially buried. *Changi, May 12*
-*![](malleus/090208smkd6647m3.jpg)*Spatula-shaped
-clams seen sticking out   
-from among rubble and rocks. *Pulau Semakau, Feb 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](malleus/111225tmskd4833m6l.jpg)*On the inside, a small depression at the hinge  
-and area of mother-of-pearl is small relative to the shell length. *Terumbu Semakau, Dec 11*
 
-*![](malleus/160208smkso2080010m3.jpg)*Stuck under a stone. *Pulau
-Semakau, Feb 16*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -110,51 +153,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](malleus/100612chglks5m3.jpg)*  
-*Changi, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-ever.html).
 
 ---
 
-*![](malleus/241021ecppcnlll1.jpg)*  
-*East Coast (Sailing Centre), Oct 24*Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/low.liongleong/posts/pfbid02rU53x96g6PeF4HAR8jwBZsgABGAN54qAbuZsxDAN4dupaVr8Bag3MM5ZikaHjCcTl?__cft__[0]=AZXuLXWq3DNlCNn35z0fqwtHM8fRlpIkgYqUixxKJ3GZc2qU66ISJcKuTMdExIajITNCA0pKU02VR_LUzfKu0zaTP0tVcOnFAUh6eqt1Vo7kHveFrGlS3tE_Kaqvo2_MMOEcCNJx1aZ-tpV6B7HLb3yMWG33Qa0iIUzYye-rFTfKqQ&__tn__=%2CO%2CP-R).
 
-*![](malleus/201215bsrpvc2.jpg)  
-Sentosa Serapong, Dec 20*Photo
-shared by Vincent on [facebook](https://www.facebook.com/photo?fbid=10158140903487945&set=a.10158140917142945)
 
 ---
 
-*![](malleus/201116lazlks4.jpg)  
-Lazarus Island, Nov 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158766768908158&set=a.10158766770633158).
 
-*![](malleus/110203sjilks2m3.JPG)  
-St. John's Island, Feb 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-1-st-johns-island.html).
 
-*![](malleus/201115tkklks1.jpg)  
-Pulau Tekukor, Nov 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158764485348158&set=a.10158764488663158).
 
 ---
 
-*![](malleus/200626tptky4.jpg)*  
-*Terumbu Pempang Tengah, Jun 20*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo.php?fbid=10164415164175112&set=a.10164415147495112&type=3&theater).
 
-*![](malleus/121115tsmklks.JPG)  
-Terumbu Semakau, Nov 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8234880462/in/album-72157624104220316/).
 
 ---
 
-*![](malleus/100131slud8785m3.jpg)**Terumbu
-Salu, Jan 10*
 
-*![](malleus/210428sluvc1.jpg)  
-Pulau Salu, Apr 21*Photo
-shared by Vincent Choo on [facebok](https://www.facebook.com/photo?fbid=10158429561582945&set=a.10158429573917945).
 
 ---
 

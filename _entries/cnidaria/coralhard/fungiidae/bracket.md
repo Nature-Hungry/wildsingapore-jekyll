@@ -2,7 +2,7 @@
 title: "Bracket mushroom coral "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bracket, mushroom, podabacia, fungidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fungiidae
 genus: Podabacia
 species: ""
@@ -15,6 +15,92 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 2010
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3b.jpg"
+  caption: |
+    <p>Parallel lines merge at the mouth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7887m3b.jpg"
+  caption: |
+    <p>Corallite lines thin with fine 'teeth'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7886m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/060714rlhg6526m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/060714rlhg6526m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/120721tptd7731m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/120721tptd7734m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100403tbbd0710m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100403tbbd0710m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/090512tmlks19m3.jpg"
+  caption: |
+    <p>Tanah Merah,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/090512tmlks20m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100615tmlks2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100615tmlks2m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703266096/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/230608tmftlks2.jpg"
+  caption: |
+    <p>Tanah Merah,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/230608tmftlks2a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160717498283158&set=a.10160717509253158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/210628ecpBrk1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/210628ecpBrk1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159188509892906&set=a.10159188494042906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/2007024pcnlks9a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/2007024pcnlks9b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482801618158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/200112sjilks8.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/200112sjilks8a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157877787533158&set=a.10157877785293158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100616tsmmn5m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/100616tsmmn5m3a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4708777032/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110704srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, Jul 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5917408982/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/101224sisro4m3.jpg"
+  caption: |
+    <p>Sisters Island, Dec 10Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=21375&id=133291903397183#!/album.php?aid=21375&id=133291903397183">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/220201brklks12.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700481383158&set=a.10159700487188158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,35 +151,16 @@ corals.
 motuporensis* is listed as globally Near Threatened [by
 the IUCN](http://www.iucnredlist.org/).
 
-*![](bracket/110731tryd7884m3.jpg)  
-Terumbu Raya, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bracket/110731tryd7886m3a.jpg)*
 
-![](bracket/110731tryd7886m3b.jpg)  
-Parallel lines merge at the mouth.
 
-![](bracket/110731tryd7887m3b.jpg)  
-Corallite lines thin with fine 'teeth'.
 
-*![](bracket/110731tryd7886m3c.jpg)*
 
 ---
 
-![](bracket/060714rlhg6526m3.jpg)  
-*Raffles Lighthouse,
-Jul 06  
-![](bracket/060714rlhg6526m3a.jpg)*
 
-*![](bracket/120721tptd7731m3.jpg)  
-Terumbu Pempang
-Tengah, Jul 12  
-![](bracket/120721tptd7734m3.jpg)*
 
-*![](bracket/100403tbbd0710m3.jpg)*  
-*Beting Bemban
-Besar, Apr 10  
-![](bracket/100403tbbd0710m3b.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -117,57 +184,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bracket/090512tmlks19m3.jpg)  
-*Tanah Merah,
-May 09![](bracket/090512tmlks20m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html).
 
-*![](bracket/100615tmlks2m3.jpg)  
-Tanah Merah,
-Jun 10  
-![](bracket/100615tmlks2m3a.jpg)*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4703266096/).
 
-*![](bracket/230608tmftlks2.jpg)  
-Tanah Merah,
-Jun 23![](bracket/230608tmftlks2a.jpg)*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160717498283158&set=a.10160717509253158).
 
 ---
 
-![](bracket/210628ecpBrk1.jpg)  
-*East Coast Park (B), Jun 21![](bracket/210628ecpBrk1a.jpg)*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159188509892906&set=a.10159188494042906).
 
-![](bracket/2007024pcnlks9a.jpg)  
-*East Coast PCN, Jul 20![](bracket/2007024pcnlks9b.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482801618158&set=a.10158482804868158&type=3&theater).
 
 ---
 
-![](bracket/200112sjilks8.jpg)  
-*St John's Island, Jan 20![](bracket/200112sjilks8a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157877787533158&set=a.10157877785293158&type=3&theater).
 
-*![](bracket/100616tsmmn5m3.jpg)  
-Terumbu Semakau,
-Jun 10  
-![](bracket/100616tsmmn5m3a.jpg)*Photo
-shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4708777032/).
 
 ---
 
-![](bracket/110704srplks.JPG)  
-*Sentosa Serapong, Jul 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5917408982/in/album-72157627005920441/).
 
-*![](bracket/101224sisro4m3.jpg)*  
-*Sisters
-Island, Dec 10*Photo
-shared by Rene Ong on [facebook](http://www.facebook.com/album.php?aid=21375&id=133291903397183#!/album.php?aid=21375&id=133291903397183).
 
 ---
 
-![](bracket/220201brklks12.jpg)  
-*Pulau Berkas, Feb 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159700481383158&set=a.10159700487188158).
 
 ---
 

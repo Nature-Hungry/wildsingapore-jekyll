@@ -2,7 +2,7 @@
 title: Luidia sea stars
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, luidia, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Luidiidae
 genus: Luidia
 species: ""
@@ -16,6 +16,47 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
+  caption: |
+    <p>Long, narrow arms.</p>
+    <p>Changi, Aug 08.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/081214ecmd3201m3.jpg"
+  caption: |
+    <p>In spawning position?</p>
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/190620chgm3.jpg"
+  caption: |
+    <p>Sometimes, many are seen together.</p>
+    <p>Changi, Jun 2019</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
+  caption: |
+    <p><a href="lhardwicki">Five-armed Luidia sea star</a> 5-8cm in diameter Usually 5 arms.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg"
+  caption: |
+    <p>Pointed tube feet: transparent.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3d.jpg"
+  caption: |
+    <p>Flat-topped, pillar-like structures called paxillae.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg"
+  caption: |
+    <p><a href="lpenangensis">Six-armed Luidia sea star</a> 8-10cm in diameter 5-6 arms, usually 6.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg"
+  caption: |
+    <p>Pointed tube feet: yellow or orange.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg"
+  caption: |
+    <p>Flat-topped, pillar-like structures called paxillae.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080801chgd8668m3.jpg"
+  caption: |
+    <p><a href="luimaculata">Eight-armed Luidia sea star</a> 12-20cm in diameter 6-9 arms, usually 8.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3f.jpg"
+  caption: |
+    <p>Pointed tube feet: transparent.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/luimaculata/080507skdd2491m3d.jpg"
+  caption: |
+    <p>Flat-topped, pillar-like structures called paxillae.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
 ---
 
 
@@ -48,13 +89,7 @@ tube feet with pointed tips. They can move across the surface quite fast when su
 **What do they eat?** These
 sea stars are carnivores! They hunt small creatures that are buried in the sand. These sea stars don't push their
 stomachs out of their mouths. Instead, they swallow their prey whole.
-*![](lhardwicki/080801chgd8657m3.jpg)*Long, narrow arms.  
-*Changi, Aug 08.*
-![](luimaculata/081214ecmd3201m3.jpg)  
-In spawning position? *East Coast, Dec 08*
-![](luimaculata/190620chgm3.jpg)  
-Sometimes, many are seen together.  
-*Changi, Jun 2019*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -63,42 +98,18 @@ sea stars on Singapore shores**
 
 ---
 
-![](lhardwicki/080801chgd8657m3.jpg)  
-[**Five-armed Luidia sea star**](lhardwicki)  
-5-8cm in diameter  
-Usually 5 arms.
 
-![](lhardwicki/080801chgd8658m3d.jpg)  
-Pointed tube feet: transparent.
 
-![](lhardwicki/080801chgd8657m3d.jpg)  
-Flat-topped, pillar-like structures called paxillae.
 
 ---
 
-![](lpenangensis/090110cjd4791m3.jpg)  
-[**Six-armed Luidia sea star**](lpenangensis)  
-8-10cm in diameter  
-5-6 arms, usually 6.
 
-![](lpenangensis/090110cjd4796m3.jpg)  
-Pointed tube feet: yellow or orange.
 
-![](lpenangensis/090110cjd4809m3a.jpg)  
-Flat-topped, pillar-like structures called paxillae.
 
 ---
 
-![](luimaculata/080801chgd8668m3.jpg)  
-[**Eight-armed Luidia sea star**](luimaculata)  
-12-20cm in diameter  
-6-9 arms, usually 8.
 
-![](luimaculata/080507skdd2491m3f.jpg)  
-Pointed tube feet: transparent.
 
-![](luimaculata/080507skdd2491m3d.jpg)  
-Flat-topped, pillar-like structures called paxillae.
 
 ---
 
@@ -139,5 +150,3 @@ Luidiidae**
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species](http://lkcnhm.nus.edu.sg/nus/pdf/PUBLICATION/Raffles%20Bulletin%20of%20Zoology/Past%20Volumes/RBZ%2046(2)/46rbz431-470.pdf). The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

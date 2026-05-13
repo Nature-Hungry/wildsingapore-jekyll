@@ -2,7 +2,7 @@
 title: "Tengar "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceriops, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Rhizophoraceae
 genus: Ceriops
 species: ""
@@ -15,6 +15,40 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0584m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0584m3a.jpg"
+  caption: |
+    <p>Tengar species have a flattened knife-like stipule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/141122lazd0596m3a.jpg"
+  caption: |
+    <p>Tengar species have a flattened knife-like stipule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg"
+  caption: |
+    <p>Leaves spatula-shaped.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg"
+  caption: |
+    <p>Flowers small, many on one stalk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg"
+  caption: |
+    <p>Brown 'fruit' is smooth.</p>
+    <p>White collar on 'ripe' propagule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg"
+  caption: |
+    <p>Leaves oval.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg"
+  caption: |
+    <p>Flowers small, a few on one stalk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg"
+  caption: |
+    <p>Brown 'fruit' has textured surface.</p>
+    <p>Red collar on 'ripe' propagule.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,51 +92,26 @@ firewood and a source of dyes. It is also used in traditional medicine.
 merah](zippeliana) (*Ceriops zippeliana*) as 'Endangered' on the Red List
 of threatened plants of Singapore.
 
-![](tagal/090117smkd5478m6l.jpg)  
-*Pulau Semakau,
-Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](141122lazd0584m3.jpg)*
 
-*![](141122lazd0584m3a.jpg)*  
-Tengar species have   
-a
-flattened knife-like stipule.
 
-*![](141122lazd0596m3a.jpg)*  
-Tengar species have   
-a
-flattened knife-like stipule.
 
 ---
 
 **[Tengar
 putih](tagal)** *Ceriops tagal*
 
-![](tagal/081211smkd2783m3b.jpg)  
-Leaves spatula-shaped.
 
-![](tagal/090124ubnd6050m3.jpg)  
-Flowers small, many on one stalk.
 
-![](tagal/090118smkd5854m3a.jpg)  
-Brown 'fruit' is smooth.   
-White collar on 'ripe' propagule.
 
 ---
 
 [**Tengar
 merah**](zippeliana) *Ceriops zippeliana*
 
-*![](zippeliana/090704ubnd6338m3.jpg)*  
-Leaves oval.
 
-![](zippeliana/090124ubnd6058m3a.jpg)  
-Flowers small, a few on one stalk.
 
-![](zippeliana/090704ubnd6338m3a.jpg)  
-Brown 'fruit' has textured surface.  
-Red collar on 'ripe' propagule.
 
 ---
 

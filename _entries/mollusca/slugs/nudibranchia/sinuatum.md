@@ -2,12 +2,47 @@
 title: "'Jolly Green Giant' nudibranch "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "miamira, ceratosoma, sinuatum, sinuata, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chromodorididae
 genus: Miamira
 species: sinuatum
 attributes: []
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg"
+  caption: |
+    <p>Large lobe in front of gills.</p>
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3.jpg"
+  caption: |
+    <p>Sisters Island, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/060729sisg6964m3a.jpg"
+  caption: |
+    <p>Small rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090207smkd6350m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/070318labg8192m3b.jpg"
+  caption: |
+    <p>Feathery gills with yellow spots.</p>
+    <p>Labrador, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/100519tsmc4196m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090412hntmn6l.jpg"
+  caption: |
+    <p>Releasing white fluid when alarmed.</p>
+    <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3436562776/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/090806tmjk7m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3794767566/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/250131tkkll1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 25Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.9255239521165971&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/150830hntmn2m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153145685398660.1073741879.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sinuatum/050917smkg2515m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,27 +96,12 @@ feed on.
   
 **What does it eat?** It is eats [sponges](../../../porifera/porifera.htm).
 
-![](sinuatum/050917smkg2515m3.jpg)  
-Large lobe in front of gills. *Pulau Semakau,
-Sep 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](sinuatum/060729sisg6964m3.jpg)  
-Sisters Island, Jul 06*
 
-*![](sinuatum/060729sisg6964m3a.jpg)* Small
-rhinophores.
 
-*![](sinuatum/090207smkd6350m3.jpg)**Pulau
-Semakau, Feb 09*
 
-*![](sinuatum/070318labg8192m3b.jpg)* Feathery
-gills with yellow spots.  
-*Labrador,
-Mar 07*
 
-![](sinuatum/100519tsmc4196m3.jpg)  
-*Terumbu Semakau,
-May 10*
 
 ---
 
@@ -100,18 +120,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](sinuatum/090412hntmn6l.jpg)*Releasing white fluid when alarmed. *Pulau Hantu, Aug 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3436562776/).
 
-*![](sinuatum/090806tmjk7m3.jpg)  
-Tanah Merah, Jul 09*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/3794767566/).
 
 ---
 
-*![](sinuatum/250131tkkll1.jpg)  
-Pulau Tekukor, Jan 25*Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?set=a.9255239521165971&type=3&ref=embed_post).
 
-*![](sinuatum/150830hntmn2m3.jpg)  
-Pulau Hantu, Aug 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153145685398660.1073741879.624178659&type=3).
 
 ---
 

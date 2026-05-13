@@ -2,7 +2,7 @@
 title: Blue sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: ""
@@ -11,6 +11,23 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: May 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg"
+  caption: |
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041b.jpg"
+  caption: |
+    <p>Polyps fully retracted into the stem.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250501skdlks6a.jpg"
+  caption: |
+    <p>Polyps fully retracted into the stem.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250501skdlks6.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/250428chgky1.jpg"
+  caption: |
+    <p>Changi-Loyang, Apr 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10171969931060112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -49,17 +66,10 @@ into the stem, leaving a blue spot on the stem.
 
 ---
 
-*![](blue/060516chgd2041.jpg)  
-Changi, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](blue/060516chgd2041b.jpg)  
-Polyps fully retracted into the stem.
 
-*![](blue/250501skdlks6a.jpg)  
-Polyps fully retracted into the stem.*
 
-*![](blue/250501skdlks6.jpg)  
-*Pulau Sekudu, May 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post).*
 
   
 *\***Species
@@ -82,8 +92,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 **Other sightings on Singapore shores**
   
 
-*![](blue/250428chgky1.jpg)  
-Changi-Loyang, Apr 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10171969931060112).
 
 [links](../../../links)
 | [references](../../../references)

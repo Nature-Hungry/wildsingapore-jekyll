@@ -2,7 +2,7 @@
 title: Nudibranch eggs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nudibranch, egg, mass,  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: ""
@@ -11,6 +11,31 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/130511hntd6613m3.jpg"
+  caption: |
+    <p>Closer look at the eggs embedded in mucus.</p>
+    <p>Pulau Hantu, May 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/090808tmd8505m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9223m3.jpg"
+  caption: |
+    <p><a href="lilacina.htm">Discodoris lilacina</a> Pulau Sekudu, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg"
+  caption: |
+    <p><a href="spongiosa.htm">Ategema spongiosa</a> Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/050709skdd4900m3.jpg"
+  caption: |
+    <p><a href="funebris.htm">Polka-dot nudibranch</a> and eggs.</p>
+    <p>Pulau Sekudu, Jul 05</p>
+- url: "https://live.staticflickr.com/896/41946456675_da8161e914_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/41946456675 "Nudibranch laying eggs, awaiting identification")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/eggs/050309smkg3146m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -52,36 +77,18 @@ seen on many shores.
 ribbon of eggs embedded in mucus, laid in a spiral on hard surfaces
 or among seaweeds and seagrasses. Usually white or beige.
 
-*![](eggs/050309smkg3146m3.jpg)  
-*Pulau Semakau, Mar 05**
+{% include img-wrap-group.html items=page.page_images %}
 
-![](eggs/130511hntd6613m3.jpg)  
-Closer look at the eggs embedded in mucus. *Pulau Hantu, May 13*
 
-*![](eggs/090808tmd8505m3.jpg)  
-*Tanah Merah,
-Aug 09**
 
 ---
 
-![](lilacina/050709skdg9223m3.jpg)  
-[Discodoris
-lilacina](lilacina.htm)   
-*Pulau Sekudu, Jul 05*
 
-*![](spongiosa/050623cjg8302m3.jpg)  
-[Ategema
-spongiosa](spongiosa.htm)   
-*Chek Jawa, Jun 05**
 
-![](funebris/050709skdd4900m3.jpg)  
-[Polka-dot
-nudibranch](funebris.htm) and eggs. *Pulau Sekudu, Jul 05*
 
 ---
 
 Pulau Sekudu, Jun 18  
-[![Nudibranch laying eggs, awaiting identification](https://live.staticflickr.com/896/41946456675_da8161e914_z.jpg)](https://www.flickr.com/photos/wildsingapore/41946456675 "Nudibranch laying eggs, awaiting identification")
 
 ---
 

@@ -2,7 +2,7 @@
 title: Mantis shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Gonodactylidae
 genus: ""
 species: ""
@@ -19,6 +19,42 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Gonodactyloidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
+  caption: |
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9092m3a.jpg"
+  caption: |
+    <p>Amazing eyes!</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3b.jpg"
+  caption: |
+    <p>Powerful tail Perilous Pincers: Mantis shrimps got their common names from their huge front pincers that snap with great speed and force.</p>
+    <p>These resemble those of the praying mantis insect or the blade of a pocket knife that folds into the handle.</p>
+    <p>In fact, like a living swiss army knife, all kinds of strange gadgetty limbs are folded under the little animal, ready to be unleashed with lethal effect.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3.jpg"
+  caption: |
+    <p>Deadly pincers of a <a href="spearer">spearer mantis shrimp</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9111m3b.jpg"
+  caption: |
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/040701chgd1290m3a.jpg"
+  caption: |
+    <p>This is all that is usually seen of a mantis shrimp in hiding.</p>
+    <p>Changi, Jul 04 Shy mantis: Although common, mantis shrimps are rarely seen.</p>
+    <p>During the day, mantis shrimps usually retire in their burrows or hiding places.</p>
+    <p>They hunt at night.</p>
+    <p>Some forage for prey, crawling about on the bottom or swimming with powerful beats of their swimmeretes.</p>
+    <p>Others lie in wait at their burrow entrances for passing prey.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/090529prpd2898m3.jpg"
+  caption: |
+    <p><a href="spearer">Spearer mantis shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg"
+  caption: |
+    <p><a href="smasher">Smasher mantis shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m3e.jpg"
+  caption: |
+    <p><a href="banded">Banded mantis shrimp</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,17 +106,7 @@ on our intertidal shores are mostly juveniles rarely exceeding 10cm,
 but some species can grow to 30cm as adults! While those found among
 seagrasses tend to be well camouflaged, mantis shrimps found in deeper
 waters near reefs can be quite colourful.
-*![](spearer/050707cftg9086m3.jpg)  
-Changi, Jul 05*
-*![](spearer/050707cftg9092m3a.jpg)*Amazing eyes!
-*![](spearer/050707cftg9086m3b.jpg)*Powerful tail
-**Perilous Pincers:** Mantis shrimps
-got their common names from their huge front pincers that snap with
-great speed and force. These resemble those of the praying mantis
-insect or the blade of a pocket knife that folds into the handle.
-In fact, like a living swiss army knife, all kinds of strange gadgetty
-limbs are folded under the little animal, ready to be unleashed with
-lethal effect.  
+{% include img-wrap-group.html items=page.page_images %}
   
 Mantis shrimp pincer modifications are generally of two types: spearers
 and smashers. [Spearer mantis shrimps](spearer) pincers
@@ -113,17 +139,6 @@ used for burrowing.
   
 Their tails are heavily armoured to defend against the blows of other
 mantis shrimp in their territorial battles.
-*![](spearer/050707cftg9111m3.jpg)*Deadly pincers of a [spearer mantis shrimp](spearer).
-*![](spearer/050707cftg9111m3b.jpg)* *Changi, Jul 05*
-![](spearer/040701chgd1290m3a.jpg)  
-This is all that is usually seen  
-of a mantis shrimp in hiding. *Changi, Jul 04*
-**Shy mantis:** Although common, mantis
-shrimps are rarely seen. During the day, mantis shrimps usually retire
-in their burrows or hiding places. They hunt at night. Some forage
-for prey, crawling about on the bottom or swimming with powerful beats
-of their swimmeretes. Others lie in wait at their burrow entrances
-for passing prey.  
   
 **Anti-social shrimps:** Like many
 predators, most mantis shrimp are solitary. They can be highly territorial
@@ -167,14 +182,8 @@ shrimps on Singapore shores**
 
 ---
 
-**![](spearer/090529prpd2898m3.jpg)  
-[Spearer mantis shrimp](spearer)**
 
-**![](smasher/070630sisd2890m3.jpg)  
-[Smasher mantis shrimp](smasher)**
 
-**![](banded/100527tmd3635m3e.jpg)  
-[Banded mantis shrimp](banded)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Snails with top and turban shaped shells
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "trochid, turbanid, top, turban, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Trochidae
 genus: ""
 species: ""
@@ -16,6 +16,41 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
+  caption: |
+    <p><a href="turbinidae/angaria.htm">Dolphin shell</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
+  caption: |
+    <p><a href="turbinidae/calcar.htm">Spurred top shell snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg"
+  caption: |
+    <p><a href="turbinidae/intercostalis.htm">Ribbed turban snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/081113jngd1785m3.jpg"
+  caption: |
+    <p><a href="trochidae/maculatus.htm">Spotted top shell snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/niloticus/120818lazs02354m3.jpg"
+  caption: |
+    <p><a href="trochidae/niloticus.htm">Giant top shell snail</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -51,9 +86,8 @@ Here's how to tell them apart.
 
 ---
 
-![](trochidae/labio/050508kusg5899m3.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](turbinidae/intercostalis/050513labg6477m3.jpg)
 
 **[Top
 shell snail](trochidae/trochidae.htm)**Family
@@ -75,13 +109,9 @@ is thin and made of a horn-like material.
 Operculum
 is thick, rounded and chalky.
 
-![](trochidae/labio/050508kus58911m3.jpg)
 
-![](turbinidae/intercostalis/050513labg6469m3.jpg)
 
-![](trochidae/labio/050807sjig0794m3.jpg)
 
-![](turbinidae/intercostalis/050513labg6474m3.jpg)
 
 The
 foot of the living animal  
@@ -98,22 +128,12 @@ comparisons**
 
 ---
 
-***![](turbinidae/angaria/100602tmd5119m3.jpg)*  
-[Dolphin shell](turbinidae/angaria.htm)**
 
-***![](turbinidae/calcar/090308blyd7605m3.jpg)*  
-[Spurred top shell snail](turbinidae/calcar.htm)**
 
-**![](turbinidae/bruneus/080208hntd9445m3.jpg)  
-[Ribbed turban snail](turbinidae/intercostalis.htm)**
 
 ---
 
-**![](trochidae/maculatus/081113jngd1785m3.jpg)  
-[Spotted top shell snail](trochidae/maculatus.htm)**
 
-***![](trochidae/niloticus/120818lazs02354m3.jpg)*  
-[Giant top shell snail](trochidae/niloticus.htm)**
 
 [links](../../links.htm)
 | [references](../../references.htm)

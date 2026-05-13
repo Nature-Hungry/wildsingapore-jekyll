@@ -2,7 +2,7 @@
 title: Trumpeter perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "trumpeter, grunter, perch, fish, pelates, quadrilineatus, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 69, 70]
 family: Terapontidae
 genus: Pelates
@@ -17,6 +17,30 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/080731chgd8425m6l.jpg"
+  caption: |
+    <p>Changi, Jul 08 What does it eat?</p>
+    <p>It eats small fishes and other invertebrates</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/200804chg4rk2.jpg"
+  caption: |
+    <p>Changi, Aug 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158389947362906&set=a.10158389926277906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/220616chgevc5.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159115650182945&set=a.10159115714512945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/160507cjmn.jpg"
+  caption: |
+    <p>Chek Jawa, May 16 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/43303225792/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/151001blyjt11m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/100912kuslks6m6l.jpg"
+  caption: |
+    <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4994858937/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/quadrilineatus/030418cjd0160m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,14 +79,8 @@ lines. Often seen in schools in brackish waters and estuaries. It
 croaks when taken out of water, thus its common name.
 Juveniles have 6-7 greyish vertical bars across the horizontal lines.
 
-![](quadrilineatus/030418cjd0160m3.jpg)  
-*Chek Jawa,
-Apr 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](quadrilineatus/080731chgd8425m6l.jpg)  
-Changi, Jul 08*
-**What does it eat?** It eats small
-fishes and other invertebrates
 
 ---
 
@@ -81,32 +99,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](quadrilineatus/200804chg4rk2.jpg)  
-Changi, Aug 20*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158389947362906&set=a.10158389926277906&type=3&theater).
 
 ---
 
-![](quadrilineatus/220616chgevc5.jpg)  
-*Changi Lost Coast, Jun 22*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159115650182945&set=a.10159115714512945).
 
 ---
 
-![](quadrilineatus/160507cjmn.jpg)  
-*Chek Jawa, May 16*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/43303225792/).
 
 ---
 
-*![](quadrilineatus/151001blyjt11m3.jpg)*  
-*Berlayar Creek, Oct 15*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater).
 
-*![](quadrilineatus/100912kuslks6m6l.jpg)  
-Kusu Island, Sep 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4994858937/).
 
 ---
 

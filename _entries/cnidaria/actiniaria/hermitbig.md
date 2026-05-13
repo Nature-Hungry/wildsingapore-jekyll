@@ -2,7 +2,7 @@
 title: Big hermit-hitching anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88]
 family: Hormathidae
 genus: Calliactis
@@ -17,6 +17,50 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg"
+  caption: |
+    <p>Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8665m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg"
+  caption: |
+    <p>Changi, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7735m3.jpg"
+  caption: |
+    <p>It was attached to a living snail.</p>
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd2018m3.jpg"
+  caption: |
+    <p>Verrucae in regular bands.</p>
+    <p>Changi, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100926cjd1705m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd1980m3.jpg"
+  caption: |
+    <p>Changi, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7786m3.jpg"
+  caption: |
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/160125obsjt6.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153851748833119.1073741887.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/140502chgmn.jpg"
+  caption: |
+    <p>Changi, May 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14087377034/in/photostream/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/251109chgsafky1.jpg"
+  caption: |
+    <p>Changi Creek, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/240723chgeccn2.jpg"
+  caption: |
+    <p>Stuck on a <a href="../../mollusca/gastropoda/naticidae/sandcollar.htm">sand collar</a>.</p>
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -67,27 +111,19 @@ living snails](snail.htm).
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](hermitbig/080801chgd8683m3.jpg)* *Changi, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hermitbig/080801chgd8683m3d.jpg)*
 
-*![](hermitbig/080801chgd8665m3.jpg)*
 
 ---
 
-*![](hermitbig/040701chgd1385m3.jpg)* *Changi, Jul 04*
 
-*![](hermitbig/090722chgd7735m3.jpg)* It was attached to a living snail. *Changi, Jul 09*
 
-*![](hermitbig/100430chgd2018m3.jpg)*Verrucae in regular bands. *Changi, Apr 10*
 
 ---
 
-*![](hermitbig/100926cjd1705m3.jpg)* *Chek Jawa, Sep 10*
 
-*![](hermitbig/100430chgd1980m3.jpg)* *Changi, May 10*
 
-*![](hermitbig/090722chgd7786m3.jpg)* *Changi, Jul 09*
 
   
 *Species
@@ -112,20 +148,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](hermitbig/160125obsjt6.jpg)  
-Pulau Ubin OBS, Jan 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153851748833119.1073741887.696593118&type=3).
 
-*![](hermitbig/140502chgmn.jpg)  
-Changi, May 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14087377034/in/photostream/).
 
   
 
 ---
 
-*![](hermitbig/251109chgsafky1.jpg)  
-Changi Creek, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post).
 
-*![](hermitbig/240723chgeccn2.jpg)*Stuck on a [sand collar](../../mollusca/gastropoda/naticidae/sandcollar.htm). *Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Fig snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fig, snail, ficus, variegata, ficidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ficidae
 genus: Ficus
 species: variegata
@@ -16,6 +16,36 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg"
+  caption: |
+    <p>Changi, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3146m3.jpg"
+  caption: |
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/081214ecmd3137m3.jpg"
+  caption: |
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2211.jpg"
+  caption: |
+    <p>Buried with only its siphon sticking out.</p>
+    <p>Changi East, Dec 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/121214chged2162.jpg"
+  caption: |
+    <p>Changi East, Dec 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200705ecpbsjt1.jpg"
+  caption: |
+    <p>East Coast Park, Jun 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10158521302528119&set=a.10158521322313119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/100103ecplt1m3.jpg"
+  caption: |
+    <p>East Coast Park, Jan 10Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2010/01/fig-snail.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/200723nrsccrk1.jpg"
+  caption: |
+    <p>East Coast Park, Jul 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158355543162906&set=a.10158355526527906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/210529ecpgtch2.jpg"
+  caption: |
+    <p>East Coast Park (G), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487188728713&set=a.10159487267278713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ficidae/ficidae/111028chged2740m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,25 +87,16 @@ The snail has a large head with two long tentacles,
 a very long proboscis, and a long siphon. Large strong foot. It does not have an operculum
 an adult.
 
-![](ficidae/111028chged2740m3.jpg)  
-*Changi, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ficidae/081214ecmd3146m3.jpg)  
-*East Coast, Dec 08*
 
-![](ficidae/081214ecmd3137m3.jpg)  
-*East Coast, Dec 08*
 
 **What do they eat?** From Mei Lin's study, their prey is unknown.
 Their teeth and feeding structures suggest they don't eat large prey.
 Remains of worms have been seen in some species of fig snails. According to Poutiers, they eat sea urchins and other echninoderms.
 But there have been no actual observations of them doing so.
 
-![](ficidae/121214chged2211.jpg)  
-Buried with only its siphon sticking out. *Changi East, Dec 12*
 
-![](ficidae/121214chged2162.jpg)  
-*Changi East, Dec 12*
 
 ---
 
@@ -94,20 +115,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ficidae/200705ecpbsjt1.jpg)  
-*East Coast Park, Jun 20*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10158521302528119&set=a.10158521322313119&type=3&theater).
 
-![](ficidae/100103ecplt1m3.jpg)  
-*East Coast Park**, Jan 10*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2010/01/fig-snail.html).
 
 ---
 
-![](ficidae/200723nrsccrk1.jpg)  
-*East Coast Park, Jul 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158355543162906&set=a.10158355526527906&type=3&theater).
 
-![](ficidae/210529ecpgtch2.jpg)  
-*East Coast Park (G), May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159487188728713&set=a.10159487267278713).
 
 ---
 

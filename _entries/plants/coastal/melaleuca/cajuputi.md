@@ -2,7 +2,7 @@
 title: "Gelam "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gelam, glam, melaleuca, cajuputi, myrtaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 109]
 family: Myrtaceae
 genus: Melaleuca
@@ -18,6 +18,71 @@ subfamily: Myrtoideae
 tribe: Melaleuceae
 complex: Melaleuca leucadendra
 updated: Aug 09
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg"
+  caption: |
+    <p>Planted in the</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0491m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0362m3.jpg"
+  caption: |
+    <p>Pasir Ris,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0362m3b.jpg"
+  caption: |
+    <p>Fruits are brown capsules.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0491m3b.jpg"
+  caption: |
+    <p>Pasir Ris,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0493m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0364m3.jpg"
+  caption: |
+    <p>Pasir Ris,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0364m3a.jpg"
+  caption: |
+    <p>Flaky bark.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9984m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9981m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9982m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9983m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090823cjd9980m6l.jpg"
+  caption: |
+    <p>Planted along the visitor trail.</p>
+    <p>Chek Jawa, Aug 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/melaleuca/cajuputi/090906prpd0365m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -88,35 +153,15 @@ the main firewood where bakau or mangrove wood is unavailable. The
 papery bark is used to caulk boats as the bark swells in water, thus
 sealing seams. The dried fruits are sold as a spice.   
 
-![](cajuputi/090906prpd0365m6l.jpg)  
-Planted in the
-Park. *Pasir Ris, Sep 09![](cajuputi/090906prpd0491m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cajuputi/090906prpd0362m3.jpg)  
- *Pasir Ris,
-Sep 09![](cajuputi/090906prpd0362m3b.jpg)*Fruits are brown capsules.
 
-![](cajuputi/090906prpd0491m3b.jpg)  
- *Pasir Ris,
-Sep 09![](cajuputi/090906prpd0493m3a.jpg)*
 
-![](cajuputi/090906prpd0364m3.jpg)  
- *Pasir Ris,
-Sep 09![](cajuputi/090906prpd0364m3a.jpg)*Flaky bark.
 
 ---
 
-![](cajuputi/090823cjd9984m3.jpg)  
- *Chek Jawa,
-Aug 09![](cajuputi/090823cjd9981m3.jpg)*
 
-*![](cajuputi/090823cjd9982m3.jpg)*  
- *Chek Jawa,
-Aug 09![](cajuputi/090823cjd9983m3a.jpg)*
 
-![](cajuputi/090823cjd9980m6l.jpg)  
-Planted along
-the visitor trail. *Chek Jawa, Aug 09*
 
 ---
 
@@ -131,18 +176,6 @@ the visitor trail. *Chek Jawa, Aug 09*
   160pp
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

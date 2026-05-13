@@ -2,7 +2,7 @@
 title: "Small mudskippers "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "small, mudskipper, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Synanceiidae
 genus: ""
 species: ""
@@ -17,6 +17,44 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,9 +93,7 @@ how to tell them apart.
 
 ---
 
-![](variabilis/051019smkg2790m3.jpg)
-![](variabilis/051019smkg2790m3b.jpg)
-![](variabilis/051019smkg2790m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
 [**Dusky-gilled
 mudskipper**](variabilis.htm)  
@@ -72,11 +108,8 @@ and tail fins reddish at the margins.
 
 ---
 
-![](gracilis/090114labd5309m3.jpg)
 
-![](gracilis/090114labd5309m3b.jpg)
 
-![](gracilis/090114labd5309m3a.jpg)
 
 [**Slender
 mudskipper**](gracilis.htm)  
@@ -92,11 +125,8 @@ fins not reddish.
 
 ---
 
-![](argentilineatus/090229smkd7272m3c.jpg)
 
-![](argentilineatus/090229smkd7272m3a.jpg)
 
-![](argentilineatus/090229smkd7272m3b.jpg)
 
 [**Silver-lined
 mudskipper**](argentilineatus.htm)  
@@ -110,9 +140,6 @@ fins not reddish.
 
 ---
 
-![](walailakae/091019prpd2908m3.jpg)
-![](walailakae/091019prpd2908m3a.jpg)
-![](walailakae/091019prpd2908m3b.jpg)
 
 [**Yellow-spotted
 mudskipper**](walailakae.htm)  

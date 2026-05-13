@@ -2,7 +2,7 @@
 title: Evermann's snake-eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "evermann, snake-eel, snake, eel, fish, ophichthus, lithinus, evermanni, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Ophichthidae
 genus: Ophichthus
@@ -18,6 +18,88 @@ order: Anguilliformes
 suborder: Congroidei
 subfamily: Ophichthinae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg"
+  caption: |
+    <p>Tubular nostrils.</p>
+    <p>two yellowish rings, pectoral fins.</p>
+    <p>Sisters Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3a.jpg"
+  caption: |
+    <p>Body flatter only towards the sharp tail.</p>
+    <p>Sisters Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/070219sisd8160m3a.jpg"
+  caption: |
+    <p>This one ate an octopus within minutes!</p>
+    <p>Sisters Island, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m6l.jpg"
+  caption: |
+    <p>Sisters Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/201117bly.jpg"
+  caption: |
+    <p>Peeping out of a burrow on a sandbar</p>
+- url: "https://live.staticflickr.com/563/22411067773_7084637640_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/22411067773/ "Evermann’s snake-eel (Ophichthus lithinus)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/210528chg7lks3.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159231443873158&set=a.10159231448318158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/230605chg7ky1.jpg"
+  caption: |
+    <p>Changi Carpark 7, Jun 23 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168422037890112&set=a.10168422041295112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/220616chgemn1.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158934350658660&set=a.10158934353093660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/210401sntmn1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158162988453660&set=a.10158162992183660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120408sjilks1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island , Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/100725hntjk1m6l.jpg"
+  caption: |
+    <p>Pulau Hantu, Sep 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/07/100725-pulau-hantu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/110517tbtro1m6l.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.167513226641717.40995.133291903397183&closeTheater=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/251207hntlks5.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/240623hntlks5.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/141011hntlks.jpg"
+  caption: |
+    <p>Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24142096505/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/180812cyrjt4.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 18 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10156556568558119&set=a.10156556564788119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/200918cyrlks4.jpg"
+  caption: |
+    <p>Cyrene, Sep 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158627945423158&set=a.10158627950818158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/240822tsmktl1a.jpg"
+  caption: |
+    <p>Terumbu Semakau, Aug 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/240822tsmktl1.jpg"
+  caption: |
+    <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161468783734264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/110324tryas07664m6la.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/100518tbbd2972m6l.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150607bbbtch2m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150607bbbtch1m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/140713tsmkmn.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/19953839440/in/album-72157645656582534/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/120820sisd0679m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,27 +147,16 @@ the body in S-shapes, rather like a sea snake.
 snakes](../../snakes/hydrophiidae/laticauda.htm). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
 
-*![](evermann/120820sisd0679m3.jpg)*Tubular nostrils. two yellowish rings, pectoral fins.  
-*Sisters Island, Aug 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](evermann/120820sisd0679m3a.jpg)  
-Body flatter only towards the sharp tail. *Sisters Island, Aug 12*
 
-![](evermann/070219sisd8160m3a.jpg)  
-This one ate an octopus within minutes!  
-*Sisters Island, Feb 07*
 
-*![](evermann/120820sisd0679m6l.jpg)  
-Sisters Island, Aug 12*
 
-![](evermann/201117bly.jpg)  
-Peeping out of a burrow on a sandbar
   
 *Berlayar Creek, Nov 20*
 
 **What does it eat?** It hunts fishes, [octopuses, squids and
 cuttlefishes](../../../mollusca/cephalopoda.htm) and crustaceans. It has granular teeth.
-[![Evermann’s snake-eel (Ophichthus lithinus)](https://live.staticflickr.com/563/22411067773_7084637640_z.jpg)](https://www.flickr.com/photos/wildsingapore/22411067773/ "Evermann’s snake-eel (Ophichthus lithinus)")
 
 ---
 
@@ -104,93 +175,42 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](evermann/210528chg7lks3.jpg)  
-*Changi Carpark 7, May 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159231443873158&set=a.10159231448318158).
 
-![](evermann/230605chg7ky1.jpg)  
-*Changi Carpark 7, Jun 23*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168422037890112&set=a.10168422041295112).
 
-![](evermann/220616chgemn1.jpg)  
-*Changi Lost Coast, Jun 22*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10158934350658660&set=a.10158934353093660).
 
 ---
 
-![](evermann/210401sntmn1.jpg)  
-*Sentosa Tg Rimau, Apr 21*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158162988453660&set=a.10158162992183660).
 
 ---
 
-![](evermann/120408sjilks1m3.jpg)  
-*St. John's
-Island , Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html).
 
-![](evermann/100725hntjk1m6l.jpg)  
-*Pulau Hantu, Sep 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100725-pulau-hantu.html).
 
-*![](evermann/110517tbtro1m6l.jpg)  
-Terumbu Pempang Tengah, May 11*Photo
-shared by Rene Ong on [facebook](http://www.facebook.com/media/set/?set=a.167513226641717.40995.133291903397183&closeTheater=1).
 
 ---
 
-![](evermann/251207hntlks5.jpg)  
- *Pulau Hantu, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post).
 
-![](evermann/240623hntlks5.jpg)*Pulau Hantu, Jun 24*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158).
 
 ---
 
-![](evermann/141011hntlks.jpg)  
-*Pulau Hantu, Oct 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24142096505/in/album-72157607719695102/).
 
 ---
 
-![](evermann/180812cyrjt4.jpg)  
-*Cyrene Reef, Aug 18*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10156556568558119&set=a.10156556564788119&type=3&theater).
 
-![](evermann/200918cyrlks4.jpg)  
-*Cyrene, Sep 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158627945423158&set=a.10158627950818158).
 
 ---
 
-![](evermann/240822tsmktl1a.jpg)  
-*Terumbu Semakau, Aug 24*
 
-![](evermann/240822tsmktl1.jpg)  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161468783734264&type=3&ref=embed_post).
 
 ---
 
-![](evermann/110324tryas07664m6la.jpg)  
-*Terumbu Raya, Mar 11*
 
-![](evermann/100518tbbd2972m6l.jpg)  
-*Beting Bemban Besar, May 10*
 
 ---
 
-![](evermann/150607bbbtch2m3.jpg)  
-*Beting Bemban Besar, Jun 15*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3).
 
-![](evermann/150607bbbtch1m3.jpg)  
-*Beting Bemban Besar, Jun 15*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3).
 
 ---
 
-![](evermann/140713tsmkmn.jpg)  
-*Terumbu Semakau, Jul 14*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/19953839440/in/album-72157645656582534/).
 
 ---
 

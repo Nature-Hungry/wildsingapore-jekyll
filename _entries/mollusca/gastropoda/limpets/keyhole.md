@@ -2,7 +2,7 @@
 title: "Keyhole limpets "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "keyhole, limpet, fissurilidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fissurellidae
 genus: ""
 species: Family
@@ -16,6 +16,23 @@ subclass: Vetigastropoda
 order: Lepetellida
 superfamily: Fissurelloidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg"
+  caption: |
+    <p>Pulau Tekukor, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5691m6l.jpg"
+  caption: |
+    <p>Pulau Tekukor, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/240113laztl2.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161044246534264&set=a.10161044237189264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/210502tptvc7.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447589392945&set=a.10158447654442945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/210810tplvc3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628143962945&set=a.10158628246612945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,11 +71,8 @@ conical with fine ribs. It has a hole in the top of its shell, through
 which wastes are excreted. Body plain white with a pair of feathery
 gills. Keyhole limpets are true limpets that breathe through gills.
 
-![](keyhole/130426tkkd5687.jpg)  
-*Pulau Tekukor, Apr 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](keyhole/130426tkkd5691m6l.jpg)  
-*Pulau Tekukor, Apr 13*
 
 ---
 
@@ -77,14 +91,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](keyhole/240113laztl2.jpg)  
-Lazarus Island, Jan 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161044246534264&set=a.10161044237189264).
 
-*![](keyhole/210502tptvc7.jpg)  
-Terumbu Pempang Tengah, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447589392945&set=a.10158447654442945).
 
-*![](keyhole/210810tplvc3.jpg)  
-Terumbu Pempang Laut, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158628143962945&set=a.10158628246612945).
 
 ---
 

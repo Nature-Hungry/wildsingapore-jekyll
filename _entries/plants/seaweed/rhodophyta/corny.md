@@ -2,7 +2,7 @@
 title: Corny red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Rhodomeiaceae
 genus: Palisada
@@ -18,6 +18,17 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 tribe: Laurencieae
 updated: Oct 15
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg"
+  caption: |
+    <p>Sunken pit at the tip of the bumps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -52,13 +63,9 @@ This purple maroon seaweed with tiny rows of bumps is sometimes seen on our Sout
   
 **Features:** Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
 
-*![](corny/110422tbd9744m3.jpg)  
-Terumbu Bemban, Apr 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](corny/110422tbd9744m3b.jpg)  
-Sunken pit at the tip of the bumps.*
 
-*![](corny/110422tbd9744m3a.jpg)*
 
   
 *\*Seaweed species are

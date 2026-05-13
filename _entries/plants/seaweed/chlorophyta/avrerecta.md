@@ -2,7 +2,7 @@
 title: Solitary fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "solitary, fan, seaweed, weed, green, avrainvillea, erecta, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Avrainvillea
@@ -15,6 +15,40 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg"
+  caption: |
+    <p>Tuas, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050611kusg7806m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050526cj6867m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/060129skdg4092m3.jpg"
+  caption: |
+    <p>Sometimes divided into four or more 'wings'.</p>
+    <p>Pulau Sekudu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg"
+  caption: |
+    <p><a href="../../../mollusca/slugs/sacoglossa/costasiella">Strawberry slug</a> found on the seaweed.</p>
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/180815bbbll2.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Aug 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1893322410691089&set=a.1893308220692508&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/200626tptvc4.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750326087945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/091204pawd0012m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/091205sudd5444m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/100530tbkd4243m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,20 +100,9 @@ slugs](../../../mollusca/slugs/sacoglossa/costasiella) (*Costasiella* sp.) are f
 **Sometimes confused with** other
 fan-shaped green seaweeds. Here's more on [how
 to tell apart fan-shaped green seaweeds](cffan).
-*![](avrerecta/050624tusg8537m3.jpg)  
-Tuas, Jun 05*
-*![](avrerecta/050611kusg7806m3.jpg)  
-Kusu Island, Jun 05*
-*![](avrerecta/050526cj6867m3.jpg)  
-Chek Jawa, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](avrerecta/060129skdg4092m3.jpg)  
-Sometimes
-divided into four or more 'wings'.  
-*Pulau Sekudu, Jan 06*
 
-*![](../../../mollusca/slugs/sacoglossa/costasiella/091206tmd5751m3.jpg)* [Strawberry
-slug](../../../mollusca/slugs/sacoglossa/costasiella) found on the seaweed. *Tanah Merah, Dec 09*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -102,22 +125,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](avrerecta/180815bbbll2.jpg)  
-Beting Bemban Besar, Aug 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=1893322410691089&set=a.1893308220692508&type=3&theater).
 
-*![](avrerecta/200626tptvc4.jpg)  
-Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157750326087945&set=a.10157750324127945&type=3&theater).
 
 ---
 
-*![](avrerecta/091204pawd0012m3.jpg)  
-Pulau Pawai, Dec 09*
 
-*![](avrerecta/091205sudd5444m3.jpg)  
-Pulau Sudong, Dec 09*
 
-*![](avrerecta/100530tbkd4243m3.jpg)  
-Pulau Berkas, May 10*
 
 ---
 

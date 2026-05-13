@@ -2,7 +2,7 @@
 title: Banded archerfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, acherfish, archer, fish, toxotidae, toxotes, jaculatrix, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Toxotidae
 genus: Toxotes
@@ -17,6 +17,25 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/090510sntik4m3.jpg"
+  caption: |
+    <p>Sentosa Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49100315031/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/251207hntlks7.jpg"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Pulau Hantu, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5871m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,9 +74,8 @@ fat ones under the main bridge at Sungei Buloh Wetland Reserve.
 20cm long, those seen about 7-10cm. 4-5 broad black vertical bands
 that taper towards the bottom of the body. [More](toxotidae) about the archerfishes' infamous ability to shoot down insects.
 
-*![](jaculatrix/110205krjd5871m3.jpg)* *Sungei Buloh Wetland Reserve, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](jaculatrix/051208sbwrd0532m6l.jpg)* *Sungei Buloh Wetland Reserve, Feb 05*
 
 **Human uses:** Sometimes sold fresh
 in markets. Also taken for the live aquarium trade.
@@ -79,15 +97,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](jaculatrix/090510sntik4m3.jpg)*  
-*Sentosa Siloso, May 09*Photo shared by Ivan Kwan on [his
-blog](http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol)
 
-![](jaculatrix/170820kusmn.jpg)  
-Juvenile. *Kusu Island, Aug 17*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49100315031/).
 
-![](jaculatrix/251207hntlks7.jpg)  
-Juvenile. *Pulau Hantu, Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post).
 
 ---
 

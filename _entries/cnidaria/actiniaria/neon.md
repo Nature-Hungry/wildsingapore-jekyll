@@ -2,7 +2,7 @@
 title: Neon anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "neon, actiniaria, actiniidae, isactinia, citrina, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [5, 6, 88]
 family: Actiniidae
 genus: Isactinia
@@ -17,6 +17,47 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thntd9451m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thntd9468m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/040507rflbd0156m3.jpg"
+  caption: |
+    <p>Raffles LIghthouse, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/040507rflbd0156m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/240411tsmkky1.jpg"
+  caption: |
+    <p>Terumbu Semakau, Apr 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169359355575112&set=a.10169359354355112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/252531thnttl2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/252531thnttl2a.jpg"
+  caption: |
+    <p>Photo shared by Tamny Lim on <a href="https://www.facebook.com/media/set/?set=a.10162553746129264&type=3&ref=embed_post">facebook.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120609tmskjk2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120609tmskjk1m3.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/06/24/120609-terumbu-semakau/">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120505sisjk2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120505sisjk2m3a.jpg"
+  caption: |
+    <p>Photos shared by James Koh on  <a href="http://singaporenature.wordpress.com/2012/05/07/120505-big-sisters/">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/neon/120411thnts06102m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -61,15 +102,9 @@ stripes or blotches. A row of large bumps on the top of the body column.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-*![](neon/120411thnts06102m3.jpg)  
-Terumbu Hantu, Apr 12**![](neon/120411thnts06102m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](neon/120411thntd9451m3.jpg)  
-Terumbu Hantu, Apr 12![](neon/120411thntd9468m3.jpg)*
 
-*![](neon/040507rflbd0156m3.jpg)  
-Raffles LIghthouse, May 04  
-![](neon/040507rflbd0156m3b.jpg)*
 
   
 *\*Species are difficult
@@ -93,21 +128,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](neon/240411tsmkky1.jpg)  
-Terumbu Semakau, Apr 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169359355575112&set=a.10169359354355112).
 
 ---
 
-*![](neon/252531thnttl2.jpg)  
-Terumbu Hantu, May 25![](neon/252531thnttl2a.jpg)*Photo shared by Tamny Lim on [facebook.](https://www.facebook.com/media/set/?set=a.10162553746129264&type=3&ref=embed_post)
 
-*![](neon/120609tmskjk2m3.jpg)  
-Terumbu Semakau, Jun 12![](neon/120609tmskjk1m3.jpg)*Photo shared by James Koh on [his
-blog](https://singaporenature.wordpress.com/2012/06/24/120609-terumbu-semakau/).
 
-*![](neon/120505sisjk2m3.jpg)  
-Sisters Island, May 12*![](neon/120505sisjk2m3a.jpg)  
-Photos shared by James Koh on  [his blog](http://singaporenature.wordpress.com/2012/05/07/120505-big-sisters/).
 
 ---
 

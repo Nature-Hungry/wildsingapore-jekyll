@@ -2,7 +2,7 @@
 title: "Damselfishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "damsel, fish, damselfish, anemonefish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pomacentridae
 genus: ""
 species: ""
@@ -16,6 +16,69 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Blenniiformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
+  caption: |
+    <p>Clown anemonfish in a <a href="../../../cnidaria/actiniaria/magnifica">Magnificent anemone</a>.</p>
+    <p>Terumbu Semakau, Jul 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/070531sisg9763m3.jpg"
+  caption: |
+    <p>Juvenile damselfishes can look very different from the adults.</p>
+    <p>Tanah Merah, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3.jpg"
+  caption: |
+    <p>Damselfishes can be abundant on some of our shores!</p>
+    <p>Raffles Lighthouse, Jul 06 What do they eat?</p>
+    <p>As a family, they eat a wide variety of things.</p>
+    <p>Plankton-feeding damselfishes are believed to play an important role in reefs as they occur in such huge numbers that they effectively filter the currents.</p>
+    <p>Damselfishes that feed on algae are often aggressively territorial, defending their feeding area from all intruders.</p>
+    <p>These tiny damselfishes will vigorously harass larger fishes and even divers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+  caption: |
+    <p><a href="ocellaris">False clown anemonefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
+  caption: |
+    <p><a href="frenatus">Tomato anemonefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg"
+  caption: |
+    <p><a href="trimaculatus">Three-spot dascyllus</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m3.jpg"
+  caption: |
+    <p><a href="bengalensis">Bengal sergeant</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m3.jpg"
+  caption: |
+    <p><a href="sexfasciatus">Scissortail sergeant</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m3.jpg"
+  caption: |
+    <p><a href="sordidus">Black-spot sergeant</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/060714rlhg6577m3a.jpg"
+  caption: |
+    <p>Juvenile</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120818lazd0172m3.jpg"
+  caption: |
+    <p>Juvenile.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/070728sisd4510m3.jpg"
+  caption: |
+    <p>Juvenile.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/110601tmnbd3185m3a.jpg"
+  caption: |
+    <p>Adult</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/fasciatus/120804bbbd9432m3.jpg"
+  caption: |
+    <p>Adult</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/prosopotaenia/100715tptd8836m3.jpg"
+  caption: |
+    <p>Juvenile</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/080410cyrd0050m3.jpg"
+  caption: |
+    <p>Juvenile</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/110602tmftd3572m3.jpg"
+  caption: |
+    <p>Juvenile</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/tripunctatus/050411tusg4489m3.jpg"
+  caption: |
+    <p>Adult</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/140713tsmkd7177m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,22 +121,7 @@ of this family.
 in size, colour and shape. Some species can grow to 35cm, others are
 1cm or smaller. Those that eat algae tend to be duller while plankton-feeders
 tend to be more colourful.
-*![](ocellaris/140713tsmkd7177m3.jpg)*  
-Clown anemonfish in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica). *Terumbu Semakau, Jul 14*
-![](tripunctatus/070531sisg9763m3.jpg)  
-Juvenile damselfishes can look   
-very different from the adults.  
-*Tanah Merah, Nov 10*
-*![](fasciatus/060714rlhg6577m3.jpg)*Damselfishes can be abundant  
-on some of our shores! **Raffles Lighthouse,
-Jul 06** 
-**What do they eat?** As a family,
-they eat a wide variety of things. Plankton-feeding damselfishes are
-believed to play an important role in reefs as they occur in such
-huge numbers that they effectively filter the currents. Damselfishes
-that feed on algae are often aggressively territorial, defending their
-feeding area from all intruders. These tiny damselfishes will vigorously
-harass larger fishes and even divers.  
+{% include img-wrap-group.html items=page.page_images %}
   
 According to Jeffrey Low on the Singapore Biodiversity Records: The sergeant damselfishes commonly seen on our shores have overlapping habitat and feeding requirements. The [Bengal sergeant](bengalensis) occurs singly or in small groups in inshore and lagoon coral reefs at depths of 1-6 m. It feeds on seaweed, snails and small crabs, and is highly territorial. The [Scissortail sergeant](sexfasciatus) lives on coral or rocky reefs, and also in shallow reef flats or crests, at depths of 1-20 m, usually where tall soft coral or hydroid colonies are present. It often forms groups at midwater, high in the water column to feed on zooplankton and algae. The [Indo-pacific sergeant](vaigiensis) lives in the upper edge of outer reef slopes and inshore rocky reefs at depths of 1-15 m. Although tending feed on the bottom, eating algae and small invertebrates, it often forms groups in midwater to feed on zooplankton.  
   
@@ -101,23 +149,13 @@ on Singapore shores**
 
 ---
 
-**![](ocellaris/040605kusbd0077m3.jpg)  
-[False clown anemonefish](ocellaris)**
 
-***![](frenatus/040829kusg1741m3.jpg)*[Tomato anemonefish](frenatus)**
 
-***![](trimaculatus/110619tslgd4444m3.jpg)*[Three-spot dascyllus](trimaculatus)**
 
 ---
 
-**![](bengalensis/110601tmnbd3146m3.jpg)  
-[Bengal sergeant](bengalensis)**
 
-**![](sexfasciatus/110602tmftd3507m3.jpg)  
-[Scissortail sergeant](sexfasciatus)**
 
-**![](sordidus/080816sisd9504m3.jpg)  
-[Black-spot sergeant](sordidus)**
 
 5-7
 narrow bars black (sometimes grey) across a yellowish-green body. Tail with
@@ -130,13 +168,8 @@ of the tail just before the tail fin.
 
 ---
 
-*![](fasciatus/060714rlhg6577m3a.jpg)*Juvenile
 
-![](fasciatus/120818lazd0172m3.jpg)  
-Juvenile.
 
-*![](fasciatus/070728sisd4510m3.jpg)  
-Juvenile.*
 
 **[Yellow-banded
 damselfish](fasciatus)**
@@ -146,16 +179,10 @@ damselfish](fasciatus)**
 4 yellow bars on variably coloured body with variable other spots. Juveniles look very different from adults.
  
  
-![](fasciatus/110601tmnbd3185m3a.jpg)  
-Adult
-![](fasciatus/120804bbbd9432m3.jpg)  
-Adult
  
 
 ---
 
-**![](prosopotaenia/100715tptd8836m3.jpg)  
-Juvenile**
 
 **[Honey-head
 damselfish](prosopotaenia)**
@@ -170,14 +197,8 @@ a large gold-margined black spot on the dorsal fin.
 
 ---
 
-![](tripunctatus/080410cyrd0050m3.jpg)  
-Juvenile
 
-![](tripunctatus/110602tmftd3572m3.jpg)  
-Juvenile
 
-![](tripunctatus/050411tusg4489m3.jpg)  
-Adult
 
 **[Three-spot
 damselfish](tripunctatus)**

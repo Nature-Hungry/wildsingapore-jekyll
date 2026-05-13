@@ -2,7 +2,7 @@
 title: Horn-eyed ghost crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horn, eyed, ghost, crab, ocypode, ceratophthalmus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Ocypodidae
 genus: Ocypode
@@ -25,6 +25,68 @@ superfamily: Ocypodoidea
 subfamily: Ocypodinae
 complex: Ocypode ceratophthalmus
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090818tmd9312m3a.jpg"
+  caption: |
+    <p>A slot on the body for the eye stalk to 'fold' away.</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/110506tmftd0803m3.jpg"
+  caption: |
+    <p>Vertical ridge and tiny bumps on the inside of the 'palm'.</p>
+    <p>Tanah Merah, May 11 Ghost crabs are well adapted for life out of water and are among the few marine creatures that roam the beaches at low tide, particularly at night.</p>
+    <p>They run rapidly on the sand and can burrow quickly into wet sand.</p>
+    <p>They can stay for a long time away from the sea because they can absorb water from the wet sand through special hairs on the base of their legs by capillary action.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060102sisg3708m3.jpg"
+  caption: |
+    <p>Some have white pincers, one much bigger than the other.</p>
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060613ecpd2934m3.jpg"
+  caption: |
+    <p>No 'horns' on the eyes: young one?</p>
+    <p>East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/050426cftd2816m3.jpg"
+  caption: |
+    <p>Typical burrow near the high water mark.</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090807tmd8440m3.jpg"
+  caption: |
+    <p>Eating a shrimp.</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/130426tkks02845.jpg"
+  caption: |
+    <p>Eating a Moon crab.</p>
+    <p>Pulau Tekukor, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/031125hntbd0041m3.jpg"
+  caption: |
+    <p>Eating crab.</p>
+    <p>Pulau Hantu, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090428chgd0692m3.jpg"
+  caption: |
+    <p>Eating a <a href="../../../worm/polychaeta/chloeia">fireworm</a>.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/100909tmd0817m3a.jpg"
+  caption: |
+    <p>Eating a fish, probably a goby.</p>
+    <p>Tanah Merah, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090527skdlks.JPG"
+  caption: |
+    <p>Pulau Sekudu, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudul">his blog.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/090628lazlt5m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl">her blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/091205sudjk5m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171191967/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/200311blylks9.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158041347453158&set=a.10158041342408158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/210822ssisjll2.jpg"
+  caption: |
+    <p>Small SIsters, Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158470463901295&set=a.10158470457921295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/ceratophthalmus/060713rlhd4149m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,25 +144,7 @@ each eye (called the stylophthalmous), usually darker in colour. The
 horn is shorter in females and absent in juveniles (2.5cm or smaller). [A study](http://www.bbc.co.uk/nature/22025789) found that
 juveniles can change their body colour and pattern to match the surrounding
 sand, usually becoming lighter during the day and darker at night.
-**![](ceratophthalmus/060713rlhd4149m3.jpg)**  
-*Raffles Lighthouse,
-Jul 06*
-![](ceratophthalmus/090818tmd9312m3a.jpg)  
-A slot on the body for   
-the eye stalk to 'fold' away.  
-*Tanah Merah, Aug 09*
-![](ceratophthalmus/110506tmftd0803m3.jpg)  
-Vertical ridge and tiny
-bumps  
-on the inside of the 'palm'.  
-*Tanah Merah,* *May
-11* 
-Ghost crabs are well adapted for life out of water and are among the
-few marine creatures that roam the beaches at low tide, particularly
-at night. They run rapidly on the sand and can burrow quickly into
-wet sand. They can stay for a long time away from the sea because
-they can absorb water from the wet sand through special hairs on the
-base of their legs by capillary action.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **Similar
 to**  the [Smooth-eyed ghost crab](cordimanus) (*Ocypode cordimanus*) which is rarely encountered.   
@@ -125,16 +169,8 @@ can. This behaviour probably explains the typical "spray"
 pattern of sand around the burrow. The burrow can be quite deep. So
 please don't try to dig up the crab.
 
-![](ceratophthalmus/060102sisg3708m3.jpg)  
-Some have white pincers,  
-one much bigger than the other. *Sisters Islands, Jan 06*
 
-![](ceratophthalmus/060613ecpd2934m3.jpg)  
-No 'horns' on the eyes: young one? *East Coast, Jun 06*
 
-![](ceratophthalmus/050426cftd2816m3.jpg)  
-Typical burrow near the
-high water mark. *Changi, Apr 05*
 
 **What does it eat?** At low tide,
 this scavenger is very active at night, scurrying everywhere on the
@@ -145,21 +181,10 @@ edge. Near the flotsam left on the high water line, we can also sometimes
 see little scratch marks probably made by ghost crabs checking the
 line for edible titbits.
 
-![](ceratophthalmus/090807tmd8440m3.jpg)  
-Eating a shrimp. *Tanah Merah, Aug 09*
 
-![](ceratophthalmus/130426tkks02845.jpg)  
-Eating a Moon crab. *Pulau Tekukor, Apr 13*
 
-![](ceratophthalmus/031125hntbd0041m3.jpg)  
-Eating crab.  
-*Pulau Hantu, Nov 03*
 
-![](ceratophthalmus/090428chgd0692m3.jpg)  
-Eating a [fireworm](../../../worm/polychaeta/chloeia). *Changi, Apr 09*
 
-![](ceratophthalmus/100909tmd0817m3a.jpg)  
-Eating a fish, probably a goby. *Tanah Merah, Sep 10*
 
 **Status and threats:** Our Horn-eyed ghost
 crabs are not listed among the threatened animals of Singapore. However, like other creatures of the intertidal zone, they are affected
@@ -182,26 +207,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ceratophthalmus/090527skdlks.JPG)  
-*Pulau Sekudu, May 09*Photo shared by Loh Kok Sheng on [his blog.](http://wondercreation.blogspot.sg/2009/05/back-to-froggy-sekudul)
 
-![](ceratophthalmus/090628lazlt5m3.jpg)  
-*Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl)
 
-![](ceratophthalmus/091205sudjk5m3.jpg)  
-*Pulau Sudong, Dec 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171191967/).
 
 ---
 
-![](ceratophthalmus/200311blylks9.jpg)  
-*Berlayar Creek, Mar 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158041347453158&set=a.10158041342408158&type=3&theater).
 
 ---
 
-![](ceratophthalmus/210822ssisjll2.jpg)  
-*Small SIsters, Aug 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158470463901295&set=a.10158470457921295).
 
 ---
 

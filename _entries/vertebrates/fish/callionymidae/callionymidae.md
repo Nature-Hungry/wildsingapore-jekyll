@@ -2,7 +2,7 @@
 title: Dragonets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dragonet, fish, callionymidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Callionymidae
 genus: ""
 species: ""
@@ -17,6 +17,30 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg"
+  caption: |
+    <p>A tiny one about 1cm long.</p>
+    <p>Changi, Aug 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7729337268/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3a.jpg"
+  caption: |
+    <p>Downward pointing mouth.</p>
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3.jpg"
+  caption: |
+    <p>Underside of a dead one.</p>
+    <p>Changi, Oct 09 Sometimes mistaken for <a href="../platycephalidae/platycephalidae">flatheads</a> (Family Platycephalidae).</p>
+    <p>Here's more on <a href="../cfflatheads">how to tell apart fish with flat heads</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/mosaic/091008tmd2380m3.jpg"
+  caption: |
+    <p><a href="mosaic">Mosaic dragonet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg"
+  caption: |
+    <p><a href="erythraeus">Smallhead dragonet</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/dactylopus/140501kusd5015m3.jpg"
+  caption: |
+    <p><a href="dactylopus">Kuiter's dragonet</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -62,13 +86,7 @@ of these fishes are well camouflaged but some species can be quite
 colourful. In many species the males and females appear different.
 The males usually have an enlarged first dorsal fin that is colourful
 with intricate patterns.
-*![](erythraeus/120801chgmn.jpg)*A tiny one about 1cm long. *Changi, Aug 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7729337268/).
-*![](mosaic/091008tmd2380m3a.jpg)*Downward pointing mouth. *Tanah Merah, Oct 09*
-*![](erythraeus/091020chgd2942m3.jpg)*Underside
-of a dead one. *Changi, Oct 09*
-**Sometimes
-mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
-to tell apart fish with flat heads](../cfflatheads).   
+{% include img-wrap-group.html items=page.page_images %}
   
  **What do they eat?** They
 pick off small animals from the surface with their pointed, downward
@@ -86,17 +104,8 @@ on Singapore shores**
 
 ---
 
-![](mosaic/091008tmd2380m3.jpg)  
-[**Mosaic
-dragonet**](mosaic)
 
-![](erythraeus/090709chgd6825m3.jpg)  
- [**Smallhead
-dragonet**](erythraeus)
 
-![](dactylopus/140501kusd5015m3.jpg)  
-[**Kuiter's
-dragonet**](dactylopus)
 
 ---
 

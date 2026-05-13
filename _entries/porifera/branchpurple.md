@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "purple, branching, sponge, callyspongia, callyspongiidae, porifera, field,"
-layout: default
+layout: entry
 shape: branching
 title: Purple branching sponge
 family: Callyspongiidae
@@ -16,6 +16,41 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg"
+  caption: |
+    <p>Sometimes draped with synaptid sea cucumbers Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/020228cjcpd7746m3.jpg"
+  caption: |
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3a.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/040620skdd0755m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/040620skdd0755m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/031223tused0056m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/031223tused0056m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060723skdd4782m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060723skdd4782m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/210529epcnvc11.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497035557945&set=a.10158495877737945">facebook</a>..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/branchpurple/060129skdd6619m3.jpg"
 ---
 
 
@@ -44,31 +79,15 @@ usually purple to lilac.
 These sponges are draped with [sponge
 synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) at some times of the year.
 
-![](branchpurple/060129skdd6619m3.jpg)  
-*Pulau Sekudu,
-Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](../echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg)  
-Sometimes draped with   
-synaptid sea cucumbers  
-*Chek Jawa, Aug 05*
 
-![](branchpurple/020228cjcpd7746m3.jpg)  
-*Chek Jawa, Feb 02*
 
-![](branchpurple/060129skdd6619m3a.jpg)  
-*Pulau Sekudu, Jan 06*
 
 ---
 
-![](branchpurple/040620skdd0755m3.jpg)  
-*Pulau Sekudu, Jun 04* ![](branchpurple/040620skdd0755m3a.jpg)
 
-![](branchpurple/031223tused0056m3.jpg)  
-*Tuas, Dec 03*![](branchpurple/031223tused0056m3a.jpg)
 
-![](branchpurple/060723skdd4782m3.jpg)  
-*Pulau Sekudu, Jul 06*![](branchpurple/060723skdd4782m3a.jpg)
 
   
 *\*Species are difficult
@@ -98,8 +117,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](branchpurple/210529epcnvc11.jpg)  
-*East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497035557945&set=a.10158495877737945)..
 
 ---
 

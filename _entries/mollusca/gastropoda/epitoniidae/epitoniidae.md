@@ -2,7 +2,7 @@
 title: Wentletrap
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "wentletrap, snail, epitoniidae, , gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Epitoniidae
 genus: ""
 species: ""
@@ -15,6 +15,17 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Epitonioidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg"
+  caption: |
+    <p>Seletar, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7333m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7325m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/epitoniidae/epitoniidae/120223sltd7352m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,12 +68,9 @@ shell opening suggest the snails are herbivourous, there are suggestions
 that those with purple body and purple stains on the shell may be
 carnivorous. Some may produce a purple dye. Some of them are believed to eat sea anemones that live in
 sand.
-![](epitoniidae/120223sltd7352m3.jpg)  
-*Seletar, Feb 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](epitoniidae/120223sltd7333m3.jpg)
 
-![](epitoniidae/120223sltd7325m3.jpg)
 
 ---
 

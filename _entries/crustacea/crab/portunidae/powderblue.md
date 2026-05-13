@@ -2,7 +2,7 @@
 title: Powder blue-clawed swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "swimming, crab, thalamita, crenata, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112, 119]
 family: Portunidae
 genus: Thalamita
@@ -24,6 +24,73 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 subfamily: Thalamitinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3e.jpg"
+  caption: |
+    <p>6 small rounded lobes between the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3a.jpg"
+  caption: |
+    <p>5 spines on the body side, edged with small blue and dark spots.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/120604pgld3736m3.jpg"
+  caption: |
+    <p>A pair about to mate?</p>
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200706skdlks2.jpg"
+  caption: |
+    <p>Mating pair  Pulau Sekudu, Jul 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431583318158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/260105prpezxh5.jpg"
+  caption: |
+    <p>Eating a dead fish.</p>
+    <p>Pasir Ris Park, Jan 26Photo shared by Zen Xuan He on <a href="https://www.facebook.com/chen.octavius/posts/2081297236002397?ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200917sbwmn5.jpg"
+  caption: |
+    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157705758308660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250626ubnjd1.jpg"
+  caption: |
+    <p>Pulau Ubin Jetty, Jun 25 Photo shared by James Dvc on <a href="https://www.facebook.com/media/set?vanity=61561901480594&set=a.122159556872396716">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/200622chgmn1.jpg"
+  caption: |
+    <p>Changi, Jun 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157477174738660&set=a.10157477171708660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/100709tmmn.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4785563498/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151031ecpmblks.JPG"
+  caption: |
+    <p>East Coast-Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472154324/in/album-72157607745985508/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/141223tusjll2m3.jpg"
+  caption: |
+    <p>Mating pair  Tuas, Dec 14 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152597733211295.1073741843.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151001blrmn1.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/22435488336/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251010blyll1.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 25 Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/150829lazlks.JPG"
+  caption: |
+    <p>Seringat-Kias, Aug 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24074543586/in/album-72157625976409015/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/250909lazlks6.jpg"
+  caption: |
+    <p>Seringat Kias mangrove lagoon, Sep 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/240211bigsisvc3.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 24 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224105272945&set=a.10160224174947945">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/151129sjimn.jpg"
+  caption: |
+    <p>St John's Island, Nov 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153304236688660.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/251207hntml5.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122193512480554640&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/220504hnttyj2.jpg"
+  caption: |
+    <p>Pulau Hantu, May 22 Photo shared by Tang Yong Jen on <a href="https://www.facebook.com/photo/?fbid=10159699275804223&set=a.10159699273919223">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/081227smkmn.jpg"
+  caption: |
+    <p>Mating pair  Pulau Semakau, Dec 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3170131170/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/090918tmd0939m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,28 +140,14 @@ banded pattern. The pincers are powder blue with dark red tips.
 nets although it is not as commercially valuable as other swimming
 crabs.
 
-![](powderblue/090918tmd0939m3.jpg)  
-*Tanah Merah, Sep 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](powderblue/090918tmd0939m3e.jpg)  
-6 small rounded lobes between the eyes.
 
-![](powderblue/090918tmd0939m3a.jpg)  
-5 spines on the body side,  
-edged with small blue and dark spots.
 
 ---
 
-![](powderblue/120604pgld3736m3.jpg)  
-A pair about to mate? *Punggol, Jun 12*
 
-![](powderblue/200706skdlks2.jpg)  
-Mating pair  *Pulau Sekudu, Jul 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158431583318158&set=a.10158431591203158&type=3&theater).
 
-![](powderblue/260105prpezxh5.jpg)  
-Eating a dead fish.
- *Pasir Ris Park, Jan 26*Photo shared by Zen Xuan He on [facebook](https://www.facebook.com/chen.octavius/posts/2081297236002397?ref=embed_post)
 
   
 *\*Species are difficult to positively identify without close examination.  
@@ -118,77 +171,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](powderblue/200917sbwmn5.jpg)  
-Sembawang Beach, Sep 20*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157705758308660&set=a.10157485864973660).
 
 ---
 
-![](powderblue/250626ubnjd1.jpg)  
- *Pulau Ubin Jetty, Jun 25*  
-Photo shared by James Dvc on [facebook](https://www.facebook.com/media/set?vanity=61561901480594&set=a.122159556872396716).
 
-![](powderblue/200622chgmn1.jpg)  
-*Changi, Jun 20*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10157477174738660&set=a.10157477171708660&type=3&theater).
 
 ---
 
-![](powderblue/100709tmmn.jpg)  
-*Tanah Merah, Jul 10*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4785563498/).
 
-![](powderblue/151031ecpmblks.JPG)  
-*East Coast-Marina Bay, Oct 15*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23472154324/in/album-72157607745985508/).
 
-![](powderblue/141223tusjll2m3.jpg)  
-Mating pair  *Tuas, Dec 14*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10152597733211295.1073741843.542241294&type=3).
 
 ---
 
-![](powderblue/151001blrmn1.jpg)  
-*Berlayar Creek, Oct 15*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/22435488336/).
 
-![](powderblue/251010blyll1.jpg)  
-*Berlayar Creek, Oct 25*  
-Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post).
 
 ---
 
-![](powderblue/150829lazlks.JPG)  
-*Seringat-Kias, Aug 15*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24074543586/in/album-72157625976409015/).
 
-![](powderblue/250909lazlks6.jpg)  
-*Seringat Kias mangrove lagoon, Sep 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post)
 
 ---
 
-![](powderblue/240211bigsisvc3.jpg)  
-*Big Sisters Island, Feb 24*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160224105272945&set=a.10160224174947945)
 
-![](powderblue/151129sjimn.jpg)  
-*St John's Island, Nov 15*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153304236688660.624178659&type=3).
 
 ---
 
-![](powderblue/251207hntml5.jpg)  
-*Pulau Hantu, Dec 25*  
-Photo shared by Mathias Luk on [facebook](https://www.facebook.com/media/set/?set=a.122193512480554640&type=3&ref=embed_post).
 
-![](powderblue/220504hnttyj2.jpg)  
-*Pulau Hantu, May 22*  
-Photo shared by Tang Yong Jen on [facebook](https://www.facebook.com/photo/?fbid=10159699275804223&set=a.10159699273919223).
 
-![](powderblue/081227smkmn.jpg)  
-Mating pair  *Pulau Semakau, Dec 08*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3170131170/).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Heavy jumper spider
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "heavy, jumper, spider, hyllus, diardi, salticidae, arachnid, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Salticidae
 genus: Hyllus
 species: diardi
@@ -21,6 +21,20 @@ subfamily: Salticinae
 tribe: Plexippini
 subtribe: Plexippina
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6405m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/arachnida/hyllus/110809smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11 Photo shared by Marcus Ng on  <a href="https://www.flickr.com/photos/budak/6024865882/in/photolist-abp1HY">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arachnida/hyllus/251213prprqo4.jpg"
+  caption: |
+    <p>Pasir Ris Park, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/arachnida/hyllus/090704ubnd6404m3.jpg"
 ---
  
 
@@ -54,11 +68,8 @@ it hunts on the move, attaching a silken line to a support before
 # Jumping babies:
 Male jumping spiders perform amusing rituals to entice a female to mate with them.
 
-![](hyllus/090704ubnd6404m3.jpg)  
-*Pulau Ubin, Jul 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](hyllus/090704ubnd6405m3.jpg)  
-*Pulau Ubin, Jul 09*
 
 # Heavy jumping spiders on Singapore shores**
 On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)  
@@ -69,13 +80,7 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 # Other sightings on Singapore shores
 
-![](hyllus/110809smkmn.jpg)  
-*Pulau Semakau, Aug 11*
-Photo shared by Marcus Ng on  [flickr](https://www.flickr.com/photos/budak/6024865882/in/photolist-abp1HY).
 
-![](hyllus/251213prprqo4.jpg)  
-*Pasir Ris Park, Dec 25*
-Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724).
 
 # Links
 

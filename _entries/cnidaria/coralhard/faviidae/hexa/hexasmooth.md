@@ -2,7 +2,7 @@
 title: "Smooth hexagonal corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, scleractinia, cnidaria, merulinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,53 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8981m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3.jpg"
+  caption: |
+    <p>Tuas, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/060712tusd4117m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntd9751m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050113sntg2820m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3.jpg"
+  caption: |
+    <p>Terumbu Raya,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/110731tryd8051m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks2.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/120507srplks1.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7175798439/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/160806tplmn1a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28724196201/in/album-72157672071908125/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8879m3.jpg"
+  caption: |
+    <p>Terumbu Salu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/100131slud8880m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexasmooth/050706sntg8979m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -63,29 +110,14 @@ here by large external features for convenience of display.
 **Sometimes confused with** [Neat
 hexa corals](../../siderastreidae/hexaneat.htm) (*Pseudosiderastrea tayamai*) which belong to Family Siderastreidae.
 
-![](hexasmooth/050706sntg8979m3.jpg)  
-*Sentosa, Jul
-05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](hexasmooth/050706sntg8981m3.jpg)*
 
-![](hexasmooth/050706sntg8981m3a.jpg)
 
 ---
 
-![](hexasmooth/060712tusd4117m3.jpg)  
-*Tuas, Jul
-06  
-![](hexasmooth/060712tusd4117m3b.jpg)*
 
-![](hexasmooth/050113sntd9751m3.jpg)  
-*Sentosa, Nov
-05  
-![](hexasmooth/050113sntg2820m3a.jpg)*
 
-![](hexasmooth/110731tryd8051m3.jpg)  
-*Terumbu Raya,
-Jul 11![](hexasmooth/110731tryd8051m3a.jpg)*
 
   
 *\*Species are difficult
@@ -110,16 +142,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hexasmooth/120507srplks2.JPG)  
-*Sentosa Serapong, May 12![](hexasmooth/120507srplks1.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/7175798439/in/album-72157627005920441/).
 
-![](hexasmooth/160806tplmn1.jpg)  
-*Terumbu Pempang Laut,
-Aug 16![](hexasmooth/160806tplmn1a.jpg)*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/28724196201/in/album-72157672071908125/).
 
-![](hexasmooth/100131slud8879m3.jpg)  
-*Terumbu Salu,
-Jan 10![](hexasmooth/100131slud8880m3.jpg)*
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

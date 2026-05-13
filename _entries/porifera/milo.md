@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
-layout: default
+layout: entry
 shape: encrusting
 title: 'Milo' sponge
 family: ""
@@ -12,6 +12,17 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3a.jpg"
+  caption: |
+    <p>Surface grainy but smooth, glossy.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7133m3.jpg"
+  caption: |
+    <p>Tiny hole, submerged.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/milo/150705skdd7132m3.jpg"
 ---
 
 
@@ -29,14 +40,9 @@ Oct 2016*
 **Where
 seen?** This encrusting sponge reminds of our favourite 'Milo dinosaur' beverage. It coats dead corals and rocks near the subtidal area on our Northern shores. We first started seeing this in 2012 and now encounter it commonly.  
  **Features:** Encrusting sheet often evenly coating an entire dead coral colony or rock. Surface uneven, crumbly and grainy looking, but feels smooth and is glossy. Holes small, few, spaced far apart, ringed with a pale edge. Colour warm reddish brown, sometimes paler or with a pinkish or purplish tinge.  
-![](milo/150705skdd7132m3.jpg)  
-*Pulau Sekudu, Jul 15* 
+{% include img-wrap-group.html items=page.page_images %}
 
-![](milo/150705skdd7132m3a.jpg)  
-Surface grainy but smooth, glossy.
 
-![](milo/150705skdd7133m3.jpg)  
-Tiny hole, submerged.
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience

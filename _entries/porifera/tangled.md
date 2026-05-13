@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tangled, sponge, callyspongia, samarensis, callyspongiidae, porifera, field,"
-layout: default
+layout: entry
 shape: branching
 title: Tangled sponge
 family: Callyspongiidae
@@ -16,6 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/080510smkd3114m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/080510smkd3115m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/070701hntd3035m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/070701hntd3035m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/110324tryrl1m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?aid=52164&id=109257872458947&fbid=172973539420713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/tangled/110522bbbrl5m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/tangled/091204pawd5238m3.jpg"
 ---
 
 
@@ -37,14 +63,9 @@ long, 1cm in diameter. A clump 'stems' flatttened, slender (0.5cm),
 long and sparsely branched, often in a tangle. Small regular holes
 along the length. Colours bluish to olive green and yellowish green.
 
-*![](tangled/091204pawd5238m3.jpg)  
-Pulau Pawai, Dec 09**![](tangled/091204pawd5238m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](tangled/080510smkd3114m3.jpg)  
-Pulau Semakau, May 08**![](tangled/080510smkd3115m3.jpg)*
 
-*![](tangled/070701hntd3035m3.jpg)  
-Pulau Hantu, Jul 07*![](tangled/070701hntd3035m3a.jpg)
 
 *\*Species are difficult
 to positively identify without close examination.   
@@ -69,13 +90,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tangled/110324tryrl1m3.jpg)  
-Terumbu Raya, Mar 11*Photo
-shared by Russel Low on [facebook](http://www.facebook.com/album.php?aid=52164&id=109257872458947&fbid=172973539420713).
 
-*![](tangled/110522bbbrl5m3.jpg)  
-Beting Bemban Besar, May 11*Photo
-shared by Russel Low on [facebook](http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947).
 
 ---
 

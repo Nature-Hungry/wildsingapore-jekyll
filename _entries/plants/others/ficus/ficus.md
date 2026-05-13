@@ -2,7 +2,7 @@
 title: "Figs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Moraceae
 genus: Ficus
 species: ""
@@ -16,6 +16,47 @@ class: Magnoliopsida
 order: Rosales
 tribe: Ficeae
 updated: Mar 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg"
+  caption: |
+    <p>The tall Jejawi fig next to Jejawi Tower.</p>
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg"
+  caption: |
+    <p>The rare <a href="crassiramea">Collared fig</a>.Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg"
+  caption: |
+    <p>Figs of the <a href="microcarpa">Jejawi</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg"
+  caption: |
+    <p>Small opening in a fig.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg"
+  caption: |
+    <p>Flowers inside the hollow of a fig.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -112,37 +153,18 @@ in Asia often become stuff of legend and are treated with respect.
 Figs also provide food and medicine.
   
 
-![](microcarpa/091005cjd2233m6l.jpg)  
-The tall Jejawi
-fig next to Jejawi Tower. *Chek Jawa, Oct 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](crassiramea/091213ubnd5794m6l.jpg)*The
-rare [Collared fig](crassiramea).**Pulau Ubin, Dec 09**
 
-![](microcarpa/091227kntd6471m3.jpg)  
-Figs of the [Jejawi](microcarpa)
 
-![](microcarpa/091227kntd6471m3a.jpg)  
-Small opening in a fig.
 
-![](microcarpa/091227kntd6471m3c.jpg)  
-Flowers inside the hollow of a fig.
 
 ---
 
 Birds in a figging Jejawi  
 
-![](microcarpa/100314cjd9907m3.jpg)  
-*Chek Jawa,
-Mar 10*
 
-![](microcarpa/100314cjd9925m3.jpg)  
-*Chek Jawa,
-Mar 10*
 
-![](microcarpa/100314cjd9947m3.jpg)  
-*Chek Jawa,
-Mar 10*
 
 ---
 
@@ -153,14 +175,6 @@ Mar 10*
   Singapore Science Centre.152 pp.
 - Corners,
   E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [links](../../../links) |
 [references](../../../references)

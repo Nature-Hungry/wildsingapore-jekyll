@@ -2,7 +2,7 @@
 title: Tiger-tailed and estuarine seahorses
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seahore, hippocampus, comes, kuda, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Syngnathidae
 genus: ""
 species: ""
@@ -17,6 +17,14 @@ superorder: Acanthomorpha
 order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda.gif"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -62,9 +70,8 @@ and World Wildlife Fund.
 
 ---
 
-![](comes.gif)  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](kuda.gif)
 
 ---
 

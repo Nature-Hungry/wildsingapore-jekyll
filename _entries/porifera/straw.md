@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "straw, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,"
-layout: default
+layout: entry
 shape: sausage
 title: Straw sponge
 family: ""
@@ -12,6 +12,35 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg"
+  caption: |
+    <p>Changi, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/070801kusd4860m3.jpg"
+  caption: |
+    <p>Kusu Island, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/050526cj6884m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/020101cjcpd3763m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/020101cjcpd3763m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/071002chgd6865m3.jpg"
+  caption: |
+    <p>Changi, Oct</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/071002chgd6865m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/120111chgs01918m3.jpg"
+  caption: |
+    <p>Changi, Jan</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/straw/120111chgs01918m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/straw/070604chgg0125m3.jpg"
 ---
 
 
@@ -38,31 +67,14 @@ white fingers. *Aka* aff. *maldiviensis* burrow into calcium
 carbonate structures with only 1-3 white fingers sticking out. *Leucosolenia* sp. form clusters of hollow white tubes often under rocks and in crevices.
 Some *Haliclona* species also form tiny hollow white tubes.
 
-*![](straw/070604chgg0125m3.jpg)  
-Changi, Jun
-07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](straw/070801kusd4860m3.jpg)  
-Kusu Island,
-Aug 07*
 
-![](straw/050526cj6884m3.jpg)  
-*Chek Jawa,
-May 05*
 
 ---
 
-![](straw/020101cjcpd3763m3.jpg)  
-*Chek Jawa,
-Jan 02 ![](straw/020101cjcpd3763m3a.jpg)*
 
-![](straw/071002chgd6865m3.jpg)  
-*Changi, Oct
-07 ![](straw/071002chgd6865m3a.jpg)*
 
-![](straw/120111chgs01918m3.jpg)  
-*Changi, Jan
-12 ![](straw/120111chgs01918m3a.jpg)*
 
   
 *\*Species are difficult

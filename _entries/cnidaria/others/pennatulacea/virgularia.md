@@ -2,7 +2,7 @@
 title: Slender sea pen
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slender, pen, seapen, virgularia, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Virgulariidae
 genus: Virgularia
 species: ""
@@ -16,6 +16,74 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg"
+  caption: |
+    <p>Changi, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120703chgd6507m6l.jpg"
+  caption: |
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/130808cyrd0783m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090722chgd7702m3.jpg"
+  caption: |
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060724chgg4886m3.jpg"
+  caption: |
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3.jpg"
+  caption: |
+    <p>Primary polyp partially retracted into the ground.</p>
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/050820bbg1699m3a.jpg"
+  caption: |
+    <p>Secondary polyps on the leaf-like structures.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg"
+  caption: |
+    <p>A pair of <a href="../../../crustacea/othercrust/anomura/porcellanidae/picta">Painted porcelain crabs</a> on the sea pen.</p>
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/060611cjd2726m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170723ubnlks3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155608394593158&set=a.10155608393858158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/121017tuslks.JPG"
+  caption: |
+    <p>Tuas, Oct 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8262257839/in/album-72157618623639729/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/230608tmftky4.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168433598135112&set=a.10168433602810112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/090821tmjk2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidall">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/170428ecpcnlks3.jpg"
+  caption: |
+    <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/150829lazlks.JPG"
+  caption: |
+    <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23732830069/in/album-72157625976409015/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/240113lazlks7.jpg"
+  caption: |
+    <p>Seringat-Kias, Jan 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161152160488158&set=a.10161152169768158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/120408sjilks7m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island , Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/101009smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Jan 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5066932216/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/100813smknml2.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158700245923158&set=a.10158700249983158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/201018smkslks1b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/virgularia/110815chgd9219m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,14 +139,9 @@ the stiff stick-like supporting axis may stick out of the fleshier
 'stem'. The 'stem' usually can only be seen on one side of the animal. On
 the other side, the leaf-like structures obscure the 'stem'.
 
-*![](virgularia/110815chgd9219m6l.jpg)  
-Changi, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](virgularia/120703chgd6507m6l.jpg)  
-Changi, Jul 12*
 
-*![](virgularia/130808cyrd0783m6l.jpg)  
-Cyrene Reef, Aug 13*
 
 **Pen pals:** Slender sea pens are
 recorded to harbour small creatures such as porcelain crabs, shrimps,
@@ -107,83 +170,37 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](virgularia/090722chgd7702m3.jpg)* *Changi, Jul 09*
 
-*![](virgularia/060724chgg4886m3.jpg)  
-Changi, Jul 06*
 
 ---
 
-*![](virgularia/050820bbg1699m3.jpg)*Primary
-polyp partially retracted   
-into the ground. *Beting Bronok, Aug 05*
 
-*![](virgularia/050820bbg1699m3a.jpg)*Secondary
-polyps on the leaf-like structures.
 
-*![](../../../crustacea/othercrust/anomura/porcellanidae/picta/050821bbg1897m3.jpg)*A
-pair of [Painted
-porcelain crabs](../../../crustacea/othercrust/anomura/porcellanidae/picta)   
-on the sea pen. *Beting Bronok, Aug 05*
 
 ---
 
-*![](virgularia/060611cjd2726m3.jpg)  
-Chek Jawa, Jun 06*
 
-*![](virgularia/170723ubnlks3.jpg)  
-Pulau Ubin, Jul 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155608394593158&set=a.10155608393858158&type=3&theater).
 
-*![](virgularia/121017tuslks.JPG)  
-Tuas, Oct 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8262257839/in/album-72157618623639729/).
 
   
 
 ---
 
-*![](virgularia/230608tmftky4.jpg)  
-Tanah Merah, Jun 23*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168433598135112&set=a.10168433602810112).
 
-*![](virgularia/090821tmjk2m3.jpg)  
-Tanah Merah, Aug 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-suicidall).
 
-*![](virgularia/170428ecpcnlks3.jpg)  
-East Coast PCN, Apr 17*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
 
 ---
 
-*![](virgularia/150829lazlks.JPG)*  
-*Seringat-Kias, Aug 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23732830069/in/album-72157625976409015/).
 
-*![](virgularia/240113lazlks7.jpg)*  
-*Seringat-Kias, Jan 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161152160488158&set=a.10161152169768158).
 
-*![](virgularia/120408sjilks7m3.jpg)*  
-*St. John's
-Island , Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islandl).
 
 ---
 
-*![](virgularia/101009smklks.JPG)*  
-*Pulau Semakau, Jan 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5066932216/in/album-72157607751329669/).
 
 ---
 
-*![](virgularia/100813smknml2.jpg)  
-Pulau Semakau, Aug 10*Photo
-shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul).
 
-*![](virgularia/201018smkslks1.jpg)  
-Pulau Semakau, Oct 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10158700245923158&set=a.10158700249983158).
 
-![](virgularia/201018smkslks1b.jpg)
 
 ---
 

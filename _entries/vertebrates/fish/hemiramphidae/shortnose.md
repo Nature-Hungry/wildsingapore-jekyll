@@ -2,7 +2,7 @@
 title: Quoy's halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "quoy, short, nose, halfbeak, half, beak, hemiramphidae, hyporhamphus, quoyi, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 47, 116]
 family: Hemiramphidae
 genus: Hyporhamphus
@@ -16,6 +16,26 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m6l.jpg"
+  caption: |
+    <p>Sisters Island, Dec 10 Human uses: It is marketted fresh and dried salted.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/160608cyrmn1.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/090607tmjk.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3602626248/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100709tmmn.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10Photo shared by Marcus Ng on <a href="http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose.htm">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/111029smkjp3m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 11Photo shared by Jerome Pang on <a href="https://www.facebook.com/media/set/?set=a.10150354042961523.353073.614016522&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/100527tmd3593m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,12 +74,7 @@ on our shores. Usually seen alone near coral rubble or reefs.
 can grow to 30cm long. Body cylindrical, silvery, sometimes bright blue.
 The lower jaw is not as elongated as those in other halfbeaks and
 has a reddish tip. Dorsal fin has black edges. Tail fin is forked.
-![](shortnose/100527tmd3593m3.jpg)  
-*Tanah Merah, May 10*
-![](shortnose/110602tmftd3544m6l.jpg)  
-*Sisters Island, Dec 10*
-**Human uses:** It is marketted fresh
-and dried salted.
+{% include img-wrap-group.html items=page.page_images %}
   
 *\*Species are difficult
 to positively identify without closer examination.   
@@ -83,18 +98,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](shortnose/160608cyrmn1.jpg)  
-*Cyrene Reef, Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3).
 
-![](shortnose/090607tmjk.jpg)  
-*Tanah Merah, Jun 09*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/3602626248/).
 
 ---
 
-![](shortnose/100709tmmn.jpg)  
-*Tanah Merah, Jul 10*Photo shared by Marcus Ng on [flickr](http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose.htm).
-![](shortnose/111029smkjp3m3.jpg)  
-*Pulau Semakau, Oct 11*Photo shared by Jerome Pang on [facebook](https://www.facebook.com/media/set/?set=a.10150354042961523.353073.614016522&type=3).
 
 ---
 

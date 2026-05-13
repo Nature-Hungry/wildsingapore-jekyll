@@ -2,7 +2,7 @@
 title: Yellow-lipped sea krait
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, snake, krait, laticauda, colubrina, elapidae, hydrophiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Elapidae
 genus: Laticauda
 species: colubrina
@@ -17,6 +17,63 @@ order: Squamata
 suborder: Serpentes
 subfamily: Laticaudinae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg"
+  caption: |
+    <p>Sisters Island, May 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3528315010/in/set-72157617928137339/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031029sntcd0003m3.jpg"
+  caption: |
+    <p>It has a paddle-shaped tail.</p>
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031124sised0009m3b.jpg"
+  caption: |
+    <p>Head and tail can look similar at first glance.</p>
+    <p>Sisters Island, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/031224sised0020m3.jpg"
+  caption: |
+    <p>Like other snakes, it sticks out its tongue to sense its surroundings Sisters Island, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/050918smkg2666m3.jpg"
+  caption: |
+    <p>These snakes are curious but will not bite if not provoked (that's my bootie!) Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240820kusmn3b.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10160432626088660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240114kusky1.jpg"
+  caption: |
+    <p>Kusu Island, Jan 24 About 40-45cm long.</p>
+    <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169133791030112&set=a.10169133787970112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/170429kustch1.jpg"
+  caption: |
+    <p>Kusu Island, Apr 17Photos shared by Toh Chay Hoon on  <a href="https://www.facebook.com/photo.php?fbid=10155318568473713&set=a.10155318560448713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/120505sisgl2m6l.jpg"
+  caption: |
+    <p>Sisters Island, May 12Photos shared by Geraldine Lee on  <a href="https://www.facebook.com/media/set/?set=a.114375788447.121136.611888447&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110123sislt1m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 11Photo shared by LIana Tang on <a href="http://www.facebook.com/liana.tang#!/photo.php?fbid=531670652868&set=a.531670528118.40795.227700992">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/260103bsisrqo1.jpg"
+  caption: |
+    <p>Big Sisters Island, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.918105007372907">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/110204sislks1m6l.JPG"
+  caption: |
+    <p>Sisters Island, Feb 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-2-little-sistersl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/240624sjiky6.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jun 24Photos shared by Kelvin Yong on  <a href="https://www.facebook.com/photo/?fbid=10169627197325112&set=a.10169627190815112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/201115tkklks6.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764484618158&set=a.10158764488663158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/100601slujk.JPG"
+  caption: |
+    <p>Pulau Salu, Jun 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4658670583/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/140617tblks1m3.JPG"
+  caption: |
+    <p>Terumbu Benban, Jun 14Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bembanl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/laticauda/090509sismn1m6l.jpg"
 ---
 
 
@@ -88,21 +145,9 @@ are listed as 'Endangered' on the Red List of threatened animals of
 Singapore. Like other creatures of the intertidal zone, they are affected
 by human activities such as reclamation and pollution.
 
-*![](laticauda/090509sismn1m6l.jpg)  
-Sisters Island, May 09*Photo shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/3528315010/in/set-72157617928137339/).
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](laticauda/031029sntcd0003m3.jpg)*It
-has a paddle-shaped tail. *Sentosa, Oct 03*
 
-*![](laticauda/031124sised0009m3b.jpg)*Head and tail can look similar  
-at first glance. *Sisters Island, Nov 03*
-*![](laticauda/031224sised0020m3.jpg)*Like other
-snakes, it sticks out its  
-tongue to sense its surroundings *Sisters Island, Dec 03*
-*![](laticauda/050918smkg2666m3.jpg)*These
-snakes are curious but will not   
-bite if not provoked (that's my bootie!) *Pulau Semakau, Sep 05*
 
 ---
 
@@ -121,43 +166,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](laticauda/240820kusmn3.jpg)  
-*Kusu Island, Aug 24*![](laticauda/240820kusmn3b.jpg)  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10160432626088660&type=3&ref=embed_post).
-*![](laticauda/240114kusky1.jpg)  
-Kusu Island, Jan 24*  
-About 40-45cm long. Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169133791030112&set=a.10169133787970112).  
-*![](laticauda/170429kustch1.jpg)  
-Kusu Island, Apr 17*Photos shared by Toh Chay Hoon on  [facebook](https://www.facebook.com/photo.php?fbid=10155318568473713&set=a.10155318560448713&type=3&theater).
 
 ---
 
-*![](laticauda/120505sisgl2m6l.jpg)* *Sisters Island, May 12*Photos shared by Geraldine Lee on  [facebook](https://www.facebook.com/media/set/?set=a.114375788447.121136.611888447&type=1).
 
-*![](laticauda/110123sislt1m3.jpg)Sisters Island, Jan 11*Photo shared by LIana Tang on [facebook](http://www.facebook.com/liana.tang#!/photo.php?fbid=531670652868&set=a.531670528118.40795.227700992).
 
 ---
 
-*![](laticauda/260103bsisrqo1.jpg)Big Sisters Island, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?vanity=100075202496320&set=a.918105007372907).
-*![](laticauda/110204sislks1m6l.JPG)  
-Sisters Island, Feb 11*  
-Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2011/02/lunar-new-year-day-2-little-sistersl).
 
 ---
 
-*![](laticauda/240624sjiky6.jpg)  
-St. John's Island, Jun 24*Photos shared by Kelvin Yong on  [facebook](https://www.facebook.com/photo/?fbid=10169627197325112&set=a.10169627190815112).
 
-*![](laticauda/201115tkklks6.jpg)Pulau Tekukor, Nov 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158764484618158&set=a.10158764488663158).
 
 ---
 
-*![](laticauda/100601slujk.JPG)  
-Pulau Salu, Jun 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4658670583/).
-*![](laticauda/140617tblks1m3.JPG)  
-Terumbu Benban, Jun 14*Photos shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/coral-bleaching-check-at-terumbu-bembanl).
 
 ---
 
@@ -222,5 +244,3 @@ Sea Krait @ Semakau 06Nov2009](http://vimeo.com/7518707) from [BeachBum](http://
   M., 1998. *A
   Guide to the Coral Reef Life of Singapore*. Singapore Science
   Centre. 128 pages.
-
-

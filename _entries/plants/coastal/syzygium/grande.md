@@ -2,7 +2,7 @@
 title: Jambu air laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea, apple, syzygium, grande, myrtaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 62, 109]
 family: Myrtaceae
 genus: Syzygium
@@ -17,6 +17,38 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2196m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2194m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2194m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9990m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9990m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9992m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/100314cjd9990m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9564m6l.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/110421jngd9568m6l.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/grande/091005cjd2200m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,37 +119,14 @@ apple with [Heritage
 Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79). It is found at Sentosa (Fort Siloso) with a girth
 of 5.6m and height of 29m.
 
-![](grande/091005cjd2200m6l.jpg)  
-*Chek Jawa,
-Oct 09  
-![](grande/091005cjd2196m3.jpg)  
-Chek Jawa,
-Oct 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](grande/091005cjd2194m3.jpg)  
-Chek
-Jawa, Oct 09  
-![](grande/091005cjd2194m3c.jpg)*
 
-*![](grande/100314cjd9990m3.jpg)  
-Chek Jawa,
-Mar 10  
-![](grande/100314cjd9990m3a.jpg)*
 
-*![](grande/100314cjd9992m3.jpg)  
-Chek Jawa,
-Mar 10  
-![](grande/100314cjd9990m3b.jpg)*
 
 ---
 
-*![](grande/110421jngd9564m6l.jpg)  
-Pulau
-Jong, Apr 11*
 
-*![](grande/110421jngd9568m6l.jpg)  
-Pulau
-Jong, Apr 11*
 
 ---
 

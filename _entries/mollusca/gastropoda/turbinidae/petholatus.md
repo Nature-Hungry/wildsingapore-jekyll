@@ -2,7 +2,7 @@
 title: Tapestry turban snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Turbinidae
 genus: Turbo
 species: petholatus
@@ -17,6 +17,17 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9869m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9905m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,12 +70,9 @@ a thin operculum made of a horn-like material. While the turban shell
 snail has a shell with more distinct whorls and a thick, chalky operculum.
 Here's more on [how to tell apart turban
 and top shell snails](../topturban.htm).
-![](petholatus/150830hntd9887m3.jpg)  
-*Pulau Hantu, Aug 15*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](petholatus/150830hntd9869m3.jpg)
 
-![](petholatus/150830hntd9905m3.jpg)
 
 **Human uses:** It is listed as Endangered on the Red List of threatened animals of Singapore. Although never abundant, it could be found up until the early 1970s.
 

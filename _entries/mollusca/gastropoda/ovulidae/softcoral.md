@@ -2,7 +2,7 @@
 title: Soft coral false cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "soft, coral, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ovulidae
 genus: ""
 species: identification*
@@ -16,6 +16,91 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
+  caption: |
+    <p>Closely resembles the soft coral.</p>
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg"
+  caption: |
+    <p>Often seen in a pair.</p>
+    <p>Pulau Sekudu, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080705bbd7117m3.jpg"
+  caption: |
+    <p>Chomped on parts of the soft coral.</p>
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg"
+  caption: |
+    <p>Chomped areas and eggs (?) nearby Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3.jpg"
+  caption: |
+    <p>Eggs nearby?</p>
+    <p>Chek Jawa, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/080412cjd1228m3a.jpg"
+  caption: |
+    <p>Eggs nearby?</p>
+    <p>Chek Jawa, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg"
+  caption: |
+    <p>Prionovolva sp.# Tuas, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0014m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0017m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1747m3.jpg"
+  caption: |
+    <p>Globovula sphaera# Pulau Hantu, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1588m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/121117hntd1590m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160706skdlks1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/130820skdlks.JPG"
+  caption: |
+    <p>Pulau Sekudu, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24771311302/in/album-72157607907125005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/101011chglks1m3.jpg"
+  caption: |
+    <p>Changi, Oct 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5077785815/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 2016Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/160705ecplks1b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/190704bbtch1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 2019Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, Jan 10Photo shared by Loh Kok Sheng on flickr.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/100104tmlks2.JPG"
+  caption: |
+    <p>Tanah Merah, Jan 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4250129518/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090820ecplkh2m3.jpg"
+  caption: |
+    <p>East Coast, Aug 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprises.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/200311blylks6.jpg"
+  caption: |
+    <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158041344648158&set=a.10158041342408158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240113lazjll1.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10160047506051295&set=a.10160047513161295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/210822ssisjll1.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158470461466295&set=a.10158470457921295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/240410cyrlks1.jpg"
+  caption: |
+    <p>Cyrene, Apr 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161287790993158&set=a.10161287797883158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,44 +148,24 @@ Several similar looking falsw cowrie species can be found in flowery
 soft corals including: *Prionovolva cf. brevis,* *Diminovula
 alabaster,* *Margovula marginata* and *Globovula sphaera*.
 
-*![](softcoral/110518bbd1755m3.jpg)*Closely resembles the soft coral. **Beting Bronok, May 11**
+{% include img-wrap-group.html items=page.page_images %}
 
-![](softcoral/120508skdd2250m3.jpg)  
-Often seen in a pair. *Pulau Sekudu,
-May 12*
 
-![](softcoral/080705bbd7117m3.jpg)  
-Chomped on parts of the soft coral. *Beting Bronok, Jul 08*
 
 ---
 
-![](softcoral/110518bbd1754.jpg)  
-Chomped areas and eggs (?) nearby **Beting Bronok, May 11**
 
-*![](softcoral/080412cjd1228m3.jpg)*Eggs nearby? **Chek Jawa, Apr 08**
 
-*![](softcoral/080412cjd1228m3a.jpg)*Eggs nearby? *Chek Jawa, Apr 08*
 
 ---
 
-![](softcoral/090824tusd0011m3a.jpg)  
-*Prionovolva* sp.*#  
-Tuas, Aug 09*
 
-![](softcoral/090824tusd0014m3.jpg)
 
-![](softcoral/090824tusd0017m3.jpg)
 
 ---
 
-![](softcoral/121117hntd1747m3.jpg)  
-**Globovula sphaera*#  
-Pulau Hantu,
-Nov 12*
 
-![](softcoral/121117hntd1588m3.jpg)
 
-![](softcoral/121117hntd1590m3.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -124,58 +189,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](softcoral/160706skdlks1.jpg) *Pulau Sekudu, Jul 16*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html).
 
-![](softcoral/130820skdlks.JPG) *Pulau Sekudu, Aug 13*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24771311302/in/album-72157607907125005/).
 
-![](softcoral/101011chglks1m3.jpg) *Changi, Oct 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/5077785815/).
 
 ---
 
-![](softcoral/160705ecplks1.jpg) *Beting Bronok, Jul 2016*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html).
 
-![](softcoral/160705ecplks1a.jpg)
 
-![](softcoral/160705ecplks1b.jpg)
 
 ---
 
-![](softcoral/190704bbtch1.jpg) *Beting Bronok, Jul 2019*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3).
 
 ---
 
-![](softcoral/100104tmlks.JPG) *Tanah Merah, Jan 10*Photo
-shared by Loh Kok Sheng on flickr.
 
-![](softcoral/100104tmlks2.JPG) *Tanah Merah, Jan 10*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4250129518/in/album-72157664044624940/).
 
-![](softcoral/090820ecplkh2m3.jpg) *East Coast, Aug 09*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprises.html).
 
 ---
 
-![](softcoral/200311blylks6.jpg) *Berlayar Creek, Mar 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158041344648158&set=a.10158041342408158&type=3&theater).
 
-![](softcoral/240113lazjll1.jpg) *Lazarus Island, Jan 24*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10160047506051295&set=a.10160047513161295).
 
-![](softcoral/210822ssisjll1.jpg) *Small Sisters Island, Aug 21*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158470461466295&set=a.10158470457921295).
 
 ---
 
-![](softcoral/240410cyrlks1.jpg) *Cyrene, Apr 24*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161287790993158&set=a.10161287797883158).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: encrusting
 title: Lumpy green sponge
 family: Chalinidae
@@ -16,6 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060712tusd4053m3.jpg"
+  caption: |
+    <p>Tuas, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/031124tuscd0048m3.jpg"
+  caption: |
+    <p>Tuas, Nov 03</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg"
 ---
 
 
@@ -45,22 +71,13 @@ is light green, almost flourescent forming cushions with slightly
 raised large holes. It is sometimes seen on reefs on our Southern
 shores.
 
-![](lumpygreen/060611cjd2766m3.jpg)  
- *Chek Jawa, Jun 06*![](lumpygreen/060611cjd2766m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lumpygreen/060429skdd1401m3.jpg)  
- *Pulau Sekudu, Apr 06*![](lumpygreen/060429skdd1401m3a.jpg)
 
-![](lumpygreen/060723skdg6764m3.jpg)  
- *Pulau Sekudu, Jul 06*![](lumpygreen/060723skdg6764m3a.jpg)
 
 ---
 
-![](lumpygreen/060712tusd4053m3.jpg)  
- *Tuas, Jul 06*
 
-![](lumpygreen/031124tuscd0048m3.jpg)  
- *Tuas, Nov 03*
 
   
 *\*Species are difficult

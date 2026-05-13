@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "daisy, sponge, coelocarteria, singaporensis, isodictyidae, coelosphoeridae,"
-layout: default
+layout: entry
 shape: branching
 title: Daisy sponge
 family: Isodictyidae
@@ -16,6 +16,66 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Poecilosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/080621labd6086m3e.jpg"
+  caption: |
+    <p>Creeping 'rhizomes' sometimes</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/080621labd6086m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/060227labg5102m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/060227labg5102m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/050112smkd9696m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/050112smkd9696m3b.jpg"
+  caption: |
+    <p>Sometimes covered with tiny <a href="../worm/polychaeta/spionidae.htm">Spinoid worms</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/110814smkd9042m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/110814smkd9042m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/050725labg0266m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/050725labg0266m3a.jpg"
+  caption: |
+    <p>This is possibly Oceanapia sp.</p>
+    <p>and NOT a Daisy sponge</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/060716sisd4719m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/060716sisd4719m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100629pdrd7600m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100629pdrd7600m3a.jpg"
+  caption: |
+    <p>Fingers sticking up from horizontal stem.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100530tbkd4340m6l.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100601slud4719m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/091231biod7121m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100130brkd8524m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/100131slud8828m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/coelocarteria/080621labd6086m3e.jpg"
 ---
 
 
@@ -54,34 +114,15 @@ Another sponge species of a different family (*Oceanapia* sp.,
 Family Phloeodictyidae) can look very similar and the two kinds of
 sponges are difficult to tell apart in the field.   
 
-![](coelocarteria/080621labd6086m3e.jpg)  
-Creeping 'rhizomes' sometimes  
-extending from the sponge. *Labrador, Jun 08*![](coelocarteria/080621labd6086m3b.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](coelocarteria/060227labg5102m3.jpg)  
-*Labrador, Feb 06*![](coelocarteria/060227labg5102m3b.jpg)
 
-![](coelocarteria/050112smkd9696m3.jpg)  
-*Pulau Semakau, Jan 05*![](coelocarteria/050112smkd9696m3b.jpg)  
-Sometimes covered with tiny [Spinoid
-worms](../worm/polychaeta/spionidae.htm).
 
-![](coelocarteria/110814smkd9042m3.jpg)  
-*Pulau Semakau, Aug 11*![](coelocarteria/110814smkd9042m3a.jpg)
 
 ---
 
-![](coelocarteria/050725labg0266m3.jpg)  
- *Labrador, Jul 05*![](coelocarteria/050725labg0266m3a.jpg)  
-This is possibly *Oceanapia* sp.  
-and NOT a Daisy sponge
 
-![](coelocarteria/060716sisd4719m3.jpg)  
-*Sisters Island, Jul 06*![](coelocarteria/060716sisd4719m3a.jpg)
 
-![](coelocarteria/100629pdrd7600m3.jpg)  
-*Terumbu Pempang Darat, Jun 10*![](coelocarteria/100629pdrd7600m3a.jpg)  
-Fingers sticking up from horizontal stem.
 
   
 *\*Sponge
@@ -107,22 +148,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](coelocarteria/100530tbkd4340m6l.jpg)  
-*Pulau Berkas, May 10*
 
-![](coelocarteria/100601slud4719m3.jpg)  
-*Pulau Salu, Jun 10*
 
 ---
 
-![](coelocarteria/091231biod7121m3.jpg)  
-*Pulau Biola, Dec 09*
 
-![](coelocarteria/100130brkd8524m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](coelocarteria/100131slud8828m3.jpg)  
-*Terumbu Salu, Jan 10*
 
 ---
 

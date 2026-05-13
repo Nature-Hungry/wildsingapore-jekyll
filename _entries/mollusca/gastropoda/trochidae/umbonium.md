@@ -2,7 +2,7 @@
 title: Button snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "button, shell, snail, umbonium, vestiarium, trochidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Trochidae
 genus: Umbonium
 species: vestiarium
@@ -17,6 +17,37 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Umboniinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg"
+  caption: |
+    <p>East Coast Park, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/070218tmd8071m3.jpg"
+  caption: |
+    <p>Shell opening and operculum.</p>
+    <p>Tanah Merah, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/111028chged2810.jpg"
+  caption: |
+    <p>Tiny button snails leaping away from a hunting moon snail.</p>
+    <p>Changi East, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050427tmg5159m3a.jpg"
+  caption: |
+    <p>Button snails leaping away from a <a href="../naticidae/naticidae.htm">Moon snail</a> Tanah Merah, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/080706chg7378m3.jpg"
+  caption: |
+    <p>They can float, forming 'rafts'.</p>
+    <p>Changi, Jul 08 What does it eat?</p>
+    <p>More like bivalves rather than snails, button snails lie just beneath the sand and filter feed for detritus and plankton.</p>
+    <p>Like bivalves, a button snail has an inhalant siphon fringed with short tentacles which is used to suck in water, and an exhalant siphon which expels the water.</p>
+    <p>When there isn't much food in the water, it may use its right tentacle and long foot to gather edible bits on the sand surface.</p>
+- url: "https://live.staticflickr.com/7804/47172544461_f9f2f9bd28_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/47172544461/ "Button snails (Umbonium vestiarium)") Human uses: Sadly, these beautiful tiny animals are collected, killed and their shells sold as cheap curios and for handicrafts.</p>
+    <p>In the Philippines they are commonly gathered as food.</p>
+    <p>Vendors traditionally provide the buyer with an aromatic thorn from the Acacia to pry the meat out.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/101206cyrlks2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/cyrene-reef-with-teamseagrass.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0128m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,10 +96,8 @@ of the mantle fringed with long tentacles. Foot long,
 leaf-like. Tiny eyes on long stalks, long tentacles finely banded,
 with two tubular siphons, one with fringes.
 
-*![](umbonium/120817nsrccd0128m6l.jpg)* *East Coast Park, Aug 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](umbonium/070218tmd8071m3.jpg)  
-Shell opening and operculum. *Tanah Merah, Feb 07*
 
 **Escaping Buttons:** The long mobile foot can be used to burrow rapidly into wet loose
 fine sand (the snail doesn't do so well in compact dry sand). The
@@ -84,20 +113,6 @@ After a while, the snails will sink one by one, and burrow into the
 sand. Could this be a way for them to escape predatory snails and
 other animals that can't swim? It may also allow them to disperse
 to new places quickly?
-*![](umbonium/111028chged2810.jpg)*Tiny button snails leaping away  
-from a hunting moon snail.  
-*Changi East, Oct 11*
-![](../naticidae/didyma/050427tmg5159m3a.jpg)  
-Button snails leaping away from a [Moon
-snail](../naticidae/naticidae.htm) *Tanah Merah, Apr 05*
-*![](umbonium/080706chg7378m3.jpg)*They can float, forming 'rafts'. *Changi, Jul 08*
-**What does it eat?** More like bivalves
-rather than snails, button snails lie just beneath the sand and filter
-feed for detritus and plankton. Like bivalves, a button snail has
-an inhalant siphon fringed with short tentacles which is used to suck
-in water, and an exhalant siphon which expels the water. When there
-isn't much food in the water, it may use its right tentacle and long
-foot to gather edible bits on the sand surface.  
   
 **Role in the ecosystem:** Button
 snails appear to be among the favourite prey of [Moon
@@ -105,13 +120,6 @@ snails](../naticidae/naticidae.htm). [Olive snails](../olividae/olividaenoid.htm
 snack on them. Empty buttons shells are favourite homes of tiny [hermit
 crabs](../../../crustacea/othercrust/anomura/hermit/hermit.htm). So please resist the temptation of taking home even an
 empty button snail. A homeless hermit crab might need it!
-[![Button snails (Umbonium vestiarium)](https://live.staticflickr.com/7804/47172544461_f9f2f9bd28_z.jpg)](https://www.flickr.com/photos/wildsingapore/47172544461/ "Button snails (Umbonium vestiarium)")
-**Human
-uses:** Sadly, these beautiful tiny animals are collected,
-killed and their shells sold as cheap curios and for handicrafts.
-In the Philippines they are commonly gathered as food. Vendors traditionally
-provide the buyer with an aromatic thorn from the Acacia to pry the
-meat out.  
   
 **Status and threats:** Button snails
 were highly abundant in Singapore in the 1960's, but populations have
@@ -137,10 +145,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](umbonium/101206cyrlks2m3.jpg)  
-Cyrene Reef, Dec 10*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/12/cyrene-reef-with-teamseagrass.html).
 
 ---
 

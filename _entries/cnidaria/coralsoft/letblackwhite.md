@@ -2,7 +2,7 @@
 title: "Black-and-white leathery soft coral "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cladiella, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Alcyoniidae
 genus: Cladiella
 species: ""
@@ -15,6 +15,109 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3a.jpg"
+  caption: |
+    <p>No siphonozooids, smooth surface between feathery autozooid polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3862m3b.jpg"
+  caption: |
+    <p>Polyps are brown with a short body column and 8 branched tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5997m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5999m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/120124sisd5999m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/040522kusad0079m3.jpg"
+  caption: |
+    <p>Kusu Island, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/040522kusad0079m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100715tbtd9020m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/070518tkrg9329m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/220618tmftlks19.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827263158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091231biod7093m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091231biod7093m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100613sngd5539m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100613sngd5539m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100810sngd9994m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100810sngd9994m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060714rlhg6636m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/060714rlhg6636m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091204pawd5341m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091204pawd5342m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091205sudd5605m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/091205sudd5605m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8674m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100130brkd8673m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100811slud0099m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100811slud0099m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/100530tbkd4393m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy.</p>
+    <p>264 pp</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letblackwhite/111127sisd3863m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -71,37 +174,19 @@ include *Sinularia* and *Klyxum* species.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](letblackwhite/111127sisd3863m3.jpg)  
-Sisters Island, Nov 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](letblackwhite/111127sisd3862m3a.jpg)*No siphonozooids, smooth surface  
-between feathery autozooid polyps.
 
-*![](letblackwhite/111127sisd3862m3b.jpg)*Polyps are brown with a short body  
-column and 8 branched tentacles.
 
 ---
 
-*![](letblackwhite/120124sisd5997m3.jpg)  
-Sisters Island, Jan 12*
 
-*![](letblackwhite/120124sisd5999m3a.jpg)*
 
-*![](letblackwhite/120124sisd5999m3b.jpg)*
 
 ---
 
-*![](letblackwhite/040522kusad0079m3.jpg)  
-Kusu Island, Apr 05   
-![](letblackwhite/040522kusad0079m3b.jpg)*
 
-*![](letblackwhite/100715tbtd9020m3.jpg)  
-Terumbu Pempang Tengah, Jul 10  
-![](letblackwhite/100715tbtd9020m3a.jpg)*
 
-*![](letblackwhite/070518tkrg9329m3.jpg)  
-Pulau Tekukor, May 07  
-![](letblackwhite/070518tkrg9329m3b.jpg)*
 
   
 *\*ID needs confirmation.
@@ -126,55 +211,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](letblackwhite/220618tmftlks19.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943827263158&set=a.10159943838013158).
 
 ---
 
-*![](letblackwhite/091231biod7093m3.jpg)  
-Pulau Biola, Dec 09  
-![](letblackwhite/091231biod7093m3a.jpg)*
 
-*![](letblackwhite/100613sngd5539m3.jpg)  
-Pulau Senang, Jun 10  
-![](letblackwhite/100613sngd5539m3a.jpg)*
 
-*![](letblackwhite/100810sngd9994m3.jpg)  
-Pulau Senang, Aug 10  
-![](letblackwhite/100810sngd9994m3a.jpg)*
 
 ---
 
-*![](letblackwhite/060714rlhg6636m3.jpg)  
-Raffles Lighthouse, Jul 06  
-![](letblackwhite/060714rlhg6636m3b.jpg)*
 
-*![](letblackwhite/091204pawd5341m3.jpg)  
-Pulau Pawai, Dec 09  
-![](letblackwhite/091204pawd5342m3.jpg)*
 
-*![](letblackwhite/091205sudd5605m3.jpg)  
-Pulau Pawai, Dec 09  
-![](letblackwhite/091205sudd5605m3a.jpg)*
 
 ---
 
-*![](letblackwhite/100130brkd8674m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](letblackwhite/100130brkd8673m3b.jpg)*
 
-*![](letblackwhite/100130brkd8673m3.jpg)*
 
 ---
 
-*![](letblackwhite/100811slud0099m3.jpg)  
-Pulau Salu, Aug 10  
-![](letblackwhite/100811slud0099m3c.jpg)*
 
-*![](letblackwhite/100530tbkd4393m3.jpg)  
-Pulau Berkas, May 10  
-![](letblackwhite/100530tbkd4393m3a.jpg)*
 
 ---
 
@@ -212,9 +267,6 @@ Cladiella pachyclados*
   Bulletin of Zoology 58(1) Pp. 1-13.
 - Fabricius,
   Katharina and Philip Alderslade, 2001. *Soft
-  Corals and Sea Fans![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Australian Institute of Marine Science and the Museum and Art
-  Gallery of the Northern Territoriy. 264 pp
 
 [links](../../links.htm)
 | [references](../../references.htm)

@@ -2,7 +2,7 @@
 title: Branching pore coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Poritidae
 genus: Porites
 species: ""
@@ -15,6 +15,93 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/060527sjig6062m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100201hntd9138m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100201hntd9139m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050820bbd5737m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050820bbg1779m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070701hntd3048m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070701hntd3049m3a.jpg"
+  caption: |
+    <p>With a tiny clam wedged among the branches.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5304m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5305m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5306m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5307m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5241m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/091204pawd5241m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8526m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8526m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100130brkd8546m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100131slud8833m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100613sngd5424m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100613sngd5424m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/100811slud0140m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/060527sjid2124m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,27 +156,14 @@ convenience of display, all branching species that resemble Montipora
 are featured on the [Montipora
 page](../acroporidae/monridged).
 
-![](porbranch/060527sjid2124m3.jpg)  
-*St. John's
-Island, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](porbranch/060527sjig6062m3c.jpg)
 
-![](porbranch/060527sjig6062m3a.jpg)
 
 ---
 
-![](porbranch/100201hntd9138m3.jpg)  
-*Pulau Hantu, Jan 10*![](porbranch/100201hntd9139m3.jpg)
 
-![](porbranch/050820bbd5737m3.jpg)  
-*Beting Bronok,
-Aug 05  
-![](porbranch/050820bbg1779m3b.jpg)*
 
-![](porbranch/070701hntd3048m3.jpg)  
-*Pulau Hantu, Jul 07*![](porbranch/070701hntd3049m3a.jpg)  
-With a tiny clam wedged among the branches.
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -113,60 +187,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](porbranch/091204pawd5304m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](porbranch/091204pawd5305m3.jpg)*
 
-![](porbranch/091204pawd5306m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](porbranch/091204pawd5307m3a.jpg)*
 
-![](porbranch/091204pawd5241m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](porbranch/091204pawd5241m3a.jpg)*
 
 ---
 
-![](porbranch/100130brkd8546m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](porbranch/100130brkd8546m3a.jpg)*
 
-*![](porbranch/100131slud8833m3.jpg)  
-*Terumbu Salu,
-Jan 10  
-![](porbranch/100131slud8833m3a.jpg)**
 
-*![](porbranch/100130brkd8526m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](porbranch/100130brkd8526m3a.jpg)**
 
 ---
 
-![](porbranch/100130brkd8546m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](porbranch/100130brkd8546m3a.jpg)*
 
-*![](porbranch/100131slud8833m3.jpg)  
-*Terumbu Salu,
-Jan 10  
-![](porbranch/100131slud8833m3a.jpg)**
 
-**![](porbranch/100613sngd5424m3.jpg)  
-*Pulau Senang,
-Jun 10  
-*![](porbranch/100613sngd5424m3a.jpg)****
 
 ---
 
-**![](porbranch/100811slud0140m3.jpg)  
-*Pulau Salu,
-Aug 10***
 
 [links](../../../links)
 | [references](../../../references)

@@ -2,7 +2,7 @@
 title: Extraordinary sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "extraordinary, seahare, hare, aplysia, extraordinaria, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: extraordinaria
@@ -18,6 +18,80 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg"
+  caption: |
+    <p>Kusu Island, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3a.jpg"
+  caption: |
+    <p>Large, flappy tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080102.jpg"
+  caption: |
+    <p>Half buried in soft sediments.</p>
+    <p>Pulau Semakau, Feb 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkso2080101.jpg"
+  caption: |
+    <p>Releasing purple ink.</p>
+    <p>Pulau Semakau, Feb 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg"
+  caption: |
+    <p>Kusu Island, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/good-friday-cyrene-reef.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3b.jpg"
+  caption: |
+    <p>A mating pair with one nestled between the parapodia of another!</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jngjk.JPG"
+  caption: |
+    <p>One sea hare nestled in between the parapodia of another.</p>
+    <p>Pulau Jong, May 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4614125543/">flickr</a>.</p>
+- url: "https://live.staticflickr.com/1485/24882718476_c86bb964c3_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24882718476/ "Extraordinary sea hare (Aplysia extraordinaria)")</p>
+- url: "https://live.staticflickr.com/5833/23917769951_a95c9aed46_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/23917769951/ "Extraordinary sea hare (Aplysia extraordinaria)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8561m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090706tmftd6569m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/090808tmd8563m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/130211sjilks.JPG"
+  caption: |
+    <p>St John's Island, Feb 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8568854840/in/album-72157607929563969/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100529kusjk4m3.jpg"
+  caption: |
+    <p>Kusu Island, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100529-kusu-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/190123lazay1.jpg"
+  caption: |
+    <p>Lazarus, Jan 19Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10215109770189891&set=a.10215109764669753&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100517jnglks1m3.jpg"
+  caption: |
+    <p>Pulau Jong, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/new-star-find-at-pulau-jong.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210113smkwjll4.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jan 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157988341391295&set=a.10157988367216295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/240412tbtl2.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161177264144264&set=a.10161177255284264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/210811trylks1.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159386713303158&set=a.10159386714328158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/160208smkslks.JPG"
+  caption: |
+    <p>Pulau Semakau South, Feb 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/110422tpljk1m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/050410kusg4346m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,52 +138,25 @@ by flapping its parapodia.
 **What does it eat?** It is believed
 to eat seagrass.
 
-![](extraordinaria/050410kusg4346m3.jpg)  
-*Kusu Island, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](extraordinaria/050410kusg4346m3b.jpg)
 
-![](extraordinaria/050410kusg4346m3a.jpg)  
-Large, flappy tentacles.
 
 ---
 
-![](extraordinaria/160208smkso2080102.jpg)  
-Half buried in soft sediments. *Pulau Semakau, Feb 16*
 
-![](extraordinaria/160208smkso2080101.jpg)  
-Releasing purple ink. *Pulau Semakau, Feb 16*
 
-![](extraordinaria/060301kusg5370m3.jpg)  
-*Kusu Island, Mar 06*
 
 ---
 
-![](extraordinaria/100402cyrtch2m3.jpg)  
-*Cyrene Reef, Apr 10*  
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/good-friday-cyrene-reef.html).
 
-![](extraordinaria/100402cyrtch2m3b.jpg)  
-A mating pair with one nestled between the  
-parapodia of another!
 
-![](extraordinaria/100517jngjk.JPG)  
-One sea hare nestled
-in   
-between
-the
-parapodia of another.  
-*Pulau Jong, May 10*  
-Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4614125543/).
 
 ---
 
-[![Extraordinary sea hare (Aplysia extraordinaria)](https://live.staticflickr.com/1485/24882718476_c86bb964c3_z.jpg)](https://www.flickr.com/photos/wildsingapore/24882718476/ "Extraordinary sea hare (Aplysia extraordinaria)")
 
 ---
 
-[![Extraordinary sea hare (Aplysia extraordinaria)](https://live.staticflickr.com/5833/23917769951_a95c9aed46_z.jpg)](https://www.flickr.com/photos/wildsingapore/23917769951/ "Extraordinary sea hare (Aplysia extraordinaria)")
 
 ---
 
@@ -128,51 +175,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](extraordinaria/090808tmd8561m3.jpg)  
-*Tanah Merah, Aug 09*
 
-![](extraordinaria/090706tmftd6569m3.jpg)  
-*Tanah Merah, Jul 09*
 
-![](extraordinaria/090808tmd8563m3.jpg)  
-*Tanah Merah, Aug 09*
 
 ---
 
-![](extraordinaria/130211sjilks.JPG)  
- *St John's Island, Feb 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8568854840/in/album-72157607929563969/).
 
-![](extraordinaria/100529kusjk4m3.jpg)  
-*Kusu Island,
-May 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-island.html).
 
-![](extraordinaria/190123lazay1.jpg)  
- *Lazarus, Jan 19*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10215109770189891&set=a.10215109764669753&type=3&theater).
 
 ---
 
-![](extraordinaria/100517jnglks1m3.jpg)  
- *Pulau Jong, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/new-star-find-at-pulau-jong.html).
 
 ---
 
-![](extraordinaria/210113smkwjll4.jpg) *Pulau Semakau (West), Jan 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10157988341391295&set=a.10157988367216295).
 
-![](extraordinaria/240412tbtl2.jpg) *Terumbu Bemban, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161177264144264&set=a.10161177255284264).
 
-![](extraordinaria/210811trylks1.jpg) *Terumbu Raya, Aug 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159386713303158&set=a.10159386714328158).
 
 ---
 
-![](extraordinaria/160208smkslks.JPG)  
-*Pulau Semakau South, Feb 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html).
 
-![](extraordinaria/110422tpljk1m3.jpg) *Terumbu Pempang Laut, Apr 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Vermilion flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "little, ruby, red, flat, worm, flatworm, phrikoceros baibaiye,  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pseudocerotidae
 genus: Phrikoceros
 species: baibaiye
@@ -15,6 +15,56 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg"
+  caption: |
+    <p>Pseudotentacles are squarish, ruffled on the sides, with white tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/251107chgmn2.jpg"
+  caption: |
+    <p>Changi Point, Nov 25Shared by <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">Marcus Ng</a> on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/101009cjnml1m3b.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/140104cjlks1m3.JPG"
+  caption: |
+    <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/160209cyrlks3.JPG"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/120819cyrlks1m3.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 12Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-everl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrjt2.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 18\Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10156556564908119&set=a.10156556564788119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyrmn3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 18Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155771089338660&set=a.10155769572673660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/180812cyray1.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213948131469649&set=a.10211347438093940&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200627cyrlks8.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405645233158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/200918cyrjll3.jpg"
+  caption: |
+    <p>Cyrene Reef, Sep 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157733348616295&set=a.10157733347506295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/110814smklks8m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100813smknml1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul">her blog</a>.</p>
+- url: "https://farm5.staticflickr.com/4117/4889540764_a091ca0882.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/budak/4889540764/ "MVI_3682")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/100626cyrd7024m3.jpg"
 ---
 
 
@@ -49,14 +99,9 @@ from one crevice to another among coral rubble. They may even swim
 for a short distance with vigorous ripples of their body edges. When
 they are in season, some may be seen stranded on sand. Please watch
 your step!
-![](baibaiye/100626cyrd7024m3.jpg)  
- *Cyrene Reef, Jun 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](baibaiye/050709skdg9312m3.jpg)  
- *Pulau Sekudu, Jul 05*
 
-![](baibaiye/050709skdg9312m3a.jpg)  
-Pseudotentacles are squarish, ruffled on the sides, with white tips.
 
 ---
 
@@ -74,61 +119,31 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](baibaiye/251107chgmn2.jpg)  
- *Changi Point, Nov 25*Shared by [Marcus Ng](https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post) on facebook.
 
 ---
 
-![](baibaiye/101009cjnml1m3b.jpg)  
- *Chek Jawa, Oct 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawal).
 
-![](baibaiye/140104cjlks1m3.JPG)  
- *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ---
 
-![](baibaiye/160209cyrlks3.JPG)  
- *Cyrene Reef, Feb 16*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reefl).
 
-![](baibaiye/120819cyrlks1m3.JPG)  
- *Cyrene Reef, Aug 12*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/cyrene-reef-is-stunning-as-everl).
 
 ---
 
-![](baibaiye/180812cyrjt2.jpg)  
- *Cyrene Reef, Aug 18\**Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10156556564908119&set=a.10156556564788119&type=3&theater).
 
-![](baibaiye/180812cyrmn3.jpg)  
- *Cyrene Reef, Aug 18*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10155771089338660&set=a.10155769572673660&type=3&theater).
 
 ---
 
-![](baibaiye/180812cyray1.jpg)  
- *Cyrene Reef, Aug 18*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10213948131469649&set=a.10211347438093940&type=3&theater).
 
-![](baibaiye/200627cyrlks8.jpg)  
- *Cyrene Reef, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158405645233158&set=a.10158405653668158&type=3&theater).
 
-![](baibaiye/200918cyrjll3.jpg)  
- *Cyrene Reef, Sep 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157733348616295&set=a.10157733347506295).
 
 ---
 
-![](baibaiye/110814smklks8m3.jpg)  
- *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
-![](baibaiye/100813smknml1m3.jpg)  
- *Pulau Semakau, Aug 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/strolling-semakaul).
 
 ---
 
 Pulau Semakau, Aug 10, shared by Marcus Ng  
-[![MVI_3682](https://farm5.staticflickr.com/4117/4889540764_a091ca0882.jpg)](https://www.flickr.com/photos/budak/4889540764/ "MVI_3682")
 
 ---
 
@@ -147,5 +162,3 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
   and Lester Cannon. 2003. *Marine
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
-
-

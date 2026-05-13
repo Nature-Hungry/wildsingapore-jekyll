@@ -2,8 +2,41 @@
 title: "Thumbs-up sea squirt (Polycarpa) "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "solitary, ascidian, squirt, seasquirt, polycarpa, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg"
+  caption: |
+    <p>They settle near the low water mark at the base of rocks.</p>
+    <p>Changi, Jun 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/031223tused0036m3.jpg"
+  caption: |
+    <p>Tuas, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/031223tused0036m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/091022tmd3097m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/030716cjd0055m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/110730tmftd7615m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/170712prptsc1.jpg"
+  caption: |
+    <p>Pasir Ris, Jul 17Photo shared by Teo Say Chong on <a href="https://www.facebook.com/saychong/media_set?set=a.10213836666413137.1073741928.1301958774&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/200210blyhud1.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Nurulhuda Abdul Rahim on <a href="https://www.facebook.com/photo.php?fbid=2859932334050630&set=pcb.2859934674050396&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/210401sntjk2.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/51083786093/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/240113lazljj1.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24Photo shared by Lam Jiajun on <a href="https://www.facebook.com/photo/?fbid=10231235123212067&set=a.10231235161293019">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/020630chgcpd1380m3.jpg"
 ---
  
 
@@ -37,14 +70,9 @@ It has bands of muscles along its body. When these muscles constrict,
 water squirts out. That's why it is called a sea squirt. It does this
 when disturbed, or to get rid of wastes.
 
-![](polycarpa/020630chgcpd1380m3.jpg)  
-They settle near the low water mark  
-at the base of rocks. *Changi, Jun 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](polycarpa/031223tused0036m3.jpg)  
-*Tuas, Dec 03*
 
-![](polycarpa/031223tused0036m3a.jpg)
 
   
 *\***Species
@@ -70,32 +98,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](polycarpa/091022tmd3097m3.jpg)  
-*Tanah
-Merah, Oct 09*
 
-![](polycarpa/030716cjd0055m3.jpg)  
-*Chek Jawa, Jul 03*
 
-![](polycarpa/110730tmftd7615m3.jpg)  
-*Tanah
-Merah, Jul 11*
 
 ---
 
-![](polycarpa/170712prptsc1.jpg)  
-*Pasir Ris, Jul 17*Photo shared by Teo Say Chong on [facebook](https://www.facebook.com/saychong/media_set?set=a.10213836666413137.1073741928.1301958774&type=3).
 
-![](polycarpa/200210blyhud1.jpg)  
-*Berlayar Creek, Feb 20*Photo shared by Nurulhuda Abdul Rahim on [facebook](https://www.facebook.com/photo.php?fbid=2859932334050630&set=pcb.2859934674050396&type=3&theater).
 
-![](polycarpa/210401sntjk2.jpg)  
-*Sentosa Tg Rimau, Apr 21*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/51083786093/).
 
 ---
 
-![](polycarpa/240113lazljj1.jpg)  
-*Lazarus Island, Jan 24*Photo shared by Lam Jiajun on [facebook](https://www.facebook.com/photo/?fbid=10231235123212067&set=a.10231235161293019).
 
 ---
 

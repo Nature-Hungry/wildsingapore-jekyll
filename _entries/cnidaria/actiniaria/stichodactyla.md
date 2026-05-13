@@ -2,12 +2,56 @@
 title: "Carpet "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snaky, anemone, stichodactyla, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: How to tell them apart?
 genus: ""
 species: ""
 attributes: []
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050724bbd5311m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9387m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9387m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/120621cyrd6085m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050724bbd5311m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -42,11 +86,9 @@ and nature of the tentacles, and the body column.
 
 ---
 
-![](haddoni/050724bbd5311m3.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](haddoni/050724bbd5311m3a.jpg)
 
-![](haddoni/050623cjg8256m3a.jpg)
 
 [**Haddon's
 carpet anemone**](haddoni.htm)   
@@ -66,11 +108,8 @@ column pale, tiny bumps of the same colour, usually not visible.
 
 ---
 
-![](tapetum/080720cjd7934m3.jpg)
 
-![](tapetum/080720cjd7934m3c.jpg)
 
-![](tapetum/080720cjd7934m3b.jpg)
 
 [**Mini
 carpet anemone**](tapetum.htm)   
@@ -89,11 +128,8 @@ column smooth, no visible bumps.
 
 ---
 
-![](gigantea/140713tsmkd7155m3.jpg)
 
-![](gigantea/140713tsmkd7155m3c.jpg)
 
-![](gigantea/140713tsmkd7155m3a.jpg)
 
 [**Giant
 carpet anemone**](gigantea.htm)   
@@ -110,11 +146,8 @@ body column.
 
 ---
 
-![](mertensii/120411thntd9385m3.jpg)
 
-![](mertensii/120411thntd9387m3d.jpg)
 
-![](mertensii/120411thntd9387m3b.jpg)
 
 [**Merten's
 carpet anemone**](mertensii.htm)   
@@ -137,9 +170,7 @@ comparisons**
 
 ---
 
-![](haddoni/120621cyrd6085m3.jpg)
 
-![](tapetum/110519chgd2284m3.jpg)
 
 Young
 [**Haddon's carpet anemone**](haddoni.htm)   

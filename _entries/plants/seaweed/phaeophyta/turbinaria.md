@@ -2,7 +2,7 @@
 title: Pyramid seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pyramid, brown, seaweed, weed, turbinaria, sargassaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Sargassaceae
 genus: Turbinaria
@@ -16,6 +16,43 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3c.jpg"
+  caption: |
+    <p>Pyramid-shaped blades.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507rflbd0083m3.jpg"
+  caption: |
+    <p>Short 'columns' on rocks facing waves.</p>
+    <p>Raffles Lighthouse, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070203smkg7449m3.jpg"
+  caption: |
+    <p>With long stems in more sheltered areas.</p>
+    <p>Pulau Semakau, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3b.jpg"
+  caption: |
+    <p>Tiny bumps reproductive structures?</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060713rlhg6367m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3656m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3.jpg"
+  caption: |
+    <p>Sisters Island, Aug 07 Some have spines on the edges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/070812sisd5390m3a.jpg"
+  caption: |
+    <p>Some have spines on the edges.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/060102sisg3658m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -71,26 +108,15 @@ seaweed (*Sargassum* sp.) harvests for commercial uses.
 In Hawai'i, it is considered an introduced and thus alien, invasive
 weed that affects the native marine life there.
 
-![](turbinaria/060102sisg3658m3.jpg)  
-*Sisters Island, Jan 06**![](turbinaria/060102sisg3658m3c.jpg)*Pyramid-shaped
-blades.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](turbinaria/040507rflbd0083m3.jpg)*Short 'columns' on rocks facing waves. *Raffles Lighthouse, May 04*
 
-*![](turbinaria/070203smkg7449m3.jpg)*With
-long stems in more sheltered areas. *Pulau Semakau, Feb 07*
 
-![](turbinaria/060102sisg3658m3b.jpg)  
-Tiny bumps reproductive structures?
 
 ---
 
-![](turbinaria/060713rlhg6367m3.jpg) *Raffles Lighthouse, Jul 06*![](turbinaria/060713rlhg6367m3a.jpg)
 
-![](turbinaria/060102sisg3656m3.jpg) *Sisters Islands, Jan 06*![](turbinaria/060102sisg3656m3a.jpg)
 
-![](turbinaria/070812sisd5390m3.jpg) *Sisters Island, Aug 07*![](turbinaria/070812sisd5390m3a.jpg)  
-Some have spines on the edges.
 
  *\*Seaweed species are difficult to positively identify without microscopic
 examination.  

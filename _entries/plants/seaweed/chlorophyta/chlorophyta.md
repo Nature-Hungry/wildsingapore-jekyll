@@ -2,7 +2,7 @@
 title: "Green seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, seaweed, weed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 division: Chlorophyta
 family: ""
 genus: ""
@@ -12,6 +12,47 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngseaweed)</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/others/070714bbd3887m3a.jpg"
+  caption: |
+    <p>Three different kinds of green seaweeds Beting Bronok, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m2a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2804m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924ma.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/neomeris/031029sntad0038m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/041019labd7671m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/halbig/040605kusbd0026m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/040507rflbd0153m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050528kusg7058m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/040703sisd1798m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bryopsis/040919sntd7088m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg"
+  caption: |
+    <p>This slug looks exactly like the green seaweed that it probably feeds on Sentosa, Nov 03</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -22,7 +63,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -114,25 +155,8 @@ During a seaweed 'bloom' there can be a corresponding explosion in
 the number and variety of animals that eat that particular seaweed.
 As well as the predators that eat the seaweed-eaters.   
 
-![](others/070714bbd3887m3a.jpg)  
-Three different
-kinds of green seaweeds  
-*Beting Bronok, Jul 07*
 
-![](taxifolia/041116labd8420m2a.jpg)
-![](ulva/050426cftd2804m.jpg)
-![](cupressoides/050621skdg7924ma.jpg)
-![](neomeris/031029sntad0038m.jpg)
-*![](boergesenia/041019labd7671m.jpg)*
-*![](halbig/040605kusbd0026m.jpg)*
-![](dictyosphaeria/040507rflbd0153m.jpg)
-![](racemosa/050528kusg7058m.jpg)
-![](avrerecta/040703sisd1798m.jpg)
-![](bryopsis/040919sntd7088m.jpg)
 
-![](../../../mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg)  
-This slug looks exactly like the   
-green seaweed that it probably feeds on *Sentosa, Nov 03*
 
 ---
 

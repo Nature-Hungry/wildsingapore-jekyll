@@ -2,7 +2,7 @@
 title: Flat-armed brittle star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, arm, brittle, star, brittlestar, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 31, 92]
 family: ""
 genus: ""
@@ -11,6 +11,52 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3a.jpg"
+  caption: |
+    <p>Upperside, some with scalloped edges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3c.jpg"
+  caption: |
+    <p>Upperside of arm.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8102m3a.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8102m3d.jpg"
+  caption: |
+    <p>Underside of arm with flat spines and long tapered tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/070803cjd5005m3.jpg"
+  caption: |
+    <p>Sometimes seen in large numbers.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1676m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1675m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/100926cjd1675m3a.jpg"
+  caption: |
+    <p>Underside of arm with flat spines and long tapered tube feet.</p>
+- url: "https://live.staticflickr.com/1679/24563344489_d486526b25_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24563344489/ "Flat-armed brittle star")</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/240723chgeccn5.jpg"
+  caption: |
+    <p>Stuck on a <a href="../../mollusca/gastropoda/naticidae/sandcollar">sand collar</a>.</p>
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/151001blyjt17m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/250726cyrjt7.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/250726cyrjt7a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/flatarm/050622chgg8104m3.jpg"
 ---
 
 
@@ -44,42 +90,20 @@ brown, beige or greenish.
 The brittle stars on this page are probably from different species.
 They are grouped together for convenience of display.
 
-![](flatarm/050622chgg8104m3.jpg)  
-*Changi, Jun
-05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](flatarm/050622chgg8104m3a.jpg)  
-Upperside, some with scalloped edges.
 
-![](flatarm/050622chgg8104m3c.jpg)  
-Upperside of arm.
 
-![](flatarm/050622chgg8102m3a.jpg)  
-Underside.
 
-![](flatarm/050622chgg8102m3d.jpg)  
-Underside of arm with flat spines  
-and long tapered tube feet.
 
-![](flatarm/070803cjd5005m3.jpg)  
-Sometimes seen in large numbers. *Chek Jawa, Aug 07*
 
 ---
 
-![](flatarm/100926cjd1676m3.jpg)  
-*Chek Jawa,
-Sep 10*
 
-![](flatarm/100926cjd1675m3.jpg)  
-Underside.
 
-![](flatarm/100926cjd1675m3a.jpg)  
-Underside of arm with flat spines  
-and long tapered tube feet.
 
 ---
 
-[![Flat-armed brittle star](https://live.staticflickr.com/1679/24563344489_d486526b25_z.jpg)](https://www.flickr.com/photos/wildsingapore/24563344489/ "Flat-armed brittle star")
   
 *\*Species are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience of
 display*
@@ -100,17 +124,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](flatarm/240723chgeccn5.jpg)*Stuck on a [sand collar](../../mollusca/gastropoda/naticidae/sandcollar). *Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
-![](flatarm/151001blyjt17m3.jpg)  
-*Berlayar Creek, Oct 15*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3).
 
 ---
-
-![](flatarm/250726cyrjt7.jpg)  
-*Cyrene, Jul 25*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post).
-
-![](flatarm/250726cyrjt7a.jpg)
-
-

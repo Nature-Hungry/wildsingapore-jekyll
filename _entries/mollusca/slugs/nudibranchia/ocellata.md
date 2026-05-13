@@ -2,7 +2,7 @@
 title: Eyed phyllid nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 28, 33, 90]
 family: Phyllidiidae
 genus: ""
@@ -21,6 +21,23 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 2020Photo shared by Jesselyn Chua on <a href="https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10159717061619517&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,15 +81,9 @@ yellow too. The literally eye-popping colours and design warn predators
 of its unpleasant nature. When disturbed, noxious secretions appear
 from the bumps.
 
-![](ocellata/060813jngd6242m3.jpg)  
-*Pulau Jong,
-Aug 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ocellata/060813jngd6242m3a.jpg)
 
-![](ocellata/060813jngd6240m3.jpg)  
-*Pulau Jong,
-Aug 06*
 
 ---
 
@@ -91,10 +102,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ocellata/200310bbbjc1.jpg)  
-*Beting Bemban Besar, Mar 2020*Photo shared by Jesselyn Chua on [facebook](https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10159717061619517&type=3).
 
-![](ocellata/200310bbbjc1b.jpg)
  
 
 ---

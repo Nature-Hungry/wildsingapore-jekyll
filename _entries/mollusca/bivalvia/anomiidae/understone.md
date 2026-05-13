@@ -2,7 +2,7 @@
 title: "Under-a-stone jingle clam "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [2, 33, 34, 73]
 family: Anomiidae
 genus: ""
@@ -17,6 +17,27 @@ infraclass: Pteriomorphia
 order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg"
+  caption: |
+    <p>Notch in one of the valves is clearly seen in the shell of this dead animal Pulau Sekudu, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg"
+  caption: |
+    <p>Stuck on a <a href="../placunidae/placuna.htm">Window pane shell</a>.</p>
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg"
+  caption: |
+    <p>Fringe of tentacles when submerged.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,24 +83,12 @@ Initially, this opening is a notch on the edge of the shell. But as
 the animal grows and secretes more shell material, the notch is surrounded
 and becomes a hole.
 
-*![](understone/020616cjd0734m3.jpg)  
-Chek Jawa, Jun 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](understone/060624skdd3259m3.jpg)  
-Notch in one of the valves is clearly seen  
-in the shell of this dead animal   
-*Pulau Sekudu, Jun 06*
 
-*![](understone/080422smkd1586m3.jpg)  
-Pulau Semakau, Apr 08*
 
-*![](understone/120703chgd6691m3.jpg)*Stuck
-on a [Window pane shell](../placunidae/placuna.htm)*.  
-Changi, Jul 12*
 
-*![](understone/120703chgd6691m3a.jpg)*Fringe of tentacles when submerged.
 
-*![](understone/120703chgd6695m3a.jpg)*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Dwarf turban snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dwarf, turban, turbo, bruneus, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Turbinidae
 genus: Turbo
 species: bruneus*
@@ -17,6 +17,35 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg"
+  caption: |
+    <p>Many tiny bumps on the operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210115mevc9.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Jan 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202473207945&set=a.10158202634262945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/210628ecpBvc3.jpg"
+  caption: |
+    <p>East Coast (B), Jun21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557372652945&set=a.10158557647212945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240113laztl1.jpg"
+  caption: |
+    <p>Lazarus Island, Jan 24 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161044246884264&set=a.10161044237189264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/251009sjirk1a.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163159501127906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/240412tbccn3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161071237608654&set=a.10161071207308654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/091204pawikw2m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09 Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158004673/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,14 +93,9 @@ snail has a shell with more distinct whorls and a thick, chalky operculum.
 Here's more on [how to tell apart turban
 and top shell snails](../topturban.htm).
 
-![](bruneus/080208hntd9446m3.jpg)  
-*Pulau Hantu,
-Feb 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bruneus/080208hntd9445m3.jpg)
 
-![](bruneus/080208hntd9445m3b.jpg)  
-Many tiny bumps on the operculum.
 
 ---
 
@@ -90,35 +114,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bruneus/210115mevc9.jpg)*  
-*East Coast-Marina Bay, Jan 21*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158202473207945&set=a.10158202634262945).
 
-*![](bruneus/210628ecpBvc3.jpg)*  
-*East Coast (B), Jun21*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158557372652945&set=a.10158557647212945).
 
 ---
 
-*![](bruneus/240113laztl1.jpg)*  
-*Lazarus Island, Jan 24*  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161044246884264&set=a.10161044237189264).
 
-*![](bruneus/251009sjirk1a.jpg)  
-St John's Island, Oct 25*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163159501127906&type=3&ref=embed_post).
 
 ---
 
-*![](bruneus/240412tbccn3.jpg)*  
-*Terumbu Bemban, Apr 24*  
-Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161071237608654&set=a.10161071207308654).
 
-*![](bruneus/091204pawikw2m3.jpg)*  
-*Pulau Pawai,
-Dec 09*  
-Photo shared by Ivan Kwan on [his
-flickr](http://www.flickr.com/photos/hai_ren/4158004673/).
 
 ---
 

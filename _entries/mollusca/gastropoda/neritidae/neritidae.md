@@ -2,7 +2,7 @@
 title: "Nerite snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: ""
 species: ""
@@ -16,6 +16,98 @@ subclass: Neritimorpha
 order: Cycloneritida
 superfamily: Neritoidea
 updated: Sep 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fnggastropods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/051105sisg2949m3a.jpg"
+  caption: |
+    <p>Tough shell with thick operculum.</p>
+    <p>Chek Jawa, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg"
+  caption: |
+    <p>The same species of Nerites may come in a wide variety of colours and patterns.</p>
+    <p>Labrador, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg"
+  caption: |
+    <p>The tiniest nerites on our shores are aptly named <a href="oualaniensis.htm">Dubious nerites</a>.</p>
+    <p>What do they eat?</p>
+    <p>Nerites graze the algae that thrive on the rocks, scraping this off with their radula.</p>
+    <p>They also eat lichen growing there.</p>
+    <p>They are often found near their food source; areas where sunlight and water exchange are greatest.</p>
+- url: "https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/25174359603/ "Nerite snails can really twirl their tentacles") Nerite babies: Nerites have separate genders and engage in internal fertilisation.</p>
+    <p>They have a complex reproductive system to achieve this, and to produce nutrition-packed eggs in protective capsules.</p>
+    <p>The white circular egg capsules are sometimes seen in rock pools, under rocks and in moist crevices.</p>
+    <p>Each egg capsule may have more than 30 eggs.</p>
+    <p>These hatch into free-swimming larvae that only later settle down to develop into snails.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/090628lazd6229m3.jpg"
+  caption: |
+    <p>Nerites with their white egg capsules.</p>
+    <p>Lazarus Island, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg"
+  caption: |
+    <p>Tiny egg capsules laid by the tiniest nerite.</p>
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/neritidaenoid/020213cjd6879m3.jpg"
+  caption: |
+    <p>Nerites mating with their white egg capsules.</p>
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/albicilla/090208smkd6498m3.jpg"
+  caption: |
+    <p><a href="albicilla.htm">Ox-tongue nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg"
+  caption: |
+    <p><a href="chamaeleon.htm">Chameleon nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060102sisg3617m3.jpg"
+  caption: |
+    <p><a href="undata.htm">Waved nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg"
+  caption: |
+    <p><a href="histrio.htm">Scaly nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg"
+  caption: |
+    <p><a href="articulata.htm">Lined nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/planospira/050809lckg1011m3.jpg"
+  caption: |
+    <p><a href="planospira.htm">Flat-spire nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg"
+  caption: |
+    <p><a href="polita.htm">Polished nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3a.jpg"
+  caption: |
+    <p><a href="oualaniensis.htm">Dubious nerites</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/violacea/110328mndd8041m3.jpg"
+  caption: |
+    <p><a href="violacea.htm">Red-mouth nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/cornucopia/090612pndd4045m3.jpg"
+  caption: |
+    <p><a href="cornucopia.htm">Black-mouth nerite</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg"
+  caption: |
+    <p><a href="grayana.htm">Grey mangrove nerite</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+    <p>- Abbott, R.</p>
+    <p>Tucker, 1991.</p>
+    <p>Seashells</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+    <p>- Coleman, Neville.</p>
+    <p>2003.</p>
+    <p>2002</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -26,7 +118,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fnggastropods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -86,44 +178,15 @@ teeth to chew food), and the general shape and texture of the shell
 and operculum. But very similar-looking nerites can only be positively
 distinguished by looking at internal features of the shell and animal. Here's a
 comparison of some [similar nerite snails](neritidaecf.htm) and how to roughly tell them apart.
-![](chamaeleon/051105sisg2949m3a.jpg)  
-Tough shell with thick operculum.  
-*Chek Jawa, Jan 05*
-![](polita/090114labd5376m3.jpg) The same species of Nerites may come  
-in a wide variety of colours and patterns.  
-*Labrador, Jan 09*
-**![](oualaniensis/061106tusd6519m3a.jpg)**The
-tiniest nerites on our shores are   
-aptly named [Dubious nerites](oualaniensis.htm).
-**What do they eat?** Nerites graze
-the algae that thrive on the rocks, scraping this off with their radula.
-They also eat lichen growing there. They are often found near their
-food source; areas where sunlight and water exchange are greatest.  
   
 **Bouncing escape!** When alarmed,
 nerites can immediately unclamp and retract into their hard round
 shells. Whereupon, they bounce down the rocks like marbles. This is
 probably how these slow snails can rapidly escape from crabs and other
 predators.
-[![Nerite snails can really twirl their tentacles](https://live.staticflickr.com/1683/25174359603_fac642f0ce_z.jpg)](https://www.flickr.com/photos/wildsingapore/25174359603/ "Nerite snails can really twirl their tentacles")
-**Nerite babies:** Nerites have separate
-genders and engage in internal fertilisation. They have a complex
-reproductive system to achieve this, and to produce nutrition-packed
-eggs in protective capsules. The white circular egg capsules are sometimes
-seen in rock pools, under rocks and in moist crevices. Each egg capsule
-may have more than 30 eggs. These hatch into free-swimming larvae
-that only later settle down to develop into snails.
 
-![](neritidaenoid/090628lazd6229m3.jpg)  
-Nerites with their white egg capsules.  
-*Lazarus Island, Jun 09*
 
-![](oualaniensis/081214ecmd3109m3a.jpg)  
-Tiny egg capsules laid by the tiniest nerite. *East Coast, Dec 08*
 
-![](neritidaenoid/020213cjd6879m3.jpg)  
-Nerites mating with their white egg capsules.  
-*Chek Jawa, Feb 02*
 
 **Human uses:** They are gathered
 as food by coastal dwellers. Some species of nerites are eaten raw
@@ -141,39 +204,22 @@ on Singapore shores**
 
 ---
 
-***![](albicilla/090208smkd6498m3.jpg)*[Ox-tongue nerite](albicilla.htm)**
 
-**![](chamaeleon/080802sjid8926m3.jpg)  
-[Chameleon nerite](chamaeleon.htm)**
 
-**![](undata/060102sisg3617m3.jpg)  
-[Waved nerite](undata.htm)**
 
 ---
 
-***![](histrio/060301kusg5365m3.jpg)*[Scaly nerite](histrio.htm)**
 
-**![](articulata/090114blyd5295m3.jpg)[Lined nerite](articulata.htm)**
 
-**![](planospira/050809lckg1011m3.jpg)  
-[Flat-spire nerite](planospira.htm)**
 
 ---
 
-**![](polita/080621labd6164m3.jpg)[Polished nerite](polita.htm)**
 
-**![](oualaniensis/061106tusd6519m3a.jpg)  
-[Dubious nerites](oualaniensis.htm)**
 
 ---
 
-***![](violacea/110328mndd8041m3.jpg)*[Red-mouth nerite](violacea.htm)**
 
-***![](cornucopia/090612pndd4045m3.jpg)*  
-[Black-mouth nerite](cornucopia.htm)**
 
-***![](grayana/130317krjd4642m3.jpg)*  
-[Grey mangrove nerite](grayana.htm)**
 
 ---
 
@@ -263,16 +309,6 @@ Neritina sulculosa
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
-- Abbott, R.
-  Tucker, 1991. *Seashells
-  of South East Asia![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Graham Brash, Singapore. 145 pp.
-- Coleman,
-  Neville. 2003. *2002
-  Sea Shells: Catalogue of Indo-Pacific Mollusca![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

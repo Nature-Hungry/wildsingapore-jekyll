@@ -2,7 +2,7 @@
 title: Needle seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "needle, grass, halodule, uninervis, pinifolia, cymodoceaceae, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Needle seagrass
 family: Cymodoceaceae
@@ -18,6 +18,44 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Mar 14
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg"
+  caption: |
+    <p>Large stretches of Halodule.</p>
+    <p>Changi, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg"
+  caption: |
+    <p>Halodule with very broad blades.</p>
+    <p>Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg"
+  caption: |
+    <p>Long skinnyHalodule.</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg"
+  caption: |
+    <p>Long broad Halodule.</p>
+    <p>Sentosa, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg"
+  caption: |
+    <p>Short skinny Halodule.</p>
+    <p>Chek Jawa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg"
+  caption: |
+    <p>Broad Halodule.</p>
+    <p>Cyrene Reefs, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg"
+  caption: |
+    <p>Skinny Halodule.</p>
+    <p>Cyrene Reefs, Aug 11</p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -109,38 +147,15 @@ pinifolia* is listed as 'Critically Endangered' while *Halodule
 uninervis* is listed as 'Vulnerable' on the Red List of threatened
 plants of Singapore.
 
-![](halodule/100419chgc2643m6l.jpg)  
-Large stretches
-of *Halodule.  
-Changi, Apr 10*  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](halodule/070603sntrg9934m3.jpg)  
-*Halodule* with very broad blades. *Sentosa, Jun 07*  
   
-![](halodule/050623cjg8439m3.jpg)  
- *Chek Jawa, Jun 05*
 
-*![](halodule/050822cjg2120m3c.jpg)*Long
-skinny**Halodule.*  
-Chek Jawa, Aug 05*
 
-*![](halodule/070603sntrg9935m3.jpg)*Long
-broad *Halodule.  
-Sentosa, Jun 07*
 
-![](halodule/050315cjg3392m3.jpg)  
-Short skinny *Halodule.  
-Chek Jawa, Mar 05*
 
-![](halodule/090503sgwwd1004m3.jpg) *Pulau Semakau, May 09*![](halodule/090503sgwwd1004m3a.jpg)
 
-![](halodule/110830cyrd0555m6lb.jpg)  
-Broad *Halodule.  
-Cyrene Reefs, Aug 11*
 
-![](halodule/110830cyrd0555m6la.jpg)  
-Skinny *Halodule.  
-Cyrene Reefs, Aug 11*
 
 ---
 
@@ -201,5 +216,3 @@ Make your own badge [here](http://www.flickr.com/badge.gne).
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

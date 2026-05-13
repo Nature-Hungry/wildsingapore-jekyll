@@ -2,12 +2,47 @@
 title: Maroon c
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chromodoris, tumulifera, chromodoriidae, doridina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chromodorididae
 genus: Goniobranchus
 species: tumulifera
 attributes: []
 updated: May 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/this-morning-at-pasir-ris-shore.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch3m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/080521chgtch01m3.jpg"
+  caption: |
+    <p>Changi, May 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2515674045/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/200113chgjll1.jpg"
+  caption: |
+    <p>Changi, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157001191776295&set=a.10157001189406295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/150706skdlksm3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/07/back-at-sekudu-for-coral-rubble-survey.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/180617skdjll1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155690817646295&set=a.10155690806991295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/211205cjlks1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159598927968158&set=a.10159598934038158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/32616925501/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/140615skdd6645.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/070604ecplks02m3.jpg"
+  caption: |
+    <p>East Coast, Jun 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alive.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/tumulifera/100429prptch2m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,14 +91,9 @@ of the Family Chromodorididae absorb the toxic chemicals in
 their sponge food and incorporate these chemicals into the mantle
 glands on their backs where they repel predators.
 
-*![](tumulifera/100429prptch2m3.jpg)  
-Pasir Ris Park, Apr 10*Photo
-shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/04/this-morning-at-pasir-ris-shore.html).
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](tumulifera/100429prptch3m3a.jpg)*
 
-*![](tumulifera/100429prptch3m3b.jpg)*
 
 ---
 
@@ -81,35 +111,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tumulifera/080521chgtch01m3.jpg)  
-Changi, May 08*Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/2515674045/).
-*![](tumulifera/200113chgjll1.jpg)  
-Changi, Jan 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157001191776295&set=a.10157001189406295&type=3&theater).
  
 
 ---
 
-*![](tumulifera/150706skdlksm3.jpg)  
-Pulau Sekudu, Jul 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/07/back-at-sekudu-for-coral-rubble-survey.html).
-*![](tumulifera/180617skdjll1.jpg)  
-Pulau Sekudu, Jun 18*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10155690817646295&set=a.10155690806991295&type=3&theater).
-*![](tumulifera/211205cjlks1.jpg)  
-Chek Jawa, Dec 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159598927968158&set=a.10159598934038158).
 
 ---
 
-*![](tumulifera/140615skdmn.jpg)  
-Pulau Sekudu, Jun 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/32616925501/).
-![](tumulifera/140615skdd6645.jpg)  
-*Pulau Sekudu, Jun 14*
 
 ---
 
-*![](tumulifera/070604ecplks02m3.jpg)  
-East Coast, Jun 07*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alive.html).
 
 ---
 

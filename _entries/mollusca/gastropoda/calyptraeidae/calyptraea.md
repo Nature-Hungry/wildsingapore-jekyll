@@ -2,7 +2,7 @@
 title: Conical slipper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "conical, slipper, desmaulus, calyptraea, extinctorium, crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Calyptraeidae
 genus: Desmaulus
 species: extinctorium
@@ -16,6 +16,31 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg"
+  caption: |
+    <p>Conical slipper snails on the outside of the shell.</p>
+    <p>Flat slipper snails on the inside.</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100712chgd8426.jpg"
+  caption: |
+    <p>Conical slipper snail on the outside.</p>
+    <p>Changi, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1681m3.jpg"
+  caption: |
+    <p>Chek Jawa, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg"
+  caption: |
+    <p>On a shell occupied by a hermit crab</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg"
+  caption: |
+    <p>On a living <a href="../../bivalvia/pectinidae/singapore.htm">scallop</a>.</p>
+    <p>Changi, Aug 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/121214chgemn.jpg"
+  caption: |
+    <p>Growing on a living <a href="../../bivalvia/placunidae/placuna.htm">Window pane shell clam</a>.</p>
+    <p>Changi East, Dec 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8273878203/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,19 +83,11 @@ confused with limpets** which are also gastropods but which
 can move about. Here's more on [how
 to tell apart limpets, slipper snails and similar animals](../../../glossary/limpetbarnacle.htm).
 
-*![](calyptraea/050429chgg5381m6l.jpg)* Conical slipper snails on the outside of the shell. Flat slipper snails on the inside. *Changi, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](calyptraea/100712chgd8426.jpg)*Conical slipper snail on the outside. *Changi, Jul 10*
 
-![](calyptraea/100926cjd1681m3.jpg)  
- *Chek Jawa,
-Sep 10*
 
-![](calyptraea/100926cjd1682m3.jpg)  
-On a shell occupied by a hermit crab
 
-![](calyptraea/180811chg.jpg)  
-On a living [scallop](../../bivalvia/pectinidae/singapore.htm). *Changi, Aug 18*
 
 ---
 
@@ -89,8 +106,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](calyptraea/121214chgemn.jpg)*Growing on a living [Window pane shell clam](../../bivalvia/placunidae/placuna.htm). *Changi East, Dec 12*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8273878203/).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Mangrove leaf slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, leaf, slug, seaslug, sap, sucking, sacoglossan, elysia, bangtawaensis, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Plakobranchidae
 genus: Elysia
 species: bangtawaensis
@@ -18,6 +18,20 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg"
+  caption: |
+    <p>Kranji Nature Trail, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/120320mndmn.jpg"
+  caption: |
+    <p>Mandai, Mar 12 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8124830898/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4559m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -75,12 +89,9 @@ after they feed on algae." See details in the [Family
 Elysiidae](elysiidae.htm) for more about how the slug eats and uses the seaweed's
 chloroplasts.
 
-![](bangtawaensis/110101krjd4559m3.jpg)  
- *Kranji Nature Trail, Jan 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bangtawaensis/110101krjd4571m3a.jpg)
 
-![](bangtawaensis/110101krjd4571m3b.jpg)
 
 ---
 
@@ -99,9 +110,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bangtawaensis/120320mndmn.jpg)  
-*Mandai, Mar 12*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8124830898/).
 
 ---
 

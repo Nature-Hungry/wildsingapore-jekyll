@@ -2,7 +2,7 @@
 title: Yellow-lined flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "elegant, striped, blue, lined, flat, worm, flatworm, pseudoceros, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
 species: ""
@@ -15,6 +15,41 @@ subphylum: Rhabditophora
 order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg"
+  caption: |
+    <p>With a blue-and-yellow line.</p>
+    <p>Chek Jawa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjky4.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168426584295112&set=a.10168426590055112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/230606cjjll2.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 23Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159668961781295&set=a.10159668995566295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/210401sntrk1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158984921072906&set=a.10158984896247906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjitch01m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Sep 07Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/1295846940/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/070902sjilksm3.JPG"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Sep 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2007/09/evening-with-saintl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/180912tkkdc2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1747332305383538&set=a.1747330695383699&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110702lzrlks9m3.jpg"
+  caption: |
+    <p>Lazarus, Jul 11Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/110814smklks7m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg"
 ---
 
 
@@ -39,9 +74,7 @@ a pair of pseudotentacles made up of simple folded edges
 of the body.  
   
 **Sometimes mistaken for** similar flatworms. Here's more on how to tell apart small flatworms with [one central line and three central lines](cfstriped).
-![](lineyellow/031025cjd0042m3.jpg)  
-With a blue-and-yellow line. *Chek Jawa, Oct 03*
-![](lineyellow/031025cjd0042m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
  
  *\***Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -63,40 +96,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lineyellow/230606cjky4.jpg)  
- *Chek Jawa, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168426584295112&set=a.10168426590055112).
 
-![](lineyellow/230606cjjll2.jpg)  
- *Chek Jawa, Jun 23*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10159668961781295&set=a.10159668995566295).
 
 ---
 
-![](lineyellow/210401sntrk1.jpg)  
- *Sentosa Tg Rimau, Apr 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158984921072906&set=a.10158984896247906).
 
 ---
 
-![](lineyellow/070902sjitch01m3.jpg)  
-*St. John's
-Island, Sep 07*Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/1295846940/).
 
-![](lineyellow/070902sjilksm3.JPG)  
-*St. John's
-Island, Sep 07*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2007/09/evening-with-saintl).
 
 ---
 
-![](lineyellow/180912tkkdc2.jpg)  
- *Pulau Tekukor, Sep 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1747332305383538&set=a.1747330695383699&type=3&theater).
 
-![](lineyellow/110702lzrlks9m3.jpg)  
-*Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
-![](lineyellow/110814smklks7m3.jpg)  
- *Pulau Semakau, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakaul).
 
 ---
 
@@ -106,5 +118,3 @@ Grateful thanks to Rene Ong for sharing details and identifying the flatworms on
 **References**
 
 - Rene S.L. Ong and Samantha J.W. Tong. 29 October 2018. *A preliminary checklist and photographic catalogue of polyclad flatworms recorded from Singapore.* Nature in Singapore 2018 11: 77–125.
-
-

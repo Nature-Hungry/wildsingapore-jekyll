@@ -2,7 +2,7 @@
 title: Weedy wrasse
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "weedy, wrasse, fish, pteragogus, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Labridae
 genus: Pteragogus
@@ -18,6 +18,36 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Cirrhilabrinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg"
+  caption: |
+    <p>Cyrene, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/120408sjimn1m6l.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 12 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150659760793660&set=a.10150592871748660.378920.624178659&type=3">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/100614bbd5958m6l.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/080409tusd0842m3.jpg"
+  caption: |
+    <p>Tuas, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/230606cjlks3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160713623318158&set=a.10160713625503158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/240623hntrk1.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161221080467906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/240527snttl1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10161248696949264">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/140713tsmkmn1m3.jpg"
+  caption: |
+    <p>Flagfin wrasse Pteragogus flagellifer Terumbu Semakau, Jul 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152263462748660.1073741841.624178659&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/230509tsmkky3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 23Photo shared by Kevlin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168333683745112/3231020397188690">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/pteragogus/070421cyrg8905m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,16 +87,8 @@ seen 6-15cm. Typical fish shape with large scales. It has a protrusible
 mouth. Most species are sand burrowers, feeding on creatures that
 live on the sea bottom. Most species change color and sex as they
 grow bigger.
-*![](pteragogus/070421cyrg8905m3.jpg)**Cyrene, Apr 07*
-![](pteragogus/120408sjimn1m6l.jpg)  
-*St. John's
-Island, Apr 12*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10150659760793660&set=a.10150592871748660.378920.624178659&type=3)
-*![](pteragogus/100614bbd5958m6l.jpg)**Beting Bronok, Jun 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pteragogus/080409tusd0842m3.jpg)  
-*Tuas, Apr
-08*
 
  *\*Species are difficult
 to positively identify without closer examination.  
@@ -90,21 +112,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pteragogus/230606cjlks3.jpg)* *Chek Jawa, Jun 23*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160713623318158&set=a.10160713625503158).
-*![](pteragogus/240623hntrk1.jpg)* *Pulau Hantu, Jun 24*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?vanity=richard.k.tiong&set=a.10161221080467906).
 
 ---
 
-*![](pteragogus/240527snttl1.jpg)**Sentosa Tg Rimau, May 24*  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10161248696949264)
 
-*![](pteragogus/140713tsmkmn1m3.jpg)*Flagfin wrasse *Pteragogus flagellifer  
-Terumbu Semakau, Jul 14*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152263462748660.1073741841.624178659&type=1).
-*![](pteragogus/230509tsmkky3.jpg)* *Terumbu Semakau, May 23*Photo
-shared by Kevlin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168333683745112/3231020397188690).
 
 ---
 

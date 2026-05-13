@@ -2,7 +2,7 @@
 title: Frilled corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, rhodactis, inchoata, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 102]
 family: Discosomidae
 genus: Rhodactis
@@ -15,6 +15,76 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3.jpg"
+  caption: |
+    <p>Clusters of very short branched tentacles on the oral disk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg"
+  caption: |
+    <p>Oral disk edged with fine tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg"
+  caption: |
+    <p>Oral disk tucked into the body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060102sisd6496m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060102sisg3660m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100215sisd9432m3.jpg"
+  caption: |
+    <p>Sisters Island, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100215sisd9432m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060727jngd5164m3.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/060727jngd5165m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/170822lablks5.jpg"
+  caption: |
+    <p>Labrador, Aug 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/170822lablks5a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/160609thntmn2.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/160313trymn4.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100613sngd5533m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100530tbkd4315m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/210810tpltch1.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159648429613713&set=a.10159648444183713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100530tbkd4365m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100530tbkd4365m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100130brkd8635m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/100130brkd8636m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -53,12 +123,8 @@ in diameter, usually in small groups of 5-10, sometimes many more.
 When submerged, the expanded polyps may be crowded next to one another
 so that each forms folded polygonal shapes. So it is sometimes mistaken as a hard coral.
 
-*![](frilled/080608cyrd5465m3a.jpg)  
-Cyrene Reef, Jun 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](frilled/080608cyrd5465m3.jpg)*Clusters
-of very short branched tentacles
-on the oral disk.
 
 Short fine tentacles fringe the outer edge of the oral disk. On the
 disk itself, short, clusters of very short branched tentacles are
@@ -72,26 +138,13 @@ tentacles.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-*![](frilled/070901sjid6484m3.jpg)  
-St. John's Island, Aug 07*
 
-![](frilled/070901sjid6484m3a.jpg)  
-Oral disk edged with fine tentacles.
 
-*![](frilled/070901sjid6484m3b.jpg)*Oral disk tucked into the body column.
 
 ---
 
-*![](frilled/060102sisd6496m3.jpg)  
-Sisters Island, Jan 06**![](frilled/060102sisg3660m3a.jpg)*
 
-*![](frilled/100215sisd9432m3.jpg)  
-Sisters Island, Feb 10  
-![](frilled/100215sisd9432m3b.jpg)*
 
-*![](frilled/060727jngd5164m3.jpg)  
-Pulau Jong, Jul 06  
-![](frilled/060727jngd5165m3a.jpg)*
 
   
 
@@ -117,41 +170,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](frilled/170822lablks5.jpg)  
-Labrador, Aug 17*
 
-*![](frilled/170822lablks5a.jpg)*
 
 Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3).
 
-*![](frilled/160609thntmn2.jpg)  
-Terumbu Hantu, Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story)
 
 ---
 
-*![](frilled/160313trymn4.jpg)  
-Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3)*.*
 
-*![](frilled/100613sngd5533m3.jpg)  
-Pulau Senang, Jun 10*
 
- *![](frilled/100530tbkd4315m3a.jpg)*Bleaching.  
-*Pulau Berkas, May 10*
 
 ---
 
-*![](frilled/210810tpltch1.jpg)  
-Terumbu Pempang Laut, Aug 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159648429613713&set=a.10159648444183713)*.*
 
 ---
 
-*![](frilled/100530tbkd4365m3.jpg)  
-Pulau Berkas, May 10  
-![](frilled/100530tbkd4365m3a.jpg)*Bleaching.
 
-*![](frilled/100130brkd8635m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](frilled/100130brkd8636m3.jpg)*
 
 ---
 

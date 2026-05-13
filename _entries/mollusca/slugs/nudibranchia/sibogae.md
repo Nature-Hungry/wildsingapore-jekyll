@@ -2,7 +2,7 @@
 title: Cuthona nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cuthona, sibogae, aeolid, glaucidae, aeolidina, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Tergipedidae
 genus: Cuthona
 species: sibogae
@@ -20,6 +20,36 @@ order: Nudibranchia
 suborder: Aeolidina
 superfamily: Fionoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3a.jpg"
+  caption: |
+    <p>Carrying eggs?</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0234m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1853m3a.jpg"
+  caption: |
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110518bbd1884m6l.jpg"
+  caption: |
+    <p>Mating?</p>
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/190802chgjll1.jpg"
+  caption: |
+    <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156578311466295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/250627bbvc1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25 Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/110519bbjk.jpg"
+  caption: |
+    <p>Beting Bronok, May 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5736159593/">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/210430sjijll3.jpg"
+  caption: |
+    <p>St John's Island, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158238594451295&set=a.10158238590001295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/050724bbg0235m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,15 +100,9 @@ nudibranch](ianthina.htm) which has purple bands on the oral tentacles. **What d
 orange [Fern
 hydroid](../../../cnidaria/others/hydrozoa/sertularella.htm) (*Sertularella* sp.). According to Bill Rudman,
 it feeds on *Sertularella quadridens*.
-*![](sibogae/050724bbg0235m3.jpg)  
-Beting Bronok, Jul 05*
-*![](sibogae/050724bbg0234m3a.jpg)*Carrying eggs?
-*![](sibogae/050724bbg0234m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](sibogae/110518bbd1853m3a.jpg)  
-Beting Bronok, May 11*
 
-*![](sibogae/110518bbd1884m6l.jpg)*Mating? *Beting Bronok, May 11*
 
 ---
 
@@ -97,24 +121,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sibogae/190802chgjll1.jpg)  
-*Changi, Aug 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156578311466295&type=3).
  
  
 
 ---
 
-*![](sibogae/250627bbvc1.jpg)  
-Beting Bronok, Jun 25*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post).
 
-![](sibogae/110519bbjk.jpg)  
-*Beting Bronok, May 11*Photo shared by James Koh on [facebook](https://www.flickr.com/photos/jameskoh/5736159593/).
 
 ---
 
-*![](sibogae/210430sjijll3.jpg)  
-St John's Island, Apr 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158238594451295&set=a.10158238590001295).
  
  
 

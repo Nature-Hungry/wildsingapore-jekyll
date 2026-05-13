@@ -2,7 +2,7 @@
 title: Spider conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spider, conch, lambis, lambis, strombidae, gastropod, mollusc,snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Strombidae
 genus: Lambis
 species: lambis
@@ -21,6 +21,142 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/091218tmd6017m3a.jpg"
+  caption: |
+    <p>Eyes sticking out from under the shell.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/091218tmd6014m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120411thnts06115m3.jpg"
+  caption: |
+    <p>Laying bright orange egg string.</p>
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120411thnts06094m3.jpg"
+  caption: |
+    <p>Orange egg string.</p>
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/070704jngg1106m3.jpg"
+  caption: |
+    <p>A young snail that hasn't developed spines on its shell yet.</p>
+    <p>Pulau Jong, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120222tmnbs03753m3.jpg"
+  caption: |
+    <p>A young snail that hasn't developed spines on its shell yet.</p>
+    <p>Tanah Merah, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/091117smkjk1m3.jpg"
+  caption: |
+    <p>A young snail Pulau Semakau, Nov 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/11/091117-semakau-back-to-old-shore.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/090824tusjk3m3a.jpg"
+  caption: |
+    <p>Tuas, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/210626cjvc2.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158550954922945&set=a.10158551294872945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/090210lablks.JPG"
+  caption: |
+    <p>Juvenile, Labrador, Feb 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4618105879/in/album-72157607725272449/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/181126lablks.jpg"
+  caption: |
+    <p>Labrador, Nov 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/201119sntrk4.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158660755487906&set=a.10158659639977906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/120507sntsrglks2m3.JPG"
+  caption: |
+    <p>A juvenile.</p>
+    <p>Sentosa Serapong, May 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-at.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/160509srpik8.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/220104tkkrk2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159531853982906&set=a.10159532594827906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/251009sjijll2.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162128558571295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/251011ssisky2.jpg"
+  caption: |
+    <p>Small Sisters Island, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173350275700112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/260217bsislks3.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/240528tslrk2.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161168216927906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/250531thntrk1.jpg"
+  caption: |
+    <p>Terumbu Hantu, May 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162519522322906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/160609thntro6.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jun 16Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/101108bkomlks6m3.JPG"
+  caption: |
+    <p>Terumbu Bukom, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukom.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/101010scyrlks.JPG"
+  caption: |
+    <p>South Cyrene, Oct 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5075037638/in/album-72157625147692356/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/240526bbbccn1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161144351588654&set=a.10161144259523654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/210502tptvc4.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by VIncent Choo on <a href="https://www.facebook.com/photo?fbid=10158447589437945&set=a.10158447654442945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/110517tptlks11m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/110423tpllks9m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/110422tplrl3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/240310tplta3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Mar 24Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10231937616885804&set=a.10231937752849203">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/151225tsmklks6m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Dec 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/161117rlhhpy1.jpg"
+  caption: |
+    <p>A juvenile.</p>
+    <p>Raffles Lighthouse, Nov `6Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/100130brklks2m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353247648/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/220201brktch6.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972835318713&set=a.10159972857263713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/100613snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718790835/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/210428slumn1.jpg"
+  caption: |
+    <p>Pulau Salu, Aor 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158223553073660&set=a.10158223378038660">facebook</a>.</p>
+- url: "https://farm3.staticflickr.com/2548/4196519281_7794a4b7d7_z.jpg?zz=1"
+  caption: |
+    <p>](https://www.flickr.com/photos/budak/4196519281/ "MVI_1787")</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+    <p>- Davison, G.W.</p>
+    <p>H.</p>
+    <p>and P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>Ng and Ho Hua Chew, 2008.</p>
+    <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+    <p>Nature Society (Singapore).</p>
+    <p>285 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/lambis/060813jngd6116m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,26 +206,14 @@ eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like
 shell may improve stability and prevent the snail from toppling over
 as it hops.
 
-*![](lambis/060813jngd6116m3.jpg)  
-Pulau Jong, Aug 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lambis/091218tmd6017m3.jpg)  
-*Tanah Merah, Dec 09*
 
-![](lambis/091218tmd6017m3a.jpg)  
-Eyes sticking out from under the shell.
 
 ---
 
-![](lambis/091218tmd6014m3.jpg) *Tanah Merah, Dec 09*
 
-![](lambis/120411thnts06115m3.jpg)  
-Laying bright orange egg string.  
- *Terumbu Hantu, Apr 12*
 
-![](lambis/120411thnts06094m3.jpg)  
-Orange egg string.  
- *Terumbu Hantu, Apr 12*
 
 **What does it eat?** It grazes on
 fine red algae.  
@@ -100,19 +224,8 @@ Male and female snails look very different. The shell of the males
 usually smaller and with shorter spines on the outer lip. Mama snails
 lay bright orange egg strings.
 
-![](lambis/070704jngg1106m3.jpg)  
-A young snail that hasn't developed   
-spines on its shell yet.  
- *Pulau Jong, Jul 07*
 
-![](lambis/120222tmnbs03753m3.jpg)  
-A young snail that hasn't developed   
-spines on its shell yet.  
- *Tanah Merah, Feb 12*
 
-![](lambis/091117smkjk1m3.jpg)  
-A young snail *Pulau Semakau, Nov 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/11/091117-semakau-back-to-old-shore.html).
 
 **Human uses:** Where common, it is
 often collected for food by coastal populations, and the shell used
@@ -144,112 +257,55 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lambis/090824tusjk3m3a.jpg) *Tuas, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthids.html).
 
-![](lambis/210626cjvc2.jpg) *Chek Jawa, Jun 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158550954922945&set=a.10158551294872945).
 
 ---
 
-![](lambis/090210lablks.JPG)Juvenile, *Labrador, Feb 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4618105879/in/album-72157607725272449/).
 
-![](lambis/181126lablks.jpg) *Labrador, Nov 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3).
 
 ---
 
-![](lambis/201119sntrk4.jpg) *Sentosa Tg Rimau, Nov 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158660755487906&set=a.10158659639977906).
 
-![](lambis/120507sntsrglks2m3.JPG)A juvenile. *Sentosa Serapong, May 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/05/back-to-special-reef-of-sentosa-at.html).
 
-![](lambis/160509srpik8.jpg) *Sentosa Serapong, May 16*Photo shared by Ivan Kwan on [facebook](https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3).
 
 ---
 
-![](lambis/220104tkkrk2.jpg) *Pulau Tekukor, Jan 22*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159531853982906&set=a.10159532594827906).
 
-*![](lambis/251009sjijll2.jpg)*  
-*St John's Island,
-Oct 25*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162128558571295&type=3&ref=embed_post).
 
 ---
 
-*![](lambis/251011ssisky2.jpg)*  
-*Small Sisters Island,
-Oct 25*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173350275700112&type=3&ref=embed_post).
 
-*![](lambis/260217bsislks3.jpg)*  
-*Big Sisters Island,
-Feb 26*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post).
 
 ---
 
-*![](lambis/240528tslrk2.jpg)*  
-*Terumbu Selegie, May 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161168216927906).
 
-![](lambis/250531thntrk1.jpg) *Terumbu Hantu, May 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162519522322906&type=3&ref=embed_post).
 
-![](lambis/160609thntro6.jpg) *Terumbu Hantu, Jun 16*Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3).
 
 ---
 
-![](lambis/101108bkomlks6m3.JPG) *Terumbu Bukom, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/first-visit-to-terumbu-bukom.html).
 
-![](lambis/101010scyrlks.JPG) *South Cyrene, Oct 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5075037638/in/album-72157625147692356/).
 
 ---
 
-![](lambis/240526bbbccn1.jpg)  
- *Beting Bemban Besar, May 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161144351588654&set=a.10161144259523654).
 
-![](lambis/210502tptvc4.jpg)  
- *Terumbu Pempang Tengah, May 21*Photo shared by VIncent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447589437945&set=a.10158447654442945).
 
-![](lambis/110517tptlks11m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
 
 ---
 
-![](lambis/110423tpllks9m3.jpg)  
-*Terumbu
-Pempang Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html).
 
-![](lambis/110422tplrl3m3.jpg)  
-*Terumbu Pempang Laut, Apr 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947).
 
-![](lambis/240310tplta3.jpg)  
-*Terumbu Pempang Laut, Mar 24*Photo shared by Tommy Arden on [facebook](https://www.facebook.com/photo/?fbid=10231937616885804&set=a.10231937752849203).
 
 ---
 
-![](lambis/151225tsmklks6m3.jpg)  
-*Terumbu Semakau, Dec 15*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html).
 
-![](lambis/161117rlhhpy1.jpg)A juvenile. *Raffles Lighthouse, Nov `6*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3).
 
 ---
 
-![](lambis/100130brklks2m3.jpg)  
-*Terumbu Berkas, Jan 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353247648/).
 
-![](lambis/220201brktch6.jpg)  
-*Pulau Berkas, Feb 22*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159972835318713&set=a.10159972857263713).
 
-![](lambis/100613snglks1m3.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718790835/).
 
 ---
 
-![](lambis/210428slumn1.jpg)  
-*Pulau Salu, Aor 21*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158223553073660&set=a.10158223378038660).
 
 ---
 
@@ -261,7 +317,6 @@ Shared by Heng Pei Yan
 
 A spider conch
 flipping itself back, Tanah Merah, Dec 09  
-[![MVI_1787](https://farm3.staticflickr.com/2548/4196519281_7794a4b7d7_z.jpg?zz=1)](https://www.flickr.com/photos/budak/4196519281/ "MVI_1787")
   
 Video clip shared
 by Marcus Ng on [his
@@ -314,12 +369,6 @@ Laut, Apr 11
   Hall. 271 pp.
 - Abbott, R.
   Tucker, 1991. *Seashells
-  of South East Asia![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Graham Brash, Singapore. 145 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

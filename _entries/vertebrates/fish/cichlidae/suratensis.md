@@ -2,7 +2,7 @@
 title: Green chromide
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, chromide, fish, etroplus, suratensis, cichlidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Cichlidae
 genus: Etroplus
@@ -17,6 +17,14 @@ superorder: Acanthomorpha
 order: Cichliformes
 subfamily: Etroplinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/251108ecpblks17.jpg"
+  caption: |
+    <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cichlidae/suratensis/120215prpd7007m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -53,8 +61,7 @@ trade. It has since escaped and are now breeding in our waters.
 about 20cm long. Oval with a short snout and small mouth. Greyish
 green with 6 to 8 dark bars, a dark spot at the base of the pectoral
 fins, many scales with a pearly spot. It is sometimes called the Pearlspot.
-![](suratensis/120215prpd7007m6l.jpg)  
-*Pasir Ris Park, Feb 12*
+{% include img-wrap-group.html items=page.page_images %}
  
 **What does it eat?** It is mainly
 herbivorous feeding on filamentous algae, plant material. It may also
@@ -85,8 +92,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](suratensis/251108ecpblks17.jpg)  
-*East Coast Park (B), Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
  
 
 ---

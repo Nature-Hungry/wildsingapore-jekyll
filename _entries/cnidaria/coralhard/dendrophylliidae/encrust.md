@@ -2,7 +2,7 @@
 title: Encrusting disk coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
 species: ""
@@ -15,6 +15,108 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island , Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg"
+  caption: |
+    <p>Tentacles tiny rather transparent.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg"
+  caption: |
+    <p>Corallites smooth rounded bumps, conical or just a depression.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/081212cyrd2894m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/081212cyrd2895m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/040801hntg1421m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/040801hntd3761m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/080919sntd0650m3.jpg"
+  caption: |
+    <p>Sentosa, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/080919sntd0651m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/120721tptd7661m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/120721tptd7664m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/110517tptd1507m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/110517tptd1509m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/050918smkg2645m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/050918smkg2646m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/091204pawd5401m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/091204pawd5401m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/091231biod6967m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/091231biod6967m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100613sngd5472m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100613sngd5472m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100530tbkd4309m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100530tbkd4309m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8621m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8622m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8542m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100130brkd8543m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8837m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8837m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8884m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100131slud8884m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100601slud4999m3.jpg"
+  caption: |
+    <p>Pulau</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/100601slud4999m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,13 +164,9 @@ with a greenish sheen. The margins usually not in a different colour.
 *Turbinaria irregularis* and *Turbinaria stellulata* may
 have these features.
 
-*![](encrust/111001sjid1937m3.jpg)*  
-*St. John's Island , Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](encrust/111001sjid1942m3b.jpg)*Tentacles tiny rather transparent.
 
-*![](encrust/111001sjid1941m3.jpg)*Corallites smooth rounded bumps, conical
-or just a depression.
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -92,84 +190,28 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](encrust/081212cyrd2894m3.jpg)*  
-*Cyrene Reef,
-Dec 08  
-![](encrust/081212cyrd2895m3a.jpg)*
 
-*![](encrust/040801hntg1421m3.jpg)  
-Pulau Hantu,
-Aug 04  
-![](encrust/040801hntd3761m3b.jpg)*
 
-*![](encrust/080919sntd0650m3.jpg)  
-Sentosa, Sep 08  
-![](encrust/080919sntd0651m3a.jpg)*
 
 ---
 
-*![](encrust/120721tptd7661m3.jpg)  
-Terumbu Pempang Tengah, Jul 12  
-![](encrust/120721tptd7664m3a.jpg)*
 
-*![](encrust/110517tptd1507m3.jpg)  
-Terumbu Pempang
-Tengah, May 11  
-![](encrust/110517tptd1509m3.jpg)*
 
-*![](encrust/050918smkg2645m3.jpg)  
-Pulau Semakau,
-Sep 05  
-![](encrust/050918smkg2646m3c.jpg)*
 
 ---
 
-*![](encrust/091204pawd5401m3.jpg)*  
-*Pulau Pawai,
-Dec 09  
-![](encrust/091204pawd5401m3a.jpg)*
 
-*![](encrust/091231biod6967m3.jpg)*  
-*Pulau Biola,
-Dec 09  
-![](encrust/091231biod6967m3a.jpg)*
 
-*![](encrust/100613sngd5472m3.jpg)*  
-*Pulau Senang,
-Jun 10  
-![](encrust/100613sngd5472m3a.jpg)*
 
 ---
 
-*![](encrust/100530tbkd4309m3.jpg)*  
-*Pulau Berkas,
-May 10  
-![](encrust/100530tbkd4309m3a.jpg)*
 
-*![](encrust/100130brkd8621m3.jpg)*  
-*Terumbu
-Berkas, Jan 10  
-![](encrust/100130brkd8622m3a.jpg)*
 
-*![](encrust/100130brkd8542m3.jpg)*  
-*Terumbu
-Berkas, Jan 10  
-![](encrust/100130brkd8543m3.jpg)*
 
 ---
 
-*![](encrust/100131slud8837m3.jpg)*  
-*Terumbu
-Salu, Jan 10  
-![](encrust/100131slud8837m3a.jpg)*
 
-*![](encrust/100131slud8884m3.jpg)*  
-*Terumbu
-Salu, Jan 10  
-![](encrust/100131slud8884m3a.jpg)*
 
-*![](encrust/100601slud4999m3.jpg)* *Pulau
-Salu, Jun 10 ![](encrust/100601slud4999m3a.jpg)*
 
   
 

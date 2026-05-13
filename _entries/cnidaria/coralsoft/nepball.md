@@ -2,7 +2,7 @@
 title: Ball flowery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ball, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Nephtheidea
 genus: Dendronephthya
 species: sp.*
@@ -15,6 +15,49 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3b.jpg"
+  caption: |
+    <p>Polyps in clusters with spikes.</p>
+    <p>Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7119m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7119m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/110518bbd1694m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/110518bbd1694m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/111222tusd4699m3.jpg"
+  caption: |
+    <p><a href="../../echinodermata/ophiuroidea/white.htm">Ghost brittle star</a>.</p>
+    <p>Tuas, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg"
+  caption: |
+    <p><a href="../../mollusca/gastropoda/ovulidae/softcoral.htm">False cowrie</a> eats the soft coral.</p>
+    <p>Tuas, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/080705bbd7110m3a.jpg"
+  caption: |
+    <p>Tiny white  <a href="../../crustacea/othercrust/shrimp/alphballsoft.htm">snapping shrimps</a> often found in a pair in this soft coral.</p>
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170430lyglks3.jpg"
+  caption: |
+    <p>Changi Loyang, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155260871073158.1073741942.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/170716prpay1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211104869269871.1073741897.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/220617skdjt1.jpg"
+  caption: |
+    <p>Porcelain crabs seen in a colony.</p>
+    <p>Pulau Sekudu, Jun 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10160059111518119&set=a.10160059126633119">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -61,34 +104,14 @@ cowries](../../mollusca/gastropoda/ovulidae/softcoral.htm), tiny shrimps, [white
 soft coral snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft.htm), [porcelain crabs](../../crustacea/othercrust/anomura/porcellanidae/commensal.htm) and [tiny
 colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful.htm) and large [Ghost brittle stars](../../echinodermata/ophiuroidea/white.htm).
 
-*![](nepball/060625bbd3408m3.jpg)  
-Beting Bronok, Jun 06  
-![](nepball/060625bbd3408m3b.jpg)*Polyps
-in clusters with spikes. *Beting Bronok, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](nepball/080705bbd7119m3.jpg)  
-Beting Bronok, Jul 08  
-![](nepball/080705bbd7119m3b.jpg)*
 
-*![](nepball/110518bbd1694m3.jpg)  
-Beting Bronok, May 11  
-![](nepball/110518bbd1694m3b.jpg)*
 
 ---
 
-*![](../../echinodermata/ophiuroidea/white/111222tusd4699m3.jpg)*[Ghost
-brittle star](../../echinodermata/ophiuroidea/white.htm).  
-*Tuas,
-Dec 11*
 
-*![](../../mollusca/gastropoda/ovulidae/softcoral/090824tusd0011m3a.jpg)*[False
-cowrie](../../mollusca/gastropoda/ovulidae/softcoral.htm) eats the soft coral. *Tuas, Aug 09*
 
-*![](nepball/080705bbd7110m3a.jpg)*Tiny
-white  [snapping shrimps](../../crustacea/othercrust/shrimp/alphballsoft.htm)  
-often found in a pair in this soft coral.  
-*Beting Bronok,
-Jul 08*
 
  *\*ID awaits confirmation. Species are difficult to positively identify without
 close examination.  
@@ -112,14 +135,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](nepball/170430lyglks3.jpg)*  
-*Changi Loyang, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155260871073158.1073741942.547198157&type=3).
 
-*![](nepball/170716prpay1.jpg)*  
-*Pasir Ris Park, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/media/set/?set=a.10211104869269871.1073741897.1000600604&type=3).
 
-![](nepball/220617skdjt1.jpg)Porcelain crabs seen in a colony. *Pulau Sekudu, Jun 22*Photo
-shared by Jonathan Tan on [facebook](https://www.facebook.com/photo?fbid=10160059111518119&set=a.10160059126633119).
 
 ---
 

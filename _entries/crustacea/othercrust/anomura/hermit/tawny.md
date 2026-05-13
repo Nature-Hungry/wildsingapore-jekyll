@@ -2,7 +2,7 @@
 title: Tawny hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tawny, hermit, crab, clibanarius, arethusa, rutilus, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Clibanarius
@@ -21,6 +21,23 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140616cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Jun 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawal">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/140614cjd6449m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -66,10 +83,8 @@ Two species fit these photos but they are hard to tell apart in the field: *Clib
   
 More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
-*![](tawny/140614cjd6449m3.jpg)  
-Chek Jawa, Jun 14**![](tawny/140614cjd6449m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](tawny/120618tmnbd5283m3.jpg)* *Tanah Merah, Jun 12**![](tawny/120618tmnbd5283m3a.jpg)*
 
   
 *\*Species are
@@ -94,8 +109,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tawny/140616cjlks.JPG)  
-Chek Jawa, Jun 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/06/the-s-encounters-at-chek-jawal).
 
 ---
 

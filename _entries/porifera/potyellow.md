@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "yellow, pot, sponge, rhabdastrella, globostellata, ancorinidae, porifera,"
-layout: default
+layout: entry
 shape: ""
 title: Yellow pot sponge
 family: Ancorinidae
@@ -17,6 +17,59 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Astrophorina
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3b.jpg"
+  caption: |
+    <p>Holes in the shallow depression.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3a.jpg"
+  caption: |
+    <p>Bumps on the outside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/050312hntg3326m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/050312hntg3326m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/090412hntd9620m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/090412hntd9620m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/070303sjig7860m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/070303sjig7860m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100519tsmklks1m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100530tbkd4319m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/091204pawd5410m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/091231biod7023m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100130brkd8675m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100131slud8762m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100601slud4822m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/100613sngd5606m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/potyellow/040423sntd0131m3.jpg"
 ---
 
 
@@ -41,25 +94,14 @@ top, so that the entire sponge resembles a shallow pot. The depression
 is smooth and often has many closely-spaced holes that resembles holes
 in cheese. There are bumps on the outside of the 'pot', sometimes
 forming ridges. Colours range from dull yellow to brownish or beige.
-![](potyellow/040423sntd0131m3.jpg)  
-*Sentosa, Apr 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](potyellow/040423sntd0131m3b.jpg)  
-Holes in the shallow depression.
 
-![](potyellow/040423sntd0131m3a.jpg)  
-Bumps on the outside.
 
 ---
 
-![](potyellow/050312hntg3326m3.jpg)  
-*Pulau Hantu, Mar 05*![](potyellow/050312hntg3326m3a.jpg)
 
-![](potyellow/090412hntd9620m3.jpg)  
-*Pulau Hantu, Apr 09*![](potyellow/090412hntd9620m3a.jpg)
 
-![](potyellow/070303sjig7860m3.jpg)  
-*St. John's Island, Mar 07*![](potyellow/070303sjig7860m3a.jpg)
 
   
 *\*Species
@@ -84,34 +126,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](potyellow/100519tsmklks1m3.jpg)  
- *Terumbu Semakau, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html).
 
-![](potyellow/100530tbkd4319m3.jpg)  
-*Pulau Berkas, May 10*
 
 ---
 
-![](potyellow/091204pawd5410m3.jpg)  
-*Pulau Pawai, Dec 09*
 
-![](potyellow/091231biod7023m3.jpg)  
-*Pulau Biola, Dec 09*
 
-![](potyellow/100130brkd8675m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 
-![](potyellow/100131slud8762m3.jpg)  
-*Terumbu Salu, Jan 10*
 
-![](potyellow/100601slud4822m3.jpg)  
-*Pulau Salu, Jun 10*
 
-![](potyellow/100613sngd5606m3.jpg)  
-*Pulau Senang, Jun 10*
 
 ---
 

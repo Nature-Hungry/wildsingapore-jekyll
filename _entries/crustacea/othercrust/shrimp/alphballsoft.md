@@ -2,7 +2,7 @@
 title: White snapping shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Alpheidae
 genus: ""
@@ -21,6 +21,29 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg"
+  caption: |
+    <p>Tuas, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd7036m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6935m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/080705bbd6936m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110519chglks4m3.jpg"
+  caption: |
+    <p>Changi, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-lifel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/220716bblks4.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159991041208158&set=a.10159991052193158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/111222tusd4735m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,22 +84,13 @@ flowery soft corals](../../../cnidaria/coralsoft/nepball) (Family Nephtheidae). 
 Other tiny snapping shrimps are sometimes found [under
 stones and living inside sponges](alphcommensal).
 
-*![](alphballsoft/111222tusd4735m6l.jpg)  
-Tuas, Dec 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](alphballsoft/080705bbd7036m3.jpg)  
-Beting Bronok, Jul 08*
 
 ---
 
-*![](alphballsoft/080705bbd6935m3.jpg)  
-Beting Bronok, Jul 08*
 
-*![](alphballsoft/080705bbd6936m3.jpg)  
-Beting Bronok, Jul 08*
 
-*![](alphballsoft/110518bbd1955m3.jpg)  
-Beting Bronok, May 11*
 
   
 *\*Species are difficult
@@ -101,12 +115,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](alphballsoft/110519chglks4m3.jpg)  
-Changi, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-lifel).
 
-*![](alphballsoft/220716bblks4.jpg)  
-Beting Bronok, Jul 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159991041208158&set=a.10159991052193158).
 
 [links](../../../links)
 | [references](../../../references)

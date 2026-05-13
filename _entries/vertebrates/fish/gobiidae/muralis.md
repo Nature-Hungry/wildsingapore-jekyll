@@ -2,7 +2,7 @@
 title: Mural glider-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mural, glider, goby, cryptocentrus, leptocephalus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Gobiidae
 genus: Valenciennea
@@ -18,6 +18,35 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3299m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/220104lazky3.jpg"
+  caption: |
+    <p>Lazarus, Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663612925112&set=a.10166663609395112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/190704bbtch2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/130512sismn.jpg"
+  caption: |
+    <p>Big Sisters Islands, May 13 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8781568858/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/150606trymn1m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/200624tryrk1.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158268063682906&set=a.10158268061907906&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -52,13 +81,8 @@ seen?** This beautiful goby is sometimes seen on our shores.
 **Features:** To 10-13cm long. It has a large underslung mouth. 2 narrow bright orange stripes along the body, many fine orange stripes on the head that extend less brightly along the body. Black spot near the back of the first dorsal fin.  
   
 Usually found in small groups or pairs over the bottom near reefs. They dig out burrows with their mouth and shelter in them.
-![](muralis/110601tmnbd3312m3.jpg)  
-*Tanah Merah, Jun 11*
-![](muralis/110601tmnbd3299m6l.jpg)  
-*Tanah Merah, Jun 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](muralis/220104lazky3.jpg)  
-*Lazarus, Jan 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10166663612925112&set=a.10166663609395112).
 
 ---
 
@@ -76,31 +100,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](muralis/190704bbtch2.jpg)  
-*Beting Bronok, Jul 19*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3)..
 
 ---
 
-![](muralis/130512sismn2.jpg)
 
-![](muralis/130512sismn.jpg)  
-*Big Sisters Islands, May 13*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8781568858/).
 
 ---
 
-![](muralis/150606trymn1m3.jpg)  
-*Terumbu Raya, Jun 15*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3).
 
-![](muralis/150606trymn1m3a.jpg)
 
 ---
 
-![](muralis/200624tryrk1.jpg)  
-*Terumbu Raya, Jun 20*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158268063682906&set=a.10158268061907906&type=3&theater).
 
 ---
 

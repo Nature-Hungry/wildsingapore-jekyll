@@ -2,7 +2,7 @@
 title: "Maroon stone "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Menippidae
 genus: Menippe
@@ -23,6 +23,44 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/080619chgd5706m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/080619chgd5706m3a.jpg"
+  caption: |
+    <p>All red eyes, no green.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg"
+  caption: |
+    <p>All red eyes, no green.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/110617pgllks.JPG"
+  caption: |
+    <p>Punggol, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5866224570/in/album-72157625372847848/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/140618chglks.JPG"
+  caption: |
+    <p>Changi, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24907197625/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/170723ubnay1.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/150704cjhpy1m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 15Photo shared by Heng Pei Yan on <a href="https://peiyansesarma.wordpress.com/2015/07/04/interesting-sea-slugs-at-chek-jawa/">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/110616ecplks.JPG"
+  caption: |
+    <p>East Coast Park, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5838525088/in/album-72157607719316847/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/200626nsrsslks2.jpg"
+  caption: |
+    <p>East Coast, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158398027653158&set=a.10158398088433158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/170428ecpcnlks2.jpg"
+  caption: |
+    <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/241210ecpcnky1.jpg"
+  caption: |
+    <p>East Coast PCN, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169198521795112&set=a.10169198519290112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/080619chgd5706m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,12 +114,7 @@ hardwickii*) and [Red
 egg crab](../xanthidae/integerrimus) (*Atergatis integerrimus*). Here's
 more on how to tell apart [big crabs
 with big pincers](../../bigpincer) seen on our rocky shores and coral rubble.
-![](rumphii/080619chgd5706m3.jpg)  
-*Changi, Jun 08*![](rumphii/080619chgd5706m3a.jpg)  
-All red eyes, no green.
-![](rumphii/120618tmnbd5423m3.jpg)  
-*Tanah Merah, Jun 12*![](rumphii/120618tmnbd5423m3a.jpg)  
-All red eyes, no green.
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
@@ -101,35 +134,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](rumphii/110617pgllks.JPG)  
-*Punggol, Jun 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5866224570/in/album-72157625372847848/).
 
-![](rumphii/140618chglks.JPG)  
-*Changi, Jun 16*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24907197625/in/album-72157607622389163/).
 
 ---
 
-![](rumphii/170723ubnay1.jpg)  
-*Pulau Ubin, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3).
 
-![](rumphii/150704cjhpy1m3.jpg)  
-*Chek Jawa, Jul 15*Photo shared by Heng Pei Yan on [her blog](https://peiyansesarma.wordpress.com/2015/07/04/interesting-sea-slugs-at-chek-jawa/).
 
 ---
 
-![](rumphii/110616ecplks.JPG)  
-*East Coast Park, Jun 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5838525088/in/album-72157607719316847/).
 
-![](rumphii/200626nsrsslks2.jpg)  
-*East Coast, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158398027653158&set=a.10158398088433158&type=3&theater).
 
 ---
 
-![](rumphii/170428ecpcnlks2.jpg)  
-*East Coast PCN, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
 
-![](rumphii/241210ecpcnky1.jpg)  
-*East Coast PCN, Feb 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169198521795112&set=a.10169198519290112).
 
 ---
 

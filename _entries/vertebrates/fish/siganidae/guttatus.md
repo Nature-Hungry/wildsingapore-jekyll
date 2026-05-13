@@ -2,7 +2,7 @@
 title: Orange-spotted rabbitfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, spotted, rabbitfish, rabbit, fish, siganus, guttatus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Siganidae
 genus: Siganus
@@ -16,6 +16,30 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m6l.jpg"
+  caption: |
+    <p>Large golden spot near the tail.</p>
+    <p>Chek Jawa, Aug 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/220811pglky2.jpg"
+  caption: |
+    <p>Punggol, Aug 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167273586160112&set=a.10167273582760112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/230608tmftky3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 23 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168433602810112/997249805054269">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/130527tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, May 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13989048150/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/240624sjiky5.jpg"
+  caption: |
+    <p>St John's Island, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169627167815112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/170820kusmn2.jpg"
+  caption: |
+    <p>Kusu Island, Aug 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928723993660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/100527tmd3446m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,11 +88,7 @@ large golden spot below the dorsal fin near the tail which is about
 the same diameter as the eye. The upper body is dusky blue, and lower
 body silvery. The head has lines and spots. It has stout, venomous
 spines.
-![](guttatus/100527tmd3446m3.jpg)  
-*Tanah Merah, May 10*
-![](guttatus/020811cjd492m6l.jpg)  
-Large golden
-spot near the tail. *Chek Jawa, Aug 02*
+{% include img-wrap-group.html items=page.page_images %}
   
 **Painful sting!** The rabbitfish has spines on its fins
 that are grooved and contain venom glands. These spines may be found
@@ -96,24 +116,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](guttatus/220811pglky2.jpg)  
-*Punggol, Aug 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167273586160112&set=a.10167273582760112).
 
 ---
 
-*![](guttatus/230608tmftky3.jpg)**Tanah Merah, Jun 23*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168433602810112/997249805054269).
 
-![](guttatus/130527tmlks.JPG)*Tanah Merah, May 13*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/13989048150/in/album-72157664044624940/).
 
 ---
 
-![](guttatus/240624sjiky5.jpg)  
-*St John's Island, Jun 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169627167815112).
 
-![](guttatus/170820kusmn2.jpg)*Kusu Island, Aug 17*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154928723993660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Ringed plate coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "serpent, pachyseris, speciosa, agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Agariciidae
 genus: Pachyseris
 species: speciosa*
@@ -15,6 +15,81 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
+  caption: |
+    <p>Tiers of plates.</p>
+    <p>Pulau Semakau, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3.jpg"
+  caption: |
+    <p>Thick ridges form concentric rings</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2020m3b.jpg"
+  caption: |
+    <p>Fine lines perpendicular to thick ridges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/2007024pcnlks15.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482802368158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100615tmjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/150618tmftlks9m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943828863158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/220618tmftlks11a.jpg"
+  caption: |
+    <p>Competing with a <a href="../dendrophylliidae/turbinaria.htm">Disk coral</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/250714srptl6.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/160409sjilks6.JPG"
+  caption: |
+    <p>St Johns Island, Apr 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/120721tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519770649/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3.jpg"
+  caption: |
+    <p>Sisters Island, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070812sisd5434m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100530tbkd4370m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/080605hntd4926m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/100518tbbc3762m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5253m3.jpg"
+  caption: |
+    <p>Beting Bemban</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090625bsrd5255m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/090723tryd7860m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/210428slulks11.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468563158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pachyseris/070830smkg2021m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,15 +134,9 @@ perpendicular to the ridges. The polyps are usually not visible, and
 it is hard to distinguish the corallite centres and mouths. Only a
 thin tissue covers the skeleton. The tissue bears cilia (thin hairs).
 Colours seen include brown, orangey, blue and green.
-![](pachyseris/070830smkg2021m3.jpg)  
-Tiers of plates. *Pulau Semakau,
-Aug 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pachyseris/070830smkg2020m3.jpg)  
-Thick ridges
-form concentric rings
 
-.*![](pachyseris/070830smkg2020m3b.jpg)*Fine lines perpendicular to thick ridges.
 
   
 *\*Species are difficult
@@ -92,83 +161,30 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](pachyseris/2007024pcnlks15.jpg)  
-*East Coast PCN, Jul 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482802368158&set=a.10158482804868158&type=3&theater).
 
-![](pachyseris/100615tmjk1m3.jpg)  
-*Tanah Merah,
-Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merah.html).
 
-![](pachyseris/150618tmftlks9m3.jpg)  
-*Tanah Merah Ferry Terminal,
-Jun 15*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
 ---
 
-![](pachyseris/220618tmftlks11.jpg)  
-*Tanah Merah Ferry Terminal,
-Jun 22*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943828863158&set=a.10159943838013158).
 
-![](pachyseris/220618tmftlks11a.jpg)  
-Competing with a [Disk coral](../dendrophylliidae/turbinaria.htm).
 
 ---
 
-![](pachyseris/250714srptl6.jpg)  
-*Sentosa Serapong, Jul 25*Photo
-shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post).
 
-![](pachyseris/160409sjilks6.JPG)  
-*St Johns Island,
-Apr 16*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html).
 
-![](pachyseris/120721tptlks.JPG)  
-*Terumbu Pempang Tengah,
-Jul 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519770649/in/album-72157626616274147/).
 
 ---
 
-![](pachyseris/070812sisd5434m3.jpg)  
-*Sisters Island,
-Aug 07  
-![](pachyseris/070812sisd5434m3a.jpg)*
 
-![](pachyseris/100530tbkd4370m3.jpg)  
-*Pulau Berkas, May 10*![](pachyseris/100530tbkd4370m3a.jpg)
 
-![](pachyseris/080605hntd4926m3.jpg)  
-*Pulau Hantu,
-Jun 08  
-![](pachyseris/080605hntd4926m3b.jpg)*
 
 ---
 
-![](pachyseris/100518tbbc3762m3.jpg)  
-*Beting Bemban
-Besar, May 10  
-![](pachyseris/100518tbbc3762m3a.jpg)*
 
-![](pachyseris/090625bsrd5253m3.jpg)  
-*Beting Bemban
-Besar, Jun 09![](pachyseris/090625bsrd5255m3a.jpg)*
 
-![](pachyseris/090723tryd7860m3.jpg)  
-*Terumbu Raya,
-Jul 09  
-![](pachyseris/090723tryd7860m3a.jpg)*
 
 ---
 
-![](pachyseris/210428slulks11.jpg)  
-*Pulau Salu, Apr 21*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162468563158&set=a.10159162473618158).
 
 ---
 

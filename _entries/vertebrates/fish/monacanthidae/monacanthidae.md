@@ -2,7 +2,7 @@
 title: "Filefishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "filefish, file, fish, leather, jacket, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Monacanthidae
 genus: ""
 species: ""
@@ -17,6 +17,67 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg"
+  caption: |
+    <p>The 'thorn' at the top of the head can be locked into place.</p>
+    <p>There is usually a flap under the body.</p>
+    <p>Beting Bronok, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/040506cjd0033.jpg"
+  caption: |
+    <p>Wrapped closely around a sponge.</p>
+    <p>Chek Jawa, May 04 What do they eat?</p>
+    <p>Filefishes will eat almost any food source.</p>
+    <p>These include small bottom-dwelling animals like small prawns.</p>
+    <p>They also nibble on seaweed, seagrass, the epiphytes growing on them.</p>
+    <p>Also immobile animals like bryozoans and ascidians, as well as coral polyps.</p>
+    <p>They will also eat the flesh of other marine animals.</p>
+    <p>The small mouth at the end of a pointed snout allows them to suck small prey out of their hiding places, or reach into crevices to nibble on edible bits.</p>
+    <p>Some have large prominent teeth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/050526cjg6861m3.jpg"
+  caption: |
+    <p>They can change colours for perfect camouflage!</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/110519chgd2112m3.jpg"
+  caption: |
+    <p>Tiny green one resembles a seagrass leaf!</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/110929tmftd1516m3.jpg"
+  caption: |
+    <p>Three Feathery fishes resembling flotsam.</p>
+    <p>Tanah Merah, Sep 11 Filefish babies: Many filefishes lay eggs that settle on the bottom, onto a site prepared and guarded by the male or both parents.</p>
+    <p>Some subtropical species may release their eggs into open waters.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/penicilligerus/090918tmd1029m3.jpg"
+  caption: |
+    <p><a href="penicilligerus">Feathery filefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m3.jpg"
+  caption: |
+    <p><a href="anacanthus">Bearded filefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/090818tmd9242m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/tomentosus/070728sisd4532m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030716cjd0060m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/macrurus/080605hntd4960m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/chinensis/030714bbd0204m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,29 +151,7 @@ The flattened body allows them to slip quietly among seagrass or squeeze
 into crevices. These fishes often flatten out against or 'wrap around'
 sponges, rubble and other large objects. They are then really hard
 to spot.
-*![](chinensis/030714bbd0204m6l.jpg)*The 'thorn' at the top of the head
-can be locked into place. There is usually a flap under the body. *Beting Bronok, Mar 07*
-![](chinensis/040506cjd0033.jpg)  
-Wrapped closely around a sponge. *Chek Jawa, May 04*
-**What do they eat?** Filefishes will
-eat almost any food source. These include small bottom-dwelling animals
-like small prawns. They also nibble on seaweed, seagrass, the epiphytes
-growing on them. Also immobile animals like bryozoans and ascidians,
-as well as coral polyps. They will also eat the flesh of other marine
-animals. The small mouth at the end of a pointed snout allows them
-to suck small prey out of their hiding places, or reach into crevices
-to nibble on edible bits. Some have large prominent teeth.
-![](chinensis/050526cjg6861m3.jpg)  
-They can change
-colours   
-for perfect camouflage! *Chek Jawa, May 05*
-*![](chinensis/110519chgd2112m3.jpg)*Tiny green one resembles a seagrass leaf! *Changi, May 11*
-![](penicilligerus/110929tmftd1516m3.jpg)  
-Three Feathery fishes resembling flotsam. *Tanah Merah, Sep 11*
-**Filefish babies:** Many filefishes
-lay eggs that settle on the bottom, onto a site prepared and guarded
-by the male or both parents. Some subtropical species may release
-their eggs into open waters.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Filefishes are edible
 and eaten in some traditional dishes. Unlike most other edible fishes
@@ -133,17 +172,11 @@ on Singapore shores**
 
 ---
 
-***![](penicilligerus/090918tmd1029m3.jpg)* [Feathery filefish](penicilligerus)**
 
-**![](anacanthus/080523cyrd3973m3.jpg)  
-[Bearded filefish](anacanthus)**
 
 ---
 
-![](tomentosus/090818tmd9242m3.jpg)
 
-![](tomentosus/090818tmd9242m3a.jpg)
-![](tomentosus/070728sisd4532m3b.jpg)
 
 **[Seagrass
 filefish](tomentosus)**
@@ -159,11 +192,8 @@ oblong patch.
 
 ---
 
-![](chinensis/030716cjd0060m3.jpg)
 
-*![](chinensis/030716cjd0060m3a.jpg)*
 
-*![](chinensis/030716cjd0060m3b.jpg)*
 
 **[Fan-bellied
 filefish](chinensis)**
@@ -178,9 +208,7 @@ the tail is produced into a filament.
 
 ---
 
-![](macrurus/080605hntd4960m6l.jpg)
 
-***![](macrurus/080605hntd4960m3b.jpg)***
 
 **[Strapweed
 filefish](macrurus)**

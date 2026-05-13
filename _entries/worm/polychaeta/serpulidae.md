@@ -2,7 +2,7 @@
 title: Keelworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "keelworm, keel, worm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Serpulidae
 genus: ""
 species: ""
@@ -16,6 +16,32 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg"
+  caption: |
+    <p>On a living <a href="../../mollusca/bivalvia/anomiidae/placuna">Window-pane shell.</a> Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8452m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8452m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/060326tusd0666m3.jpg"
+  caption: |
+    <p>Tuas, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/111031chgd3457m3.jpg"
+  caption: |
+    <p>Growing on a living small crab.</p>
+    <p>Changi, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg"
+  caption: |
+    <p>Growing on a <a href="../../mollusca/bivalvia/pinnidae/pinnidae">fan shell</a>.</p>
+    <p>Pulau Sekudu, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8492m3.jpg"
+  caption: |
+    <p>Growing on a shell occupied by a <a href="../../crustacea/othercrust/anomura/hermit/hermit">hermit crab</a>.</p>
+    <p>Changi, Jul 08</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/serpulidae/080731chgd8454m3.jpg"
 ---
 
 
@@ -85,27 +111,12 @@ animals grow on the undersides (keels) of ships, piers and other hard
 surfaces in the sea. Fouling animals can affect the efficiency of
 these structures and equipment and thus affect human activities.   
 
-![](serpulidae/080731chgd8454m3.jpg)  
-On a living [Window-pane
-shell.](../../mollusca/bivalvia/anomiidae/placuna) *Changi, Jul 08  
-![](serpulidae/080731chgd8452m3d.jpg)  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](serpulidae/080731chgd8452m3c.jpg)  
   
-![](serpulidae/060326tusd0666m3.jpg)  
-Tuas, Mar 06*
 
-*![](serpulidae/111031chgd3457m3.jpg)*  
-Growing on a living small crab. *Changi, Oct 11*
 
-![](../../mollusca/bivalvia/pinnidae/pinnidae/060624skdd3239m3d.jpg)  
-Growing on a [fan
-shell](../../mollusca/bivalvia/pinnidae/pinnidae).  
-*Pulau Sekudu, Jun 06*
 
-![](serpulidae/080731chgd8492m3.jpg)  
-Growing on a shell occupied by a [hermit
-crab](../../crustacea/othercrust/anomura/hermit/hermit). *Changi, Jul 08*
 
   
 *\***Species are
@@ -173,5 +184,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [other
 worms](http://www.flickr.com/photos/54527470@N00/sets/72157600042022425). Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

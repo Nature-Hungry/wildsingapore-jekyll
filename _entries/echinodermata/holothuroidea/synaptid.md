@@ -2,7 +2,7 @@
 title: Synaptid sea cucumbers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Synaptidae
 genus: ""
@@ -16,6 +16,55 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg"
+  caption: |
+    <p>Synaptids <a href="synsponge">on a sponge</a> usual many seen together.</p>
+    <p>Pulau Sekudu, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg"
+  caption: |
+    <p><a href="synbig">Big synaptid</a> is usually seen alone.</p>
+    <p>Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg"
+  caption: |
+    <p><a href="synbig">Big synaptid</a> when 'bobbles' are not expanded.</p>
+    <p>Terumbu Bemban, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg"
+  caption: |
+    <p>Feeding tentacles.</p>
+    <p>Cyrene Reef, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg"
+  caption: |
+    <p>Body covered with tiny hooked sclerites.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg"
+  caption: |
+    <p><a href="synsponge">Sponge synaptid sea cucumber</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg"
+  caption: |
+    <p>Usually many seen on a sponge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg"
+  caption: |
+    <p>Feeding tentacles</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg"
+  caption: |
+    <p><a href="synbig">Big synaptid sea cucumber</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg"
+  caption: |
+    <p>Usually seen alone.</p>
+    <p>With distinct stripes between 'bobbles'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg"
+  caption: |
+    <p>Feeding tentacles</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg"
 ---
 
 
@@ -39,13 +88,9 @@ and other encrusting animals. In the seagrass meadows, thicker very
 long ones (10-12cm, to 30cm long) are entwined among the seagrasses.
 They might even be seen crawling (slowly) on the sand.
 
-*![](synsponge/030717skdd0090m3.jpg)*Synaptids [on a sponge](synsponge) usual many  
-seen together. *Pulau Sekudu, Jul 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](synbig/080422smkd1534m3.jpg)*[Big synaptid](synbig) is usually seen alone. *Pulau Semakau, Apr 08*
 
-*![](synbig/130331tbd5041m3.jpg)*  
-[Big synaptid](synbig) when 'bobbles' are not expanded. *Terumbu Bemban, Mar 13*
 
 **Features:** Synaptids have a thin
 body wall and are more delicate than other sea cucumbers. Synaptid
@@ -60,13 +105,8 @@ Among the longest sea cucumbers is a synaptid, *Synapta maculata,* which can rea
 Here's more on [how to tell apart
 worm-like animals](../../glossary/wormy).
 
-![](synbig/120819cyrd0606m3.jpg)  
-Feeding tentacles. *Cyrene Reef, Aug 12*
 
-*![](synbig/120819cyrd0606m3a.jpg)*
 
-![](synbig/120819cyrd0607m3.jpg)  
-Body covered with tiny hooked sclerites.
 
 ---
 
@@ -74,32 +114,17 @@ Body covered with tiny hooked sclerites.
 
 ---
 
-*![](synsponge/050722cjg9849m3.jpg)*  
-[**Sponge synaptid sea cucumber**](synsponge)
 
-*![](synsponge/050822cjg2143m3.jpg)*  
-Usually many seen on a sponge.
 
-*![](synsponge/050722cjg9849m3b.jpg)*  
-Feeding tentacles
 
 ---
 
-![](synbig/071026cyrd7139m3.jpg)  
-[**Big synaptid sea cucumber**](synbig)
 
-*![](synbig/071026cyrd7141m3b.jpg)*  
-Usually seen alone.  
-With distinct stripes between 'bobbles'.
 
-![](synbig/071026cyrd7141m3a.jpg)  
-Feeding tentacles
 
 ---
 
-![](synmangrove/200125prpAm6l.jpg)
 
-![](synmangrove/200125prpAm3.jpg)
 
 [**Mangrove synaptid sea cucumber**](synmangrove)
 Usually seen alone. No 'bobbles.
@@ -163,5 +188,3 @@ Synaptula* sp. 1
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

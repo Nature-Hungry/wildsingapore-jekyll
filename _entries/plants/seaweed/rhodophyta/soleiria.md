@@ -2,7 +2,7 @@
 title: Robust red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "robust, red, seaweed, weed, algae, solieria, robusta, solieriaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Solieriaceae
 genus: Solieria
@@ -17,6 +17,32 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/050621skdd4028m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/050621skdd4028m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/060326tusd0560m3.jpg"
+  caption: |
+    <p>Tuas, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/060326tusd0560m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/190218cnyrk5.jpg"
+  caption: |
+    <p>Coney Island, Feb 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156856801167906&set=a.10156856799117906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/100613sngd5508m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,16 +83,9 @@ branches. Sometimes, there are bumps on the stems. These are the reproductive
 structures of the seaweed. Colours reddish or yellowish brown. The
 clusters are small and scattered.
 
-*![](solieria/040730skdd3322m3.jpg)  
-Pulau Sekudu, Jul 04  
-![](solieria/040730skdd3322m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](solieria/050621skdd4028m3.jpg)  
-Pulau Sekudu, Jul 05**![](solieria/050621skdd4028m3b.jpg)*
 
-*![](solieria/060326tusd0560m3.jpg)  
-Tuas, Mar 06  
-![](solieria/060326tusd0560m3a.jpg)*
 
   
 *\*Seaweed species are
@@ -91,11 +110,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](solieria/190218cnyrk5.jpg)  
-Coney Island, Feb 19*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156856801167906&set=a.10156856799117906&type=3&theater).
 
-*![](solieria/100613sngd5508m3.jpg)  
-Pulau Senang, Jun 10* 
  
 
 ---

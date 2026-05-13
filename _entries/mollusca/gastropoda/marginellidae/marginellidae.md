@@ -2,7 +2,7 @@
 title: Margin snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "marginellidae, cryptospira, gastropod, mollusc, margin, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Marginellidae
 genus: Cryptospira
 species: ""
@@ -17,6 +17,20 @@ order: Neogastropoda
 superfamily: Volutoidea
 subfamily: Pruninae
 updated: Dec 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Dec 25Photo shared by Loh Kok Sheng on facebook</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/210529ecppcnch1.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10159487129613713&set=a.10159487267278713&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/marginellidae/cryptospira/251206chgelks1.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -50,15 +64,10 @@ Dec 2025*
 **Features:** About 2cm.
 Smooth tear-drop shaped smooth shell. The open has 'plaits' near the tip. The living animal has a large foot with mottled markings, a long siphon and eyes on stalks.
 
-*![](cryptospira/251206chgelks1.jpg)  
-Changi East (Lost Coast), Dec 25*Photo shared by Loh Kok Sheng on facebook
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cryptospira/251206chgelks1a.jpg)
 
-![](cryptospira/251206chgelks1d.jpg)
 
-*![](cryptospira/210529ecppcnch1.jpg)  
-East Coast (PCN), May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10159487129613713&set=a.10159487267278713&type=3).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Mangrove bumblebee goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, bumblebee, bumble, bee, goby, brachygobius, kabiliensis, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Brachygobius
@@ -18,6 +18,17 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg"
+  caption: |
+    <p>Mandai mangroves, Feb 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9795m6l.jpg"
+  caption: |
+    <p>Admiralty Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/251200admrqo3.jpg"
+  caption: |
+    <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/130202mndd3882m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,12 +72,8 @@ heart-shaped blotch on the head just behind the eyes!
 **What does it eat?** It feeds on
 tiny animals (zooplankton).
 
-![](kabiliensis/130202mndd3882m3.jpg)  
-*Mandai mangroves, Feb 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](kabiliensis/110822admd9795m6l.jpg)  
-*Admiralty
-Park, Aug 11*
 
 ---
 
@@ -85,9 +92,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](kabiliensis/251200admrqo3.jpg)  
-Admiralty Park,
-Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post).
  
  
 

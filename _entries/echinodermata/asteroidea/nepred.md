@@ -2,7 +2,7 @@
 title: Red scaly sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, belcheri, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 91, 92, 106]
 family: Asterinidae
 genus: Nepanthia
@@ -16,6 +16,80 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2820m3b.jpg"
+  caption: |
+    <p>Upperside with 'scales' and papulae.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2815m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2815m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2815m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/050821bbg1999m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080722cyrd8286m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/050821bbg1884m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/250529cjlks1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/250529cjlks1a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/200821cjjll1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/200821cjjll1b.jpg"
+  caption: |
+    <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154773801928660&set=a.10154759351698660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/090426skdtch01m3.jpg"
+  caption: |
+    <p>Pulau Sekudu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/090426skdtch01m3a.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/090426skdtch02m3.jpg"
+  caption: |
+    <p>Pulau Sekudu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/090426skdtch02m3a.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/100614bbtch3m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/170625bbmn1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154773801928660&set=a.10154759351698660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/230706bbccn2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10160566660583654&set=a.10160566623333654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/250627bbvc6.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25 Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/220716bblks3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/220716bblks3b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159991041553158&set=a.10159991052193158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/170812cyrtch2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/170812cyrtch3.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155683832248713.1073742107.619308712&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepred/080509cyrd2820m3.jpg"
 ---
 
 
@@ -49,29 +123,16 @@ emerge. The transparent tube feet are tipped with suckers.
   
 **What does it eat?** According to Marsh and Fromont, it eats sponges, hydroids, soft corals and detritus.
 
-*![](nepred/080509cyrd2820m3.jpg)  
-Cyrene Reef, May 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nepred/080509cyrd2820m3b.jpg)  
-Upperside with 'scales' and papulae.
 
-![](nepred/080509cyrd2815m3.jpg)  
-Underside.
 
-![](nepred/080509cyrd2815m3a.jpg)
 
-![](nepred/080509cyrd2815m3b.jpg)
 
 ---
 
-*![](nepred/050821bbg1999m3.jpg)  
-Beting Bronok, Aug 05*
 
-![](nepred/080722cyrd8286m3.jpg)  
- *Cyrene Reef, Jul 08*
 
-![](nepred/050821bbg1884m3.jpg)  
- *Beting Bronok, Aug 05*
 
 ---
 
@@ -90,53 +151,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**![](nepred/250529cjlks1.jpg)*  
-Chek Jawa, May 25![](nepred/250529cjlks1a.jpg)*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post).
 
-![](nepred/200821cjjll1.jpg)  
- *Chek Jawa, Aug 20![](nepred/200821cjjll1b.jpg)*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10154773801928660&set=a.10154759351698660&type=3&theater).
 
 ---
 
-*![](nepred/090426skdtch01m3.jpg)  
-Pulau Sekudu,
-Apr 09 ![](nepred/090426skdtch01m3a.jpg)*Photo
-shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
-*![](nepred/090426skdtch02m3.jpg)  
-Pulau Sekudu,
-Apr 09 ![](nepred/090426skdtch02m3a.jpg)*Photo
-shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudul).
 
 ---
 
-![](nepred/100614bbtch3m3.jpg)  
- *Beting Bronok, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl).
 
-![](nepred/170625bbmn1.jpg)  
- *Beting Bronok, Jun 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154773801928660&set=a.10154759351698660&type=3&theater).
-![](nepred/230706bbccn2.jpg)  
- *Beting Bronok, Jul 23*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10160566660583654&set=a.10160566623333654).
 
 ---
 
-*![](nepred/250627bbvc6.jpg)  
-Beting Bronok, Jun 25*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post).
 
 ---
 
-*![](nepred/220716bblks3a.jpg)  
-Beting Bronok, Jul 22![](nepred/220716bblks3b.jpg)*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159991041553158&set=a.10159991052193158).
 
-*![](nepred/170812cyrtch2.jpg)  
-Cyrene, Aug 17![](nepred/170812cyrtch3.jpg)*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155683832248713.1073742107.619308712&type=3).
 
 ---
 
@@ -152,5 +182,3 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_se
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

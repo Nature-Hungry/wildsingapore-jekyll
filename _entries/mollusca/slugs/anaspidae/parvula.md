@@ -2,7 +2,7 @@
 title: Mini sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mini, seahare, hare, aplysia, parvula, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: parvula
@@ -18,6 +18,18 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg"
+  caption: |
+    <p>Sisters Island, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3.jpg"
+  caption: |
+    <p>Rhinophore and oral tentacle tips dark.</p>
+    <p>Tiny eyes under the rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9414m3a.jpg"
+  caption: |
+    <p>Large foramen ringed in black.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,13 +79,7 @@ seahare](seagrass.htm) (*Phyllaplysia* sp.) is much smaller).
 slug](../sacoglossa/ornata.htm) (*Elysia ornata*) which is not a sea hare but a sap
 sucking slug. The Leaf slug only has one pair of tentacles and its
 'wings' are much longer, extending along most of the body length.
-![](parvula/100215sisd9413m3.jpg)  
-*Sisters Island, Feb 10* 
-![](parvula/100215sisd9414m3.jpg)  
-Rhinophore and oral tentacle tips dark.   
-Tiny eyes under the rhinophores.
-![](parvula/100215sisd9414m3a.jpg)  
-Large foramen ringed in black.
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 

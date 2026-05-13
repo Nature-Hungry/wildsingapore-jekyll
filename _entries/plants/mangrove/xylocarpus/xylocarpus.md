@@ -2,7 +2,7 @@
 title: " Nyireh"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Meliaceae
 genus: Xylocarpus
 species: ""
@@ -17,6 +17,65 @@ order: Sapindales
 subfamily: Cedreloideae
 tribe: Xylocarpeae
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
+  caption: |
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,9 +117,7 @@ and threats:** *Xylocarpus moluccensis* is listed as
 'Endangered', while *Xylocarpus rumphii* is listed as 'Critically
 Endangered' on the Red List of threatened plants of Singapore.
 
-![](granatum/090208smkd6456m6.jpg)  
-*Pulau Semakau,
-Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -78,11 +135,8 @@ batu**](moluccensis)  *Xylocarpus moluccensis*
 [**Nyireh
 laut**](rumphii)  *Xylocarpus rumphii*
 
-![](granatum/090208smkd6456m6.jpg)
 
-![](moluccensis/090823cjd9861m6l.jpg)
 
-![](rumphii/090711sjid7167m6l.jpg)
 
 Found
 on sandy shores near mangroves as well as in the back mangroves.
@@ -93,11 +147,8 @@ found on sandy shores near mangroves.
 Usually
 found on rocky shores, under natural cliffs.
 
-*![](granatum/090208smkd6461m3.jpg)*
 
-![](moluccensis/090126ubnd6185m3.jpg)
 
-![](rumphii/090401sntd8891m3.jpg)
 
 Fruit
 globular and large   
@@ -110,11 +161,8 @@ elliptical
 Fruits
 small.
 
-*![](granatum/090124ubnd6016m3.jpg)*
 
-![](moluccensis/090126ubnd6188m3.jpg)
 
-*![](rumphii/090809sjid8713m3.jpg)*
 
 Leaflets
 spoon-shaped,   
@@ -127,11 +175,8 @@ with pointed tips.
 Leaflets
 almost heart-shaped, with prominent pale veins.
 
-![](granatum/090126ubnd6191m3.jpg)
 
-![](moluccensis/090126ubnd6182m3.jpg)
 
-![](rumphii/090401sntd8875m3.jpg)
 
 Bark
 smooth, flaking off in patches.
@@ -142,11 +187,8 @@ with longitudinal fissures.
 Bark
 with longitudinal fissures.
 
-![](granatum/090124ubnd6015m3.jpg)
 
-![](moluccensis/090823cjd9863m3a.jpg)
 
-![](rumphii/090401sntd8897m3b.jpg)
 
 Well-developed
 buttresses forming narrow ribbon-like undulations extending away
@@ -161,11 +203,8 @@ specialised roots.
 Roots usually cling to boulders  
 on the rocky shore.
 
-*![](granatum/090411lckd9438m3.jpg)*
 
-![](moluccensis/090823cjd9874m3.jpg)
 
-![](rumphii/100321sntd9690m3a.jpg)
 
 Flowers of the
 *Xylocarpus* species appear similar

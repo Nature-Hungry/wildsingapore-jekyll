@@ -2,7 +2,7 @@
 title: Variable fang-blenny
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "variable, fang, blenny, fish, petroscirtes, variabilis, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Blennidae
 genus: Petroscirtes
@@ -18,6 +18,69 @@ order: Blenniiformes
 suborder: Blennioidei
 subfamily: Blenniinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/070716chgd4280m3.jpg"
+  caption: |
+    <p>Changi, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/080523cyrd3923m3.jpg"
+  caption: |
+    <p>Pair of long curved fangs on lower jaw.</p>
+    <p>Cyrene Reef, May 08 What does it eat?</p>
+    <p>According to <a href="http://fishbase.org/Summary/SpeciesSummary.php?ID=6076">FishBase</a>, it eats mainly small crustaceans and occasionally nips off scales from other fishes.</p>
+    <p>According to Kuiter, it scrapes algae off broad seagrasses.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210502tptvc1b.jpg"
+  caption: |
+    <p>Guarding eggs in an empty <a href="../../../mollusca/bivalvia/pinnidae/pinnidae">Fan shell</a> clam.</p>
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158447591457945&set=a.10158447654442945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210502tptvc1a.jpg"
+  caption: |
+    <p>Close up of the eggs: about to hatch?!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg"
+  caption: |
+    <p>Guarding eggs laid inside a large snail shell.</p>
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/210402tmskvc5.jpg"
+  caption: |
+    <p>A pair seen with eggs inside an empty <a href="../../../mollusca/bivalvia/pinnidae/pinnidae">Fan shell</a> clam.</p>
+    <p>Terumbu Semakau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158381221192945&set=a.10158381328717945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/181126lablks.jpg"
+  caption: |
+    <p>Labrador, Nov 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/160509srpik6.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200112sjilks9.jpg"
+  caption: |
+    <p>St John's Island, Jan 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157877788018158&set=a.10157877785293158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/111001sjiro5m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/220518kusbc1.jpg"
+  caption: |
+    <p>Kusu Island, May 22Photo shared by Benny Cheong on <a href="https://www.facebook.com/photo/?fbid=10160146265763184&set=a.10160146271823184">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/201019sjijll10.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806534691295&set=a.10157806532326295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200126bsisro3.jpg"
+  caption: |
+    <p>Big Sisters Island, Jan 20 Photo shared by Rene Ong on <a href="https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895475213845491/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/251207hntky3.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/200918cyrlks6.jpg"
+  caption: |
+    <p>Cyrene, Sep 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158627946188158&set=a.10158627950818158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/130428tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, Apr 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749317829/in/album-72157624104220316/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawjk1m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171065335/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,15 +120,7 @@ up rather handsomely when alarmed. Colours usually a dull olive green
 with pale markings, some brighter green. Underside yellow.
 Six large irregular dark blotches along upper side. Males are orange-brown while females are sea-green above and lighter
 below.
-*![](variabilis/051216smkg3405m3.jpg)  
-Pulau Semakau, Dec 05*
-*![](variabilis/070716chgd4280m3.jpg)  
-Changi, Jul 07* 
-*![](variabilis/080523cyrd3923m3.jpg)*Pair of long curved fangs on lower jaw. *Cyrene Reef, May 08*
-**What does it eat?** According to [FishBase](http://fishbase.org/Summary/SpeciesSummary.php?ID=6076),
-it eats mainly small crustaceans and occasionally nips off scales
-from other fishes. According to Kuiter, it scrapes algae off broad
-seagrasses.
+{% include img-wrap-group.html items=page.page_images %}
   
 
 **Watch the fangs!** This little fish has sharp teeth and can nip a naked hand or finger. In some places, it is called the Variable sabretooth blenny. Don't touch the fish!
@@ -74,22 +129,11 @@ seagrasses.
 **Blenny babies:** It lays adhesive
 eggs. It has been seen to guard eggs laid inside empty [Fan shell clams](../../../mollusca/bivalvia/pinnidae/pinnidae) and other large empty snail shells. Once, a pair were seen with the eggs.
 
-*![](variabilis/210502tptvc1b.jpg)*Guarding eggs in an empty [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae) clam. *Terumbu Pempang Tengah, May 21*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158447591457945&set=a.10158447654442945).
 
-![](variabilis/210502tptvc1a.jpg)  
-Close up of the eggs: about to hatch?!
 
 ---
 
-![](variabilis/091204pawd5376.jpg)  
-Guarding
-eggs laid inside a large snail shell. *Pulau Pawai, Dec 09* 
 
-*![](variabilis/210402tmskvc5.jpg)*A pair seen with eggs inside an empty [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae) clam. *Terumbu Semakau, Apr 21*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158381221192945&set=a.10158381328717945).
 
 ---
 
@@ -108,56 +152,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](variabilis/181126lablks.jpg)  
-Labrador, Nov 18*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3).
 
-*![](variabilis/160509srpik6.jpg)  
-Sentosa Serapong, May 16*Photo
-shared by Ivan Kwan on [facebook](https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3).
 
 ---
 
-*![](variabilis/200112sjilks9.jpg)  
-St John's Island, Jan 20*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157877788018158&set=a.10157877785293158&type=3&theater).
 
-*![](variabilis/111001sjiro5m3.jpg)*  
-*St. John's
-Island, Oct 11*  
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.221482431244796.55062.133291903397183&type=3).
 
 ---
 
-*![](variabilis/220518kusbc1.jpg)  
-Kusu Island, May 22*Photo
-shared by Benny Cheong on [facebook](https://www.facebook.com/photo/?fbid=10160146265763184&set=a.10160146271823184).
 
-*![](variabilis/201019sjijll10.jpg)  
-St John's Island, Oct 20*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157806534691295&set=a.10157806532326295).
 
 ---
 
-*![](variabilis/200126bsisro3.jpg)*  
-*Big Sisters Island, Jan 20*  
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/133291903397183/photos/a.2895468190512860/2895475213845491/?type=3&theater).
-![](variabilis/251207hntky3.jpg)  
-*Pulau Hantu, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
-*![](variabilis/200918cyrlks6.jpg)*  
-*Cyrene, Sep 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158627946188158&set=a.10158627950818158).
 
 ---
 
-*![](variabilis/130428tsmklks.JPG)*  
-*Terumbu Semakau, Apr 13*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749317829/in/album-72157624104220316/).
 
-*![](variabilis/091204pawjk1m3.jpg)  
-Pulau Pawai, Dec 09*Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171065335/).
 
 ---
 

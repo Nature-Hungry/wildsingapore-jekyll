@@ -2,7 +2,7 @@
 title: Leopard triton snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cymatium, ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ranellidae
 genus: Cymatium
 species: ""
@@ -16,6 +16,29 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg"
+  caption: |
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd3022m3.jpg"
+  caption: |
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120624cyrs09472m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120704chglks1.JPG"
+  caption: |
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120704chglks3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519641507/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120704chglks2.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/090626cyrtch.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 09Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/3716580487/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,14 +80,9 @@ a leopard.
 Gosliner, *Cymatium* species may feed on a variety of gastropods
 as well as bivalves.
 
-*![](cymatium/120510chgd2996m3.jpg)  
-Changi, May 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](cymatium/120510chgd3022m3.jpg)  
-Changi, May 12*
 
-*![](cymatium/120624cyrs09472m3.jpg)  
-Cyrene Reef, Jun 12*
 
   
 *\*Species are difficult
@@ -89,18 +107,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](cymatium/120704chglks1.JPG)  
-Changi, Jul 12*
 
-![](cymatium/120704chglks3a.jpg)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519641507/in/album-72157607622389163/).
 
-*![](cymatium/120704chglks2.JPG)*
 
 ---
 
-*![](cymatium/090626cyrtch.jpg)  
-Chek Jawa, Jun 09*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/3716580487/).
 
 ---
 

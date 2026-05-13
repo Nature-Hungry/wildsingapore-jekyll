@@ -2,7 +2,7 @@
 title: "Large "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snaky, anemone, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Actiniidae
 genus: ""
 species: ""
@@ -17,6 +17,64 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusbd0005m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3a.jpg"
+  caption: |
+    <p>Oral disk has white stripes that may extend onto the tentacles.</p>
+    <p>Oral disk lacks white stripes.</p>
+    <p>Oral disk lacks white stripes.</p>
+    <p>Oral disk sparsely covered in tentacles.</p>
+    <p>Oral disk densely covered in tentacles.</p>
+    <p>Oral disk densely covered in tentacles.</p>
+    <p>Tentacle tips are tapered.</p>
+    <p>Tentacle tips are rounded or swollen and bubble-like.</p>
+    <p>Tentacle tips are tapered often with pink or colourful tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/magnifica/040522kusad0015m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3a.jpg"
+  caption: |
+    <p>Large eye-shaped verrucae.</p>
+    <p>Small verrucae in rows near the top of the body column.</p>
+    <p>Large obvious bumpy verrucae in rows on a pale body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg"
+  caption: |
+    <p><a href="haddoni.htm">Haddon's carpet anemone</a> has short tentacles and is found in sand.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg"
+  caption: |
+    <p><a href="mertensii.htm">Merten's carpet anemone</a> has short tentacles and is found on reefs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070630sisg0770m3.jpg"
+  caption: |
+    <p>The <a href="entacmaea.htm">bulb tip anemone</a> usually has bulbous tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/040423sntd0079m3.jpg"
+  caption: |
+    <p>Some <a href="../coralsoft/alcyoniidae.htm">leathery soft corals</a> may look like large sea anemones.</p>
+    <p>They have tiny polyps with tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/gonbig/100601slud4724m3a.jpg"
+  caption: |
+    <p>This is a <a href="../coralhard/poritidae/goniopora.htm">hard coral</a> with long-bodied polyps tipped with tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg"
+  caption: |
+    <p>The <a href="../coralhard/fungiidae/heliofungia.htm">Sunflower mushroom coral</a> is a hard coral with a hard skeleton.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbd5815m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -50,9 +108,7 @@ Here's more on how to tell them apart.
 
 ---
 
-![](doreensis/050821bbd5815m3.jpg)  
-![](magnifica/040522kusbd0005m3.jpg)  
-![](crispa/100403tbbd0629m3.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
 [**Snaky
 anemone**](doreensis.htm)(*Heteractis
@@ -73,36 +129,6 @@ Usually
 seen in living reefs among living hard corals.
 Usually
 seen in coral rubble areas and among living hard corals.
-![](doreensis/050821bbd5815m3a.jpg)
-![](magnifica/040522kusbd0005m3b.jpg)
-![](crispa/100403tbbd0629m3a.jpg)
-Oral
-disk has white stripes that may extend onto the tentacles.
-Oral
-disk lacks white stripes.
-Oral
-disk lacks white stripes.
-Oral
-disk sparsely covered in tentacles.
-Oral
-disk densely covered in tentacles.
-Oral
-disk densely covered in tentacles.
-Tentacle
-tips are tapered.
-Tentacle
-tips are rounded or swollen and bubble-like.
-Tentacle
-tips are tapered often with pink or colourful tips.
-![](doreensis/050821bbd5815m3c.jpg)
-![](magnifica/040522kusad0015m3.jpg)
-![](crispa/100403tbbd0634m3a.jpg)
-Large
-eye-shaped verrucae.
-Small
-verrucae in rows near the top of the body column.
-Large
-obvious bumpy verrucae in rows on a pale body column.
 
 ---
 
@@ -112,38 +138,13 @@ comparisons**
 
 ---
 
-*![](haddoni/050623cjd4123m3.jpg)*  
-[Haddon's
-carpet anemone](haddoni.htm)   
-has short tentacles and is found in sand.
 
-*![](mertensii/120411thntd9385m3.jpg)*  
-[Merten's
-carpet anemone](mertensii.htm)  
-has short tentacles and is found on reefs.
 
-*![](entacmaea/070630sisg0770m3.jpg)*  
-The [bulb
-tip anemone](entacmaea.htm)   
-usually has bulbous tips.
 
 ---
 
-![](../coralsoft/letomelette/040423sntd0079m3.jpg)  
-Some [leathery
-soft corals](../coralsoft/alcyoniidae.htm)   
-may look like large sea anemones.   
-They have tiny polyps with tentacles.
 
-![](../coralhard/poritidae/gonbig/100601slud4724m3a.jpg)  
-This is a [hard
-coral](../coralhard/poritidae/goniopora.htm) with   
-long-bodied polyps tipped with tentacles.
 
-![](../coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg)  
-The [Sunflower mushroom
-coral](../coralhard/fungiidae/heliofungia.htm)   
-is a hard coral with a hard skeleton.
 
 ---
 

@@ -2,7 +2,7 @@
 title: Moon crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, crab, matuta, matutidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Matutidae
 genus: ""
 species: ""
@@ -23,6 +23,52 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg"
+  caption: |
+    <p>All the legs of the Moon crab are flattened into paddles.</p>
+    <p>Changi May, 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/070603sntrd1730m3.jpg"
+  caption: |
+    <p>About to mate?</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg"
+  caption: |
+    <p>With eggs.</p>
+    <p>St.</p>
+    <p>John's Island, Feb 24 Photos shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10160067037118660&set=a.10160067038553660">facebook</a>.</p>
+    <p>Features: Body somewhat circular with a pair of long spikes on the sides.</p>
+    <p>Pincers short, sturdy, held against the body to form a somewhat box-like shape.</p>
+    <p>All walking legs end in paddle-shaped tips and used to skim along the sea bottom and also like spades to rapidly burrow into the sand.</p>
+    <p>With eight little spades rotating rapidly, the crab disappears into wet sand in an eyeblink.</p>
+    <p>The sturdy pincers grab any edible bits that the crab can handle.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7795m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7798m3.jpg"
+  caption: |
+    <p>Buries itself in an eye blink.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110730tmftd7800m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/100701tmd7968m3.jpg"
+  caption: |
+    <p>Swarming over a recently dead fish.</p>
+    <p>Tanah Merah, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/081019chgd1372m3.jpg"
+  caption: |
+    <p>A huge dead crab, bliss!</p>
+    <p>Changi, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/020209cjd6343m3.jpg"
+  caption: |
+    <p>Tiny one eating an injured worm.</p>
+    <p>Chek Jawa, Feb 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg"
+  caption: |
+    <p><a href="lunaris">Spotted moon crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg"
+  caption: |
+    <p><a href="planipes">Flower moon crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050511cftg6303m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,31 +103,10 @@ seen?** These crabs as pale and circular as a full moon are
 commonly encountered on our Northern shores. They are more active
 at night and are rarely seen by daytime visitors as they are then
 often buried in the sediments.
-*![](../matutidae/lunaris/050511cftg6303m3.jpg)*All the legs of the Moon crab  
-are flattened into paddles.  
-*Changi May, 05*
-*![](lunaris/070603sntrd1730m3.jpg)*About
-to mate?
-*![](lunaris/240212sjimn1.jpg)*With eggs. *St. John's Island, Feb 24*  
-Photos
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10160067037118660&set=a.10160067038553660).
-**Features:** Body somewhat circular with a
-pair of long spikes on the sides. Pincers short, sturdy, held against
-the body to form a somewhat box-like shape. All walking legs end in
-paddle-shaped tips and used to skim along the sea bottom and also
-like spades to rapidly burrow into the sand. With eight little spades
-rotating rapidly, the crab disappears into wet sand in an eyeblink.
-The sturdy pincers grab any edible bits that the crab can handle.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lunaris/110730tmftd7795m3.jpg)  
-*Tanah Merah,
-Jul 11*
 
-![](lunaris/110730tmftd7798m3.jpg)  
-Buries itself
-in an eye blink.
 
-![](lunaris/110730tmftd7800m3.jpg)
 
 **What do they eat?** They eat worms,
 clams and other small animals, foraging more actively at night. A
@@ -97,18 +122,8 @@ animals of Singapore. However, like other creatures of the intertidal zone, they
 by human activities such as reclamation and pollution.  Trampling
 by careless visitors also have an impact on local populations.
 
-*![](lunaris/100701tmd7968m3.jpg)*Swarming
-over a recently dead fish.   
- *Tanah
-Merah, Jul 10*
 
-*![](lunaris/081019chgd1372m3.jpg)*A
-huge dead crab, bliss!   
- *Changi,
-Oct 08*
 
-*![](lunaris/020209cjd6343m3.jpg)*Tiny
-one eating an injured worm. *Chek Jawa, Feb 02*
 
 ---
 
@@ -118,10 +133,7 @@ crabs on Singapore shores**
 
 ---
 
-***![](lunaris/050429cftg5330m3.jpg)* [Spotted moon crab](lunaris)**
 
-***![](planipes/050818cftg1360m3.jpg)*  
- [Flower moon crab](planipes)**
 
 ---
 

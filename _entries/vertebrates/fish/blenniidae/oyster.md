@@ -2,12 +2,24 @@
 title: Oyster blenny
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blenniidae, blenny, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Blennidae
 genus: ""
 species: ""
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg"
+  caption: |
+    <p>East Coast Park, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/170212bsismn.jpg"
+  caption: |
+    <p>Elongate oyster-blenny (Omobranchus elongatus) Big Sisters Island, Feb 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154385633743660&set=a.10154384580548660.1073741913.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/240212sjivc2.jpg"
+  caption: |
+    <p>With eggs!</p>
+    <p>St John's Island, Feb 24 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229785992945&set=a.10160230394282945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -41,10 +53,7 @@ Sep 2020*
 seen?** This small elongated fish is sometimes seen hidden in crevices on encrusted rocks, seawalls and rubble, even out of water at low tide.  
   
 **Features:** About 5cm. Body elongated flattened sideways, head rounded. Fine white lines along the body length.
-![](oyster/090819ecpd9415m3c.jpg)  
-*East Coast Park, Aug 09*
-*![](oyster/170212bsismn.jpg)*Elongate oyster-blenny *(Omobranchus elongatus)  
-Big Sisters Island, Feb 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154385633743660&set=a.10154384580548660.1073741913.624178659&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -63,9 +72,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](oyster/240212sjivc2.jpg)*  
-With eggs! *St John's Island, Feb 24*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160229785992945&set=a.10160230394282945).
 
 ---
 

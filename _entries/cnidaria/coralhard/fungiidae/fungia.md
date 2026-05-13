@@ -2,7 +2,7 @@
 title: "Fungia mushroom  corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fungiidae
 genus: Fungia
 species: ""
@@ -15,6 +15,35 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg"
+  caption: |
+    <p>Short tentacles</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,12 +107,7 @@ global listing](http://www.iucnredlist.org/). Like other creatures of the intert
 mushroom corals are affected by human activities such as reclamation
 and pollution. Trampling by careless visitors, and over-collection
 by hobbyists also have an impact on local populations.  
-![](circular/060713rlhd4228m3.jpg)  
-*Raffles Lighthouse, Jul 06*
-![](circular/060713rlhd4228m3d.jpg)  
-Short tentacles
-![](circular/060713rlhd4229m3.jpg)  
-Underside.
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -92,14 +116,8 @@ corals on Singapore shores**
 
 ---
 
-**![](oval/060402ulrd0962m3.jpg)  
-[Oval mushroom coral](oval.htm) *![](oval/060402ulrd0962m3a.jpg)***
 
-**![](circular/060212sisg4742m3.jpg)  
-[Circular mushroom coral](circular.htm) *![](circular/060212sisg4742m3a.jpg)***
 
-**![](circular/110730tmftd7666m3.jpg)  
-[Circular mushroom coral](circular.htm) *![](circular/110730tmftd7666m3a.jpg)***
 
  *\*Species are difficult to positively identify without close examination.
   

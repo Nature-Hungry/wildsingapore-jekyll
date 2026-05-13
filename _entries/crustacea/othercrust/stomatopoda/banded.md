@@ -2,7 +2,7 @@
 title: Banded mantis shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mantis, shrimp, lysiosquilla, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [84, 103, 104]
 family: Lysiosquillidae
 genus: Lysiosquilla
@@ -19,6 +19,38 @@ order: Stomatopoda
 suborder: Unipeltata
 superfamily: Lysiosquilloidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3633m3a.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3640m6la.jpg"
+  caption: |
+    <p>Tanah Merah, May 10</p>
+- url: "https://live.staticflickr.com/4518/24972145928_e6a1cc37da_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24972145928/in/photolist-E3GLY9-hdmSA4-cFsCfb-cFsBRJ-cFsBud-85ifwV-85ifsc "Banded mantis shrimp (Lysiosquilla sp.)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/090529chgjkm6.jpg"
+  caption: |
+    <p>Changi, May 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/090529-banded-stomatopod-at-changil">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/090529chgjkm3.jpg"
+  caption: |
+    <p>Changi, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/120722cyrlks.JPG"
+  caption: |
+    <p>Cyrene, Jul 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/ss-of-cyrene-reef-slugs-stars-and-sharksl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/240410cyrky2.jpg"
+  caption: |
+    <p>Cyrene, Apr 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169356964715112&set=a.10169356961615112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/220101smksky1.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166658126105112&set=a.10166658117690112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/220104tkkvc1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158869377027945&set=a.10158869425132945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/banded/100527tmd3635m6a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,18 +102,12 @@ However, like
 other creatures of the intertidal zone, they are affected by human
 activities such as reclamation and pollution.
 
-*![](banded/100527tmd3635m6a.jpg)  
-Tanah Merah, May 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](banded/100527tmd3633m3a.jpg)  
-Tanah Merah, May 10*
 
-*![](banded/100527tmd3640m6la.jpg)  
-Tanah Merah, May 10*
 
 ---
 
-[![Banded mantis shrimp (Lysiosquilla sp.)](https://live.staticflickr.com/4518/24972145928_e6a1cc37da_z.jpg)](https://www.flickr.com/photos/wildsingapore/24972145928/in/photolist-E3GLY9-hdmSA4-cFsCfb-cFsBRJ-cFsBud-85ifwV-85ifsc "Banded mantis shrimp (Lysiosquilla sp.)")
 
 ---
 
@@ -100,29 +126,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](banded/090529chgjkm6.jpg)  
-Changi, May 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/090529-banded-stomatopod-at-changil).
 
-*![](banded/090529chgjkm3.jpg)  
-Changi, May 10*
 
 ---
 
-*![](banded/120722cyrlks.JPG)  
-Cyrene, Jul 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/08/ss-of-cyrene-reef-slugs-stars-and-sharksl).
 
-*![](banded/240410cyrky2.jpg)  
-Cyrene, Apr 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169356964715112&set=a.10169356961615112).
 
 ---
 
-*![](banded/220101smksky1.jpg)  
-Pulau Semakau (South), Jan 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10166658126105112&set=a.10166658117690112).
 
-*![](banded/220104tkkvc1.jpg)  
-Pulau Tekukor, Jan 22*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158869377027945&set=a.10158869425132945).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Brown-spotted moray eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, spotted, moray, eel, gymnothorax, reevesii, muraenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Muraenidae
 genus: Gymnothorax
@@ -18,6 +18,28 @@ order: Anguilliformes
 suborder: Muraenoidei
 subfamily: Muraeninae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg"
+  caption: |
+    <p>Lunging after prey in a hole with flaring of long dorsal fins.</p>
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3515.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg"
+  caption: |
+    <p>Sharp teeth and tubular nostrils.</p>
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/160704cjlks3l.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 2016 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2016/07/predawn-at-chek-jawa-coral-rubble.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/170625bbtch4.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155512058758713.1073742095.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/190704bbjll2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -64,15 +86,9 @@ in S-shapes, rather like a snake.
 **Sometimes mistaken for** [sea
 snakes](../../snakes/hydrophiidae/laticauda.htm). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
-![](reevesii/091008tmd2463m3.jpg)  
-Lunging after prey in a hole with   
-flaring of long dorsal fins. *Tanah Merah, Oct 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](reevesii/110602tmftd3515.jpg)  
-*Tanah Merah, Jun 11*
 
-![](reevesii/110602tmftd3429m6l.jpg)  
-Sharp teeth and tubular nostrils. *Tanah Merah, Jun 11*
 
 ---
 
@@ -91,17 +107,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](reevesii/160704cjlks3l.jpg)  
-*Chek Jawa, Jul 2016*   
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2016/07/predawn-at-chek-jawa-coral-rubble.html).
 
 ---
 
-![](reevesii/170625bbtch4.jpg)  
-*Beting Bronok, Jun 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155512058758713.1073742095.619308712&type=3).
-![](reevesii/190704bbjll2.jpg)  
-*Beting Bronok, Jul 19*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3).
 
 ---
 

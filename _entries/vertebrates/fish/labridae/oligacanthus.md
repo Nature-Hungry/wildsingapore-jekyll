@@ -2,7 +2,7 @@
 title: "Singapore   tuskfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "anchor, tuskfish, tusk, fish, choerodon,  oligacanthus, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Labridae
 genus: Choerodon
@@ -18,6 +18,14 @@ order: Labriformes
 suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154911219433660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/210528chg7tch2.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484931383713&set=a.10159484959768713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/oligacanthus/170812cyrmn.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -53,11 +61,8 @@ they are usually seen in sand-rubble next to coastal reefs, usually in turbulent
 White-patch tuskfish.  
   
 **Features:** To 28cm. It has bluish stripes on the lower sides of its body and does NOT have a black spot on the middle of its dorsal fin. [SeaLife Base](http://www.fishbase.org/summary/8406) describes it as: Recognized by the bright white patch that is highly visible in dirty water. Colour orange with light grey longitudinal stripes, a large bright yellow oval spot on side above lateral line and below anterior half of dorsal fin.
-![](oligacanthus/170812cyrmn.jpg)  
-*Cyrene Reef, Oct 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154911219433660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](oligacanthus/210528chg7tch2.jpg)  
-*Changi Carpark 7, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159484931383713&set=a.10159484959768713).
 
 **Human uses:** It is sold fresh.
 

@@ -2,12 +2,23 @@
 title: Tiny seagrass snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "babylonia, spirata, babyloniidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Litiopidae
 genus: Alaba
 species: virgata*
 attributes: []
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg"
+  caption: |
+    <p>Changi, Jul 15.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3a.jpg"
+  caption: |
+    <p>Changi, Jul 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150704cjtch1m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153437829118713.1073741963.619308712&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/litiopidae/alaba/150702chg7d6322m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -41,11 +52,8 @@ seen?** These tiny snails are often seen in large numbers on seagrasses on our N
 **Features:** 0.5cm or smaller. Shell thin,
 conical, smooth. Shell translucent to maroon with fine maroon lines. Body translucent white with long thin tentacles.
 
-*![](alaba/150702chg7d6322m3.jpg)  
-Changi, Jul 15*.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](alaba/150702chg7d6322m3a.jpg)  
-Changi, Jul 15*
 
   
 *\*Species
@@ -69,8 +77,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](alaba/150704cjtch1m3.jpg)  
-Chek Jawa, Jul 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153437829118713.1073741963.619308712&type=3).
 
 ---
 

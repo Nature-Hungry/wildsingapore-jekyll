@@ -2,7 +2,7 @@
 title: Many-band snapping shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Alpheidae
 genus: ""
@@ -21,6 +21,63 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/230704chgsafmn5.jpg"
+  caption: |
+    <p>Changi Creek, Jul 23</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/230704chgsafmn5a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10159699472448660&set=a.10159688657118660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/070422cjmn.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/469240124/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/090426skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Apr 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3479241897/in/album-72157617338477064/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/081105sntmn.jpg"
+  caption: |
+    <p>Sentosa, Nov 08Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3048451722/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/091218tmlks1m3.JPG"
+  caption: |
+    <p>Tanah Merah, Dec 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/220716bblks6.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159991045683158&set=a.10159991052193158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/151128sjimn.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Nov 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/23407734115/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/210430sjirk1.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159078530297906&set=a.10159053645037906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/241117cyrlks1.jpg"
+  caption: |
+    <p>Cyrene, Nov 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161885675328158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/180812cyrmn1.jpg"
+  caption: |
+    <p>Next to its moult (with tranparent eyes).</p>
+    <p>Cyrene Reef, Aug 18Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155769571673660&set=a.10155769572673660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/240623hntlks4.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050917smkg2366m3.jpg"
+  caption: |
+    <p>(Alpheus sp.</p>
+    <p>undescribed)  Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/250515tpttl4.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,12 +121,9 @@ These snapping shrimps are often seen with shrimp gobies such as the [Slender-li
 shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus) (*Cryptocentrus leptocephalus*) and [Saddled
 shrimp-goby](../../../vertebrates/fish/gobiidae/maudae) (*Cryptocentrus maudae*).
 
-*![](alphmanyband/080705bbd7018m3.jpg)  
-Beting Bronok, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](alphmanyband/080705bbd7018m3a.jpg)*
 
-*![](alphmanyband/080705bbd7018m3c.jpg)*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -92,64 +146,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](alphmanyband/230704chgsafmn5.jpg)  
-Changi Creek, Jul 23*
 
-![](alphmanyband/230704chgsafmn5a.jpg)  
-Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10159699472448660&set=a.10159688657118660).
 
 ---
 
-*![](alphmanyband/070422cjmn.jpg)  
-Chek Jawa, Apr 07*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/469240124/).
 
-*![](alphmanyband/090426skdmn.jpg)  
-Pulau Sekudu, Apr 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3479241897/in/album-72157617338477064/).
 
-*![](alphmanyband/081105sntmn.jpg)  
-Sentosa, Nov 08*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3048451722/).
 
 ---
 
-*![](alphmanyband/091218tmlks1m3.JPG)  
-Tanah Merah,
-Dec 09*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
-*![](alphmanyband/220716bblks6.jpg)  
-Beting Bronok, Jul 22*   
-Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159991045683158&set=a.10159991052193158).
 
-*![](alphmanyband/151128sjimn.jpg)  
-St. John's Island,
-Nov 15*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/23407734115/).
 
-*![](alphmanyband/210430sjirk1.jpg)  
-St. John's Island, Apr 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159078530297906&set=a.10159053645037906).
 
 ---
 
-*![](alphmanyband/241117cyrlks1.jpg)  
-Cyrene, Nov 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161885675328158&type=3&ref=embed_post).
 
-*![](alphmanyband/180812cyrmn1.jpg)*Next to its moult (with tranparent eyes). *Cyrene Reef, Aug 18*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10155769571673660&set=a.10155769572673660&type=3&theater).
 
 ---
 
-![](alphmanyband/240623hntlks4.jpg) *Pulau Hantu, Jun 24*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158).
 
-*![](alphmanyband/050917smkg2366m3.jpg)*(*Alpheus* sp. undescribed)  *Pulau Semakau, Sep 05*
 
-*![](alphmanyband/250515tpttl4.jpg)*  
- *Terumbu Pempang Tengah, May 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post).
 
 ---
 

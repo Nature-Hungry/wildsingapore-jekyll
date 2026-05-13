@@ -2,7 +2,7 @@
 title: "Knobbly agar-agar seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "knobbly, agar, gracilaria, salicornia, red, seaweed, weed, algae, gracilariaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Gracilariaceae
 genus: Gracilaria
@@ -17,6 +17,44 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gracilariales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3.jpg"
+  caption: |
+    <p>Chek Jawa, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/120208cjd6170m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060712tusd4057m3.jpg"
+  caption: |
+    <p>Tuas, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/110827smkd9880m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091218tmd5966m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060515labd1919m3.jpg"
+  caption: |
+    <p>Labrador, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/060515labd1919m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/091204pawd0011m3a.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,32 +109,15 @@ repellant and to treat knee joints, sores, heart complaints, stomach
 and intestinal disorders. It is reported to have anti-bacterial and
 anti-tumor properties.
 
-![](salicornia/050526cjg6877m3.jpg)  
-*Chek Jawa,
-May 05   
-![](salicornia/050526cjg6877m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](salicornia/120208cjd6170m3.jpg)  
-Chek Jawa, Feb 12*
 
-*![](salicornia/120208cjd6170m3a.jpg)  
-Chek Jawa, Feb 12*
 
-*![](salicornia/060712tusd4057m3.jpg)  
-Tuas, Jul 06*
 
 ---
 
-*![](salicornia/110827smkd9880m3.jpg)  
-Pulau Semakau, Aug 11  
-![](salicornia/110827smkd9880m3a.jpg)*
 
-![](salicornia/091218tmd5966m3.jpg)  
-*Tanah Merah, Dec 09*![](salicornia/091218tmd5966m3a.jpg)
 
-*![](salicornia/060515labd1919m3.jpg)  
-Labrador, Jun 05  
-![](salicornia/060515labd1919m3a.jpg)*
 
   
 *\*Seaweed
@@ -122,8 +143,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](salicornia/091204pawd0011m3a.jpg)  
-Pulau Pawai, Dec 09*
 
 ---
 

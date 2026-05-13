@@ -2,7 +2,7 @@
 title: Cleaner shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "cleaner, shrimp, lysmata, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Hippolytidae
 genus: Lysmata
@@ -21,6 +21,23 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/110120pgllks.JPG"
+  caption: |
+    <p>Punggol, Jan 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5376419735/in/album-72157625372847848/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/210529epcnvc6.jpg"
+  caption: |
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497034312945&set=a.10158495877737945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,12 +84,9 @@ These 'clients' often patiently queue up at a 'cleaning station' manned
 by the shrimp to enjoy the cleaning service. The fishes get rid of
 dead skin and external parasites, while the shrimp gets a meal.
 
-*![](lysmata/031225skdd0066m3.jpg)  
-Pulau Sekudu, Dec 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](lysmata/031225skdd0066m3b.jpg)*
 
-*![](lysmata/031225skdd0066m3c.jpg)*
 
   
 *\*Species are difficult
@@ -97,11 +111,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](lysmata/110120pgllks.JPG)  
-Punggol, Jan 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5376419735/in/album-72157625372847848/).
 
-*![](lysmata/210529epcnvc6.jpg)  
-East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497034312945&set=a.10158495877737945).
 
 ---
 

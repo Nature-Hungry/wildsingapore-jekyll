@@ -2,7 +2,7 @@
 title: Pleated fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Rhipidosiphon
@@ -15,6 +15,29 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jul 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg"
+  caption: |
+    <p>Labrador,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg"
+  caption: |
+    <p>Cyrene, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -62,17 +85,9 @@ seaweeds](cffan).
 **Human uses:** Some species have
 anti-bacterial and anti-tumor properties.
 
-![](rhipidosiphon/080705bbd6961m3.jpg)  
-*Beting Bronok,
-Jul 08  
-![](rhipidosiphon/080705bbd6961m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rhipidosiphon/050708labg9158m3.jpg)  
-*Labrador,
-Jul 05*![](rhipidosiphon/050708labg9158m3b.jpg)
 
-![](rhipidosiphon/050526cjg6876m3.jpg)  
-*Chek Jawa, May 05*![](rhipidosiphon/050526cjg6876m3a.jpg)
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.  
@@ -92,9 +107,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](rhipidosiphon/250726cyrtl2.jpg)  
-*Cyrene, Jul 25*  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264).
 
 ---
 

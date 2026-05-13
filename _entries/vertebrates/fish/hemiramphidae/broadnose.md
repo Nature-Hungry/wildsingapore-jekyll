@@ -2,7 +2,7 @@
 title: Broad-nosed halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broad, nose, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 47, 116]
 family: Hemiramphidae
 genus: ""
@@ -16,6 +16,48 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m6l.jpg"
+  caption: |
+    <p>Sisters Island, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110730tmftd7525m3.jpg"
+  caption: |
+    <p>Is this a juvenile?</p>
+    <p>Tanah Merah, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/150731ecpmn.jpg"
+  caption: |
+    <p>East Coast, Jul 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27301706749/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/170428ecpcnlks4.jpg"
+  caption: |
+    <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090922labnml3m3.jpg"
+  caption: |
+    <p>Labrador, Sep 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labrador.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/251011lablks9.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/110904sntlks6m3.jpg"
+  caption: |
+    <p>Sentosa, Sep 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/baby-stonefish-at-sentosa.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/250909laztt6.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/210113smkwjll1.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jan 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157988328621295&set=a.10157988367216295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/100418smkjk.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4530462814/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/091205sudjk11m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171957840/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060723skdd4760m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,17 +97,9 @@ pale or white patches, one near the head and another near the tail.
 The lower jaw is broad with a more rounded tip (not so pointy and sharp) and with a wide black or dark outer margin. Dorsal fin blackish. Tail fin is not forked.  
   
 The fishes grouped here may be different species.
-![](broadnose/060723skdd4760m3.jpg)  
-*Pulau Sekudu, Jul 06*
-![](broadnose/090606tmftd3297m6l.jpg)  
-*Tanah Merah,
-Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](broadnose/070812sisg1982m6l.jpg)  
-*Sisters Island, Aug 07*
 
-![](broadnose/110730tmftd7525m3.jpg)  
-Is this a juvenile? *Tanah Merah, Jul 11*
 
  *\*Species are difficult to positively identify without closer examination.   
 On this website, they are grouped by external features for convenience of
@@ -88,43 +122,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](broadnose/150731ecpmn.jpg)  
-*East Coast, Jul 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/27301706749/).
 
-![](broadnose/170428ecpcnlks4.jpg)  
-*East Coast PCN, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
 
 ---
 
-*![](broadnose/090922labnml3m3.jpg)*  
-*Labrador, Sep 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labrador.html).
 
-*![](broadnose/251011lablks9.jpg)*  
-*Labrador, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post).
 
 ---
 
-![](broadnose/110904sntlks6m3.jpg)  
-*Sentosa, Sep 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/baby-stonefish-at-sentosa.html).
 
-![](broadnose/250909laztt6.jpg)  
-*Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post).
 
 ---
 
-![](broadnose/210113smkwjll1.jpg)  
-*Pulau Semakau (West), Jan 21*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10157988328621295&set=a.10157988367216295).
 
-![](broadnose/100418smkjk.jpg)  
-*Pulau Semakau, Apr 10*  
-Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4530462814/).
 
-![](broadnose/091205sudjk11m3.jpg)  
-*Pulau Sudong, Dec 09*  
-Photo shared by James Koh on [flickr](http://www.flickr.com/photos/37823682@N04/4171957840/).
 
 ---
 

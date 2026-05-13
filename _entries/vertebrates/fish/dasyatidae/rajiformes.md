@@ -2,7 +2,7 @@
 title: "Skates, rays and stingrays"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Dasyatidae
 genus: ""
 species: ""
@@ -17,6 +17,53 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
+  caption: |
+    <p>Swimming with undulations of the enlarged pectoral fins.</p>
+    <p>Pulau Sekudu, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Pulau Sekudu, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg"
+  caption: |
+    <p>Cute but shocking: the Electric ray.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg"
+  caption: |
+    <p>Gill openings behind the eyes.</p>
+    <p>Stinging encounter!</p>
+    <p>Stingrays are not aggressive animals and prefer to flee from danger.</p>
+    <p>Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom.</p>
+    <p>Stingray spines can penetrate through booties!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg"
+  caption: |
+    <p>A commonly encountered stingray.</p>
+    <p>St.</p>
+    <p>John's Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg"
+  caption: |
+    <p>Spine near the end of the tail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg"
+  caption: |
+    <p><a href="lymma">Blue-spotted fantail ray</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg"
+  caption: |
+    <p><a href="walga">Mangrove whipray</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg"
+  caption: |
+    <p><a href="kuhlii">Blue-spotted stingray</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg"
+  caption: |
+    <p><a href="uarnak">Honeycomb whipray</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3.jpg"
+  caption: |
+    <p><a href="../narcinidae/narcine">Numbfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m6l.jpg"
+  caption: |
+    <p><a href="../myliobatidae/narinari">Spotted eagle ray</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,10 +119,8 @@ The water is then expelled through gill slits on the underside of
 the body. The snout may function as an electroreceptive organ, sensitive
 to electric charges of prey buried in the ground.
 
-*![](walga/030717skdd0039m6l.jpg)*  
-Swimming with undulations of the enlarged pectoral fins. *Pulau Sekudu, May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](walga/040509skddd0030m3.jpg)*Underside. *Pulau Sekudu, May 04*
 
 Most rays have a long tail, with a sting - usually near where the tail
 joins the body, and not at the tip of the tail. Rays are closely
@@ -87,15 +132,6 @@ and ears are made of cartilage!
 crabs](../../../arthropoda/limulidae/limulidae). In murky waters, the two animals look very similar, both
 being round and flat with a long tail.
 
-![](../narcinidae/narcine/090622cftd4655m6l.jpg)  
-Cute but shocking: the Electric ray. *Changi, Jun
-05*
-*![](../narcinidae/narcine/090622cftd4655m3a.jpg)*Gill openings behind the eyes.
-**Stinging encounter!** Stingrays are not aggressive animals
-and prefer to flee from danger. Most stingray injuries
-are the result of carelessness, generally when someone
-accidentally steps on a stingray that is lying harmlessly
-on the bottom. Stingray spines can penetrate through booties!  
   
 **Shocking!** [Electric rays](../narcinidae/narcine) have a pair of kidney-shaped electric organs
 at the base of the pectoral fins that can produce mild to strong electric
@@ -108,11 +144,7 @@ of your steps, if you feel a movement under your foot,
 pull back and don't step down with your full body weight.
 Do not step into murky water. Do not put your hand into holes and crevices.
 
-![](lymma/080802sjid8875.jpg)  
-A commonly encountered stingray. *St. John's Island, Aug 08*
 
-![](lymma/080802sjid8875m3.jpg)  
-Spine near the end of the tail.
 
 **Baby rays:** Rays practice internal
 fertilisation. Most rays give birth to live fully developed young,
@@ -140,23 +172,16 @@ on Singapore shores**
 
 ---
 
-**![](lymma/080802sjid8804m3.jpg)  
-[Blue-spotted fantail ray](lymma)**
 
-***![](walga/110520chgd2528.jpg)*[Mangrove whipray](walga)**
 
-***![](kuhlii/071226chgd8385m3.jpg)*[Blue-spotted stingray](kuhlii)**
 
 ---
 
-***![](uarnak/030525cjd0112m3.jpg)*****[Honeycomb whipray](uarnak)**
 
-***![](../narcinidae/narcine/090622cftd4655m3.jpg)***[**Numbfish**](../narcinidae/narcine)
  
 
 ---
 
-![](../myliobatidae/narinari/110506tmftd0849m6l.jpg) [**Spotted eagle ray**](../myliobatidae/narinari)
 
 ---
 

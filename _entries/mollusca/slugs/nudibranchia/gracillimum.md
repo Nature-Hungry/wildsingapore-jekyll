@@ -2,7 +2,7 @@
 title: "Slender ceratosoma nudibranch "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceratosoma, gracillium, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Chromodorididae
 genus: Ceratosoma
 species: gracillimum
@@ -22,6 +22,67 @@ infraorder: Doridoidei
 superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3b.jpg"
+  caption: |
+    <p>Rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3a.jpg"
+  caption: |
+    <p>Feathery gills.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190705bbm6l.jpg"
+  caption: |
+    <p>Side 'wings', large lobe over the tail and wedge shaped head.</p>
+    <p>Beting Bronok, Jul 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007024pcnlks24.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482804448158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/230706bbmn2.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159696238243660&set=a.10159696239548660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/190704bbmn.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/48195042796/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180618srpay2.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jun 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213576555460481&set=a.10213576506259251&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/250714srptl4.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150222sjinml1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Feb 15Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2015/02/st-johns-island-21022015.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/120507sntsrgmn1m3.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 12Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150789969528660&set=a.10150789496018660.395921.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/070729hnttch1m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 07Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/952407029/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090329hnttch3m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3404707332/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/180421smksjll.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Apr 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155568308201295.1073741905.542241294&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/2007025smknmn1.jpg"
+  caption: |
+    <p>Pulau Semakau (North), Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157573419093660&set=a.10157572967888660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/090330trylks2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/great-reef-terumbu-raya.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch3m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150607bbbtch4m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/251008bbbyls1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gracillimum/150802bbd8774m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,16 +129,10 @@ lure attracting and sacrificed to potential predators. This 'horn'
 contains most of the distasteful chemicals stored from the sponges
 that they feed on.
 
-*![](gracillimum/150802bbd8774m3.jpg)  
-Beting Bronok, Aug 15*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](gracillimum/150802bbd8774m3b.jpg)  
-Rhinophores.
 
-![](gracillimum/150802bbd8774m3a.jpg)  
-Feathery gills.
 
-*![](gracillimum/190705bbm6l.jpg)*Side 'wings', large lobe over the tail and wedge shaped head. *Beting Bronok, Jul 19*
 
 **Sometimes mistaken for** the ['Jolly Green Giant' nudibranch](sinuatum.htm) (*Ceratosoma sinuatum*) which has
 regular undulating lobes along the edge of the mantle from the head
@@ -102,69 +157,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](gracillimum/2007024pcnlks24.jpg)*  
-*East Coast PCN, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482804448158&set=a.10158482804868158&type=3&theater).
 
 ---
 
-*![](gracillimum/230706bbmn2.jpg)*  
-*Beting Bronok, Jul 23*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10159696238243660&set=a.10159696239548660).
 
-*![](gracillimum/190704bbmn.jpg)  
-Beting Bronok, Jul 19*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/48195042796/).
 
 ---
 
-*![](gracillimum/180618srpay2.jpg)  
-Sentosa Serapong, Jun 18*Photo
-shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10213576555460481&set=a.10213576506259251&type=3&theater).
 
-![](gracillimum/250714srptl4.jpg)  
- *Sentosa Serapong, Jul 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162801067269264&type=3&ref=embed_post).
 
 ---
 
-*![](gracillimum/150222sjinml1m3.jpg)*  
-*St. John's Island, Feb 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.com/2015/02/st-johns-island-21022015.html).
 
-*![](gracillimum/120507sntsrgmn1m3.jpg)  
-Sentosa Serapong, May 12*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10150789969528660&set=a.10150789496018660.395921.624178659&type=3).
 
 ---
 
-*![](gracillimum/070729hnttch1m3.jpg)  
-Pulau Hantu, Jul 07*Photo
-shared by Toh Chay Hoon on [flickr](http://www.flickr.com/photos/ilmare77/952407029/).
 
-*![](gracillimum/090329hnttch3m3.jpg)  
-Pulau Hantu, Mar 08*Photo
-shared by Toh Chay Hoon on [flickr](http://www.flickr.com/photos/ilmare77/3404707332/).
 
 ---
 
-*![](gracillimum/180421smksjll.jpg)*  
-*Pulau Semakau (South), Apr 18*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10155568308201295.1073741905.542241294&type=3).
 
-*![](gracillimum/2007025smknmn1.jpg)*  
-*Pulau Semakau (North), Jul 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10157573419093660&set=a.10157572967888660&type=3&theater).
 
-*![](gracillimum/090330trylks2m3.jpg)  
-Terumbu Raya, May 09*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2009/03/great-reef-terumbu-raya.html).
 
 ---
 
-*![](gracillimum/150607bbbtch3m3.jpg)*  
-*Beting Bemban Besar, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3).
 
-*![](gracillimum/150607bbbtch4m3.jpg)*  
-*Beting Bemban Besar, Jun 15*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10153401767603713.1073741962.619308712&type=3).
 
-*![](gracillimum/251008bbbyls1.jpg)*  
-*Beting Bemban Besar, Oct 25*Photo shared by Yan Le Su on [facebook](https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Upsidedown brittle star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 31, 92]
 family: Ophiotrichidae
 genus: Ophiothrix
@@ -21,6 +21,35 @@ suborder: Gnathophiurina
 superfamily: Ophiactoidea
 subgenus: Ophiothrix
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg"
+  caption: |
+    <p>Upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg"
+  caption: |
+    <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086356272945&set=a.10158086509267945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858753158&set=a.10158625872343158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG"
+  caption: |
+    <p>Coney Island, Nov 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23780503769/in/album-72157662420076169/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg"
+  caption: |
+    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161767901058693&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg"
 ---
 
 
@@ -48,16 +77,10 @@ blunt cylindrical spines arranged all around the arms like bristles of a bottle 
 down and if turned the right side up will turn upside down again.
 This may be an adaptation to feeding on substances on the water surface?
 
-*![](upsidedown/050621skdg7887m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](upsidedown/050621skdg7887m3a.jpg)  
-Upperside.
 
-*![](upsidedown/050621skdg7883m3.jpg)  
-Pulau Sekudu, Jun 05*
 
-![](upsidedown/050621skdg7883m3a.jpg)  
-Underside.
 
 ---
 
@@ -76,24 +99,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](upsidedown/201118pglvc3.jpg)  
-Punggol, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158086356272945&set=a.10158086509267945).
 
-*![](upsidedown/200917prplks14.jpg)  
-Pasir Ris Park, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158625858753158&set=a.10158625872343158).
 
-*![](upsidedown/151127cnylks1.JPG)  
-Coney Island, Nov 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23780503769/in/album-72157662420076169/).
 
 ---
 
-*![](upsidedown/251012chgmn7.jpg)  
-Changi, Oct 25*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post).
 
-*![](upsidedown/250627bbal5.jpg)  
-Beting Bronok, Jun 25*Photo
-shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161767901058693&type=3&ref=embed_post).
 
 ---
 
@@ -103,5 +114,3 @@ shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

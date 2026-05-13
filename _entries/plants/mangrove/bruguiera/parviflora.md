@@ -2,7 +2,7 @@
 title: "Lenggadai "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, bruguiera, parviflora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 32, 36, 68]
 family: Rhizophoraceae
 genus: Bruguiera
@@ -15,6 +15,28 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189948
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg"
+  caption: |
+    <p>Neat conical canopy.</p>
+    <p>Pasir Ris, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg"
+  caption: |
+    <p>Long narrow flowers, several on one stalk.</p>
+    <p>Pasir Ris Park, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1035m3a.jpg"
+  caption: |
+    <p>Visited by ants.</p>
+    <p>Pasir Ris, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+    <p>Pasir Ris, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg"
+  caption: |
+    <p>Sepals clasp the propagule.</p>
+    <p>Pasir Ris Park, Aug 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110311prpd7074m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -95,21 +117,11 @@ a vegetable.
 is listed as 'Endangered' on the Red List of threatened plants of
 Singapore. It is threatened by habitat degradation.
 
-*![](parviflora/110311prpd7074m6l.jpg)*Neat
-conical canopy. *Pasir Ris, Mar 11  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](parviflora/100411prpd1040m3.jpg)*Long
-narrow flowers, several on one stalk. *Pasir Ris Park, Apr 10*
 
-![](parviflora/100411prpd1035m3a.jpg)  
-Visited by ants.  *Pasir Ris, Apr 10*
 
-*![](parviflora/110502prpd0442m3a.jpg)*  
-Tassels on petal tips. *Pasir Ris, May 11*
 
-![](parviflora/090801prpd8079m3b.jpg)  
-Sepals clasp the propagule.  
-*Pasir Ris Park, Aug 09*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Branching montipora coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: Montipora
 species: sp.*
@@ -15,6 +15,148 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
+  caption: |
+    <p>Kusu Island, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5360m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5631m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/190719sntm6l.jpg"
+  caption: |
+    <p>Can form dense fields on the intertidal.</p>
+    <p>Sentosa, Jul 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/181225kusm3.jpg"
+  caption: |
+    <p>Growing inside the swimming lagoon.</p>
+    <p>Kusu Island, Dec 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1d.jpg"
+  caption: |
+    <p>Small creatures living in Branching montipora.</p>
+    <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1b.jpg"
+  caption: |
+    <p>Small creatures living in Branching montipora.</p>
+    <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/160209cyrlks1c.jpg"
+  caption: |
+    <p>Small creatures living in Branching montipora.</p>
+    <p>Cyrene Reef, Feb 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5a.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/2007024pcnlks5b.jpg"
+  caption: |
+    <p>Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482798943158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4318m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060130hntg4319m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/031224sised0039m3.jpg"
+  caption: |
+    <p>Sisters Island, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/031224sised0039m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/070505kusg9047m3.jpg"
+  caption: |
+    <p>Kusu Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/070505kusg9048m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/080321smkd0341m3.jpg"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/080321smkd0341m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/050625labg8589m3a.jpg"
+  caption: |
+    <p>Labrador, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/050625labg8589m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9819m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100809cyrd9820m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100102tkkd7317m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100102tkkd7318m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5232m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5484m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5485m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5518m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5519m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/150618tmftlks8m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/150618tmftlks8m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060301kusg5359m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,29 +210,16 @@ they are grouped by large external features for convenience of display.
 on the tips of the branches. For Pore corals, the corallites are visible
 even on the tips of the branches.
 
-![](monbranch/060301kusg5359m3.jpg)  
-*Kusu Island,
-Mar 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](monbranch/060301kusg5360m3b.jpg)*
 
-![](monbranch/060415hntg5631m3a.jpg)
 
-![](monbranch/190719sntm6l.jpg)  
-Can form dense fields on the intertidal. *Sentosa, Jul 19*
 
-![](monbranch/181225kusm3.jpg)  
-Growing inside the swimming lagoon. *Kusu Island, Dec 18*
 
 ---
 
-![](monbranch/160209cyrlks1d.jpg)  
-Small creatures living in Branching montipora. *Cyrene Reef, Feb 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
 
-*![](monbranch/160209cyrlks1b.jpg)*Small creatures living in Branching montipora. *Cyrene Reef, Feb 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
 
-![](monbranch/160209cyrlks1c.jpg)  
-Small creatures living in Branching montipora. *Cyrene Reef, Feb 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-2-cyrene-reef.html).
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -113,110 +242,40 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](monbranch/2007024pcnlks5a.jpg)  
-*East Coast PCN, Jul 20*
 
-![](monbranch/2007024pcnlks5b.jpg)  
-Photo by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482798943158&set=a.10158482804868158&type=3&theater).
 
 ---
 
-![](monbranch/060130hntg4318m3.jpg)  
-*Pulau Hantu,
-Jan 06*
 
-*![](monbranch/060130hntg4319m3c.jpg)*
 
-![](monbranch/060130hntg4319m3d.jpg)
 
 ---
 
-![](monbranch/031224sised0039m3.jpg)  
-*Sisters Island,
-Dec 03   
-![](monbranch/031224sised0039m3a.jpg)*
 
-![](monbranch/070505kusg9047m3.jpg)  
-*Kusu Island,
-May 07![](monbranch/070505kusg9048m3.jpg)*
 
-![](monbranch/080321smkd0341m3.jpg)  
-*Pulau Semakau,
-Apr 08![](monbranch/080321smkd0341m3a.jpg)*
 
 ---
 
-![](monbranch/050625labg8589m3a.jpg)  
-*Labrador,
-Jun 05  
-![](monbranch/050625labg8589m3c.jpg)*
 
-![](monbranch/100809cyrd9819m3.jpg)  
-*Cyrene Reef,
-Aug 10  
-![](monbranch/100809cyrd9820m3.jpg)*
 
-![](monbranch/100102tkkd7317m3.jpg)  
-*Pulau Tekukor,
-Jan 10  
-![](monbranch/100102tkkd7318m3.jpg)*
 
 ---
 
-![](monbranch/091204pawd5233m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](monbranch/091204pawd5232m3.jpg)*
 
-![](monbranch/091205sudd5484m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](monbranch/091205sudd5485m3a.jpg)*
 
-![](monbranch/091205sudd5518m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](monbranch/091205sudd5519m3a.jpg)*
 
 ---
 
-![](monbranch/100130brkd8481m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8483m3a.jpg)*
 
-![](monbranch/100130brkd8678m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8678m3a.jpg)*
 
-![](monbranch/100130brkd8693m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8694m3a.jpg)*
 
 ---
 
-![](monbranch/100130brkd8481m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8483m3a.jpg)*
 
-![](monbranch/100130brkd8678m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8678m3a.jpg)*
 
-![](monbranch/100130brkd8693m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](monbranch/100130brkd8694m3a.jpg)*
 
 ---
 
-![](monbranch/150618tmftlks8m3.jpg)  
-*Tanah Merah Ferry Terminal, Jun 15  
-![](monbranch/150618tmftlks8m3a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

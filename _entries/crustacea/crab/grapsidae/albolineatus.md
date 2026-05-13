@@ -2,7 +2,7 @@
 title: Sally-light-foot crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sally, light, foot, crab, grapsus, albolineatus, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Grapsidae
 genus: Grapsus
@@ -23,6 +23,68 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg"
+  caption: |
+    <p>East Coast, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/060102sisg3704m3.jpg"
+  caption: |
+    <p>Moult at top left corner, crab in bottom right.</p>
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/040703sisd1760m3.jpg"
+  caption: |
+    <p>A moulted crab (blue) with moult (orange).</p>
+    <p>Sisters Islands, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/100912kusd1381m3.jpg"
+  caption: |
+    <p>Flattened against an encrusted surface.</p>
+    <p>Kusu Island, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090609tmjk2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3610209418/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/210529ecpblks8.jpg"
+  caption: |
+    <p>Just moulted.</p>
+    <p>East Coast, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233457728158&set=a.10159233461703158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/240707pcnrg1.jpg"
+  caption: |
+    <p>East Coast (PCN), Jul 24 Photo shared by Rachael Goh on <a href="https://www.facebook.com/media/set/?set=a.2963344557141511&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/070604ecplks01m3.jpg"
+  caption: |
+    <p>East Coast, Jun 07 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alivel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170428ecpcnlks1.jpg"
+  caption: |
+    <p>East Coast PCN, Apr 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/151031ecpmblks.JPG"
+  caption: |
+    <p>East Coast, Marina Bay, Oct 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24100383095/in/album-72157607745985508/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/101106burlks6m3.JPG"
+  caption: |
+    <p>Terumbu Buran, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buranl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/170809tkkrk1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Aug 17Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10155440640872906.1073741894.563787905&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251009sjiky2.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173327367295112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/090921sjinml2m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Sep 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251011ssislvo1.jpg"
+  caption: |
+    <p>Small Sisters Island, Oct 25 Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.24935402052723132&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/250810bsisky5.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172831535100112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/251207hntjll4.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/110504nsrccd0560m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,23 +143,13 @@ less flat more bumpy body.
 and also eats seaweeds. It has relatively small pincers that work
 like scissors to snip and scrape off edible titbits.
 
-*![](albolineatus/110504nsrccd0560m6l.jpg)  
-East Coast, May 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](albolineatus/110504nsrccd0560m3a.jpg)*
 
 ---
 
-*![](albolineatus/060102sisg3704m3.jpg)*Moult
-at top left corner, crab in bottom right.  
-*Sisters Islands,
-Jan 06*
 
-*![](albolineatus/040703sisd1760m3.jpg)*A
-moulted crab (blue) with moult (orange).  *Sisters Islands, Jul 04*
 
-![](albolineatus/100912kusd1381m3.jpg)  
-Flattened against an encrusted surface. *Kusu Island, Sep 10*
 
 ---
 
@@ -116,63 +168,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](albolineatus/090609tmjk2m3.jpg)  
-*Tanah Merah, Jun 09*  
-Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/3610209418/).
 
-*![](albolineatus/210529ecpblks8.jpg)*Just moulted. *East Coast, May 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233457728158&set=a.10159233461703158).
 
-*![](albolineatus/240707pcnrg1.jpg)  
-East Coast (PCN), Jul 24*  
-Photo shared by Rachael Goh on [facebook](https://www.facebook.com/media/set/?set=a.2963344557141511&type=3&ref=embed_post).
 
 ---
 
-*![](albolineatus/070604ecplks01m3.jpg)  
-East Coast, Jun 07*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/06/east-coast-park-is-alivel).
 
-*![](albolineatus/170428ecpcnlks1.jpg)  
-East Coast PCN, Apr 17*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
 
-*![](albolineatus/151031ecpmblks.JPG)  
-East Coast, Marina Bay, Oct 15*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24100383095/in/album-72157607745985508/)
 
 ---
 
-*![](albolineatus/101106burlks6m3.JPG)  
-Terumbu Buran, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buranl).
 
-*![](albolineatus/170809tkkrk1.jpg)  
-Pulau Tekukor, Aug 17*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10155440640872906.1073741894.563787905&type=3).
 
 ---
 
-*![](albolineatus/251009sjiky2.jpg)  
-St. John's Island, Oct 25*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173327367295112&type=3&ref=embed_post).
 
-*![](albolineatus/090921sjinml2m3.jpg)  
-St. John's Island, Sep 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl).
 
 ---
 
-*![](albolineatus/251011ssislvo1.jpg)  
-Small Sisters Island, Oct 25*  
-Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.24935402052723132&type=3&ref=embed_post).
 
-*![](albolineatus/250810bsisky5.jpg)  
-Big Sisters, Aug 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172831535100112&type=3&ref=embed_post).
 
-*![](albolineatus/251207hntjll4.jpg)  
-Pulau Hantu, Dec 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post).
 
 ---
 

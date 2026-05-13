@@ -2,7 +2,7 @@
 title: Milk-spotted pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "milk, spotted, pufferfish, puffer, fish, chelonodon, patoca, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Tetraodontidae
 genus: Chelonodon
@@ -17,6 +17,42 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/100430chgd1951m6l.jpg"
+  caption: |
+    <p>Changi, Apr 10 What does it eat?</p>
+    <p>When small it feeds mostly on detritus, as it grows, it transitions to a diet of animals that live on the ground.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/241216cjmn1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 2024Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161009865643660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200917prplks6.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625857033158&set=a.10158625872343158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160507cjjll1.jpg"
+  caption: |
+    <p>Chek Jawa, May 16Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153663308061295.1073741867.542241294&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/190801chglks2.jpg"
+  caption: |
+    <p>Changi, Aug 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157392172843158&set=pcb.10157392172908158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/110615chgjk.jpg"
+  caption: |
+    <p>Changi, Jun 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5835572686/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/160705ecplks3.jpg"
+  caption: |
+    <p>East Coast Park, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/180909ecpdc2.jpg"
+  caption: |
+    <p>East Coast Park, Sep 19Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744179082365527&set=a.1744178422365593&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/200819ecptch4.jpg"
+  caption: |
+    <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759122588713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/251108ecpblks1a.jpg"
+  caption: |
+    <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/patoca/050708labd4747m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,12 +93,7 @@ flaps. It has a grey or brown back with large round or oval white
 spots. It has a yellow band along the lower side from chin to tail.
 The underside is white. Those seen had tail tips that were yellowish or bluish.
 
-![](patoca/050708labd4747m3.jpg)  
-*Labrador,
-Jul 05* 
-![](patoca/100430chgd1951m6l.jpg)  
-*Changi, Apr 10*
-**What does it eat?** When small it feeds mostly on detritus, as it grows, it transitions to a diet of animals that live on the ground.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Although it is toxic (gonad, liver, flesh and skin), it is considered a delicacy in Japan.
 
@@ -83,40 +114,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](patoca/241216cjmn1.jpg)  
-Chek Jawa, Dec 2024*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161009865643660&type=3&ref=embed_post).
 
 ---
 
-![](patoca/200917prplks6.jpg)  
-*Pasir Ris Park, Sep 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158625857033158&set=a.10158625872343158).
 
-![](patoca/160507cjjll1.jpg)  
-*Chek Jawa, May 16*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10153663308061295.1073741867.542241294&type=3&pnref=story.unseen-section).
 
 ---
 
-![](patoca/190801chglks2.jpg)  
-*Changi, Aug 19*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157392172843158&set=pcb.10157392172908158&type=3&theater).
 
-![](patoca/110615chgjk.jpg)  
-*Changi, Jun 11*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/5835572686/).
 
 ---
 
-![](patoca/160705ecplks3.jpg)  
-*East Coast Park, Jul 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl).
 
-![](patoca/180909ecpdc2.jpg)  
-*East Coast Park, Sep 19*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1744179082365527&set=a.1744178422365593&type=3&theater).
 
-![](patoca/200819ecptch4.jpg)  
-*East Coast Park, Aug 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158759122588713&set=a.10158759137988713&type=3&theater).
 
 ---
 
-![](patoca/251108ecpblks1a.jpg)  
-*East Coast Park (B), Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Large-tooth flounders "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "large, tooth, flat, fish, flatfish, flounder, paralichthyidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Paralichthyidae
 genus: ""
@@ -17,6 +17,72 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg"
+  caption: |
+    <p>Some species have a white patch under the pectoral fin.</p>
+    <p>Changi, Jul 06.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m6l.jpg"
+  caption: |
+    <p>Tail fin well separated from dorsal and anal fins.</p>
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2478m6l.jpg"
+  caption: |
+    <p>Eyes on the left side.</p>
+    <p>Large mouth with canine teeth.</p>
+    <p>Pelvic fin.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/210528chgsafmn2.jpg"
+  caption: |
+    <p>Changi Creek, May 21 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158287456458660&set=a.10158287457408660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgjk2m3.jpg"
+  caption: |
+    <p>Changi, May 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/05/110520-changi-beachl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/140615skdmn.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14418658507/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110520chgmn.jpg"
+  caption: |
+    <p>Changi, May 11 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7159542349/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240509ecpky1.jpg"
+  caption: |
+    <p>East Coast Sailing Centre, May 2024Photo shared by Kelvin Lim on <a href="https://www.facebook.com/photo/?fbid=10169436934125112&set=a.10169436922480112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/150705skdlks1.JPG"
+  caption: |
+    <p>Pulau Sekudu, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25548504215/in/album-72157607907125005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190704bbay3a.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254619210401&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/160607bbjt1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154214279943119.1073741909.696593118&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/110220lazlks6m6la.jpg"
+  caption: |
+    <p>Seringat-Kias, Feb 11Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5473828660/in/datetaken/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240608kusmn2a.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/170726lsisll1.jpg"
+  caption: |
+    <p>Little Sisters Island, Jul 17Photo shared by Lisa Lim on <a href="https://www.facebook.com/lim.lisa/media_set?set=a.10155313532618964.1073741913.716233963&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100103tkkjk2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 08 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237879710/">his flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/190122cyrjll4.jpg"
+  caption: |
+    <p>Cyrene Reef, Jan 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156160334611295&set=a.10156160333046295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/100711cyrjk7m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/230423cyrlks3.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160612791043158&set=a.10160612798858158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/240725smkntt6.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234701792024164">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/060711cftd3957m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,17 +141,9 @@ The [Oriental sole](../soleidae/orientalis) looks very similar but it is right-e
 on [how to tell
 apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
 
-![](paralichthyidae/060711cftd3957m3.jpg)  
-Some species have a white patch   
-under the pectoral fin.  
-Changi, Jul 06.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](paralichthyidae/050917smkg2477m6l.jpg)  
-Tail fin well separated from dorsal and anal fins.  *Pulau Semakau, Sep 05*
 
-![](paralichthyidae/050917smkg2478m6l.jpg)  
-Eyes on the left side.
-Large mouth with canine teeth. Pelvic fin.
 
 **What do they eat?** Large-tooth
 flounders hunt animals and fishes living on the bottom of the sea.
@@ -115,90 +173,38 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](paralichthyidae/210528chgsafmn2.jpg)  
-*Changi Creek, May 21*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158287456458660&set=a.10158287457408660).
 
-![](paralichthyidae/110520chgjk2m3.jpg) *Changi, May 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/05/110520-changi-beachl).
 
 ---
 
-![](paralichthyidae/140615skdmn.jpg)  
-*Pulau Sekudu, Jun 14*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/14418658507/).
 
-![](paralichthyidae/110520chgmn.jpg)  
-*Changi, May 11*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7159542349/).
 
 ---
 
-![](paralichthyidae/240509ecpky1.jpg)  
-*East Coast Sailing Centre, May 2024*Photo shared by Kelvin Lim on [facebook](https://www.facebook.com/photo/?fbid=10169436934125112&set=a.10169436922480112).
 
-![](paralichthyidae/150705skdlks1.JPG)  
-*Pulau Sekudu, Jul 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25548504215/in/album-72157607907125005/).
 
 ---
 
-![](paralichthyidae/190704bbay3a.jpg)  
-*Beting Bronok, Jul 19*  
-Photo
-shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10216254619210401&set=a.10210920255494642&type=3&theater).
 
-*![](paralichthyidae/160607bbjt1.jpg)  
-Beting Bronok, Jun 16*Photo
-shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154214279943119.1073741909.696593118&type=3&pnref=story.unseen-section).
 
 ---
 
-![](paralichthyidae/110220lazlks6m6la.jpg)  
-*Seringat-Kias, Feb 11*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/5473828660/in/datetaken/).
 
 ---
 
-![](paralichthyidae/240608kusmn2.jpg)  
-*Kusu Island, Jun 24*  
-Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660).
-![](paralichthyidae/240608kusmn2a.jpg)  
-*Kusu Island, Jun 24*  
-Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660).
 
 ---
 
-![](paralichthyidae/170726lsisll1.jpg)  
-*Little Sisters Island, Jul 17*Photo shared by Lisa Lim on [facebook](https://www.facebook.com/lim.lisa/media_set?set=a.10155313532618964.1073741913.716233963&type=3).
 
-![](paralichthyidae/100103tkkjk2m3.jpg)  
-*Cyrene Reef, May 08*  
-Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4237879710/)
 
 ---
 
-![](paralichthyidae/190122cyrjll4.jpg)  
-*Cyrene Reef, Jan 19*  
-Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10156160334611295&set=a.10156160333046295&type=3&theater).
  
 
 ---
 
-![](paralichthyidae/100711cyrjk7m3.jpg)  
-*Cyrene Reef, Jul 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl)
 
-![](paralichthyidae/230423cyrlks3.jpg)  
-*Cyrene Reef, Apr 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160612791043158&set=a.10160612798858158).
 
-![](paralichthyidae/240725smkntt6.jpg)  
-*Pulau Semakau North, Jul 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234701792024164).
 
 ---
 

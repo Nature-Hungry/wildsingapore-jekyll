@@ -2,7 +2,7 @@
 title: Mud whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mud, whelk, nassarius, jacksonianus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 87, 100, 111, 123]
 family: Nassariidae
 genus: Nassarius
@@ -17,6 +17,21 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg"
+  caption: |
+    <p>Tuas, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6347m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/070104chgd7435m3a.jpg"
+  caption: |
+    <p>Large numbers cluster on a dead fish.</p>
+    <p>Changi, Jan 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/160125obsmn6.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/080916tusd0461m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,14 +71,9 @@ or on a recently dead sea creature.
 whelk. Shell thick with bumpy ridges on the spire, the front of the shell often with a broad brown band. Body pale with very
 long siphon and short tentacles. Operculum thin, pale.
 
-![](jackonianus/080916tusd0461m3.jpg)  
-*Tuas, Sep 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](jackonianus/050511cftg6347m3.jpg)
 
-![](jackonianus/070104chgd7435m3a.jpg)  
-Large numbers
-cluster on a dead fish. *Changi, Jan 07*
 
 **Whelk food:** Whelks are active
 scavengers and often seen busily foraging in pools at the change of
@@ -87,9 +97,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](jackonianus/160125obsmn6.jpg)  
-Pulau Ubin OBS, Jan 16*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3).
 
 ---
 

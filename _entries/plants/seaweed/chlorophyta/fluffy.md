@@ -2,7 +2,7 @@
 title: Fluffy green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,20 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg"
+  caption: |
+    <p>Labrador, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg"
+  caption: |
+    <p>Circlet of short filaments.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -55,16 +69,10 @@ comprising a stack of 2-4 circlets of short filaments. Light green to
 reddish green.  
   
 
-*![](fluffy/050721cjg9759m3.jpg)  
-Chek Jawa, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](fluffy/100401labd0356m3.jpg)  
-Labrador, Apr 10*
 
-*![](fluffy/100401labd0356m3a.jpg)*
 
-*![](fluffy/050721cjg9759m3a.jpg)*Circlet
-of short filaments.
 
  *\*Species are difficult
 to positively identify without close examination of internal parts.  

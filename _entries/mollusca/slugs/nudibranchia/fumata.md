@@ -2,7 +2,7 @@
 title: Rose nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, dendrodoris, fumata, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 63, 90]
 family: Dendrodorididae
 genus: Dendrodoris
@@ -21,6 +21,101 @@ suborder: Doridina
 infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m3b.jpg"
+  caption: |
+    <p>Rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060723skdg6809m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Pulau Sekudu, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnd2605m3.jpg"
+  caption: |
+    <p>Next to eaten up <a href="../../../porifera/lumppink.htm">Lumpy pink sponge</a>.</p>
+    <p>Pulau Ubin, Dec 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/130330cyrs01883m3.jpg"
+  caption: |
+    <p>Laying egg mass.</p>
+    <p>Cyrene, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/120604pglhpy1m3.jpg"
+  caption: |
+    <p>Punggol, Jun 12Photo shared by Heng Pei Yan on <a href="http://peiyansama.blogspot.sg/2012/06/eggy-crabby-feathery-punggol.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/131107pglmn.jpg"
+  caption: |
+    <p>Punggol, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/29738903645/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110120pgljk.jpg"
+  caption: |
+    <p>Punggol, Jan 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5372746092/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/091019tmlks1m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Oct 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/10/hot-hot-afternoon-at-pasir-ris.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/121216ubnlks.JPG"
+  caption: |
+    <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8524193082/in/album-72157607906657391/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/171205ubnay1.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212160287254661&set=a.10211189580467598&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251205cjlks2.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163664353053158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090426skdtch07m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Apr 09 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks4m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/111030skdlks3m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/250627bbvc2.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25 Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/160607bbik.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/28491126601/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/110518bbrl1m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.185549691496431.60496.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/100614bblks2m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/annual-beting-bronok-checkup.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251012chgmn9.jpg"
+  caption: |
+    <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210528lygjll2.jpg"
+  caption: |
+    <p>Changi Loyang, May 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158300369056295&set=a.10158300364091295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/251011tgrlks4.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjijk1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3709243886/">flickr.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/090711sjilks.JPG"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4173617984/in/album-72157607929563969/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240212sjitch1.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Feb 24 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161409773153713&set=a.10161409802193713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/240309tkrtch1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Apr 24 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161451666028713&set=a.10161451683253713">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/170611bsistyc1.jpg"
+  caption: |
+    <p>Big Sisters Island, Jun 17 Photo shared by Tay Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156246897980263.1073741832.575545262&type=3">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/210402tmskvc2.jpg"
+  caption: |
+    <p>Terumbu Semakau, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158381221522945&set=a.10158381328717945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/220102biotch6.jpg"
+  caption: |
+    <p>Pulau Biola, Jan 22 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918031938713&set=a.10159918036293713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fumata/060129skdg4173m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,18 +169,11 @@ It lacks a radula and jaws so it can't rasp or chew its food sponge.
 Instead, it secretes digestive juices onto the sponge and then sucks
 up the softened sponge with a long tube. Sort of like a sponge slurpee!
 
-*![](fumata/060129skdg4173m6l.jpg)  
-Pulau Sekudu, Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](fumata/060129skdg4173m3b.jpg)*Rhinophores.
 
-*![](fumata/060723skdg6809m3.jpg)*Underside.  
-*Pulau Sekudu, Jul 06*
 
-*![](fumata/121216ubnd2605m3.jpg)*Next to eaten up [Lumpy pink sponge](../../../porifera/lumppink.htm). *Pulau Ubin, Dec 12*
 
-![](fumata/130330cyrs01883m3.jpg)  
-Laying egg mass. *Cyrene, Mar 13*
 
 ---
 
@@ -104,116 +192,53 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](fumata/120604pglhpy1m3.jpg)*  
-*Punggol, Jun 12*Photo shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2012/06/eggy-crabby-feathery-punggol.html).
 
-*![](fumata/131107pglmn.jpg)  
-Punggol, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/29738903645/).
 
 ---
 
-*![](fumata/110120pgljk.jpg)  
-Punggol, Jan 11*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/5372746092/).
 
 ---
 
-*![](fumata/091019tmlks1m6l.jpg)  
-Pasir Ris Park, Oct 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/10/hot-hot-afternoon-at-pasir-ris.html).
 
 ---
 
-*![](fumata/121216ubnlks.JPG)  
-Pulau Ubin, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8524193082/in/album-72157607906657391/).
 
-*![](fumata/171205ubnay1.jpg)  
-Pulau Ubin, Dec 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10212160287254661&set=a.10211189580467598&type=3&theater).
 
 ---
 
-*![](fumata/251205cjlks2.jpg)  
-Chek Jawa, Dec 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163664353053158&type=3&ref=embed_post).
 
 ---
 
-*![](fumata/090426skdtch07m3.jpg)**Pulau Sekudu, Apr 09*   
-Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html).
 
-*![](fumata/111030skdlks4m3.jpg)  
-Pulau Sekudu, Oct 11*
 
-*![](fumata/111030skdlks3m3.jpg)*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html).
 
 ---
 
-*![](fumata/250627bbvc2.jpg)  
-Beting Bronok, Jun 25*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post).
 
-*![](fumata/160607bbik.jpg)  
-Beting Bronok, Jun 16*Photo shared by Ivan Kwan on [flickr](https://www.flickr.com/photos/hai_ren/28491126601/).
 
 ---
 
-*![](fumata/110518bbrl1m3.jpg)  
-Beting Bronok, May 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/?set=a.185549691496431.60496.109257872458947).
 
-*![](fumata/100614bblks2m3.jpg)  
-Beting Bronok, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/annual-beting-bronok-checkup.html).
 
 ---
 
-*![](fumata/251012chgmn9.jpg)  
-Changi, Oct 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post).
-*![](fumata/210528lygjll2.jpg)**Changi Loyang, May 21*   
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158300369056295&set=a.10158300364091295).
  
 
 ---
 
-![](fumata/251011tgrlks4.jpg)  
-*Sentosa Tg Rimau, Oct 25*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post).
 
 ---
 
-*![](fumata/090711sjijk1m3.jpg)  
-St. John's Island, Jul 09*  
-Photo shared by James Koh on [flickr.](https://www.flickr.com/photos/jameskoh/3709243886/)
 
-*![](fumata/090711sjilks.JPG)  
-St. John's Island, Jul 09*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4173617984/in/album-72157607929563969/).
 
-*![](fumata/240212sjitch1.jpg)  
-St. John's Island, Feb 24*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10161409773153713&set=a.10161409802193713).
 
 ---
 
-*![](fumata/240309tkrtch1.jpg)  
-Pulau Tekukor, Apr 24*  
-Photo shared by Toh Chay Hoon on [facbook](https://www.facebook.com/photo/?fbid=10161451666028713&set=a.10161451683253713).
 
-*![](fumata/170611bsistyc1.jpg)  
-Big Sisters Island, Jun 17*   
-Photo shared by Tay Ywee Chieh on [facbook](https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156246897980263.1073741832.575545262&type=3).
 
 ---
 
-*![](fumata/210402tmskvc2.jpg)  
-Terumbu Semakau, Apr 21*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158381221522945&set=a.10158381328717945).
 
-*![](fumata/220102biotch6.jpg)  
-Pulau Biola, Jan 22*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159918031938713&set=a.10159918036293713).
 
 ---
 

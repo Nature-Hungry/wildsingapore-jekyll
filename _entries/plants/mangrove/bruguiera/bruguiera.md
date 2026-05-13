@@ -2,7 +2,7 @@
 title: Bakau
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bruguiera, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Rhizophoraceae
 genus: Bruguiera
 species: ""
@@ -15,6 +15,70 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg"
+  caption: |
+    <p>Tumu with buttress and knee roots St.</p>
+    <p>John's Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3.jpg"
+  caption: |
+    <p>Typical pouched petals of Bruguiera.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/090405smkd8985m3a.jpg"
+  caption: |
+    <p>Open and closed pouched petals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4270m3a.jpg"
+  caption: |
+    <p>Fallen petals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg"
+  caption: |
+    <p>Small flowers several on one stalk.</p>
+    <p>Calyx usually pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg"
+  caption: |
+    <p>Sepals on propagules bend towards stalk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg"
+  caption: |
+    <p>Sepals held away from the propagule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg"
+  caption: |
+    <p>Large flowers, each on one stalk.</p>
+    <p>Calyx usually red, sometimes pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg"
+  caption: |
+    <p>Sepals bend towards the propagule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg"
+  caption: |
+    <p>Large flowers, each on one stalk.</p>
+    <p>Calyx usually yellow.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg"
+  caption: |
+    <p>No tassels on petal tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg"
+  caption: |
+    <p>Sepals extend away from the propagule.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/100411prpd1040m3.jpg"
+  caption: |
+    <p>Long narrow flowers, several on one stalk.</p>
+    <p>Calyx very long and narrow, pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/110502prpd0442m3a.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/parviflora/090801prpd8079m3b.jpg"
+  caption: |
+    <p>Sepals clasp the propagule.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090809sjid8843m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,17 +131,10 @@ mata buaya](hainesii) (*Bruguiera hainesii*) and [Tumu
 berau](sexangula) (*Bruguiera sexangula*) are both listed as 'Critically
 Endangered' in the Red List of threatened plants of Singapore.
 
-![](gymnorrhiza/090809sjid8843m6l.jpg)  
-Tumu with buttress and knee roots *St. John's Island, Aug 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cylindrica/090405smkd8985m3.jpg)  
-Typical pouched petals of *Bruguiera*.
 
-![](cylindrica/090405smkd8985m3a.jpg)  
-Open and closed pouched petals.
 
-![](hainesii/090614ubnd4270m3a.jpg)  
-Fallen petals.
 
 ---
 
@@ -85,17 +142,8 @@ Fallen petals.
 putih**  
 *[Bruguiera cylindrica](cylindrica)*
 
-![](cylindrica/091203ubnd4906m3.jpg)  
-Small flowers   
-several on one stalk.  
-Calyx usually pale.
 
-![](cylindrica/110406sbbd8726m3a.jpg)  
-Tassels on petal tips.
 
-![](cylindrica/020418sbwrcpd8227m3a.jpg)  
-Sepals on propagules   
-bend towards stalk.
 
 ---
 
@@ -103,33 +151,20 @@ bend towards stalk.
 mata buaya**  
 *[Bruguiera hainesii](hainesii)*
 
-![](hainesii/090614ubnd4258m3.jpg)
   
 Medim-sized flowers,   
 each on one stalk.   
 Calyx usually pinkish or yellowish.
 
-*![](hainesii/110608krjL1000225m3.jpg)*  
-Tassels on petal tips.
 
-![](hainesii/090614ubnd4261m3.jpg)  
-Sepals held away from the propagule.
 
 ---
 
 **Tumu**  
 *[Bruguiera gymnorrhiza](gymnorrhiza)*
 
-![](gymnorrhiza/090118smkd5887m3.jpg)  
-Large flowers,  
-each on one stalk.   
-Calyx usually red, sometimes pale.
 
-![](gymnorrhiza/090502cjf0890m3a.jpg)  
-Tassels on petal tips.
 
-![](gymnorrhiza/090801prpd8001m3a.jpg)  
-Sepals bend towards the propagule.
 
 ---
 
@@ -137,33 +172,16 @@ Sepals bend towards the propagule.
 berau**  
 *[Bruguiera sexangula](sexangula)*
 
-![](sexangula/091213ubnd5854m3.jpg)  
-Large
-flowers, each on one stalk.  
-Calyx usually yellow.
 
-![](sexangula/091230prpd6500m3.jpg)  
-No tassels on petal tips.
 
-![](sexangula/100411prpd0923m3a.jpg)  
-Sepals extend away   
-from the propagule.
 
 ---
 
 **Lenggadai**  
 *[Bruguiera parviflora](parviflora)*
 
-![](parviflora/100411prpd1040m3.jpg)  
-Long narrow flowers,  
-several on one stalk.   
-Calyx very long and narrow, pale.
 
-*![](parviflora/110502prpd0442m3a.jpg)*  
-Tassels on petal tips.
 
-![](parviflora/090801prpd8079m3b.jpg)  
-Sepals clasp the propagule.
 
 ---
 

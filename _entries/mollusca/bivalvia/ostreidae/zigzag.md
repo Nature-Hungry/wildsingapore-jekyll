@@ -2,12 +2,38 @@
 title: Zig zag  oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "zig, zag, oyster, osteridae, bivalve, mollusc, clam, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Osteridae
 genus: ""
 species: identification*
 attributes: []
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201215bsrpvc3.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140893857945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/201117labvc3.jpg"
+  caption: |
+    <p>Lazarus, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083940372945&set=a.10158084785112945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/160625tkkis5.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jun 16Photo shared by Ian Siah on <a href="https://www.facebook.com/iansiah/media_set?set=a.10153663165622227.1073741921.533257226&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/210812jngvc3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158645190857945&set=a.10158645270727945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/100531biod4610m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/060811rlhd5856m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -49,13 +75,9 @@ Some are crowded next to one another, others are found singly.
 Oysters are difficult to distinguish by shell shape alone and those
 on this page may in fact be different species that appear similar.
 
-*![](zigzag/060811rlhd5856m3.jpg)  
-Raffles Lighthouse, Aug 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](zigzag/060811rlhd5856m3a.jpg)*
 
-*![](zigzag/050611kusd3993m3.jpg)  
-Kusu Island, Jun 05*
 
   
 *\*Species are difficult
@@ -80,22 +102,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](zigzag/201215bsrpvc3.jpg)  
-Sentosa Serapong, Dec 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140893857945&set=a.10158140917142945).
 
-*![](zigzag/201117labvc3.jpg)  
-Lazarus, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158083940372945&set=a.10158084785112945).
 
-*![](zigzag/160625tkkis5.jpg)  
-Pulau Tekukor, Jun 16*Photo shared by Ian Siah on [facebook](https://www.facebook.com/iansiah/media_set?set=a.10153663165622227.1073741921.533257226&type=3).
 
 ---
 
-*![](zigzag/210812jngvc3.jpg)  
-Pulau Jong, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158645190857945&set=a.10158645270727945).
 
-*![](zigzag/100531biod4610m3.jpg)  
-Pulau Biola, May 10*
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

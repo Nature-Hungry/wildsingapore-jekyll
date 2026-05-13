@@ -2,7 +2,7 @@
 title: Six-armed Luidia sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, sea star, seastar, starfish, star, fish, luidia, penangensis, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Luidiidae
 genus: Luidia
 species: penangensis
@@ -16,6 +16,29 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4808m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4809m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4787m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4796m3.jpg"
+  caption: |
+    <p>Pointed tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1.jpg"
+  caption: |
+    <p>Changi Creek, Jan 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/210100chgsafmn1a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158032773713660&set=a.10158032775418660">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lpenangensis/090110cjd4791m3.jpg"
 ---
 
 
@@ -43,19 +66,11 @@ The underside is pale, and from grooves along the arms emerge large
 tube feet with pointed tips, sometimes sometimes yellowish or bright
 orange. The upperside is beige, greyish or pink; plain or with a darker stripe along the arms.
 
-*![](lpenangensis/090110cjd4791m3.jpg)  
-Chek Jawa, Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](lpenangensis/090110cjd4808m3d.jpg)*
 
-*![](lpenangensis/090110cjd4809m3a.jpg)*
 
-*![](lpenangensis/090110cjd4787m3.jpg)*  
-Underside.
 
-*![](lpenangensis/090110cjd4796m3.jpg)*  
-Pointed tube
-feet.
 
 ---
 
@@ -74,11 +89,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lpenangensis/210100chgsafmn1.jpg)  
- *Changi Creek, Jan 21*
 
-![](lpenangensis/210100chgsafmn1a.jpg)  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158032773713660&set=a.10158032775418660).
  
 
 ---
@@ -98,5 +109,3 @@ Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=1015
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

@@ -2,7 +2,7 @@
 title: Sea skaters
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "skaters, water, strider, halovelia, gerridae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Veliidae
 genus: ""
 species: ""
@@ -19,6 +19,17 @@ suborder: Heteroptera
 infraorder: Gerromorpha
 superfamily: Gerroidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg"
+  caption: |
+    <p>A mating pair of Halobates hayanus Sisters Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/skater/070102sismn.jpg"
+  caption: |
+    <p>A mating pair of Halobates hayanus Sisters Island, Jan 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/skater/200111smksjc2.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Jan 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157797305946310&set=a.10157797258656310&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/insecta/skater/080831sisd0183m3a.jpg"
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
@@ -61,12 +72,7 @@ look somewhat like the adult.
   
 Sea skaters recorded in Singapore include *Halovelia* sp. (Family
 Veliidae) and *Halobates* sp. (Family Gerridae). Thanks to Tay Ywee Chieh and Lanna Cheng for identifying some of the sea skaters seen as *Halobates hayanus* (bigger) and Mrs Yang Changman for identifying *Haloveloides sundaensis* (tiny).
-*![](skater/080831sisd0183m3a.jpg)*A mating pair of *Halobates hayanus  
-Sisters Island, Aug 08*
-*![](skater/070102sismn.jpg)*A mating pair of *Halobates hayanus  
-Sisters Island, Jan 07*
-*![](skater/200111smksjc2.jpg)  
-Pulau Semakau (South), Jan 20*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo.php?fbid=10157797305946310&set=a.10157797258656310&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 

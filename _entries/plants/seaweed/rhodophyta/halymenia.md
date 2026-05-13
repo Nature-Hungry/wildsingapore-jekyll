@@ -2,7 +2,7 @@
 title: "Halymenia red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "halymenia, red, seaweed, weed, algae, halymeniaceae, halymeniales, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Gracilariacea
 genus: Halymenia
@@ -17,6 +17,71 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Halymeniales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg"
+  caption: |
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080422smkd1482m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3243m3.jpg"
+  caption: |
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3243m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/080510smkd3022m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/maculata/070415sisg8603m3.jpg"
+  caption: |
+    <p><a href="maculata">Frilly halymenia</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/070506sjig9197m3.jpg"
+  caption: |
+    <p><a href="dilatata">Ruffled halymenia</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/210502tptvc14.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447592112945&set=a.10158447654442945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7087m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7081m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100601slud4713m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd0057m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091204pawd5261m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/091231biod7031m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8616m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100130brkd8646m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100530tbkd4275m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/100131slud8871m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,29 +140,14 @@ there are 65 current *Halymenia* species.
 species that are eaten by people are *H. discoidea* and *H.
 durvillaei. H. venusta* is used as animal feed.
 
-*![](halymenia/050311labg3239m3.jpg)  
-Labrador, Mar 05  
-![](halymenia/050311labg3239m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](halymenia/080422smkd1482m3.jpg)  
-Pulau Semakau, Apr 08  
-![](halymenia/080422smkd1482m3b.jpg)*
 
-*![](halymenia/050311labg3243m3.jpg)  
-Labrador, Mar 05  
-![](halymenia/050311labg3243m3a.jpg)*
 
-*![](halymenia/080510smkd3022m3.jpg)  
-Pulau Semakau, May 08  
-![](halymenia/080510smkd3022m3b.jpg)*
 
 ---
 
-***![](maculata/070415sisg8603m3.jpg)*[Frilly
-halymenia](maculata)**
 
-***![](dilatata/070506sjig9197m3.jpg)*[Ruffled
-halymenia](dilatata)**
 
   
 *\*Seaweed
@@ -123,46 +173,24 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](halymenia/210502tptvc14.jpg)  
-Terumbu Pempang Tengah, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447592112945&set=a.10158447654442945).
 
 ---
 
-*![](halymenia/091231biod7087m3.jpg)  
-Pulau Biola, Dec 09*
 
-*![](halymenia/091231biod7081m3.jpg)  
-Pulau Biola, Dec 09*
 
-*![](halymenia/100601slud4713m3.jpg)  
-Pulau Salu, Jun 10*
 
 ---
 
-*![](halymenia/091204pawd0057m3.jpg)  
-Pulau Pawai, Dec 09*
 
-*![](halymenia/091204pawd5261m3.jpg)  
-Pulau Pawai, Dec 09*
 
-*![](halymenia/091231biod7031m3.jpg)  
-Pulau Biola, Dec 09*
 
 ---
 
-*![](halymenia/100130brkd8616m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](halymenia/100130brkd8646m3.jpg)  
-Terumbu Berkas, Jan 10*
 
-*![](halymenia/100530tbkd4275m3.jpg)  
-Pulau Berkas, May 10*
 
 ---
 
-*![](halymenia/100131slud8871m3.jpg)  
-Terumbu Salu, Jan 10*
 
 ---
 

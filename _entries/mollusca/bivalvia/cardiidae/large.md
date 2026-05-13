@@ -2,7 +2,7 @@
 title: Large cockle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "large, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cardiidae
 genus: ""
 species: identification*
@@ -19,6 +19,56 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/201020swgvc6.jpg"
+  caption: |
+    <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025459147945&set=a.10158025536362945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/201118pglvc6.jpg"
+  caption: |
+    <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086356532945&set=a.10158086509267945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/190206prpvc1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Feb 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10156383486307945&set=a.10156383485287945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/170626skdlks3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155493341758158&set=a.10155493331973158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/200626nsrsslks1.jpg"
+  caption: |
+    <p>East Coast Park, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158398028763158&set=a.10158398088433158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/211009blylks6.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159490097008158&set=a.10159490105468158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/110220lazlks5m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5473825094/in/datetaken/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/110220lazlks6m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/081113jngtch02m3.jpg"
+  caption: |
+    <p>Pulau Jong, Nov 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3029047461/">her flickr.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/181225kuslks2.jpg"
+  caption: |
+    <p>Kusu Island, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156868567128158&set=a.10156868565383158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/160820cyrmn1.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/201018smkslks6.jpg"
+  caption: |
+    <p>Pulau Semakau South, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158700249263158&set=a.10158700249983158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/210811tryvc1.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158641286992945&set=a.10158641345557945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3548m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,13 +109,9 @@ opening.
   
 The clams grouped here are probably from different species.
 
-![](large/091104sntd3548m3.jpg)  
- *Sentosa, Nov 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](large/091104sntd3546m3.jpg)  
- *Sentosa, Nov 09*
 
-![](large/091104sntd3546m3b.jpg)
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -88,54 +134,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](large/201020swgvc6.jpg)  
- *Sembawang, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158025459147945&set=a.10158025536362945).
 
-![](large/201118pglvc6.jpg)  
- *Punggol, Nov 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158086356532945&set=a.10158086509267945).
 
-![](large/190206prpvc1.jpg)  
- *Pasir Ris Park, Feb 19*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10156383486307945&set=a.10156383485287945&type=3&theater).
 
 ---
 
-![](large/170626skdlks3.jpg)  
- *Pulau Sekudu, Jun 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155493341758158&set=a.10155493331973158&type=3&theater).
 
-![](large/200626nsrsslks1.jpg)  
- *East Coast Park, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158398028763158&set=a.10158398088433158&type=3&theater).
 
-![](large/211009blylks6.jpg)  
- *Berlayar Creek, Oct 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159490097008158&set=a.10159490105468158).
 
 ---
 
-![](large/110220lazlks5m3.jpg)  
- *Lazarus Island, Feb 11*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/5473825094/in/datetaken/).
 
-![](large/110220lazlks6m3.jpg)
 
-![](large/081113jngtch02m3.jpg)  
- *Pulau Jong, Nov 08*Photo shared by Toh Chay Hoon on [her
-flickr.](http://www.flickr.com/photos/ilmare77/3029047461/)
 
 ---
 
-![](large/181225kuslks2.jpg)  
- *Kusu Island, Dec 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156868567128158&set=a.10156868565383158&type=3&theater).
 
-![](large/160820cyrmn1.jpg)  
- *Cyrene Reef, Aug 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3).
  
 
 ---
 
-![](large/201018smkslks6.jpg)  
- *Pulau Semakau South, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158700249263158&set=a.10158700249983158).
 
-![](large/210811tryvc1.jpg)  
- *Terumbu Raya, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158641286992945&set=a.10158641345557945).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

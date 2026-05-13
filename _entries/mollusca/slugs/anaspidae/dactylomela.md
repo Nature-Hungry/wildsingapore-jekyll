@@ -2,7 +2,7 @@
 title: Black-tailed sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, tailed, seahare, hare, aplysia, dactylomela, anaspidea, aplysiidae, bursatella, leachii, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Aplysiidae
 genus: Aplysia
 species: dactylomela
@@ -18,6 +18,63 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg"
+  caption: |
+    <p>Lazarus Island, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3c.jpg"
+  caption: |
+    <p>A black 'tail'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/050610sntd3938m3a.jpg"
+  caption: |
+    <p>Large oral tentacles and rhinophores</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160208smkslks2.JPG"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/190123laz.jpg"
+  caption: |
+    <p>Egg strings laid by the sea hare.</p>
+    <p>Lazarus Island, Jan 19</p>
+- url: "https://live.staticflickr.com/31337/50039729157_63f9be9b20_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/50039729157/ "Black-tailed sea hare (Aplysia dactylomela)")</p>
+- url: "https://live.staticflickr.com/1591/24908894245_ae06fc8228_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/24908894245/ "Black-tailed sea hare (Aplysia dactylomela)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/181224sntlks3.jpg"
+  caption: |
+    <p>Sentosa, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156864204753158&set=a.10156864202778158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/240527snttl4.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10161248696949264">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/140716cyrrl2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 14Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.769194059798655.1073741837.109257872458947&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/160608cyrjt2.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154252104998119.1073741910.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/200627cyrjll2.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157514609466295&set=a.10157514607616295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/111001smknw1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 11Photo shared by Nicole Wong on <a href="http://www.flickr.com/photos/_nicolewong/6041087346/in/photostream">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/100517jngjk1m3.jpg"
+  caption: |
+    <p>Pulau Jong, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100517-jong.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250811jngjll1.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/150720smknjt1m3.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153437228253119&set=pcb.10153437231063119&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/210113smkwjll5.jpg"
+  caption: |
+    <p>Pulau Semakau West, Jan 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157988356366295&set=a.10157988367216295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/250403smksrk4.jpg"
+  caption: |
+    <p>Two side-by-side Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,30 +124,19 @@ Other accounts say they feed on green seaweed. Some of seaweeds identified
 as their food include *[Udotea](../../../plants/seaweed/chlorophyta/udotea.htm),
 Rhinocephalus, [Caulerpa](../../../plants/seaweed/chlorophyta/caulerpa.htm), Penicillu*s and *[Halimeda](../../../plants/seaweed/chlorophyta/halimeda.htm).*
 
-![](dactylomela/090628lazd6182m3.jpg)  
-*Lazarus Island, Jun 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dactylomela/050610sntd3938m3c.jpg)  
-A black 'tail'.
 
-![](dactylomela/050610sntd3938m3a.jpg)  
-Large oral tentacles and rhinophores
 
 ---
 
-![](dactylomela/160208smkslks2.JPG)  
- *Pulau Semakau South, Feb 16*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakau.html).
 
-![](dactylomela/190123laz.jpg)  
-Egg strings laid by the sea hare. *Lazarus Island, Jan 19*
 
 ---
 
-[![Black-tailed sea hare (Aplysia dactylomela)](https://live.staticflickr.com/31337/50039729157_63f9be9b20_z.jpg)](https://www.flickr.com/photos/wildsingapore/50039729157/ "Black-tailed sea hare (Aplysia dactylomela)")
 
 ---
 
-[![Black-tailed sea hare (Aplysia dactylomela)](https://live.staticflickr.com/1591/24908894245_ae06fc8228_z.jpg)](https://www.flickr.com/photos/wildsingapore/24908894245/ "Black-tailed sea hare (Aplysia dactylomela)")
 
 ---
 
@@ -108,48 +154,24 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](dactylomela/181224sntlks3.jpg)  
- *Sentosa, Dec 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156864204753158&set=a.10156864202778158&type=3&theater).
 
-*![](dactylomela/240527snttl4.jpg)**Sentosa Tg Rimau, May 24*  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10161248696949264)
 
 ---
 
-![](dactylomela/140716cyrrl2m3.jpg)  
- *Cyrene Reef, Jul 14*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.769194059798655.1073741837.109257872458947&type=1).
 
-![](dactylomela/160608cyrjt2.jpg)  
- *Cyrene Reef, Jun 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154252104998119.1073741910.696593118&type=3).
 
-![](dactylomela/200627cyrjll2.jpg)  
- *Cyrene Reef, Jun 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157514609466295&set=a.10157514607616295&type=3&theater).
 
 ---
 
-![](dactylomela/111001smknw1m3.jpg)  
- *Pulau Semakau, Oct 11*Photo shared by Nicole Wong on [flickr](http://www.flickr.com/photos/_nicolewong/6041087346/in/photostream).
 
 ---
 
-![](dactylomela/100517jngjk1m3.jpg)  
- *Pulau Jong, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100517-jong.html).
 
-![](dactylomela/250811jngjll1.jpg)  
- *Pulau Jong, Aug 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post).
 
 ---
 
-![](dactylomela/150720smknjt1m3.jpg)  
- *Pulau Semakau North, Jul 15*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10153437228253119&set=pcb.10153437231063119&type=3&theater).
 
-![](dactylomela/210113smkwjll5.jpg)  
- *Pulau Semakau West, Jan 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10157988356366295&set=a.10157988367216295).
 
-![](dactylomela/250403smksrk4.jpg)  
-Two side-by-side *Pulau Semakau South, Apr 25*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post).
 
 ---
 

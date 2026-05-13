@@ -2,7 +2,7 @@
 title: Honeycomb grouper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "honey, comb, grouper, fish, epinephalus, quoyanus, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 58, 60]
 family: Serranidae
 genus: Epinephelus
@@ -17,6 +17,18 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Apr 11What does it eat?</p>
+    <p>It eats crustaceans, fishes and worms.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/180106sntay1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212402723835424&set=a.10212400854868701&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110602tmftd3552m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,12 +69,7 @@ spotting, larger polygonal spots, thin or no white margin on the tail.
 It also has oblique dark bands just below the pectoral fin base. Often
 seen resting on the ground with its enlarged fleshy pectoral fins
 held outward.
-![](quoyanus/110602tmftd3552m3.jpg)  
-*Tanah Merah,
-Jun 11*
-![](quoyanus/110418tmftd9031m6l.jpg)  
-*Tanah Merah,
-Apr 11***What does it eat?** It eats crustaceans, fishes and worms.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human
 uses:** It is among the common fishes eaten in Singapore.
@@ -87,8 +94,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](quoyanus/180106sntay1.jpg)  
-*Sentosa Tg Rimau, Jan 18*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10212402723835424&set=a.10212400854868701&type=3&theater).
 
 ---
 

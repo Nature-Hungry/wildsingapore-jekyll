@@ -2,7 +2,7 @@
 title: "Bakau putih "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, putih, puteh, bruguiera, cylindrica, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 32, 36, 57, 68]
 family: Rhizophoraceae
 genus: Bruguiera
@@ -15,6 +15,27 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189944
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4906m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8669m3.jpg"
+  caption: |
+    <p>Small flowers, several in a cluster on one stalk.</p>
+    <p>Calyx usually pale.</p>
+    <p>Sungei Buloh Besar, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/110406sbbd8726m3a.jpg"
+  caption: |
+    <p>Tassels on petal tips.</p>
+    <p>Sungei Buloh Besar, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/020418sbwrcpd8227m3a.jpg"
+  caption: |
+    <p>Sepals on propagules bend towards stalk.</p>
+    <p>Sungei Buloh, Apr 02</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/cylindrica/091203ubnd4902m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,23 +102,10 @@ coconut. Fishermen do not like to use the wood for fish-traps as they
 say it has a peculiar smell that frightens fishes away. According
 to Giersen, the timber is heavy and reddish.
 
-*![](cylindrica/091203ubnd4902m6l.jpg)  
-Pulau Ubin, Dec
-09 ![](cylindrica/091203ubnd4906m3.jpg)  
-Pulau Ubin, Dec
-09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cylindrica/110406sbbd8669m3.jpg)  
-Small flowers, several in a cluster on one stalk.  
-Calyx usually pale. *Sungei Buloh Besar, Apr 11*
 
-![](cylindrica/110406sbbd8726m3a.jpg)  
-Tassels on petal tips.  
-*Sungei Buloh Besar, Jun 11*
 
-![](cylindrica/020418sbwrcpd8227m3a.jpg)  
-Sepals on propagules bend towards stalk.  
-*Sungei Buloh, Apr 02*
 
 ---
 

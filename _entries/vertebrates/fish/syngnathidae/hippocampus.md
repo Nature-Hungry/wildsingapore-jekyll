@@ -2,7 +2,7 @@
 title: Seahorses
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Syngnathidae
 genus: Hippocampus
 species: sp.
@@ -18,6 +18,65 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+  caption: |
+    <p>Often seen in a pair.</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg"
+  caption: |
+    <p>Flexible tail used to hang onto objects.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg"
+  caption: |
+    <p>Mobile eyes can move while the body remains still.</p>
+    <p>Toothless jaws used like a straw.</p>
+    <p>Changi, Jul 07 What do they eat?</p>
+    <p>It may be hard to imagine of such seemingly harmless creatures, but seahorses are voracious predators.</p>
+    <p>They sit-and-wait in ambush to capture tiny animals that drift or wander by.</p>
+    <p>These shrimps, crabs and tiny crustaceans are sucked up and swallowed whole.</p>
+    <p>The jaws are tube-like ending in a tiny toothless mouth.</p>
+    <p>'Syngnathus' means 'fused jaws' in Greek.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg"
+  caption: |
+    <p>Pregnant papa Pasir Ris Park, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg"
+  caption: |
+    <p>Very pregnant papa.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg"
+  caption: |
+    <p>Very pregnant papa.</p>
+    <p>Sisters Island, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg"
+  caption: |
+    <p><a href="kuda">Estuarine seahorses</a> body and tail the same colour</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg"
+  caption: |
+    <p><a href="kuda">Estuarine seahorses</a> 'hairy' and usually small</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg"
+  caption: |
+    <p><a href="comes">Tiger-tailed seahorses</a> tail is banded yellow and black</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Periplus Editions.</p>
+    <p>292 pp.</p>
+    <p>- Kuiter, Rudie H.</p>
+    <p>2002.</p>
+    <p>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers & Fishermen New Holland Publishers.</p>
+    <p>434pp.</p>
+    <p>- Lieske, Ewald and Robert Myers.</p>
+    <p>2001.</p>
+    <p>Coral Reef Fishes of the World Periplus Editions.</p>
+    <p>400pp.</p>
+    <p>- Kuiter, Rudie H., 2000 (English edition).</p>
+    <p>Seahorses, Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes TMC Publishing, UK.</p>
+    <p>240 pp.</p>
+    <p>- Sparks, John, 1999.</p>
+    <p>Battle of the Sexes in the Animal World BBC Worldwide, London.</p>
+    <p>224 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,20 +132,7 @@ It uses its flexible, muscular tail to hang on to vegetation and other
 supports. It can also change colours to match its surroundings. Some
 species have flaps and projections out of their body to match the
 vegetation around them.
-*![](kuda/090806tmd8401m3.jpg)*Often seen in a pair. *Tanah Merah, Aug 09* 
-![](kuda/050511cftg6328m3d.jpg)  
-Flexible tail used to hang onto objects.  
-*Changi, May 05*
-![](kuda/070702chgd3169m3.jpg)  
-Mobile eyes can move while the body   
-remains still. Toothless jaws used like a straw.  
-*Changi, Jul 07*
-**What do they eat?** It may be hard
-to imagine of such seemingly harmless creatures, but seahorses are
-voracious predators. They sit-and-wait in ambush to capture tiny animals
-that drift or wander by. These shrimps, crabs and tiny crustaceans
-are sucked up and swallowed whole. The jaws are tube-like ending in
-a tiny toothless mouth. 'Syngnathus' means 'fused jaws' in Greek.   
+{% include img-wrap-group.html items=page.page_images %}
   
 A seahorse needs to eat a lot continuously because its digestive system
 is simple and it does not have a stomach. Even a baby seahorse can
@@ -115,15 +161,8 @@ mate is often ready with another batch of eggs. So he is often constantly
 changing colours as they move and holding tails as they swim together.
 In the wild, some form mated pairs.
 
-![](kuda/080702prpd6420m3.jpg)  
-Pregnant papa *Pasir Ris Park, Jul 08*
 
-![](kuda/110519chgd2195m3.jpg)  
-Very pregnant papa*.  
-Changi, May 11*
 
-![](comes/120312siss04823m3.jpg)  
-Very pregnant papa. *Sisters Island, Mar 12*
 
 **Human (ab)uses:** Seahorses are
 used in traditional Chinese medicine. Many species are also caught
@@ -164,20 +203,8 @@ on Singapore shores**
 
 ---
 
-![](kuda/050511cftg6328m3.jpg)  
-[**Estuarine
-seahorses**](kuda)  
-body and tail the same colour
 
-![](kuda/031226chgd0026m3.jpg)  
-[**Estuarine
-seahorses**](kuda)  
-'hairy' and usually small
 
-![](comes/050625labg8740m3.jpg)  
-[**Tiger-tailed
-seahorses**](comes)  
-tail is banded yellow and black
 
 ---
 
@@ -256,25 +283,6 @@ Hippocampus trimaculatus*
   Nature Society (Singapore). 285 pp.
 - Allen, Gerry,
   2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World*
-  Periplus Editions. 400pp.
-- Kuiter, Rudie
-  H., 2000 (English edition). *Seahorses,
-  Pipefishes and their Relatives: A Comprehensive Guide to Syngnathiformes*
-  TMC Publishing, UK. 240 pp.
-- Sparks, John,
-  1999. *Battle
-  of the Sexes in the Animal World*
-  BBC Worldwide, London. 224 pp.
 
 [links](../../../links)
 | [references](../../../references)

@@ -2,7 +2,7 @@
 title: "Rambut putri "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rambut, putri, cassytha, filiformis, lauraceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 35, 36]
 family: Lauraceae
 genus: Cassytha
@@ -15,6 +15,36 @@ class: Magnoliopsida
 order: Laurales
 inat_id: 160172
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg"
+  caption: |
+    <p>Tiny flowers on short stalk.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090405smkd8982m3.jpg"
+  caption: |
+    <p>Small globular berries.</p>
+    <p>Pulau Semakau, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -78,17 +108,10 @@ In Java, the pounded stems are used for intestinal ailments. According
 to Giersen, the plant is sometimes cultivated for its medicinal uses
 in parts of Indonesia.  
 
-*![](filiformis/110220lazd6172m6l.jpg)  
-Lazarus Island, Feb 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](filiformis/081206smkd2679m3a.jpg)*Tiny flowers
-on short stalk. **Pulau Semakau, Dec 08**
 
-*![](filiformis/090405smkd8982m3.jpg)*Small
-globular berries. *Pulau Semakau, Apr 09*
 
-*![](filiformis/090412hntd9877m3.jpg)  
-Pulau Hantu, Apr 09*
 
 ---
 
@@ -127,13 +150,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

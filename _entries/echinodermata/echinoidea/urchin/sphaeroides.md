@@ -2,7 +2,7 @@
 title: White salmacis urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, sphaeroides, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 92, 93, 94]
 family: Temnopleuridae
 genus: Salmacis
@@ -19,6 +19,80 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngechinoidea)</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg"
+  caption: |
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg"
+  caption: |
+    <p>Sometimes gathered in large numbers.</p>
+    <p>Cyrene Reef, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg"
+  caption: |
+    <p>Carrying stuff.</p>
+    <p>Beting Bronok, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg"
+  caption: |
+    <p>White spines with maroon bands.</p>
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080425cyrd1792m3b.jpg"
+  caption: |
+    <p>White spines with green and maroon bands.</p>
+    <p>Cyrene Reef, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg"
+  caption: |
+    <p>Flattened spines on underside.</p>
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg"
+  caption: |
+    <p>Hole with 'burn' mark suggests the urchin was attacked by a <a href="../../../mollusca/gastropoda/cassidae/cassidae">Helmet snail</a>.</p>
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg"
+  caption: |
+    <p>Worm-like thing seen on the underside.</p>
+    <p>Changi, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg"
+  caption: |
+    <p>Parasitic snails seen on the urchin Cyrene, May 17Photo shared on Singapore Biodiversity Records.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg"
+  caption: |
+    <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
+    <p>Changi, Jun 17Photo shared on Singpaore Biodiversity Records.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg"
+  caption: |
+    <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
+    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235740598158&set=a.10159235746118158">facebook</a>.</p>
+- url: "https://live.staticflickr.com/4273/34775316572_7bf732ccfa_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/34775316572/ "White salmacis urchin (Salmacis sphaeroides)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/200917sbwmn1.jpg"
+  caption: |
+    <p>Sembawang Beach, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157485865033660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/220616chgelks4.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940592388158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080412cjtsjm3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/04/teamseagrass-at-chek-jawal">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/100614bblks1m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4698907281/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/120818lazlks.JPG"
+  caption: |
+    <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519798873/in/album-72157625976409015/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/110830cyrjk6m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared byJames Koh on <a href="http://sgn090608.blogspot.com/2011/08/110830-cyrenel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/100528tkknml7m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170311bbbjt.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 17Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3">facebook</a>.</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -29,7 +103,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fngechinoidea)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -63,27 +137,11 @@ all kinds of things from shells to seaweeds. It can quickly gather
 these things to cover itself. This behaviour may help camouflage it
 or shield it from sunlight.
 
-![](salmacis/080506chgd2260m3.jpg)  
-*Changi, May 08*
 
-![](salmacis/070421cyrd0440m3.jpg)  
-Sometimes gathered
-in large numbers. *Cyrene Reef, Apr 07*
 
-![](salmacis/060528bbd2322m3.jpg)  
-Carrying
-stuff. *Beting Bronok, May 06*
 
-![](salmacis/080506chgd2263m3b.jpg)  
-White spines with maroon bands*.   
-Changi, May 08*
 
-*![](salmacis/080425cyrd1792m3b.jpg)*White
-spines with green and maroon bands.  
-*Cyrene Reef, Apr 08*
 
-![](salmacis/050524chgg6575m3a.jpg)  
-Flattened spines on underside. *Changi, May 06*
 
 **What does it eat?** It eats seaweeds.  
   
@@ -92,32 +150,15 @@ urchin) suggest that large snails might prey on them.
   
 **Home on an urchin:** Some animals live on this prickly animal. This includes [Parasitic snails](../../../mollusca/gastropoda/eulimidae/eulimidae), the Zebra crab and sometimes, the [Urchin-mouth worm](../../../worm/polychaeta/oxydromus) is found curled around the mouth.
 
-![](salmacis/080506chgd2299m3.jpg)  
-Hole with 'burn'
-mark suggests the urchin
-was attacked by a [Helmet
-snail](../../../mollusca/gastropoda/cassidae/cassidae). *Changi, May 08*
 
-![](salmacis/101011chgd2159m3.jpg)  
-Worm-like thing
-seen on the underside.  
-*Changi, Oct 10*
 
-![](salmacis/170527cyrsbr.jpg)  
-Parasitic snails seen on the urchin  
-*Cyrene, May 17*Photo shared on Singapore Biodiversity Records.
 
 ---
 
-![](salmacis/170625chgsbr.jpg)  
-Zebra crab (*Zebrida adamsii*) seen on the urchin. *Changi, Jun 17*Photo shared on Singpaore Biodiversity Records.
 
-![](salmacis/210530ecpglks3a.jpg)  
-Zebra crab (*Zebrida adamsii*) seen on the urchin. *East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159235740598158&set=a.10159235746118158).
 
 ---
 
-[![White salmacis urchin (Salmacis sphaeroides)](https://live.staticflickr.com/4273/34775316572_7bf732ccfa_z.jpg)](https://www.flickr.com/photos/wildsingapore/34775316572/ "White salmacis urchin (Salmacis sphaeroides)")
 
 ---
 
@@ -136,40 +177,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](salmacis/200917sbwmn1.jpg)  
-*Sembawang Beach, Sep 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157485865033660&set=a.10157485864973660).
 
-![](salmacis/220616chgelks4.jpg)  
-*Changi Lost Coast, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940592388158&set=a.10159940599688158).
 
 ---
 
-![](salmacis/080412cjtsjm3.jpg)  
-*Chek Jawa,
-Apr 08*Photo shared by Tan Sijie on [his
-blog](http://naturescouter.blogspot.com/2008/04/teamseagrass-at-chek-jawal).
 
-![](salmacis/100614bblks1m3.jpg)  
-*Beting Bronok,
-Jun 10*Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/4698907281/).
 
 ---
 
-![](salmacis/120818lazlks.JPG)  
-*Seringat-Kias, Aug 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519798873/in/album-72157625976409015/).
 
-*![](salmacis/110830cyrjk6m3.jpg)  
-Cyrene Reef, Aug 11*Photo shared byJames Koh on [his
-blog](http://sgn090608.blogspot.com/2011/08/110830-cyrenel).
 
-*![](salmacis/100528tkknml7m3.jpg)  
-Pulau Tekukor, May 10*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel).
 
 ---
 
-![](salmacis/170311bbbjt.jpg)  
-*Beting Bemban Besar, Mar 17*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3).
 
   
 

@@ -2,7 +2,7 @@
 title: Acorn barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Balanidae
 genus: Balanus
 species: ""
@@ -21,6 +21,50 @@ superorder: Thoracicalcarea
 order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg"
+  caption: |
+    <p>Acorn barnacles on a seawall.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3a.jpg"
+  caption: |
+    <p>On a rock</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3b.jpg"
+  caption: |
+    <p>On mangrove roots.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg"
+  caption: |
+    <p>On a living <a href="../../crab/portunidae/pelagicus">flower crab</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3a.jpg"
+  caption: |
+    <p>On a living <a href="../../crab/grapsidae/metopograpsus">Purple climber crab</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg"
+  caption: |
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3a.jpg"
+  caption: |
+    <p>Acorn barnacles on a living snail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg"
+  caption: |
+    <p>Sentosa, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/20788145149/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg"
+  caption: |
+    <p>East Coast Park, Jul 16 on a sea fan.Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -63,17 +107,9 @@ it is drier.
 **Features:** To about 1 cm across,
 conical outer shell made up of several wall plates.
 
-![](balanus/050510tusg6179m3.jpg)  
-*Tuas, May 05*  ![](balanus/050510tusg6179m3a.jpg)  
-Acorn barnacles on a seawall.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](balanus/050108cjd9209m3.jpg)  
- *Chek Jawa, Jan 05*![](balanus/050108cjd9209m3a.jpg)  
-On a rock
 
-![](balanus/160110cjo1100049m3a.jpg)  
-*Chek Jawa, Jan 16![](balanus/160110cjo1100049m3b.jpg)  
-On mangrove roots.*
 
 Many settle on walls and hard surfaces.
 Some species of acorn barnacles settle on living roots of mangrove trees. Others on living animals such as crabs.   
@@ -84,18 +120,8 @@ whelk](../../../mollusca/gastropoda/nassariidae/olivaceus). One snail may have m
 one of these barnacles on its shell, which are quite large compared
 to the shell!
 
-*![](balanus/090622chgd4692m3c.jpg)  
-Changi, Jul 09![](balanus/090622chgd4692m3a.jpg)*On a living [flower
-crab](../../crab/portunidae/pelagicus).
 
-*![](../../crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg)  
-East Coast, Aug 09![](../../crab/grapsidae/metopograpsus/090820ecpd9482m3a.jpg)*On a living [Purple
-climber crab](../../crab/grapsidae/metopograpsus).
 
-![](../../../mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg)  
-*Changi, Aug 05*  
-![](../../../mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3a.jpg)  
-Acorn barnacles on a living snail.
 
   
 *\***Species
@@ -120,11 +146,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](balanus/150619sntmn.jpg)  
-*Sentosa, Jun 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/20788145149/).
 
-![](balanus/160705ecplks4a.jpg)  
-*East Coast Park, Jul 16 on a sea fan.*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl).
 
 ---
 

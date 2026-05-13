@@ -2,7 +2,7 @@
 title: Cerianthid phoronid worm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ceriantharia, cerianthid, phoronid, worm, phoronis, australis, phoronida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: Phoronis
@@ -11,6 +11,34 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg"
+  caption: |
+    <p>Changi, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3c.jpg"
+  caption: |
+    <p>Are the white stuff eggs?</p>
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/050823chgg2313m3.jpg"
+  caption: |
+    <p>The anus is at the top of the body in between the two 'fans'.</p>
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmn.jpg"
+  caption: |
+    <p>Tuas, Mar 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/16864215692/">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/150319tusmna.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/170723ubnlks5.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155608401178158&set=a.10155608393858158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/090920smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Sep 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3939462899/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/091205sudtch5m3a.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on  <a href="http://www.flickr.com/photos/ilmare77/4187700864/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg"
 ---
 
 
@@ -79,13 +107,7 @@ is only about one year. *Phoronis australis* is a hermaphrodite.
 Phoroneus is often said to be the son of a river god and ocean nymph.
 He is credited for being the first to unite the Greeks as one people.
 Previously, they had lived in scattered groups.
-*![](phoronida/030630chgd0017m3.jpg)  
-Changi, Jun 03*
-*![](phoronida/050823chgg2313m3c.jpg)*Are
-the white stuff eggs?  
-*Changi, Aug 05*
-*![](phoronida/050823chgg2313m3.jpg)*The anus is at the top of the body   
-in between the two 'fans'. *Changi, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
   
 *\***Tentative
 identification. Species are difficult to positively identify without close
@@ -110,28 +132,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](phoronida/150319tusmn.jpg)  
-*Tuas, Mar 15*Photo
-shared by Marcus Ng on [facebook](https://www.flickr.com/photos/budak/16864215692/).
 
-![](phoronida/150319tusmna.jpg)
 
 ---
 
-![](phoronida/170723ubnlks5.jpg)  
-*Pulau Ubin, Jul 17*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155608401178158&set=a.10155608393858158&type=3&theater).
 
 ---
 
-![](phoronida/090920smklks.JPG)  
-*Pulau Semakau, Sep 09*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3939462899/in/album-72157607751329669/).
 
-![](phoronida/091205sudtch5m3a.jpg)  
-*Pulau Sudong,
-Dec 09*Photo
-shared by Toh Chay Hoon on  [flickr](http://www.flickr.com/photos/ilmare77/4187700864/).
 
 ---
 
@@ -175,5 +183,3 @@ of this worm. **Links**
   Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates*
   Sea Challengers. 314pp.
-
-

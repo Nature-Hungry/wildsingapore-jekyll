@@ -2,7 +2,7 @@
 title: Eightband butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "eight, band, banded, kite, butterflyfish, butterfly, fish, chaetodon, octofasciatus chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Chaetodontidae
 genus: Chaetodon
@@ -17,6 +17,51 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Chaetodontinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg"
+  caption: |
+    <p>Sisters Island, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703110636/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703110636/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150618tmftlks15m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220813pcnccn2.jpg"
+  caption: |
+    <p>East Coast (PCN), Aug 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159864600508654&set=a.10159864580043654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250714srpky6.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25From video shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172594516380112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/250201bsisml1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02xVNziqu2AQLsFJUJJV6naNgWSPQizaQ4nkWWQUJpWxDfUoJzo77TCQ5ZmPyVv822l&id=61566639210004&__cft__[0]=AZX1qb6zn-U6K7ScceFxGYBDTnyJ8UqkF43F1nGJcMVTgup97Dpy0ze6RSWrKz0Dw6F268JlMXSrYjEf9bsj2xJIU-Hkk9gcBlc48OBLgUuQvg&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/230901kusta1.jpg"
+  caption: |
+    <p>Kusu Island, Sep 23Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10230807007341272&set=a.10230807223466675">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/240410cyrky1.jpg"
+  caption: |
+    <p>Young one?</p>
+    <p>Cyrene, Apr 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169356965545112&set=a.10169356961615112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/150607bbbrl1m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.949147108470015.1073741843.109257872458947&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/120521tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519768075/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/161117rlhlks4.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/220105rlhdc1.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jan 22Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=4655003541283052&set=a.4655027614613978">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/091205sudtch2m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://farm3.static.flickr.com/2748/4187712094_52a7771ee4_m.jpg">her flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,16 +100,9 @@ flat, circular disk-shaped, snout slightly pointed. 8 black bands, sometimes a b
 groups among branching corals such as [Acropora
 corals](../../../cnidaria/coralhard/acroporidae/acropora.htm). Adults seen in pairs.
 
-![](octofasciatus/101224sisd4066m3.jpg)  
-*Sisters Island, Dec 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](octofasciatus/100615tmlks2m3.jpg)  
-*Tanah Merah, Jun 10*  
-Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/4703110636/).
 
-![](octofasciatus/100615tmlks1m3.jpg)  
-*Tanah Merah, Jun 10*  
-Photo shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/4703110636/).
 
 **What
 does it eat?** According to FishBase, it eats only coral polyps. But the IUCN Red
@@ -93,46 +131,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](octofasciatus/150618tmftlks15m3.jpg)  
-*Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
-![](octofasciatus/220813pcnccn2.jpg)  
-*East Coast (PCN), Aug 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10159864600508654&set=a.10159864580043654).
 
-![](octofasciatus/250714srpky6.jpg)  
-*Sentosa Serapong, Jul 25*From video shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172594516380112&type=3&ref=embed_post).
 
 ---
 
-![](octofasciatus/250201bsisml1.jpg)  
-*Big Sisters Island, Feb 25*Photo shared by Mathias Luk on [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02xVNziqu2AQLsFJUJJV6naNgWSPQizaQ4nkWWQUJpWxDfUoJzo77TCQ5ZmPyVv822l&id=61566639210004&__cft__[0]=AZX1qb6zn-U6K7ScceFxGYBDTnyJ8UqkF43F1nGJcMVTgup97Dpy0ze6RSWrKz0Dw6F268JlMXSrYjEf9bsj2xJIU-Hkk9gcBlc48OBLgUuQvg&__tn__=%2CO%2CP-R).
 
-![](octofasciatus/230901kusta1.jpg)  
-*Kusu Island, Sep 23*Photo shared by Tommy Arden on [facebook](https://www.facebook.com/photo/?fbid=10230807007341272&set=a.10230807223466675).
 
-![](octofasciatus/240410cyrky1.jpg)  
-*Young one?  
-Cyrene, Apr 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10169356965545112&set=a.10169356961615112).
 
 ---
 
-![](octofasciatus/150607bbbrl1m3.jpg)  
-*Beting Bemban Besar, Jun 15*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.949147108470015.1073741843.109257872458947&type=3).
 
-![](octofasciatus/120521tptlks.JPG)  
-*Terumbu Pempang Tengah, May 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519768075/in/album-72157626616274147/).
 
 ---
 
-![](octofasciatus/161117rlhlks4.jpg)  
-*Raffles Lighthouse, Nov 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
 
-![](octofasciatus/220105rlhdc1.jpg)  
-*Raffles Lighthouse, Jan 22*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo/?fbid=4655003541283052&set=a.4655027614613978).
 
-![](octofasciatus/091205sudtch2m3.jpg)  
-*Pulau Sudong, Dec 09*Photo shared by Toh Chay Hoon on [her
-flickr](http://farm3.static.flickr.com/2748/4187712094_52a7771ee4_m.jpg).
 
 ---
 

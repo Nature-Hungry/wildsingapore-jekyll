@@ -2,7 +2,7 @@
 title: "Other maze  corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: awaiting
@@ -15,6 +15,54 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7742m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/070420sntrd0257m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/070420sntrd0257m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100519tsmc4114m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100519tsmc4114m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4334m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/050611kusg7740m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -68,20 +116,9 @@ display.
 corals](../../mussidae/mussidae.htm) (Family Lobophylliidae) which tend to have much thicker corallite
 walls which can have large 'teeth'.
 
-![](others/050611kusg7740m3.jpg)  
-*Kusu Island,
-Jun 05  
-![](others/050611kusg7742m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](others/070420sntrd0257m3.jpg)  
-*Sentosa, Apr
-07  
-![](others/070420sntrd0257m3a.jpg)*
 
-*![](others/100519tsmc4114m3.jpg)  
-Terumbu Semakau,
-May 10  
-![](others/100519tsmc4114m3a.jpg)*Bleaching.
 
   
 *\*Species are difficult
@@ -106,30 +143,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](others/100130brkd8469m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](others/100130brkd8469m3a.jpg)*
 
-*![](others/091204pawd0039m3.jpg)  
-Pulau Pawai,
-Dec 09  
-![](others/091204pawd0039m3a.jpg)*
 
-![](others/100530tbkd4325m3.jpg)  
-*Pulau Berkas,
-May 10  
-![](others/100530tbkd4325m3a.jpg)*
 
 ---
 
-*![](others/100530tbkd4334m3.jpg)*Bleaching. *Pulau Berkas, May 10*
 
-![](others/091204pawd5245m3.jpg)  
-*Pulau Pawai,
-Dec 09*
 
-![](others/091204pawd5245m3a.jpg)
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

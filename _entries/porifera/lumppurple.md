@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: encrusting
 title: Lumpy purple sponge
 family: Chalinidae
@@ -16,6 +16,32 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/240309tkrrg1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Mar 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2875297122612922&set=pcb.2875298959279405">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/100617tblks1m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711295556/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg"
 ---
 
 
@@ -38,14 +64,9 @@ on coral rubble. **Features:** 10-15cm.
 The sponge is encrusting with knobs with large holes at the tips.
 Colour purple.
 
-![](lumpypurple/050412tusd2426m3.jpg)  
-*Tuas, Apr 05*![](lumpypurple/050412tusd2426m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lumpypurple/080522cjd5879m3.jpg)  
-*Chek Jawa, Aug 05*![](lumpypurple/080522cjd5879m3a.jpg)
 
-![](lumpypurple/170624cjd3253m3a.jpg)  
-*Chek Jawa, Jun 16* ![](lumpypurple/170624cjd3253m3.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -69,12 +90,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lumpypurple/240309tkrrg1.jpg)  
-*Pulau Tekukor, Mar 24*Photo shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2875297122612922&set=pcb.2875298959279405).
 
-![](lumpypurple/100617tblks1m3.jpg)  
-*Terumbu Bemban, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4711295556/).
  
 
 ---

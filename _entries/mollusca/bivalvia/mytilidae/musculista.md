@@ -2,7 +2,7 @@
 title: Nest mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [2, 33, 107]
 family: Mytilidae
 genus: Arcuatula
@@ -18,6 +18,40 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg"
+  caption: |
+    <p>Mats coating boulders and the ground.</p>
+    <p>Pulau Sekudu, Dec 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg"
+  caption: |
+    <p>These tiny mussels can form vast mats.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks01m3.jpg"
+  caption: |
+    <p>Pasir Ris, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks02m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/blog-post.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks03m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/140530prpEd5721m3.jpg"
+  caption: |
+    <p>Plain sand star seen on a nest mussel bed.</p>
+    <p>Pasir Ris, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120705chgd7098m3.jpg"
+  caption: |
+    <p><a href="../../../worm/polycladida/silt.htm">Silt flatworm</a> seen on a nest mussel bed.</p>
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg"
+  caption: |
+    <p><a href="../../../plants/seagrass/decipiens.htm">Hairy spoon seagrass</a> growing on a nest mussel bed.</p>
+    <p>Changi, Jun 12</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +94,9 @@ individuals in one square metre. These mats rapidly change sandy bottoms
 into mud flats as they retain silt. Colonies fluctuate widely and
 unpredictably.
 
-*![](musculista/071223skdd8045m3.jpg)*Mats
-coating boulders and the ground. *Pulau Sekudu, Dec 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](musculista/070803cjd5010m3.jpg)*These
-tiny mussels can form vast mats. *Chek Jawa, Aug 07*
 
-*![](musculista/070704skdd3541m3.jpg)  
-Pulau Sekudu, Jul 07*
 
 **Features:** 1-2cm long. The two-part
 shell is thin, fragile and smooth. These tiny mussels build communal
@@ -81,14 +110,8 @@ black mussels](xenostrobus.htm) which are also small, but
 black and while they may also produce a kind of 'nest', this is not
 as thick and spongy as the mats created by the Nest mussels.
 
-*![](musculista/090211prplks01m3.jpg)**Pasir
-Ris, Feb 09*
 
-*![](musculista/090211prplks02m3.jpg)*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/blog-post.html).
 
-*![](musculista/090211prplks03m3.jpg)*
 
 **Friends and enemies:** Sometimes, small [Green
 mussels](viridis.htm) (*Perna viridis*) are seen growing among the tinier
@@ -97,12 +120,8 @@ Animals seen on the mussels include [Drills](../../gastropoda/muricidae/muricida
 spoon seagrass](../../../plants/seagrass/decipiens.htm) were seen growing
 on nest mussel beds.
 
-*![](musculista/140530prpEd5721m3.jpg)*Plain sand star seen on a nest mussel bed. *Pasir
-Ris, Feb 09*
 
-*![](musculista/120705chgd7098m3.jpg)*[Silt flatworm](../../../worm/polycladida/silt.htm) seen on a nest mussel bed. *Changi, Jul 12*
 
-![](musculista/120605lygd4072m3.jpg)[Hairy spoon seagrass](../../../plants/seagrass/decipiens.htm) growing on a nest mussel bed. *Changi, Jun 12*
 
 **Human uses:** These mussels are
 considered pests where they establish themselves outside their natural

@@ -2,7 +2,7 @@
 title: Planaxis snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sulcate, planaxis, sulcatus, planaxidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 75, 76, 100, 111, 123]
 family: Planaxidae
 genus: Planaxis
@@ -16,6 +16,23 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 subfamily: Planaxinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg"
+  caption: |
+    <p>Sisters Islands, Feb 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/080510smkd2954m3a.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/120707jngd7462m3a.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck01m3.jpg"
+  caption: |
+    <p>Pulau Jong, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/081113jngcck02m3.jpg"
+  caption: |
+    <p>Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/3028127441/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/planaxidae/sulcatus/070204hntg7590m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +77,9 @@ dark bands.
   
 **Sometimes confused with** [Periwinkle snails](../littorinidae/littorinidae.htm) which are found in similar habitats. But Periwinkles are much smaller, have thinner shells and don't have strong spiralling cords like the Planaxis snail.
 
-![](sulcatus/070204hntg7590m3.jpg)  
-*Sisters Islands, Feb 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sulcatus/080510smkd2954m3a.jpg)  
-*Pulau Semakau, May 08*
 
-![](sulcatus/120707jngd7462m3a.jpg)  
-*Pulau Jong, Jul 12*
 
 **Baby planaxis:** The female broods her young. Fertilisation is internal and the mother snail has a special brood pouch in the foot where the embryos
 are reared before they are released into the water as free-swimming larvae.  
@@ -97,12 +109,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sulcatus/081113jngcck01m3.jpg)  
-*Pulau Jong, Nov 08*
 
-![](sulcatus/081113jngcck02m3.jpg)  
-Photo shared by Chim Chee Kong on [his
-flickr](http://www.flickr.com/photos/chimck/3028127441/).
 
 ---
 

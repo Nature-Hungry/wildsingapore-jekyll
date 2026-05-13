@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, porifera,"
-layout: default
+layout: entry
 shape: encrusting
 title: Melted chocolate sponges
 family: Chondrillidae
@@ -16,6 +16,40 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Chondrillida
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg"
+  caption: |
+    <p>Tiny sea anemone Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3a.jpg"
+  caption: |
+    <p>With <a href="../echinodermata/holothuroidea/synaptid.htm">synaptid sea cucumbers</a>.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg"
+  caption: |
+    <p>With <a href="../echinodermata/holothuroidea/synaptid.htm">synaptid sea cucumbers</a>.</p>
+    <p>Tuas, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3b.jpg"
+  caption: |
+    <p>Tiny holes with a membranous lip.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8132m3.jpg"
+  caption: |
+    <p>Lazarus, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8133m3b.jpg"
+  caption: |
+    <p>Tiny holes with a membranous lip.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5841m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5843m3b.jpg"
+  caption: |
+    <p>Tiny holes with a membranous lip.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/200125prpAhd2.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827012330675964&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg"
 ---
 
 
@@ -56,34 +90,14 @@ the anemone settled into the ascidian, or the anemone was there first
 and the ascidian grew around it.
   
 
-*![](meltedchoc/050607chgg7244m3c.jpg)*Tiny
-sea anemone *Changi, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](meltedchoc/050607chgg7244m3a.jpg)*With
-[synaptid sea
-cucumbers](../echinodermata/holothuroidea/synaptid.htm)*.  
-Changi, Jun 05*
 
-*![](../echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg)*With
-[synaptid sea
-cucumbers](../echinodermata/holothuroidea/synaptid.htm)*.  
-Tuas, May 05*
 
 ---
 
-*![](meltedchoc/080803smkd8938m3.jpg)  
-Pulau Semakau, Aug 08![](meltedchoc/080803smkd8938m3b.jpg)*Tiny
-holes with a membranous lip.
 
-*![](meltedchoc/120407lazd8132m3.jpg)  
-Lazarus, Apr 12  
-![](meltedchoc/120407lazd8133m3b.jpg)*Tiny
-holes with a membranous lip.
 
-*![](meltedchoc/120124sisd5841m3.jpg)  
-Sisters Island, Jan 12  
-![](meltedchoc/120124sisd5843m3b.jpg)*Tiny
-holes with a membranous lip.
 
  *\***Species
 are difficult to positively identify without dissection and examination
@@ -108,9 +122,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](meltedchoc/200125prpAhd2.jpg)  
-*Pasir Ris Park, Jan 20*  
-Photo shared by Nurulhuda on [facebook](https://www.facebook.com/photo.php?fbid=2827012330675964&set=a.2826977530679444&type=3&theater).
 
 ---
 

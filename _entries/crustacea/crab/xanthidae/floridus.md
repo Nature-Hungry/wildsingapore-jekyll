@@ -2,7 +2,7 @@
 title: Floral egg crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Xanthidae
 genus: Atergatis
@@ -24,6 +24,91 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Zosiminae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg"
+  caption: |
+    <p>Sentosa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100711cyrjk2m3.jpg"
+  caption: |
+    <p>A pair of mating egg crabs.</p>
+    <p>Cyrene Reef, Jul 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg"
+  caption: |
+    <p>Eating a <a href="../../../vertebrates/fish/labridae/bicolor">Brown-stripe wrasse</a>.</p>
+    <p>Sentosa, Sep 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/2007024pcnlks2.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482799603158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251108ecpblks5.jpg"
+  caption: |
+    <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251011lablks14.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251011tgrlks10.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251009sjial2.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251009sjial2.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/191127lazmn2.jpg"
+  caption: |
+    <p>Seringat-Kias, Nov 19Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156844576248660&set=a.10156844574398660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/260217bsisch1.jpg"
+  caption: |
+    <p>Big Sister's Island, Feb 26Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10164146927808713&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/260201cyrjll4.jpg"
+  caption: |
+    <p>Cyrene, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162602846021295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/250811jngmn2.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161854402173660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/251207hntjll5.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/240511tryccn3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161116034853654&set=a.10161116007578654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100518bbbjk6m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100617tbtch2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoom on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/240412tbtl3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161177265829264&set=a.10161177255284264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/210810tplvc1.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628141112945&set=a.10158628246612945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/091205pawlks6m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166008284/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/091231biojk7m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4231655960/in/set-72157622842029671/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/150422jngmn2m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100613sngd5633m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100810sngd9960m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100811slud0060m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,10 +161,8 @@ the lacy white pattern resembles a shawl. Large pincers both about
 equal in size, smooth (no pimples) with black tips that are spoon-shaped.
 Males may have larger pincers. Walking legs thick squarish with lilac
 edges, not hairy.
-![](floridus/040521sntad0102m3.jpg)  
- *Sentosa, May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](floridus/040521sntad0102m3a.jpg)
 
 **What does it eat?** Although it
 is described as a vegetarian, one was seen happily eating a fish.
@@ -90,13 +173,7 @@ poisonous](xanthidae) and should not be eaten.
 is listed as 'Vulnerable' on the Red List of threatened animals of
 Singapore.
 
-![](floridus/100711cyrjk2m3.jpg)  
-A pair of mating egg crabs. *Cyrene Reef, Jul 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl).
 
-![](floridus/040919sntd7092m3.jpg)  
-Eating a [Brown-stripe
-wrasse](../../../vertebrates/fish/labridae/bicolor). *Sentosa, Sep 04*
 
 ---
 
@@ -115,95 +192,44 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](floridus/2007024pcnlks2.jpg)  
-*East Coast PCN, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482799603158&set=a.10158482804868158&type=3&theater).
 
-![](floridus/251108ecpblks5.jpg)  
-*East Coast Park (B), Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
 
 ---
 
-![](floridus/251011lablks14.jpg)  
-*Labrador, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post).
 
-![](floridus/251011tgrlks10.jpg)  
-*Sentosa Tg Rimau, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post).
 
-![](floridus/251009sjial2.jpg)  
-*St John's Island, Oct 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post)
 
 ---
 
-![](floridus/251009sjial2.jpg)  
-*St John's Island, Oct 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post)
 
-![](floridus/191127lazmn2.jpg)  
-*Seringat-Kias, Nov 19*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10156844576248660&set=a.10156844574398660&type=3&theater).
 
-![](floridus/260217bsisch1.jpg)  
-*Big Sister's Island, Feb 26*Photo shared by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10164146927808713&type=3&ref=embed_post)
 
 ---
 
-![](floridus/260201cyrjll4.jpg)  
-*Cyrene, Feb 26*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162602846021295&type=3&ref=embed_post).
 
-![](floridus/250811jngmn2.jpg)  
-*Pulau Jong, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161854402173660&type=3&ref=embed_post).
 
 ---
 
-*![](floridus/251207hntjll5.jpg)  
-Pulau Hantu, Dec 25*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post).
 
-![](floridus/240511tryccn3.jpg)  
- *Terumbu Raya, May 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161116034853654&set=a.10161116007578654).
 
 ---
 
-![](floridus/100518bbbjk6m3.jpg)  
-*Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl).
 
-![](floridus/100617tbtch2m3.jpg)  
-*Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
-![](floridus/240412tbtl3.jpg)  
-*Terumbu Bemban, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161177265829264&set=a.10161177255284264).
 
 ---
 
-![](floridus/110517tptlks25m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
-![](floridus/210810tplvc1.jpg)  
- *Terumbu Pempang Laut, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158628141112945&set=a.10158628246612945).
 
 ---
 
-![](floridus/091205pawlks6m3.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4166008284/).
 
-![](floridus/091231biojk7m3.jpg)  
-*Pulau Biola, Dec 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4231655960/in/set-72157622842029671/).
 
-![](floridus/150422jngmn2m3.jpg)  
-*Pulau Jong, Apr 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3).
 
 ---
 
-![](floridus/100613sngd5633m3.jpg)  
-*Pulau Senang, Jun 10*
 
-![](floridus/100810sngd9960m3.jpg)  
-*Pulau Senang, Aug 10*
 
-![](floridus/100811slud0060m3.jpg)  
-*Pulau Salu, Aug 10*
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Penaga laut "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaga, laut, alexandrine, laurel, calophyllum, inophyllum, calophyllaceae, clusiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 62]
 family: Calophyllaceae
 genus: Calophyllum
@@ -15,6 +15,32 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg"
+  caption: |
+    <p>Planted in a park.</p>
+    <p>Changi Beach, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubnd9415m3.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3.jpg"
+  caption: |
+    <p>Fine parallel veins on leaf.</p>
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090124ubnd5979m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/031028sntbd0101m3a.jpg"
+  caption: |
+    <p>Fruit.</p>
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubnd9412m3.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090124ubnd5983m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/inophyllum/090410ubno066m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -119,32 +145,13 @@ Ground with a girth of 5.4m and height of 16m, **St John's Island**
 Road**, at junction with Berkshire Road with a girth of 4.5m and
 height of 18m.
 
-![](inophyllum/090410ubno066m6l.jpg)  
-Planted in a
-park. *Changi Beach, Apr 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](inophyllum/090410ubnd9415m3.jpg)  
-Changi, Apr
-09  
   
-![](inophyllum/031028sntbd0101m3.jpg)  
-Fine
-parallel veins on leaf.  
-Sentosa, Oct 03  
   
-![](inophyllum/090124ubnd5979m3.jpg)  
-Pulau Ubin,
-Jan 09*
 
-*![](inophyllum/031028sntbd0101m3a.jpg)*Fruit. *Sentosa, Oct 03*
 
-*![](inophyllum/090410ubnd9412m3.jpg)  
-Changi, Apr
-09*
 
-*![](inophyllum/090124ubnd5983m3.jpg)  
-Pulau Ubin,
-Jan 09*
 
 ---
 

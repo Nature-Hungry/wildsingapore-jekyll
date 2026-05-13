@@ -2,12 +2,217 @@
 title: Marine flatworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: []
 family: Callioplanidae
 genus: Order
 species: Polycladida
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg"
+  caption: |
+    <p>Some may be colourfully patterned.</p>
+    <p>St John's Island, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg"
+  caption: |
+    <p>Some may be nearly transparent!</p>
+    <p>Sisters Island, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg"
+  caption: |
+    <p>Pseudo tentacles made out folded edges of the body margin.</p>
+    <p>Mouth is on the underside.</p>
+    <p>Pulau Sekudu, Jul 05 What do they eat?</p>
+    <p>Many flatworms are carnivores that prey on tiny animals (protozoa, copepods, <a href="../worm">worms</a>) or feed on immobile animals such as <a href="../../bryozoa/bryozoan">bryozoans</a>, <a href="../../ascidiacea/ascidiacea">ascidians</a> and molluscs.</p>
+    <p>Being flat, they slip easily between the shells of <a href="../../mollusca/bivalvia">bivalves</a> and some flatworms are considered pests of oyster farms.</p>
+    <p>Some are scavengers, feeding on dead animals.</p>
+- url: "https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/27333526027/ "Dawn flatworm (Pseudobiceros hancockanus)") Flatworms on the move: To move about, small flatworms secrete a mat of mucus and crawl on this mat with a dense layer of cilia on their underside.</p>
+    <p>Bigger ones may swim by undulating the sides of their bodies.</p>
+    <p>Some flatworms even have a sucker on the underside to get a grip on the surface.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/060130hntg4262m3.jpg"
+  caption: |
+    <p>The mouth of a flatworm may be towards the middle of the underside of the body.</p>
+    <p>Pulau Hantu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg"
+  caption: |
+    <p>Eating <a href="../../ascidiacea/eudistoma">Yellow clustered bead ascidians</a>?</p>
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/050112smkd9730m3.jpg"
+  caption: |
+    <p>Bigger flatworms may undulate the sides of their bodies to 'swim'.</p>
+    <p>Pulau Semakau, Jan 05 Flatworm babies: Marine flatworms are hermaphrodites, that is, each flatworm has both male and female reproductive organs.</p>
+    <p>When two flatworms meet, they exchange sperm.</p>
+    <p>Some species simply insert their needle-like penis anywhere in the body of the partner.</p>
+    <p>This is not surprisingly called 'hypodermic impregnation'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/170625bbd3587m3.jpg"
+  caption: |
+    <p>Two worms 'penis fencing'.</p>
+    <p>Beting Bronok, Jun 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brklks6m3.jpg"
+  caption: |
+    <p>'Penis fencing'  Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353266620/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100617tblks4m3.JPG"
+  caption: |
+    <p>'Penis fencing' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trapl">his blog</a>.</p>
+    <p>Here's <a href="acanthozoon">a video clip of 'penis-fencing'</a> shared by Loh Kok Sheng.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140913pgllks1m3.JPG"
+  caption: |
+    <p>Possibly Stylochid Punggol, Sep 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shorel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110105sellks.jpg"
+  caption: |
+    <p>Stylochid 8 Seletar, Jan 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5328337503/in/album-72157618302600113/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140114cjlks1m3.JPG"
+  caption: |
+    <p>Pseudocerotidae 2 Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150221sjilks1m3.JPG"
+  caption: |
+    <p>Pseudocerotidae St John's Island, Mar 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/03/cny-day-3-st-johns-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/120818lazlks1m3.JPG"
+  caption: |
+    <p>Pseudobiceros hymanae Seringat Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/230221tryjll1.jpg"
+  caption: |
+    <p>Pseudobiceros hymanae Terumbu Raya, Feb 23Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159470280566295&set=a.10159470289421295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181224sntlks1.jpg"
+  caption: |
+    <p>Pseudoceros cf cruentus Sentosa, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156864203933158&set=a.10156864202778158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/211108ecpjll1.jpg"
+  caption: |
+    <p>Pseudoceros cf cruentus East Coast Park, Nov 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158614310926295&set=a.10158614307991295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks1.JPG"
+  caption: |
+    <p>Tytthosoceros sp.</p>
+    <p>2 Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24059482061/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks2.JPG"
+  caption: |
+    <p>Tytthosoceros sp.</p>
+    <p>2 Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24059482211/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200209cyrjll1.jpg"
+  caption: |
+    <p>Pseudobiceros hymanae Cyrene, Feb 20Photo shared by JIanlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157074787866295&set=a.10157074785861295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200210blylks1.jpg"
+  caption: |
+    <p>Eurylepta sp.</p>
+    <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157946237288158&set=pcb.10157946238298158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/241019lazvc1.jpg"
+  caption: |
+    <p>Eurylepta sp.</p>
+    <p>Lazarus, Oct 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160738772987945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181125tptgt.jpg"
+  caption: |
+    <p>Maritigrella sp Terumbu Pempang Tengah, Nov 18Photo shared by Gina Tan on <a href="https://www.facebook.com/gtanlc/media_set?set=a.10156921163653054&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/201117chg7lks2.jpg"
+  caption: |
+    <p>Pseudoceros cf stimpsoni Changi, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158772053388158&set=a.10158772054638158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/240528tslvc1.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/250201bsisvc2.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks1m3.JPG"
+  caption: |
+    <p>Acanthozoon/Thysanozoon sp.</p>
+    <p>2 Pulau Hantu, Aug 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks2m3.JPG"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2b.jpg"
+  caption: |
+    <p>About 2cm Pulau Hantu, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsismn1.jpg"
+  caption: |
+    <p>Thysanozoon nigrum Big Sisters Island, Feb 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158063610178660&set=a.10158062491188660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsisjc3.jpg"
+  caption: |
+    <p>Thysanozoon nigropapillosum Big Sisters Island, Feb 21Photo shared by Joleen Chan on <a href="https://www.facebook.com/704656309/videos/a.10158878291171310/10158878256561310">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/260202smkerk1.jpg"
+  caption: |
+    <p>Thysanozoon nigropapillosum Pulau Semakau East, Feb 26Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163658334517906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2.jpg"
+  caption: |
+    <p>Thysanozoon nigropapillosum Seringat-Kias, Oct 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155086851341295&set=a.10155086849486295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks1m3.JPG"
+  caption: |
+    <p>Sisters Island, Feb 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks2m3.JPG"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks3m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3.JPG"
+  caption: |
+    <p>Pulau Hantu, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/predawn-at-hantu-reefsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1c.jpg"
+  caption: |
+    <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158234249971295&set=a.10158234241606295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210810tplmn1.jpg"
+  caption: |
+    <p>Pseuobiceros bajae (ID by Rene Ong).</p>
+    <p>Terumbu Pempang Laut, Aug 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158433985458660&set=a.10158433985713660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks1m3.JPG"
+  caption: |
+    <p>Planocerid 7 Cyrene Reef, Jun 11 shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks2m3.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>CSIRO Publishing.</p>
+    <p>97pp.</p>
+    <p>- Humann, Paul and Ned Deloach.</p>
+    <p>2010.</p>
+    <p>Reef Creature Identification: Tropical Pacific New World Publications.</p>
+    <p>497pp.</p>
+    <p>- Kuiter, Rudie H and Helmut Debelius.</p>
+    <p>2009.</p>
+    <p>World Atlas of Marine Fauna.</p>
+    <p>IKAN-Unterwasserachiv.</p>
+    <p>723pp.</p>
+    <p>- Gosliner, Terrence M., David W.</p>
+    <p>Behrens and Gary C.</p>
+    <p>Williams.</p>
+    <p>1996.</p>
+    <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii exclusive of the vertebrates Sea Challengers.</p>
+    <p>314pp.</p>
+    <p>- Allen, Gerald R and Roger Steene.</p>
+    <p>2002.</p>
+    <p>Indo-Pacific Coral Reef Field Guide.</p>
+    <p>Tropical Reef Research.</p>
+    <p>378pp.</p>
+    <p>- Edward E.</p>
+    <p>Ruppert, Richard S.</p>
+    <p>Fox, Robert D.</p>
+    <p>Barnes.</p>
+    <p>2004.Invertebrate Zoology Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
+    <p>pp.</p>
+    <p>963 - Pechenik, Jan A., 2005.</p>
+    <p>Biology of the Invertebrates.</p>
+    <p>5th edition.</p>
+    <p>McGraw-Hill Book Co., Singapore.</p>
+    <p>578 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg"
 ---
 
 
@@ -100,18 +305,7 @@ probably serve as a warning of their distasteful nature. Flatworms
 can contain powerful toxins. Others have colours and patterns that
 blend with the background. These and smaller ones are simply overlooked.
 Some flatworms mimic other animals such as [nudibranchs](../../mollusca/nudibranchia) (or perhaps visa versa).
-![](orangewhite/121116sjjid1330m3.jpg)  
-Some may be colourfully patterned. *St John's Island, Nov 12*
-*![](silt/100215sisd9466m3.jpg)*Some
-may be nearly transparent! *Sisters Island, Feb 10*
-![](baibaiye/050709skdg9312m3a.jpg)  
-Pseudo tentacles
-made out folded edges of the body margin. Mouth is on the underside. *Pulau Sekudu, Jul 05*
-**What do they eat?** Many flatworms
-are carnivores that prey on tiny animals (protozoa, copepods, [worms](../worm))
-or feed on immobile animals such as [bryozoans](../../bryozoa/bryozoan), [ascidians](../../ascidiacea/ascidiacea) and molluscs.
-Being flat, they slip easily between the shells of [bivalves](../../mollusca/bivalvia) and some flatworms are considered pests of oyster farms. Some are
-scavengers, feeding on dead animals.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **Flatworms on the hunt:** Flatworms
 are quite adept hunters.
@@ -121,41 +315,11 @@ by potential food. A few also have balance sensors that tell them
 which way is up. Some have simple eye spots on their head or along
 their body margins. These don't form an image and only help flatworms
 detect movement and avoid the light.
-[![Dawn flatworm (Pseudobiceros hancockanus)](https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg)](https://www.flickr.com/photos/wildsingapore/27333526027/ "Dawn flatworm (Pseudobiceros hancockanus)")
-**Flatworms on the move:** To move
-about, small flatworms secrete a mat of mucus and crawl on this mat
-with a dense layer of cilia on their underside. Bigger ones may swim
-by undulating the sides of their bodies. Some flatworms even
-have a sucker on the underside to get a grip on the surface.
-*![](bedfordi/060130hntg4262m3.jpg)*The
-mouth of a flatworm may be towards   
-the middle of the underside of the body. *Pulau Hantu, Jan 06*
-*![](indicus/080619chgd5684m3.jpg)*Eating [Yellow clustered bead ascidians](../../ascidiacea/eudistoma)? *Changi, Jun 08*
-*![](acanthozoon/050112smkd9730m3.jpg)*Bigger
-flatworms may undulate the sides   
-of their bodies to 'swim'. *Pulau Semakau, Jan 05* 
-**Flatworm babies:** Marine flatworms
-are hermaphrodites, that is, each flatworm has both male and female
-reproductive organs. When two flatworms meet, they exchange sperm.
-Some species simply insert their needle-like penis anywhere in the
-body of the partner. This is not surprisingly called 'hypodermic impregnation'.
   
   
 In yet other species, as two flatworms attempt to use each one's penis to stab the other, they appear to be 'penis-fencing'. It is believed that each flatworm tries to impregnate the other without itself being impregnated. In one study, penis fencing was observed to be just a mating ritual and not necessary for insemination, not always aggressive, and could also result in eventual reciprocal insemination.   
   
 Eggs are laid in a mass attached to a hard surface, in batches of hundreds of eggs. The eggs hatch into free-swimming larvae which disperse and undergo metamorphosis into the adult form. Some like the [Blue-lined flatworm](lineblue) and [Purple-spotted flatworm](laingensis) displayed long-term parental care.
-*![](acanthozoon/170625bbd3587m3.jpg)*Two worms 'penis fencing'. *Beting Bronok, Jun 17*
-![](acanthozoon/100130brklks6m3.jpg)  
-'Penis fencing'  *Terumbu Berkas, Jan 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4353266620/).
-![](acanthozoon/100617tblks4m3.JPG)  
-'Penis fencing'  
-Terumbu Bemban,
-Jun 10  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trapl).
-Here's [a video clip of 'penis-fencing'](acanthozoon) shared by Loh Kok Sheng.
 
 [Penis fencing in flatworms](https://vimeo.com/9420169) from [Loh Kok Sheng](https://vimeo.com/user696199) on [Vimeo](https://vimeo.com).
 
@@ -177,145 +341,65 @@ flatworms on Singapore shores**
 
 ---
 
-![](others/140913pgllks1m3.JPG)  
-Possibly Stylochid *Punggol, Sep 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shorel).
 
-![](others/110105sellks.jpg)  
-Stylochid 8  
-*Seletar, Jan 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5328337503/in/album-72157618302600113/)
 
-![](others/140114cjlks1m3.JPG)  
-Pseudocerotidae 2 *Chek Jawa, Jan 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl).
 
 ---
 
-![](others/150221sjilks1m3.JPG)  
-Pseudocerotidae *St John's Island, Mar 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/03/cny-day-3-st-johns-islandl).
 
-![](others/120818lazlks1m3.JPG)  
-*Pseudobiceros hymanae  
-Seringat Kias, Aug 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl).
 
-![](others/230221tryjll1.jpg)  
-*Pseudobiceros hymanae  
-Terumbu Raya, Feb 23*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10159470280566295&set=a.10159470289421295).
 
 ---
 
-![](others/181224sntlks1.jpg)  
-*Pseudoceros* cf *cruentus  
-Sentosa, Dec 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156864203933158&set=a.10156864202778158&type=3&theater).
 
-![](others/211108ecpjll1.jpg)  
-*Pseudoceros* cf *cruentus  
-East Coast Park, Nov 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10158614310926295&set=a.10158614307991295).
 
 ---
 
-![](others/141011hntlks1.JPG)  
-*Tytthosoceros* sp. 2 *Pulau Hantu, Oct 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24059482061/in/album-72157607719695102/).
 
-![](others/141011hntlks2.JPG)  
-*Tytthosoceros* sp. 2 *Pulau Hantu, Oct 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24059482211/in/album-72157607719695102/).
 
-![](others/200209cyrjll1.jpg)  
-*Pseudobiceros hymanae  
-Cyrene, Feb 20*Photo shared by JIanlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157074787866295&set=a.10157074785861295&type=3&theater).
 
 ---
 
-*![](others/200210blylks1.jpg)Eurylepta* sp.  
-*Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157946237288158&set=pcb.10157946238298158&type=3&theater).
 
-*![](others/241019lazvc1.jpg)Eurylepta* sp.  
-*Lazarus, Oct 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160738772987945).
 
-![](others/181125tptgt.jpg)  
-*Maritigrella* sp *Terumbu Pempang Tengah, Nov 18*Photo shared by Gina Tan on [facebook](https://www.facebook.com/gtanlc/media_set?set=a.10156921163653054&type=3).
 
 ---
 
-![](others/201117chg7lks2.jpg)  
-*Pseudoceros cf stimpsoni  
-Changi, Nov 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158772053388158&set=a.10158772054638158).
 
-![](others/240528tslvc1.jpg)  
-*Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
 
-![](others/250201bsisvc2.jpg)  
- *Big Sisters Island, Feb 25*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945).
 
 ---
 
-![](others/140809hntlks1m3.JPG)  
-*Acanthozoon/Thysanozoon* sp. 2 *Pulau Hantu, Aug 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl).
 
-![](others/140809hntlks2m3.JPG)  
-Underside.
 
 ---
 
-![](others/251207hntky2b.jpg)  
-About 2cm *Pulau Hantu, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
 
-![](others/251207hntky2c.jpg)
 
-![](others/251207hntky2d.jpg)
 
 ---
 
-*![](others/210213bsismn1.jpg)  
-Thysanozoon nigrum*  
-*Big Sisters Island, Feb 21*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10158063610178660&set=a.10158062491188660).
 
-*![](others/210213bsisjc3.jpg)  
-Thysanozoon nigropapillosum*  
-*Big Sisters Island, Feb 21*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/704656309/videos/a.10158878291171310/10158878256561310).
 
-*![](others/260202smkerk1.jpg)  
-Thysanozoon nigropapillosum*   
-*Pulau Semakau East, Feb 26*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163658334517906&type=3&ref=embed_post).
 
 ---
 
-![](others/171008srgjll2a.jpg)
 
-![](others/171008srgjll2.jpg)  
-*Thysanozoon nigropapillosum* *Seringat-Kias, Oct 17*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10155086851341295&set=a.10155086849486295&type=3&theater).
 
 ---
 
-![](others/130210sislks1m3.JPG)  
-*Sisters Island, Feb 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl).
 
-![](others/130210sislks2m3.JPG)  
-Underside.
 
 ---
 
-*![](others/150720smknlks2m3.jpg)  
-Pulau Semakau North, Jul 15![](others/150720smknlks3m3.jpg)*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3).
 
-*![](others/090510hntlks1mn3.JPG)  
-Pulau Hantu, May 09
-![](others/090510hntlks1mn3a.jpg)*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/05/predawn-at-hantu-reefsl).
 
-*![](others/210428slujll1a.jpg)  
-Pulau Salu, Apr 21![](others/210428slujll1c.jpg)*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158234249971295&set=a.10158234241606295).
 
 ---
 
-*![](others/210810tplmn1.jpg)  
-Pseuobiceros bajae* (ID by Rene Ong). *Terumbu Pempang Laut, Aug 21*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10158433985458660&set=a.10158433985713660).
 
 ---
 
-*![](others/110606cyrlks1m3.JPG)*Planocerid 7 *Cyrene Reef, Jun 11![](others/110606cyrlks2m3.JPG)*Photo
-shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl).
 
 ---
 
@@ -577,31 +661,3 @@ some of these flatworms.Grateful thanks to Rene Ong for sharing details and iden
   Nature Society (Singapore). 285 pp.
 - Newman, Leslie
   and Lester Cannon. 2003. *Marine
-  Flatworms: The World of Polyclads![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  CSIRO Publishing. 97pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna*. IKAN-Unterwasserachiv. 723pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates*
-  Sea Challengers. 314pp.
-- Allen, Gerald
-  R and Roger Steene. 2002. *Indo-Pacific
-  Coral Reef Field Guide*.
-  Tropical Reef Research. 378pp.
-- Edward E.
-  Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-
-

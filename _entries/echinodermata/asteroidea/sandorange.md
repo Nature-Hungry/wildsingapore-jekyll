@@ -2,7 +2,7 @@
 title: Orange sand star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 58, 92]
 family: Astropectinidae
 genus: Astropecten
@@ -16,6 +16,75 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1114m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3.jpg"
+  caption: |
+    <p>Bright orange underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1087m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/080731chgd8476m3.jpg"
+  caption: |
+    <p>Tiny orange star?</p>
+    <p>Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130331tmlks1.JPG"
+  caption: |
+    <p>Tanah Merah, Mar 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130331tmlks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8627413734/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240113lazlks8a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240113lazlks8b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161152160973158&set=a.10161152169768158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/241019lazlks7.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/241019lazlks7a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240212sjilks4a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/240212sjilks4b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3a.jpg"
+  caption: |
+    <p>St John's Island, Oct 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3c.jpg"
+  caption: |
+    <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158021782847945&set=a.10158021785797945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/201019sjivc3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 13 Photo shared by Heng Pei Yan on <a href="http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-largel">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130808cyrhpy3m3.jpg"
+  caption: |
+    <p>Bright orange tubefeet with white pointed tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/250503cyrlks3.jpg"
+  caption: |
+    <p>Cyrene, May 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10162651249368158&set=a.10162651258348158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/250503cyrlks3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandorange/130809smkd1086m3.jpg"
 ---
 
 
@@ -46,22 +115,12 @@ edges. The
 underside of the body is bright orange. Tube feet also bright orange,
 large with white pointed tips.
 
-![](sandorange/130809smkd1086m3.jpg)  
-*Cyrene Reef,
-Aug 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sandorange/130809smkd1086m3c.jpg)
 
-![](sandorange/130809smkd1114m3.jpg)
 
-![](sandorange/130809smkd1087m3.jpg)  
-Bright orange
-underside.
 
-![](sandorange/130809smkd1087m3a.jpg)
 
-![](sandorange/080731chgd8476m3.jpg)  
-Tiny orange star? *Changi, Jul 08*
 
   
 *\*Species are difficult
@@ -86,56 +145,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sandorange/130331tmlks1.JPG)  
-*Tanah Merah,
-Mar 13*
 
-![](sandorange/130331tmlks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8627413734/in/album-72157664044624940/).
 
 ---
 
-![](sandorange/240113lazlks8a.jpg)  
-*Lazarus Island, Jan 24*![](sandorange/240113lazlks8b.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161152160973158&set=a.10161152169768158).
 
-*![](sandorange/241019lazlks7.jpg)  
-Lazarus Island, Oct 24 ![](sandorange/241019lazlks7a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158).
 
-![](sandorange/240212sjilks4a.jpg)  
-*St John's Island, Feb 24*![](sandorange/240212sjilks4b.jpg)
 
 ---
 
-![](sandorange/201019sjivc3a.jpg)  
-*St John's Island, Oct 20*
 
-![](sandorange/201019sjivc3c.jpg)  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158021782847945&set=a.10158021785797945).
 
-![](sandorange/201019sjivc3b.jpg)
 
 ---
 
-![](sandorange/130808cyrhpy1m3.jpg)  
-*Cyrene Reef,
-Aug 13*  
-Photo shared by Heng Pei Yan on [her
-blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-largel).
 
-![](sandorange/130808cyrhpy2m3.jpg)
 
-![](sandorange/130808cyrhpy3m3.jpg)  
-Bright orange
-tubefeet with white pointed tips.
 
 ---
 
-![](sandorange/250503cyrlks3.jpg)  
-*Cyrene, May 25*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10162651249368158&set=a.10162651258348158).
 
-![](sandorange/250503cyrlks3a.jpg)
 
 ---
 
@@ -145,6 +174,3 @@ Reef Aug 2013
   
 shared by Heng Pei Yan on [her
 blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-largel).
-  
-
-

@@ -2,7 +2,7 @@
 title: " Nyireh laut"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, bunga, xylocarpus, rumphii, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 61, 68]
 family: Meliaceae
 genus: Xylocarpus
@@ -17,6 +17,36 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 425826
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg"
+  caption: |
+    <p>Fruits small often in pairs.</p>
+    <p>Sentosa, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg"
+  caption: |
+    <p>Leaftlets almost heart-shaped with prominent pale veins.</p>
+    <p>St.</p>
+    <p>John's Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg"
+  caption: |
+    <p>Bark with longitudinal fissures.</p>
+    <p>Sentosa, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/110203sjid5596m3.jpg"
+  caption: |
+    <p>Fruits small.</p>
+    <p>St.</p>
+    <p>John's Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9691m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3.jpg"
+  caption: |
+    <p>Sentosa, Mar 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -71,31 +101,15 @@ bark for tanning and dyeing cloth. The seeds are used to treat stomachache.
 listed as 'Critically Endangered' on the Red List of threatened plants
 of Singapore.
 
-![](rumphii/090711sjid7167m6l.jpg)  
-*St. John's
-Island, Jul 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](rumphii/090401sntd8891m3.jpg)*Fruits small
-often in pairs. **Sentosa, Apr 09**
 
-*![](rumphii/090809sjid8713m3.jpg)*  
-Leaftlets almost
-heart-shaped  
-with prominent pale veins. *St. John's Island, Aug 09*
 
-![](rumphii/090401sntd8875m3.jpg)  
-Bark with longitudinal
-fissures. *Sentosa, Apr 09*
 
 ---
 
-*![](rumphii/110203sjid5596m3.jpg)*Fruits small. **St. John's Island, Feb 11**
 
-*![](rumphii/100321sntd9691m3.jpg)*
 
-*![](rumphii/100321sntd9690m3.jpg)*  
-*Sentosa, Mar
-10*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Mudskippers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mudskipper, mud, skipper, fish, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Gobiidae
 genus: ""
 species: ""
@@ -17,6 +17,57 @@ superorder: Acanthomorpha
 order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg"
+  caption: |
+    <p>Bulbous eyes high on the head.</p>
+    <p>Kusu Island, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg"
+  caption: |
+    <p>Dorsal fin often colourful and raised to communicate with other mudskippers.</p>
+    <p>Chek Jawa, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg"
+  caption: |
+    <p>These fishes can be quite quarrelsome.</p>
+    <p>Chek Jawa, Oct 07 Masters of the mudflats: The mudskipper has other interesting features that enables it to rule the mud!</p>
+    <p>Large eyes at the top of the head give an all-round view - it's hard to sneak up on a mudskipper.</p>
+    <p>While the mouth faces downwards to feed on the mud surface.</p>
+    <p>The pectoral fins are used like crutches to crawl over mud.</p>
+    <p>In some mudskippers, the pelvic fins are fused to form a sucker so they can better cling to rocks and mangrove tree roots.</p>
+    <p>Some have colourful dorsal fins that can be raised to signal other mudskippers on the sand or mudflats.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg"
+  caption: |
+    <p>A tunnel at the base of the 'swimming pool'.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg"
+  caption: |
+    <p>Mudskipper tracks on the mud.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg"
+  caption: |
+    <p><a href="chrysospilos.htm">Gold-spotted mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg"
+  caption: |
+    <p><a href="schlosseri.htm">Giant mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg"
+  caption: |
+    <p><a href="walailakae.htm">Yellow-spotted mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg"
+  caption: |
+    <p><a href="histophorus.htm">Bearded mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg"
+  caption: |
+    <p><a href="boddarti.htm">Blue-spotted mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg"
+  caption: |
+    <p><a href="argentilineatus.htm">Silver lined mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
+  caption: |
+    <p><a href="gracilis.htm">Slender mudskipper</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+  caption: |
+    <p><a href="variabilis.htm">Dusky-gilled mudskipper</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,26 +124,14 @@ breathe out of water? Just as divers breathe underwater through tanks of air, th
 The mudskipper is in
 fact more comfortable crawling around on the mud than submerged in
 water!
-*![](chrysospilos/050611kusg7778m3d.jpg)*Bulbous eyes high on the head. *Kusu Island, Jun 05*
-*![](chrysospilos/091226cjd6306m3a.jpg)*Dorsal fin often colourful and raised   
-to communicate with other mudskippers. *Chek Jawa, Dec 09*
-*![](walailakae/071021cjd7025m3a.jpg)*These fishes can be quite quarrelsome. *Chek Jawa, Oct 07*
-**Masters of the mudflats:** The mudskipper has other interesting features that enables it to rule the mud! Large eyes at the top of the head give an all-round view - it's hard to sneak up on a mudskipper. While the mouth faces downwards to feed on the mud surface. The pectoral fins are used like crutches to crawl over
-mud. In some mudskippers, the pelvic
-fins are fused to form a sucker so they can better cling to rocks
-and mangrove tree roots. Some have colourful dorsal fins that can be raised to signal
-other mudskippers on the sand or mudflats.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **How do mudskippers skip?** They
 curl their muscular body sideways then push against the mud to spring
 forward. The [Bearded mudskipper](histophorus.htm) can 'stand' on its tail, if only for a brief moment,
 in an attempt to impress the ladies.
 
-![](schlosseri/120215sbwrd6794m3.jpg)  
-A tunnel at the base of the 'swimming pool'. *Sungei Buloh Wetland Reserve, Feb 12*
 
-![](schlosseri/120215sbwrd6785m6l.jpg)  
-Mudskipper tracks on the mud. *Sungei Buloh Wetland Reserve, Feb 12*
 
 **Human uses:** The [Giant
 mudskipper](schlosseri.htm) is eaten in some
@@ -123,33 +162,17 @@ on Singapore shores**
 
 ---
 
-**![](chrysospilos/110220lazd6337m3.jpg)  
-[Gold-spotted mudskipper](chrysospilos.htm)**
 
-**![](schlosseri/150313deadfishd2601m3.jpg)  
-[Giant mudskipper](schlosseri.htm)**
 
-**![](walailakae/091121cjd4533m3.jpg)  
-[Yellow-spotted mudskipper](walailakae.htm)**
 
 ---
 
-**![](histophorus/091226cjd6307m3.jpg)  
-[Bearded mudskipper](histophorus.htm)**
 
-**![](boddarti/130614cjd7164m3.jpg)  
-[Blue-spotted mudskipper](boddarti.htm)**
 
-**![](argentilineatus/090229smkd7272m3.jpg)  
-[Silver lined mudskipper](argentilineatus.htm)**
 
 ---
 
-****![](gracilis/090114labd5309m3.jpg)  
-[Slender mudskipper](gracilis.htm)****
 
-******![](variabilis/051019smkg2790m3.jpg)  
-[Dusky-gilled mudskipper](variabilis.htm)******
 
 ---
 

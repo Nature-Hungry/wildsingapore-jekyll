@@ -2,7 +2,7 @@
 title: Black-barred     halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, barred, halfbeak, half, beak, hemiramphus, far, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 47, 116]
 family: Hemiramphidae
 genus: Hemiramphus
@@ -16,6 +16,24 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg"
+  caption: |
+    <p>Sultan Shoal, Jan 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m6la.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09 What does it eat?</p>
+    <p>The adults feed on seagrasses and to a lesser extent, green seaweeds and diatoms.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/241116smkslks3a.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Nov 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/241116smkslks3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161880739353158&set=a.10161880742313158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/251008bbblvo6.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/110119manyislandd5081m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,13 +74,7 @@ is yellowish and shorter than the lower lobe. 3 to 9 short black
 bars on the side of the body. Lower jaw elongated but not very long
 compared to the body. The tip of the lower jaw may be reddish.
 It breeds in estuaries.
-![](far/110119manyislandd5081m3.jpg)  
-*Sultan Shoal, Jan 11*
-![](far/091206tmd5674m6la.jpg)  
-*Tanah Merah, Dec 09*
-**What
-does it eat?** The adults feed on seagrasses and to a lesser
-extent, green seaweeds and diatoms.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Considered
 tasty, it is marketed fresh and dried.
@@ -85,15 +97,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](far/241116smkslks3a.jpg)  
-*Pulau Semakau (South), Nov 24*
-![](far/241116smkslks3.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161880739353158&set=a.10161880742313158).
 
 ---
 
-![](far/251008bbblvo6.jpg)  
-*Beting Bemban Besar, Oct 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post).
 
 ---
 

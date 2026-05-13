@@ -2,7 +2,7 @@
 title: Pimply green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pimply, seaweed, weed, green, dictyosphaeria, siphonocladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Siphonocladaceae
 genus: Dictyosphaeria
@@ -15,6 +15,29 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Cladophorales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3a.jpg"
+  caption: |
+    <p>Submerged seaweed.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7001m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/091231biod7033m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100130brkd8640m3a.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/100613sngd5484m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/dictyosphaeria/090412hntd9644m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,32 +95,15 @@ Singapore, when this seaweed grows outside its natural range as an
 invasive alien, it can grow rapidly in carpets, replacing corals and
 seriously affecting reefs.   
 
-![](dictyosphaeria/090412hntd9644m3.jpg)  
-*Pulau Hantu,
-Apr 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](dictyosphaeria/090412hntd9644m3a.jpg)  
-Submerged seaweed.*
 
-![](dictyosphaeria/091231biod7001m3.jpg)  
-*Pulau Biola,
-Dec 09*
 
-![](dictyosphaeria/091231biod7033m3.jpg)  
-*Pulau Biola,
-Dec 09*
 
 ---
 
-*![](dictyosphaeria/100130brkd8640m3a.jpg)  
-Terumbu Berkas,
-Jan 10*
 
-*![](dictyosphaeria/100613sngd5484m3.jpg)  
-Pulau Senang,
-Jun 10*
 
-*![](dictyosphaeria/100613sngd5484m3a.jpg)*
 
   
 *\*Species are difficult

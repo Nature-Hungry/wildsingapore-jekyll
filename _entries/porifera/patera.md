@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "neptune, cup, sponge, cliona, patera, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: ""
 title: The Neptune's Cup sponge
 family: Clionaidae
@@ -16,6 +16,14 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG"
+  caption: |
+    <p>Photo from NParks on <a href="http://www.todayonline.com/singapore/national-day-special-2016-native-fauna-urban-jungle">Today 9 Aug 2016</a>.</p>
+- url: "https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/sweecheng/albums/72157603189502096 "neptune's cup sponge")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/patera/clionapatera1.JPG"
 ---
 
 
@@ -40,9 +48,7 @@ However, the Neptune's Cup sponge population declined rapidly in our waters, and
   
 How exciting then, that "in March 2011, during a routine survey dive, marine biologists encountered a unique-looking sponge off Singapore's southern islands. It was later identified by Singapore's sponge expert, Mr Lim Swee Cheng, as a young Neptune's Cup sponge."  
 
-![](patera/clionapatera1.JPG)  
-Photo from NParks on   
- [Today 9 Aug 2016](http://www.todayonline.com/singapore/national-day-special-2016-native-fauna-urban-jungle).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -51,7 +57,6 @@ Photo from NParks on
 ---
 
 Photos of [Neptune's Cup sponge](https://www.flickr.com/photos/sweecheng/sets/72157603189502096/) by Lim Swee Cheng
-[![neptune's cup sponge](https://c1.staticflickr.com/3/2024/2040684894_2f2f8ef950.jpg)](https://www.flickr.com/photos/sweecheng/albums/72157603189502096 "neptune's cup sponge")
 
 ---
 

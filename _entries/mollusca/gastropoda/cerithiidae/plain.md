@@ -2,7 +2,7 @@
 title: Plain creeper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 78, 100, 111, 123]
 family: Cerithiidae
 genus: ""
@@ -15,6 +15,44 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg"
+  caption: |
+    <p>Labrador, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3c.jpg"
+  caption: |
+    <p>Pulau Hantu, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/070204hntg7553m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080208hntd9447m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3.jpg"
+  caption: |
+    <p>Sisters Island, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/080207sisg2290m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/081113jngcck03m3.jpg"
+  caption: |
+    <p>Pulau Jong, Nov 08Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/3028962606/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162886975307906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/250812tbrk3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,23 +98,14 @@ Many species of creeper snails are plain. They are difficult to tell
 apart in the field. The creeper snails on this page may not all be
 of the same species.
 
-*![](plain/050723labg0078m3.jpg)  
-Labrador, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](plain/050723labg0078m3b.jpg)*
 
-*![](plain/050723labg0078m3a.jpg)*
 
 ---
 
-*![](plain/070204hntg7553m3c.jpg)* *Pulau Hantu, Feb 07  
-![](plain/070204hntg7553m3a.jpg)*
 
-*![](plain/080208hntd9447m3.jpg)* *Pulau Hantu, Feb 08  
-![](plain/080208hntd9447m3a.jpg)*
 
-*![](plain/080207sisg2290m3.jpg)* *Sisters Island, Feb 08  
-![](plain/080207sisg2290m3a.jpg)*
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -99,14 +128,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](plain/081113jngcck03m3.jpg)  
-Pulau Jong, Nov 08*Photo shared by Chim Chee Kong on [his
-flickr](http://www.flickr.com/photos/chimck/3028962606/).
 
-*![](plain/250812tbrk3.jpg)  
-Terumbu Bemban, Aug 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162886975307906&type=3&ref=embed_post).
 
-![](plain/250812tbrk3a.jpg)
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

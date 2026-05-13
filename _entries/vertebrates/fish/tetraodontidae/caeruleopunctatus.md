@@ -2,12 +2,24 @@
 title: Blue-spotted pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "starry, pufferfish, puffer, fish, arothon, caeruleopunctatus, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Tetraodontidae
 genus: Arothon
 species: caeruleopunctatus
 updated: Nov 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg"
+  caption: |
+    <p>Live one, seen diving.Photo by Toh Chay Hoon from Singapore Biodiversity Records 2019:54-55</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055.jpg"
+  caption: |
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154928469953660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2015-047.jpg"
+  caption: |
+    <p>Dead fish washed ashore during mass fish death.</p>
+    <p>Pasir Ris Park, Mar 15Photo by Sean Yap from Singapore Biodiversity Records 2015: 47</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -39,11 +51,7 @@ Nov 2020*
 **Where
 seen?** One was seen dead, washed ashore during a mass fish death event. Another was seen alive while diving off Pulau Hantu. The species was only described in 1994. **Features:**  To
 about 80cm. Yellowish brown on its back and sides, white on the belly, with blue stripes circling the eyes, and numerous small dark-edged blue spots all over the head, body and median fins. A black patch with white spots at the base of its pectoral fin.
-![](caeruleopunctatus/sbr2019-054-055-caeruleopunctatus.jpg)  
-Live one, seen diving.Photo by Toh Chay Hoon from  
-Singapore Biodiversity Records 2019:54-55
-**![](caeruleopunctatus/sbr2019-054-055.jpg)**  
- *Kusu Island, Aug 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154928469953660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -51,8 +59,6 @@ Singapore Biodiversity Records 2019:54-55
 
 ---
 
-![](caeruleopunctatus/sbr2015-047.jpg)  
-Dead fish washed ashore during mass fish death. *Pasir Ris Park, Mar 15*Photo by Sean Yap from Singapore Biodiversity Records 2015: 47
  
 
 ---

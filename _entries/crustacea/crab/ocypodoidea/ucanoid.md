@@ -2,7 +2,7 @@
 title: "Unidentified "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ocypodidae
 genus: ""
 species: identification*
@@ -23,6 +23,26 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Mar 11
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7974m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7974m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110102cjd4694m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 11</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -33,7 +53,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -58,16 +78,8 @@ Mar 11*
 **Unidentified
 fiddler crab #110327cjd7977**  
 
-*![](uca/noid/110327cjd7977m3.jpg)  
-Chek Jawa, Mar 11  
-![](uca/noid/110327cjd7977m3a.jpg)*
 
-*![](uca/noid/110327cjd7974m3.jpg)  
-Chek Jawa, Mar 11  
-![](uca/noid/110327cjd7974m3a.jpg)*
 
-*![](uca/noid/110102cjd4694m3.jpg)  
-Chek Jawa, Jan 11*
 
   
 *\*Species are

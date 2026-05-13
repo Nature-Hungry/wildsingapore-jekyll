@@ -2,7 +2,7 @@
 title: Tongue mushroom coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tongue, mushroom, herpolitha, limax, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Fungiidae
 genus: Herpolitha
 species: limax*
@@ -15,6 +15,90 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg"
+  caption: |
+    <p>Distinct central furrow.</p>
+    <p>Pulau Hantu, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3.jpg"
+  caption: |
+    <p>Tiny tentacles</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9529m3b.jpg"
+  caption: |
+    <p>Many mouths</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3.jpg"
+  caption: |
+    <p>Underside concave.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9530m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3b.jpg"
+  caption: |
+    <p>Thin overlapping discontinuous walls.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3c.jpg"
+  caption: |
+    <p>Tiny tentacles</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0991m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/070518tkrd0992m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/110731tryd7891m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/060714rlhg6521m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220618tmftvc1.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159145165007945&set=a.10159145289027945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/2007024pcnlks17.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/240527srplks11.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/101010scyrlks.JPG"
+  caption: |
+    <p>South Cyrene, Oct 10 Photo shared by Loh Kok Sheng on  <a href="https://www.flickr.com/photos/koksheng/5074474639/in/album-72157625147692356/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/220202bsislks1.jpg"
+  caption: |
+    <p>Big SIsters Island, Feb 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159707203458158&set=a.10159707207288158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100617tblks2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711332628/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100629tpdjk18m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100616tsmlks3m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711490034/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/210428slulks5.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162470413158&set=a.10159162473618158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100131slulks1m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on his <a href="http://www.flickr.com/photos/koksheng/4350484573/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/100130brklks14m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on his <a href="http://www.flickr.com/photos/koksheng/4353324860/">flickr</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/080208hntd9527m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,46 +157,21 @@ true tentacles but inflated portions of the tissues. These are only
 long mushroom corals. Here's more on how to [tell
 apart elongated mushroom hard corals](cflong.htm).   
 
-*![](herpolitha/080208hntd9527m3.jpg)*Distinct central furrow. *Pulau Hantu, Feb 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](herpolitha/080208hntd9529m3.jpg)*  
-Tiny tentacles
 
-*![](herpolitha/080208hntd9529m3b.jpg)*Many mouths
 
-![](herpolitha/080208hntd9530m3.jpg)  
-Underside concave.
 
-![](herpolitha/080208hntd9530m3a.jpg)
 
 ---
 
-*![](herpolitha/040606kusg0472m3.jpg)  
-Kusu Island, Jun 04*
 
-![](herpolitha/040606kusg0472m3b.jpg)  
-Thin overlapping discontinuous walls.
 
-![](herpolitha/040606kusg0472m3c.jpg)  
-Tiny tentacles
 
 ---
 
-![](herpolitha/070518tkrd0991m3.jpg)  
-*Pulau Tekukor,
-May 07  
-![](herpolitha/070518tkrd0992m3.jpg)  
-Underside*
 
-*![](herpolitha/110731tryd7891m3.jpg)  
-Terumbu Raya,
-Jun 11  
-![](herpolitha/110731tryd7891m3a.jpg)*
 
-![](herpolitha/060714rlhg6521m3.jpg)  
-*Raffles Lighthouse,
-Jul 06  
-![](herpolitha/060714rlhg6521m3a.jpg)*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -135,74 +194,30 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](herpolitha/220618tmftvc1.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22*  
-Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159145165007945&set=a.10159145289027945).
 
 ---
 
-![](herpolitha/2007024pcnlks17.jpg)  
-*East Coast PCN, Jul 20*  
-Photo
-shared by Loh Kok Sheng on facebook.
 
 ---
 
-![](herpolitha/240527srplks11.jpg)  
-*Sentosa Serapong, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161375044483158).
 
 ---
 
-![](herpolitha/101010scyrlks.JPG)  
-*South Cyrene, Oct 10*  
-Photo
-shared by Loh Kok Sheng on  [flickr](https://www.flickr.com/photos/koksheng/5074474639/in/album-72157625147692356/).
 
 ---
 
-![](herpolitha/220202bsislks1.jpg)  
-*Big SIsters Island, Feb 22*  
-Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159707203458158&set=a.10159707207288158).
 
 ---
 
-*![](herpolitha/100617tblks2m3.jpg)  
-Terumbu Bemban,
-Jun 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4711332628/).
 
-![](herpolitha/100629tpdjk18m3.jpg)  
-*Terumbu Pempang
-Darat, Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
 
-![](herpolitha/100616tsmlks3m3.jpg)  
- *Terumbu Semakau,
-Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4711490034/).
 
 ---
 
-![](herpolitha/210428slulks5.jpg)  
- *Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162470413158&set=a.10159162473618158).
 
 ---
 
-![](herpolitha/100131slulks1m3.jpg)  
-*Terumbu Salu,
-Jan 10  
-![](herpolitha/100131slulks1m3a.jpg)*Photo
-shared by Loh Kok Sheng on his [flickr](http://www.flickr.com/photos/koksheng/4350484573/)
 
-![](herpolitha/100130brklks14m3.jpg)  
-*Terumbu Berkas,
-Jan 10  
-![](herpolitha/100130brklks14m3a.jpg)*Photo
-shared by Loh Kok Sheng on his [flickr](http://www.flickr.com/photos/koksheng/4353324860/)
 
 ---
 

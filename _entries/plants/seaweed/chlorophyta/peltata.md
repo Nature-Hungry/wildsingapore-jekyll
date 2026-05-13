@@ -2,7 +2,7 @@
 title: Big parasol green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "parasol, seaweed, weed, green, caulerpa, peltata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,47 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3958m3b.jpg"
+  caption: |
+    <p>Loose clusters.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100627hntd7284m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100627hntd7284m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090112smkd5058m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090112smkd5058m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3.jpg"
+  caption: |
+    <p>Tuas, Jun</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/050624tusg8530m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/090822sisnml4m3.JPG"
+  caption: |
+    <p>Sisters Island, Aug 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-littlel">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/210502tptvc13.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447589462945&set=a.10158447654442945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100810sngd9934m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100811slud0096m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100130brkd8640m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/070714bbd3996m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,19 +106,10 @@ more on [how to tell apart some green seaweeds](cfgrapes).
 uses:** It is eaten in some places and used as medicine for
 its antifungal properties and ability to lower blood pressure.
 
-![](peltata/070714bbd3996m3.jpg)  
-*Beting Bronok, Jul 07*![](peltata/070714bbd3958m3b.jpg)  
-Loose clusters.
+{% include img-wrap-group.html items=page.page_images %}
 
-![](peltata/100627hntd7284m3.jpg)  
- *Pulau Hantu, Jun 10*![](peltata/100627hntd7284m3a.jpg)
 
-![](peltata/090112smkd5058m3.jpg)  
- *Pulau Semakau, Jan 09*![](peltata/090112smkd5058m3a.jpg)
 
-![](peltata/050624tusg8530m3.jpg)  
-*Tuas, Jun
-05*![](peltata/050624tusg8530m3a.jpg)
 
   
 *\*Species are difficult
@@ -103,23 +135,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](peltata/090822sisnml4m3.JPG)  
-*Sisters Island, Aug 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/08/little-sisters-isnt-that-littlel).
 
-![](peltata/210502tptvc13.jpg)  
-*Terumbu Pempang Tengah, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158447589462945&set=a.10158447654442945).
 
 ---
 
-![](peltata/100810sngd9934m3.jpg)  
-*Pulau Senang, Aug 10*
 
-![](peltata/100811slud0096m3.jpg)  
-*Pulau Salu, Aug 10*
 
-![](peltata/100130brkd8640m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 

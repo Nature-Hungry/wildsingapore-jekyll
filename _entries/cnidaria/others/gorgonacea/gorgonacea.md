@@ -2,7 +2,7 @@
 title: Sea fans or Gorgonians
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, whip, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Briareidae
 genus: ""
 species: ""
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg"
+  caption: |
+    <p>Tiny sea fans dot the rocks.</p>
+    <p>East Coast Park, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg"
+  caption: |
+    <p>Larger sea fans seen on remote shores.</p>
+    <p>Beting Bronok, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4654m3.jpg"
+  caption: |
+    <p>Polyps of a sea fan.</p>
+    <p>Tuas, Dec 11 Colonial food:Studies suggest gorgonian polyps have few or weak stinging cells and feed on particles tinier than zooplankton; such as phytoplankton and bacteria.</p>
+    <p>Prey that are too big or struggle too vigorously are released by the polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg"
+  caption: |
+    <p><a href="../../../mollusca/bivalvia/pteriidae/seafan">Winged oyster</a> on a sea fan Changi, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
+  caption: |
+    <p><a href="../../../mollusca/gastropoda/ovulidae/ovulidae">Ovulid snails</a> on a sea fan East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg"
+  caption: |
+    <p><a href="../../../echinodermata/ophiuroidea/tinycolourful">Tiny colourful brittle stars</a>.</p>
+    <p>Changi, Jul 09 Role in the habitat: All kinds of small animals live on gorgonians including tunicates, barnacles, <a href="../../../mollusca/bivalvia/pteriidae/seafan">clams</a>, snails (such as the <a href="../../../mollusca/gastropoda/ovulidae/ovulidae">ovulids</a>), tiny shrimps, <a href="../../../echinodermata/ophiuroidea/tinycolourful">brittle stars</a> and gobies.</p>
+    <p><a href="../../../crustacea/othercrust/anomura/hermit/banded">Hermit crabs</a> have also been seen clinging to sea fans.</p>
+    <p>Some of these small animals prey on the sea fan.</p>
+    <p>These animals usually take on the shape and colour of their host.</p>
+    <p>Squids may also lay their eggs on sea fans.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
+  caption: |
+    <p><a href="skinny">Skinny sea fans</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg"
+  caption: |
+    <p><a href="asparagus">Asparagus sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
+  caption: |
+    <p><a href="candelabra">Candelabra sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg"
+  caption: |
+    <p><a href="flatbranch">Flat branch sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
+  caption: |
+    <p><a href="gnarled">Gnarled sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg"
+  caption: |
+    <p><a href="lyre">Lyre sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg"
+  caption: |
+    <p><a href="maze">Maze sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/030520bbd0241m3.jpg"
+  caption: |
+    <p><a href="tree">Tree sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lemon/160804lygd6866m3.jpg"
+  caption: |
+    <p><a href="lemon">Lemon sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/blue/060516chgd2041.jpg"
+  caption: |
+    <p><a href="blue">Blue sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/leathery/100812tpld0362m3.jpg"
+  caption: |
+    <p><a href="leathery">Leathery sea fan</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg"
+  caption: |
+    <p><a href="whip">Sea whip</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3100m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,16 +148,7 @@ Gorgonian colonies usually take on branching forms, but the branching
 is only along one plane (i.e., most are not bushy). Thus, these colonies
 are usually called sea fans. Others are unbranched and grow into one
 long whip-like form, and are called sea whips.
-*![](skinny/060613ecpd3100m3.jpg)*Tiny
-sea fans dot the rocks. *East Coast Park, Jun 06*
-*![](others/040604bbad0081m3.jpg)*Larger
-sea fans seen on remote shores. *Beting Bronok, Jun 04*
-*![](candelabra/111222tusd4654m3.jpg)*Polyps
-of a sea fan. *Tuas, Dec 11*
- **Colonial food:**Studies suggest gorgonian polyps
-have few or weak stinging cells and feed on particles tinier than
-zooplankton; such as phytoplankton and bacteria. Prey that are too
-big or struggle too vigorously are released by the polyps.  
+{% include img-wrap-group.html items=page.page_images %}
   
 A sea fan usually grows so that the branches are at right angles to
 the flow of the current. This maximises the amount of water filtered
@@ -120,19 +176,7 @@ off and drifts away to settle down elsewhere and expand into a new
 colony. Some sea whips reproduce by dropping off a branch tip that
 'roots' and starts a new colony.
 
-*![](../../../mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3a.jpg)*[Winged oyster](../../../mollusca/bivalvia/pteriidae/seafan) on a sea fan *Changi, Jan 13*
 
-*![](../../../mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg)*[Ovulid snails](../../../mollusca/gastropoda/ovulidae/ovulidae) on a sea fan *East Coast, Jun 06*
-*![](../../../echinodermata/ophiuroidea/tinycolourful/100727chgd9292m3.jpg)*[Tiny
-colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful). *Changi, Jul 09*
-**Role in the habitat:** All kinds
-of small animals live on gorgonians including tunicates, barnacles,
-[clams](../../../mollusca/bivalvia/pteriidae/seafan), snails (such as the [ovulids](../../../mollusca/gastropoda/ovulidae/ovulidae)),
-tiny shrimps, [brittle
-stars](../../../echinodermata/ophiuroidea/tinycolourful) and gobies. [Hermit
-crabs](../../../crustacea/othercrust/anomura/hermit/banded) have also been seen clinging to sea fans. Some of these
-small animals prey on the sea fan. These animals usually take on the
-shape and colour of their host. Squids may also lay their eggs on sea fans.  
   
 **Human uses:** Gorgonians, especially
 fan-shaped ones, are harvested for the live aquarium trade or sold
@@ -159,46 +203,22 @@ fans on Singapore shores**
 
 ---
 
-**![](skinny/060613ecpd3053m3b.jpg)  
-[Skinny sea fans](skinny)**
 
-**![](asparagus/030521bbd0232m3.jpg)  
-[Asparagus sea fan](asparagus)**
 
-**![](candelabra/060528bbd2416m3.jpg)  
-[Candelabra sea fan](candelabra)**
 
 ---
 
-**![](flatbranch/050411tusg4438m3.jpg)  
-[Flat branch sea fan](flatbranch)**
 
-**![](gnarled/080705bbd7072m3.jpg)  
-[Gnarled sea fan](gnarled)**
 
-**![](lyre/040604bbad0076m3.jpg)  
-[Lyre sea fan](lyre)**
 
 ---
 
-**![](maze/050724bbg0161m3.jpg)  
-[Maze sea fan](maze)**
 
-**![](tree/030520bbd0241m3.jpg)  
-[Tree sea fan](tree)**
 
-**![](lemon/160804lygd6866m3.jpg)  
-[Lemon sea fan](lemon)**
 
 ---
 
-**![](blue/060516chgd2041.jpg)  
-[Blue sea fan](blue)**
 
-***![](leathery/100812tpld0362m3.jpg)*  
-[Leathery sea fan](leathery)**
-**![](whip/030714bbd0067m3.jpg)  
-[Sea whip](whip)**
 
 ---
 

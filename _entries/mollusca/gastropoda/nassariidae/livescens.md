@@ -2,7 +2,7 @@
 title: Common whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "common, whelk, nassarius, livescens, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 87, 100, 111, 123]
 family: Nassariidae
 genus: Nassarius
@@ -17,6 +17,53 @@ order: Neogastropoda
 superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
+  caption: |
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6542m3a.jpg"
+  caption: |
+    <p>The operculum has 'teeth' along the edges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/120705chgd7078m6l.jpg"
+  caption: |
+    <p>Very long foot with a pair of tentacles at the end, operculum with a dark blotch.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/081216prpd3576m3.jpg"
+  caption: |
+    <p>With tiny <a href="../../../cnidaria/actiniaria/snail.htm">sea anemones</a> on it.</p>
+    <p>Pasir Ris, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090224lazlks05m3.JPG"
+  caption: |
+    <p>Feeding on a clam!</p>
+    <p>Lazarus Island, Feb 09 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6731m3.jpg"
+  caption: |
+    <p>Cleaning out a shell while hermits wait patiently.</p>
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/090706chgd6764.jpg"
+  caption: |
+    <p>Gathered on a dead crab.</p>
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201019cnyrk6.jpg"
+  caption: |
+    <p>Coney Island, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158588709842906&set=a.10158588678307906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgerk3.jpg"
+  caption: |
+    <p>Changi East (Lost Coast).</p>
+    <p>Dec 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/251206chgetrka.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163402757582906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/201115tkksg1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Shwne Goh on <a href="https://www.facebook.com/photo?fbid=10224320478468945&set=a.10224321021282515">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/091205sudikw4m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160145331/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,22 +106,11 @@ with small bumps. Body pale with dark speckles, a long foot with a
 pair of 'tails' at the ends. Operculum thin with tiny 'teeth' along
 the edges, yellow with a dark blotch in the centre.
 
-![](livescens/050524cftg6541m3.jpg)  
-*Changi, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](livescens/050524cftg6542m3.jpg)  
-Underside.
 
-![](livescens/050524cftg6542m3a.jpg)  
-The operculum
-has 'teeth' along the edges.
 
-![](livescens/120705chgd7078m6l.jpg)  
-Very long foot with a pair of tentacles at the end, operculum with
-a dark blotch. *Changi, May 05*
 
-![](../../../cnidaria/actiniaria/snail/081216prpd3576m3.jpg)  
-With tiny [sea anemones](../../../cnidaria/actiniaria/snail.htm) on it. *Pasir Ris, Dec 08*
 
 **Hitching on a whelk:** This whelk
 often has one or more tiny [sea
@@ -86,19 +122,8 @@ scavengers and often seen busily foraging in pools at the change of
 the tides. A choice morsel such as a dead crab or fish is a magnet
 for these snails which hurry as fast as they can to the feast.
 
-*![](livescens/090224lazlks05m3.JPG)*Feeding
-on a clam!  
-*Lazarus Island, Feb 09*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html).
 
-![](livescens/090706chgd6731m3.jpg)  
-Cleaning out a shell while hermits wait patiently.  
-*Changi, Jul 09*
 
-![](livescens/090706chgd6764.jpg)  
-Gathered on a dead crab.  
-*Changi, Jul 09*
 
 ---
 
@@ -117,25 +142,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](livescens/201019cnyrk6.jpg)  
-*Coney Island, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158588709842906&set=a.10158588678307906).
 
 ---
 
-*![](livescens/251206chgerk3.jpg)  
-Changi East (Lost Coast). Dec 25* 
-*![](livescens/251206chgetrka.jpg)*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163402757582906&type=3&ref=embed_post).
 
 ---
 
-![](livescens/201115tkksg1.jpg)  
-*Pulau Tekukor, Nov 20*Photo shared by Shwne Goh on [facebook](https://www.facebook.com/photo?fbid=10224320478468945&set=a.10224321021282515).
 
-![](livescens/091205sudikw4m3.jpg)  
-*Pulau Sudong,
-Dec 09*Photo shared by Ivan Kwan on [his
-flickr](http://www.flickr.com/photos/hai_ren/4160145331/).
 
 ---
 

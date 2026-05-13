@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "prickly, ball, sponge, tethya, robusta, tethyidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: ball
 title: Rambutan sponge
 family: Tethyidae
@@ -16,6 +16,36 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Tethyida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6067m3.jpg"
+  caption: |
+    <p>Changi, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/090113prpd5187m3a.jpg"
+  caption: |
+    <p>Sometimes with raised polygonal bumps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/090113prpd5187m3.jpg"
+  caption: |
+    <p>Pasir Ris, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6067m3a.jpg"
+  caption: |
+    <p>Filaments anchor or root the sponge to a hard surface.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/081211smkd2810m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/081211smkd2810m3b.jpg"
+  caption: |
+    <p>Buds on ends of stalks may develop into new sponges.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120125chgd6062m3.jpg"
+  caption: |
+    <p>Inside of the sponge.</p>
+    <p>Changi, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/120112smbs02077m3.jpg"
+  caption: |
+    <p>Sembawang, Jan 12</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/ballprickly/040409tusbd0078m3.jpg"
 ---
 
 
@@ -48,36 +78,18 @@ ball sponge](golfball.htm) which has a denser coat of finer spines without bulbo
 tips and which never have stringy tissues to anchor the sponge to
 the surface.
 
-![](ballprickly/040409tusbd0078m3.jpg)  
-*Tuas, Apr 04*![](ballprickly/120125chgd6067m3.jpg)  
-*Changi, Jan 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ballprickly/090113prpd5187m3a.jpg)  
-Sometimes with raised polygonal bumps.
 
-![](ballprickly/090113prpd5187m3.jpg)  
-*Pasir Ris, Jan 09*
 
-![](ballprickly/120125chgd6067m3a.jpg)  
-Filaments anchor or root the sponge  
-to a hard surface.
 
 ---
 
-![](ballprickly/081211smkd2810m3.jpg)  
-*Pulau Semakau, Dec 08*
 
-![](ballprickly/081211smkd2810m3b.jpg)  
-Buds on ends of stalks may   
-develop into new sponges.
 
-![](ballprickly/120125chgd6062m3.jpg)  
-Inside of the sponge. *Changi, Jan 12*
 
 ---
 
-![](ballprickly/120112smbs02077m3.jpg)  
-*Sembawang, Jan 12*
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of

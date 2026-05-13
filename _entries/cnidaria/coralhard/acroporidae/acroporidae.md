@@ -2,7 +2,7 @@
 title: "Acroporid corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: ""
 species: ""
@@ -15,6 +15,38 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
+  caption: |
+    <p>Some acropora coral form table-like colonies.</p>
+    <p>Raffles Lighthouse, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrstumpy/051204sisg3229m3.jpg"
+  caption: |
+    <p>Most members have an axial corallite.</p>
+    <p>Sisters Island, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
+  caption: |
+    <p>Some montipora corals are plate-like.</p>
+    <p>Sisters Island, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntd1252m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1275m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0110m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/060415hntg5635m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrelegant/070704jngg1276m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/031224sisd0112m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrowide/070618rlhg0608m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,12 +112,7 @@ encrusting layers or boulder-shaped colonies. The most familiar are
 those that branch into bushy or flat 'table-top' shapes.   
   
 **Status:** While a few species are listed as Endangered, Vulnerable or Near Threatened, for most there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded Family Acroporidae corals in Singapore.
-![](acrowide/070618rlhg0608m3.jpg)  
-Some acropora coral form table-like colonies. *Raffles Lighthouse, Jun 07*
-![](acrstumpy/051204sisg3229m3.jpg)  
-Most members have an axial
-corallite. *Sisters Island, Dec 05*
-*![](monplate/051204sisg3262m3.jpg)*Some montipora corals are plate-like. *Sisters Island, Dec 05* 
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -93,11 +120,8 @@ corallite. *Sisters Island, Dec 05*
 
 ---
 
-**![](monbranch/060415hntd1252m3.jpg)**
 
-**![](acrelegant/070704jngg1275m3.jpg)**
 
-![](astreopora/031224sisd0110m3.jpg)
 
 [**Montipora
 corals**](montipora.htm)  
@@ -121,11 +145,8 @@ Colonies:
 boulder-shaped   
 or encrusting.
 
-**![](monbranch/060415hntg5635m3a.jpg)**
 
-**![](acrelegant/070704jngg1276m3a.jpg)**
 
-![](astreopora/031224sisd0112m3a.jpg)
 
 Corallites
 not raised,   

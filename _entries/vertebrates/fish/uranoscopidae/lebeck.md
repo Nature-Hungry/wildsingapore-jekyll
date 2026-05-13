@@ -2,7 +2,7 @@
 title: Longnosed stargazer
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, nose, star, gazer, stargazer, ichthyscopus, lebeck, uranoscopidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Uranoscopidae
 genus: Ichthyscopus
@@ -17,6 +17,31 @@ superorder: Acanthomorpha
 order: Labriformes
 suborder: Uranoscopoidei
 updated: Nov 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg"
+  caption: |
+    <p>Usually half buried in the sand.</p>
+    <p>Chek Jawa, Oct 01</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5828m6la.jpg"
+  caption: |
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5830m3.jpg"
+  caption: |
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3.jpg"
+  caption: |
+    <p>Protrusible mouth!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgd5831m3a.jpg"
+  caption: |
+    <p>Elongated nostrils - wormy-looking things next to the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/110705chgL1060431m6l.jpg"
+  caption: |
+    <p>Was trapped in a driftnet and released alive.</p>
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/210530ecpglks2.jpg"
+  caption: |
+    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235743983158&set=a.10159235746118158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/uranoscopidae/lebeck/011021cjcpd0929m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,20 +98,11 @@ species have a worm-like filament on the floor of the mouth. This
 bait is wriggled when the mouth is opened, to lure unwary victims
 to their sudden deaths.
 
-*![](lebeck/011021cjcpd0929m3.jpg)*Usually
-half buried in the sand. *Chek Jawa, Oct 01*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](lebeck/110705chgd5828m6la.jpg)  
-Changi, Jul 11*
 
-*![](lebeck/110705chgd5830m3.jpg)  
-Changi, Jul 11*
 
-*![](lebeck/110705chgd5831m3.jpg)*Protrusible
-mouth!
 
-*![](lebeck/110705chgd5831m3a.jpg)*Elongated nostrils - wormy-looking things  
-next to the eyes.
 
 **Features of the Longnosed stargazer:** Up to 30cm long! It
 is basically a bulky head with a tiny body. As its name suggests, its bulbous eyes
@@ -117,13 +133,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](lebeck/110705chgL1060431m6l.jpg)*Was
-trapped in a driftnet and released alive. *Changi, Jul 11*
 
 ---
 
-*![](lebeck/210530ecpglks2.jpg)  
-East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159235743983158&set=a.10159235746118158).
 
 ---
 

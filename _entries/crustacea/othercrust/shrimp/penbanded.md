@@ -2,7 +2,7 @@
 title: Banded penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [84, 103, 104]
 family: Penaeidae
 genus: ""
@@ -20,6 +20,41 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
+  caption: |
+    <p>Changi, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/040605kusg0375m3.jpg"
+  caption: |
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/060611cjd2816m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/201020prpalks9.jpg"
+  caption: |
+    <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158706824343158&set=a.10158706826698158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/171108ecpmblks18.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251011lablks13.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251010blyll2.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 25 Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/220521bbbccn4.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159726923118654&set=a.10159726900588654">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,23 +99,14 @@ The Black tiger prawn (*Penaeus monodon*) as well as other members
 of the Family Penaeidae may have this appearance. Species are difficult
 to positively identify without close examination.
 
-*![](penbanded/080731chgd8379m3.jpg)  
-Changi, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](penbanded/080731chgd8379m3c.jpg)*
 
-*![](penbanded/080731chgd8379m3b.jpg)*
 
 ---
 
-*![](penbanded/040605kusg0375m3.jpg)  
-Kusu Island, Jun 04*
 
-*![](penbanded/050721cjg9666m3.jpg)  
-Chek Jawa, Jul 05*
 
-*![](penbanded/060611cjd2816m3.jpg)  
-Chek Jawa, Jun 06*
 
   
 *\*Species are difficult to positively identify without close examination.  
@@ -104,23 +130,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](penbanded/201020prpalks9.jpg)*  
-*Pasir Ris-Loyang, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10158706824343158&set=a.10158706826698158).
 
-*![](penbanded/171108ecpmblks18.jpg)*  
-*East Coast-Marina Bay, Nov 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3).
 
 ---
 
-*![](penbanded/251011lablks13.jpg)  
-Labrador, Oct 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post).
 
-![](penbanded/251010blyll2.jpg)  
-*Berlayar Creek, Oct 25*  
-Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post).
 
-*![](penbanded/220521bbbccn4.jpg)*  
-*Beting Bemban Besar, May 22*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10159726923118654&set=a.10159726900588654).
 
 [links](../../../links)
 | [references](../../../references)

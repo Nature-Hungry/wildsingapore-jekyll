@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barrel, neptune, cup, sponge, xestospongia,  testudinaria, petrosiidae,"
-layout: default
+layout: entry
 shape: sausage
 title: Barrel  sponge
 family: Petrosiidae
@@ -16,6 +16,67 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg"
+  caption: |
+    <p>Shapes range from fingers, tubes, branching roots to large vase shapes.</p>
+    <p>Chek Jawa, Jan 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8353m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/120408sjid8358m3a.jpg"
+  caption: |
+    <p>Inside the cavity, texture is uneven and rough.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/030618bbd0195m3.jpg"
+  caption: |
+    <p>Large animals find shelter inside the 'vase' Beting Bronok, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/040803tusd3990m3a.jpg"
+  caption: |
+    <p><a href="../echinodermata/holothuroidea/synsponge.htm">Sponge synaptid sea cucumbers</a> on the outside of the sponge.</p>
+    <p>Tuas, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/060611cjd2786m3a.jpg"
+  caption: |
+    <p>Coated with <a href="../worm/polychaeta/spionidae.htm">Spionid sponge worms</a> on the outside.</p>
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/220618tmftlks4.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943825548158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251108ecpblks6a.jpg"
+  caption: |
+    <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100515sjilks6m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/241019lazlks4.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/110421jngsy1m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 11Photo shared by Sam Yeo on <a href="http://www.facebook.com/media/set/fbx/?set=a.10150230110618140.360062.580878139">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/251207hntjll3.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/080505hntlks01m3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250531thnttl1.jpg"
+  caption: |
+    <p>Terumbu Hantu, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162553746129264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/250629smkelk10.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100617tblks2m3.JPG"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/100613snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718847371/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/210428slulks6.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467848158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/020101cjbd4392m3.jpg"
 ---
 
 
@@ -51,32 +112,12 @@ sea cucumbers](../echinodermata/holothuroidea/synsponge.htm) are also seen drape
   
 It it not correct to refer to this sponge as the [Neptune's cup sponge](patera.htm) (*Cliona patera*), which is usually found in deep water and often much larger.
 
-![](xestospongia/020101cjbd4392m3.jpg)  
-Shapes range from fingers, tubes, branching roots to large vase shapes. *Chek Jawa,
-Jan 02*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](xestospongia/120408sjid8353m3.jpg)  
-*St. John's
-Island, Apr 12*
 
-![](xestospongia/120408sjid8358m3a.jpg)  
-Inside the cavity,
-texture is uneven and rough.
 
-![](xestospongia/030618bbd0195m3.jpg)  
-Large animals
-find shelter inside the 'vase' *Beting Bronok, Jun 03*
 
-![](xestospongia/040803tusd3990m3a.jpg)  
-[Sponge
-synaptid sea cucumbers](../echinodermata/holothuroidea/synsponge.htm)   
-on the outside of the sponge. *Tuas, Aug 04*
 
-![](xestospongia/060611cjd2786m3a.jpg)  
-Coated with
-[Spionid sponge worms](../worm/polychaeta/spionidae.htm)
-on the outside*.  
-Chek Jawa, Jun 06*
 
   
 *\*Species are difficult
@@ -101,59 +142,25 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](xestospongia/220618tmftlks4.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943825548158&set=a.10159943838013158).
 
-![](xestospongia/251108ecpblks6a.jpg)  
-*East Coast Park (B), Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
 
 ---
 
-![](xestospongia/100515sjilks6m3.jpg)  
- *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html).
 
-*![](xestospongia/241019lazlks4.jpg)  
-Lazarus Island, Oct 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158).
 
-![](xestospongia/110421jngsy1m3.jpg)  
-*Pulau Jong, Apr 11*Photo shared by Sam Yeo on [facebook](http://www.facebook.com/media/set/fbx/?set=a.10150230110618140.360062.580878139).
 
 ---
 
-![](xestospongia/251207hntjll3.jpg)  
-*Pulau Hantu,
-Dec 25*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10162368219591295&type=3&ref=embed_post).
 
-![](xestospongia/080505hntlks01m3.jpg)  
-*Pulau Hantu,
-May 08*   
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/zoanthids-hunt-at-hantu.html).
 
-![](xestospongia/250531thnttl1.jpg)  
-*Terumbu Hantu, May 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162553746129264&type=3&ref=embed_post).
 
 ---
 
-![](xestospongia/250629smkelk10.jpg)  
-*Pulau Semakau East, Jun 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post).
 
-![](xestospongia/100617tblks2m3.JPG)  
-*Terumbu Bemban,
-Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html).
 
 ---
 
-![](xestospongia/100613snglks1m3.jpg)  
-*Pulau Senang,
-Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718847371/).
 
-*![](xestospongia/210428slulks6.jpg)  
-Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162467848158&set=a.10159162473618158).
 
 ---
 

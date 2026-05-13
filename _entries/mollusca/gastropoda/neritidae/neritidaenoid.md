@@ -2,7 +2,66 @@
 title: "Nerites snails (Nerita) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6918m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6919m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6498m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6499m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3714m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3715m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krjd3715m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3455m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -36,44 +95,32 @@ info on nerite snails](neritidae.htm)
 nerite snail #070506sjig9293**About 3cm. On rocky shore alone among large boulders, *St.
 John's Island, May 07*
 
-*![](noid/070506sjig9293m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](noid/070506sjig9292m3.jpg)*
 
-*![](noid/070506sjig9292m3a.jpg)*
 
 ---
 
 **Unidentified
 nerite snail #060729sisg6918**
 
-*![](noid/060729sisg6918m3.jpg)  
-Sisters Island, Jul 06![](noid/060729sisg6919m3.jpg)*
 
-*![](noid/061106tusd6498m3.jpg)  
-Tuas, Nov 06![](noid/061106tusd6499m3.jpg)*
 
 ---
 
 **Unidentified
 nerite snail #060627krnd3714**Seen on a mangrove tree, *Kranji Jun 06*
 
-*![](noid/060627krnd3714m3.jpg)*
 
-*![](noid/060627krnd3715m3.jpg)*
 
-*![](noid/060627krjd3715m3a.jpg)*
 
 ---
 
 **Unidentified
 nerite snail #050527srbd3455**Seen on a mangrove tree, *Pulau Sarimbun, May 05*
 
-*![](noid/050527srbd3455m3.jpg)*
 
-*![](noid/050527srbd3456m3.jpg)*
 
-*![](noid/050527srbd3456m3a.jpg)*
 
 ---
 
@@ -81,17 +128,11 @@ nerite snail #050527srbd3455**Seen on a mangrove tree, *Pulau Sarimbun, May 05*
 nerite snail #080511sntd3188**Seen on large boulder near natural cliff, *Sentosa, May
 08*
 
-*![](noid/080511sntd3188m3.jpg)*
 
-*![](noid/080511sntd3188m3a.jpg)*
 
-*![](noid/080511sntd3188m3b.jpg)*
 
-*![](noid/080511sntd3190m3.jpg)*
 
-*![](noid/080511sntd3190m3a.jpg)*
 
-*![](noid/080511sntd3190m3b.jpg)*
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: Tidal hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tidal, hermit, crab, diogenes, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Diogenes
@@ -21,6 +21,42 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6574m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050823chgg2362m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg"
+  caption: |
+    <p></p>
+- url: "https://live.staticflickr.com/4514/37595095762_23ab8b6cd7_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/37595095762/ "Tidal hermit crabs (Diogenes sp.) and Orange-striped hermit crab (Clibanarius infraspinatus)") East Coast Park, Oct 2017</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/210213bsisjc1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 21Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo/?fbid=10158878224971310&set=a.10158878291171310">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/201115tkkmn1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157845080553660&set=a.10157845074428660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160210cyrmn.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/160209cyrhpy4.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153833643184000.1073741985.589418999&type=3">facebook</a>.</p>
+    <p>Berlayar Creek, Nov 2020</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/090208smkd6573m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -72,18 +108,10 @@ Body and limbs not very hairy. Colour grey, brown or white without
 obvious markings. The left pincer is usually much larger than the
 right.
 
-*![](tidal/090208smkd6573m3.jpg)  
-Pulau Semakau, Feb 09  
-![](tidal/090208smkd6574m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tidal/050823chgg2362m3.jpg)  
-*Changi, Aug 05*![](tidal/050823chgg2362m3a.jpg)
 
-![](tidal/050609cftg7489m3.jpg)  
-*Changi, Jun 05*![](tidal/050609cftg7489m3a.jpg)
 
-[![Tidal hermit crabs (Diogenes sp.) and Orange-striped hermit crab (Clibanarius infraspinatus)](https://live.staticflickr.com/4514/37595095762_23ab8b6cd7_z.jpg)](https://www.flickr.com/photos/wildsingapore/37595095762/ "Tidal hermit crabs (Diogenes sp.) and Orange-striped hermit crab (Clibanarius infraspinatus)")
-East Coast Park, Oct 2017
   
 *\*Species are
 difficult to positively identify without close examination.  
@@ -107,26 +135,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tidal/210213bsisjc1.jpg)  
-Big Sisters Island, Feb 21*Photo shared by
-Joleen Chan on [facebook](https://www.facebook.com/photo/?fbid=10158878224971310&set=a.10158878291171310).
 
 ---
 
 ---
 
-*![](tidal/201115tkkmn1.jpg)  
-Pulau Tekukor, Nov 20*Photo shared by
-Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157845080553660&set=a.10157845074428660).
 
-*![](tidal/160210cyrmn.jpg)  
-Cyrene Reef, Feb 16*Photo shared by
-Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660.624178659&type=3).
 
-*![](tidal/160209cyrhpy4.jpg)  
-Cyrene Reef, Feb 16*Photo shared by
-Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153833643184000.1073741985.589418999&type=3).
-Berlayar Creek, Nov 2020
 
 ---
 

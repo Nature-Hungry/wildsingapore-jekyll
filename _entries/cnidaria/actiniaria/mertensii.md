@@ -2,7 +2,7 @@
 title: Merten's carpet anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mertens, carpet, anemone, stichodactyla, mertensii, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 113]
 family: Stichodactylidae
 genus: Stichodactyla
@@ -17,6 +17,151 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9385m3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9391m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/120411thntd9387m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/110421jngd9502m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/110421jngd9504m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/110421jngd9504m3e.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/250628pcnal3.jpg"
+  caption: |
+    <p>East Coast PCN, Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/250628pcnal3a.jpg"
+  caption: |
+    <p>Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/230705ssisky1.jpg"
+  caption: |
+    <p>Small Sisters Island, Jul 23</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/230705ssisky1a.jpg"
+  caption: |
+    <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168523841280112&set=a.10168523834555112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/180519lsis3ay.jpg"
+  caption: |
+    <p>Small Sisters Island, May 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/180519lsis2ay.jpg"
+  caption: |
+    <p>Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10213376186491382.1073741924.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/240212sjivc8.jpg"
+  caption: |
+    <p>St John's Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229786207945&set=a.10160230394282945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/150422jngmn4m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 15Photo shared by Neo Mei Lin on her <a href="http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jong.html">blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/170628jngrk.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 17Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10155292719122906.1073741892.563787905&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/160609thntro3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jun 16Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/251207hntlks1.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photos shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/251207hntlks1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/251207hntlks1b.jpg"
+  caption: |
+    <p>With tiny Clown anemonefish.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/160609thntro2.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jun 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/160609thntro2a.jpg"
+  caption: |
+    <p>Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/160609thntro4.jpg"
+  caption: |
+    <p>Terumbu Hantu, Jun 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/160609thntro4a.jpg"
+  caption: |
+    <p>Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/250727smkwlks11.jpg"
+  caption: |
+    <p>Pulau Semakau West, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/250727smkwlks11a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/2007025smknlks7a.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/2007025smknlks7b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485857178158&set=a.10158485859383158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/260202smkelvo1a.jpg"
+  caption: |
+    <p>Pulau Semakau East, Feb 26</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/260202smkelvo1b.jpg"
+  caption: |
+    <p>Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122162324372927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/240511tryrk1.jpg"
+  caption: |
+    <p>Terumbu Raya, May 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/240511tryrk1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10161129300167906&set=a.10161129294162906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/230903smknmn1.jpg"
+  caption: |
+    <p>Pulau Semakau North, Sep 23</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/230903smknmn1a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159804656213660&set=a.10159804652108660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/240526bbbky2.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169489991325112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/251008bbblvo3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25 Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/251008bbblvo3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/180716tbay4.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jul 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/180716tbay4a.jpg"
+  caption: |
+    <p>Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213758887378665&set=a.10213758475328364&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/110422tbmlks2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/110422tbmlks3m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100919rlhtch1m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100919rlhtch2m3.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/09/sad-sights-at-pulau-satumu.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100919rlhnml1m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100919rlhnml1m3a.jpg"
+  caption: |
+    <p>Photo shared by Neo Mei Lin</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100613snglks3m6l.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mertensii/100613snglks3m3a.jpg"
+  caption: |
+    <p>With anemone shrimp.</p>
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719769650/">his flickr</a></p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +172,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -96,18 +241,11 @@ carpet anemones were the [Five-spot
 anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.htm) (*Periclimines brevicarpalis*) and the [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.htm).  
   
 **Status and threats:** As at 2024, it is listed as Endangered in Singapore.
-*![](mertensii/120411thntd9385m3.jpg)* *Terumbu
-Hantu, Apr 12*
 
-*![](mertensii/120411thntd9391m3.jpg)*
 
-*![](mertensii/120411thntd9387m3b.jpg)*
 
-*![](mertensii/110421jngd9502m3.jpg)**Pulau Jong, Apr 11*
 
-*![](mertensii/110421jngd9504m3.jpg)*
 
-*![](mertensii/110421jngd9504m3e.jpg)*
 
 ---
 
@@ -126,137 +264,55 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](mertensii/250628pcnal3.jpg)  
-East Coast PCN, Jun 25  
-![](mertensii/250628pcnal3a.jpg)*Photo shared
-by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post).
 
-*![](mertensii/230705ssisky1.jpg)  
-Small Sisters Island, Jul 23  
-![](mertensii/230705ssisky1a.jpg)*Photo shared
-by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168523841280112&set=a.10168523834555112).
 
-*![](mertensii/180519lsis3ay.jpg)  
-Small Sisters Island, May 18  
-![](mertensii/180519lsis2ay.jpg)*Photo shared
-by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10213376186491382.1073741924.1000600604&type=3).
 
 ---
 
-*![](mertensii/240212sjivc8.jpg)  
-St John's Island, Feb 24*Photo shared
-by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10160229786207945&set=a.10160230394282945).
 
 ---
 
-*![](mertensii/150422jngmn4m3.jpg)  
-Pulau Jong, Apr 15*Photo shared
-by Neo Mei Lin on her [blog](http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jong.html).
 
-*![](mertensii/170628jngrk.jpg)  
-Pulau Jong, Jun 17*Photo shared
-by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/media_set?set=a.10155292719122906.1073741892.563787905&type=3).
 
-*![](mertensii/160609thntro3.jpg)  
-Terumbu Hantu, Jun 16*Photo shared
-by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3).
 
 ---
 
-*![](mertensii/251207hntlks1.jpg)  
-Pulau Hantu, Dec 25*Photos shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post).
 
-![](mertensii/251207hntlks1a.jpg)
 
-![](mertensii/251207hntlks1b.jpg)  
-With tiny Clown anemonefish.
 
 ---
 
-*![](mertensii/160609thntro2.jpg)  
-Terumbu Hantu, Jun 16  
-![](mertensii/160609thntro2a.jpg)*Photo shared
-by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3).
 
-*![](mertensii/160609thntro4.jpg)  
-Terumbu Hantu, Jun 16  
-![](mertensii/160609thntro4a.jpg)*Photo shared
-by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3).
 
 ---
 
-*![](mertensii/250727smkwlks11.jpg)*  
-*Pulau Semakau West, Jul 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post).
 
-*![](mertensii/250727smkwlks11a.jpg)*
 
 ---
 
-*![](mertensii/2007025smknlks7a.jpg)  
-Pulau Semakau North, Jul 20  
-![](mertensii/2007025smknlks7b.jpg)*Photo shared
-by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158485857178158&set=a.10158485859383158&type=3&theater).
 
-*![](mertensii/260202smkelvo1a.jpg)  
-Pulau Semakau East, Feb 26  
-![](mertensii/260202smkelvo1b.jpg)*Photo shared
-by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122162324372927700&type=3&ref=embed_post).
 
-*![](mertensii/240511tryrk1.jpg)  
-Terumbu Raya, May 24  
-![](mertensii/240511tryrk1a.jpg)*Photo shared
-by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10161129300167906&set=a.10161129294162906).
 
 ---
 
-*![](mertensii/230903smknmn1.jpg)  
-Pulau Semakau North, Sep 23*
 
-*![](mertensii/230903smknmn1a.jpg)*Photo shared
-by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10159804656213660&set=a.10159804652108660).
 
 ---
 
-*![](mertensii/240526bbbky2.jpg)  
-Beting Bemban Besar, May 24* Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169489991325112).
 
-*![](mertensii/251008bbblvo3.jpg)  
-Beting Bemban Besar, Oct 25* Photo
-shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post).
 
-![](mertensii/251008bbblvo3a.jpg)
 
 ---
 
-*![](mertensii/180716tbay4.jpg)  
-Terumbu
-Bemban, Jul 18  
-![](mertensii/180716tbay4a.jpg)*Photo shared
-by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10213758887378665&set=a.10213758475328364&type=3&theater).
 
-*![](mertensii/110422tbmlks2m3.jpg)* *Terumbu
-Bemban, Apr 11  
-![](mertensii/110422tbmlks3m3.jpg)*Photo shared
-by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bemban.html).
 
 ---
 
-*![](mertensii/100919rlhtch1m3.jpg)  
-Raffles Lighthouse, Sep 10![](mertensii/100919rlhtch2m3.jpg)*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/09/sad-sights-at-pulau-satumu.html).
 
-*![](mertensii/100919rlhnml1m3.jpg)  
-Raffles Lighthouse, Sep 10![](mertensii/100919rlhnml1m3a.jpg)*Photo shared by Neo Mei Lin
 
 ---
 
-*![](mertensii/100613snglks3m6l.jpg)*Bleaching. *Pulau Senang, Jun 10*
 
-*![](mertensii/100613snglks3m3a.jpg)*With anemone shrimp.  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719769650/)
 
 ---
 

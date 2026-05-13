@@ -2,12 +2,99 @@
 title: Barnacles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "barnacle, cirripedia, sessilia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Archaeobalanidae
 genus: ""
 species: ""
 updated: Mar 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngbarnacles)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg"
+  caption: |
+    <p>A variety of barnacles.</p>
+    <p>Tuas, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg"
+  caption: |
+    <p>The large <a href="tetraclita">Volcano barnacle</a> has a honey-combed internal structure  Chek Jawa, Apr 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3d.jpg"
+  caption: |
+    <p>A pair of plates form the operculum that seals the shell opening.</p>
+    <p>Tuas, May 05 What do they eat?</p>
+    <p>When the tide comes in, barnacles open up their plates and extend their feathery, segmented legs to gather plankton from the water.</p>
+    <p>The legs form a basket that scoops inwards where mouthparts scrape the edible particles off the legs and transfer these particles to the mouth.</p>
+    <p>'Cirripedia' means 'hairy foot'</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/080718wdld7698m3.jpg"
+  caption: |
+    <p>Feathery feet of a barnacle.</p>
+    <p>Woodlands, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg"
+  caption: |
+    <p>Feathery feet of barnacles in a living sponge.</p>
+    <p>Pulau Hantu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg"
+  caption: |
+    <p>Feathery feet of a barnacle on a living crab.</p>
+    <p>Changi, Jul 09 Barnacle babies: Barnacles are usually hermaphrodites, each barnacle having both male and female reproductive organs.</p>
+    <p>However, they don't self-fertilise.</p>
+    <p>They also don't release eggs and sperm into the water at the same time, like many other marine creatures.</p>
+    <p>Instead, they practice internal fertilisation.</p>
+    <p>As these animals cannot move, this is achieved by having tremendously long male organs!</p>
+    <p>Some have an organ that can reach another barnacle 7 shells away!</p>
+    <p>A study, however, has found that <a href="http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl">longer isn't always better</a>, for a 'male' barnacle.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/120223sltd7372m6la.jpg"
+  caption: |
+    <p>Like other crustaceans, barnacles also moult!Is the long structure its penis?!</p>
+    <p>Seletar, Feb 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/120223sltd7366m3.jpg"
+  caption: |
+    <p>Strange barnacles: Stalked or Goose barnacles are sometimes seen on our shores.</p>
+    <p>These barnacles have a distinct stalk that connects the body to the hard surface.</p>
+    <p><a href="lepas">Lepas sp.</a> has white plates and clumps of this species often attached to floating objections like boats or snail shells.</p>
+    <p>Some barnacles <a href="coral">burrow into living corals</a>, others may be found <a href="../../../porifera/chocolate">in sponges</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/others/050512tmg6400.jpg"
+  caption: |
+    <p>Periwinkles sheltering next to barnacles, with a small one inside shell of a dead barnacle.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg"
+  caption: |
+    <p>Barnacles on a living snail.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg"
+  caption: |
+    <p>Tiny egg sacs of a parasitic barnacle emerging through the joints of the crab that it infested.</p>
+    <p>Changi, Apr 05 Human uses: Barnacles are considered a menace to the shipping industry.</p>
+    <p>An encrustation of barnacles soon develops over every ship hull.</p>
+    <p>This reduces the speed of the ship and increases fuel consumption.</p>
+    <p>Efforts to deter barnacle infestation include coating ship hulls with a toxic paint.</p>
+    <p>However, this does not last and the toxic paint poisons the surroundings.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg"
+  caption: |
+    <p><a href="balanus">Acorn barnacle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/040502cjd0146m3.jpg"
+  caption: |
+    <p><a href="euraphia">Star barnacle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/050510tusg6179m3c.jpg"
+  caption: |
+    <p><a href="tetraclita">Volcano barnacle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg"
+  caption: |
+    <p><a href="lepas">Goose barnacle</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050622cftg8139m3b.jpg"
+  caption: |
+    <p><a href="balanus">Acorn barnacles on a living crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050206cjd0034m3.jpg"
+  caption: |
+    <p>Some barnacles are <a href="thompsonia">internal parasites</a>!</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/coral/070618rlhg0562m3a.jpg"
+  caption: |
+    <p><a href="coral">Coral barnacles</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg"
+  caption: |
+    <p><a href="sponge">Barnacles in a sponge</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -18,7 +105,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngbarnacles)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -72,32 +159,6 @@ by the shape of the operculum plates and number of wall plates.
   
 **Sometimes confused with** [limpets](../../../mollusca/gastropoda/limpets/limpet) which are snails. Here's more on how to tell apart [shelled
 animals found on rocks.](../../../glossary/limpetbarnacle)
-![](050510tusg6173m3.jpg)  
-A variety of barnacles. *Tuas, May 05*
-*![](tetraclita/020425cjd8321m3.jpg)*The large [Volcano barnacle](tetraclita) has   
-a honey-combed internal structure  *Chek Jawa, Apr 02*
-*![](tetraclita/050510tusg6179m3d.jpg)*A pair of plates form the operculum   
-that seals the shell opening. *Tuas, May 05*
-**What do they eat?** When the tide
-comes in, barnacles open up their plates and extend their feathery,
-segmented legs to gather plankton from the water. The legs form a
-basket that scoops inwards where mouthparts scrape the edible particles
-off the legs and transfer these particles to the mouth. 'Cirripedia'
-means 'hairy foot'
-![](balanus/080718wdld7698m3.jpg)  
-Feathery feet of a barnacle. *Woodlands, Jul 08*
-![](sponge/050509hntg5946m3b.jpg)Feathery feet of barnacles in a living sponge. *Pulau Hantu, May 05*
-*![](balanus/090622chgd4692m3a.jpg)*Feathery feet of a barnacle on a living crab.  
-*Changi, Jul 09*
-**Barnacle babies:** Barnacles are
-usually hermaphrodites, each barnacle having both male and female
-reproductive organs. However, they don't self-fertilise. They also
-don't release eggs and sperm into the water at the same time, like
-many other marine creatures. Instead, they practice internal fertilisation.
-As these animals cannot move, this is achieved by having tremendously
-long male organs! Some have an organ that can reach another barnacle
-7 shells away! A study, however, has found that [longer
-isn't always better](http://wildshores.blogspot.com/2009/04/barnacle-penis-longer-isnt-alwaysl), for a 'male' barnacle.  
   
 In some species, a miniature male-only individual settles into the
 'shell' of a larger member of its species. Reduced to little more
@@ -131,16 +192,6 @@ on a rock to settle down on. Each species of barnacle survives best
 in a spot where it does better than its competitors. As a result,
 different species of barnacles are found in [distinct
 zones](../../../concepts/zonation) on a rock.
-![](others/120223sltd7372m6la.jpg)  
-Like other crustaceans, barnacles also moult!Is the long structure its penis?! *Seletar, Feb 12*
-*![](others/120223sltd7366m3.jpg)*
-**Strange
-barnacles:** Stalked or Goose barnacles are sometimes seen
-on our shores. These barnacles have a distinct stalk that connects
-the body to the hard surface. [*Lepas* sp.](lepas) has white plates and clumps of this species often attached to floating
-objections like boats or snail shells. Some barnacles [burrow
-into living corals](coral), others may be found [in
-sponges](../../../porifera/chocolate).  
   
 Some barnacles have become parasites that live inside other animals.
 Parasitic barnacles such as [*Thompsonia* sp.](thompsonia) grow through the body of the host crab like a root system.
@@ -156,17 +207,6 @@ melongena snail](../../../mollusca/gastropoda/melogenidae/cochlidium) and other 
 hiding places for many small creatures. Sometimes you might see tiny
 mussels, small periwinkles and other animals hiding in the hollow
 shell of a dead barnacle.
-*![](others/050512tmg6400.jpg)*Periwinkles sheltering next to barnacles, with a small one inside shell of a dead barnacle. *Changi, Jun 05*
-*![](../../../mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3b.jpg)*Barnacles on a living snail. *Changi, Jun 05*
-![](parasitic/050428cftg5303m3a.jpg)  
-Tiny egg sacs of a parasitic barnacle emerging through the joints of the crab that it infested.  
-*Changi, Apr 05*
-**Human uses:** Barnacles are considered a menace to the shipping
-industry. An encrustation of barnacles soon develops over every ship
-hull. This reduces the speed of the ship and increases fuel consumption.
-Efforts to deter barnacle infestation include coating ship hulls with
-a toxic paint. However, this does not last and the toxic paint poisons
-the surroundings.   
   
 The barnacles' tendency to accumulate heavy metals in their plates,
 however, makes them useful as bio-indicators to measure water pollution.   
@@ -190,23 +230,13 @@ barnacles on Singapore shores**
 
 ---
 
-***![](balanus/050510tusg6179m3a.jpg)*[Acorn barnacle](balanus)**
 
-**![](euraphia/040502cjd0146m3.jpg)[Star barnacle](euraphia)**
 
-***![](tetraclita/050510tusg6179m3c.jpg)*[Volcano barnacle](tetraclita)**
 
-***![](lepas/040703sisd1824m3.jpg)* [Goose barnacle](lepas)**
 
-***![](parasitic/050622cftg8139m3b.jpg)*[Acorn barnacles  
-on a living crab](balanus)**
 
-***![](parasitic/050206cjd0034m3.jpg)*Some barnacles are  
-[internal parasites](thompsonia)!**
 
-***![](coral/070618rlhg0562m3a.jpg)* [Coral barnacles](coral)**
 
-***![](sponge/080519sisd3438m3b.jpg)* [Barnacles in a sponge](sponge)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Broad strap brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "no, vein, branch, brown, seaweed, weed, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
 genus: Stypopodium
@@ -16,6 +16,20 @@ class: Phaeophyceae
 subclass: Dictyotophycidae
 order: Dictyotales
 updated: Sep 15
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/110220lazd6300m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/100809cyrd9709m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -55,15 +69,10 @@ near the ends on the same plane into flat strips. Tips squarish or
 irregularly ragged. There is no "vein" down the centre of
 the blade. Colours golden, yellowish to reddish brown.
 
-*![](noveinbranch/100809cyrd9709m3.jpg)  
-Cyrene Reef, Aug 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](noveinbranch/110220lazd6300m3a.jpg)*
 
-*![](noveinbranch/110220lazd6300m3.jpg)  
-Lazarus Island, Feb 11*
 
-*![](noveinbranch/100809cyrd9709m3a.jpg)*
 
   
 *\*Seaweed species are

@@ -2,7 +2,7 @@
 title: Curvespine cuttlefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "curve, spine, cuttlefish, sepia, recurvirostra, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Sepiidae
 genus: Sepia
 species: recurvirostra
@@ -18,6 +18,43 @@ order: Sepiida
 suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg"
+  caption: |
+    <p>Changi, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3d.jpg"
+  caption: |
+    <p>Spine sticking out of the back end.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg"
+  caption: |
+    <p>Inking.</p>
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg"
+  caption: |
+    <p>Only slightly bigger than a blade of seagrass.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/050428chgg5294.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/130624chglks.JPG"
+  caption: |
+    <p>Changi, Jun 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/06/lots-of-masked-burrowing-crabs-at-changi.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/230605chg7ky2.jpg"
+  caption: |
+    <p>Changi, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168422041295112/245475858099008">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/100711cyrlks10m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/210430sjilks1.jpg"
+  caption: |
+    <p>St John's Island, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159166986738158&set=a.10159166993588158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/171105cjay3.jpg"
+  caption: |
+    <p>Chek Jawa, Nov 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211945516285521&set=a.10211945511485401&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/070419chgg8761m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -64,24 +101,14 @@ of the middle arms are often held upright.
 **Human uses:** The cuttlefish is
 harvested commercially in Hong Kong and Thailand by traw and net.
 
-![](cutcurvespine/070419chgg8761m3.jpg)  
-*Changi, Apr 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cutcurvespine/070419chgg8761m3d.jpg)  
-Spine sticking out of the back end.
 
-![](cutcurvespine/070419chgg8761m3a.jpg)
 
 ---
 
-![](cutcurvespine/030518cjad0014m3.jpg)  
-Inking. *Chek Jawa, May 05*
 
-![](cutcurvespine/030928cjd0029.jpg)  
-Only slightly bigger than a blade of seagrass. *Chek Jawa, Sep 03*
 
-![](cutcurvespine/050428chgg5294.jpg)  
-*Changi, Apr 05*
 
 ---
 
@@ -100,25 +127,14 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](cutcurvespine/130624chglks.JPG)  
-*Changi, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/lots-of-masked-burrowing-crabs-at-changi.html).
 
-![](cutcurvespine/230605chg7ky2.jpg)  
-*Changi, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168422041295112/245475858099008).
 
 ---
 
-![](cutcurvespine/100711cyrlks10m6l.jpg)  
-*Cyrene Reef, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html).
 
 ---
 
-![](cutcurvespine/210430sjilks1.jpg)  
-*St John's Island, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159166986738158&set=a.10159166993588158).
 
-![](cutcurvespine/171105cjay3.jpg)  
-*Chek Jawa, Nov 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10211945516285521&set=a.10211945511485401&type=3&theater).
 
 ---
 

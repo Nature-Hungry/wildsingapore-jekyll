@@ -2,7 +2,7 @@
 title: "Batfishes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "batfish, bat, fish, ephippidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Ephippidae
 genus: ""
@@ -16,6 +16,59 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg"
+  caption: |
+    <p>St John's Island, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110814smkd8916.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/070520smkg9473m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/091011mkbd2712m3.jpg"
+  caption: |
+    <p>Marina at Keppel Bay, Oct 09 Make like a leaf: Sometimes, may lie on the side, floating in the water to mimic leaves or flat against the surface mimicking toxic flatworms.</p>
+    <p>In some species, the juveniles are found with <a href="../../../echinodermata/crinoidea/crinoidea">feather stars</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8407m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/160508kusd1906.jpg"
+  caption: |
+    <p>Resembles a floating leaf.</p>
+    <p>Kusu Island, May 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0775m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0776m3.jpg"
+  caption: |
+    <p>A tiny Batfish swallowing a fish almost as large as itself!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/110831tmnbd0786m3.jpg"
+  caption: |
+    <p>Finished swallowing its prey!</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/090807tmjk4m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120818lazlks.JPG"
+  caption: |
+    <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519800331/in/album-72157625976409015/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/240820kustt1.jpg"
+  caption: |
+    <p>Kusu Island, Aug 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234988852560498&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/250430sjiml8.jpg"
+  caption: |
+    <p>St John's Island, Apr 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/081114cyrlks06m3.JPG"
+  caption: |
+    <p>Cyrene Reef, Nov 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/241116smksky2.jpg"
+  caption: |
+    <p>Pulau Semakau (South), Nov 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10170350037815112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/240526bbbrg1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2931753916967242&set=a.2931754650300502">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ephippidae/platax/120408sjid8416.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,43 +112,18 @@ different in colour and pattern and have very elongated dorsal and
 anal fins. Those seen 12-15cm long usually with two dark bars, one
 through the eye, on an orange body. The species are difficult to distinguish
 without examination of small body parts.
-*![](platax/120408sjid8416.jpg)  
-St John's Island, Apr 12* 
-*![](platax/110814smkd8916.jpg)  
-Pulau Semakau, Aug 11*
-*![](platax/070520smkg9473m6l.jpg)  
-Pulau Semakau, May 07*
-*![](platax/091011mkbd2712m3.jpg)  
-Marina at Keppel Bay, Oct 09* 
-**Make like a leaf:** Sometimes, may lie on the side, floating
-in the water to mimic leaves or flat against the surface mimicking
-toxic flatworms. In some species, the juveniles are found with [feather
-stars](../../../echinodermata/crinoidea/crinoidea).   
+{% include img-wrap-group.html items=page.page_images %}
   
 **May be confused with** the [Silver
 moony](../monodactylidae/argenteus) (Family Monodactylidae).
 
-*![](platax/120408sjid8407m3.jpg)  
-St. John's
-Island, Apr 12*
 
-![](platax/160508kusd1906.jpg)  
-Resembles a floating leaf. *Kusu Island, May 16*
 
 **What do they eat?** They feed on
 seaweeds and small animals.
 
-![](platax/110831tmnbd0775m3.jpg)  
-*Tanah Merah,
-Aug 11*
 
-![](platax/110831tmnbd0776m3.jpg)  
-A tiny Batfish
-swallowing a fish   
-almost as large as itself!
 
-![](platax/110831tmnbd0786m3.jpg)  
-Finished swallowing its prey!
 
 **Human
 uses:** Juvenile batfishes are often taken from the wild
@@ -123,36 +151,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](platax/090807tmjk4m3.jpg)  
-*Tanah Merah, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishesl).
 
-*![](platax/120818lazlks.JPG)  
-Seringat-Kias, Aug 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8519800331/in/album-72157625976409015/).
 
-*![](platax/240820kustt1.jpg)  
-Kusu Island, Aug 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10234988852560498&type=3&ref=embed_post).
 
 ---
 
-![](platax/250430sjiml8.jpg)*St John's Island, Apr 25*   
-Photo shared by Mathias Luk on [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R).
 
 ---
 
-*![](platax/081114cyrlks06m3.JPG)  
-Cyrene Reef,
-Nov 08*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/11/evening-with-cyrenel).
 
-*![](platax/241116smksky2.jpg)  
-Pulau Semakau (South), Nov 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10170350037815112&type=3&ref=embed_post).
 
-*![](platax/240526bbbrg1.jpg)  
-Beting Bemban Besar, May 24*Photo
-shared by Rachael Goh on [facebook](https://www.facebook.com/photo/?fbid=2931753916967242&set=a.2931754650300502).
 
 ---
 

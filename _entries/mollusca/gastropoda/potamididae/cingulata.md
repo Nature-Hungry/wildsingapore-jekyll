@@ -2,7 +2,7 @@
 title: "Girdled horn snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "girdled, horn, cerithidea, cingulata, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 78, 100, 111, 123]
 family: Potamididae
 genus: Cerithidea
@@ -15,6 +15,17 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
+  caption: |
+    <p>Kusu Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3b.jpg"
+  caption: |
+    <p>Flared shell opening with spout-like tip.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,13 +69,9 @@ spout-like tip. Operculum thin, dark with tight spirals.
 **Sometimes confused with** [Bazillion
 snails](../batillariidae/zonalis.htm) which does not have flared shell opening and spout-like tip.
 
-*![](cingulata/070505kusg9136m3.jpg)  
-Kusu Island, May 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](cingulata/070505kusg9136m3a.jpg)*
 
-![](cingulata/070505kusg9136m3b.jpg)  
-Flared shell opening with spout-like tip.
 
 **What does it eat?** It grazes on
 tiny things growing or settling on the muddy bottom, such as diatoms,

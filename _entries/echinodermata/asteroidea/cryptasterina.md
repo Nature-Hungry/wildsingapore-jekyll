@@ -2,7 +2,7 @@
 title: Cryptic sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea star, seastar, starfish, star, fish, crypasterina, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 91, 92, 106]
 family: Asterinidae
 genus: Cryptasterina
@@ -16,6 +16,54 @@ class: Asteroidea
 superorder: Valvatacea
 order: Valvatida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2969m3b.jpg"
+  caption: |
+    <p>Stubby papulae stick out on the upper surface</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2983m3.jpg"
+  caption: |
+    <p>Several found under a stone.</p>
+    <p>Pulau Semakau, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2972m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2972m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/151001blyjt4m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/151001blyjt2m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/171009blylks1.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155763644893158&set=pcb.10155763646593158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/200210blylks8.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967184648158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/240212sjilks2.jpg"
+  caption: |
+    <p>St John's Island, Feb 24Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161195584493158&set=a.10161195589918158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/110702lzrlks5m3.jpg"
+  caption: |
+    <p>Lazarus, Jul 11Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/110702lzrlks6m3.jpg"
+  caption: |
+    <p>Lazarus, Jul 11Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/110702lzrlks8m3.jpg"
+  caption: |
+    <p>Lazarus, Jul 11Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/160208smkslks4.JPG"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakaul">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/220717smknlks1.jpg"
+  caption: |
+    <p>Pulau Semakau (North), Jul 22Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159997388298158&set=a.10159997391883158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/cryptasterina/080510smkd2969m3.jpg"
 ---
 
 
@@ -58,21 +106,11 @@ algae, detritus, small animals and the biofilm found on the surface of the stone
 is listed as 'Vulnerable' in the Red List of threatened animals of
 Singapore.
 
-![](cryptasterina/080510smkd2969m3.jpg)  
-*Pulau Semakau,
-May 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](cryptasterina/080510smkd2969m3b.jpg)*  
-Stubby papulae stick out on the upper surface
 
-![](cryptasterina/080510smkd2983m3.jpg)  
-Several found
-under a stone. *Pulau Semakau, May 08*
 
-*![](cryptasterina/080510smkd2972m3.jpg)*  
-Underside
 
-*![](cryptasterina/080510smkd2972m3b.jpg)*
 
 ---
 
@@ -91,44 +129,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](cryptasterina/151001blyjt4m3.jpg)  
-*Berlayar Creek, Oct 15*Shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3).
 
-![](cryptasterina/151001blyjt2m3.jpg)  
-*Berlayar Creek, Oct 15*Shared by Jonathan Tan on [facebook](https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3).
 
-![](cryptasterina/171009blylks1.jpg)  
-*Berlayar Creek, Oct 17*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155763644893158&set=pcb.10155763646593158&type=3&theater).
 
 ---
 
-![](cryptasterina/200210blylks8.jpg)  
-*Berlayar Creek, Feb 20*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157967184648158&set=a.10157967182933158&type=3&theater).
 
-![](cryptasterina/240212sjilks2.jpg)  
-*St John's Island, Feb 24*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10161195584493158&set=a.10161195589918158).
 
 ---
 
-![](cryptasterina/110702lzrlks5m3.jpg)  
-*Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
-![](cryptasterina/110702lzrlks6m3.jpg)  
-*Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
-![](cryptasterina/110702lzrlks8m3.jpg)  
-*Lazarus, Jul 11*Shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
 
 ---
 
-![](cryptasterina/160208smkslks4.JPG)  
-*Pulau Semakau South, Feb 16*Shared by Loh Kok Sheng on [facebook](http://wondercreation.blogspot.sg/2016/02/cny-day-1-southern-semakaul).
 
-![](cryptasterina/220717smknlks1.jpg)  
-*Pulau Semakau (North), Jul 22*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159997388298158&set=a.10159997391883158).
 
 ---
 
@@ -143,5 +158,3 @@ blog](http://wondercreation.blogspot.com/2011/07/walk-around-lazarus-islandl).
   G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
   Red Data Book: Threatened plants and animals of Singapore*.
   Nature Society (Singapore). 285 pp.
-
-

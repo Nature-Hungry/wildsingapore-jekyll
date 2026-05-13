@@ -2,7 +2,7 @@
 title: "Red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, seaweed, weed, algae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: ""
 genus: ""
@@ -12,6 +12,44 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 11
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngseaweed)</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050210kusd0090m3.jpg"
+  caption: |
+    <p>Kusu Island, Feb 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/solieria/040730skdd3322m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/salicornia/050526cjg6877m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/gracilaria/050609cftg7426m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050326cjg3729m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861ma.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/dilatata/040719sntd2843m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/halymenia/050311labg3239m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/050918smkg2673m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m.jpg"
+  caption: |
+    <p></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -22,7 +60,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -99,18 +137,7 @@ used throughout the world as an emulsifier and stabiliser in food
 and pharmaceutical products. Agar, on the other hand is used as a
 solidifying agent.
 
-![](halymenia/050210kusd0090m3.jpg) *Kusu Island, Feb 05*
 
-![](solieria/040730skdd3322m.jpg)
-![](salicornia/050526cjg6877m.jpg)
-![](gracilaria/050609cftg7426m.jpg)
-![](acanthophora/050326cjg3729m.jpg)
-![](encrust/050610sntg7603m.jpg)
-![](catstail/050329sntg3861ma.jpg)
-![](dilatata/040719sntd2843m.jpg)
-![](halymenia/050311labg3239m.jpg)
-![](pomflat/050918smkg2673m.jpg)
-![](pomslender/050720sntg9570m.jpg)
 
 ---
 

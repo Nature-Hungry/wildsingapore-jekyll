@@ -2,7 +2,7 @@
 title: Passion salmacis urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, urchin, salmacis, virgulata, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 92, 93, 94]
 family: Temnopleuridae
 genus: Salmacis
@@ -19,6 +19,51 @@ subterclass: Echinacea
 order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg"
+  caption: |
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg"
+  caption: |
+    <p>Tip sharp spines at the top, longer flattened spines on the sides.</p>
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg"
+  caption: |
+    <p>Spines around mouth banded.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/080605chglks.JPG"
+  caption: |
+    <p>Changi, Jun 08 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2903250543/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/120802chglks.JPG"
+  caption: |
+    <p>Changi, Aug 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8503574648/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210527chg4lks2.jpg"
+  caption: |
+    <p>Changi Carpark 4, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159229967713158&set=a.10159229976888158">facbook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/071225cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5147337981/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/160607bbro6.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/210628ecpBlks4.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300986043158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/170528cyrtch2.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155423536838713.1073742092.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/110830cyrlks2.JPG"
+  caption: |
+    <p>Cyrene Reef, Aug 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6119786227/in/album-72157607718672165/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -51,18 +96,11 @@ Apr 2020*
 **Where
 seen?** This sea urchin with maroon spines is sometimes seen our Northern shores among seagrasses. It is seen among White sea urchins but are much fewer in number. **Features:** Body diameter 5-8cm, usually white sometimes yellow. Spines short (1-1.5cm) uniformly maroon (not banded), except for those around the mouth (on the underside). Spines
 on the upper side are short, slender and sharp. Spines on the sides and underside are longer, thicker and have flattened tips. Spines around the mouth may be banded white and maroon. Long white tube feet.  
-![](virgulata/060529chgd2487m3.jpg)  
-*Changi, May 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](virgulata/060529chgd2487m3d.jpg)*Tip sharp spines at the top,   
-longer flattened spines on the sides. **Changi, May 06**
 
-![](virgulata/060529chgd2490m3.jpg)  
-Underside.
 
-*![](virgulata/060529chgd2490m3a.jpg)*Spines around mouth banded.
 
-![](virgulata/060529chgd2490m3b.jpg)
 
 ---
 
@@ -81,52 +119,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](virgulata/080605chglks.JPG)  
- *Changi,
-Jun 08*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2903250543/in/album-72157607622389163/).
 
-![](virgulata/120802chglks.JPG)  
- *Changi,
-Aug 12*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8503574648/in/album-72157607622389163/).
 
-![](virgulata/210527chg4lks2.jpg)  
- *Changi Carpark 4, May 21*  
-Photo shared by Loh Kok Sheng on [facbook](https://www.facebook.com/photo/?fbid=10159229967713158&set=a.10159229976888158).
 
 ---
 
-![](virgulata/071225cjlks.JPG)  
- *Chek Jawa,
-Jul 12*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5147337981/in/album-72157607712316054/).
 
-![](virgulata/160607bbro6.jpg)  
- *Beting Bronok,
-Jun 16*  
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3).
 
-![](virgulata/210628ecpBlks4.jpg)  
-*East Coast Park (B), Jun 21*   
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159300986043158&set=a.10159300990763158).
 
 ---
 
-*![](virgulata/170528cyrtch2.jpg)  
-Cyrene Reef, Jun 17*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155423536838713.1073742092.619308712&type=3).
 
-![](virgulata/110830cyrlks.JPG)  
- *Cyrene Reef,
-Aug 11*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
-![](virgulata/110830cyrlks2.JPG)  
- *Cyrene Reef,
-Aug 11*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6119786227/in/album-72157607718672165/).
 
 ---
 

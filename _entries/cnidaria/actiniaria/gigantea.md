@@ -2,7 +2,7 @@
 title: Giant carpet anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, carpet, anemone, stichodactyla, gigantea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 9, 15, 19, 25, 47, 48, 79, 88, 113]
 family: Stichodactylidae
 genus: Stichodactyla
@@ -17,6 +17,106 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jul 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3a.jpg"
+  caption: |
+    <p>Rows of colourful verrucae on upper portion of the underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140713tsmkd7155m3c.jpg"
+  caption: |
+    <p>Tentacles not tightly packed.</p>
+    <p>Sometimes confused with other large anemones and similar large cnidarians.</p>
+    <p>Here's more on how to tell apart <a href="stichodactyla.htm">the different kinds of carpet anemones</a> and <a href="cfbiglong.htm">large sea anemones with long tentacles</a> and <a href="../cflargecnidarians.htm">large 'hairy' cnidarians</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/121115tsmkd1073m3.jpg"
+  caption: |
+    <p>Tentacles may stick to finger and break off.</p>
+    <p>Terumbu Semakau, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/070701hntg0823m3.jpg"
+  caption: |
+    <p>The <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone shrimp</a> and small <a href="../../vertebrates/fish/pomacentridae/ocellaris.htm">False clown anemonefish</a> in a Giant carpet anemone.</p>
+    <p>Pulau Hantu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg"
+  caption: |
+    <p><a href="../../vertebrates/fish/pomacentridae/ocellaris.htm">Clown anemonefish</a> in a Giant carpet anemone.</p>
+    <p>Sisters Island, Aug 09 Giant friends: Besides the symbiotic algae that lives inside the their tentacles several kinds of animals have been associated with giant carpet anemones.</p>
+    <p>These include anemone shrimps (Periclimenes sp.), and fishes such as <a href="../../vertebrates/fish/pomacentridae/trimaculatus.htm">Three-spot dascyllus</a> and <a href="../../vertebrates/fish/pomacentridae/amphiprion.htm">anemonefishes</a> (Amphiprion sp.) including A.</p>
+    <p>akindynos, A.</p>
+    <p>bicinctus, A.</p>
+    <p>clarkii, A.</p>
+    <p>ocellaris, A.</p>
+    <p>percula, A.</p>
+    <p>perideraion, A.</p>
+    <p>polymnus.</p>
+    <p>But so far, the only animals observed on giant carpet anemones were: the <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone shrimps</a> and the <a href="../../vertebrates/fish/pomacentridae/ocellaris.htm">Clown anemonefish</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/250501skddc2.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 25Photo shared by Dayna Cheah on <a href="https://www.facebook.com/media/set/?set=a.9538001149649909&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/140518tmlks4m3.JPG"
+  caption: |
+    <p>Tanah Merah, May 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/151001blylks10m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/170822labjt1.jpg"
+  caption: |
+    <p>Labrador, Aug 17Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10155611793568119.1073741945.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/260104trmrqo11.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/241019lazccn1.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101106burlks4m3.JPG"
+  caption: |
+    <p>Terumbu Buran, Nov 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buran.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/101108bkoms00610m4.jpg"
+  caption: |
+    <p>Terumbu Bukom, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091204pawd0076m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4269m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4269m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5664m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5664m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5632m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100613sngd5632m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100130brkd8696m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100131slud8882m3a.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091205sudjk7m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171195679/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100531biod4500m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/091231biod6992m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/gigantea/100530tbkd4312m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +127,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -82,16 +182,6 @@ The tentacles are very sticky and may stick to a finger and break
 off. It does not have a fringe of long-short tentacles at the edge
 of the oral disk like [Haddon's
 carpet anemone](/wildfacts/cnidaria/actiniaria/haddoni.htm).
-![](gigantea/140713tsmkd7155m3.jpg) *Terumbu Semakau**, Jul 14*
-![](gigantea/140713tsmkd7155m3a.jpg)Rows of colourful verrucae on  
-upper portion of the underside.
-![](gigantea/140713tsmkd7155m3c.jpg)Tentacles not tightly packed.
-**Sometimes confused with** other
-large anemones and similar large cnidarians. Here's more on how
-to tell apart [the different kinds of carpet
-anemones](stichodactyla.htm) and [large
-sea anemones with long tentacles](cfbiglong.htm) and [large
-'hairy' cnidarians](../cflargecnidarians.htm).  
   
 **Carpet food:**  Carpet anemones
 harbour symbiotic single-celled algae (called zooxanthellae). The
@@ -101,24 +191,6 @@ the algae with shelter and minerals. The zooxanthellae are believed
 to give tentacles their brown or greenish tinge. Carpet anemones may
 also feed on fine particles that are trapped on their bodies. These
 anemones have not been observed to eat large animals.
-*![](gigantea/121115tsmkd1073m3.jpg)*Tentacles may stick to finger and break off.  
-*Terumbu Semakau, Nov 12*
-*![](gigantea/070701hntg0823m3.jpg)*The [Peacock-tail
-anemone shrimp](../../crustacea/othercrust/shrimp/brevicarpalis.htm)   
-and small [False
-clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.htm)   
-in a Giant carpet anemone. *Pulau Hantu, Jul 07*
-![](../../vertebrates/fish/pomacentridae/ocellaris/090822sisd9681m3.jpg)  
-[Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.htm)   
-in a Giant carpet anemone. *Sisters Island, Aug 09*
-**Giant friends:** Besides the symbiotic
-algae that lives inside the their tentacles several kinds of animals
-have been associated with giant carpet anemones. These include anemone
-shrimps (*Periclimenes* sp.), and fishes such as [Three-spot dascyllus](../../vertebrates/fish/pomacentridae/trimaculatus.htm) and [anemonefishes](../../vertebrates/fish/pomacentridae/amphiprion.htm) (*Amphiprion* sp.) including *A. akindynos, A. bicinctus, A.
-clarkii, A. ocellaris*, *A. percula, A. perideraion, A. polymnus*.
-But so far, the only animals observed on giant carpet anemones were:
-the [Peacock-tail
-anemone shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.htm) and the [Clown anemonefish](../../vertebrates/fish/pomacentridae/ocellaris.htm).  
   
 **Stinging carpet!**Like other
 anemones, the Carpet anemone has stingers in its tentacles. Generally,
@@ -150,90 +222,35 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](gigantea/250501skddc2.jpg)  
-Pulau Sekudu, May 25*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/media/set/?set=a.9538001149649909&type=3&ref=embed_post).
 
 ---
 
-*![](gigantea/140518tmlks4m3.JPG)  
-Tanah Merah,
-May 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html).
 
-*![](gigantea/151001blylks10m3.jpg)  
-Berlayar Creek, Oct 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story).
 
-*![](gigantea/170822labjt1.jpg)  
-Labrador, Aug 17*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10155611793568119.1073741945.696593118&type=3).
 
 ---
 
-*![](gigantea/260104trmrqo11.jpg)  
-Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post).
 
-*![](gigantea/241019lazccn1.jpg)  
-Lazarus Island, Oct 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654).
 
 ---
 
-*![](gigantea/101106burlks4m3.JPG)  
-Terumbu Buran, Nov 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/adventurous-landing-on-terumbu-buran.html).
 
-*![](gigantea/101108bkoms00610m4.jpg)  
-Terumbu Bukom,
-Nov 10*
 
-![](gigantea/091204pawd0076m3.jpg)  
-*Pulau Pawai,
-Dec 09*
 
 ---
 
-![](gigantea/100530tbkd4269m3.jpg)  
-*Pulau Berkas,
-May 10  
-![](gigantea/100530tbkd4269m3a.jpg)*Bleaching.
 
-![](gigantea/100613sngd5664m3.jpg)  
-*Pulau Senang,
-Jun 10  
-![](gigantea/100613sngd5664m3a.jpg)*Bleaching.
 
-*![](gigantea/100613sngd5632m3.jpg)  
-Pulau Senang,
-Jun 10  
-![](gigantea/100613sngd5632m3a.jpg)  
-Bleaching.*
 
 ---
 
-![](gigantea/100130brkd8696m3.jpg)  
-*Terumbu Berkas,
-Jan 10*
 
-![](gigantea/100131slud8882m3a.jpg)  
-*Terumbu Salu,
-Jan 10*
 
-![](gigantea/091205sudjk7m3.jpg)  
-*Pulau Sudong,
-Dec 09*Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171195679/).
 
 ---
 
-![](gigantea/100531biod4500m3.jpg)  
-*Pulau Biola,
-May 10*
 
-![](gigantea/091231biod6992m3.jpg)  
-*Pulau Biola,
-Dec 09*
 
-![](gigantea/100530tbkd4312m3.jpg)  
-*Pulau Berkas,
-May 10*
 
 ---
 

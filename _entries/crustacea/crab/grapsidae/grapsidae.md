@@ -2,7 +2,7 @@
 title: "Grapsid crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grapsus, crab, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Grapsidae
 genus: ""
 species: ""
@@ -23,6 +23,14 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg"
+  caption: |
+    <p><a href="metopograpsus">Purple climber crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/albolineatus/050410kusg4263m3.jpg"
+  caption: |
+    <p><a href="albolineatus">Sally-light-foot crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101224sisd4109m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,10 +98,7 @@ crabs on Singapore shores**
 
 ---
 
-**![](metopograpsus/101224sisd4109m3.jpg)  
-[Purple climber crab](metopograpsus)**
-***![](albolineatus/050410kusg4263m3.jpg)*****[Sally-light-foot
-crab](albolineatus)**
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---

@@ -2,7 +2,7 @@
 title: Shadow goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "shadow, goby, yongeichthys, acentrogobius, nebulosus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Acentrogobius
@@ -18,6 +18,39 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg"
+  caption: |
+    <p>Sometimes several seen together.</p>
+    <p>Changi, Jul 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m6l.jpg"
+  caption: |
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/170723ubnay5.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150619tusmn1m3.jpg"
+  caption: |
+    <p>Tuas, Jun 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152990502993660.1073741864.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/201116lazmn4.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157847403768660&set=a.10157847412818660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/250909laztt7.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/250810bsismn7.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/130112smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Jan 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8405169135/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/110522bbbrl7m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/110517tptlks9m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/150716chgsafd7572.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,11 +89,8 @@ nebulosus*.
 seen from 4-6cm. It has large eyes and three large dark brown blotches
 on the sides of the body (not easily seen from the top).
 
-![](nebulosus/150716chgsafd7572.jpg)  
-Sometimes several seen together. *Changi, Jul 15*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nebulosus/060726chgd4918m6l.jpg)  
-*Changi, Jul 06*
 
 **Tough little goby:**  It seems
 to be able to withstand heat and several are commonly seen in shallow
@@ -87,36 +117,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](nebulosus/170723ubnay5.jpg)  
- *Pulau Ubin, Jul 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3).
 
-![](nebulosus/150619tusmn1m3.jpg)  
- *Tuas, Jun 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152990502993660.1073741864.624178659&type=3).
 
 ---
 
-![](nebulosus/201116lazmn4.jpg)  
-*Lazarus Island, Nov 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157847403768660&set=a.10157847412818660).
 
-![](nebulosus/250909laztt7.jpg)  
-*Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post).
 
 ---
 
-![](nebulosus/250810bsismn7.jpg)  
-*Big Sisters, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post).
 
 ---
 
-![](nebulosus/130112smkmn.jpg) *Pulau Semakau, Jan 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8405169135/).
 
 ---
 
-![](nebulosus/110522bbbrl7m3.jpg) *Beting Bemban Besar, May 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947).
 
-![](nebulosus/110517tptlks9m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
 
 ---
 

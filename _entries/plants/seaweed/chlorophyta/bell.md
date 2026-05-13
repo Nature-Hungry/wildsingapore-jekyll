@@ -2,7 +2,7 @@
 title: Bell sea grapes seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, turbinata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
@@ -15,6 +15,29 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5132m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/060727jngd5133m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/200626tptvc5.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750328097945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/100519tsmc4159m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,14 +84,9 @@ from green to bluish-green.
 sea grape seaweeds](lentillifera) (*Caulerpa lentillifera*). Here's more
 on [how to tell apart the sea grapes seaweeds](cfgrapes).
 
-![](bell/100519tsmc4159m3.jpg)  
-*Terumbu Semakau, May 10*![](bell/100519tsmc4159m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bell/080510smkd3075m3.jpg)  
-*Pulau Semakau, May 08*![](bell/080510smkd3075m3b.jpg)
 
-![](bell/060727jngd5132m3.jpg)  
-*Pulau Jong, Jul 06*![](bell/060727jngd5133m3a.jpg)
 
   
 *\*Species are difficult to positively identify without close examination
@@ -93,8 +111,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bell/200626tptvc5.jpg)  
-Terumbu Pempang Tengah, Jun 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157750328097945&set=a.10157750324127945&type=3&theater).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Bandit coral crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "face, banded, coral, crab, tetralia, nigrolineata, tetraliidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Trapezioidea
 genus: Tetralia
@@ -23,6 +23,74 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Trapezioidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/110704srplks.JPG"
+  caption: |
+    <p>Tanah Merah, Jul 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/07/underwater-garden-of-sentosa-atl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/160806tpllks4.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154410920233158&set=a.10154410914668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/060305sisd0062m3a.jpg"
+  caption: |
+    <p>Sisters Island, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/06/checkup-on-tanah-merah-coral-gardenl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100615tmjk4m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/130527tmlks.jpg"
+  caption: |
+    <p>Tanah Merah, May 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/220618tmftky3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167135087395112&set=a.10167135084985112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/230608tmftlks4.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160717499173158&set=a.10160717509253158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100529kusjk1m3.jpg"
+  caption: |
+    <p>Kusu Island, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl">his blog</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/240608kustl7.jpg"
+  caption: |
+    <p>Kusu Island, Jun 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161279668269264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/140728sislks.JPG"
+  caption: |
+    <p>Sisters Islands, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/07/our-first-marine-park-on-sisters-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/110619tslgjk1m3.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/150830hntmn1m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153145685398660.1073741879.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/230805thnttl1.jpg"
+  caption: |
+    <p>Terumbu Hantu, Aug 23Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10160757459969264&set=a.10160757386514264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/150717smksnml3m3.jpg"
+  caption: |
+    <p>Pulau Semakau South, Jul 15Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/180717smkejc.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 18Photo shared by Jesselyn Chua on <a href="https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10157747181424517.1073741872.729329516&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/160313trymn5.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/161117rlhhpy2.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Nov 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/160821rlhmn1.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100131slulks4m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100131slulks5m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4351201242/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/100612sngmn.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695700898/in/photolist-3ekhKH-3ekhKB-akqAvz-akqsMT-89WGhj-89Tren-85QmXj">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/bandit/110704srplks.JPG"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,15 +137,9 @@ dark band with a fine glittering blue line on the lower edge of this band.
 the mucus produced by the hard coral, gathering these with the minute
 comb-like structures at the tips of its feet.
 
-*![](bandit/110704srplks.JPG)*  
-*Tanah Merah, Jul 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/07/underwater-garden-of-sentosa-atl).
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bandit/160806tpllks4.jpg)*  
-*Terumbu Pempang Laut, Aug 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154410920233158&set=a.10154410914668158&type=3&theater).
 
-*![](bandit/060305sisd0062m3a.jpg)*  
-*Sisters Island,
-Mar 06*
 
 ---
 
@@ -96,86 +158,38 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bandit/100615tmlks.JPG)*  
-*Tanah Merah, Jun 10*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2010/06/checkup-on-tanah-merah-coral-gardenl).
 
-*![](bandit/100615tmjk4m3.jpg)*  
-*Tanah Merah,
-Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
-*![](bandit/130527tmlks.jpg)*  
-*Tanah Merah, May 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/corals-galore-on-reclaimed-shores-ofl).
 
 ---
 
-*![](bandit/220618tmftky3.jpg)*  
-*Tanah Merah Ferry Terminal, Jun 22*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167135087395112&set=a.10167135084985112).
 
-*![](bandit/230608tmftlks4.jpg)*  
-*Tanah Merah Ferry Terminal, Jun 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160717499173158&set=a.10160717509253158).
 
 ---
 
-*![](bandit/100529kusjk1m3.jpg)*  
-*Kusu Island,
-May 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl)..
 
-![](bandit/240608kustl7.jpg)  
- *Kusu Island, Jun 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10161279668269264).
 
 ---
 
-*![](bandit/140728sislks.JPG)*  
-*Sisters Islands, Jul 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/07/our-first-marine-park-on-sisters-islandl).
 
-*![](bandit/110619tslgjk1m3.jpg)  
-Terumbu Selegie, Jun 11*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil).
 
 ---
 
-*![](bandit/150830hntmn1m3.jpg)*  
-*Pulau Hantu, Jul 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153145685398660.1073741879.624178659&type=3).
 
-*![](bandit/230805thnttl1.jpg)*  
-*Terumbu Hantu, Aug 23*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10160757459969264&set=a.10160757386514264).
 
 ---
 
-*![](bandit/150717smksnml3m3.jpg)*  
-*Pulau Semakau South, Jul 15*Photo shared by Neo Mei Lin on [her blog](http://psychedelic-nature.blogspot.sg/2015/07/trilogy-of-pulau-semakau-17072015l).
 
-*![](bandit/180717smkejc.jpg)*  
-*Pulau Semakau East, Jul 18*Photo shared by Jesselyn Chua on [facebook](https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10157747181424517.1073741872.729329516&type=3).
 
 ---
 
-*![](bandit/160313trymn5.jpg)*  
-*Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3)
 
-*![](bandit/161117rlhhpy2.jpg)*  
-*Raffles Lighthouse, Nov 16*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10154634910649000.1073741996.589418999&type=3).
 
-*![](bandit/160821rlhmn1.jpg)*  
-*Raffles Lighthouse, Aug 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3).
 
 ---
 
-*![](bandit/100131slulks4m3.jpg)*  
-*Terumbu Salu,
-Jan 10*
 
-*![](bandit/100131slulks5m3.jpg)*  
-Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4351201242/).
 
-*![](bandit/100612sngmn.jpg)  
-Pulau Senang, Jun 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4695700898/in/photolist-3ekhKH-3ekhKB-akqAvz-akqsMT-89WGhj-89Tren-85QmXj).
 
 ---
 

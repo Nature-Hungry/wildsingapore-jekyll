@@ -2,7 +2,7 @@
 title: "Sea pencil "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Veretillidae
 genus: Lituaria
 species: ""
@@ -16,6 +16,50 @@ subclass: Octocorallia
 order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg"
+  caption: |
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2484m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg"
+  caption: |
+    <p>Half dead specimen washed ashore.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3a.jpg"
+  caption: |
+    <p>Skeleton of the central stalk Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/anomura/porcellanidae/picta">Painted porcelain crab</a> seen on a Sea pencil.</p>
+    <p>Changi, Oct 07Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/1485157754/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg"
+  caption: |
+    <p><a href="../../../mollusca/slugs/nudibranchia/bumpyface">Armina nudibranch</a> next to a sea pencil.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg"
+  caption: |
+    <p><a href="../../../mollusca/slugs/nudibranchia/semperi">Armina nudibranchs</a> next to a Sea pencil.</p>
+    <p>Changi, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/180603cnyrk1.jpg"
+  caption: |
+    <p>Coney Island, Jun 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156225822517906&set=a.10156225820857906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/170723ubnlks1.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608393858158.1073741951.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/090821tmlks4m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3841568723/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/150618tmftlks6m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg"
+  caption: |
+    <p>Tuas, Dec 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,26 +101,14 @@ structures. The secondary polyps emerge directly from the primary
 polyp and are transparent with long body columns (about 1cm) and long
 branched tentacles.
 
-*![](pencil/110520chgd2414m6l.jpg)  
-Changi, May 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pencil/110520chgd2484m3.jpg)  
-Changi, May 11*.![](pencil/050722cjg9824m3b.jpg) *Chek Jawa, Jul 05*
 
-*![](pencil/060502cftd1783m3.jpg)*Half dead specimen washed ashore*.  
-![](pencil/060502cftd1783m3a.jpg)*Skeleton
-of the central stalk *Changi, May 06*
 
 **Pencil snacks?** The [Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface) eats sea pens, and sometimes, they can be seen near sea pencils.
 
-![](../../../crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg)  
-[Painted porcelain crab](../../../crustacea/othercrust/anomura/porcellanidae/picta) seen on a Sea pencil. *Changi, Oct 07*Photo shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/1485157754/).
 
-*![](../../../mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg)*[Armina nudibranch](../../../mollusca/slugs/nudibranchia/bumpyface) next to a sea pencil*.  
-Changi, Jun 05*
 
-![](../../../mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg)  
-[Armina nudibranchs](../../../mollusca/slugs/nudibranchia/semperi) next to a Sea pencil. *Changi, Jul 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater).
 
   
 *\*Species
@@ -100,23 +132,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](pencil/180603cnyrk1.jpg)  
-Coney Island, Jun 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156225822517906&set=a.10156225820857906&type=3&theater).
 
-*![](pencil/170723ubnlks1.jpg)  
-Pulau Ubin, Jul 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155608393858158.1073741951.547198157&type=3).
 
 ---
 
-*![](pencil/090821tmlks4m3.jpg)  
-Tanah Merah, Aug 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/3841568723/).
 
-*![](pencil/150618tmftlks6m3.jpg)  
-Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3).
 
-*![](pencil/141224tusmn4m3.jpg)  
-Tuas, Dec 14*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel).
 
 ---
 

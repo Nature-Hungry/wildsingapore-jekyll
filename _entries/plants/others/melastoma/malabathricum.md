@@ -2,7 +2,7 @@
 title: Senduduk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "Senduduk, melastoma, malabathricum, melastomaceae, plant, shrub, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Melastomaceae
 genus: Melastoma
@@ -17,6 +17,67 @@ order: Myrtales
 subfamily: Melastomatoideae
 tribe: Melastomeae
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9358m3.jpg"
+  caption: |
+    <p>Some have white flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg"
+  caption: |
+    <p>Pasir Ris, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg"
+  caption: |
+    <p>Pasir Ris, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0484m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -70,41 +131,15 @@ used for a mouthwash for toothache. It is even used to treat elephants!
 The fruits may also be used to obtain a black dye, while the ashes
 of the plant is used to fix dyes.  
 
-![](malabathricum/090410ubnd9359m6l.jpg)  
-*Pulau Ubin,
-Apr 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](malabathricum/090410ubnd9352m3.jpg)  
-*Pulau Ubin,
-Apr 09  
-![](malabathricum/090410ubnd9352m3a.jpg)*
 
-![](malabathricum/090410ubnd9354m3.jpg)  
-*Pulau Ubin,
-Apr 09  
-![](malabathricum/090410ubnd9358m3.jpg)*Some
-have white flowers.
 
-![](malabathricum/090410ubnd9361m3.jpg)  
-*Pulau Ubin,
-Apr 09  
-![](malabathricum/090410ubnd9361m3a.jpg)*
 
 ---
 
-![](malabathricum/090906prpd0481m6l.jpg)  
-*Pasir Ris,
-Sep 09*
 
-![](malabathricum/090906prpd0482m3.jpg)  
-*Pasir Ris,
-Sep 09  
-![](malabathricum/090906prpd0484m3.jpg)*
 
-![](malabathricum/091005cjd2174m3.jpg)  
-*Chek Jawa,
-Oct 09  
-![](malabathricum/091005cjd2174m3b.jpg)*
 
 ---
 
@@ -128,18 +163,6 @@ Oct 09
   160pp.
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [links](../../../links)
 | [references](../../../references)

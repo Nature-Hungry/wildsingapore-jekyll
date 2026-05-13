@@ -2,7 +2,7 @@
 title: Drills
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "drill, muricidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Muricidae
 genus: ""
 species: ""
@@ -16,6 +16,88 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Muricoidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg"
+  caption: |
+    <p>Kusu Island, Dec 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 19Photo shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg"
+  caption: |
+    <p>Most have a strong foot.</p>
+    <p>Changi, Aug 08 Bored to Death: Drills that live on the rocks are predatory molluscs that bore into other shelled creatures, especially <a href="../../../crustacea/othercrust/ciriipedia/cirripedia.htm">barnacles</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg"
+  caption: |
+    <p>A drill feeding on <a href="../../bivalvia/mytilidae/xenostrobus.htm">Little black mussels</a>?</p>
+    <p>Lim Chu Kang, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/120423tmftd0067m3.jpg"
+  caption: |
+    <p>A drill clasping a <a href="../batillariidae/zonalis.htm">Bazillion snail</a>.</p>
+    <p>Tanah Merah, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/070521tusd1356m3.jpg"
+  caption: |
+    <p>A 'gang' of drills stuck onto a clam.</p>
+    <p>Tuas, May 07 To dye for: Many drills have a gland that secretes a colourless mucus that turns purplish when exposed to air.</p>
+    <p>This secretion is a neurotoxin that paralyses or kills other sea creatures.</p>
+    <p>Humans have used this mucus as a rare dye (see below).</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/060129skdg4157m3a.jpg"
+  caption: |
+    <p>Drills laying eggs on a rock Pulau Sekudu, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg"
+  caption: |
+    <p>Close up of egg capsules Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/120604pgld3562m3a.jpg"
+  caption: |
+    <p>Close up of egg capsules Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/170726cyro7260099m3.jpg"
+  caption: |
+    <p>Egg capsules of the <a href="chicoreus.htm">Reef murex</a>.</p>
+    <p>Cyrene Reef, Jul 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg"
+  caption: |
+    <p>Egg capsules of <a href="capucinus.htm">Mangrove murex</a> Kranji Nature Trail, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/210529epcnvc5.jpg"
+  caption: |
+    <p>Drill eating eggs laid by another animal?</p>
+    <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497027452945&set=a.10158495877737945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg"
+  caption: |
+    <p><a href="elegant.htm">Elegant drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg"
+  caption: |
+    <p><a href="elegant.htm">Elegant drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3.jpg"
+  caption: |
+    <p><a href="elegant.htm">Elegant drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg"
+  caption: |
+    <p><a href="chunky.htm">Chunky drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/110204sisd5789m3.jpg"
+  caption: |
+    <p><a href="chunky.htm">Chunky drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg"
+  caption: |
+    <p><a href="chunky.htm">Chunky drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/110204sisd5769m3.jpg"
+  caption: |
+    <p><a href="fusca.htm">Dark drill</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/060716sisg6742m3.jpg"
+  caption: |
+    <p><a href="knobbly.htm">Knobbly drills</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg"
+  caption: |
+    <p><a href="trapa.htm">Rare-spined murex</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg"
+  caption: |
+    <p><a href="capucinus.htm">Mangrove murex</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chicoreus/090806tmd8396m3.jpg"
+  caption: |
+    <p><a href="chicoreus.htm">Reef murex</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg"
+  caption: |
+    <p><a href="ramosus.htm">Ramose murex</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/muricidaenoid/041212kusd8712m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,15 +143,7 @@ species on our shores are Rock-shell (*Thais*  sp.), Drupes (*Morula* sp.) and M
 and a thick operculum made of a horn-like material. Those with complicated
 spines on their shells usually move by holding their shells above
 the surface as they move along the surface.
-![](muricidaenoid/041212kusd8712m3.jpg)  
- *Kusu Island, Dec 04*
-![](ramosus/190706skdro1.jpg)  
-*Pulau Sekudu, Jul 19*Photo shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542)
-![](trapa/080801chgd8563m3.jpg)  
-Most have a strong foot. *Changi, Aug 08*
-**Bored to Death:** Drills that live
-on the rocks are predatory molluscs that bore into other shelled creatures,
-especially [barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.htm).   
+{% include img-wrap-group.html items=page.page_images %}
   
 To bore a hole through the victim's shell, a drilling snail softens
 the shell with a weak acid secreted by a special gland on the underside
@@ -82,17 +156,6 @@ thick. Yawn!
 Some may also hunt buried clams. Some prey on worms, the eggs of other
 snails and even corals. Some deeper-water members of the Family Muricidae
 eat worms and sea urchins.
-![](capucinus/050809lckg1034.jpg)  
-A drill feeding on [Little black mussels](../../bivalvia/mytilidae/xenostrobus.htm)? *Lim Chu Kang, Aug 05*
-![](chicoreus/120423tmftd0067m3.jpg)  
-A drill clasping a [Bazillion snail](../batillariidae/zonalis.htm). *Tanah Merah, Apr 12*
-![](muricidaenoid/070521tusd1356m3.jpg)  
-A 'gang' of drills stuck onto a clam.  
-*Tuas, May 07*
-**To dye for:** Many drills have a
-gland that secretes a colourless mucus that turns purplish when exposed
-to air. This secretion is a neurotoxin that paralyses or kills other
-sea creatures. Humans have used this mucus as a rare dye (see below).  
   
 **Drill Babies:** Some drills lay
 clusters of bright yellow egg capsules on hard surfaces. Each egg capsule may contain
@@ -101,27 +164,11 @@ hatch. These swim about for a few weeks before they change into crawling
 juveniles. In some, however, crawling juveniles emerge from the egg
 capsules.
 
-![](chunky/060129skdg4157m3a.jpg)  
-Drills laying eggs on a rock  
-*Pulau Sekudu, Jan 06*
 
-![](elegant/050726chgg0439m3c.jpg)  
-Close up of egg capsules  
- *Changi, Jul 05*
 
-![](muricidaenoid/120604pgld3562m3a.jpg)  
-Close up of egg capsules *Punggol, Jun 12*
 
-![](chicoreus/170726cyro7260099m3.jpg)  
-Egg capsules of the [Reef murex](chicoreus.htm).  
-*Cyrene Reef, Jul 17*
 
-![](capucinus/110207krjd6090m3.jpg)  
-Egg capsules of [Mangrove murex](capucinus.htm) *Kranji Nature Trail, Feb 11*
 
-![](muricidaenoid/210529epcnvc5.jpg)  
-Drill eating eggs laid by another animal?  
-*East Coast (PCN), May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158497027452945&set=a.10158495877737945).
 
 **Human uses:** Since 1,500 BC in
 the Mediterranean, snails of the Family Muricidae were harvested to
@@ -169,47 +216,23 @@ on Singapore shores**
 
 ---
 
-**![](elegant/060516chgd2071m3.jpg)  
-[Elegant drills](elegant.htm)**
 
-**![](elegant/050726chgg0439m3.jpg)  
-[Elegant drills](elegant.htm)**
 
-**![](elegant/050726chgg0441m3.jpg)  
-[Elegant drills](elegant.htm)**
 
 ---
 
-**![](chunky/070812sisd5384m3.jpg)  
-[Chunky drills](chunky.htm)**
 
-**![](chunky/110204sisd5789m3.jpg)  
-[Chunky drills](chunky.htm)**
 
-**![](chunky/091203ubnd5004m3.jpg)  
-[Chunky drills](chunky.htm)**
 
 ---
 
-**![](fusca/110204sisd5769m3.jpg)  
-[Dark drill](fusca.htm)**
 
-**![](knobbly/060716sisg6742m3.jpg)  
-[Knobbly drills](knobbly.htm)**
 
-**![](trapa/080801chgd8560m3.jpg)  
-[Rare-spined murex](trapa.htm)**
 
 ---
 
-**![](capucinus/091019prpd2895m3.jpg)  
-[Mangrove murex](capucinus.htm)**
 
-**![](chicoreus/090806tmd8396m3.jpg)  
-[Reef murex](chicoreus.htm)**
 
-**![](ramosus/130808cyrd0902m3.jpg)  
-[Ramose murex](ramosus.htm)**
 
 ---
 

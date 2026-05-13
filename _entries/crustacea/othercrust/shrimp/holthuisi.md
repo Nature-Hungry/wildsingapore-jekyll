@@ -2,7 +2,7 @@
 title: 'Gelek' anemone shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "five, spot, anemone, shrimp, ancylomenes, holthuisi, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [103, 104]
 family: Palaemonidae
 genus: Ancylomenes
@@ -21,6 +21,20 @@ suborder: Pleocyemata
 infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg"
+  caption: |
+    <p>Seen in a <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a>.</p>
+    <p>Changi, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg"
+  caption: |
+    <p>Seen in a Haddon's carpet anemone.</p>
+    <p>Changi, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/110802smkmn.jpg"
+  caption: |
+    <p>Seen in a <a href="../../../cnidaria/actiniaria/magnifica">Magnificent anemone</a>.</p>
+    <p>Pulau Semakau, Aug 11 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6001964272/in/photolist-a9jPDK-a9nCSC">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8870m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,11 +83,8 @@ Instead, they are believed to shelter in the anemone for protection
 and may feed on left overs. The shrimps have often been seen "hanging"
 over the edge of their anemone home with their pincers extended.
 
-![](holthuisi/130626chgd8870m6la.jpg)  
-Seen in a [Haddon's carpet anemone](../../../cnidaria/actiniaria/haddoni). *Changi, Aug 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](holthuisi/130626chgd8741m3.jpg)  
-Seen in a Haddon's carpet anemone. *Changi, Aug 13*
 
 ---
 
@@ -92,9 +103,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](holthuisi/110802smkmn.jpg)  
-Seen in a [Magnificent anemone](../../../cnidaria/actiniaria/magnifica). *Pulau Semakau, Aug 11*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6001964272/in/photolist-a9jPDK-a9nCSC).
 
 ---
 

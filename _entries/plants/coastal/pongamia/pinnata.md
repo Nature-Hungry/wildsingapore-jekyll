@@ -2,7 +2,7 @@
 title: Mempari
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mempari, pongamia, pinnata, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 37]
 family: Fabaceae
 genus: Pongamia
@@ -15,6 +15,87 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Fabales
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg"
+  caption: |
+    <p>Tree planted in a park.</p>
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9430m3b.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9423m3b.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9421m3.jpg"
+  caption: |
+    <p>Changi, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9423m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9423m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9426m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9426m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9417m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubnd9417m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090511chgd1450m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090511chgd1452m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090511chgf1242m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090511chgf1241m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090511chgf1242m6l.jpg"
+  caption: |
+    <p>Wild tree on coastal cliff.</p>
+    <p>Changi, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090823cjd9879m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090823cjd9881m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090823cjd9878m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090823cjd9878m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090823cjd9876m6l.jpg"
+  caption: |
+    <p>Possibly planted, not sure.</p>
+    <p>Chek Jawa, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/100701tmd7991m6l.jpg"
+  caption: |
+    <p>Planted tree.</p>
+    <p>East Coast Park, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/100701tmd7987m3.jpg"
+  caption: |
+    <p>Flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/100701tmd7987m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/100701tmd7990m3.jpg"
+  caption: |
+    <p>Flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/100701tmd7990m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pongamia/pinnata/090410ubno067m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,61 +152,28 @@ shade tree along roads, but Corners says it is rarely planted in Malaya.
 is listed as 'Endangered' in the Red List of threatened plants of
 Singapore.  
 
-![](pinnata/090410ubno067m6l.jpg)  
-Tree planted in a park. *Changi, Apr 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pinnata/090410ubnd9430m3b.jpg)  
-*Changi, Apr 09*
 
-![](pinnata/090410ubnd9423m3b.jpg)  
-*Changi, Apr 09*
 
-![](pinnata/090410ubnd9421m3.jpg)  
-*Changi, Apr 09*
 
-![](pinnata/090410ubnd9423m3.jpg)  
-*Changi, Apr 09*![](pinnata/090410ubnd9423m3a.jpg)
 
-![](pinnata/090410ubnd9426m3.jpg)  
-*Changi, Apr 09*![](pinnata/090410ubnd9426m3a.jpg)
 
-![](pinnata/090410ubnd9417m3.jpg)  
-*Changi, Apr 09*![](pinnata/090410ubnd9417m3a.jpg)
 
 ---
 
-![](pinnata/090511chgd1450m3.jpg)  
-*Changi, May 09*![](pinnata/090511chgd1452m3.jpg)
 
-![](pinnata/090511chgf1242m3.jpg)  
-*Changi, May 09*![](pinnata/090511chgf1241m3.jpg)
 
-![](pinnata/090511chgf1242m6l.jpg)  
-Wild tree on coastal cliff. *Changi, May 09*
 
 ---
 
-![](pinnata/090823cjd9879m3.jpg)  
-*Chek Jawa, Aug 09*![](pinnata/090823cjd9881m3.jpg)
 
-![](pinnata/090823cjd9878m3.jpg)  
-*Chek Jawa, Aug 09*![](pinnata/090823cjd9878m3a.jpg)
 
-![](pinnata/090823cjd9876m6l.jpg)  
-Possibly planted, not sure. *Chek Jawa, Aug 09*
 
 ---
 
-![](pinnata/100701tmd7991m6l.jpg)  
-Planted tree. *East Coast Park, Jul 10*
 
-![](pinnata/100701tmd7987m3.jpg)  
-Flowers.   
-![](pinnata/100701tmd7987m3a.jpg)
 
-![](pinnata/100701tmd7990m3.jpg)  
-Flowers.   
-![](pinnata/100701tmd7990m3a.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 title: 10-armed feather star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "purple, feather, star, featherstar, comatulida, crinoidea, crinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [1, 45, 92]
 family: ""
 genus: ""
@@ -11,6 +11,74 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8330m3a.jpg"
+  caption: |
+    <p>Bulbous oral disk surrounded by pinnules.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050526cjg6844m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050819cjg1546m3.jpg"
+  caption: |
+    <p>Clinging onto a sponge with the cirri.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8330m3c.jpg"
+  caption: |
+    <p>The pinnules near the oral disk have combs on their tips to help clean the oral disk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/160605chglks1.JPG"
+  caption: |
+    <p>Changi, Jun 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/160605chglks1a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27215273670/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/160605chglks2.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/200722chgvc2a.jpg"
+  caption: |
+    <p>Changi, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157816234102945&set=a.10157816232477945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/210527chg1tch4.jpg"
+  caption: |
+    <p>Changi, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159482067978713&set=a.10159482082083713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/201118nsrcssjk4.jpg"
+  caption: |
+    <p>East Coast NSRCC, Nov 20Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50621737728/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/200704nsrccvc1.jpg"
+  caption: |
+    <p>East Coast Park PCN, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157775397937945&set=a.10157775396342945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/080507ecplks01m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/080507ecplks02m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/151225tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/151225tsmklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23348422693/in/album-72157624104220316/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/190520hntlks5.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/190520hntlks5a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157209328283158&set=a.10157209325888158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/110814smklks1.JPG"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/110814smklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6059289224/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/110814smklks3.JPG"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/crinoidea/purpurea/050623cjg8337m3.jpg"
 ---
 
 
@@ -36,18 +104,12 @@ the animal uses to cling to things. Usually purple but sometimes also red or bro
   
 Large feather stars with 12 arms are also included in this fact sheet.
 
-*![](purpurea/050623cjg8337m3.jpg)* *Chek Jawa, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](purpurea/050526cjg6844m3a.jpg)*
 
-*![](purpurea/050623cjg8330m3a.jpg)*Bulbous oral disk surrounded by pinnules.
 
-*![](purpurea/050526cjg6844m3a.jpg)*
 
-*![](purpurea/050819cjg1546m3.jpg)*Clinging onto a sponge with the cirri.
 
-*![](purpurea/050623cjg8330m3c.jpg)*The pinnules near the oral disk have combs   
-on their tips to help clean the oral disk.
 
 ---
 
@@ -66,51 +128,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](purpurea/160605chglks1.JPG)  
-Changi, Jun 16*
 
-*![](purpurea/160605chglks1a.jpg)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27215273670/in/album-72157607622389163/).
 
-*![](purpurea/160605chglks2.JPG)*
 
 ---
 
-*![](purpurea/200722chgvc2a.jpg)  
-Changi, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157816234102945&set=a.10157816232477945&type=3&theater).
 
-*![](purpurea/210527chg1tch4.jpg)  
-Changi, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159482067978713&set=a.10159482082083713).
 
 ---
 
-*![](purpurea/201118nsrcssjk4.jpg)  
-East Coast NSRCC, Nov 20*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/50621737728/).
 
-*![](purpurea/200704nsrccvc1.jpg)  
-East Coast Park PCN, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157775397937945&set=a.10157775396342945&type=3&theater).
 
 ---
 
-*![](purpurea/080507ecplks01m3.jpg)  
-East Coast, May 08**![](purpurea/080507ecplks02m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coastl).
 
-*![](purpurea/151225tsmklks.JPG)  
-Terumbu Semakau, May 12  
-![](purpurea/151225tsmklks2.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23348422693/in/album-72157624104220316/).
 
-*![](purpurea/190520hntlks5.jpg)  
-Pulau Hantu, May 19  
-![](purpurea/190520hntlks5a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157209328283158&set=a.10157209325888158&type=3&theater).
 
 ---
 
-*![](purpurea/110814smklks1.JPG)  
-Pulau Semakau, Aug 11*
 
-*![](purpurea/110814smklks2.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6059289224/in/album-72157607751329669/).
 
-*![](purpurea/110814smklks3.JPG)*
 
 ---
 
@@ -133,5 +170,3 @@ blog](http://psychedelic-nature.blogspot.com/2011/11/videos-echinoderms-on-our-s
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

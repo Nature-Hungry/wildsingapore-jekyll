@@ -2,7 +2,7 @@
 title: Rafting crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "plagusia. squamosa, plagusiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Plagusiidae
 genus: Plagusia
@@ -23,6 +23,56 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg"
+  caption: |
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m6l.jpg"
+  caption: |
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120802chgd9239m3b.jpg"
+  caption: |
+    <p>Depression between the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/200722lyglks3.jpg"
+  caption: |
+    <p>Changi-Loyang, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158477546723158&set=a.10158477547983158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/251109chgsaflks6.jpg"
+  caption: |
+    <p>Changi Creek, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/130721cjlks.JPG"
+  caption: |
+    <p>Chek Jawa, Jul 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24259984504/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/140714ecplks.JPG"
+  caption: |
+    <p>East Coast Park, Jul 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24126176125/in/album-72157607719316847/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/210529ecpblks6.jpg"
+  caption: |
+    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159233456463158&set=a.10159233461703158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/170820kusmn1.jpg"
+  caption: |
+    <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154930466753660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/160508kusjt11.jpg"
+  caption: |
+    <p>Kusu Island, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3a.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/250810bsismn3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/080802rlhlks.JPG"
+  caption: |
+    <p>Raffles Lighthouse, Aug 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2929152078/in/album-72157607899863988/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/161117rlhlks3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/plagusiidae/plagusia/120703chgd6472m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,19 +119,13 @@ and legs. Colours seen include shades of brown, blue, purple, orange.
 crab](../grapsidae/albolineatus) (*Grapsus albolineatus*) which has a more circular flatter
 smoother body.
 
-*![](plagusia/120703chgd6472m3.jpg)  
-Changi, Jul 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](plagusia/120703chgd6472m3b.jpg)*
 
-*![](plagusia/120703chgd6472m3a.jpg)*
 
 ---
 
-*![](plagusia/120802chgd9239m6l.jpg)  
-Changi, Aug 12*
 
-*![](plagusia/120802chgd9239m3b.jpg)*Depression between the eyes.
 
 ---
 
@@ -99,47 +143,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](plagusia/200722lyglks3.jpg)  
-Changi-Loyang, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158477546723158&set=a.10158477547983158&type=3&theater).
 
-*![](plagusia/251109chgsaflks6.jpg)  
-Changi Creek, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post).
 
 ---
 
-*![](plagusia/130721cjlks.JPG)  
-Chek Jawa, Jul 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24259984504/in/album-72157607712316054/).
 
 ---
 
-*![](plagusia/140714ecplks.JPG)  
-East Coast Park, Jul 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24126176125/in/album-72157607719316847/).
 
-*![](plagusia/210529ecpblks6.jpg)  
-East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159233456463158&set=a.10159233461703158).
 
 ---
 
-*![](plagusia/170820kusmn1.jpg)  
-Kusu Island, Aug 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10154930466753660&set=a.10154515554383660.1073741918.624178659&type=3&theater).
 
-*![](plagusia/160508kusjt11.jpg)  
-Kusu Island, May 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3).
 
 ---
 
-![](plagusia/250810bsismn3a.jpg)  
-*Big Sisters, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post).
 
-![](plagusia/250810bsismn3.jpg)
 
 ---
 
-*![](plagusia/080802rlhlks.JPG)  
-Raffles Lighthouse, Aug 08*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/2929152078/in/album-72157607899863988/).
 
-*![](plagusia/161117rlhlks3.jpg)  
-Raffles Lighthouse, Nov 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Serengan "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Fabaceae
 genus: Flemingia
@@ -18,6 +18,50 @@ subfamily: Faboideae
 tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg"
+  caption: |
+    <p>Planted specimen Chek Jawa, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3067m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0005m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Nov 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -74,28 +118,13 @@ and does not work on cotton.
 This plant is considered an invasive in some places where it has been
 introduced.   
 
-![](strobilifera/090531cjd3066m3.jpg)  
-Planted specimen  
-*Chek Jawa, May 09*  
-![](strobilifera/090531cjd3069m3.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](strobilifera/091128cjd4782m3.jpg)  
-Chek Jawa, Nov 09![](strobilifera/091128cjd4782m3a.jpg)*
 
-*![](strobilifera/090531cjd3064m3b.jpg)  
-Chek Jawa, May 09 ![](strobilifera/090531cjd3064m3a.jpg)*
 
-*![](strobilifera/090531cjd3066m3a.jpg)  
-*Chek Jawa, May 09* ![](strobilifera/090531cjd3067m3.jpg)*
 
-*![](strobilifera/100314cjd0003m3.jpg)  
-Chek Jawa, Mar 10![](strobilifera/100314cjd0005m3.jpg)*
 
-*![](strobilifera/100314cjd0009m6l.jpg)  
-Chek Jawa, Mar 10*
 
-*![](strobilifera/091128cjd4784m6l.jpg)  
-Chek Jawa, Nov 09*
 
 ---
 
@@ -110,9 +139,6 @@ Chek Jawa, Nov 09*
 
 - Burkill,
   I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: "Hairy coral crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, coral, crab, cymo, andreossyi, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Xanthidae
 genus: Cymo
@@ -24,6 +24,38 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Cymoinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/070531sisg9708m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/070531sisg9708m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/100615tmjk7m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/120507srpmn.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7005236026/in/photolist-mbfzzk-bF2EBu-89ZgjS-85QmfE-7DfUwq-7Dc7zc-8asvB6-8avJUq-8aswzK">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/100529kusjk3m3.jpg"
+  caption: |
+    <p>Kusu Island, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160209cyrmn2.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160209cyrmn1.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/160608cyrmn4.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,11 +102,8 @@ coral crab](../trapezioidea/bandit) (*Tetralia nigrolineata*).
 and threats:** *Cymo andreossyi* is listed as 'Vulnerable'
 on the Red List of threatened animals of Singapore.
 
-![](cymo/081231sisd4418m3.jpg)  
-*Sisters Island, Dec 08*![](cymo/081231sisd4418m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cymo/070531sisg9708m3.jpg)  
-*Sisters Island, May 07* ![](cymo/070531sisg9708m3a.jpg)
 
 ---
 
@@ -93,36 +122,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](cymo/100615tmjk7m3.jpg)  
-*Tanah Merah,
-Jun 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100615-tanah-merahl).
 
-![](cymo/120507srpmn.jpg)  
-*Sentosa Serapong,
-May 12*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7005236026/in/photolist-mbfzzk-bF2EBu-89ZgjS-85QmfE-7DfUwq-7Dc7zc-8asvB6-8avJUq-8aswzK).
 
-*![](cymo/100529kusjk3m3.jpg)*  
-*Kusu Island,
-May 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100529-kusu-islandl).
 
 ---
 
-![](cymo/160209cyrmn2.jpg)  
-*Cyrene Reef, Feb 16*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section).
 
-![](cymo/160209cyrmn1.jpg)  
-*Cyrene Reef, Feb 16*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story.unseen-section).
 
-![](cymo/160608cyrmn4.jpg)  
-*Cyrene Reef, Jun 16*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3).
 
 ---
 

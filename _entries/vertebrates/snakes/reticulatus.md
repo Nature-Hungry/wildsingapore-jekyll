@@ -2,7 +2,7 @@
 title: "Reticulated python "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "broghammerus, malayopython, python, reticulated, reticulatus, pythonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pythonidae
 genus: Broghammerus
 species: reticulatus
@@ -16,6 +16,20 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg"
+  caption: |
+    <p>Sungei Buloh</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9036m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrd9076m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, May 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9035m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, May 02</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/reticulatus/020511sbwrcpd9086m6l.jpg"
 ---
 
 
@@ -67,17 +81,9 @@ is considered common and are not listed among the threatened animals
 of Singapore. However, like other creatures of the shores, they are
 affected by human activities such as reclamation and pollution.
 
-![](reticulatus/020511sbwrcpd9086m6l.jpg)  
-*Sungei Buloh
-Wetland Reserve, May 02![](reticulatus/020511sbwrcpd9036m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](reticulatus/020511sbwrd9076m6l.jpg)  
-*Sungei Buloh
-Wetland Reserve, May 02*
 
-![](reticulatus/020511sbwrcpd9035m3.jpg)  
-*Sungei Buloh
-Wetland Reserve, May 02*
 
 ---
 
@@ -136,5 +142,3 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

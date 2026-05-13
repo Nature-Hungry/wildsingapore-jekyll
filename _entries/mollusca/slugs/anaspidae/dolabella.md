@@ -2,7 +2,7 @@
 title: Wedge sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, seahare, hare, anaspidea, aplysiidae, dolabella, auricularia, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 33, 90, 124]
 family: Aplysiidae
 genus: Dolabella
@@ -18,6 +18,39 @@ subterclass: Tectipleura
 order: Aplysiida
 superfamily: Aplysioidea
 updated: Sep 2023
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg"
+  caption: |
+    <p>Terumbu Reya, Feb 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160490625268158&set=a.10160490628508158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1a.jpg"
+  caption: |
+    <p>Small head and tiny rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg"
+  caption: |
+    <p>Doesn't have obvious flaps at the top.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1b.jpg"
+  caption: |
+    <p>Releases purple ink when stressed.</p>
+    <p>Foot is smooth and pale.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1.jpg"
+  caption: |
+    <p>Pulau Semakau, Jun 23Video and photos shared by Loh Kok Sheng on <a href="https://www.facebook.com/547198157/videos/a.10160719490338158/163351763237062">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230609smklks1a.jpg"
+  caption: |
+    <p>Small head and tiny rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1a.jpg"
+  caption: |
+    <p>Pulau Semakau North, Sep 23Video shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10160686763968654/326575793064577">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230902smknccn1b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/091023smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 09Video shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4036654188">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,14 +88,7 @@ seen?** This very large sea hare is sometimes seen on our Southern shores on in 
 purple ink when disturbed.  
   
 **What does it eat?** It is apparently not fussy and will eat a variety of seaweeds: brown, red and green.
-![](dolabella/230224trylks1.jpg)  
-*Terumbu Reya, Feb 23*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160490625268158&set=a.10160490628508158).
-![](dolabella/230224trylks1a.jpg)  
-Small head and tiny rhinophores.
-![](dolabella/230224trylks1c.jpg)  
-Doesn't have obvious flaps at the top.
-![](dolabella/230224trylks1b.jpg)  
-Releases purple ink when stressed. Foot is smooth and pale.
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -71,23 +97,13 @@ Releases purple ink when stressed. Foot is smooth and pale.
 
 ---
 
-![](dolabella/230609smklks1.jpg)  
-*Pulau Semakau, Jun 23*Video and photos shared by Loh Kok Sheng on [facebook](https://www.facebook.com/547198157/videos/a.10160719490338158/163351763237062).
-![](dolabella/230609smklks1a.jpg)  
-Small head and tiny rhinophores.
   
 
 ---
 
-![](dolabella/230902smknccn1a.jpg)  
- *Pulau Semakau North, Sep 23*Video shared by Che Cheng Neo on [facebook](https://www.facebook.com/794658653/videos/a.10160686763968654/326575793064577).
-![](dolabella/230902smknccn1.jpg)
-![](dolabella/230902smknccn1b.jpg)
 
 ---
 
-![](dolabella/091023smkmn.jpg)  
- *Pulau Semakau, Oct 09*Video shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4036654188).
  
  
 

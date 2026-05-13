@@ -2,12 +2,23 @@
 title: Feline flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, worm, flatworm, pseudoceros, felis, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pseudocerotidae
 genus: Pseudocerotid
 species: 8
 attributes: []
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudlks12m6l.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168151527/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/felis/091205sudd5623m3.jpg"
 ---
 
 
@@ -36,14 +47,9 @@ uniformly grey with narrow orange and thin black margin. It
 has a pair of pseudotentacles at the front made up of folded edges
 of the body.   
 
-![](felis/091205sudd5623m3.jpg)  
-*Pulau Sudong, Dec 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](felis/091205sudlks12m6l.jpg)  
-*Pulau Sudong, Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4168151527/).
 
-![](felis/091205sudd5623m3a.jpg)
 
 ---
 
@@ -59,5 +65,3 @@ flickr](http://www.flickr.com/photos/koksheng/4168151527/).
   and Lester Cannon. 2003. *Marine
   Flatworms: The World of Polyclads*.
   CSIRO Publishing. 97pp.
-
-

@@ -2,7 +2,7 @@
 title: Crab-eating water snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crab, eating, water, snake, fordonia, leucobalia, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Homalopsidae
 genus: Fordonia
 species: leucobalia
@@ -16,6 +16,20 @@ class: Reptilia
 order: Squamata
 suborder: Serpentes
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7786m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7784m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/080607prpik.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jun 08 Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2561434578/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fordonia/120318prpd7782m6l.jpg"
 ---
 
 
@@ -56,17 +70,9 @@ birth to live young in litters of 6-15.
 and threats:** The snake is listed as 'Endangered'
 on the Red List of threatened animals of Singapore.
 
-*![](fordonia/120318prpd7782m6l.jpg)  
-Pasir Ris
-Park, Mar 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](fordonia/120318prpd7786m3.jpg)  
-Pasir Ris
-Park, Mar 12*
 
-*![](fordonia/120318prpd7784m6l.jpg)  
-Pasir Ris
-Park, Mar 12*
 
 ---
 
@@ -86,9 +92,6 @@ Distribution in Singapore on this [wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](fordonia/080607prpik.jpg)  
- *Pasir Ris Park, Jun 08*  
-Photo shared by Ivan Kwan on [flickr](https://www.flickr.com/photos/hai_ren/2561434578/).
 
 ---
 
@@ -149,5 +152,3 @@ prey.
 
 FREE photos of [snakes](http://www.flickr.com/photos/54527470@N00/sets/72157594587662941).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

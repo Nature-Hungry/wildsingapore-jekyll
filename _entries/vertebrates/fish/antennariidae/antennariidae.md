@@ -2,7 +2,7 @@
 title: Frogfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "frog, angler, fish, frogfish, anglerfish, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,photo"
-layout: default
+layout: entry
 family: Antennariidae
 genus: ""
 species: ""
@@ -16,6 +16,34 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Lophiiformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg"
+  caption: |
+    <p>Changi, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg"
+  caption: |
+    <p>A lure that draws prey closer to the mouth</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3a.jpg"
+  caption: |
+    <p>Lure and bright markings in the mouth.</p>
+    <p>Sisters Island, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg"
+  caption: |
+    <p>'Climbing' on long seagrass with its 'paws'.</p>
+    <p>Pulau Semakau, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/040803tusd4069m3.jpg"
+  caption: |
+    <p>Tuas, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/050917smkg2501m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/black/070812sisg1958m3.jpg"
+  caption: |
+    <p><a href="black">Black frogfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m3.jpg"
+  caption: |
+    <p><a href="trisignatus">Spotted-tail frogfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,15 +111,9 @@ look like poisonous nudibranchs.
 and scorpionfish. Unlike those fishes, the frogfish is harmless. Here's more on [how
 to tell apart fishes that look like stones.](../cfstonefish)
 
-![](trisignatus/080619chgd5686m3.jpg)  
-*Changi, Jun 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](trisignatus/080619chgd5686m3b.jpg)  
-A lure that draws
-prey closer to the mouth
 
-![](black/070812sisg1958m3a.jpg)  
-Lure and bright markings in the mouth. *Sisters Island, Aug 07*
 
 **Fishing
 with a lure:** The
@@ -116,15 +138,8 @@ a second, making it among the fastest capture in the animal kingdom.
 eat other fishes although some temperate species eat crustaceans.
 They may even eat other frogfishes, including their potential mates!
 
-![](trisignatus/110409smks09390m3.jpg)  
-'Climbing' on long seagrass with its 'paws'.  
-*Pulau Semakau, Apr 11*
 
-![](trisignatus/040803tusd4069m3.jpg)  
-*Tuas, Aug 04*
 
-![](black/050917smkg2501m3.jpg)  
-*Pulau Semakau, Sep 05*
 
 **Fish with arms?!** The frogfish
 has another unusual feature: limb-like pectoral fins with an elbow-like
@@ -154,10 +169,7 @@ on Singapore shores**
 
 ---
 
-***![](black/070812sisg1958m3.jpg)*[Black frogfish](black)**
 
-**![](trisignatus/050725labg0247m3.jpg)  
-[Spotted-tail frogfish](trisignatus)**
 
 ---
 

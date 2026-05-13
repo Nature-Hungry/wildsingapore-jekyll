@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,"
-layout: default
+layout: entry
 shape: leafy
 title: Silvery blue  sponge
 family: Dysideidae
@@ -16,6 +16,77 @@ class: Demospongiae
 subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3a.jpg"
+  caption: |
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3.jpg"
+  caption: |
+    <p>Labrador,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3a.jpg"
+  caption: |
+    <p>Labrador, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3a.jpg"
+  caption: |
+    <p>A young sponge may look like a cabbage.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks1.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5729978596/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3a.jpg"
+  caption: |
+    <p>Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158704040913158&set=a.10158704042413158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/160208smksjt2.jpg"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg"
 ---
 
 
@@ -44,31 +115,14 @@ to the [cyanobacteria](../plants/seaweed/cyanobacteria/cyanobacteria.htm) that i
 that is used to capture light for photosynthesis. They also contain
 chlorophyll.
 
-![](spatula/050311labg3265m3.jpg)  
-*Labrador, Mar 05*![](spatula/050311labg3265m3a.jpg)  
-*Labrador, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](spatula/050413labg4698m3.jpg)  
-*Labrador,
-Apr 05*![](spatula/050413labg4698m3a.jpg)  
-*Labrador, Apr 05*
 
-![](spatula/080425cyrd1755m3.jpg)  
-*Cyrene Reef, Apr 08*![](spatula/080425cyrd1755m3a.jpg)
 
 ---
 
-![](spatula/070420sntrg8812m3.jpg)  
-*Sentosa, Apr 07*![](spatula/070420sntrg8812m3a.jpg)  
-A young sponge may look like a cabbage.
 
-![](spatula/040606kusd0305m3.jpg)  
-*Kusu Island, Jun 04*![](spatula/040606kusd0305m3a.jpg)
 
-![](spatula/110517tptlks.JPG)  
-*Terumbu Pempang Tengah, May 11*![](spatula/110517tptlks1.JPG)  
-Photo shared
-by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5729978596/in/album-72157626616274147/).
 
   
 *\*Species are difficult
@@ -92,28 +146,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](spatula/110220lazro7m3.jpg)  
-*Lazarus Island, Feb 11*![](spatula/110220lazro7m3a.jpg)  
-Photo shared
-by Rene Ong on [facebook](http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf).
 
-![](spatula/201019sjilks5.jpg)  
-*St John's Island, Oct 20*![](spatula/201019sjilks5b.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158704040913158&set=a.10158704042413158).
 
-![](spatula/160208smksjt2.jpg)  
-*Pulau Semakau South, Feb 16*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3).
 
 ---
 
-![](spatula/091204pawd5217m3.jpg)  
-*Pulau Pawai, Dec 09*![](spatula/091204pawd5217m3a.jpg)
 
-![](spatula/100613sngd5636m3.jpg)  
-*Pulau Senang, Jun 10*![](spatula/100613sngd5636m3a.jpg)
 
-![](spatula/100530tbkd4270m3.jpg)  
-*Terumbu Berkas, May 10*![](spatula/100530tbkd4270m3a.jpg)
 
 ---
 

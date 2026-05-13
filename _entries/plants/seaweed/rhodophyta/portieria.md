@@ -2,7 +2,7 @@
 title: "Curled-tip red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Rhizophyllidaceae
 genus: Portieria
@@ -17,6 +17,29 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg"
+  caption: |
+    <p>Cyrene, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg"
+  caption: |
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg"
+  caption: |
+    <p>Tips are curled.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,26 +87,15 @@ there are 8 species of *Portieria*.
   
 **Features:** This seaweed is much studied because it contains a substance that may supress human tumors.
 
-![](portieria/100809cyrd9738m3.jpg)  
-*Cyrene, Aug
-10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](portieria/100810sngd9933m3b.jpg)  
-Pulau Senang, Aug 10*
 
-*![](portieria/100810sngd9935m3b.jpg)  
-Pulau Senang, Aug 10*
 
-![](portieria/100809cyrd9738m3a.jpg)
 
 ---
 
-*![](portieria/120506sisd1142m3.jpg)  
-Sisters Island, May 12*
 
-*![](portieria/120506sisd1142m3a.jpg)*
 
-*![](portieria/120506sisd1142m3b.jpg)*Tips are curled.
 
  *\*Seaweed species
 are difficult to positively identify without microscopic examination.   

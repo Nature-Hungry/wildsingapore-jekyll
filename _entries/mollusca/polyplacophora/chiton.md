@@ -2,7 +2,7 @@
 title: Chitons
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pinnidae
 genus: ""
 species: ""
@@ -17,6 +17,86 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pinnoidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg"
+  caption: |
+    <p>Changi, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156.jpg"
+  caption: |
+    <p>Mouth.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6156m3b.jpg"
+  caption: |
+    <p>Gills on the side of the body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6151m3.jpg"
+  caption: |
+    <p>It can curl up.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg"
+  caption: |
+    <p>The <a href="gemmata.htm">Jewelled chiton</a> is enormous.</p>
+    <p>St.</p>
+    <p>John's Island, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/190123lazm6l.jpg"
+  caption: |
+    <p>A large and small one found on artificial seawall.</p>
+    <p>Seringat-Kias, Jan 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/091203ubnlks2m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4168709200/in/album-72157607906657391/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/191214cjfl1.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 19Photo shared by Frances Loke on <a href="https://www.facebook.com/littlegreenmensg/photos/a.2440791082916267/2440800572915318/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/150619tuslks4m3.jpg"
+  caption: |
+    <p>Tuas, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100302ecpjk.jpg"
+  caption: |
+    <p>East Coast Park, Mar 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4400729503/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090706tmjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3693602860/">flickr.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/080603tmtch.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 08Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2593715683/">flickr.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200210blyjll2.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157077555526295&set=a.10157077555081295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200210blylks2.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967183073158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100302tmlks1m6l.jpg"
+  caption: |
+    <p>East Coast Park, Mar 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4405987218/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/130501sntlks.JPG"
+  caption: |
+    <p>Sentosa, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24099507035/in/album-72157607923545583/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/210625kusjll6.jpg"
+  caption: |
+    <p>Kusu Island, Jun 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158359626661295&set=a.10158359616866295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/170212bsisjll.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154408483061295&set=a.10154408481176295.1073741882.542241294&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/100528tkklks7m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/150718smkelks9m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/170628jngmn.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49883380817/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120707jnglks.JPG"
+  caption: |
+    <p>Pulau Jong, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8461021110/in/album-72157618312065307/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/200823cyrvc1.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10157894994362945&set=a.10157894991602945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/161117rlhlks2.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120125chgd6162m6l.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -71,20 +151,11 @@ The animal is sometimes also called coat-of-mail mollusc. A thick,
 stiff mantle covers the body forming a girdle around the plates to
 the body edges. The girdle may be smooth, or have scales or bristles.
 
-![](chiton/120125chgd6162m6l.jpg)  
-*Changi, Jan 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](chiton/120125chgd6156m3.jpg)  
-Underside.
 
-![](chiton/120125chgd6156.jpg)  
-Mouth.
 
-![](chiton/120125chgd6156m3b.jpg)  
-Gills on the side of the body.
 
-![](chiton/120125chgd6151m3.jpg)  
-It can curl up.
 
 A chiton can create a powerful suction to cling tenaciously onto a
 hard surface. According to Ruppert "A chiton forewarned is almost
@@ -99,9 +170,7 @@ worm](../../worm/polychaeta/scaleworm.htm) which is a polychaete worm that also 
 but has well developed tentacles and rows of bristles along the sides
 of the body.
 
-![](chiton/090922sjid1569m3.jpg)The [Jewelled chiton](gemmata.htm) is enormous. *St. John's Island, Sep 09*
 
-*![](chiton/190123lazm6l.jpg)*A large and small one found on artificial seawall. *Seringat-Kias, Jan 19*
 
 **What do they eat?** Like snails,
 chitons have a rough 'tongue' called a radula that is used to rasp
@@ -129,73 +198,37 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](chiton/091203ubnlks2m3.jpg)  
- *Pulau Ubin, Dec 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4168709200/in/album-72157607906657391/).
 
-![](chiton/191214cjfl1.jpg)  
- *Chek Jawa, Dec 19*Photo shared by Frances Loke on [facebook](https://www.facebook.com/littlegreenmensg/photos/a.2440791082916267/2440800572915318/?type=3&theater).
 
-![](chiton/150619tuslks4m3.jpg)  
- *Tuas, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153419536998158.1073741883.547198157&type=3).
 
 ---
 
-![](chiton/100302ecpjk.jpg)  
- *East Coast Park, Mar 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4400729503/).
 
-![](chiton/090706tmjk1m3.jpg)  
- *Tanah Merah, Jul 09*Photo shared by James Koh on [flickr.](https://www.flickr.com/photos/jameskoh/3693602860/)
 
-![](chiton/080603tmtch.jpg)  
- *Tanah Merah, Jun 08*Photo shared by Toh Chay Hoon on [flickr.](https://www.flickr.com/photos/ilmare77/2593715683/)
 
 ---
 
-*![](chiton/200210blyjll2.jpg)Berlayar Creek, Feb 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157077555526295&set=a.10157077555081295&type=3&theater).
 
-*![](chiton/200210blylks2.jpg)Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157967183073158&set=a.10157967182933158&type=3&theater).
 
 ---
 
-![](chiton/100302tmlks1m6l.jpg)  
- *East Coast Park, Mar 10*Shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4405987218/).
 
 ---
 
-![](chiton/130501sntlks.JPG)  
- *Sentosa, May 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24099507035/in/album-72157607923545583/).
 
-![](chiton/210625kusjll6.jpg)  
- *Kusu Island, Jun 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158359626661295&set=a.10158359616866295).
 
-![](chiton/170212bsisjll.jpg)  
- *Big Sisters Island, Feb 17*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10154408483061295&set=a.10154408481176295.1073741882.542241294&type=3&theater).
 
 ---
 
-![](chiton/100528tkklks7m3.jpg)  
- *Pulau Tekukor, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
 
-![](chiton/150718smkelks9m3.jpg)  
- *Pulau Semakau East, Jul 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3).
 
 ---
 
-![](chiton/170628jngmn.jpg)  
- *Pulau Jong, Jun 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/49883380817/).
 
-![](chiton/120707jnglks.JPG)  
- *Pulau Jong, Jul 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8461021110/in/album-72157618312065307/).
 
 ---
 
-![](chiton/200823cyrvc1.jpg)  
- *Cyrene Reef, Aug 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10157894994362945&set=a.10157894991602945).
 
-![](chiton/161117rlhlks2.jpg)  
- *Raffles Lighthouse, Nov 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3).
 
 ---
 

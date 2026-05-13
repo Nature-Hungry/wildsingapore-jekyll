@@ -2,7 +2,7 @@
 title: "Vitate conch snail "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "vitate, conch, strombus, doxander, vittatus, apicatus, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Strombidae
 genus: Doxander
 species: vittatus
@@ -16,6 +16,26 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Stromboidea
 updated: Jul 2023
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg"
+  caption: |
+    <p>St John's Island, Jul 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5382m3.jpg"
+  caption: |
+    <p>St John's Island, Jul 16</p>
+- url: "https://live.staticflickr.com/7289/27888454850_362658f3d7_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/27888454850/ "Vitate conch (Doxander vittatus apicatus)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/230706bb.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 2023</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/240723chgeccn4.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/251009sjitl4.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/vittatus/160708sjid5384m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -52,11 +72,7 @@ to 10cm. Shell thick, heavy, long and narrow, lip flared slightly wavy. The flar
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits. Large eyes on
 eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
-*![](vittatus/160708sjid5384m6la.jpg)**St John's Island, Jul 16*
-![](vittatus/160708sjid5382m3.jpg)  
-*St John's Island, Jul 16*
-[![Vitate conch (Doxander vittatus apicatus)](https://live.staticflickr.com/7289/27888454850_362658f3d7_z.jpg)](https://www.flickr.com/photos/wildsingapore/27888454850/ "Vitate conch (Doxander vittatus apicatus)")
-*![](vittatus/230706bb.jpg)**Beting Bronok, Jul 2023*
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
@@ -76,11 +92,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](vittatus/240723chgeccn4.jpg)  
-Changi East (Lost Coast), Jul 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161269751293654).
 
-*![](vittatus/251009sjitl4.jpg)  
-St John's Island, Oct 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post).
 
 ---
 

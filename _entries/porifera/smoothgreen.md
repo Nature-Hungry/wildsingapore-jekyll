@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, green, sponge, porifera, field, guide, seashore, sea, shore, marine,"
-layout: default
+layout: entry
 shape: encrusting
 title: Smooth green sponge
 family: ""
@@ -12,6 +12,47 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100811slud0120m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100811slud0120m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/111225tsmkd4836m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/111225tmskd4839m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100401labd0327m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100401labd0327m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/160313trymn3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100601slud4720m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100601slud4720m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100131slud8887m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100131slud8887m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100530tbkd4278m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100530tbrkd4278m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/smoothgreen/100811slud0120m3.jpg"
 ---
 
 
@@ -42,14 +83,9 @@ may also be green, but is very smooth and doesn't have tiny bumps
 on the surface. Also similar to the  [Smooth
 brown sponges](smoothbrown.htm) (*Neopetrosia exigua*) which are brown.
 
-![](smoothgreen/100811slud0120m3.jpg)  
-*Pulau Salu, Aug 10*![](smoothgreen/100811slud0120m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](smoothgreen/111225tsmkd4836m3.jpg)  
-*Terumbu Semakau, Dec 11![](smoothgreen/111225tmskd4839m3a.jpg)*
 
-![](smoothgreen/100401labd0327m3.jpg)  
-*Labrador, Apr 10*![](smoothgreen/100401labd0327m3a.jpg)
 
   
 *\*Species are difficult to positively identify without close examination.   
@@ -73,19 +109,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](smoothgreen/160313trymn3.jpg)  
-*Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3).
 
 ---
 
-![](smoothgreen/100601slud4720m3.jpg)  
-*Pulau Salu, Jun 10*![](smoothgreen/100601slud4720m3a.jpg)
 
-![](smoothgreen/100131slud8887m3.jpg)  
-*Terumbu Salu, Jan 10*![](smoothgreen/100131slud8887m3a.jpg)
 
-![](smoothgreen/100530tbkd4278m3.jpg)  
-*Pulau Berkas, May 10*![](smoothgreen/100530tbrkd4278m3a.jpg)
 
 ---
 

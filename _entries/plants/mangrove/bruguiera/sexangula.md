@@ -2,7 +2,7 @@
 title: Tumu berau
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, berau, bruguiera, sexangula, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 32, 36, 68]
 family: Rhizophoraceae
 genus: Bruguiera
@@ -15,6 +15,30 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 189949
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg"
+  caption: |
+    <p>Pasir Ris, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/090329cjd8650m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5857m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091213ubnd5854m3.jpg"
+  caption: |
+    <p>Large flowers, each on one stalk.</p>
+    <p>Calyx usually yellow.</p>
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6500m3.jpg"
+  caption: |
+    <p>No tassels on petal tips.</p>
+    <p>Pasir Ris, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/100411prpd0923m3a.jpg"
+  caption: |
+    <p>Sepals extend away from the propagule.</p>
+    <p>Pasir Ris, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/sexangula/091230prpd6496m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -94,31 +118,12 @@ after they are soaked and boiled.
 is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore   
 
-*![](sexangula/091230prpd6496m6l.jpg)  
-Pasir Ris,
-Jan 10  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](sexangula/090329cjd8650m3a.jpg)  
-Chek Jawa,
-Mar 09  
   
-![](sexangula/091213ubnd5857m3.jpg)  
-Pulau Ubin,
-Dec 09*
 
-![](sexangula/091213ubnd5854m3.jpg)  
-Large flowers, each on one stalk.  
-Calyx usually yellow.  
-*Pulau Ubin, Dec 09*
 
-![](sexangula/091230prpd6500m3.jpg)  
-*No tassels on petal tips.  
-Pasir Ris, Jan 10*
 
-![](sexangula/100411prpd0923m3a.jpg)  
-Sepals extend away   
-from the propagule.  
-*Pasir Ris, Jan 10*
 
 ---
 

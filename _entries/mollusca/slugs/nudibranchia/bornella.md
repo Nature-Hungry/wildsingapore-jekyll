@@ -2,7 +2,7 @@
 title: Starry-mouthed nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bornella, nudibranchia, slug, seaslug, stellifer, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 30, 33, 90]
 family: Bornellidae
 genus: Bornella
@@ -20,6 +20,80 @@ order: Nudibranchia
 suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg"
+  caption: |
+    <p>Sisters Islands, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3a.jpg"
+  caption: |
+    <p>White feathery gills, protected by the white and orange appendages.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3b.jpg"
+  caption: |
+    <p>Conical orange rhinophores</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/090623ecpd4842m3.jpg"
+  caption: |
+    <p>East Coast, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/080705bbd7134m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3c.jpg"
+  caption: |
+    <p>Star-shaped oral tentacles.</p>
+- url: "https://live.staticflickr.com/7848/40198623943_cc0307fca2_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/40198623943/ "Bornella stellifer")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/200722lygjll1.jpg"
+  caption: |
+    <p>Changi, Jul 20 Photo shared by Jialin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157587452396295&set=a.10157587451311295&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/200921chgwvc1.jpg"
+  caption: |
+    <p>Changi West, Sep 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157963790642945&set=a.10157963789392945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/220716bbky1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 22 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167216901170112&set=a.10167216904975112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/211009blylks1.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159490100283158&set=a.10159490105468158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/251106lazky7.jpg"
+  caption: |
+    <p>Seringat-Kias, Nov 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173545456945112&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/220103sntlks1.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159652574983158&set=a.10159652575878158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/090509sisjk2m3.jpg"
+  caption: |
+    <p>Sisters Island, May 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3514538416/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/120710jngtch.jpg"
+  caption: |
+    <p>Pulau Jong, Jul 12 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10151026654013713&set=a.10151026640128713.451196.619308712&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/170429kustch2.jpg"
+  caption: |
+    <p>Kusu Island, Apr 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10155318568588713&set=a.10155318560448713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/100528tkkjk14m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/100626cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Jun 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4735455916/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/170129slglks.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jan 17 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegi.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/140908hntlks1m3.JPG"
+  caption: |
+    <p>Pulau Hantu, Sep 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/140811trylks2m3.JPG"
+  caption: |
+    <p>Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/250713tryjk2.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 25 Photo shared by Jayden Kang on <a href="https://www.facebook.com/media/set/?set=a.30284476521201141&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/100518bbbjk4m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/100629tpdjk6m6l.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bornella/060102sisg3735m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,23 +139,13 @@ from side to side.
   
 **What does it eat?** It eats small [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm) growing on or under rocks and hard surfaces.
 
-*![](bornella/060102sisg3735m3.jpg)  
-Sisters Islands, Jan 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bornella/060102sisg3735m3a.jpg)*White feathery gills, protected by  
-the white and orange appendages.
 
-*![](bornella/060102sisg3735m3b.jpg)*Conical orange rhinophores
 
-*![](bornella/090623ecpd4842m3.jpg)  
-East Coast, Jun 09*
 
-![](bornella/080705bbd7134m3.jpg)  
-*Beting Bronok, Jul 08*
 
-*![](bornella/060102sisg3735m3c.jpg)*Star-shaped oral tentacles.
 
-[![Bornella stellifer](https://live.staticflickr.com/7848/40198623943_cc0307fca2_z.jpg)](https://www.flickr.com/photos/wildsingapore/40198623943/ "Bornella stellifer")
 
 ---
 
@@ -99,86 +163,34 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bornella/200722lygjll1.jpg)*  
-*Changi, Jul 20*  
-Photo shared by Jialin Liu on [facebook](https://www.facebook.com/photo.php?fbid=10157587452396295&set=a.10157587451311295&type=3&theater).
 
-*![](bornella/200921chgwvc1.jpg)*  
-*Changi West, Sep 20*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10157963790642945&set=a.10157963789392945).
 
-*![](bornella/220716bbky1.jpg)*  
-*Beting Bronok, Jul 22*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167216901170112&set=a.10167216904975112).
 
 ---
 
-![](bornella/211009blylks1.jpg)  
-*Berlayar Creek, Oct 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159490100283158&set=a.10159490105468158).
 
-![](bornella/251106lazky7.jpg)  
-*Seringat-Kias, Nov 25*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173545456945112&type=3&ref=embed_post)
 
-*![](bornella/220103sntlks1.jpg)*  
-*Sentosa Tg Rimau, Jan 22*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159652574983158&set=a.10159652575878158).
 
 ---
 
-*![](bornella/090509sisjk2m3.jpg)*  
-*Sisters Island, May 09*  
-Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/3514538416/).
 
-*![](bornella/120710jngtch.jpg)*  
-*Pulau Jong, Jul 12*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10151026654013713&set=a.10151026640128713.451196.619308712&type=3&theater).
 
 ---
 
-![](bornella/170429kustch2.jpg)  
-*Kusu Island, Apr 17*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10155318568588713&set=a.10155318560448713&type=3&theater).
 
-*![](bornella/100528tkkjk14m3.jpg)  
-Pulau Tekukor,
-May 10*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukor.html).
 
 ---
 
-*![](bornella/100626cyrlks.JPG)  
-Cyrene Reef, Jun 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4735455916/in/album-72157607718672165/).
 
-*![](bornella/170129slglks.jpg)*  
-*Terumbu Selegie, Jan 17*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2017/01/cny-day-2-terumbu-selegi.html).
 
 ---
 
-*![](bornella/140908hntlks1m3.JPG)*  
-*Pulau Hantu, Sep 14*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-at.html).
 
-*![](bornella/140811trylks2m3.JPG)*  
-*Terumbu Raya, Aug 14*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html).
 
-*![](bornella/250713tryjk2.jpg)*  
-*Terumbu Raya, Jul 25*  
-Photo shared by Jayden Kang on [facebook](https://www.facebook.com/media/set/?set=a.30284476521201141&type=3&ref=embed_post).
 
 ---
 
-*![](bornella/100518bbbjk4m3.jpg)  
-Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html).
 
-*![](bornella/100629tpdjk6m6l.jpg)*  
- *Terumbu Pempang Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html).
 
   
 

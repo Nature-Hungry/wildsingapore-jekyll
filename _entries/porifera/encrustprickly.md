@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: encrusting
 title: Yellow prickly branching sponge
 family: Pseudoceratinidae
@@ -16,6 +16,72 @@ class: Demospongiae
 subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2806m3.jpg"
+  caption: |
+    <p>Usually dark with yellow tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2805m3a.jpg"
+  caption: |
+    <p>Many tiny holes on a bumpy surface.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg"
+  caption: |
+    <p>A <a href="../mollusca/bivalvia/pteriidae/vulsella.htm">Sponge finger oyster</a> embedded in the sponge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg"
 ---
 
 
@@ -66,53 +132,26 @@ of several components of the processing machinery in cancer cells,
 preventing them from growing and dividing. [More
 details](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html).
 
-![](encrustprickly/110522bbbd2803m3.jpg)  
-*Beting Bemban Besar, May 11*![](encrustprickly/110522bbbd2806m3.jpg)  
-Usually dark with yellow tips.  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](encrustprickly/110522bbbd2805m3a.jpg)  
-Many tiny holes on a bumpy surface.
 
-![](encrustprickly/111001sjid2044m3.jpg)  
-*St. John's Island, Oct 11*
 
-![](encrustprickly/111001sjid2044m3a.jpg)  
-A [Sponge finger
-oyster](../mollusca/bivalvia/pteriidae/vulsella.htm)  
-embedded in the sponge.
 
-![](encrustprickly/111001sjid2044m3b.jpg)
 
 ---
 
-![](encrustprickly/120124sisd5828m3.jpg)  
-*Sisters Island, Jan 12*![](encrustprickly/120124sisd5828m3a.jpg)
 
-![](encrustprickly/040901sjid6066m3.jpg)  
-*St. John's Island, Sep 04*![](encrustprickly/040901sjid6066m3a.jpg)
 
-![](encrustprickly/051204sisg3279m3.jpg)  
-*Sisters Islands, Dec 05*![](encrustprickly/051204sisg3279m3a.jpg)
 
 ---
 
-![](encrustprickly/100811slud0122m3.jpg)  
-*Pulau Salu, Aug 10*
 
-![](encrustprickly/100811slud0122m3a.jpg)
 
-![](encrustprickly/100811slud0122m3b.jpg)
 
 ---
 
-![](encrustprickly/091204pawd0058m3.jpg)  
-*Pulau Pawai, Dec 09*![](encrustprickly/091204pawd0058m3a.jpg)
 
-![](encrustprickly/091231biod6926m3.jpg)  
-*Pulau Biola, Dec 09*![](encrustprickly/091231biod6926m3a.jpg)
 
-![](encrustprickly/100130brkd8606m3.jpg)  
-*Terumbu Berkas, Jan 10*![](encrustprickly/100130brkd8606m3a.jpg)
 
   
 *\*Species are difficult

@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, blue, sponge, lendenfeldia, chondrodes, thorectidae, porifera, field,"
-layout: default
+layout: entry
 shape: encrusting
 title: Blue icing sponge
 family: Thorectidae
@@ -9,6 +9,47 @@ genus: Lendenfeldia
 species: cf.
 attributes: []
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040706lazd2411m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040706lazd2411m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/060102sisd6510m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/060102sisg3694m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040423sntd0038m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040423sntd0038m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/060628sntd3795m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/060628sntd3795m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040703sisd1665m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040703sisd1665m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/091231biod6934m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/091231biod6934m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/100531biod4472m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/040706lazd2411m3.jpg"
 ---
 
 
@@ -38,14 +79,9 @@ green sponge](smoothgreen.htm) which is not as smooth has has a texture of tiny
 bumps. Also similar to the  [Smooth brown
 sponges](smoothbrown.htm) (*Neopetrosia exigua*) which are brown.
 
-![](smoothblue/040706lazd2411m3.jpg)  
-*Lazarus, Jul 04*![](smoothblue/040706lazd2411m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](smoothblue/060102sisd6510m3.jpg)  
-*Sisters Islands, Jan 06*![](smoothblue/060102sisg3694m3.jpg)
 
-![](smoothblue/040423sntd0038m3.jpg)  
-*Sentosa, Apr 04*![](smoothblue/040423sntd0038m3a.jpg)
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience of
@@ -68,19 +104,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](smoothblue/060628sntd3795m3.jpg)  
-*Sentosa, Jun 06*![](smoothblue/060628sntd3795m3a.jpg)
 
-![](smoothblue/040703sisd1665m3.jpg)  
-*Sisters Island, Jul 04*![](smoothblue/040703sisd1665m3a.jpg)
 
-![](smoothblue/091231biod6934m3.jpg)  
-*Pulau Biola, Dec 09* ![](smoothblue/091231biod6934m3a.jpg)
 
 ---
 
-![](smoothblue/100531biod4472m3.jpg)  
-*Pulau Biola, May 10*
 
 ---
 

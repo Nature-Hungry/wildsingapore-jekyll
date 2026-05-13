@@ -2,7 +2,7 @@
 title: "Jambu bol "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jambu, bol, syzygium, malaccense, malaccense, myrtaceae, shrub, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [8, 10, 20, 21]
 family: Myrtaceae
 genus: Syzygium
@@ -17,6 +17,62 @@ order: Myrtales
 subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2130m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2124m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2120m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2120m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2129m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2131m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091128cjd4768m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091128cjd4768m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Wee Yeow Chin.</p>
+    <p>1992.</p>
+    <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
+    <p>The Singapore Science Centre.</p>
+    <p>160pp - Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/syzygium/malaccense/091005cjd2125m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -66,30 +122,12 @@ tongue ailments, and the bark used as a mouthwash to treat mouth diseases.
 The roots are used to treat itches. According to Wee, a cooling drink
 is also made of the seeds and fruits.  
 
-![](malaccense/091005cjd2125m6l.jpg)  
-*Pulau Ubin,
-Oct 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](malaccense/091005cjd2130m3.jpg)  
-*Pulau Ubin,
-Oct 09  
-![](malaccense/091005cjd2124m3.jpg)*
 
-![](malaccense/091005cjd2120m3.jpg)  
-*Pulau Ubin,
-Oct 09  
-![](malaccense/091005cjd2120m3a.jpg)*
 
-![](malaccense/091005cjd2129m3.jpg)  
-*Pulau Ubin,
-Oct 09  
-![](malaccense/091005cjd2131m3.jpg)*
 
-![](malaccense/091128cjd4768m3a.jpg)  
-*Chek Jawa,
-Nov 09*
 
-![](malaccense/091128cjd4768m3.jpg)
 
 ---
 
@@ -106,22 +144,6 @@ Nov 09*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

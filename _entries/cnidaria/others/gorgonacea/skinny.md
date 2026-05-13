@@ -2,7 +2,7 @@
 title: Skinny sea fans
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, astrogorgia, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Plexauridae
 genus: Astrogorgia
 species: ""
@@ -15,6 +15,40 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
+  caption: |
+    <p>East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/100727chgd9283m3.jpg"
+  caption: |
+    <p>Changi, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/050722cjg9842m3b.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg"
+  caption: |
+    <p>Tiny <a href="../../../echinodermata/ophiuroidea/tinycolourful">colourful brittle stars</a>.</p>
+    <p>Changi, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/081214ecmd3212m3.jpg"
+  caption: |
+    <p>Red <a href="../../../worm/polycladida/polycladida">flatworm</a>?</p>
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
+  caption: |
+    <p><a href="../../../mollusca/gastropoda/ovulidae/red">Ovulid snails</a> East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/091218tmlks2m3.JPG"
+  caption: |
+    <p>Tanah Merah, Dec 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/150618tmftlks7m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/090723ecplks5m3.jpg"
+  caption: |
+    <p>East Coast Park, Jul 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/170428ecpcnlks5.jpg"
+  caption: |
+    <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/skinny/060613ecpd3053m3b.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,25 +99,14 @@ onto to them including [tiny
 colourful brittle stars](../../../echinodermata/ophiuroidea/tinycolourful), transparent shrimps and [ovulid
 snails](../../../mollusca/gastropoda/ovulidae/ovulidae).
 
-![](skinny/060613ecpd3053m3b.jpg)  
-*East Coast, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](skinny/100727chgd9283m3.jpg)  
-Changi, Jul 09*
 
-*![](skinny/050722cjg9842m3b.jpg)  
-Chek Jawa, Jul 05*
 
 ---
 
-![](../../../echinodermata/ophiuroidea/tinycolourful/120605lygd4160m3a.jpg)Tiny [colourful
-brittle stars](../../../echinodermata/ophiuroidea/tinycolourful). *Changi, Jun 12*
 
-*![](skinny/081214ecmd3212m3.jpg)*Red [flatworm](../../../worm/polycladida/polycladida)? *East Coast, Dec 08*
 
-![](../../../mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg)[Ovulid
-snails](../../../mollusca/gastropoda/ovulidae/red)  
-*East Coast, Jun 06*
 
  *\***Species
 are difficult to positively identify without close examination.**On this website, they are grouped by external
@@ -106,21 +129,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](skinny/091218tmlks2m3.JPG)  
-Tanah Merah, Dec 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl).
 
-*![](skinny/150618tmftlks7m3.jpg)  
-Tanah Merah Ferry Terminal, Jun 15*Photo shared by Loh Kok Sheng on [facebook.](https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3)
 
 ---
 
-*![](skinny/090723ecplks5m3.jpg)  
-East Coast Park, Jul 09*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl).
 
-*![](skinny/170428ecpcnlks5.jpg)  
-East Coast PCN, Apr 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3).
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Bean cowries "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bean, cowry, cowrie, triviidae, trivirostra, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Triviidae
 genus: ""
 species: ""
@@ -16,6 +16,32 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Velutinoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4786535126/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks3m3.jpg"
+  caption: |
+    <p>Sentosa, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks2m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/01/rare-snail-at-sentosa.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100102sntlks4m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks6.JPG"
+  caption: |
+    <p>Cyrene Reef, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks7.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5804157394/in/album-72157607718672165/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/110606cyrlks8.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/140712cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Jul 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24881062736/in/album-72157607718672165/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/triviidae/triviidae/100712cyrlks4m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,40 +87,20 @@ and threats:** *Trivirostra oryza oryza* is listed as
 to Davison, it was commonly found prior to the 1970s but has not been
 seen since.
 
-![](triviidae/100712cyrlks4m6la.jpg)  
-*Cyrene Reef, Jul 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4786535126/).
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](triviidae/100102sntlks3m3.jpg)  
-*Sentosa,
-Dec 09*
 
-![](triviidae/100102sntlks2m3.jpg)  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/01/rare-snail-at-sentosa.html).
 
-![](triviidae/100102sntlks4m3.jpg)
 
 ---
 
-![](triviidae/110606cyrlks6.JPG)  
-*Cyrene Reef, Jun 11*
 
-![](triviidae/110606cyrlks7.JPG)  
-Photo shared by Loh Kok Sheng on [his
-flickr](https://www.flickr.com/photos/koksheng/5804157394/in/album-72157607718672165/).
 
-![](triviidae/110606cyrlks8.JPG)
 
 ---
 
-![](triviidae/140712cyrlks.JPG)  
-*Cyrene Reef, Jul 14*  
-Photo shared by Loh Kok Sheng on [his
-flickr](https://www.flickr.com/photos/koksheng/24881062736/in/album-72157607718672165/).
 
 ---
 

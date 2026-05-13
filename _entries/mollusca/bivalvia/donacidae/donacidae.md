@@ -2,7 +2,7 @@
 title: Surf clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Donacidae
 genus: ""
 species: ""
@@ -19,6 +19,17 @@ superorder: Imparidentia
 order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg"
+  caption: |
+    <p>Changi, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,13 +81,9 @@ are suspension or deposit feeders.  **Human uses:** Some are collected
 for food by coastal dwellers. In the Philippines, one species
 is collected in fairly large quantities.
 
-![](donacidae/101011chgd2129m3a.jpg)  
-*Changi, Oct
-10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](donacidae/101011chgd2129m3b.jpg)*
 
-*![](donacidae/101011chgd2129m3.jpg)*
 
 ---
 

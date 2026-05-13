@@ -2,7 +2,7 @@
 title: Noble volute
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Volutidae
 genus: Cymbiola
 species: nobilis
@@ -18,6 +18,120 @@ superfamily: Volutoidea
 subfamily: Amoriinae
 tribe: Melonini
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4113m3.jpg"
+  caption: |
+    <p>Underside, no operculum.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130624chg7d7899.jpg"
+  caption: |
+    <p>Burrowing with siphon sticking out.</p>
+    <p>Changi, Jun 13 What does it eat?</p>
+    <p>This predator eats molluscs seeking out buried prey with its siphon and encloses the prey in its huge foot then waits.</p>
+    <p>When the exhausted bivalve opens up to breathe (which can take several days!), the snail sticks its proboscis in and rasps the flesh of its prey with its radula.</p>
+    <p>While it may hunt from the surface, it often burrows to eat their prey under the sand.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg"
+  caption: |
+    <p>Noble volute hunting down a <a href="../../bivalvia/mactridae/bigbrown.htm">Big brown mactra clam</a> that eventually escaped.</p>
+    <p>Pulau Semakau, Mar 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251205cjccn1.jpg"
+  caption: |
+    <p>From video of whelk leaping to escape.</p>
+    <p>Chek Jawa, Dec 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163385153718654&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130624chg7d7981.jpg"
+  caption: |
+    <p>Attempting to eat a <a href="../../bivalvia/pinnidae/pinnidae.htm">Fan clam</a>?</p>
+    <p>Changi, Jun 13</p>
+- url: "https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/26855158272/ "Big brown mactra clam (Mactra grandis) escapes from a Noble volute (Cymbiola nobilis)") Baby nobles: Mama noble volutes lay large egg capsules.</p>
+    <p>Each capsule about 10cm long, oval with angular bumps, translucent white to beige or yellowish.</p>
+    <p>The capsules are usually stacked up to form a cylindrical, generally oval shape and the entire assembly attached to a hard, embedded object such as coral rubble.</p>
+    <p>Each capsule contains many eggs, but only one or a few develop, the survivor having eaten the others.</p>
+    <p>The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails.</p>
+    <p>Because there is no free-swimming larval stage the snail has a restricted range and local populations can be wiped out by over-collection.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/130820skdd1424.jpg"
+  caption: |
+    <p>A much smaller one riding on the back of a bigger one.</p>
+    <p>Prelude to mating?</p>
+    <p>Pulau Sekudu, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg"
+  caption: |
+    <p>Laying eggs Pulau Semakau, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg"
+  caption: |
+    <p>Baby volute!</p>
+    <p>Pulau Semakau, Mar 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2322988879/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/160511chg7mn2.jpg"
+  caption: |
+    <p>Changi, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152668893433660.1073741855.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/140502chg7tch1m3.jpg"
+  caption: |
+    <p>Eating a clam Changi, May 14Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10152393935428713.1073741880.619308712&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/230220cjccn1.jpg"
+  caption: |
+    <p>Eating a <a href="../strombidae/canarium.htm">Gong-gong snail</a>.</p>
+    <p>Chek Jawa, Feb 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10160294183103654&set=a.10160294140783654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/230607chgeccn1.jpg"
+  caption: |
+    <p>Eating a clam.</p>
+    <p>Changi East, Jun 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10160510654563654&set=a.10160510622013654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/220519ecpbrk3.jpg"
+  caption: |
+    <p>East Coast Park-Marina East, May 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159752013237906&set=a.10159752009057906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251207hntml1.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122193512480554640&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/201215smkelks3.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158831045648158&set=a.10158831062073158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/240708smkett2.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10234559139777947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/151225tsmkjll1m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Dec 15Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153367078121295.1073741859.542241294&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/100502trylks12m3.jpg"
+  caption: |
+    <p>Terumbu Raya, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4570136493/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/100518bbbnml3m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/05/diverse-beting-bembam-besar.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/251008bbbky7.jpg"
+  caption: |
+    <p>Eating a clam.</p>
+    <p>Beting Bemban Besar, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/240412tbtl4.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161177263329264&set=a.10161177255284264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/110517tptlks14m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/160312tptmn3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509281398660&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/091204pawjk1m3a.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171808452/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/220201brkvc3.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158910812617945&set=a.10158910873962945">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Sea Challengers.</p>
+    <p>314pp.</p>
+    <p>- Davison, G.W.</p>
+    <p>H.</p>
+    <p>and P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>Ng and Ho Hua Chew, 2008.</p>
+    <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+    <p>Nature Society (Singapore).</p>
+    <p>285 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/050623cjd4111m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,55 +184,14 @@ crabs.
 Sometimes all black. A wide variety of patterns can be seen, although
 in some, the pattern may be obscured by encrusting lifeforms. No operculum. Body large fleshy, black with bright orange or yellow spots. It has a long siphon
 that sticks out above the sand when the animal is buried.
-![](nobilis/050623cjd4111m3.jpg)  
-*Chek Jawa,
-Jun 05*
-*![](nobilis/050623cjd4113m3.jpg)*  
-Underside, no operculum.
-*![](nobilis/130624chg7d7899.jpg)*Burrowing with siphon sticking out.  
-*Changi, Jun 13*
-**What does it eat?** This predator eats molluscs
-seeking out buried prey with its siphon
-and encloses the prey in its huge foot then waits. When the exhausted
-bivalve opens up to breathe (which can take several days!), the snail
-sticks its proboscis in and rasps the flesh of its prey with its radula.
-While it may hunt from the surface, it often burrows to
-eat their prey under the sand.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](../../bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg)*Noble
-volute hunting down a [Big
-brown mactra clam](../../bivalvia/mactridae/bigbrown.htm) that eventually escaped. *Pulau Semakau, Mar 08*
 
-![](nobilis/251205cjccn1.jpg)  
-From video of whelk leaping to escape. *Chek Jawa,
-Dec 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10163385153718654&type=3&ref=embed_post).
-*![](nobilis/130624chg7d7981.jpg)*Attempting to eat a [Fan clam](../../bivalvia/pinnidae/pinnidae.htm)? *Changi, Jun 13*
  
 A clam using its foot to leap away
-from a Noble volute. [![Big brown mactra clam (Mactra grandis) escapes from a Noble volute (Cymbiola nobilis)](https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg)](https://www.flickr.com/photos/wildsingapore/26855158272/ "Big brown mactra clam (Mactra grandis) escapes from a Noble volute (Cymbiola nobilis)")
-**Baby nobles:** Mama
-noble volutes lay large egg capsules. Each capsule about 10cm long,
-oval with angular bumps, translucent white to beige or yellowish.
-The capsules are usually stacked up to form a cylindrical, generally
-oval shape and the entire assembly attached to a hard, embedded object
-such as coral rubble. Each capsule contains many eggs, but only one or a
-few develop, the survivor having eaten the others. The eggs hatch
-and undergo metamorphosis within the egg capsules, emerging as tiny
-crawling snails. Because there
-is no free-swimming larval stage the snail has a restricted range and local
-populations can be wiped out by over-collection.
 
-![](nobilis/130820skdd1424.jpg)  
-A much smaller one riding on the   
-back of a bigger one. Prelude to mating? *Pulau Sekudu, Aug 13*
 
-![](nobilis/070325smkd9603m3.jpg)  
-Laying eggs *Pulau Semakau, Mar 07*
 
-*![](nobilis/080310smktch01m3.jpg)*Baby
-volute!  *Pulau Semakau, Mar 08*Photo
-shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/2322988879/).
 
 **Human uses:** Called 'kilah'
 in Malay, the Noble volute is edible. It is also 'often collected for
@@ -151,84 +224,36 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](nobilis/160511chg7mn2.jpg)*  
- *Changi, May 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10152668893433660.1073741855.624178659&type=3)*.*
 
-*![](nobilis/140502chg7tch1m3.jpg)*Eating a clam *Changi,
-May 14*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10152393935428713.1073741880.619308712&type=1).
 
-*![](nobilis/230220cjccn1.jpg)*Eating a [Gong-gong snail](../strombidae/canarium.htm). *Chek Jawa, Feb 23*Photo
-shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10160294183103654&set=a.10160294140783654).
 
 ---
 
-*![](nobilis/230607chgeccn1.jpg)*Eating a clam. *Changi East, Jun 23*Photo
-shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10160510654563654&set=a.10160510622013654).
 
-*![](nobilis/220519ecpbrk3.jpg)**East Coast Park-Marina East, May 22*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159752013237906&set=a.10159752009057906).
 
 ---
 
-*![](nobilis/251207hntml1.jpg)*  
- *Pulau Hantu, Dec 25*Photo shared by Mathias Luk on [facebook](https://www.facebook.com/media/set/?set=a.122193512480554640&type=3&ref=embed_post).
 
 ---
 
-*![](nobilis/201215smkelks3.jpg)*  
- *Pulau Semakau (East), Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158831045648158&set=a.10158831062073158).
 
-*![](nobilis/240708smkett2.jpg)*  
- *Pulau Semakau (East), Jul 24*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10234559139777947).
 
-![](nobilis/151225tsmkjll1m3.jpg)  
- *Terumbu
-Semakau, Dec 15*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10153367078121295.1073741859.542241294&type=3&pnref=story).
 
 ---
 
-![](nobilis/100502trylks12m3.jpg)  
- *Terumbu
-Raya, May 10*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4570136493/).
 
-![](nobilis/100518bbbnml3m3.jpg)  
- *Beting
-Bemban Besar, May 10*Photo
-shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/05/diverse-beting-bembam-besar.html).
 
-*![](nobilis/251008bbbky7.jpg)*  
-Eating a clam. *Beting Bemban Besar, Oct 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post)*.*
 
 ---
 
-![](nobilis/240412tbtl4.jpg)  
- *Terumbu Bemban, Apr 24*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161177263329264&set=a.10161177255284264)*.*
 
 ---
 
-*![](nobilis/110517tptlks14m3.jpg)*  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html)*.*
 
-*![](nobilis/160312tptmn3.jpg)*  
- *Terumbu Pempang Tengah, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509281398660&type=3)*.*
 
 ---
 
-![](nobilis/091204pawjk1m3a.jpg)  
- *Pulau Pawai,
-Dec 09*Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171808452/).
 
-![](nobilis/220201brkvc3.jpg)  
- *Pulau Berkas,
-Feb 22*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158910812617945&set=a.10158910873962945).
 
 ---
 
@@ -250,12 +275,6 @@ shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=101589
 - Gosliner,
   Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Sea Challengers. 314pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

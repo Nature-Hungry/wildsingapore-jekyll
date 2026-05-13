@@ -2,7 +2,7 @@
 title: Blue-spotted mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 19, 25, 47, 72]
 family: Gobiidae
 genus: Boleophthalmus
@@ -18,6 +18,24 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
+  caption: |
+    <p>Adult females have elongated spines on the first dorsal fin.</p>
+    <p>Pulau Ubin, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg"
+  caption: |
+    <p>Seletar, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Dec 06Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/324420653/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg"
+  caption: |
+    <p>Pasir Ris, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/back-to-pasir-ris-shore.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,16 +75,8 @@ seen about 6-8cm. Brown with 6-7 dark diagonal bars along the body.
 Lots of tiny blue spots on the 'cheeks', along the sides of the body
 and on the dorsal and other fins. In adult females, the first dorsal fin has elongated
 spines that stick out like long filaments.
-![](boddarti/130421ubnd5457m3.jpg)  
-Adult females
-have elongated spines  
-on the first dorsal fin. *Pulau Ubin, Apr 13*
-![](boddarti/100124cjd8051m6l.jpg)  
-*Chek Jawa,
-Jan 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](boddarti/110828seld0022.jpg)  
-Seletar, Aug 11*
 
 **What does it eat?** It grazes on
 algae and edible bits on the surface of the mud, gathering these by
@@ -93,14 +103,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](boddarti/061216sbwrmn.jpg)  
-Sungei Buloh Wetland Reserve, Dec 06*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/324420653/).
-*![](boddarti/101125prplks1m3.jpg)  
-Pasir Ris,
-Dec 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/11/back-to-pasir-ris-shore.html).
  
 
 ---

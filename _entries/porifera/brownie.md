@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: blobs
 title: Brownie sponge
 family: Spongiidae
@@ -9,6 +9,23 @@ genus: Hyattella
 species: tubaria*
 attributes: []
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1818m3.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1819m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/240708smkeky2.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169681682290112">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg"
 ---
 
 
@@ -28,15 +45,10 @@ Oct 2016*
 seen?**
 This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores. **Features:** Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
-![](brownie/120708tryd7520m3.jpg)  
-*Terumbu Raya, Jul 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](brownie/130822cjd1818m3.jpg)  
-*Chek Jawa, Aug 13*
 
-![](brownie/130822cjd1819m3a.jpg)
 
-![](brownie/120708tryd7520m3a.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -59,8 +71,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](brownie/240708smkeky2.jpg)*  
-*Pulau Semakau, Jul 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169681682290112).
 
 ---
 

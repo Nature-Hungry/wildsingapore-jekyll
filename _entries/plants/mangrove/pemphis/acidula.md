@@ -2,7 +2,7 @@
 title: Mentigi
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mentigi, pemphis, acidula, lythraceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 120]
 family: Lythraceae
 genus: Pemphis
@@ -15,6 +15,20 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7113m3b.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7116m3a.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6848m6l.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,19 +96,10 @@ storm in Nov 2006.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.
 
-*![](acidula/091231biod6842m6l.jpg)  
-Pulau Biola,
-Dec 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](acidula/091231biod7113m3b.jpg)  
-Pulau Biola, Dec 09   
   
-![](acidula/091231biod7116m3a.jpg)  
-Pulau Biola, Dec 09*
 
-*![](acidula/091231biod6848m6l.jpg)*  
-*Pulau Biola,
-Dec 09*
 
 ---
 

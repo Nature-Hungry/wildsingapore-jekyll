@@ -2,7 +2,7 @@
 title: Tree sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seafan, fan, melithaeidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Melithaeidae
 genus: ""
 species: ""
@@ -15,6 +15,47 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7645m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/050821bbg2020m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/050821bbg2021m3.jpg"
+  caption: |
+    <p>Swollen nodes at branching points.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/160510ecpbsjt4.jpg"
+  caption: |
+    <p>East Coast Park, May 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154128494628119.1073741901.696593118&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks1.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159300983453158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks2a.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300986593158&set=a.10159300990763158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210628ecpBlks2b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/140519srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, May 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14220049245/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/110422tbmlks13m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/100617tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, Jun 10 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4710863253/in/album-72157624104220316/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/130427tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750358702/in/album-72157626616274147/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/210502tptlks7.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171384768158&set=a.10159171388568158">facenook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/tree/101008tusc7643m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,12 +99,8 @@ include red, pink or white.
   
 Species in the Family Melithaeidae are difficult to tell apart.
 
-*![](tree/101008tusc7643m3.jpg)  
-Tuas, Oct 10**![](tree/101008tusc7645m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](tree/050821bbg2020m3.jpg)  
-Beting Bronok, Aug 05 ![](tree/050821bbg2021m3.jpg)*Swollen
-nodes at branching points.
 
  *\***Species
 are difficult to positively identify without close examination.**On this website, they are grouped by external
@@ -86,50 +123,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](tree/160510ecpbsjt4.jpg)  
-East Coast Park,
-May 16*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154128494628119.1073741901.696593118&type=3).
 
-*![](tree/210628ecpBlks1.jpg)  
-East Coast Park (B), Jun 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159300983453158&set=a.10159300990763158).
 
 ---
 
-*![](tree/210628ecpBlks2a.jpg)  
-East Coast Park (B), Jun 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159300986593158&set=a.10159300990763158).
 
-![](tree/210628ecpBlks2b.jpg)
 
 ---
 
-*![](tree/140519srplks.JPG)  
-Sentosa Serapong, May 14*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/14220049245/in/album-72157627005920441/).
 
-*![](tree/110422tbmlks13m3.jpg)  
-Terumbu Bemban,
-Apr 11*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl).
 
-*![](tree/100617tsmklks.JPG)  
-Terumbu Semakau, Jun 10*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4710863253/in/album-72157624104220316/).
 
 ---
 
-*![](tree/130427tptlks.JPG)  
-Terumbu Pempang Tengah,
-Apr 13*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8750358702/in/album-72157626616274147/).
 
-*![](tree/210502tptlks7.jpg)  
-Terumbu Pempang Tengah,
-May 21*  
-Photo shared by Loh Kok Sheng on [facenook](https://www.facebook.com/photo?fbid=10159171384768158&set=a.10159171388568158).
 
 ---
 

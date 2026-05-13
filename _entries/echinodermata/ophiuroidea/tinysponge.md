@@ -2,7 +2,7 @@
 title: "Tiny in-a-sponge brittle stars "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 31, 92]
 family: Ophioactidae
 genus: Ophiactis
@@ -20,6 +20,43 @@ order: Amphilepidida
 suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg"
+  caption: |
+    <p>In a <a href="../../porifera/suberites">Chocolate sponge</a>.</p>
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg"
+  caption: |
+    <p>The arms of countless brittle stars can make a sponge appear 'hairy'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg"
+  caption: |
+    <p>Outside the sponge?</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg"
+  caption: |
+    <p>Larger white brittle stars among the tiny banded ones.</p>
+    <p>Pulau Sekudu, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/100911sisd1174m3a.jpg"
+  caption: |
+    <p>In a  <a href="../../porifera/smoothblue">blue icing sponge</a>.</p>
+    <p>Sisters Island, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100911sisd1245m3a.jpg"
+  caption: |
+    <p>In a <a href="../../porifera/smoothbrown">smooth brown sponge</a>.</p>
+    <p>Sisters Island, Sep 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg"
+  caption: |
+    <p>In a <a href="../../porifera/bloborange">Orange blob sponge</a>.</p>
+    <p>Pulau Sekudu, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, May 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg"
 ---
 
 
@@ -58,36 +95,15 @@ star can reproduce sexually as well as asexually by division of the
 central disk, each half regenerating arms and other body parts to
 produce two new animals!
 
-![](tinysponge/060611cjd2782m3.jpg)  
-In a [Chocolate sponge](../../porifera/suberites). *Chek Jawa, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tinysponge/060611cjd2782m3a.jpg)  
-The arms of countless brittle stars   
-can make a sponge appear 'hairy'.
 
-![](tinysponge/080919sntd0619m3.jpg)  
-Outside the sponge?
 
-![](tinysponge/050621skdg8017m3.jpg)  
-*Pulau Sekudu, Jun 05*
 
-![](tinysponge/050621skdg8017m3a.jpg)
 
-![](tinysponge/040730skdd3214m3a.jpg)  
-Larger white brittle stars   
-among the tiny banded ones. *Pulau Sekudu, Jul 04*
 
-![](../../porifera/smoothblue/100911sisd1174m3a.jpg)  
-In a  [blue icing sponge](../../porifera/smoothblue).  
-*Sisters Island, Sep 10*
 
-![](../../porifera/smoothbrown/100911sisd1245m3a.jpg)  
-In a [smooth brown sponge](../../porifera/smoothbrown).  
-*Sisters Island, Sep 10*
 
-![](tinysponge/050621skdg7908m3.jpg)  
-In a [Orange blob sponge](../../porifera/bloborange).  
-*Pulau Sekudu, Jun 06*
 
  *\*Species
 are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience of
@@ -110,8 +126,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](tinysponge/150524tplmn1m3.jpg)  
- *Terumbu Pempang Laut, May 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3).
 
 ---
 
@@ -141,5 +155,3 @@ Hantu on 12 Apr 09
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

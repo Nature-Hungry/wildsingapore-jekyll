@@ -2,7 +2,7 @@
 title: Bordered sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sea star, seastar, starfish, star, fish, craspidaster, hesperus, astropectinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 91, 92, 106]
 family: Astropectinidae
 genus: Craspidaster
@@ -16,6 +16,57 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7204m3a.jpg"
+  caption: |
+    <p>Paxillae cover the upper body.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7199m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7198m3c.jpg"
+  caption: |
+    <p>Pointed tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg"
+  caption: |
+    <p>Pointed tube feet.</p>
+    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/250627bbrk4b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16 Shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/170625bbmn3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 17 Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154759351698660.1073741927.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/180616bblks16.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 18 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450078643158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks03m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/090207tmlks04m3a.jpg"
+  caption: |
+    <p>Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/tanah-merah-surprisesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks4m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/140713bblks5m3.jpg"
+  caption: |
+    <p>Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/160607bbjll1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16 Shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/posts/10153726155456295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/craspidaster/080705bbd7206m3.jpg"
 ---
 
 
@@ -44,23 +95,11 @@ plates. Underside pale without markings, tube feet are pointed (not tipped with 
   
 **What does it eat?** According to Marsh and Fromont, it probably eats microscopic life found in the silt and sand.
 
-![](craspidaster/080705bbd7206m3.jpg)  
-*Beting Bronok,
-Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](craspidaster/080705bbd7204m3a.jpg)  
-Paxillae cover
-the upper body.
 
-![](craspidaster/080705bbd7199m3.jpg)  
-Underside.
 
-![](craspidaster/080705bbd7198m3c.jpg)  
-Pointed tube
-feet.
 
-![](craspidaster/250627bbrk4b.jpg)  
-Pointed tube feet. *Beting Bronok, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post).
 
 ---
 
@@ -79,44 +118,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](craspidaster/250627bbrk4.jpg)*  
-*Beting Bronok, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post).
 
-![](craspidaster/250627bbrk4a.jpg)
 
-![](craspidaster/250627bbrk4b.jpg)
 
 ---
 
-![](craspidaster/160607bbjll1.jpg)  
-*Beting Bronok, Jun 16*  
-Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/10153726155456295).
 
-![](craspidaster/170625bbmn3.jpg)  
-*Beting Bronok, Jun 17*  
-Shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154759351698660.1073741927.624178659&type=3).
 
-![](craspidaster/180616bblks16.jpg)  
-*Beting Bronok, Jun 18*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156450078643158&set=a.10156450071873158&type=3&theater).
 
 ---
 
-![](craspidaster/090207tmlks03m3.jpg)  
-*East Coast Park, Feb 09*![](craspidaster/090207tmlks04m3a.jpg)  
-Shared by Loh
-Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/02/tanah-merah-surprisesl).
 
-![](craspidaster/140713bblks4m3.jpg)  
-*Beting Bronok, Jul 14*![](craspidaster/140713bblks5m3.jpg)  
-Shared by Loh
-Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl).
 
-![](craspidaster/160607bbjll1.jpg)  
-*Beting Bronok, Jun 16*  
-Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/10153726155456295).
 
 ---
 
@@ -138,5 +151,3 @@ Shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/posts/
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

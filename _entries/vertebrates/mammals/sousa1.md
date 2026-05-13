@@ -2,7 +2,7 @@
 title: "Indo-Pacific hump-backed dolphin (Sousa chinensis) of Singapore"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "indopacific, indo, pacific, humpbacked, hump, back, dolphin, pink, sousa, chinensis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 ---
 
 

@@ -2,7 +2,7 @@
 title: Brown sweetlips
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, sweetlips, fish, plectorhinchus, gibbosus, nigrus, haemulidae,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47, 58, 60]
 family: Haemulidae
 genus: Plectorhinchus
@@ -17,6 +17,66 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg"
+  caption: |
+    <p>Same fish rapidly changing ...</p>
+    <p>Labrador, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7666m3.jpg"
+  caption: |
+    <p>..colour and patterns.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180911pglrk1.jpg"
+  caption: |
+    <p>Punggol, Sep 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156462599692906&set=a.10156462598342906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/200804chg4rk1.jpg"
+  caption: |
+    <p>Changi, Aug 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158389947432906&set=a.10158389926277906&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240706ubnlks9.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240821skdrk3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090918tmjk7m3.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/180812nsrtch5.jpg"
+  caption: |
+    <p>East Coast Park, Aug 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734555008713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251108ecpbky9.jpg"
+  caption: |
+    <p>East Coast (B), Nov 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173578305560112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201117blyask1.jpg"
+  caption: |
+    <p>Berlayar Creek, Nov 20 Photo shared by Arjun Sai Krishnan on <a href="https://www.facebook.com/photo/?fbid=2736370226613048&set=a.2736385653278172">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/240527sntlks6.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161368188203158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/201115tkklks.jpg"
+  caption: |
+    <p>Pulau Tekukor, Nov 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158764487933158&set=a.10158764488663158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/210822ssislks3.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159407414703158&set=a.10159407433713158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/070812sislks05m3.jpg"
+  caption: |
+    <p>Sisters Island, Aug 07 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/08/predawn-at-little-sisters.html">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/140716cyrrl1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 14 Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.769194059798655.1073741837.109257872458947&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/130922hntmn.jpg"
+  caption: |
+    <p>Pulau Hantu, Sep 13 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/11200281216/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/251207hntky5.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/091204pawikw6m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158030361/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/041019labd7659m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,15 +122,9 @@ Lips swollen and thick especially in adults.
 **May be mistaken for** the [Tripletail](../lobotidae/surinamensis.htm) and [juvenile
 Sickletfish](../drepaneidae/drepane.htm).
 
-![](gibbosus/041019labd7659m3.jpg)  
-Same fish rapidly
-changing ... *Labrador, Oct 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](gibbosus/041019labd7666m3.jpg)*..colour
-and patterns.
 
-![](gibbosus/090806tmd8315m6l.jpg)  
- *Tanah Merah, Aug 09*
 
 **Make like a dead leaf:** It can change colour
 rapidly from pale patterns to dark. Often seen in pairs or alone in
@@ -101,74 +155,33 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](gibbosus/180911pglrk1.jpg)  
-*Punggol, Sep 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10156462599692906&set=a.10156462598342906&type=3&theater).
 
-![](gibbosus/200804chg4rk1.jpg)  
-*Changi, Aug 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo.php?fbid=10158389947432906&set=a.10158389926277906&type=3&theater).
 
 ---
 
-*![](gibbosus/240706ubnlks9.jpg)*  
-*Pulau Ubin, Jul 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158).
 
-*![](gibbosus/240821skdrk3.jpg)*  
-*Pulau Sekudu, Aug 24*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post).
 
 ---
 
-![](gibbosus/090918tmjk7m3.jpg)  
-*Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html).
 
-![](gibbosus/180812nsrtch5.jpg)  
-*East Coast Park, Aug 18*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156734555008713&set=a.10156734548003713&type=3&theater).
 
-![](gibbosus/251108ecpbky9.jpg)  
-*East Coast (B), Nov 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173578305560112&type=3&ref=embed_post).
 
 ---
 
-![](gibbosus/201117blyask1.jpg)  
-*Berlayar Creek, Nov 20*  
-Photo shared by Arjun Sai Krishnan on [facebook](https://www.facebook.com/photo/?fbid=2736370226613048&set=a.2736385653278172).
 
-![](gibbosus/240527sntlks6.jpg)  
-*Sentosa Tg Rimau, May 24*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161368188203158).
 
-![](gibbosus/201115tkklks.jpg)  
-*Pulau Tekukor, Nov 20*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158764487933158&set=a.10158764488663158).
 
 ---
 
-![](gibbosus/210822ssislks3.jpg)  
-*Small Sisters Island, Aug 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159407414703158&set=a.10159407433713158).
 
-![](gibbosus/070812sislks05m3.jpg)  
-*Sisters Island, Aug 07*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/08/predawn-at-little-sisters.html)
 
 ---
 
-![](gibbosus/140716cyrrl1m3.jpg)  
-*Cyrene Reef, Jul 14*  
-Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.769194059798655.1073741837.109257872458947&type=1).
 
-![](gibbosus/130922hntmn.jpg)  
-*Pulau Hantu,* Sep 13  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/11200281216/).
 
-![](gibbosus/251207hntky5.jpg)  
-*Pulau Hantu, Dec 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
 
 ---
 
-![](gibbosus/091204pawikw6m3.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by Ivan Kwan on [flickr](http://www.flickr.com/photos/hai_ren/4158030361/).
 
 ---
 

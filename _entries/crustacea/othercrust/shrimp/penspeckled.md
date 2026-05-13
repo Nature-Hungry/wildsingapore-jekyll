@@ -2,7 +2,7 @@
 title: Speckled penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [84, 103, 104]
 family: Penaeidae
 genus: ""
@@ -20,6 +20,36 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/080523cyrd3845m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/111001sjid1892m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,30 +89,19 @@ but overlooked because it is so well camouflaged.
 **Features:** 5-8cm long. Body speckled
 with small spots all over, reddish, greyish or brown. There may be
 faint bands on the body.
-*![](penspeckled/091106smkd3846m3.jpg)  
-Pulau Semakau, Nov 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](penspeckled/091106smkd3846m3b.jpg)*
 
-*![](penspeckled/091106smkd3846m3a.jpg)*
 
 ---
 
-*![](penspeckled/080523cyrd3845m3.jpg)  
-Cyrene Reef, May 08*
 
-*![](penspeckled/080523cyrd3845m3a.jpg)*
 
-*![](penspeckled/080523cyrd3845m3b.jpg)*
 
 ---
 
-*![](penspeckled/111001sjid1892m3.jpg)  
-St. John's Island, Oct 11*
 
-*![](penspeckled/111001sjid1892m3a.jpg)*
 
-*![](penspeckled/111001sjid1892m3b.jpg)*
 
   
 *\*Species are difficult to positively identify without close examination.  

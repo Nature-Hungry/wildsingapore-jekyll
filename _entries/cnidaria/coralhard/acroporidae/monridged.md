@@ -2,7 +2,7 @@
 title: Ridged   montipora coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: Montipora
 species: sp.*
@@ -15,6 +15,78 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg"
+  caption: |
+    <p>Kusu Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070505kusg9079m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/150706srpd7354m6l.jpg"
+  caption: |
+    <p><a href="../../../echinodermata/crinoidea/red.htm">Red feather stars</a> festoon the coral.</p>
+    <p>Sentosa Serapong, Jul 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/110704sntsrpd5733m3a.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/210502tptlks6.jpg"
+  caption: |
+    <p>Terumbu Pempang</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/210502tptlks6a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171383433158&set=a.10159171388568158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/080422smkd1487m3.jpg"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/080422smkd1488m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3.jpg"
+  caption: |
+    <p>Kusu Island, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070221kusg7762m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060713rlhg6392m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060713rlhg6392m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/100518tbbd2978m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/100518tbbd2980m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse,Jul</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/060714rlhg6486m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/220618tmftlks18.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/220618tmftlks18a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943824683158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/250430sjilll4.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/250430sjilll4a.jpg"
+  caption: |
+    <p>Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/130628thntlks.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/130628thntlks2.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24268135733/in/album-72157664453928665/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monridged/070505kusg9077m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,52 +142,23 @@ There are probably several different species on this page. It's hard
 to distinguish them without close examination of small features and
 they are grouped by large external features for convenience of display.
 
-![](monridged/070505kusg9077m3.jpg)  
-*Kusu Island,
-May 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](monridged/070505kusg9077m3b.jpg)
 
-![](monridged/070505kusg9079m3b.jpg)
 
 ---
 
-*![](monridged/150706srpd7354m6l.jpg)*[Red feather stars](../../../echinodermata/crinoidea/red.htm) festoon the coral. *Sentosa Serapong,
-Jul 15*
 
-*![](monridged/110704sntsrpd5733m3a.jpg)  
-Sentosa Serapong,
-Jul 11*
 
 ---
 
-![](monridged/210502tptlks6.jpg)  
-*Terumbu Pempang
-Tengah, May 21![](monridged/210502tptlks6a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159171383433158&set=a.10159171388568158).
 
-![](monridged/080422smkd1487m3.jpg)  
-*Pulau Semakau,
-Apr 08![](monridged/080422smkd1488m3.jpg)*
 
-![](monridged/070221kusg7762m3.jpg)  
-*Kusu Island,
-Feb 07  
-![](monridged/070221kusg7762m3c.jpg)*
 
 ---
 
-![](monridged/060713rlhg6392m3.jpg)  
-*Raffles Lighthouse,
-Jul 06*![](monridged/060713rlhg6392m3b.jpg)
 
-![](monridged/100518tbbd2978m3.jpg)  
-*Beting Bemban
-Besar, May 10  
-![](monridged/100518tbbd2980m3.jpg)*
 
-**![](monridged/060714rlhg6486m3.jpg)**  
-*Raffles Lighthouse,Jul
-6 **![](monridged/060714rlhg6486m3a.jpg)***
 
  *\*Species are
 difficult to positively identify without close examination.  
@@ -139,15 +182,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](monridged/220618tmftlks18.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22  
-![](monridged/220618tmftlks18a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943824683158&set=a.10159943838013158).
 
-![](monridged/250430sjilll4.jpg)  
- *St John's Island, Apr 25*![](monridged/250430sjilll4a.jpg)  
-Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post) .
-![](monridged/130628thntlks.JPG)  
-*Terumbu Hantu, Jun 13![](monridged/130628thntlks2.jpg)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24268135733/in/album-72157664453928665/).
   
 
 [links](../../../links.htm)

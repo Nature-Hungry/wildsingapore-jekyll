@@ -2,7 +2,7 @@
 title: "Bakau pasir "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bakau, rhizophora, stylosa, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 117]
 family: Rhizophoraceae
 genus: Rhizophora
@@ -15,6 +15,28 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 196666
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg"
+  caption: |
+    <p>Looping stilt roots extending outward.</p>
+    <p>Pulau Semakau, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg"
+  caption: |
+    <p>Flowers on long branching stalks.</p>
+    <p>Pulau Semakau, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg"
+  caption: |
+    <p>Fruit on stalks.</p>
+    <p>Fruit not so large compared to sepals.</p>
+    <p>St John's Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/130922hntd3180m3a.jpg"
+  caption: |
+    <p>Flower with long style, more visible without petals.</p>
+    <p>Pulau Hantu, Sep 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3b.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 12</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,25 +114,11 @@ in the urine.
 as 'Vulnerable' on the Red List of threatened plants of Singapore.
 It is threatened by habitat destruction and oil spills.  
 
-![](stylosa/070520smkd1221m3.jpg)  
-Looping
-stilt roots extending outward. *Pulau Semakau, May 07  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](stylosa/090315smkd8283m6l.jpg)*Flowers
-on long branching stalks. *Pulau Semakau, Mar 09*
 
-*![](stylosa/090809sjid8827m3a.jpg)*Fruit
-on stalks.  
-Fruit not so large compared to sepals. *St John's Island, Aug 09*
 
-*![](stylosa/130922hntd3180m3a.jpg)*Flower
-with long style,   
-more visible without petals. *Pulau
-Hantu, Sep 13*
 
-*![](stylosa/120219smkd7218m3b.jpg)  
-Pulau Semakau,
-Feb 12*
 
 ---
 

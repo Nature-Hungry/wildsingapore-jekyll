@@ -2,7 +2,7 @@
 title: "File clams "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "file,  shell,  clam, limidae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Limidae
 genus: ""
 species: ""
@@ -17,6 +17,30 @@ infraclass: Pteriomorphia
 order: Limida
 superfamily: Limoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg"
+  caption: |
+    <p>Swimming file clam can swim!</p>
+    <p>Terumbu Pempang Tengah, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0717m3.jpg"
+  caption: |
+    <p>Common file clam stuck to a rock.</p>
+    <p>Sisters Island, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/230806tbrk4.jpg"
+  caption: |
+    <p>Super tiny one!</p>
+    <p>Terumbu Bemban, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653908747906&set=a.10160653901047906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/201019sjijk1b.jpg"
+  caption: |
+    <p>Swimming file clam wedged in a crevice.</p>
+    <p>St John's Island, Oct 20Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50506369402/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8018m3.jpg"
+  caption: |
+    <p><a href="limaria.htm">Swimming file clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120820sisd0881m3.jpg"
+  caption: |
+    <p><a href="vulgaris.htm">Common file clam</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/limidae/limidae/120721tptd8003m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,20 +98,12 @@ out microscopic food. The water also brings fresh oxygen to the animal.
 and threats:** The Common file clam is listed as "Vulnerable" on the Red List of threatened animals
 of Singapore.
 
-![](limidae/120721tptd8003m3.jpg)  
-Swimming file clam can swim! *Terumbu Pempang
-Tengah, Jul 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](limidae/120820sisd0717m3.jpg)*Common file clam stuck to a rock. *Sisters Island,
-Aug 12*
 
 ---
 
-![](limidae/230806tbrk4.jpg)  
-Super tiny one! *Terumbu Bemban, Aug 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160653908747906&set=a.10160653901047906).
 
-*![](limidae/201019sjijk1b.jpg)*Swimming file clam wedged in a crevice. **St John's Island, Oct 20**Photo
-shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/50506369402/).
 
 ---
 
@@ -95,12 +111,7 @@ shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/505063694
 
 ---
 
-**![](limidae/120721tptd8018m3.jpg)   
-[Swimming file clam](limaria.htm)**
 
-![](limidae/120820sisd0881m3.jpg)  
-**[Common
-file clam](vulgaris.htm)**
 
 ---
 

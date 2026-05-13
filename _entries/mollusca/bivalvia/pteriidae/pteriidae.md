@@ -2,7 +2,7 @@
 title: Winged oysters
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "winged, oyster, clam, pteria, pteriidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pteriidae
 genus: ""
 species: ""
@@ -17,6 +17,31 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg"
+  caption: |
+    <p>Several <a href="seafan.htm">sea fan oysters</a> on one sea fan.</p>
+    <p>Changi, Jan 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/121215sislks2a.jpg"
+  caption: |
+    <p>Electroma physoides Sisters Island, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8459770435/in/album-72157607605631877/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/200113chgsaf.jpg"
+  caption: |
+    <p><a href="vulsella.htm">Sponge finger oyster</a> in a sponge.</p>
+    <p>Changi, Jan 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/170624cjd3250m3.jpg"
+  caption: |
+    <p><a href="seafan.htm">Sea fan winged oyster</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg"
+  caption: |
+    <p><a href="vulsella.htm">Sponge finger oyster</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg"
+  caption: |
+    <p><a href="ephippium.htm">Leaf oyster</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/isognomum/091206tmd5738m3.jpg"
+  caption: |
+    <p><a href="isognomum.htm">Elongated toothed oyster</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/130113chgd3570m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,16 +83,9 @@ for food by coastal populations and used as a substitute for true
 oysters. The oysters that produce commercial precious pearls belong
 to this family, but those seen on our shores do not produce pearls.
 
-![](pteriidae/130113chgd3570m3.jpg)  
-Several [sea fan oysters](seafan.htm) on one sea fan. *Changi, Jan 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pteriidae/121215sislks2a.jpg)  
-Electroma physoides  
-Sisters Island, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8459770435/in/album-72157607605631877/).
 
-![](vulsella/200113chgsaf.jpg)  
-[Sponge finger oyster](vulsella.htm) in a sponge.  
-*Changi, Jan 20*   
 
 ---
 
@@ -76,19 +94,11 @@ oysters on Singapore shores**
 
 ---
 
-**![](pteriidae/170624cjd3250m3.jpg)  
-[Sea fan winged oyster](seafan.htm)**
 
-***![](vulsella/120511tpld3152m3.jpg)*****[Sponge finger
-oyster](vulsella.htm)**
 
 ---
 
-**![](ephippium/050327sbwrg3830m3.jpg)  
-[Leaf oyster](ephippium.htm)**
 
-**![](isognomum/091206tmd5738m3.jpg)  
-[Elongated toothed oyster](isognomum.htm)**
 
 ---
 

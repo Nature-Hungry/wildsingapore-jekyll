@@ -2,7 +2,7 @@
 title: "Scaly red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "scaly, red, seaweed, weed, algae, peyssonnelia, peyssonneliales, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Peyssonneliaceae
 genus: Peyssonnelia
@@ -17,6 +17,57 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Peyssonneliales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/060501labg5888m3.jpg"
+  caption: |
+    <p>Labrador, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3.jpg"
+  caption: |
+    <p>East Coast, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/090819ecpd9351m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070102sisd7308m3.jpg"
+  caption: |
+    <p>Sisters Island, Jan 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070102sisd7308m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/081114cyrd1900m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/061223lazd7059m3.jpg"
+  caption: |
+    <p>Lazarus Island, Dec 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/061223lazd7059m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070303sjig7848m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/070303sjig7848m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/scaly/091206tmd5727m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,15 +119,10 @@ According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=
 there are 72 species of *Peyssonnelia* many of them requiring
 microscopic examination to determine to species.
 
-*![](scaly/091206tmd5727m3.jpg)  
-Tanah Merah, Dec 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](scaly/060501labg5888m3a.jpg)*
 
-*![](scaly/060501labg5888m3.jpg)  
-Labrador, May 06*
 
-*![](scaly/091206tmd5727m3a.jpg)*
 
 *\*Seaweed species
 are difficult to positively identify without microscopic examination.   
@@ -102,31 +148,13 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](scaly/090819ecpd9351m3.jpg)  
-East Coast, Aug 09  
-![](scaly/090819ecpd9351m3a.jpg)*
 
-*![](scaly/091206tmd5727m3.jpg)  
-Tanah Merah, Dec 09  
-![](scaly/091206tmd5727m3a.jpg)*
 
-*![](scaly/070102sisd7308m3.jpg)  
-Sisters Island, Jan 07  
-![](scaly/070102sisd7308m3a.jpg)*
 
 ---
 
-*![](scaly/081114cyrd1900m3.jpg)  
-Cyrene Reef, Nov 08  
-![](scaly/081114cyrd1900m3a.jpg)*
 
-*![](scaly/061223lazd7059m3.jpg)  
-Lazarus Island, Dec 06  
-![](scaly/061223lazd7059m3b.jpg)*
 
-*![](scaly/070303sjig7848m3.jpg)  
-St. John's Island, Mar 07  
-![](scaly/070303sjig7848m3a.jpg)*
 
 ---
 

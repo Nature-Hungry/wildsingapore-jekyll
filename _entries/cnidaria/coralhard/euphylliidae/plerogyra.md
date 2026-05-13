@@ -2,7 +2,7 @@
 title: "Pearl bubble coral "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pearl, bubble, coral, physogyra, lichtensteini, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphyllidae
 genus: Physogyra
 species: lichtensteini*
@@ -15,6 +15,68 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg"
+  caption: |
+    <p>Brain-like meandering valleys, made up of large coin-like plates</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg"
+  caption: |
+    <p>During the day covered in bubbles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks3.JPG"
+  caption: |
+    <p>Pulau Hantu, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks1.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/110607hntlks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5807946204/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks2.JPG"
+  caption: |
+    <p>Pulau Semakau, Feb 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25435354191/in/album-72157607751329669/">flickr</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140201smklks3.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/260629smkelks1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/260629smkelks1c.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/180520tsmk2lks.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156355164488158.1073741966.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140811trylks.JPG"
+  caption: |
+    <p>Terumbu Raya, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/140811trylks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25253654580/in/album-72157618622863607/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks.JPG"
+  caption: |
+    <p>Terumbu Semakau, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233776597/in/album-72157624104220316/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks1.JPG"
+  caption: |
+    <p>Terumbu Semakau, Nov 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/121115tsmklks3.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233794787/in/album-72157624104220316/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,19 +129,11 @@ is not listed amont the threatened animals of
 Singapore. But it is listed globally Near Threatened [by
 the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0). Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.
 
-![](plerogyra/150606tryo6060354m3.jpg)  
- *Terumbu Bemban, Apr 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](plerogyra/150606tryo6060354m3a.jpg)  
-Brain-like meandering valleys,   
-made up of large coin-like plates
 
-![](plerogyra/150606tryo6060356m3.jpg)  
-During the day covered in bubbles.
 
-![](plerogyra/150606tryo6060354m3c.jpg)
 
-![](plerogyra/150606tryo6060354m3b.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -102,54 +156,24 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](plerogyra/110607hntlks3.JPG)  
-*Pulau Hantu, Jun 11*
 
-![](plerogyra/110607hntlks1.JPG)
 
-![](plerogyra/110607hntlks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5807946204/in/album-72157607719695102/).
 
 ---
 
-![](plerogyra/140201smklks2.JPG)  
-*Pulau Semakau, Feb 14*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25435354191/in/album-72157607751329669/)
 
-![](plerogyra/140201smklks3.JPG)
 
 ---
 
-![](plerogyra/260629smkelks1a.jpg)  
-*Pulau Semakau East, Jun 25*![](plerogyra/260629smkelks1c.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3).
 
-![](plerogyra/150720smknlks4m3.jpg)  
-*Pulau Semakau North, Jul 15*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3).
 
 ---
 
-![](plerogyra/180520tsmk2lks.jpg)  
-*Terumbu Semakau, May 18*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10156355164488158.1073741966.547198157&type=3).
 
 ---
 
-![](plerogyra/140811trylks.JPG)  
-*Terumbu Raya, Aug 14*  
-![](plerogyra/140811trylks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25253654580/in/album-72157618622863607/).
 
-![](plerogyra/121115tsmklks.JPG)  
-*Terumbu Semakau, Nov 12*  
-![](plerogyra/121115tsmklks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8233776597/in/album-72157624104220316/).
 
-![](plerogyra/121115tsmklks1.JPG)  
-*Terumbu Semakau, Nov 12*  
-![](plerogyra/121115tsmklks3.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8233794787/in/album-72157624104220316/).
 
 ---
 

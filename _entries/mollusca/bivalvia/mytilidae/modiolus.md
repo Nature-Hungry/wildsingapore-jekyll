@@ -2,7 +2,7 @@
 title: Horse mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [2, 33, 107]
 family: Mytilidae
 genus: Modiolus
@@ -18,6 +18,26 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Modiolinae
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg"
+  caption: |
+    <p>Pulau</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3.jpg"
+  caption: |
+    <p>Pulau</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130722skdd9942m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/190219chg7m6l.jpg"
+  caption: |
+    <p>Dense carpet on the shore Changi, Feb 19</p>
+- url: "https://live.staticflickr.com/31337/40863986093_1911f36ffc_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/40863986093/ "Horse mussels (Modiolus sp.)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +80,9 @@ to anchor to the ground. Usually among seagrasses.
 to Tan Koh Siang, in the 1970s, *Modiolus metcalfi* used to be
 common in sandy and muddy areas in the intertidal and subtidal estuarine
 areas such as Lim Chu Kang. They are rarely seen nowadays.
-*![](modiolus/130820skdd1497m3.jpg)**Pulau
-Sekudu, Jul 13![](modiolus/130820skdd1497m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](modiolus/130722skdd9942m3.jpg)**Pulau
-Sekudu, Jul 13**![](modiolus/130722skdd9942m3a.jpg)*
 
-![](modiolus/190219chg7m6l.jpg)  
-Dense carpet on the shore *Changi, Feb 19*
 
 ---
 
@@ -82,7 +97,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-[![Horse mussels (Modiolus sp.)](https://live.staticflickr.com/31337/40863986093_1911f36ffc_z.jpg)](https://www.flickr.com/photos/wildsingapore/40863986093/ "Horse mussels (Modiolus sp.)")
 
 ---
 

@@ -2,7 +2,7 @@
 title: Pink flowery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, flower, dendronephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Nephtheidea
 genus: Dendronephthya
 species: sp.*
@@ -15,6 +15,28 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
+  caption: |
+    <p><a href="../../mollusca/gastropoda/ovulidae/softcoral.htm">False cowrie snail</a>.</p>
+    <p>Chek Jawa, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg"
+  caption: |
+    <p>Tiny <a href="../../echinodermata/ophiuroidea/tinycolourful.htm">colourful brittle star</a> Pulau Sekudu, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3494m3b.jpg"
+  caption: |
+    <p>Tiny porcelain crab.</p>
+    <p>Beting Bronok, Jun 06</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -61,29 +83,14 @@ and dark places.  **Flowery friends:** Tiny animals found on the soft coral incl
 tiny [false
 cowrie snails](../../mollusca/gastropoda/ovulidae/softcoral.htm), tiny porcelain crabs and [tiny colourful brittle stars](../../echinodermata/ophiuroidea/tinycolourful.htm).
 
-![](neppink/080705bbd6921m3.jpg)  
-*Beting Bronok, Jul 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](neppink/080705bbd6921m3b.jpg)
 
-![](neppink/060625bbd3316m3.jpg)  
-*Beting Bronok, Jun 06*
 
 ---
 
-*![](../../mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg)*  
-[False
-cowrie snail](../../mollusca/gastropoda/ovulidae/softcoral.htm).  
-*Chek Jawa, Apr 08*
 
-![](../../echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3a.jpg)  
-Tiny [colourful
-brittle star](../../echinodermata/ophiuroidea/tinycolourful.htm)  
-*Pulau Sekudu, May 08*
 
-![](neppink/060625bbd3494m3b.jpg)  
-Tiny porcelain crab.  
-*Beting Bronok, Jun 06*
 
   
 *\*ID awaits confirmation.

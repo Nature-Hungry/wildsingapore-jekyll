@@ -2,7 +2,7 @@
 title: Whelks
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Nassariidae
 genus: ""
 species: ""
@@ -16,6 +16,54 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
+  caption: |
+    <p>With a large barnacle on the shell.</p>
+    <p>Changi, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg"
+  caption: |
+    <p>Burrowing just beneath the sand with siphon sticking out.</p>
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg"
+  caption: |
+    <p>With a pair of <a href="../../../cnidaria/actiniaria/snail.htm">tiny sea anemone</a> hitch-hikers.</p>
+    <p>Chek Jawa, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg"
+  caption: |
+    <p>Whelks cleaning out a recently dead snail while a hermit crab waits patiently.</p>
+    <p>Tanah Merah, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg"
+  caption: |
+    <p>Whelk Joy!</p>
+    <p>Dead fish!</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg"
+  caption: |
+    <p>A small fish all to itself.</p>
+    <p>Sisters Island, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg"
+  caption: |
+    <p><a href="jacksonianus.htm">Mud whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
+  caption: |
+    <p><a href="livescens.htm">Common whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg"
+  caption: |
+    <p><a href="pullus.htm">Black whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg"
+  caption: |
+    <p><a href="olivaceus.htm">Olive whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg"
+  caption: |
+    <p><a href="lined.htm">Lined whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg"
+  caption: |
+    <p><a href="prickly.htm">Prickly whelk</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg"
+  caption: |
+    <p><a href="limnaeiformis.htm">Speckled whelk</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,16 +117,9 @@ in the sand. They have long slender tentacles bearing eyes, and the
 back of the large foot has a pair of tentacles. Whelks can also drill
 through shells.
 
-***![](olivaceaus/050609cftg7531m3.jpg)***With
-a large barnacle on the shell. *Changi, May 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](olivaceaus/050818cftg1443m3.jpg)  
-Burrowing just
-beneath the sand   
-with siphon sticking out. *Changi, Aug 05*
 
-*![](noid/040425cjd0095m3.jpg)*With a pair of [tiny
-sea anemone](../../../cnidaria/actiniaria/snail.htm) hitch-hikers. *Chek Jawa, Apr 04*
 
 **Whelk food:** Whelks are active
 scavengers and often seen busily foraging in pools at the change of
@@ -96,17 +137,8 @@ in return. [Barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.htm) 
 they are not much collected. Locally, they may be used as food or
 bait, and the shells sometimes used for shell craft.
 
-![](../../../crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg)  
-Whelks cleaning out a recently dead snail  
-while a hermit crab waits patiently. *Tanah Merah, Feb 07*
 
-![](noid/030913cjd0102m3.jpg)  
-Whelk Joy! Dead fish!  
-*Chek Jawa, Sep 03*
 
-![](noid/100103sisd7635m3.jpg)  
-A small fish all to itself.  
-*Sisters Island, Jan 10*
 
 ---
 
@@ -115,30 +147,16 @@ on Singapore shores**
 
 ---
 
-**![](jackonianus/050511cftg6345m3.jpg)  
-[Mud whelk](jacksonianus.htm)**
 
-**![](livescens/050524cftg6541m3.jpg)  
-[Common whelk](livescens.htm)**
 
-***![](pullus/060212sisg4807m3.jpg)*  
-[Black whelk](pullus.htm)**
 
 ---
 
-**![](olivaceaus/050818cftg1447m3.jpg)  
-[Olive whelk](olivaceus.htm)**
 
-**![](lined/070104chgd7442m3.jpg)  
-[Lined whelk](lined.htm)**
 
-**![](prickly/080919sntd0554m3.jpg)  
-[Prickly whelk](prickly.htm)**
 
 ---
 
-**![](limnaeiformis/130330cyrd4898m3.jpg)  
-[Speckled whelk](limnaeiformis.htm)**
 
 ---
 

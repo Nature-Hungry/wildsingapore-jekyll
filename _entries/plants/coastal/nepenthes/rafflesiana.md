@@ -2,7 +2,7 @@
 title: Raffles' pitcher plant
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pitcher, pitcherplant, nepenthes, rafflesiana, nepenthaceae, climber, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 35, 36]
 family: Nepenthaceae
 genus: Nepenthes
@@ -15,6 +15,53 @@ class: Magnoliopsida
 order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg"
+  caption: |
+    <p>Sentosa, Jun</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg"
+  caption: |
+    <p>Leaf modified into a pitcher.</p>
+    <p>Sentosa, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg"
+  caption: |
+    <p>Female flowers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3f.jpg"
+  caption: |
+    <p>Sentosa, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg"
+  caption: |
+    <p>Male flowers.</p>
+    <p>Sentosa, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg"
+  caption: |
+    <p>Ripe capsules split, releasing thread-like seeds..</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3c.jpg"
+  caption: |
+    <p>St John's Island, Aug 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Singapore University Press.</p>
+    <p>215 pp.</p>
+    <p>- Davison, G.W.</p>
+    <p>H.</p>
+    <p>and P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>Ng and Ho Hua Chew, 2008.</p>
+    <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+    <p>Nature Society (Singapore).</p>
+    <p>285 pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -99,21 +146,10 @@ The stem may be used to treat coughs and fevers.
 is listed as 'Vulnerable' in the Red List of threatened plants of
 Singapore.   
 
-![](rafflesiana/090609sntd3596m6l.jpg)  
-*Sentosa, Jun
-09**![](rafflesiana/090809sjid8810m6l.jpg)*Leaf
-modified into a pitcher. *Sentosa, Aug 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rafflesiana/070408sntg8586m3e.jpg)  
-Female flowers.  
-![](rafflesiana/070408sntg8586m3f.jpg) *Sentosa, Apr 04*
 
-*![](rafflesiana/101223sntd3927m6l.jpg)*Male
-flowers. *Sentosa, Dec 10*
 
-![](rafflesiana/090809sjid8806m3.jpg)  
-Ripe capsules split, releasing thread-like seeds..  
-![](rafflesiana/090809sjid8806m3c.jpg) *St John's Island, Aug 09*
 
 ---
 
@@ -151,17 +187,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   168pp.
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan.1998, *[The
-  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Singapore University Press. 215 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

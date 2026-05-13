@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "hairy, olive, sponge, porifera, stelletta, clavosa, ancorinidae, field,"
-layout: default
+layout: entry
 shape: bristley
 title: 'Hairy olives' sponge
 family: Ancorinidae
@@ -17,6 +17,51 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Astrophorina
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120313bbbs04967m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Mar 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100617tbd6271m3.jpg"
+  caption: |
+    <p>Growing on <a href="branchbrown.htm">Brown prickly sponge</a>.</p>
+    <p>Terumbu Bemban, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100629pdrd7577m3a.jpg"
+  caption: |
+    <p>Growing on <a href="sprawlorange.htm">Orange sprawling sponge</a>.</p>
+    <p>Terumbu Pempang Darat, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/250629smke.jpg"
+  caption: |
+    <p>Growing on <a href="encrustprickly.htm">Yellow prickly branching sponge</a>..</p>
+    <p>Pulau Semakau (East), Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100713cyrd8577m3a.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100417hntd1196m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/120409tptd8682.jpg"
+  caption: |
+    <p>Common hairy crab eating one?</p>
+    <p>Terumbu Pempang Tengah, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/200822jngjc3.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476137126310&set=a.10158476213361310">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100601slud4964m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100613sngd5533m3a.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100530tbkd4401m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, May 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/hairyolives/100130brkd8706m3.jpg"
 ---
 
 
@@ -45,35 +90,19 @@ may also be yellow.
 
 ---
 
-![](hairyolives/100130brkd8706m3.jpg)  
-*Terumbu Berkas, Jan 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](hairyolives/100130brkd8706m3a.jpg)
 
-![](hairyolives/120313bbbs04967m3.jpg)  
-*Beting Bemban Besar, Mar 12*
 
 ---
 
-![](hairyolives/100617tbd6271m3.jpg)  
-Growing on [Brown prickly sponge](branchbrown.htm). *Terumbu Bemban, Jun 10*
 
-![](hairyolives/100629pdrd7577m3a.jpg)  
-Growing on [Orange sprawling sponge](sprawlorange.htm). *Terumbu Pempang Darat, Jun 10*
 
-![](hairyolives/250629smke.jpg)  
-Growing on [Yellow prickly branching sponge](encrustprickly.htm).. *Pulau Semakau (East), Jun 25*
 
 ---
 
-![](hairyolives/100713cyrd8577m3a.jpg)  
-*Cyrene Reef, Jul 10*
 
-![](hairyolives/100417hntd1196m3.jpg)  
-*Pulau Hantu, Apr 10*
 
-![](hairyolives/120409tptd8682.jpg)  
-Common hairy crab eating one? *Terumbu Pempang Tengah, Apr 12*
 
   
 *\*Sponge
@@ -98,19 +127,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hairyolives/200822jngjc3.jpg)  
-*Pulau Jong, Aug 20*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo?fbid=10158476137126310&set=a.10158476213361310).
 
 ---
 
-![](hairyolives/100601slud4964m3.jpg)  
-*Pulau Salu, Jun 10*
 
-![](hairyolives/100613sngd5533m3a.jpg)  
-*Pulau Senang, Jun 10*
 
-![](hairyolives/100530tbkd4401m3.jpg)  
-*Terumbu Berkas, May 10*
 
 ---
 

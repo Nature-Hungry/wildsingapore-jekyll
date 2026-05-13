@@ -2,7 +2,7 @@
 title: "Brown seaweeds "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 division: Phaeophyta
 family: ""
 genus: ""
@@ -12,6 +12,43 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngseaweed)</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg"
+  caption: |
+    <p>Various brown seaweeds Sentosa, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+  caption: |
+    <p>The <a href="../../../mollusca/slugs/nudibranchia/crosslandia">Crosslandia nudibranch</a> looks just like sargassum!</p>
+    <p>St.</p>
+    <p>John's Island, Jan 06</p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -22,7 +59,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../fngseaweed)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -100,20 +137,8 @@ Kelp is an important source of this product. Annual world production
 of alginates is estimated at 27,000 tonnes from 500,000 tonnes of
 raw material, valued at around US$230million (as at 2000).
 
-![](others/040423snted0087m3.jpg)Various brown
-seaweeds *Sentosa, Apr 04*
 
-![](padina/040423sntd0023m.jpg)
-![](sargassum/040423snted0054m.jpg)
-![](dictyota/031226chgd0017m.jpg)
-![](colpomenia/051103sisg2851m.jpg)
-![](ybranched/040818sntd4759m.jpg)
-![](veinedbranch/040919sntd7025m.jpg)
-![](noveinbranch/060115sntg3912m.jpg)
-![](turbinaria/040507flhcd0150ma.jpg)
 
-![](../../../mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg)The [Crosslandia nudibranch](../../../mollusca/slugs/nudibranchia/crosslandia) looks   
-just like sargassum! *St. John's Island, Jan 06*
 
 ---
 

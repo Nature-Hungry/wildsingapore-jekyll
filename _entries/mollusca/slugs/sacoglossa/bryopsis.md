@@ -2,7 +2,7 @@
 title: Bryopsis slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bryopsis, slug, seaslug, placida, daguilarensis, sacoglossan, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 26, 33, 90]
 family: Limapontiidae
 genus: Placida
@@ -20,6 +20,68 @@ subfamily: Arctiinae
 tribe: Arctiini
 subtribe: Spilosomina
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg"
+  caption: |
+    <p>Sometimes seen in large numbers.</p>
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/031127sntbd0032m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1163m3.jpg"
+  caption: |
+    <p>Sometimes seen floating upside down on the water surface.</p>
+    <p>Sisters Island, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/040818sntd4787m3.jpg"
+  caption: |
+    <p>Tiny white one, perhaps it hasn't eaten enough seaweed yet?</p>
+    <p>Sentosa, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/170527chg4hpy.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10155235166474000.1073742012.589418999&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/230605chg7ky3.jpg"
+  caption: |
+    <p>Changi Carpark 7, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168422040065112&set=a.10168422041295112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/160507cjtch1.jpg"
+  caption: |
+    <p>Chek Jawa, May 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10154187158328713.1073742013.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/190704bbtch4.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/180812nsrtch4.jpg"
+  caption: |
+    <p>East Cost Park, Aug 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734548653713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/251011tgrlks15.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120507srplks.JPG"
+  caption: |
+    <p>Sentosa Serapong, May 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7360998924/in/album-72157627005920441/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/250201bsisjll3.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared byJianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161140636471295&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/170429kustch1.jpg"
+  caption: |
+    <p>Kusu Island, Apr 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155318560448713.1073742080.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/190520hnttch2.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10157391129383713&set=a.10157391128423713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/150817cyrtch1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153549899528713.1073741977.619308712&type=3&hc_location=ufi">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/110517tbtro6m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.167513226641717.40995.133291903397183&closeTheater=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/170513tpltch.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/170129tslgtch2.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/210428slutch1.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081493713&set=a.10159407302613713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bryopsis/120506sisd1123m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,20 +129,10 @@ The egg mass is coiled, sausage-shaped mass and very sticky.
   
 Two species are recorded for Singapore: *Placida daguilarensis* and *Placida dendritica*
 
-![](bryopsis/120506sisd1123m6la.jpg)  
-Sometimes seen in large numbers. *Sisters Island, May 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](bryopsis/031127sntbd0032m3.jpg)  
- *Sentosa, Nov 03*
 
-![](bryopsis/120506sisd1163m3.jpg)  
-Sometimes seen floating  
-upside down on the water surface.  
-*Sisters Island, May 12*
 
-![](bryopsis/040818sntd4787m3.jpg)  
-Tiny white one, perhaps it hasn't   
-eaten enough seaweed yet? *Sentosa, Aug 04*
 
   
 *\*Species are difficult
@@ -105,74 +157,34 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](bryopsis/170527chg4hpy.jpg)  
- *Changi, May 17*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10155235166474000.1073742012.589418999&type=3).
 
-![](bryopsis/230605chg7ky3.jpg)  
- *Changi Carpark 7, Jun 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168422040065112&set=a.10168422041295112).
 
 ---
 
-![](bryopsis/160507cjtch1.jpg)  
- *Chek Jawa, May 16*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10154187158328713.1073742013.619308712&type=3).
 
-![](bryopsis/190704bbtch4.jpg)  
- *Beting Bronok, Jul 19*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10157505684718713&type=3).
 
 ---
 
-*![](bryopsis/180812nsrtch4.jpg)  
-East Cost Park, Aug 18*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156734548653713&set=a.10156734548003713&type=3&theater).
 
 ---
 
-![](bryopsis/251011tgrlks15.jpg)  
-*Sentosa Tg Rimau, Oct 25*  
-Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post).
 
-*![](bryopsis/120507srplks.JPG)  
-Sentosa Serapong, May 12*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/7360998924/in/album-72157627005920441/).
 
 ---
 
-*![](bryopsis/250201bsisjll3.jpg)*  
-*Big Sisters Island, Feb 25*Photo shared byJianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10161140636471295&type=3&ref=embed_post).
 
-*![](bryopsis/170429kustch1.jpg)  
-Kusu Island, Apr 17*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155318560448713.1073742080.619308712&type=3).
 
 ---
 
-*![](bryopsis/190520hnttch2.jpg)  
-Pulau Hantu, May 19*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10157391129383713&set=a.10157391128423713&type=3&theater).
 
-*![](bryopsis/150817cyrtch1m3.jpg)  
-Cyrene Reef, Aug 15*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153549899528713.1073741977.619308712&type=3&hc_location=ufi).
 
 ---
 
-*![](bryopsis/110517tbtro6m3.jpg)  
-Terumbu Pempang Tengah, May 11*Photo
-shared by Rene Ong on [facebook](http://www.facebook.com/media/set/?set=a.167513226641717.40995.133291903397183&closeTheater=1).
 
-*![](bryopsis/170513tpltch.jpg)  
-Terumbu Pempang Laut, May 17*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155365446728713.1073742085.619308712&type=3&pnref=story).
 
-*![](bryopsis/170129tslgtch2.jpg)  
-Terumbu Selegie, Jan 17*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3).
 
 ---
 
-*![](bryopsis/210428slutch1.jpg)  
-Pulau Salu, Apr 21*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159407081493713&set=a.10159407302613713).
 
 ---
 

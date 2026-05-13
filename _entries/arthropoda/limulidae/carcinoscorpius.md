@@ -2,7 +2,7 @@
 title: Mangrove   horseshoe crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mangrove, horseshoe, king, crab, carcinoscorpius, rotundicauda,  limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Limulidae
 genus: Carcinoscorpius
 species: rotundicauda
@@ -16,6 +16,42 @@ class: Merostomata
 order: Xiphosurida
 subfamily: Tachypleinae
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg"
+  caption: |
+    <p>Using its tail to flip over to the right side Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg"
+  caption: |
+    <p>Spines on the side of the body shorter.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg"
+  caption: |
+    <p>Tail near the body is circular in cross-section and smooth on the upperside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg"
+  caption: |
+    <p>Male's special legs for holding onto the female has two 'fingers'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg"
+  caption: |
+    <p>Tail without a groove on the underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
+  caption: |
+    <p>Juvenile horseshoe crab.</p>
+    <p>Kranji, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/200917sbwmn3.jpg"
+  caption: |
+    <p>Sembawang Beach, Sep 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157485865303660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/081217prplks1.jpg"
+  caption: |
+    <p>Pasir Ris Park, Dec 08 Photo shared by Loh Kok Sheng on <a href="https://flic.kr/p/5NPgBz">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/091205sudikw3m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160137035/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/251221pndrqo4.jpg"
+  caption: |
+    <p>Pandan Mangroves, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.908956731621068&type=3&ref=embed_post">facebook</a>.</p>
+- url: "https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/39982930621/ "Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)")</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg"
 ---
 
 arthropods
@@ -49,23 +85,12 @@ to tell them apart](limulidae).
 This horseshoe crab is listed as 'Vulnerable' in the Red List of threatened animals
 of Singapore. According to the Singapore Red Data Book: "It is still relatively common in intact mangroves, and should survive as long as there are enough such habitats conserved."
 
-*![](carcinoscopius/050726chgg0358m3.jpg)*
-Using its tail to flip over to the right side *Changi, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](carcinoscopius/050726chgg0358m3a.jpg)*
-Spines on the side of the body shorter.
 
-*![](carcinoscopius/050726chgg0361m3a.jpg)*
-Tail near the body is circular in cross-section and smooth on the upperside.
 
-*![](carcinoscopius/050726chgg0358m3d.jpg)*
-Male's special legs for holding onto the female has two 'fingers'.
 
-*![](carcinoscopius/050726chgg0358m3b.jpg)*
-Tail without a groove on the underside.
 
-![](carcinoscopius/060627krjd3660m3.jpg)  
-Juvenile horseshoe crab. *Kranji, Jun 08*
 
 # Mangrove horseshoe crabs on Singapore shores
 On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)  
@@ -76,22 +101,12 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **Other sightings on Singapore shores**
 
-*![](carcinoscopius/200917sbwmn3.jpg)  
-*Sembawang Beach, Sep 20* Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157485865303660&set=a.10157485864973660).
 
-*![](carcinoscopius/081217prplks1.jpg)**Pasir Ris Park, Dec 08*  
-Photo shared by Loh Kok Sheng on [facebook](https://flic.kr/p/5NPgBz).
 
-![](carcinoscopius/091205sudikw3m3.jpg)  
-*Pulau Sudong, Dec 09*
-Photo shared by Ivan Kwan on [his flickr](http://www.flickr.com/photos/hai_ren/4160137035/).
 
-*![](carcinoscopius/251221pndrqo4.jpg)  
-Pandan Mangroves, Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.908956731621068&type=3&ref=embed_post).
 
 Pasir Ris Park, Mar 18  
 
-[![Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)](https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg)](https://www.flickr.com/photos/wildsingapore/39982930621/ "Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)")
 
 # Links
 

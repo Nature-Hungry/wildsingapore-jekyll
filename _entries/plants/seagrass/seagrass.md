@@ -2,7 +2,7 @@
 title: Seagrasses
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Cymodoceaceae
 genus: ""
 species: Family
@@ -15,6 +15,76 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Dec 2019
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](fngseagrass)</p>
+- url: "https://live.staticflickr.com/7844/46448551964_034a6ea771_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/46448551964/ "Seagrass meadows at East Coast Park") Lush seagrass meadows at East Coast Park, Feb 2019 Features: Like other 'normal' land plants, seagrasses have green leaves where photosynthesis takes place.</p>
+    <p>These leaves have veins to transport water around (called a vascular system).</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/020714cjd3111m3a.jpg"
+  caption: |
+    <p>Seagrass leaves have veins.</p>
+    <p>Chek Jawa, Jul 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg"
+  caption: |
+    <p>Seagrass have underground stems with roots Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050623cjd4106m3.jpg"
+  caption: |
+    <p><a href="spinulosa">Fern seagrass</a> has a leaf made up of little leaflets Chek Jawa, Jun 05 Seagrass flowers: Seagrass flowers are usually small and inconspicuous.</p>
+    <p>Water plays a big role in pollination.</p>
+    <p>One study of a temperate seagrass (not found in Singapore) suggest that they may be <a href="http://wsa.seagrassonline.org/blog/archives/241">pollinated by zooplankton and tiny bottom dwelling animals</a>.</p>
+    <p>Their seeds are also dispersed by water.</p>
+    <p>In some species, the same plant produces male and female flowers.</p>
+    <p>In others, male and female flowers are produced in separate plants.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg"
+  caption: |
+    <p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050310smkg3174m3.jpg"
+  caption: |
+    <p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male flowers in the centre.</p>
+    <p>Pulau Semakau, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg"
+  caption: |
+    <p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar 06 Role of seagrasses: Seagrass meadows are a vital habitat that is often overlooked and loses out in media coverage to the more glamorous reefs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg"
+  caption: |
+    <p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
+    <p>Cyrene Reef, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080208hntd9427m3a.jpg"
+  caption: |
+    <p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
+    <p>Pulau Hantu, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg"
+  caption: |
+    <p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
+    <p>Cyrene Reef, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/others/070120cjd7618m3.jpg"
+  caption: |
+    <p>A fresh dugong feeding trail!</p>
+    <p>Chek Jawa, Jan 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/others/190523cyrm6l.jpg"
+  caption: |
+    <p>Dugong feeding trails Cyrene Reef, May 19 However, seagrasses do provide food indirectly.</p>
+    <p>Microscopic algae grow on their leaves and larger seaweeds get entangled among the seagrasses.</p>
+    <p>Many small animals graze on these algae.</p>
+    <p>They are in turn eaten by larger animals.</p>
+    <p>In this way, seagrasses are an important part of the food chain in other ecosystems nearby, such as sandy shores, mangroves and coral reefs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/1000619cjd6799m3.jpg"
+  caption: |
+    <p>Bleaching following oil spill in May 10.</p>
+    <p>Chek Jawa, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1329m3.jpg"
+  caption: |
+    <p>Bleaching, cause unknown.</p>
+    <p>Sentosa, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1334m3.jpg"
+  caption: |
+    <p>Burnt, cause unknown.</p>
+    <p>Sentosa, Apr 11</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../indexl)
 
@@ -25,7 +95,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](fngseagrass)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals)
 | [all plants](../../plants)
@@ -67,12 +137,6 @@ to the same family of plants as the land grasses (Family Graminae).
 Despite the name, the leaves of seagrasses are not always grass-like.
 Seagrasses in Singapore belong to either the Family Cymodoceaceae
 or Family Hydrocharitaceae.
-[![Seagrass meadows at East Coast Park](https://live.staticflickr.com/7844/46448551964_034a6ea771_z.jpg)](https://www.flickr.com/photos/wildsingapore/46448551964/ "Seagrass meadows at East Coast Park")  
-*Lush seagrass meadows at East Coast Park, Feb 2019*
-**Features:** Like other 'normal'
-land plants, seagrasses have green leaves where photosynthesis takes
-place. These leaves have veins to transport water around (called a
-vascular system).   
   
 Seagrass leaves emerge from rhizomes (underground stems). These rhizomes
 spread along the soft sediments. Roots anchor the plant. Thus seagrass
@@ -85,17 +149,6 @@ so they can 'breathe' while underwater.
 seaweeds](../seaweed/chlorophyta/chlorophyta). Unlike seagrasses, seaweeds lack veins, roots that absorb
 nutrients, and do not produce flowers or fruits. Here's more on [how
 to apart seagrasses and green seaweeds](../../glossary/seagrassweed).
-*![](ovalis/020714cjd3111m3a.jpg)*Seagrass
-leaves have veins. *Chek Jawa, Jul 02*
-*![](halodule/050822cjg2120m3c.jpg)*Seagrass have underground stems with roots *Chek Jawa, Aug 05*
-![](spinulosa/050623cjd4106m3.jpg)  
-[Fern seagrass](spinulosa) has a leaf made up  
-of little leaflets *Chek Jawa, Jun 05*
-**Seagrass flowers:** Seagrass flowers
-are usually small and inconspicuous. Water plays a big role in pollination. One study of a temperate seagrass (not found in Singapore) suggest that they may be [pollinated by zooplankton and tiny bottom dwelling animals](http://wsa.seagrassonline.org/blog/archives/241).
-Their seeds are also dispersed by water. In some species, the same
-plant produces male and female flowers. In others, male and female
-flowers are produced in separate plants.   
   
 However, seagrasses seldom flower. They spread mainly through vegetative
 reproduction through their underground rhizomes. Thus seagrasses do
@@ -110,13 +163,6 @@ but must be submerged most of the time.
 can rapidly regrow their leaves. However, if their underground stems
 are damaged, it takes them longer to recover. So please do not step
 on the seagrasses.
-*![](ovalis/050428cftg5289m3.jpg)*Flowering [Spoon seagrass](ovalis)? *Changi, Apr 05*
-*![](enhalus/050310smkg3174m3.jpg)*Female flower of [Tape seagrass](enhalus)  
-with tiny male flowers in the centre. *Pulau Semakau, Mar 05*
-*![](thalassia/060228labg5266m3.jpg)*Flowers of the [Sickle seagrass](thalassia) *Labrador, Mar 06* 
-**Role of seagrasses:** Seagrass meadows
-are a vital habitat that is often overlooked and loses out in media
-coverage to the more glamorous reefs.   
   
 The meadows of seagrass leaves create a miniature underwater forest.
 A host of small plants and animals thrive in these thickets. Seagrasses
@@ -128,19 +174,8 @@ provide a place for animals to [lay
 their eggs](../../eggs/string), and for [small animals to settle
 down](enhalus4).
 
-![](../../mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg)  
-The tiny [seagrass
-sea hare](../../mollusca/slugs/anaspidae/seagrass) is   
-sometimes seen on [Tape seagrass](enhalus). *Cyrene Reef, Jul 10*
 
-*![](enhalus/080208hntd9427m3a.jpg)*  
-Small animals
-settle on [Tape seagrass](enhalus). *Pulau Hantu, Feb 08*
 
-![](../../eggs/eggs/080722cyrd8262m3.jpg)  
-Eggs laid on
-[Tape seagrass](enhalus).
- *Cyrene Reef, Jul 08*
 
 The [Star
 Trackers](http://startrackers.blogspot.com/2008/05/cyrene-reef-important-habitat-forl) have noted that the seagrass meadows on Cyrene Reef are
@@ -158,14 +193,6 @@ Few animals can eat seagrasses, because few can digest the cellulose
 that makes up these plants. Among those that do feed on seagrasses
 are the [sea turtles](../../vertebrates/reptilia/seaturtle) such as the Green turtle (*Chelonia mydas*) and Hawksbill turtle
 (*Eretmochelys imbricata*) as well as the [Dugong](../../vertebrates/mammals/dugong) (*Dugong dugon*).
-*![](others/070120cjd7618m3.jpg)*A fresh dugong feeding trail! *Chek Jawa, Jan 07*
-*![](others/190523cyrm6l.jpg)*Dugong feeding trails *Cyrene Reef, May 19*
-However, seagrasses do provide food indirectly. Microscopic algae
-grow on their leaves and larger seaweeds get entangled among the seagrasses.
-Many small animals graze on these algae. They are in turn eaten by
-larger animals. In this way, seagrasses are an important part of the
-food chain in other ecosystems nearby, such as sandy shores, mangroves
-and coral reefs.  
   
 Seagrass meadows are vital part of a rich and diverse shore. Dead
 seagrass leaves as they decay, provide nutrients to other ecosystems.
@@ -197,13 +224,8 @@ Seagrasses are also affected by pollution that poison the water. Activities
 that stir up sediments also obscure sunlight and affects photosynthesis
 and thus the growth of seagrasses.
 
-*![](ovalis/1000619cjd6799m3.jpg)*Bleaching following oil spill in May 10. *Chek Jawa, Jun 10*
 
-*![](ovalis/110509sntd1329m3.jpg)*Bleaching, cause unknown. *Sentosa, Apr 11*
 
-![](ovalis/110509sntd1334m3.jpg)  
-Burnt, cause unknown.  
-*Sentosa, Apr 11*
 
 However, the most damaging impact to seagrasses is habitat loss due
 to land reclamation and development of our shores. Seagrasses grow
@@ -364,5 +386,3 @@ Endangered)
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

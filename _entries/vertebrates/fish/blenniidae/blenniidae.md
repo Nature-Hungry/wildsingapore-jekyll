@@ -2,7 +2,7 @@
 title: Blennies
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blenny, fish, blenniidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Blenniidae
 genus: ""
 species: ""
@@ -17,6 +17,35 @@ superorder: Acanthomorpha
 order: Blenniiformes
 suborder: Blennioidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m6l.jpg"
+  caption: |
+    <p>East Coast, Aug 09 What do they eat?</p>
+    <p>Most blennies are bottom feeders, nibbling on small animals, algae and detritus.</p>
+    <p>Others eat plankton.</p>
+    <p>Some blennies, however, take on larger animals, and specialise in chomping a mouthfull of scales and fins of bigger fish!</p>
+    <p>To get close to their 'prey', these blennies often mimic cleaner fishes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/090918tmd0989m6l.jpg"
+  caption: |
+    <p>Guarding eggs laid inside a <a href="../../../mollusca/bivalvia/pinnidae/pinnidae">Fan shell</a>.</p>
+    <p>Tanah Merah, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091204pawd5376.jpg"
+  caption: |
+    <p>Guarding eggs laid inside a snail shell.</p>
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/091009tmd2618m3.jpg"
+  caption: |
+    <p><a href="variabilis">Variable fang-blenny</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/oyster/090819ecpd9415m3c.jpg"
+  caption: |
+    <p><a href="oyster">Oyster-blenny</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/rockskipper/190831kusjc2.jpg"
+  caption: |
+    <p><a href="rockskipper">Rockskipper blenny</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/blenniidae/variabilis/051216smkg3405m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,16 +97,7 @@ Most have a continuous dorsal fin along the body length and are thus
 somewhat eel-like. Head usually blunt with short tentacles on eyes,
 nose opening. As a group, they come in a wide variety of shapes, colours
 and patterns.
-*![](variabilis/051216smkg3405m3.jpg)  
-Pulau Semakau, Dec 05*
-*![](oyster/090819ecpd9415m6l.jpg)  
-East Coast, Aug 09*
-**What do they eat?** Most blennies
-are bottom feeders, nibbling on small animals, algae and detritus.
-Others eat plankton. Some blennies, however, take on larger animals,
-and specialise in chomping a mouthfull of scales and fins of bigger
-fish! To get close to their 'prey', these blennies often mimic cleaner
-fishes.  
+{% include img-wrap-group.html items=page.page_images %}
   
  **Fearsome little fishes:** A group
 of blennies called the Sabre-toothed or Fang-blennies have small mouths
@@ -87,13 +107,7 @@ blennies which have blunt heads, a wide mouth and comb-like teeth.
 Some blennies are territorial and can be aggressive even towards larger
 animals.
 
-*![](variabilis/090918tmd0989m6l.jpg)*Guarding
-eggs laid inside a [Fan
-shell](../../../mollusca/bivalvia/pinnidae/pinnidae). *Tanah Merah, Sep 09*
 
-![](variabilis/091204pawd5376.jpg)  
-Guarding
-eggs laid inside a snail shell. *Pulau Pawai, Dec 09*
 
 **Blenny babies:** Males attract females
 to lay their eggs in a small hole or crevice, on or underneath empty
@@ -107,9 +121,6 @@ on Singapore shores**
 
 ---
 
-![](variabilis/091009tmd2618m3.jpg) **[Variable fang-blenny](variabilis)**
-*![](oyster/090819ecpd9415m3c.jpg)***[Oyster-blenny](oyster)**
-*![](rockskipper/190831kusjc2.jpg)* **[Rockskipper blenny](rockskipper)**
   
 
 ---

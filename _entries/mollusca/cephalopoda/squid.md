@@ -2,7 +2,7 @@
 title: Squids and cuttlefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "squid, cuttlefish, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Loliginidae
 genus: ""
 species: ""
@@ -16,6 +16,63 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcephalopods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+  caption: |
+    <p>A <a href="sepiidae.htm">cuttlefish</a> has fins all around its body.</p>
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg"
+  caption: |
+    <p>Other  <a href="loliginidae.htm">squid</a> have broad fins that extend the length of the body.</p>
+    <p>Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg"
+  caption: |
+    <p>The <a href="sepiolida.htm">bobtail or bottletail squids</a> are not streamlined at all!</p>
+    <p>Changi, Jun 05 Jet-propelled molluscs: Squids and cuttlefish squirt a jet of water out of a funnel to zoom off in the opposite direction.</p>
+    <p>They can move in any direction, but move fastest backwards.</p>
+    <p>Squids tend to be more streamlined than cuttlefish.</p>
+    <p>Squids are among the fastest aquatic invertebrates, some can reach speeds of up to 40km/hr.</p>
+    <p>A cuttlefish can also hover or swim slowly by undulating the fins along the sides of its body.</p>
+    <p>A squid does not have this all-round fin.</p>
+    <p>Instead, the fin is limited to a triangular flap at the tip of the body, which acts as stabilisers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg"
+  caption: |
+    <p>Squids have a pair of onger tentacles that extend beyond the shorter arms.</p>
+    <p>Pulau Hantu, Aug 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg"
+  caption: |
+    <p>The tiny <a href="pygmy.htm">Pgymy squid</a> can catch shrimps almost as big as itself.</p>
+    <p>Tanah Merah, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg"
+  caption: |
+    <p>Cuttlebone Chek Jawa, Mar 03 Armed and Dangerous: Squids and cuttlefish have eight arms.</p>
+    <p>These arms are short and stout, with suckers along their entire length.</p>
+    <p>Some have toothed suckers and hooks for an even better grip.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg"
+  caption: |
+    <p>Squids taking on different colours.</p>
+    <p>Tanah Merah, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
+  caption: |
+    <p>Ink squirted out retains its shape.</p>
+    <p>Sister Island, May 12 Disappearing Ink: When alarmed, squids and cuttlefish may squirt a cloud of 'ink'.</p>
+    <p>The ink may contain substances that affect the senses of other sea creatures.</p>
+    <p>The inky clouded water also allows it to make a getaway.</p>
+    <p>Sometimes, mucous is also released that 'holds' the ink into a shape that distracts the predator.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg"
+  caption: |
+    <p>Some egg capsules commonly seen.</p>
+    <p>Pulau Hantu, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
+  caption: |
+    <p>String of black <a href="cepeggs.htm">egg capsoules</a> Changi, Jul 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg"
+  caption: |
+    <p>Developing babies Changi, Jul 03</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -26,7 +83,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../Templates/fornatureguides.gif)](../fngcephalopods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -74,23 +131,6 @@ trapped in a pool at low tide.
 squids and cuttlefishes are fast-moving predators that hunt speedy
 prey like fish. They may also hunt snails and clams, crabs and prawns.
 Most have a horny bird-like beak to rip up prey.
-![](cutglittering/050524chgd3327m3.jpg)  
-A [cuttlefish](sepiidae.htm) has fins all around its
-body. *Changi, May 05*
-![](sqbigfin/080422smkd1422m3.jpg)  
-Other  [squid](loliginidae.htm) have broad fins  
-that extend the length of the body. *Pulau Semakau, Apr 08*
-![](sepiolida/050622cftd4092m3.jpg)The [bobtail or bottletail squids](sepiolida.htm) are   
-not streamlined at all! *Changi, Jun 05* 
-**Jet-propelled molluscs:** Squids
-and cuttlefish squirt a jet of water out of a funnel to zoom off in
-the opposite direction. They can move in any direction, but move fastest
-backwards. Squids tend to be more streamlined than cuttlefish. Squids
-are among the fastest aquatic invertebrates, some can reach speeds
-of up to 40km/hr. A cuttlefish can also hover or swim slowly by undulating
-the fins along the sides of its body. A squid does not have this all-round
-fin. Instead, the fin is limited to a triangular flap at the tip of
-the body, which acts as stabilisers.  
   
 **Lightweight shell:** Relying on
 speed, squids and cuttlefish do not have a thick, heavy outer shell.
@@ -100,18 +140,6 @@ riddled with tiny gas-filled chambers. By controlling the amount of
 gas in the cuttlebone, the cuttlefish can control its buoyancy. The
 cuttlebone is often seen on the beach among the flotsam. Cuttlebones
 are sold in pet shops as a source of calcium for caged birds.
-*![](pygmy/030802hntd0082m3b.jpg)*Squids have a pair of onger tentacles   
-that
-extend beyond the shorter arms. *Pulau Hantu, Aug 03*
-*![](pygmy/110831tmnbd0631m3.jpg)*The tiny [Pgymy squid](pygmy.htm) can catch shrimps  
-almost as big as itself. *Tanah Merah, Aug 11*
-![](cepeggs/030329cjd0083m3.jpg)  
-Cuttlebone  
-*Chek Jawa, Mar 03* 
-**Armed and Dangerous:** Squids and
-cuttlefish have eight arms. These arms are short and stout, with suckers
-along their entire length. Some have toothed suckers and hooks for
-an even better grip.   
   
 In addition to the eight arms, squids and cuttlefish also have a pair
 of tentacles. These may be twice as long as the arms, are thinner
@@ -120,14 +148,6 @@ cuttlefish uses these two longer tentacles to grab prey. These tentacles
 shoot out and retract in an eye blink, bringing the prey within the
 grasp of the eight shorter arms which firmly grip the prey for the
 killing bite with its sharp beak.
-*![](sqbigfin/090606tmftd3187m3.jpg)*Squids taking on different colours. *Tanah Merah, Jun 09*
-![](sqbigfin/120505sisd0910m6l.jpg)  
-Ink squirted out retains its shape. *Sister Island, May 12*
-**Disappearing Ink:** When alarmed, squids
-and cuttlefish may squirt a cloud of 'ink'. The ink may contain substances
-that affect the senses of other sea creatures. The inky clouded water
-also allows it to make a getaway. Sometimes, mucous is also released
-that 'holds' the ink into a shape that distracts the predator.  
   
 **Colourful
 Talk:** Squids and cuttlefish can rapidly change colours
@@ -144,14 +164,8 @@ This actually camouflages them from bottom dwelling predators which
 look upwards for prey. The glowing body of a squid allows it to blend
 in a moonlit sky, instead of appearing as an obvious dark shadow.
 
-![](cepeggs/080208hntd9473m3.jpg)  
-Some egg capsules commonly seen. *Pulau Hantu, Feb 08*
 
-*![](cepeggs/020715chgd3359m3.jpg)*String of black [egg capsoules](cepeggs.htm) *Changi, Jul 02*
 
-![](cepeggs/030701chgd0073m3.jpg)  
-Developing babies  
-*Changi, Jul 03*
 
 **Baby
 squid and cuttlefish:** Some squids gather in large groups

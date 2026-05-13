@@ -2,7 +2,7 @@
 title: "Spider crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spider, crab, spider crab, majidae, majoidea, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
-layout: default
+layout: entry
 family: Majidae
 genus: ""
 species: ""
@@ -23,6 +23,32 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg"
+  caption: |
+    <p>Decorated upperside</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg"
+  caption: |
+    <p>Underside, only the pincers are 'undecorated'.</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg"
+  caption: |
+    <p>Almost impossible to spot until it moves.</p>
+    <p>Cyrene Reef, Jul 10 Special Spider: Our tiny spider crabs are cousins of the biggest crab in the world!</p>
+    <p>The Japanese spider crab (Macrocheira kaempferi), with a leg span of 4m, belongs to the same family.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg"
+  caption: |
+    <p><a href="retusa">Velcro crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg"
+  caption: |
+    <p><a href="schizophrys">Sea toad spider crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/060225cjg4983m3.jpg"
+  caption: |
+    <p><a href="tiny">Tiny spider crabs</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg"
+  caption: |
+    <p><a href="menatheius">Arrow-headed spider crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -74,16 +100,7 @@ small eyes on the sides of the tip. The body is often covered with
 spines, knobs and hooked hairs. Some decorate themselves with living
 seaweeds, sponge, other animals or bits of coral and rubbish.They
 are also slow-moving, so it's hard to penetrate their disguise.
-*![](retusa/050822cjg2135m3.jpg)*Decorated upperside
-*![](retusa/050822cjg2131m3.jpg)*Underside, only the pincers are 'undecorated'.  
-*Chek Jawa, Aug 05*
-![](tiny/100711cyrd8196m3.jpg)  
-Almost impossible to spot until it moves.  
-*Cyrene Reef, Jul 10*
-**Special Spider:** Our tiny spider
-crabs are cousins of the biggest crab in the world! The Japanese spider
-crab (*Macrocheira kaempferi*), with a leg span of 4m, belongs
-to the same family.  
+{% include img-wrap-group.html items=page.page_images %}
   
  **Human uses:** Unfortunately,
 the [Velcro crab](retusa) (*Camposcia retusa*)
@@ -105,18 +122,11 @@ crabs on Singapore shores**
 
 ---
 
-**![](retusa/030615cjd0196m3.jpg)  
-[Velcro crab](retusa)**
 
-**![](schizophrys/090525chgd2395m3.jpg)  
-[Sea toad spider crab](schizophrys)**
 
-**![](tiny/060225cjg4983m3.jpg)  
-[Tiny spider crabs](tiny)**
 
 ---
 
-***![](menatheius/050625labg8681m3a.jpg)* [Arrow-headed spider crab](menatheius)**
 
 ---
 

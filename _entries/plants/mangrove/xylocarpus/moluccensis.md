@@ -2,7 +2,7 @@
 title: "Nyireh batu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "nyireh, batu, xylocarpus, moluccensis, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 61, 68]
 family: Meliaceae
 genus: Xylocarpus
@@ -17,6 +17,40 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 inat_id: 425825
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
+  caption: |
+    <p>Leaflets eye-shaped with pointed tips.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg"
+  caption: |
+    <p>Bark with longitudinal fissures.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg"
+  caption: |
+    <p>Seasonally, all the leaves may turn yellow.</p>
+    <p>Pulau Ubin, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg"
+  caption: |
+    <p>Leaflets underside.</p>
+    <p>Pasir Ris Park, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 09 Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that are oblong with more pointed tips, thin and leathery.</p>
+    <p>The compound leaves are arranged in a spiral and wither to a vivid yellow.</p>
+    <p>Seasonally, all the leaves on a tree may turn yellow, giving an autumn feel to the mangrove forest.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg"
+  caption: |
+    <p>Flowers in clusters.</p>
+    <p>Chek Jawa, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg"
+  caption: |
+    <p>Fruit elliptical.</p>
+    <p>Pulau Ubin, Jan 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -53,39 +87,16 @@ a synonym of *X. moluccensis*.
 with longitudinal fissures. Small buttress roots or no buttress roots, many peg-shaped
 (blunt-tipped, nearly cylindrical) pneumatophores.
 
-![](moluccensis/090126ubnd6188m3.jpg)  
-Leaflets eye-shaped with pointed tips. *Pulau Ubin, Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](moluccensis/090126ubnd6182m3.jpg)  
-Bark with longitudinal fissures.  
-*Pulau Ubin, Jan 09*
 
-![](moluccensis/100110cjd7878m6l.jpg)  
-Seasonally, all
-the leaves may turn yellow. *Pulau Ubin, Jan 10*
 
-![](moluccensis/090529prpd3038m3.jpg)  
-Leaflets underside. *Pasir Ris Park, May 09*
-![](moluccensis/090823cjd9863m3a.jpg)  
-*Chek Jawa,
-Aug 09*
-Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that
-are oblong with more pointed tips, thin and leathery. The compound
-leaves are arranged in a spiral and wither to a vivid yellow. Seasonally, all the leaves on a tree may turn yellow, giving an autumn feel to the mangrove forest.  
   
 Flowers tiny white to pinkish in clusters on an inflorescence. Fruit
 oval (not globular) (8-12cm in diameter) containing 5-10 seeds.
 
-![](moluccensis/090823cjd9874m3.jpg)  
-Flowers in clusters. *Chek Jawa,
-Aug 09*
 
-![](moluccensis/090823cjd9874m3a.jpg)  
-*Chek Jawa,
-Aug 09*
 
-![](moluccensis/090126ubnd6185m3.jpg)  
-Fruit elliptical. *Pulau Ubin, Jan 09*
 
 **Human
 uses:** According to Giesen, the timber is moderately light

@@ -2,7 +2,7 @@
 title: True oysters
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oyster, ostreidae, bivalvia, clam, bivalve, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ostreidae
 genus: ""
 species: ""
@@ -17,6 +17,38 @@ infraclass: Pteriomorphia
 order: Ostreida
 superfamily: Ostreoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg"
+  caption: |
+    <p>Oysters often form a distint band on hard surfaces near the high water mark.</p>
+    <p>Chek Jawa, Jan 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/concepts/pix/080122cjd9042m3.jpg"
+  caption: |
+    <p>All kinds of different animals may settle among the oysters.</p>
+    <p>Chek Jawa, Jan 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
+  caption: |
+    <p>Some oysters have spikes on their shells, perhaps to deter predators.</p>
+    <p>Berlayar Creek, Mar 09 What do they eat?</p>
+    <p>Like most other bivalves, oysters are filter feeders.</p>
+    <p>When submerged, an oyster opens its valves slightly and sucks in a current of water.</p>
+    <p>It uses its enlarged gills to sieve food particles out of this current.</p>
+    <p>When the tide goes out, it clamps up the valves tightly to prevent water loss.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/saccostrea/090308blyd7566m3.jpg"
+  caption: |
+    <p><a href="saccostrea.htm">Spiked rock oysters</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/041031cjd7933m3.jpg"
+  caption: |
+    <p><a href="plain.htm">Plain rock oysters</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/zigzag/050611kusd3993m3.jpg"
+  caption: |
+    <p><a href="zigzag.htm">Zig-zag rock oysters</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/ostreidae/plain/080122cjd9030.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,18 +110,7 @@ features for convenience of display.
 **Sometimes mistaken for** [limpets](../../gastropoda/limpets/limpet.htm) or [barnacles](../../../crustacea/othercrust/ciriipedia/cirripedia.htm).
 Here's more on how to tell apart [shelled
 animals found on the rocks](../../../glossary/limpetbarnacle.htm).
-*![](plain/080122cjd9030.jpg)*Oysters often form a distint band   
-on hard surfaces near the high water mark. *Chek Jawa, Jan 08*
-*![](../../../concepts/pix/080122cjd9042m3.jpg)*All kinds of different animals   
-may settle among the oysters. *Chek Jawa, Jan 08*
-*![](saccostrea/090308blyd7566m3.jpg)*Some oysters have spikes on their shells,  
-perhaps to deter predators. *Berlayar Creek, Mar 09*
-**What do they eat?** Like
-most other bivalves, oysters are filter feeders.
-When submerged, an oyster opens its valves slightly and sucks in a
-current of water. It uses its enlarged gills to sieve food particles
-out of this current. When the tide goes out, it clamps up the valves
-tightly to prevent water loss.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Oyster babies:** Oysters may produce
 eggs or larvae. Some species may change gender while others are simlutaneous
@@ -127,12 +148,8 @@ people.
 
 ---
 
-***![](saccostrea/090308blyd7566m3.jpg)*[Spiked rock oysters](saccostrea.htm)**
 
-**![](plain/041031cjd7933m3.jpg)  
-[Plain rock oysters](plain.htm)**
 
-***![](zigzag/050611kusd3993m3.jpg)*[Zig-zag rock oysters](zigzag.htm)**
 
 ---
 
@@ -230,8 +247,6 @@ Striostrea mytiloides*
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

@@ -2,7 +2,7 @@
 title: Bluish y-branch brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bluish, y, branch, brown, seaweed, weed, dictyota, dichotoma, dicyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Dictyota
@@ -17,6 +17,44 @@ subclass: Dictyotophycidae
 order: Dictyotales
 tribe: Dictyoteae
 updated: Feb 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060128labg4063m3.jpg"
+  caption: |
+    <p>Labrador, Jan 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/060115sntg3955m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/041018sntd7477m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/110220lazd6297m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/091231biod7130m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/100102tkkd7445m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -67,24 +105,14 @@ food, fruit juices, ice cream, jellies, in meat and flavour sauces,
 milk shakes, pastries and salad dressings. Extracts from it are also
 used in industry as emulsifiers, gelling agents, stabilisers.   
 
-![](ybranched/100102tkkd7445m3.jpg)  
-*Pulau Tekukor, Oct 10*![](ybranched/100102tkkd7445m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ybranched/060128labg4063m3b.jpg)
 
-![](ybranched/060128labg4063m3.jpg)  
-*Labrador, Jan 06*
 
 ---
 
-![](ybranched/060115sntg3955m3.jpg)  
-*Sentosa, Jan 06*![](ybranched/060115sntg3955m3b.jpg)
 
-![](ybranched/041018sntd7477m3.jpg)  
-*Sentosa, Oct 04*![](ybranched/041018sntd7477m3b.jpg)
 
-![](ybranched/110220lazd6297m3.jpg)  
-*Lazarus Island, Feb 11*![](ybranched/110220lazd6297m3a.jpg)
 
   
 *\*Seaweed species are difficult to positively identify without microscopic
@@ -110,10 +138,7 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](ybranched/091231biod7130m3.jpg)  
-*Pulau Biola, Dec 09*
 
-![](ybranched/091231biod7130m3b.jpg)
 
 ---
 

@@ -2,7 +2,33 @@
 title: "Head-stripe gobies (Amblygobius stethophthalmus) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "head, stripe, byno, goby, amblygobius, bynoensis, stethophthalmus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 08Photo shared by Dai Jiao on <a href="http://www.flickr.com/photos/peisan/2256480935/">her flickr.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100810cyrmn1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4884258092/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/110422tbmtch6m6l.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/091205sudd5626m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/091231biod7062m3a.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100613sngd5434m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100811slud0109m6l.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/100613sngd5420m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/080209smkhw01m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -30,37 +56,20 @@ info on head-stripe gobies](stethophthalmus.htm)
 
 ---
 
-![](stethophthalmus/080209smkhw01m3.jpg)  
-*Pulau Semakau, Feb 08*Photo shared by Dai Jiao on [her
-flickr.](http://www.flickr.com/photos/peisan/2256480935/)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](stethophthalmus/100810cyrmn1m3.jpg)  
-*Cyrene Reef, Aug 10*Photo shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4884258092/).
 
 ---
 
-![](stethophthalmus/110422tbmtch6m6l.jpg)  
-*Terumbu Bemban, Apr 11*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html).
 
 ---
 
-![](stethophthalmus/091205sudd5626m3.jpg)  
-*Pulau Sudong, Dec 09*
 
-![](stethophthalmus/091231biod7062m3a.jpg) *Pulau Biola, Dec 09*
 
-![](stethophthalmus/100613sngd5434m3.jpg)  
-*Pulau Senang, Jun 10*
 
 ---
 
-![](stethophthalmus/100811slud0109m6l.jpg)  
-*Pulau Salu, Aug 10*
 
-![](stethophthalmus/100613sngd5420m3.jpg)  
-*Pulau Senang, Jun 10*
 
   
 back to [general

@@ -2,7 +2,7 @@
 title: "Api-api jambu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "api, jambu, avicennia, marina, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 83]
 family: Acanthaceae
 genus: Avicennia
@@ -16,6 +16,46 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 75723
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg"
+  caption: |
+    <p>Leaves not so white underneath.</p>
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg"
+  caption: |
+    <p>Large flowers, crowded together.Stem squarish.</p>
+    <p>Pulau Semakau, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg"
+  caption: |
+    <p>Fruits flattened egg-shape, blunt tip.</p>
+    <p>Bluish.</p>
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8539m3.jpg"
+  caption: |
+    <p>Squarish stem to leaf-bearing portion.</p>
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090405smkd9012m3a.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5762m3c.jpg"
+  caption: |
+    <p>Fruit flattened egg-shape.Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3.jpg"
+  caption: |
+    <p>Bark greenish, pneumatophores very tall.</p>
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110809smkd8546m3.jpg"
+  caption: |
+    <p>Bark greenish, pneumatophores very tall.</p>
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090112smkd5020m3a.jpg"
+  caption: |
+    <p>Bark greenish, pneumatophores very tall.</p>
+    <p>Pulau Semakau, Jan 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2526m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -88,51 +128,20 @@ burns.
 is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore.   
 
-![](marina/111022smkd2526m6l.jpg)  
-*Pulau Semakau,
-Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](marina/110827smkd9885m3.jpg)  
-Leaves not so white underneath.  
-*Pulau Semakau, Aug 11*
 
-![](marina/111022smkd2528m3b.jpg)  
-Large flowers,
-crowded together.Stem squarish.  
-*Pulau
-Semakau, Oct 11*
 
-![](marina/110827smkd9918m3.jpg)  
-Fruits flattened egg-shape, blunt tip. Bluish.  
-*Pulau Semakau, Aug 11*
 
 ---
 
-![](marina/110809smkd8539m3.jpg)  
-Squarish stem
-to leaf-bearing portion. *Pulau Semakau, Aug 11*
 
-![](marina/090405smkd9012m3a.jpg)  
-*Pulau Semakau,
-Apr 09*
 
-![](marina/090118smkd5762m3c.jpg)  
-Fruit flattened
-egg-shape.*Pulau Semakau, Jan 09*
 
 ---
 
-![](marina/090112smkd5020m3.jpg)  
-Bark greenish, pneumatophores very tall. *Pulau
-Semakau, Jan 09* 
 
-![](marina/110809smkd8546m3.jpg)  
-Bark greenish, pneumatophores very tall. *Pulau Semakau,
-Aug 11*
 
-![](marina/090112smkd5020m3a.jpg)  
-Bark greenish, pneumatophores very tall. *Pulau Semakau,
-Jan 09*
 
 ---
 

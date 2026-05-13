@@ -2,7 +2,7 @@
 title: "Tiny hexagonal  corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisd6295m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisg2836m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisg2836m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/111127sisd3867m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/111127sisd3870m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/111127sisd3788m3.jpg"
+  caption: |
+    <p>Sisters Island, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/111127sisd3791m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/060402ulrd1145m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/060402ulrd1145m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100131slud8831m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100131slud8831m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100601slud4750m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100601slud4750m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100613sngd5419m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100613sngd5419m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100601slud4762m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100601slud4762m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100530tbkd4227m3a.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/100530tbkd4227m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/091231biod6984m3.jpg"
+  caption: |
+    <p>Pulau Biola,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/091231biod6985m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexatiny/051103sisd6295m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -66,30 +131,14 @@ of display.
   
   
 
-![](hexatiny/051103sisd6295m3.jpg)  
-*Sisters Island,
-Nov 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](hexatiny/051103sisg2836m3.jpg)
 
-![](hexatiny/051103sisg2836m3b.jpg)
 
 ---
 
-![](hexatiny/111127sisd3867m3.jpg)  
-*Sisters Island,
-Nov 11  
-![](hexatiny/111127sisd3870m3.jpg)*
 
-![](hexatiny/111127sisd3788m3.jpg)  
-*Sisters Island,
-Nov 11  
-![](hexatiny/111127sisd3791m3a.jpg)*
 
-![](hexatiny/060402ulrd1145m3.jpg)  
-*Pulau Hantu,
-Apr 06  
-![](hexatiny/060402ulrd1145m3c.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -113,36 +162,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](hexatiny/100131slud8831m3.jpg)  
-*Terumbu
-Salu, Jan 10  
-![](hexatiny/100131slud8831m3a.jpg)*
 
-![](hexatiny/100601slud4750m3.jpg)  
-*Pulau Salu,
-Jun 10  
-![](hexatiny/100601slud4750m3a.jpg)*
 
-![](hexatiny/100613sngd5419m3.jpg)  
-*Pulau Senang,
-Jun 10  
-![](hexatiny/100613sngd5419m3a.jpg)*
 
 ---
 
-![](hexatiny/100601slud4762m3.jpg)  
-*Pulau Salu,
-Jun 10  
-![](hexatiny/100601slud4762m3a.jpg)*
 
-![](hexatiny/100530tbkd4227m3a.jpg)  
-*Pulau Berkas,
-May 10  
-![](hexatiny/100530tbkd4227m3b.jpg)*
 
-![](hexatiny/091231biod6984m3.jpg)  
-*Pulau Biola,
-Dec 09*![](hexatiny/091231biod6985m3a.jpg)
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

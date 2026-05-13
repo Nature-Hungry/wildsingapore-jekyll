@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, blob, sponge, mycale, myclaidae, porifera, field, guide, seashore,"
-layout: default
+layout: entry
 shape: blobs
 title: Orange blob sponge
 family: Mycalidae
@@ -21,6 +21,47 @@ subfamily: Satyrinae
 tribe: Satyrini
 subtribe: Mycalesina
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/050621skdg7908m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3a.jpg"
+  caption: |
+    <p>Tiny brittle stars in the holes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/060611cjd2784m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/060611cjd2784m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/050724bbd5383m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/050724bbd5383m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/031126tusbd0046m3.jpg"
+  caption: |
+    <p>Tuas, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/031126tusbd0046m3a.jpg"
+  caption: |
+    <p>Tiny animals with a feathery fan.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/180912tkkmn4.jpg"
+  caption: |
+    <p>Pulau Tekukor, Sep 18Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155838276003660&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/100530tbkd4314m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/100601slud4818m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/100810sngd9944m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/bloborange/040506cjd0125m3.jpg"
 ---
 
 
@@ -49,14 +90,9 @@ tiny beige bits on the outside. Colour a vivid orange-red.
 Bright orange sponges which are encrusting may come from a variety
 of species and families including *Tedania* sp. and *Hymerhabdia* sp. They are difficult to tell apart in the field.
 
-*![](bloborange/040506cjd0125m3.jpg)  
-Chek Jawa, May 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bloborange/050621skdg7908m3.jpg)  
-Pulau Sekudu, Jun 05*
 
-*![](bloborange/040506cjd0125m3a.jpg)*Tiny
-brittle stars in the holes.
 
   
 *\*Species are difficult
@@ -81,34 +117,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bloborange/060611cjd2784m3.jpg)  
-Chek Jawa, Jun 06   
-![](bloborange/060611cjd2784m3a.jpg)*
 
-*![](bloborange/050724bbd5383m3.jpg)  
-Beting Bronok, Jul 05   
-![](bloborange/050724bbd5383m3a.jpg)*
 
-*![](bloborange/031126tusbd0046m3.jpg)  
-Tuas, Nov 03   
-![](bloborange/031126tusbd0046m3a.jpg)*Tiny
-animals with a feathery fan.
 
 ---
 
-*![](bloborange/180912tkkmn4.jpg)  
-Pulau Tekukor, Sep 18*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155838276003660&type=3).
 
 ---
 
-*![](bloborange/100530tbkd4314m3.jpg)  
-Pulau Berkas, May 10*
 
-*![](bloborange/100601slud4818m3.jpg)  
-Pulau Salu, Jun 10*
 
-*![](bloborange/100810sngd9944m3.jpg)  
-Pulau Senang, Aug 10*
 
 ---
 

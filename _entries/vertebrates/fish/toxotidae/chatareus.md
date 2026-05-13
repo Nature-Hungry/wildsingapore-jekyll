@@ -2,7 +2,7 @@
 title: Spotted archerfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, acherfish, archer, fish, toxotidae, toxotes, chatareus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [7, 9, 25, 42, 47]
 family: Toxotidae
 genus: Toxotes
@@ -17,6 +17,14 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg"
+  caption: |
+    <p>Changi Jetty, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 05</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/091226cjd6379m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,9 +64,8 @@ also called the Seven-spot archerfish. From above, their eyes have
 a golden sheen. Banded archerfishes lack these black spots and their
 eyes don't have the golden sheen.
 
-*![](chatareus/091226cjd6379m3.jpg)* *Changi Jetty, Dec 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](chatareus/050225sbwrd1096m6l.jpg)* *Sungei Buloh Wetland Reserve, Feb 05*
 
 **What does it eat?** The Spotted
 archerfish feeds on floating titbits including insects and vegetation,

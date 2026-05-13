@@ -2,7 +2,7 @@
 title: Grey knight-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grey, knight, goby, stigmatogobius, sadanundio, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Stigmatogobius
@@ -18,6 +18,14 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m6l.jpg"
+  caption: |
+    <p>Admiralty Park, Mar 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6810m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -58,12 +66,7 @@ and streaks also on the fins and tail.
 **What does it eat?** According to
 FishBase, it feeds on small fishes and invertebrates, including mosquito
 larvae.
-![](sadanundio/110307admd6810m3.jpg)  
-*Admiralty
-Park, Mar 11*
-![](sadanundio/110307admd6820m6l.jpg)  
-*Admiralty
-Park, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 

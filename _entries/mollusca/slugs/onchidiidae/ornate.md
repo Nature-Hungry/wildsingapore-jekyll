@@ -2,7 +2,7 @@
 title: Ornate onch slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Onchidiidae
 genus: ""
 species: identification*
@@ -19,6 +19,26 @@ superorder: Eupulmonata
 order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg"
+  caption: |
+    <p>Kranji Nature Trail, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3a.jpg"
+  caption: |
+    <p>Eyes on stalks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6515m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090208smkd6516m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,24 +79,14 @@ resulting in a very ornate texture! Colour plain, beige or greyish.
 Eyes on long thin stalks. Underside and narrow foot are pale to lemon
 yellow.
 
-![](ornate/090125kntd6113m3.jpg)  
-*Kranji Nature
-Trail, Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ornate/090125kntd6113m3a.jpg)  
-Eyes on stalks.
 
-![](ornate/090125kntd6114m3.jpg)  
-Underside
 
 ---
 
-![](ornate/090208smkd6515m3.jpg)  
-*Pulau Semakau, Feb 09*
 
-![](ornate/090208smkd6515m3a.jpg)
 
-![](ornate/090208smkd6516m3.jpg)
 
   
  *\***Species are difficult to positively identify

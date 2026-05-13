@@ -2,7 +2,7 @@
 title: Flatheads
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flathead, flat, head, fish, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Platycephalidae
 genus: ""
 species: ""
@@ -17,6 +17,35 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg"
+  caption: |
+    <p>East Coast, Nov 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/070614chgg0248m6l.jpg"
+  caption: |
+    <p>Changi, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/030927cjd0083m3e.jpg"
+  caption: |
+    <p><a href="indicus">Bartail flathead</a> No fringe or fleshy tentacles above the eyes.</p>
+    <p>Instead, a large 'eyelid' that covers most of the eye, giving it a sleepy look.</p>
+    <p>Tail colourful.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3d.jpg"
+  caption: |
+    <p><a href="nematophthalmus">Fringe-eyed flathead</a> An elaborate golden filigree fringe over the eyeball, and above the eyes several fleshy tentacles.</p>
+    <p>Tail not colourful.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/indicus/081117ecpmd2274m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,11 +99,8 @@ with flat heads](../cfflatheads).
 only their eyes sticking out. Together with their camouflaged patterns,
 they are hard to detect.
 
-![](indicus/081117ecpmd2274m3.jpg)  
-*East Coast, Nov 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nematophthalmus/070614chgg0248m6l.jpg)  
-*Changi, Jun 07*
 
 **What do they eat?** Flatheads eat
 small fishes, octopus and cuttlefish, crustaceans and other animals
@@ -95,23 +121,11 @@ on Singapore shores**
 
 ---
 
-***![](indicus/030927cjd0083m3.jpg)***
-![](indicus/030927cjd0083m3c.jpg)
-*![](indicus/030927cjd0083m3e.jpg)*
-**[Bartail flathead](indicus)**
-No fringe or fleshy tentacles above the eyes. Instead, a large 'eyelid' that covers most of the eye, giving it a sleepy look.
-Tail colourful.
 
 ---
 
-***![](nematophthalmus/040730skdd3246m3.jpg)***
 
-*![](nematophthalmus/040730skdd3246m3a.jpg)*
 
-![](nematophthalmus/040730skdd3246m3d.jpg)
-**[Fringe-eyed flathead](nematophthalmus)**
-An elaborate golden filigree fringe over the eyeball, and above the eyes several fleshy tentacles.
-Tail not colourful.
 
 ---
 

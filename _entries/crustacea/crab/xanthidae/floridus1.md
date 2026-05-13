@@ -2,7 +2,33 @@
 title: "Floral egg crabs (Atergatis floridus) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "floral, egg, xanthid, crab, atergatis, floridus, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100617tbtch2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoom on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100518bbbjk6m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/091205pawlks6m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166008284/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/091231biojk7m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4231655960/in/set-72157622842029671/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100613sngd5633m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100810sngd9960m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/100811slud0060m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/110517tptlks25m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -32,38 +58,18 @@ info on floral egg crabs](floridus)
 
 ---
 
-![](floridus/110517tptlks25m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](floridus/100617tbtch2m3.jpg)  
-*Terumbu Bemban, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
-![](floridus/100518bbbjk6m3.jpg)  
-*Beting Bemban Besar, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besarl).
 
 ---
 
-![](floridus/091205pawlks6m3.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4166008284/).
 
-![](floridus/091231biojk7m3.jpg)  
-*Pulau Biola, Dec 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4231655960/in/set-72157622842029671/).
 
 ---
 
-![](floridus/100613sngd5633m3.jpg)  
-*Pulau Senang, Jun 10*
 
-![](floridus/100810sngd9960m3.jpg)  
-*Pulau Senang, Aug 10*
 
-![](floridus/100811slud0060m3.jpg)  
-*Pulau Salu, Aug 10*
 
   
 back to [general

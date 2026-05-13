@@ -2,7 +2,7 @@
 title: Indian squid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "indian, pencil, squid, uroteuthis, duvaucelii, loliginidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Loliginidae
 genus: Uroteuthis
 species: duvaucelii
@@ -16,6 +16,23 @@ subclass: Coleoidea
 superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2517.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/130624chglks2.JPG"
+  caption: |
+    <p>Changi, Jun 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/06/lots-of-masked-burrowing-crabs-at-changi.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/150802bblks1m3.jpg"
+  caption: |
+    <p>Beting Bronok, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/110522bbblks5m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/030712hntbd0022m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -60,11 +77,8 @@ Indian squids.
 in masses called egg mops, made up of many capsules, each capsule
 containing many eggs (100-300 eggs).
 
-![](sqindian/030712hntbd0022m3.jpg)  
-*Pulau Hantu, Jul 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sqindian/091008tmd2517.jpg)  
-*Tanah Merah, Oct 09*
 
 **Human uses:** It is an important
 seafood item in India and Thailand and harvested in various ways from
@@ -93,20 +107,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sqindian/130624chglks2.JPG)  
- *Changi, Jun 13*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/06/lots-of-masked-burrowing-crabs-at-changi.html).
 
-![](sqindian/150802bblks1m3.jpg)  
-*Beting Bronok, Aug 15*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-years.html).
 
 ---
 
-*![](sqindian/110522bbblks5m3.jpg)  
-Beting Bemban Besar, May 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Rodong snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 64, 71, 100, 111, 123, 125]
 family: Potamididae
 genus: Telescopium
@@ -15,6 +15,27 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg"
+  caption: |
+    <p>Mating?</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg"
+  caption: |
+    <p>Laying eggs?</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg"
+  caption: |
+    <p>Coney Island, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Graham Brash, Singapore.</p>
+    <p>145 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,13 +89,9 @@ There is a third eye on its mantle margin, in addition to a pair of
 eyes at the tentacles. It can stay out of water for long periods of
 time.
 
-![](telescopium/060317sbwrg5518m3.jpg)  
-*Sungei Buloh Wetland Reserve, Mar 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](telescopium/060317sbwrg5519m3.jpg)*Mating? *Sungei Buloh Wetland Reserve, Mar 06*
 
-![](telescopium/060317sbwrg5564m3.jpg)  
-Laying eggs? *Sungei Buloh Wetland Reserve, Mar 06*
 
 **What does it eat?** Rodong sucks
 up detritus and algae from the mud surface at low tide, using its
@@ -99,9 +116,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](telescopium/251219cnyrqo1.jpg)  
-*Coney Island, Dec 25*  
-Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post).
 
 ---
 
@@ -139,8 +153,6 @@ Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?se
   Museum of Biodiversity Research, National University of Singapore.
 - Abbott, R.
   Tucker, 1991. *Seashells
-  of South East Asia![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Graham Brash, Singapore. 145 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

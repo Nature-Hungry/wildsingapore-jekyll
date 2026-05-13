@@ -2,7 +2,7 @@
 title: Lined nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "lined, common, nerita, nerite, articulata, lineata, balteata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 75, 100, 111, 123]
 family: Neritidae
 genus: Nerita
@@ -17,6 +17,32 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg"
+  caption: |
+    <p>Berlayar, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5295m3.jpg"
+  caption: |
+    <p>Tuas, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050527srbd3462m3.jpg"
+  caption: |
+    <p>Pulau Sarimbun, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090411lckd9558m3.jpg"
+  caption: |
+    <p>Lim Chu Kang, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/050327sbwrg3808m3.jpg"
+  caption: |
+    <p>Sungei Buloh, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/201020swgvc3.jpg"
+  caption: |
+    <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158025462262945&set=a.10158025536362945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2a.jpg"
+  caption: |
+    <p>Pasir Ris Park (E), Jan 26Photo shared by Zen Xuan He on <a href="https://www.facebook.com/chen.octavius/posts/pfbid02Xk1FZFUNxFyzNF79p7xKKrgSHQwtny66aMjd53N1FqTt8LYgzVE2YBCJhm6kLwWVl?__cft__[0]=AZaMLvwm5dU4ewsFygUWTtA6CvZ-9DYZ4EAMT3iO5-R669bhl4Ak8-nuU9x4NGTDfcnRAeyYu9tvPcKddFAtTlQmIhnHq7yJddmQV6vDErZvsiIeuUoto3kIRMf-ftVxqBQ&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/260103prpezxh2.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/articulata/090114blyd5296m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,24 +91,16 @@ opening. Operculum thick, evenly covered in tiny bumps, pinkish with
 black blotches. Body pale with fine black bands on the foot and long
 thin black tentacles.
 
-![](articulata/090114blyd5296m3.jpg)  
-*Berlayar, Jan 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](articulata/090114blyd5295m3.jpg) *Tuas, May 07*
 
-*![](articulata/050527srbd3462m3.jpg)  
-Pulau Sarimbun, Mar 05*
 
 **What does it eat?** It grazes on
 algae. It appears to return to the same spot after a feeding bout.
 How it does this is not known, but possibly, it lays down a mucus
 trail that it follows back to its resting spot.
 
-![](articulata/090411lckd9558m3.jpg)  
-*Lim Chu Kang, Apr 09*
 
-*![](articulata/050327sbwrg3808m3.jpg)  
-Sungei Buloh, Mar 05*
 
 ---
 
@@ -101,15 +119,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](articulata/201020swgvc3.jpg)  
-Sembawang, Oct 20*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158025462262945&set=a.10158025536362945).
 
 ---
 
-*![](articulata/260103prpezxh2a.jpg)**Pasir Ris Park (E), Jan 26*Photo shared by Zen Xuan He on [facebook](https://www.facebook.com/chen.octavius/posts/pfbid02Xk1FZFUNxFyzNF79p7xKKrgSHQwtny66aMjd53N1FqTt8LYgzVE2YBCJhm6kLwWVl?__cft__[0]=AZaMLvwm5dU4ewsFygUWTtA6CvZ-9DYZ4EAMT3iO5-R669bhl4Ak8-nuU9x4NGTDfcnRAeyYu9tvPcKddFAtTlQmIhnHq7yJddmQV6vDErZvsiIeuUoto3kIRMf-ftVxqBQ&__tn__=%2CO%2CP-R).
 
-*![](articulata/260103prpezxh2.jpg)*
 
 ---
 

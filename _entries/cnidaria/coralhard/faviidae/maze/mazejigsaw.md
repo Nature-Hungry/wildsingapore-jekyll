@@ -2,7 +2,7 @@
 title: "Jigsaw maze corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,71 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg"
+  caption: |
+    <p>Kusu Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/210625kus1.jpg"
+  caption: |
+    <p>Kusu Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/210625kus1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/060628sntd3735m3.jpg"
+  caption: |
+    <p>Sentosa, Jun</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/060628sntd3735m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/070517sntrd0880m3.jpg"
+  caption: |
+    <p>Sentosa, May</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/070517sntrd0880m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040606kusd0253m3.jpg"
+  caption: |
+    <p>Kusu Island,</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040606kusd0253m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg"
+  caption: |
+    <p>Terumbu</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3a.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4708133787/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100530tbkd4207m3b.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/040605kuscd0015m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -70,27 +135,13 @@ of display.
 Merulind corals with corallites that form short hexagonal or crooked
 cells are grouped under [Maze hexagonal
 corals](../hexa/mazehexa.htm).
-![](jigsaw/040605kuscd0015m3.jpg)  
-*Kusu Island,
-Jun 04![](jigsaw/040605kuscd0015m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](jigsaw/210625kus1.jpg)  
-*Kusu Island,
-Jun 21*![](jigsaw/210625kus1a.jpg)*
 
-![](jigsaw/060628sntd3735m3.jpg)  
-*Sentosa, Jun
-06*![](jigsaw/060628sntd3735m3c.jpg)
 
 ---
 
-![](jigsaw/070517sntrd0880m3.jpg)  
-*Sentosa, May
-07*![](jigsaw/070517sntrd0880m3b.jpg)
 
-![](jigsaw/040606kusd0253m3.jpg)  
-*Kusu Island,
-Jun 04*![](jigsaw/040606kusd0253m3a.jpg)
 
   
 *\*Species are difficult
@@ -115,39 +166,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](jigsaw/100616tsmmn3m3.jpg)  
-*Terumbu
-Semakau, Jun 10*![](jigsaw/100616tsmmn3m3a.jpg)  
-Photo shared
-by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4708133787/).
 
-![](jigsaw/100613sngd5528m3.jpg)  
-*Pulau Salu,
-Jun 10*  
-![](jigsaw/100613sngd5528m3a.jpg)  
-Bleaching.
 
-*![](jigsaw/100530tbkd4207m3b.jpg)  
-Pulau Berkas,
-May 10*
 
 ---
 
-![](jigsaw/091204pawd0060m3.jpg)  
-*Pulau Pawai,
-Dec 09  
-![](jigsaw/091204pawd0060m3a.jpg)*
 
-![](jigsaw/100131slud8838m3.jpg)  
-*Terumbu
-Salu, Jan 10  
-![](jigsaw/100131slud8838m3a.jpg)*
 
-![](jigsaw/100811slud0135m3.jpg)  
-*Pulau Salu,
-Aug 10  
-![](jigsaw/100811slud0135m3a.jpg)*
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

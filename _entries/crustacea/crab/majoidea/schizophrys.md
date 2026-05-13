@@ -2,7 +2,7 @@
 title: Sea toad spider crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "toad, spider, crab, spider crab, schizophrys, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Majidae
 genus: Schizophrys
@@ -24,6 +24,56 @@ zoosubsection: Heterotremata
 superfamily: Majoidea
 subfamily: Majinae
 updated: Dec 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg"
+  caption: |
+    <p>Changi, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg"
+  caption: |
+    <p>Eyes wide apart.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg"
+  caption: |
+    <p>One pincer bigger than the other.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg"
+  caption: |
+    <p>Close up of pincers</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG"
+  caption: |
+    <p>Punggol, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/seahorse-suprises-at-punggol-shorel">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG"
+  caption: |
+    <p>Punggol, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG"
+  caption: |
+    <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8523074593/in/album-72157607906657391/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jun 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162605453353654">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154214279943119.1073741909.696593118&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg"
+  caption: |
+    <p>East Coast Park, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappointsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,26 +118,15 @@ ends of the pincers. Some may have small bits and pieces stuck on
 their bodies, but they are not as well 'decorated' as the [Velcro
 crabs](retusa) (*Camposcia retusa*).
 
-![](schizophrys/090525chgd2395m3.jpg)  
-*Changi, May 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](schizophrys/090525chgd2397m3c.jpg)  
-Eyes wide apart.
 
-![](schizophrys/090525chgd2397m3.jpg)  
-One pincer bigger than the other.
 
-![](schizophrys/090525chgd2397m3f.jpg)  
-Close up of pincers
 
 ---
 
-![](schizophrys/120508skdd2346m3.jpg)  
-*Pulau Sekudu, May 12*
 
-![](schizophrys/120508skdd2348m3.jpg)
 
-*![](schizophrys/120508skdd2348m3a.jpg)*
 
   
 *\*Species are difficult
@@ -112,38 +151,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](schizophrys/110617pgllks.JPG)  
-*Punggol, Jun 11*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/06/seahorse-suprises-at-punggol-shorel).
 
-![](schizophrys/120614pgllks.JPG)  
-*Punggol, Jun 12*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll).
 
 ---
 
-![](schizophrys/121216ubnlks.JPG)  
-*Pulau Ubin, Dec 12*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8523074593/in/album-72157607906657391/).
 
-*![](schizophrys/250626ubnccn3.jpg)  
-Pulau Ubin, Jun 25*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162605453353654)..
 
 ---
 
-![](schizophrys/160607bbjt2.jpg)  
-*Beting Bronok, Jun 16*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154214279943119.1073741909.696593118&type=3&pnref=story.unseen-section).
 
-![](schizophrys/150617ecpbslks2m3.jpg)  
-*East Coast Park, Jun 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3).
 
-![](schizophrys/090818tmjk1m3.jpg)  
-*Tanah Merah, Aug 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappointsl).
 
 ---
 
-![](schizophrys/060714rlhg6651m3.jpg)  
-*Raffles Lighthouse, Jul 06*
 
-*![](schizophrys/060714rlhg6651m3d.jpg)*
 
 ---
 

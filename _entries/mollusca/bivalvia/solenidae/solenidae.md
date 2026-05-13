@@ -2,7 +2,7 @@
 title: "Razor clams "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Solenidae
 genus: ""
 species: ""
@@ -19,6 +19,22 @@ superorder: Imparidentia
 order: Adapedonta
 superfamily: Solenoidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg"
+  caption: |
+    <p>Razor clam (Solen brevisiima)Foot burrowing in (left) and siphon extended (right).</p>
+    <p>Chek Jawa, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg"
+  caption: |
+    <p>Siphon of a large buried razor clam Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg"
+  caption: |
+    <p>Bulbous tip of the muscular foot.</p>
+    <p>Pasir Ris, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,11 +77,7 @@ quickly and are rarely seen as they are usually buried in the sand.
 They are sometimes seen above ground on the undisturbed sandy shores
 near seagrass areas on our northern shores. They are adapted for burrowing
 deeply in soft bottoms.
-![](solenidae/040120cjd0014m3.jpg)  
-Razor clam (*Solen
-brevisiima*)Foot burrowing in (left) and siphon extended (right). *Chek Jawa, Jan 04*
-![](solenidae/120703chgd6621m3.jpg)  
-Siphon of a large buried razor clam *Changi, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
  
 **Built for digging:** 1.5-5cm long.
 The razor clam is a strong and quick burrower. The somewhat rectangular
@@ -77,8 +89,6 @@ and feed. The siphon breaks easily when the animal is disturbed. In
 this way, the animal probably avoids being dragged out of the sand
 by its siphon.
 
-![](solenidae/111227prpd5118m6l.jpg)  
-Bulbous tip of the muscular foot. *Pasir Ris, Dec 11*
 
 **What do they eat?** Like other bivalves,
 razor clams are filter feeders. The buried clam sticks its long siphon
@@ -113,9 +123,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](solenidae/091230prpjk1m3.jpg)  
-Pasir Ris Park, Dec 09*Photo
-shared by James Koh on [his blog](http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html).
 
 ---
 

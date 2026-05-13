@@ -2,7 +2,7 @@
 title: Bryozoans
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bryozoan, lace, moss, animal, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: ""
 species: ""
@@ -11,6 +11,61 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif"
+  caption: |
+    <p>Bryozoans are complex animals with tiny tentacles and live inside a hard case that they can retract into.</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg"
+  caption: |
+    <p>Encrusting a living seagrasses Changi, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/050823chgg2279m3.jpg"
+  caption: |
+    <p>Encrusting a living seaweed!</p>
+    <p>Changi, Aug 05 Bryozoan Food: Bryozoans are believed to feed on bacteria and plankton.</p>
+    <p>Their tentacles are covered with cilia (tiny beating hairs) that generate a current through the lophophore and thus filter out edible titbits.</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
+  caption: |
+    <p><a href="glass">Glassy branching bryozoans</a> Pulau Sekudu, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3.jpg"
+  caption: |
+    <p>Chek Jawa, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/130822cjd1835m3a.jpg"
+  caption: |
+    <p>Growing on a living horseshoe crab.</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllsk1.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/101223pgllks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5286425103/in/album-72157625372847848/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3b.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4954m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/091203ubnd4946m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/031012cjad0005m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/040604bbg0196m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/210529ecpblks15.jpg"
+  caption: |
+    <p>East Coast Park, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233458373158&set=a.10159233461703158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/ig901l.gif"
 ---
  
 
@@ -62,17 +117,8 @@ Colonies that we have seen are lacy and white, to about 5-7cm wide.
 Some are much smaller and encrust hard surfaces or living seaweeds
 and seagrasses. They may also encrust living horseshoe crabs.
 
-![](bryozoannoid/ig901l.gif)  
-Bryozoans are complex animals  
-with tiny tentacles and live inside  
-a hard case that they can retract into.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bryozoannoid/080817chgd9745m3a.jpg)*Encrusting a living seagrasses *Changi, Aug 08*
-*![](bryozoannoid/050823chgg2279m3.jpg)*Encrusting a living seaweed! *Changi, Aug 05*
-**Bryozoan Food:** Bryozoans are believed
-to feed on bacteria and plankton. Their tentacles are covered with
-cilia (tiny beating hairs) that generate a current through the lophophore
-and thus filter out edible titbits.   
   
 A bryozoan has a U-shaped digestive tract that brings its anus back
 to the opening in the house, next to the lophophore, for waste disposal.  
@@ -100,11 +146,6 @@ may help protect themselves with chemicals which deter potential predators.
 Some of these chemicals are being studied for human medical applications.
 A bryozoan compound is part of the drug bryostatin which is being
 tested as an anti-cancer drug.
-*![](glass/111030skdd3345m3.jpg)*[Glassy
-branching bryozoans](glass) *Pulau Sekudu, Oct 11*
-*![](bryozoannoid/130822cjd1835m3.jpg)  
-Chek Jawa, Aug 13*
-*![](bryozoannoid/130822cjd1835m3a.jpg)*Growing on a living horseshoe crab.
 
 ---
 
@@ -123,30 +164,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bryozoannoid/101223pgllsk1.JPG)  
-Punggol, Dec 10![](bryozoannoid/101223pgllks2.JPG)*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5286425103/in/album-72157625372847848/).
 
-*![](bryozoannoid/091203ubnd4954m3b.jpg)  
-Pulau Ubin, Dec 09  
-![](bryozoannoid/091203ubnd4954m3a.jpg)*
  
 
 ---
 
-*![](bryozoannoid/091203ubnd4946m3.jpg)  
-Pulau Ubin, Dec 09![](bryozoannoid/091203ubnd4946m3a.jpg)*
 
-*![](bryozoannoid/031012cjad0005m3.jpg)  
-Chek Jawa, Oct 03![](bryozoannoid/031012cjad0005m3a.jpg)*
 
-*![](bryozoannoid/040604bbg0196m3.jpg)  
-Beting Bronok, Jun 04![](bryozoannoid/040604bbg0196m3a.jpg)*
 
 ---
 
-*![](bryozoannoid/210529ecpblks15.jpg)  
-East Coast Park, May 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233458373158&set=a.10159233461703158).
 
 ---
 

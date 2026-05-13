@@ -2,8 +2,37 @@
 title: "Crabs with long eye stalks: how to tell them apart"
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sentinel, fiddler, crab, uca, macrophthalmus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Apr 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngfiddlers)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubid0090m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/080830kusd0094m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/080525ubnd4405m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -14,7 +43,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngfiddlers)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -40,11 +69,8 @@ Here's more on how to tell them apart.
 
 ---
 
-![](uca/annulipes/040103sjid0059m3.jpg)
 
-![](uca/vocans/040108ubid0090m3.jpg)
 
-![](macrophthalmus/080830kusd0094m3.jpg)
 
 **[Porcelain
 fidder crab](annulipes)**(*Uca
@@ -71,11 +97,8 @@ have one enlarged pincer.
 Both
 males and females have equal sized pincers.
 
-![](uca/annulipes/040103sjid0059m3a.jpg)
 
-![](uca/vocans/040108ubid0090m3a.jpg)
 
-![](macrophthalmus/080830kusd0094m3a.jpg)
 
 Outside
 of pincer is smooth and does not have a triangular depression.
@@ -91,9 +114,7 @@ The
 immobile lower finger is orange or yellow and has a long groove
 on the outside.
 
-![](uca/annulipes/040103sjid0061m3a.jpg)
 
-![](uca/vocans/080525ubnd4405m3a.jpg)
 
 Inside
 of the pincer, there is a diagonal ridge of bumps.

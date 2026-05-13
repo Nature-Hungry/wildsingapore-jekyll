@@ -2,7 +2,7 @@
 title: Black eeltail catfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "black, catfish, cat, fish, siluriformes, plotosidae, plotosus, canius, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 25, 43, 47]
 family: Plotosidae
 genus: Plotosus
@@ -17,6 +17,58 @@ superorder: Ostariophysi
 order: Siluriformes
 suborder: Siluroidei
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
+  caption: |
+    <p>'Whiskers' (barbels) at the top of the snout can extend past the eyes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m6l.jpg"
+  caption: |
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/080408chgd0604m6l.jpg"
+  caption: |
+    <p>Body may not be black, but tip of dorsal fin always black.</p>
+    <p>Changi, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/180910chg4dc3.jpg"
+  caption: |
+    <p>Changi, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744990552284380&set=a.1744988158951286&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/090918tmjk3m3.jpg"
+  caption: |
+    <p>Tanah Merah, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/251108ecpbky10.jpg"
+  caption: |
+    <p>East Coast (B), Nov 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173578305560112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/180812nsrtch6.jpg"
+  caption: |
+    <p>East Coast Park, Aug 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734565808713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/200819ecptch3.jpg"
+  caption: |
+    <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759128868713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/170822lablks4.jpg"
+  caption: |
+    <p>Labrador, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/141109lazlks9m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Dec 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10152841771308158.1073741864.547198157&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/090921sjinml1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Sep 09 Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/101224sisjk1m3.jpg"
+  caption: |
+    <p>Sisters Island, Dec 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/12/101224-big-sisters-islandl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/250713trytl3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162791792009264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/190608bbbjll6.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156452041181295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/110830cyrlks6m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/110517tptlks24m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -85,16 +137,9 @@ snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae)
 Muraenidae). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
 
-*![](canius/050818cftg1436m3a.jpg)*'Whiskers'
-(barbels) at the top of the snout   
-can extend past the eyes*.*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](canius/050818cftg1436m6l.jpg)  
-*Changi, Aug 05*
 
-![](canius/080408chgd0604m6l.jpg)  
-Body may not be black,
-but tip of dorsal fin always black. *Changi, Apr 08*  
  
   
 **Don't touch!** It has venomous spines on the dorsal fin and on each of the pectoral
@@ -129,64 +174,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](canius/180910chg4dc3.jpg)  
-*Changi, Sep 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1744990552284380&set=a.1744988158951286&type=3&theater).
 
-![](canius/090918tmjk3m3.jpg)  
-*Tanah Merah, Sep 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl).
 
 ---
 
-![](canius/251108ecpbky10.jpg)  
-*East Coast (B), Nov 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173578305560112&type=3&ref=embed_post).
 
-![](canius/180812nsrtch6.jpg)  
-*East Coast Park, Aug 19*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156734565808713&set=a.10156734548003713&type=3&theater).
 
 ---
 
-![](canius/200819ecptch3.jpg)  
-*East Coast Park, Aug 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158759128868713&set=a.10158759137988713&type=3&theater).
 
 ---
 
-![](canius/170822lablks4.jpg)  
-*Labrador, Aug 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3).
 
-![](canius/141109lazlks9m3.jpg)  
-*Seringat-Kias, Dec 14*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10152841771308158.1073741864.547198157&type=1).
 
 ---
 
-![](canius/090921sjinml1m3.jpg)  
-*St. John's Island, Sep 09*   
-Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/tiny-world-at-st-johnsl).
 
-![](canius/101224sisjk1m3.jpg)  
-*Sisters Island, Dec 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/12/101224-big-sisters-islandl).
 
 ---
 
-*![](canius/250713trytl3.jpg)  
-Terumbu Raya, Jul 25* Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162791792009264&type=3&ref=embed_post).
 
 ---
 
-![](canius/190608bbbjll6.jpg)  
- *Beting Bemban Besar, Jun 19*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156452041181295&type=3).
 
-![](canius/110830cyrlks6m3.jpg)  
- *Cyrene Reef, Aug 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl).
 
 ---
 
-![](canius/110517tptlks24m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
 ---
 

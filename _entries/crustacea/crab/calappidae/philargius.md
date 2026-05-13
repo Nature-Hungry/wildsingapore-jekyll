@@ -2,7 +2,7 @@
 title: Spotted box crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Calappidae
 genus: Calappa
@@ -23,6 +23,76 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg"
+  caption: |
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3028m3a.jpg"
+  caption: |
+    <p>Two different kinds of pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3029m3.jpg"
+  caption: |
+    <p>Eyes!</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg"
+  caption: |
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2534m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3032m3a.jpg"
+  caption: |
+    <p>Patterns on inside pincers.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd3033m3a.jpg"
+  caption: |
+    <p>Changi, May 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2550m3.jpg"
+  caption: |
+    <p>A pair buried next to one another.</p>
+    <p>Changi, May 06 Status and threats: This crab is listed as Vulnerable in the Red Data List of threatened animals of Singapore.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170624cjlks1.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155438030998158.1073741947.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/251205cjccn2.jpg"
+  caption: |
+    <p>Juvenile?</p>
+    <p>Chek Jawa, Jun 17Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163385153718654&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/200820chgvc1.jpg"
+  caption: |
+    <p>Changi, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10157886455747945&set=a.10157886455152945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/170528chg6mn1.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120704chglks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520751804/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg"
+  caption: |
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110506tmftd0893m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks11m3.jpg"
+  caption: |
+    <p>Seringat Kias,</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120407lazlks12m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks7m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110508cyrlks9m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110520chgd2626m3.jpg"
+  caption: |
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/110506tmftd0893m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/120510chgd2776m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,15 +140,9 @@ body to form a boxy shape. So it is sometimes also called the Shame-face
 crab as it appears to be covering its face in shame. The inner part
 of the flat pincers have striking brown patterns.
 
-![](philargius/120510chgd2776m3.jpg)  
-*Changi, May
-12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](philargius/120510chgd3028m3a.jpg)  
-Two different kinds of pincers.
 
-![](philargius/120510chgd3029m3.jpg)  
-Eyes!
 
 **What does it eat?** The pincers
 of box crabs are specialised for cracking open snail shells. The snail
@@ -86,21 +150,6 @@ is gripped in the left pincer which has pointed claws. With the right
 pincer, which is stronger, the crab cuts pieces of the shell from
 the shell opening. Once the gap is big enough, the crab can enjoy
 its snail meal.
-![](philargius/060529cftd2530m3.jpg)  
-*Changi, May
-06  
-![](philargius/060529cftd2534m3.jpg)*Underside.
-*![](philargius/120510chgd3032m3a.jpg)*Patterns on
-inside pincers.  
-**![](philargius/120510chgd3033m3a.jpg)  
-Changi, May 12**
-![](philargius/060529cftd2550m3.jpg)  
-A pair buried
-next to one another.  
-*Changi, May 06*
-**Status and threats:** This crab
-is listed as Vulnerable in the Red Data List of threatened animals
-of Singapore.
 
 ---
 
@@ -115,55 +164,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](philargius/170624cjlks1.jpg)  
-Chek Jawa, Jun 17*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155438030998158.1073741947.547198157&type=3).
 
-*![](philargius/251205cjccn2.jpg)*Juvenile? *Chek Jawa, Jun 17*Photo
-shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10163385153718654&type=3&ref=embed_post).
 
 ---
 
-![](philargius/200820chgvc1.jpg)  
-*Changi, Aug 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10157886455747945&set=a.10157886455152945).
 
-*![](philargius/170528chg6mn1.jpg)*  
-*Changi, May 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3).
 
 ---
 
-*![](philargius/120704chglks.JPG)  
-Changi, Jul 12![](philargius/120704chglks2.JPG)*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8520751804/in/album-72157607622389163/).
 
-*![](philargius/110520chgd2626m3.jpg)  
-Changi, May
-11  
-![](philargius/110506tmftd0893m3.jpg)  
-Tanah Merah,
-May 11*
 
 ---
 
-*![](philargius/120407lazlks11m3.jpg)  
-Seringat Kias,
-Apr 12![](philargius/120407lazlks12m3.jpg)*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl).
 
-![](philargius/110508cyrlks7m3.jpg)  
-*Cyrene Reef,
-May 11*  
-![](philargius/110508cyrlks9m3.jpg)  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl).
 
-*![](philargius/110520chgd2626m3.jpg)  
-Changi, May
-11  
-![](philargius/110506tmftd0893m3.jpg)  
-Tanah Merah,
-May 11*
 
 ---
 

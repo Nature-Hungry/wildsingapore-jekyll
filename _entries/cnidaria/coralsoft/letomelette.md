@@ -2,7 +2,7 @@
 title: Omelette leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Alcyoniidae
 genus: Sarcophyton
@@ -15,6 +15,80 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0618m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8151m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg"
+  caption: |
+    <p>Colony usually mushroom shaped.</p>
+    <p>Terumbu Pempang Laut, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg"
+  caption: |
+    <p>Bleaching and 'melting' colony during mass coral bleaching.</p>
+    <p>Terumbu Pempang Tengah, Jul 16</p>
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg"
+  caption: |
+    <p>Tiny <a href="../../ctenophora/coeloplana.htm">ctenophores</a> sometimes seen.</p>
+    <p>Cyrene Reef, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/140518tmlks.JPG"
+  caption: |
+    <p>Tanah Merah, May 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25409931642/in/album-72157664044624940/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827323158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5502m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -76,24 +150,14 @@ found by the long fine strings that they produce.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](letomelette/050807sjig0617m3.jpg)  
-St. John's Island, Aug 05**![](letomelette/050807sjig0618m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](letomelette/110802smkd8147m3.jpg)  
-Pulau Semakau, Aug 11![](letomelette/110802smkd8151m3.jpg)*
 
-*![](letomelette/120621cyrd5934m3.jpg)  
-Cyrene Reef, Jun 12![](letomelette/120621cyrd5934m3a.jpg)*
 
 ---
 
-*![](letomelette/100812tpld0375m3.jpg)*Colony
-usually mushroom shaped. *Terumbu Pempang Laut, Aug 10*
 
-![](letomelette/160724tpto7240179m3.jpg)  
-Bleaching and 'melting' colony during mass coral bleaching. *Terumbu Pempang Tengah, Jul 16*
 
-*![](../../ctenophora/coeloplana/120722cyrd8101m3.jpg)*Tiny [ctenophores](../../ctenophora/coeloplana.htm) sometimes seen. *Cyrene Reef, Jul 12*
 
   
 *\*ID needs to be
@@ -119,43 +183,20 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](letomelette/140518tmlks.JPG)  
-Tanah Merah, May 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25409931642/in/album-72157664044624940/).
 
-*![](letomelette/220618tmftlks20.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943827323158&set=a.10159943838013158).
 
 ---
 
-*![](letomelette/100130brkd8474m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](letomelette/100130brkd8474m3a.jpg)*
 
-*![](letomelette/091204pawd5270m3.jpg)  
-Pulau Pawai, Dec 09  
-![](letomelette/091204pawd5270m3a.jpg)*
 
 ---
 
-*![](letomelette/100810sngd9982m3.jpg)  
-Pulau Senang, Aug 10  
-![](letomelette/100810sngd9982m3a.jpg)*
 
-*![](letomelette/100613sngd5501m3.jpg)  
-Pulau Senang, Jun 10  
-![](letomelette/100613sngd5502m3.jpg)*Bleaching.
 
-*![](letomelette/100811slud0054m3.jpg)  
-Pulau Salu, Aug 10  
-![](letomelette/100811slud0054m3a.jpg)*
 
 ---
 
-*![](letomelette/091205sudd5501m3.jpg)  
-Pulau Sudong, Dec 09*
 
-*![](letomelette/100131slud8803m3.jpg)  
-Terumbu Salu, Jan 10*
 
 ---
 

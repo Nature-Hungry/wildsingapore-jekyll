@@ -2,7 +2,7 @@
 title: Smooth flowery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, litophyton, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Nephtheidea
 genus: Litophyton
 species: ""
@@ -15,6 +15,26 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg"
+  caption: |
+    <p>Tuas, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3f.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/070304hntg8008m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -55,21 +75,14 @@ embedded in the tissues. There are clusters of polyps all along these
 side branches. Polyps tiny (about 0.5cm) with eight beige or brown
 branched tentacles. No spikes next to the polyps. The animals harbour
 symbiotic algae (zooxanthellae) and thus can be found in clearer waters.
-*![](nepsmooth/050510tusg6107m3.jpg)  
-Tuas, May 05* 
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](nepsmooth/050510tusg6107m3e.jpg)*
 
-*![](nepsmooth/050510tusg6107m3f.jpg)*
 
 ---
 
-*![](nepsmooth/070304hntg8008m3.jpg)  
-Pulau Hantu, Mar 07*
 
-*![](nepsmooth/070304hntg8008m3a.jpg)*
 
-*![](nepsmooth/070304hntg8008m3b.jpg)*
 
   
 *\*ID

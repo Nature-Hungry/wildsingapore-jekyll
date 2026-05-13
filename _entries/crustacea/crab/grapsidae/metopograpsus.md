@@ -2,7 +2,7 @@
 title: Purple climber crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "purple, climber, crab, metopograpsus, grapsidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Grapsidae
 genus: Metopograpsus
@@ -23,6 +23,62 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg"
+  caption: |
+    <p>Kusu Island, Apr 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3c.jpg"
+  caption: |
+    <p>Scalloped pincers</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/120112sbwmn.jpg"
+  caption: |
+    <p>Sembawang Park, Jan 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6816528995/in/photolist-5hpkms-cb6eMs-xjf3SU-bomuzZ-bfyPti-87kk2G-87h8hr-fzLuxh-8hQ39Z-4UwuwT-4UAHB3-wpg5c-cb6fkb-cbd733-cb6f1G-5CcjL5/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/080609ubnmn.jpg"
+  caption: |
+    <p>Pulau Ubin, Jun 08Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2563477439/in/photolist-5hpkms-cb6eMs-xjf3SU-bomuzZ-bfyPti-87kk2G-87h8hr-fzLuxh-8hQ39Z-4UwuwT-4UAHB3-wpg5c-cb6fkb-cbd733-cb6f1G-5CcjL5/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100124cjd7970m3.jpg"
+  caption: |
+    <p>Grabbed a fiddler crab then headed back to the boardwalk legs.</p>
+    <p>Chek Jawa, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090720skdjk6m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 09 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/pulau-sekudu-deceptively-deep-anemonesl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251208meky9.jpg"
+  caption: |
+    <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101106tburjk.JPG"
+  caption: |
+    <p>Terumbu Buran, Nov 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5151338608/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/141109lazmn2m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Nov 14 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152500035353660.1073741851.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/250810bsisky2.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172831535100112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100515sjid2485m3.jpg"
+  caption: |
+    <p>A pair, getting ready to mate?</p>
+    <p>St.</p>
+    <p>John's Island, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg"
+  caption: |
+    <p>Captured a <a href="../../../insecta/cricketshore">Shore cricket</a> Pulau Hantu May 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3524330760/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/251207hntky8.jpg"
+  caption: |
+    <p>Pulau Hantu, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/100711cyrlks1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/101009smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Oct 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5067342841/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/110517tptlt3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on <a href="http://www.facebook.com/media/set/?set=a.541764784148.43593.227700992">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/050410kusg4259m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,13 +137,9 @@ algae, scrapping this off with its pincers which are scalloped on
 the inner edge. But it will also scavenge on any other edible things
 it can find.
 
-![](metopograpsus/050410kusg4259m3.jpg)  
-*Kusu Island, Apr 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](metopograpsus/050410kusg4259m3b.jpg)
 
-![](metopograpsus/050410kusg4259m3c.jpg)  
-Scalloped pincers
 
  *\*Species
 are difficult to positively identify without close examination.  
@@ -111,66 +163,31 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](metopograpsus/120112sbwmn.jpg)  
- *Sembawang Park, Jan 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6816528995/in/photolist-5hpkms-cb6eMs-xjf3SU-bomuzZ-bfyPti-87kk2G-87h8hr-fzLuxh-8hQ39Z-4UwuwT-4UAHB3-wpg5c-cb6fkb-cbd733-cb6f1G-5CcjL5/).
 
-![](metopograpsus/080609ubnmn.jpg)  
- *Pulau Ubin, Jun 08*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/2563477439/in/photolist-5hpkms-cb6eMs-xjf3SU-bomuzZ-bfyPti-87kk2G-87h8hr-fzLuxh-8hQ39Z-4UwuwT-4UAHB3-wpg5c-cb6fkb-cbd733-cb6f1G-5CcjL5/).
 
 ---
 
-![](metopograpsus/100124cjd7970m3.jpg)  
-Grabbed a fiddler
-crab then headed back   
-to the boardwalk legs. *Chek Jawa, Jan 10*
 
-![](metopograpsus/090720skdjk6m3.jpg)  
-*Pulau Sekudu, Jul 09*  
-Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/pulau-sekudu-deceptively-deep-anemonesl).
 
 ---
 
-![](metopograpsus/251208meky9.jpg)  
-*Marina East, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post).
 
-![](metopograpsus/101106tburjk.JPG)  
-*Terumbu Buran, Nov 10*  
-Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/5151338608/).
 
 ---
 
-![](metopograpsus/141109lazmn2m3.jpg)  
-*Seringat-Kias, Nov 14*  
-Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152500035353660.1073741851.624178659&type=3).
 
-*![](metopograpsus/250810bsisky2.jpg)  
-Big Sisters, Aug 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10172831535100112&type=3&ref=embed_post).
 
 ---
 
-![](metopograpsus/100515sjid2485m3.jpg)  
-A pair, getting ready to mate? *St. John's Island, May 10*
 
-*![](../../othercrust/isopoda/ligia/090510hntmn.jpg)*Captured a [Shore cricket](../../../insecta/cricketshore) *Pulau Hantu May 09*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/3524330760/).
 
-![](metopograpsus/251207hntky8.jpg)  
-*Pulau Hantu, Dec 2025*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post).
 
   
 
 ---
 
-![](metopograpsus/100711cyrlks1m3.jpg)  
-*Cyrene Reef, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl).
 
-![](metopograpsus/101009smklks.JPG)  
-*Pulau Semakau, Oct 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/5067342841/in/album-72157607751329669/).
 
-![](metopograpsus/110517tptlt3m3.jpg)  
-*Terumbu Pempang Tengah, May 11*  
-Photo shared by Liana Tang on [facebook](http://www.facebook.com/media/set/?set=a.541764784148.43593.227700992).
 
 ---
 

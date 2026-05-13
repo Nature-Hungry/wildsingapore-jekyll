@@ -2,12 +2,41 @@
 title: Grey-footed mangrove onch slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "grey, foot, slug, seaslug, onch, onchidium, platyvindex, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Onchidiidae
 genus: Platyvindex
 species: ""
 attributes: []
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg"
+  caption: |
+    <p>Kranji, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/090612pndd4042.jpg"
+  caption: |
+    <p>Sungei Pandan, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5a.jpg"
+  caption: |
+    <p>Sg Pang Sua, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.913753374474737&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/251228spgrqo5b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch01m3a.jpg"
+  caption: |
+    <p>Photos shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3239849095/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/081206smktch02m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -47,19 +76,12 @@ circles. Generally greyish or brown. The underside of the body is
 grey, it has a narrow foot that has horizontal ridges. Eyes on long
 thin stalks.
 
-![](platyvindex/060627krjd3712m3.jpg)  
-*Kranji, Jun
-06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](platyvindex/060627krjd3713m3.jpg)  
-Underside
 
-![](platyvindex/060627krjd3713m3a.jpg)
 
 ---
 
-![](platyvindex/090612pndd4042.jpg)  
-*Sungei Pandan, Jun 09*
 
 *\***Species
 are difficult to positively identify without close examination.  
@@ -83,23 +105,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](platyvindex/251228spgrqo5a.jpg)  
-Sg Pang Sua,
-Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.913753374474737&type=3&ref=embed_post).
 
-![](platyvindex/251228spgrqo5b.jpg)
 
 ---
 
-![](platyvindex/081206smktch01m3.jpg)  
-*Pulau Semakau,
-Dec 08*
 
-![](platyvindex/081206smktch01m3a.jpg)  
-Photos shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/3239849095/).
 
-![](platyvindex/081206smktch02m3.jpg)
 
 ---
 

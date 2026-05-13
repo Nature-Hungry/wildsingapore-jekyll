@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: encrusting
 title: Orange prickly sponge
 family: Mycalidae
@@ -17,6 +17,29 @@ subclass: Heteroscleromorpha
 order: Poecilosclerida
 subgenus: Zygomycale
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3a.jpg"
+  caption: |
+    <p>Large hole where water is expelled.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3a.jpg"
+  caption: |
+    <p>Prickly surface.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg"
 ---
 
 
@@ -43,16 +66,9 @@ orange.
 Bright orange sponges which are encrusting may come from a variety
 of species and families including *Tedania* sp. and *Hymerhabdia* sp. They are difficult to tell apart in the field.
 
-*![](orangeprickly/130623chgd7605m3.jpg)  
-Changi, Jul 13*![](orangeprickly/130623chgd7605m3a.jpg)  
-Large hole where water is expelled.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](orangeprickly/130723bbd0085m3.jpg)  
-Beting Bronok, Jul 13*![](orangeprickly/130723bbd0085m3a.jpg)  
-Prickly surface.
 
-![](orangeprickly/180617skdm3.jpg)  
-*Pulau Sekudu, Jun 18*![](orangeprickly/180617skdm3a.jpg)
 
   
 *\*Species
@@ -77,8 +93,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](orangeprickly/160125obslks2.jpg)  
-*Pulau Ubin OBS, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story).
 
 ---
 

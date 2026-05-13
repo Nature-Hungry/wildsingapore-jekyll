@@ -2,7 +2,7 @@
 title: "Tiup-tiup "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "adinandra, dumosa, theaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 109]
 family: Theaceae
 genus: Adinandra
@@ -15,6 +15,32 @@ subphylum: Angiospermae
 class: Magnoliopsida
 order: Ericales
 updated: Nov 2010
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg"
+  caption: |
+    <p>Sentosa, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8849m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0213m3.jpg"
+  caption: |
+    <p>Admiralty Park, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0213m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0215m3.jpg"
+  caption: |
+    <p>Admiralty Park, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090418admd0215m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/091005cjd2144m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/091005cjd2144m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/adinandra/dumosa/090401sntd8846m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,24 +99,10 @@ out the pulp contents and disgorge the seeds.
 its wood is considered of little use as it is such a small tree. But
 it is used as firewood.  
 
-*![](dumosa/090401sntd8846m6l.jpg)  
-Sentosa, Apr 09  
-![](dumosa/090401sntd8849m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](dumosa/090418admd0213m3.jpg)  
-*Admiralty
-Park, Apr 09  
-![](dumosa/090418admd0213m3b.jpg)*
 
-![](dumosa/090418admd0215m3.jpg)  
-*Admiralty
-Park, Apr 09  
-![](dumosa/090418admd0215m3a.jpg)*
 
-![](dumosa/091005cjd2144m3.jpg)  
-*Chek Jawa,
-Oct 09  
-![](dumosa/091005cjd2144m3a.jpg)*
 
 ---
 

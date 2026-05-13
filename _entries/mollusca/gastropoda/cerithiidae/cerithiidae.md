@@ -2,7 +2,7 @@
 title: "Creeper snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "creeper, cerith, snail, shell, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cerithiidae
 genus: ""
 species: ""
@@ -15,6 +15,40 @@ class: Gastropoda
 subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3.jpg"
+  caption: |
+    <p>Shell opening.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1463m3b.jpg"
+  caption: |
+    <p>Operculum with only a few whorls.</p>
+    <p>What do they eat?</p>
+    <p>Creeper snails are often found in groups of many individuals packed close to one another.</p>
+    <p>They feed on algae and detritus on the sea bottom, often near reefs.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/130823prp.jpg"
+  caption: |
+    <p><a href="plain.htm">Plain creeper snails</a> sometimes seen in large numbers.</p>
+    <p>Pasir Ris Park, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg"
+  caption: |
+    <p>Empty shells may be taken over by tiny <a href="../../../crustacea/othercrust/anomura/hermit/huddling.htm">huddling hermit crabs</a>.</p>
+    <p>St John's Island, Jan 06 Human uses: Some of the prettier species are collected for the shell trade.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/plain/050723labg0078m3.jpg"
+  caption: |
+    <p><a href="plain.htm">Plain creeper snails</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/080509cyrd2908m3.jpg"
+  caption: |
+    <p><a href="obelisk.htm">Obelisk creeper snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/variegated/060212sisg4837m3.jpg"
+  caption: |
+    <p><a href="variegated.htm">Variegated creeper snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/050917smkg2563m3.jpg"
+  caption: |
+    <p><a href="pellucida.htm">Mangrove creeper snail</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/obelisk/081030sntd1464m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,26 +96,11 @@ of a horny material but with a tight spiral pattern. Horn snails have
 siphonal canals that are less pronounced and they are generally larger
 than Creeper snails. More on [how to
 tell these snails apart](../certihpotamid.htm).
-*![](obelisk/081030sntd1464m3.jpg)  
-Sentosa, Oct 08*
-*![](obelisk/081030sntd1463m3.jpg)*  
-Shell opening.
-*![](obelisk/081030sntd1463m3b.jpg)*  
-Operculum with only a few whorls.
-**What do they eat?** Creeper snails
-are often found in groups of many individuals packed close to one
-another. They feed on algae and detritus on the sea bottom, often
-near reefs.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Role in the habitat:** Should the
 tiny snail die, the empty shell is often taken over by [tiny
 hermit crabs](../../../crustacea/othercrust/anomura/hermit/hermit.htm).
-*![](plain/130823prp.jpg)*[Plain creeper snails](plain.htm) sometimes seen in large numbers. *Pasir Ris Park, Aug 13*
-![](../../../crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3b.jpg)  
-Empty shells may be taken over by   
-tiny [huddling hermit crabs](../../../crustacea/othercrust/anomura/hermit/huddling.htm). *St John's Island, Jan 06*
- **Human uses:** Some of the prettier species are collected
-for the shell trade.  
   
 **Status and threats:** Traill's creeper
 (*Cerithium trailli*) is listed as 'Endangered' on the Red List
@@ -98,15 +117,11 @@ snails on Singapore shores**
 
 ---
 
-***![](plain/050723labg0078m3.jpg)*[Plain creeper snails](plain.htm)**
 
-***![](obelisk/080509cyrd2908m3.jpg)*[Obelisk creeper snail](obelisk.htm)**
 
-***![](variegated/060212sisg4837m3.jpg)*[Variegated creeper snail](variegated.htm)**
 
 ---
 
-***![](pellucida/050917smkg2563m3.jpg)* [Mangrove creeper snail](pellucida.htm)**
 
 ---
 

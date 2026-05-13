@@ -2,7 +2,7 @@
 title: Jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cassiopeidae
 genus: ""
 species: ""
@@ -17,6 +17,44 @@ order: Rhizostomeae
 suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Aug 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
+  caption: |
+    <p>The Ribbon jellyfish has thin tentacles and thick ruffled long arms.</p>
+    <p>Terumbu Semakau, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Mar 11</p>
+- url: "https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)") Don't play with jellyfish!</p>
+    <p>Like other cnidarians, jellyfish can sting and some, very painfully.</p>
+    <p>In the water, a jellyfish is translucent and easily overlooked, until you brush against one of its stinging arms with bare skin.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg"
+  caption: |
+    <p>Small fishes swimming near the jellyfish.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg"
+  caption: |
+    <p><a href="mangrove">Mangrove jellyfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg"
+  caption: |
+    <p><a href="catostylus">Fat-armed jellyfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg"
+  caption: |
+    <p><a href="ribbon">Ribbon jellyfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
+  caption: |
+    <p><a href="upsidedown">Upsidedown jellyfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg"
+  caption: |
+    <p><a href="huge">Huge jellyfish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tusad0160m3.jpg"
+  caption: |
+    <p><a href="../hydrozoa/thread">Thread-tentacled jellyfish</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,20 +121,14 @@ The body has eight-fold symmetry. Like other cnidarians, the jellyfish
 does not have an anus and wastes are eliminated through the same opening
 where food is taken in.
 
-*![](ribbon/110323tsmkd7813m6la.jpg)*The Ribbon jellyfish has thin tentacles and thick ruffled long arms. *Terumbu Semakau, Mar 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](ribbon/110323tsmkd7815m3.jpg)  
-Terumbu Semakau, Mar 11*
 
 The animal moves by contracting its bell. Some may have long thin
 tentacles on the edge of the bell, others lack these. The mouth is
 under the bell in the centre. Often surrounding the mouth are long
 structures called oral arms (not tentacles). These can be short and
 stout, branched, or long and ribbon-like.
-[![Bloom of Mangrove jellyfish (Acromitus sp.)](https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg)](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)")
-**Don't
-play with jellyfish!** Like other cnidarians,
-jellyfish can sting and some, very painfully. In the water, a jellyfish is translucent and easily overlooked, until you brush against one of its stinging arms with bare skin.
   
   
 Stingers
@@ -142,13 +174,7 @@ bags and balloons properly. Our litter can kill!
   
 **Jellyfish friends:** Sometimes, small fishes can be seen near [huge jellyfishes](huge) and even [Ribbon jellyfishes](ribbon) including near their stinging tentacles.
 
-![](huge/160610jngmn5.jpg)  
- *Pulau Jong,
-Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3).
 
-![](huge/160610jngmn4.jpg)  
-Small fishes
-swimming near the jellyfish.
 
 **Human uses:** Jellyfish are a delicacy
 in Chinese cuisine. But so far, there has not been an outcry against
@@ -168,25 +194,13 @@ to be an indicator of an imbalance in the ecosystem, or pollution.
 
 ---
 
-***![](mangrove/090410ubnd9384m3.jpg)*  
-[Mangrove jellyfish](mangrove)**
 
-***![](fatarm/050426cftg5076m3.jpg)*  
-[Fat-armed jellyfish](catostylus)**
 
-***![](ribbon/050624tusg8515m3.jpg)*  
-[Ribbon jellyfish](ribbon)**
 
 ---
 
-***![](upsidedown/080321smkd0421m3.jpg)*  
-[Upsidedown jellyfish](upsidedown)**
 
-***![](huge/060516chgd2021m3.jpg)*  
-[Huge jellyfish](huge)**
 
-***![](../hydrozoa/thread/040409tusad0160m3.jpg)*  
-[Thread-tentacled jellyfish](../hydrozoa/thread)**
 
 ---
 

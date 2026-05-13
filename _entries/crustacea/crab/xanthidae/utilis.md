@@ -2,7 +2,7 @@
 title: "Saw-edged spooner crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "saw, edge, spooner, crab, etisus, utilis, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 58, 69, 106, 112]
 family: Xanthidae
 genus: Etisus
@@ -24,6 +24,77 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 subfamily: Etisinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250201bsislks1.jpg"
+  caption: |
+    <p>Big Sisters Island, Feb 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240512jngky2.jpg"
+  caption: |
+    <p>Pulau Jong, May 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10169448186065112/954605116069002">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230805thntccn1.jpg"
+  caption: |
+    <p>Terumbu Hantu, Aug 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10160630563748654/836832448062212">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/130511hntlks.JPG"
+  caption: |
+    <p>Pulau Hantu, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750747846/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/141011hntlks.JPG"
+  caption: |
+    <p>Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24059478301/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240623hntky2.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169619874670112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/201215smkelks2.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158831046543158&set=a.10158831062073158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/150718smkelks3m3.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/250727smkwtl1.jpg"
+  caption: |
+    <p>Pulau Semakau (West), Jul 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162881769704264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140713tsmkmn2m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jul 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152263462748660.1073741841.624178659&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230509tsmkmn1.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159581938218660&set=a.10159581923183660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/090920smklks.JPG"
+  caption: |
+    <p>Pulau Semakau, Sep 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3939442367/in/album-72157607751329669/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/170627tbay4.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10210937756052145.1073741895.1000600604&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/200625tblks1.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158398027498158&set=a.10158398059803158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/240526bbbky3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169489991325112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811trylks.JPG"
+  caption: |
+    <p>Terumbu Raya, Aug 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25233040420/in/album-72157618622863607/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/140811tryjll3m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Aug 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152318355246295.1073741840.542241294&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/230221tryky5.jpg"
+  caption: |
+    <p>Terumbu Raya, Fen 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168072521320112&set=a.10168072524345112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220503tptlks1.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 22Photo shared by Loh Koh Sheng on <a href="https://www.facebook.com/photo/?fbid=10159859132753158&set=a.10159859138168158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/220201brkjll3.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753868531295&set=a.10158753863266295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,12 +132,9 @@ seen?** This crab with distinctive saw-like teeth on the edge of its body is som
 **Features:** Body width 4-6cm. Body
 somewhat circular with large teeth on the edges that resembles a saw.
 Pincers large with short spines and black tips. Red or reddish brown, sometimes with white patterns.
-*![](utilis/050917smkg2456m3.jpg)**Pulau
-Semakau, Sep 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](utilis/050917smkg2456m3b.jpg)*
 
-*![](utilis/050917smkg2456m3a.jpg)*
 
 ---
 
@@ -84,92 +152,39 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](utilis/250201bsislks1.jpg)*  
- *Big Sisters Island, Feb 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post).
 
-*![](utilis/240512jngky2.jpg)  
-Pulau
-Jong, May 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10169448186065112/954605116069002).
 
-*![](utilis/230805thntccn1.jpg)  
-Terumbu Hantu, Aug 23*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/794658653/videos/a.10160630563748654/836832448062212).
 
 ---
 
-*![](utilis/130511hntlks.JPG)  
-Pulau
-Hantu, May 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8750747846/in/album-72157607719695102/).
 
-*![](utilis/141011hntlks.JPG)  
-Pulau
-Hantu, Oct 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24059478301/in/album-72157607719695102/).
 
-*![](utilis/240623hntky2.jpg)  
-Pulau Hantu, Jun 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169619874670112).
 
 ---
 
-*![](utilis/201215smkelks2.jpg)  
-Pulau
-Semakau (East), Dec 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158831046543158&set=a.10158831062073158).
 
-*![](utilis/150718smkelks3m3.jpg)  
-Pulau
-Semakau East, Jul 15*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3).
 
 ---
 
-*![](utilis/250727smkwtl1.jpg)  
-Pulau
-Semakau (West), Jul 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10162881769704264&type=3&ref=embed_post).
 
 ---
 
-*![](utilis/140713tsmkmn2m3.jpg)  
-Terumbu
-Semakau, Jul 14*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152263462748660.1073741841.624178659&type=1).
 
-*![](utilis/230509tsmkmn1.jpg)  
-Terumbu
-Semakau, May 23*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10159581938218660&set=a.10159581923183660).
 
-*![](utilis/090920smklks.JPG)  
-Pulau
-Semakau, Sep 09*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/3939442367/in/album-72157607751329669/).
 
 ---
 
-*![](utilis/170627tbay4.jpg)* *Terumbu Bemban, Jun 17*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10210937756052145.1073741895.1000600604&type=3).
 
-*![](utilis/200625tblks1.jpg)  
-Terumbu Bemban, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158398027498158&set=a.10158398059803158&type=3&theater).
 
-*![](utilis/240526bbbky3.jpg)  
-Beting Bemban Besar, May 24* Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169489991325112).
 
 ---
 
-*![](utilis/140811trylks.JPG)  
-Terumbu
-Raya, Aug 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25233040420/in/album-72157618622863607/).
 
-*![](utilis/140811tryjll3m3.jpg)  
-Terumbu
-Raya, Aug 14*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/media/set/?set=a.10152318355246295.1073741840.542241294&type=1).
 
-*![](utilis/230221tryky5.jpg)  
-Terumbu
-Raya, Fen 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168072521320112&set=a.10168072524345112).
 
 ---
 
-*![](utilis/220503tptlks1.jpg)  
-Terumbu
-Pempang Tengah, May 22*Photo shared by Loh Koh Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159859132753158&set=a.10159859138168158).
 
-*![](utilis/220201brkjll3.jpg)  
-Pulau Berkas, Feb 22*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158753868531295&set=a.10158753863266295).
 
 ---
 

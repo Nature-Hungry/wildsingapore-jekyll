@@ -2,7 +2,7 @@
 title: Reef bristleworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bristleworm, eurythoe, complanata, amphinomidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Amphinomidae
 genus: Eurythoe
 species: complanata*
@@ -16,6 +16,72 @@ subclass: Errantia
 order: Amphinomida
 subfamily: Amphinominae
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9511m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9513m3a.jpg"
+  caption: |
+    <p>Front of the worm.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9513m3c.jpg"
+  caption: |
+    <p>Rows of bristle 'bunches' with tufts.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050513labg6497m3.jpg"
+  caption: |
+    <p>Labrador, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050513labg6499m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg"
+  caption: |
+    <p><a href="../../crustacea/crab/portunidae/portunidae">Swimming crab</a> eating a Reef bristleworm Pulau Semakau (West), Jul 25Photo shared by Jayden Kang on <a href="https://www.facebook.com/jeidun/posts/30510372381944886?ref=embed_post">facebok</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/081017cyrtch.jpg"
+  caption: |
+    <p><a href="../../crustacea/crab/pilumnidae/pilumnus">Common hairy crab</a> eating a Reef bristleworm.</p>
+    <p>Cyrene Reef, Oct 08Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2947419594/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/120604pglmn.jpg"
+  caption: |
+    <p>Punggol, Jun 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7364360838/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/111030skdlks9m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/251011labjt3.jpg"
+  caption: |
+    <p>Labrador, Oct 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10163310837118119&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/201215bsrpvc9.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140893092945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/260104trmrqo6.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/110220lazjk5m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/250811jngjk2.jpg"
+  caption: |
+    <p>Pulau Jong, May 25Photo shared byJayden Kang on <a href="https://www.facebook.com/jeidun/posts/30713668508281938?ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/250726cyrjt2.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/091106smkgl1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 09Photo shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/160208smksjll5.jpg"
+  caption: |
+    <p>Pulau Semakau South, Feb 16Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153453898151295.1073741863.542241294&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/251008bbbky8.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Oct 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/181128tptgt2.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Nov 18Photo shared by Gina Tan on <a href="https://www.facebook.com/photo.php?fbid=10156921166193054&set=a.10156921163653054&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/090330trylks3m6l.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3558499595/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/250812tbal3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/050720sntg9511m3.jpg"
 ---
 
 
@@ -64,29 +130,12 @@ and numbness that can last for days and even weeks.
 to water. Do not touch bristleworms.
     
 **What do they eat?** They feed on coral polyps, sponges, anemones, hydroids and ascidians. They lack jaws but suck out the juices of their prey.
-![](reef/050720sntg9511m3.jpg)  
-*Sentosa, Jul
-05*
-![](reef/050720sntg9513m3a.jpg)  
-Front of the worm.
-![](reef/050720sntg9513m3c.jpg)  
-Rows of bristle 'bunches'   
-with tufts.
-![](reef/050513labg6497m3.jpg)  
-*Labrador,
-Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](reef/050513labg6499m3a.jpg)
 
 **What eats them?** Despite their fearsome bristles, crabs have been seen chomping happily on them.
 
-![](../../crustacea/crab/portunidae/spinimana/250727smkwjk1.jpg)  
-[Swimming crab](../../crustacea/crab/portunidae/portunidae) eating a Reef bristleworm  
-*Pulau Semakau (West), Jul 25*Photo shared by Jayden Kang on [facebok](https://www.facebook.com/jeidun/posts/30510372381944886?ref=embed_post).
 
-![](reef/081017cyrtch.jpg)  
-[Common hairy crab](../../crustacea/crab/pilumnidae/pilumnus) eating a Reef bristleworm. *Cyrene Reef, Oct 08*Photo
-shared by Toh Chay Hoon on [flickr](https://www.flickr.com/photos/ilmare77/2947419594/).
 
   
  *\***Tentative
@@ -112,72 +161,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](reef/120604pglmn.jpg)  
-Punggol, Jun 12*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7364360838/).
 
-*![](reef/111030skdlks9m3.jpg)  
-Pulau Sekudu, Oct 11*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudul).
 
 ---
 
-*![](reef/251011labjt3.jpg)  
-Labrador, Oct 25*Photo
-shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10163310837118119&type=3&ref=embed_post).
 
-*![](reef/201215bsrpvc9.jpg)  
-Sentosa Serapong, Dec 20*Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140893092945&set=a.10158140917142945).
 
-*![](reef/260104trmrqo6.jpg)  
-Sentosa Tg Rimau, Jan 26*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.918776547305753&type=3&ref=embed_post).
 
 ---
 
-*![](reef/110220lazjk5m3.jpg)  
-Lazarus Island, Feb 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
-![](reef/250811jngjk2.jpg)  
-*Pulau Jong, May 25*Photo shared byJayden Kang on [facebook](https://www.facebook.com/jeidun/posts/30713668508281938?ref=embed_post).
 
-![](reef/250726cyrjt2.jpg)  
-*Cyrene, Jul 25*Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post).
 
 ---
 
-![](reef/091106smkgl1m3.jpg)  
-*Pulau Semakau,
-Nov 09*Photo
-shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/11/back-to-pulau-semakaul).
 
-*![](reef/160208smksjll5.jpg)  
-Pulau Semakau South, Feb 16*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10153453898151295.1073741863.542241294&type=3&pnref=story).
 
 ---
 
-*![](reef/251008bbbky8.jpg)  
-Beting Bemban Besar, Oct 25*Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173316523995112&type=3&ref=embed_post).
 
-*![](reef/181128tptgt2.jpg)  
-Terumbu Pempang Tengah, Nov 18*Photo
-shared by Gina Tan on [facebook](https://www.facebook.com/photo.php?fbid=10156921166193054&set=a.10156921163653054&type=3&theater).
 
 ---
 
-![](reef/090330trylks3m6l.jpg)  
-*Terumbu
-Raya, Mar 09*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/3558499595/).
 
-![](reef/250812tbal3.jpg) *Terumbu Bemban, Aug 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post).
 
 ---
 
@@ -200,5 +206,3 @@ and a tentative identification.
   and Ned Deloach. 2010. *Reef
   Creature Identification: Tropical Pacific* New World Publications.
   497pp.
-
-

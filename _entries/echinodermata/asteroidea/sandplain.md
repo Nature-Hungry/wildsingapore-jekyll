@@ -2,7 +2,7 @@
 title: Plain sand star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, indicus, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 91, 92, 106]
 family: Astropectinidae
 genus: ""
@@ -16,6 +16,51 @@ class: Asteroidea
 superorder: Valvatacea
 order: Paxillosida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3d.jpg"
+  caption: |
+    <p>Stout flat spines on the sides.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3a.jpg"
+  caption: |
+    <p>Pointed tube feet</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3a.jpg"
+  caption: |
+    <p><a href="../../mollusca/gastropoda/eulimidae/eulimidae">Tiny parasitic snails</a> sometimes seen.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050402cjg4016m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/080817chgd9707m3.jpg"
+  caption: |
+    <p>Sometimes with only 4 arms.</p>
+    <p>Changi, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/090310tuslks.JPG"
+  caption: |
+    <p>Tuas, Mar 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/soft-sediment-creatures-of-tuasl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/201019cnyrk7.jpg"
+  caption: |
+    <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158588709082906&set=a.10158588678307906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260216cnyrqo3.jpg"
+  caption: |
+    <p>Coney Island, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955892726927468&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/260103prpyls4.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jan 26 Photos shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122118127263062825&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/160125obsmn4.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/250627bbrk2.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/220616chgelks7.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940595593158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/210115mevc7.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202616397945&set=a.10158202634262945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandplain/050608chgg7360m3.jpg"
 ---
 
 
@@ -48,28 +93,15 @@ down the length of each arm. The tips of the arms are black. Underside white wit
   
 **What does it eat?** According to Marsh and Fromont, it eats clams.
 
-![](sandplain/050608chgg7360m3.jpg)  
-*Changi, Jun
-05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](sandplain/050608chgg7360m3d.jpg)  
-Stout flat spines
-on the sides.
 
-![](sandplain/050402cjg4016m3a.jpg)  
-Pointed tube feet
 
 **Feeding on a star:** Sometimes, tiny white snails are found on the upperside. These are [parasitic
 snails](../../mollusca/gastropoda/eulimidae/eulimidae) (Family Eulimidae).
 
-![](sandplain/050608chgg7360m3a.jpg)  
-[Tiny parasitic snails](../../mollusca/gastropoda/eulimidae/eulimidae) sometimes seen.
 
-![](sandplain/050402cjg4016m3.jpg)  
-*Chek Jawa, Apr 05*
 
-![](sandplain/080817chgd9707m3.jpg)  
-Sometimes with only 4 arms. *Changi, Aug 08*
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -93,37 +125,19 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](sandplain/090310tuslks.JPG)  
-Tuas, Mar 09*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2009/03/soft-sediment-creatures-of-tuasl).
 
-*![](sandplain/201019cnyrk7.jpg)  
-Coney Island, Oct 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158588709082906&set=a.10158588678307906).
 
-*![](sandplain/260216cnyrqo3.jpg)  
-Coney Island, Feb 26*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.955892726927468&type=3&ref=embed_post).
 
 ---
 
-*![](sandplain/260103prpyls4.jpg)  
-*Pasir Ris Park, Jan 26*  
-Photos shared
-by Yan Le Su on [facebook](https://www.facebook.com/media/set/?set=a.122118127263062825&type=3&ref=embed_post).*
 
 ---
 
-*![](sandplain/160125obsmn4.jpg)  
-Pulau Ubin OBS, Jan 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3).
 
-*![](sandplain/250627bbrk2.jpg)*  
-*Beting Bronok, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post).
 
 ---
 
-*![](sandplain/220616chgelks7.jpg)  
-Changi Lost Coast, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940595593158&set=a.10159940599688158).
 
-*![](sandplain/210115mevc7.jpg)  
-East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158202616397945&set=a.10158202634262945).
 
 ---
 
@@ -154,5 +168,3 @@ East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https:/
   Asteroid fauna (Echinodermata) of Singapore with a distribution
   table and illustrated identification to the species*. The Raffles
   Bulletin of Zoology 1998 46(2): 431-470.
-
-

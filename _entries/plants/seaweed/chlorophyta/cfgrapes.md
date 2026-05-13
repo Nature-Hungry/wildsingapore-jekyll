@@ -2,7 +2,7 @@
 title: Sea grapes compared
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "caulerpa, lentillifera, racemosa, green, seaweed, algae, chlorophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 division: Chlorophyta
 family: ""
 genus: ""
@@ -12,6 +12,53 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080510smkd3075m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080605hntd4974m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bell/080605hntd4974m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/120819cyrd0463m3.jpg"
+  caption: |
+    <p><a href="racemosa">Oval green seaweed</a> (left) and <a href="lentillifera">Round sea grapes</a> (right)</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltata/100627hntd7284m3a.jpg"
+  caption: |
+    <p><a href="peltata">Parasol green seaweed</a> Caulerpa peltata</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3a.jpg"
+  caption: |
+    <p><a href="peltatasmall">Small parasol green seaweed</a> Caulerpa racemosa var peltata</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/041019labd7671m3.jpg"
+  caption: |
+    <p><a href="boergesenia">Bubble green seaweed</a> Boergesenia forbesii</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg"
+  caption: |
+    <p><a href="valonia">Beaded cushion green seaweed</a> Valonia sp.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bornetella/050509hntg6001m3.jpg"
+  caption: |
+    <p><a href="bornetella">Green sea sausage seaweed</a> Bornetella sp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -45,11 +92,9 @@ tell apart these two green seaweeds with little round shapes.
 
 ---
 
-![](lentillifera/090513labd1640m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](racemosa/110715cyrd6601m3.jpg)
 
-![](bell/080510smkd3075m3.jpg)
 
 **[Round
 sea grapes](lentillifera)**  
@@ -63,11 +108,8 @@ sea grapes](racemosa)**
 sea grape seaweed**](bell)  
 *Caulpera racemosa* var. *turbinata*
 
-*![](lentillifera/100403tbbd0650m3.jpg)*
 
-![](racemosa/110715cyrd6602m3a.jpg)
 
-![](bell/080605hntd4974m3b.jpg)
 
 There
 is a distinct constriction where   
@@ -88,11 +130,8 @@ bunch is loosely covered with 'grapes' that may be irregularly arranged.
 The
 bunch is loosely covered with 'grapes' that may be irregularly arranged.
 
-![](lentillifera/100519tsmc4126m3a.jpg)
 
-![](racemosa/050625labd4351m3a.jpg)
 
-![](bell/080605hntd4974m3.jpg)
 
 ---
 
@@ -101,37 +140,13 @@ comparisons**
 
 ---
 
-![](lentillifera/120819cyrd0463m3.jpg)  
-[**Oval
-green seaweed**](racemosa) (left) and   
-**[Round sea grapes](lentillifera)** (right)
 
-![](peltata/100627hntd7284m3a.jpg)  
-[**Parasol
-green seaweed**](peltata)  
-*Caulerpa peltata*
 
-![](peltatasmall/070615sntrg0283m3a.jpg)  
-[**Small
-parasol green seaweed**](peltatasmall)  
-*Caulerpa racemosa* var *peltata*
 
 ---
 
-![](boergesenia/041019labd7671m3.jpg)  
-[**Bubble
-green seaweed**](boergesenia)  
-*Boergesenia forbesii*
 
-![](valonia/070615sntrg0285m3b.jpg)  
-[**Beaded
-cushion green seaweed**](valonia)  
-*Valonia* sp.
 
-![](bornetella/050509hntg6001m3.jpg)  
-[**Green sea
-sausage seaweed**](bornetella)  
-*Bornetella* sp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

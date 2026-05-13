@@ -2,7 +2,7 @@
 title: Belongkeng or Mangrove ear snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "belongkeng, snail, ellobiidae, melampidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ellobiidae
 genus: ""
 species: Family
@@ -19,6 +19,27 @@ superorder: Eupulmonata
 order: Ellobiida
 superfamily: Ellobioidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg"
+  caption: |
+    <p>Two different kinds of Belongkeng snails Pasir Ris, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg"
+  caption: |
+    <p>Sometimes seen in small groups on mangrove tree trunks.</p>
+    <p>Sungei Buloh Besar, Apr 11 Human uses: The larger snails are eaten as traditional and subsistence food in some coastal communities.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg"
+  caption: |
+    <p><a href="banded.htm">Banded mangrove ear snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/090307blyd7470m3.jpg"
+  caption: |
+    <p><a href="cassidula.htm">Mangrove ear snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg"
+  caption: |
+    <p><a href="ellobium.htm">Belongkeng snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg"
+  caption: |
+    <p><a href="pythia.htm">Pythia snail</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/cassidula/100606prpd5217m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,14 +81,7 @@ the shell opening of small ones do resemble an ear.
   
 **What do they eat?** They graze on
 algae and lichen growing on mangrove trees and debris.
-![](cassidula/100606prpd5217m3.jpg)  
-Two different
-kinds of Belongkeng snails  
-*Pasir Ris, Jun 10*
-![](pythia/110406sbbd8644m6l.jpg)  
-Sometimes seen in small groups on mangrove tree trunks. *Sungei Buloh Besar, Apr 11*
-**Human uses:** The larger snails are eaten
-as traditional and subsistence food in some coastal communities.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Status and threats:** The Mangrove
 land snail (*Ellobium scheepmakeri*) is listed as 'Critically
@@ -83,18 +97,11 @@ on Singapore shores**
 
 ---
 
-***![](banded/090228smkd7233m3.jpg)*[Banded mangrove ear snail](banded.htm)**
 
-***![](cassidula/090307blyd7470m3.jpg)*[Mangrove ear snail](cassidula.htm)**
 
-**![](ellobium/090212smkd6996m3.jpg)  
-[Belongkeng snail](ellobium.htm)**
 
 ---
 
-![](pythia/031204prpad0039m3.jpg)  
-[**Pythia
-snail**](pythia.htm)
 
 ---
 

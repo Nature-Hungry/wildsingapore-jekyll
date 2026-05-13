@@ -2,7 +2,7 @@
 title: Flatfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Paralichthyidae
 genus: ""
 species: ""
@@ -17,6 +17,65 @@ superorder: Acanthomorpha
 order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
+  caption: |
+    <p>All that can be seen of the huge buried fish are its eyes!</p>
+    <p>Chek Jawa, Jan 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg"
+  caption: |
+    <p>The underside is usually pale and unmarked.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg"
+  caption: |
+    <p>The pectoral fin on the underside is usually reduced.</p>
+    <p>The mouth on the underside may bristle with tentacles and teeth!</p>
+    <p>Single-sided Fish: Flatfishes undergo an amazing change as they grow up.</p>
+    <p>When it first hatches, a flatfish larva looks like the larva of other 'normal' fish.</p>
+    <p>As the larva matures, it starts to swim on one side of its body.</p>
+    <p>One eye moves to what becomes the upperside, also called the eyed side.</p>
+    <p>The mouth and one pectoral fin also becomes asymmetrically distorted.</p>
+    <p>There are also changes in the skeleton and digestive system.</p>
+    <p>The change may be completed within five days.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg"
+  caption: |
+    <p>Juvenile flatfish.</p>
+    <p>St John's Island, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158021781972945&set=a.10158021785797945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/110505tmnbd0602.jpg"
+  caption: |
+    <p>Unidentified juvenile Sole?</p>
+    <p>Tanah Merah, May 11 Roving eye: If the right eye migrates to the left side, the flatfish is left-eyed (sinistral).</p>
+    <p>If the left eye migrates to the right side, the fish is right-eyed (dextral).</p>
+    <p>Left-eyed flatfish include the Family Paralichthyidae (lefteye flounders).</p>
+    <p>Right-eyed flatfish include the Family Pleuronectidae (righteye flounders); Family Soleidae (true soles) and Family Cynoglossidae (tongue-soles).</p>
+    <p>Here's more on <a href="pleuronectiformes1">how to tell apart flatfish families</a> commonly seen on our shores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg"
+  caption: |
+    <p><a href="../soleidae/commersonnii">Commerson's sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg"
+  caption: |
+    <p><a href="../cynoglossidae/cynoglossidae">Tongue-sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg"
+  caption: |
+    <p><a href="../soleidae/pavoninus">Peacock sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg"
+  caption: |
+    <p><a href="../paralichthyidae/paralichthyidae">Large-tooth flounder</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg"
+  caption: |
+    <p><a href="../bothidae/polyophthalmus">Three-spot flounder</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg"
+  caption: |
+    <p><a href="../soleidae/orientalis">Oriental sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
+  caption: |
+    <p><a href="../soleidae/ovata">Ovate sole</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m3.jpg"
+  caption: |
+    <p><a href="../psettodidae/psettodidae">Indian halibut</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg"
+  caption: |
+    <p><a href="../soleidae/orientalis">Zebra sole</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,33 +135,7 @@ is an ambush predator. It usually lies just beneath the sediment or
 sand, with only its eyes sticking out. It snaps up small bottom-dwelling
 worms, crabs and prawns. It also snacks on buried animals such as
 bivalves.
-*![](../soleidae/commersonnii/040120cjd0035m3.jpg)* All that can be seen of the  
-huge buried fish are its eyes! *Chek Jawa, Jan 04*
-*![](pleuronectiformes/050218sbwrd0715m3.jpg)*The underside is usually pale  
-and unmarked.
-*![](pleuronectiformes/050218sbwrd0715m3a.jpg)*The pectoral fin on the underside is usually   
-reduced. The mouth on the underside   
-may bristle with tentacles and teeth!
-**Single-sided Fish:** Flatfishes
-undergo an amazing change as they grow up. When it first hatches,
-a flatfish larva looks like the larva of other 'normal' fish. As the
-larva matures, it starts to swim on one side of its body.
-One eye moves to what becomes the upperside, also called the eyed
-side. The mouth and one pectoral fin also becomes asymmetrically distorted.
-There are also changes in the skeleton and digestive system. The change
-may be completed within five days.
-![](pleuronectiformes/201019sjivc4.jpg)  
-Juvenile flatfish. *St John's Island, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158021781972945&set=a.10158021785797945).
-![](../soleidae/110505tmnbd0602.jpg)  
-Unidentified juvenile Sole? *Tanah Merah, May 11*
-**Roving eye:** If the right eye migrates to the left side,
-the flatfish is left-eyed (sinistral). If the left eye migrates to
-the right side, the fish is right-eyed (dextral). Left-eyed flatfish
-include the Family Paralichthyidae (lefteye flounders). Right-eyed
-flatfish include the Family Pleuronectidae (righteye flounders); Family
-Soleidae (true soles) and Family Cynoglossidae (tongue-soles). Here's
-more on [how to tell apart flatfish
-families](pleuronectiformes1) commonly seen on our shores.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** Many flatfishes are
 edible and some species are important commercially. Soles are said
@@ -115,33 +148,18 @@ on Singapore shores**
 
 ---
 
-**![](../soleidae/commersonnii/050818cftg1401m3.jpg)  
-[Commerson's sole](../soleidae/commersonnii)**
 
-***![](../cynoglossidae/cynoglossidae/050429cftg5340m3.jpg)*[Tongue-sole](../cynoglossidae/cynoglossidae)**
 
-***![](../soleidae/pavoninus/050722cjg9806m3.jpg)*[Peacock sole](../soleidae/pavoninus)**
 
 ---
 
-**![](../paralichthyidae/paralichthyidae/050917smkg2477m3.jpg)  
-[Large-tooth flounder](../paralichthyidae/paralichthyidae)**
 
-**![](../bothidae/polyophthalmus/080509cyrd2745m3.jpg)  
-[Three-spot flounder](../bothidae/polyophthalmus)**
 
-**![](../soleidae/orientalis/090623ecpd4978m3.jpg)  
-[Oriental sole](../soleidae/orientalis)**
 
 ---
 
-***![](../soleidae/ovata/050511cftg6220m3.jpg)*[Ovate sole](../soleidae/ovata)**
 
-**![](../psettodidae/erumei/090622chgd4715m3.jpg)  
-[Indian halibut](../psettodidae/psettodidae)**
 
-**![](../soleidae/zebra/100612chgd5283m3.jpg)  
-[Zebra sole](../soleidae/orientalis)**
 
 ---
 

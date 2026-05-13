@@ -2,7 +2,7 @@
 title: "Euphyllid corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "euphyllia, euphyllidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphylliidae
 genus: ""
 species: ""
@@ -15,6 +15,23 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg"
+  caption: |
+    <p><a href="galaxea.htm">Galaxy coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg"
+  caption: |
+    <p><a href="paraancora.htm">Branching anchor coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
+  caption: |
+    <p><a href="ancora.htm">Anchor coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg"
+  caption: |
+    <p><a href="glabrescens.htm">Torch coral</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3c.jpg"
+  caption: |
+    <p><a href="paradivisa.htm">Frog spawn coral</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/galaxea/100201hntd8975m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -79,17 +96,9 @@ corals on Singapore shores**
 
 ---
 
-![](galaxea/100201hntd8975m3.jpg)  
-**[Galaxy coral](galaxea.htm)**
-![](paraancora/110422tbmd9794m3.jpg) **[Branching anchor coral](paraancora.htm)**
+{% include img-wrap-group.html items=page.page_images %}
 
-**![](ancora/060714rlhg0654m3.jpg)  
-[Anchor coral](ancora.htm)**
 
-**![](glabrescens/051203smkg3165m3.jpg)  
-[Torch coral](glabrescens.htm)**
-**![](paradivisa/050310smkg3182m3c.jpg)  
-[Frog spawn coral](paradivisa.htm)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Common palm civet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Viverridae
 genus: Paradoxurus
 species: hermaphroditus
@@ -19,6 +19,18 @@ superorder: Laurasiatheria
 order: Carnivora
 subfamily: Paradoxurinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg"
+  caption: |
+    <p>Civet poop?</p>
+    <p>Pulau Ubin, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Oct 07</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg"
 ---
 
 
@@ -67,12 +79,8 @@ eater, it helps to disperse seeds and contributes to the regeneration
 of forests.  
   
 
-*![](hermaphroditus/071028cjd7399m3.jpg)  
-Chek Jawa, Oct 07*  
+{% include img-wrap-group.html items=page.page_images %}
   
-*![](hermaphroditus/090517ubnd1906m3.jpg)  
-Civet poop?  
-Pulau Ubin, May 09*
 
 It
 is also called the Toddycat for its apparent fondness for stealiing
@@ -111,8 +119,6 @@ secretion is sprayed from these glands.[The
 durian](../../plants/fruittrees/durio/zibethinus) is sometimes called the civet cat fruit because it too
 smells bad.
 
-*![](hermaphroditus/071028cjd7391m6l.jpg)* *Chek
-Jawa, Oct 07*
 
 ---
 
@@ -178,5 +184,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

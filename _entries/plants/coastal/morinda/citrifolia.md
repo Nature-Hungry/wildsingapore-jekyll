@@ -2,7 +2,7 @@
 title: "Noni "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "mengkudu, morinda, citrifolia, rubiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Rubiaceae
 genus: Morinda
@@ -17,6 +17,54 @@ order: Gentianales
 subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg"
+  caption: |
+    <p>Sungei</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg"
+  caption: |
+    <p>fruit.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg"
+  caption: |
+    <p>Ripening fruit.</p>
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Wee Yeow Chin.</p>
+    <p>1992.</p>
+    <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
+    <p>The Singapore Science Centre.</p>
+    <p>160pp - Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+    <p>- Wee Yeow Chin.</p>
+    <p>1992.</p>
+    <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
+    <p>The Singapore Science Centre.</p>
+    <p>160pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -94,13 +142,8 @@ Islands where they are eaten raw or cooked. The fruits may also be
 fed to pigs. Young leaves may be eaten as a vegetable and contain
 high levels of protein. Seeds may also be roasted and eaten.  
 
-![](citrifolia/090124ubnd5992m3.jpg)  
-*Pulau Ubin,
-Jan 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](citrifolia/090328sbwrd8470m3.jpg)**Sungei
-Buloh Wetland Reserve, Mar 09**![](citrifolia/090328sbwrd8470m3a.jpg)* *![](citrifolia/090124ubnd5994m3.jpg)*Ripening
-fruit. *Pulau Ubin, Jan 09*
 
 ---
 
@@ -137,26 +180,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
-- Wee Yeow
-  Chin. 1992. *[A
-  Guide to Medicinal Plants](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. The Singapore Science Centre.
-  160pp.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

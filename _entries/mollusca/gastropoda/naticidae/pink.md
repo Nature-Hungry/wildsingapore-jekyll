@@ -2,7 +2,7 @@
 title: Pink moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pink, moon, snail, shell, naticarius, natica, zonalis, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Naticidae
 genus: Naticarius
 species: zonalis
@@ -17,6 +17,58 @@ order: Littorinimorpha
 superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg"
+  caption: |
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080506chgd2334m3.jpg"
+  caption: |
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg"
+  caption: |
+    <p>With a bivalve enveloped in its foot.</p>
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/090923labd1775m3.jpg"
+  caption: |
+    <p>A tiny one (about 1cm).</p>
+    <p>Labrador, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/140619cjro1m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jun 14 Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.710013929058308.1073741874.133291903397183&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220616chgevc3.jpg"
+  caption: |
+    <p>Changi Lost Coast, Jun 22 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159115647272945&set=a.10159115714512945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/180812nsrtch2.jpg"
+  caption: |
+    <p>East Coast Park, Aug 18 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734550418713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/220813pcnjk1.jpg"
+  caption: |
+    <p>East Coast Park (PCN), Aug 22 Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6049915418355112&set=a.6049915835021737">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/221127tch1.jpg"
+  caption: |
+    <p>Lazarus (Eagle Bay), Nov 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10160564410298713&set=a.10160564416288713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/230901kusrk1.jpg"
+  caption: |
+    <p>Kusu Island, Sep 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160702406737906&set=a.10160702399012906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/250726cyrtch1.jpg"
+  caption: |
+    <p>Cyrene, Jul 25Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/251011ssistl4.jpg"
+  caption: |
+    <p>Small SIsters Island, Oct 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163238359729264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/251011ssistl4a.jpg"
+  caption: |
+    <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163238359729264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/210810tpltch3a.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159648433728713&set=a.10159648444183713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/210810tpltch3b.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159648433728713&set=a.10159648444183713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6309m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,21 +113,13 @@ several fine grooves. Foot transparent with a white margin
 and a pattern of white bars and red spots, front part of the body
 densely covered with tiny orangey pink spots. Tentacles short, pink or orange.
 
-![](pink/060711chgg6309m3.jpg)  
-*Changi, Jul 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pink/060711chgg6281m3.jpg)
 
-![](pink/080506chgd2334m3.jpg)  
-*Changi, Jul 06*
 
 **Moon on the hunt:** One was seen clasping a bivalve in its foot above ground.
 
-![](pink/120802chgd9178.jpg)  
-With a bivalve enveloped in its foot. *Changi, Aug 12*
 
-![](pink/090923labd1775m3.jpg)  
-A tiny one (about 1cm). *Labrador, Sep 09*
 
 ---
 
@@ -94,37 +138,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](pink/140619cjro1m3.jpg) *Chek Jawa, Jun 14*   
-Photo shared by Rene Ong on [facebook](https://www.facebook.com/media/set/?set=a.710013929058308.1073741874.133291903397183&type=1).
 
-![](pink/220616chgevc3.jpg) *Changi Lost Coast, Jun 22*  
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10159115647272945&set=a.10159115714512945).
  
 
 ---
 
-![](pink/180812nsrtch2.jpg) *East Coast Park, Aug 18*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156734550418713&set=a.10156734548003713&type=3&theater).
 
-![](pink/220813pcnjk1.jpg) *East Coast Park (PCN), Aug 22*  
-Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=6049915418355112&set=a.6049915835021737).
  
 
 ---
 
-![](pink/221127tch1.jpg) *Lazarus (Eagle Bay), Nov 22*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10160564410298713&set=a.10160564416288713).
 
-![](pink/230901kusrk1.jpg) *Kusu Island, Sep 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160702406737906&set=a.10160702399012906).
-*![](pink/250726cyrtch1.jpg)  
-Cyrene, Jul 25*Photo shared by Chay Hoon on [facebook](https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post).
 
 ---
 
-![](pink/251011ssistl4.jpg) *Small SIsters Island, Oct 25*![](pink/251011ssistl4a.jpg)  
-Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163238359729264&type=3&ref=embed_post).
 
-![](pink/210810tpltch3a.jpg) *Terumbu Pempang Laut, Aug 21*![](pink/210810tpltch3b.jpg)  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159648433728713&set=a.10159648444183713).  
  
 
 ---

@@ -2,7 +2,7 @@
 title: Orange-mouth top shell snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orange, mouth, top, chrysostoma, paradoxum, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Trochidae
 genus: Chrysostoma
 species: paradoxum
@@ -17,6 +17,17 @@ order: Trochida
 superfamily: Trochoidea
 subfamily: Chrysostomatinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg"
+  caption: |
+    <p>Pulau Jong, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6428m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6410m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,13 +71,9 @@ claws of hungry crabs.
 Body pale, mantle smooth (not fringed with long tentacles). Large
 foot and a pair of long tentacles at the head.
 
-![](chrysostoma/130429jngd6410m3.jpg)  
-*Pulau Jong,
-Apr 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](chrysostoma/130429jngd6403m3.jpg)
 
-![](chrysostoma/130429jngd6428m3.jpg)
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Api-api bulu "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "api, bulu, avicennia, rumphiana, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 83]
 family: Acanthaceae
 genus: Avicennia
@@ -16,6 +16,48 @@ order: Lamiales
 subfamily: Avicennioideae
 inat_id: 189588
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6474m3a.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg"
+  caption: |
+    <p>Leaves underneath white and velvety.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg"
+  caption: |
+    <p>Large flowers, crowded together.</p>
+    <p>Flower stalk squarish NOT to leaf-bearing portions.</p>
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg"
+  caption: |
+    <p>Fruits rounded, usually wrinkly, tips not so pointed.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6475m3a.jpg"
+  caption: |
+    <p>Young leaves velvety - like rabbit ears.</p>
+    <p>Pulau Semakau, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0022m3c.jpg"
+  caption: |
+    <p>Furry stem, calyx and outer petals.</p>
+    <p>Chek Jawa, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090614ubnd4306m3a.jpg"
+  caption: |
+    <p>Pulau Ubin, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090612pndd4007m3.jpg"
+  caption: |
+    <p>Stilt roots on old tree.</p>
+    <p>Sungei Pandan, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090823cjd9891m3a.jpg"
+  caption: |
+    <p>Eroded roots.Chek Jawa, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6474m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Feb 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090208smkd6473m6.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,51 +118,20 @@ used to make charcoal and is used as firewood only to smoke fish or
 rubber. This fast growing mangrove tree is among the few used in mangrove
 replanting to protect coastlines.  
 
-![](rumphiana/090208smkd6473m6.jpg)  
-*Pulau Semakau,
-Feb 09![](rumphiana/090208smkd6474m3a.jpg)  
-Pulau Semakau,
-Feb 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](rumphiana/030914cjd0030m3.jpg)  
-Leaves underneath white and velvety.  
-*Chek Jawa, Sep 03*
 
-![](rumphiana/090118smkd5726m3a.jpg)  
-Large flowers, crowded together. Flower stalk squarish NOT to leaf-bearing
-portions.  
-*Pulau Semakau, Jan 09*
 
-![](rumphiana/030914cjd0030m3b.jpg)  
-Fruits rounded, usually wrinkly,   
-tips not so pointed.  
-*Chek Jawa, Sep 03*
 
 ---
 
-![](rumphiana/090208smkd6475m3a.jpg)  
-Young leaves
-velvety - like rabbit ears. *Pulau Semakau, Feb 09*
 
-![](rumphiana/030914cjd0022m3c.jpg)  
-Furry stem, calyx
-and outer petals. *Chek Jawa, Sep 03*
 
-![](rumphiana/090614ubnd4306m3a.jpg)  
-*Pulau Ubin, Jun 09*
 
 ---
 
-![](rumphiana/090612pndd4007m3.jpg)  
-Stilt roots on
-old tree. *Sungei Pandan, Jun 09*
 
-*![](rumphiana/090823cjd9891m3a.jpg)*  
-Eroded roots.*Chek Jawa, Aug 09*
 
-![](rumphiana/090208smkd6474m3.jpg)  
-*Pulau Semakau,
-Feb 09*
 
 ---
 

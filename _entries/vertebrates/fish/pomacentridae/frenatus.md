@@ -2,7 +2,7 @@
 title: "Tomato anemonefish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tomato, anemonefish, anemone, fish, frenatus, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 15, 19, 25, 47, 48, 79]
 family: Pomacentridae
 genus: Amphiprion
@@ -17,6 +17,93 @@ superorder: Acanthomorpha
 order: Blenniiformes
 subfamily: Pomacentrinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
+  caption: |
+    <p>Kusu Island, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/100617tbd6333m6l.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10 Amazing gender switch: Anemonefishes can change their gender.</p>
+    <p>Often, a sea anemone will be home to several anemonefishes of the same species.</p>
+    <p>Usually the largest anemonefish in the group is the female and the next largest is the functioning male (although he is often less than half her size).</p>
+    <p>Besides being larger, females have blackish sides while males are a lot smaller and lack the blackish colour being mostly red overall.</p>
+    <p>If the female is removed from the group, the male becomes a female and the next largest becomes the dominant male.</p>
+    <p>In this way, anemonefishes can continue to breed throughout the year.</p>
+    <p>Small anemonefishes are not necessarily younger, just lower in the "pecking order".</p>
+    <p>It is believed they remain small because of the constant harassment by the dominant pair.</p>
+    <p>Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/180520tsmk5lks.jpg"
+  caption: |
+    <p>Females larger and more blackish, males smaller and usually all red.</p>
+    <p>Terumbu Semakau, May 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156355164488158.1073741966.547198157&type=3">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention">facebook</a>.</p>
+- url: "https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/32960802914/ "Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)") What does it eat?</p>
+    <p>It feeds on plankton (mostly copepods) and also munches on bottom-dwelling algae.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/090726tmlks6m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 09 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/07/coral-garden-at-tanah-merah.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703235694/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/220618tmftlks1.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159943828588158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/210712srpjll1.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158392139931295&set=a.10158392094551295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/250714srpal1.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25Photo shared of Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/160409sjilks4.JPG"
+  caption: |
+    <p>St John's Island, Apr 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 07 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/07/my-many-firsts-at-ghost-island.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Apr 12Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.359060104145388.96868.109257872458947&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/160516jngtyc.jpg"
+  caption: |
+    <p>Pulau Jong, May 16 (seen diving) Photo shared by Tay Ywee Chieh on <a href="https://www.facebook.com/photo.php?fbid=10156883190645263&set=a.10156883189045263.1073741841.575545262&type=3&theater&notif_t=photo_reply&notif_id=1477137876922528">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3a.jpg"
+  caption: |
+    <p>Eggs laid near the host sea anemone.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150606trytch2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 15 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/210823smkelks1.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Aug 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159409347523158&set=a.10159409353158158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/100519tsmlks1m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4625355937/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/180615trylks2.jpg"
+  caption: |
+    <p>Terumbu Raya, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156434413598158&set=a.10156434409383158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/090723tmrjk5m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywhere.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/150607bbbtch6m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 15Photo shared by Russel Low on <a href="https://www.facebook.com/pg/singaporereefwatch/photos/?tab=album&album_id=949147108470015">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/160806tpllks5.jpg"
+  caption: |
+    <p>Teumbu Pempang Laut, Aug 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154410920478158&set=a.10154410914668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/100810snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889313209/">his flickr</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719516542/">his flickr</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/entacmaea/210428slulks10.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468613158&set=a.10159162473618158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/frenatus/040829kusg1741m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,36 +152,11 @@ commonly encountered, usually on good reefs on our Southern shores. There is a r
 with one black-edged white bar just behind the eyes. There may be
 a second black-edged white bar in the middle of the body. Juveniles
 are usually red and may have 2-3 narrow white bars.
-*![](frenatus/040829kusg1741m3.jpg)  
-Kusu Island, Aug 04*
-![](frenatus/100617tbd6333m6l.jpg)  
-*Terumbu Bemban, Jun 10*
-**Amazing gender switch:** Anemonefishes
-can change their gender. Often, a sea anemone will be home to several
-anemonefishes of the same species. Usually the largest anemonefish
-in the group is the female and the next largest is the functioning
-male (although he is often less than half her size). Besides being larger, females have blackish
-sides while males are a lot smaller and lack the blackish colour being
-mostly red overall. If the female is removed from the
-group, the male becomes a female and the next largest becomes the
-dominant male. In this way, anemonefishes can continue to breed
-throughout the year. Small anemonefishes are not necessarily younger,
-just lower in the "pecking order". It is believed they
-remain small because of the constant harassment by the dominant
-pair.
-Small anemonefishes are thus NOT the babies of larger anemonefishes in the same anemone.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](frenatus/180520tsmk5lks.jpg)*Females larger and more blackish, males smaller and usually all red. *Terumbu Semakau, May 18*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10156355164488158.1073741966.547198157&type=3)
 
-*![](frenatus/150606trytch2m3.jpg)  
-Terumbu Raya, Jun 15*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention).
 
 Pulau Semakau, Apr 17  
-[![Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)](https://live.staticflickr.com/3684/32960802914_ca75da216a_z.jpg)](https://www.flickr.com/photos/wildsingapore/32960802914/ "Tomato anemone fish (Amphiprion frenatus) in Bubble-tip anemone (Entacmea quadricolor)")
-**What does it eat?** It feeds on
-plankton (mostly copepods) and also munches on bottom-dwelling algae.  
   
 **Human uses:** Unfortunately, these
 fishes are taken in large numbers from the wild for the aquarium trade.
@@ -141,96 +203,39 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](frenatus/090726tmlks6m3.jpg)**Tanah Merah, Jul 09*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/07/coral-garden-at-tanah-merah.html).
 
-*![](../../../cnidaria/actiniaria/entacmaea/100615tmlks2m3.jpg)**Tanah Merah, Jun 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4703235694/).
 
-*![](frenatus/220618tmftlks1.jpg)  
-Tanah Merah Ferry Terminal, Jun 22*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159943828588158&set=a.10159943838013158).
 
 ---
 
-*![](frenatus/210712srpjll1.jpg)  
-Sentosa Serapong, Jul 21*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158392139931295&set=a.10158392094551295).
 
-![](frenatus/250714srpal1.jpg)  
-*Sentosa Serapong, Jul 25*Photo shared of Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post).
 
 ---
 
-*![](frenatus/160409sjilks4.JPG)  
-St John's Island, Apr 16*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html).
 
-*![](../../../cnidaria/actiniaria/entacmaea/070701hntlks02m3.jpg)  
-Pulau Hantu, Jul 07*  
-Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2007/07/my-many-firsts-at-ghost-island.html).
 
-*![](../../../cnidaria/actiniaria/entacmaea/120411thntrl1m3.jpg)  
-Terumbu Hantu, Apr 12*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.359060104145388.96868.109257872458947&type=1).
 
 ---
 
-*![](frenatus/160516jngtyc.jpg)  
-Pulau Jong, May 16 (seen diving)*  
-Photo shared by Tay Ywee Chieh on [facebook](https://www.facebook.com/photo.php?fbid=10156883190645263&set=a.10156883189045263.1073741841.575545262&type=3&theater&notif_t=photo_reply&notif_id=1477137876922528).
 
-![](frenatus/150606trytch2m3a.jpg)  
-Eggs laid near the host sea anemone.
 
-*![](frenatus/150606trytch2m3.jpg)  
-Terumbu Raya, Jun 15*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention).
 
 ---
 
-*![](frenatus/210823smkelks1.jpg)**Pulau Semakau (East), Aug 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159409347523158&set=a.10159409353158158).
 
-*![](frenatus/100519tsmlks1m3.jpg)**Terumbu Semakau, May 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4625355937/).
 
 ---
 
-*![](frenatus/180615trylks2.jpg)  
-Terumbu Raya, Jun 18*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10156434413598158&set=a.10156434409383158&type=3&theater).
 
-*![](frenatus/090723tmrjk5m3.jpg)  
-Terumbu Raya, Jul 09*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywhere.html).
 
-*![](frenatus/150607bbbtch6m3.jpg)  
-Beting Bemban Besar, Jun 15*Photo shared by Russel Low on [facebook](https://www.facebook.com/pg/singaporereefwatch/photos/?tab=album&album_id=949147108470015).
 
 ---
 
-*![](../../../cnidaria/actiniaria/entacmaea/160806tpllks5.jpg)  
-Teumbu Pempang Laut, Aug 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154410920478158&set=a.10154410914668158&type=3&theater).
 
-*![](frenatus/100810snglks1m3.jpg)  
-Pulau Senang, Aug 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4889313209/) .
 
-*![](../../../cnidaria/actiniaria/entacmaea/100613snglks3m3.jpg)  
-Pulau Senang, Jun 10*  
-Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719516542/) .
 
 ---
 
-*![](../../../cnidaria/actiniaria/entacmaea/210428slulks10.jpg)  
-Pulau Salu, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162468613158&set=a.10159162473618158).
 
 ---
 

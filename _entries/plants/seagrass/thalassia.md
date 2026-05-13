@@ -2,7 +2,7 @@
 title: Sickle seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sickle, grass, thalassia, hemprichii, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [95]
 englishname: Sickle seagrass
 family: Hydrocharitaceae
@@ -18,6 +18,52 @@ subphylum: Angiospermae
 class: Liliopsida
 order: Alismatales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050111labg2732m3.jpg"
+  caption: |
+    <p>Labrador, Nov 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg"
+  caption: |
+    <p>With flowers!</p>
+    <p>Labrador, Mar 06  Cyrene Reef, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/071026cyrd7071m3a.jpg"
+  caption: |
+    <p>Cyrene Reef, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/110830cyrd0551m3a.jpg"
+  caption: |
+    <p>Tip rounded not serrated, cross-hatching on the long veins.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/080422smkd1570m3.jpg"
+  caption: |
+    <p>Flowering plant.Pulau Semakau, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/070322cyrd9192m3.jpg"
+  caption: |
+    <p>Flowering plant.Cyrene Reef, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060227labg5172m3.jpg"
+  caption: |
+    <p>Flowering plant.</p>
+    <p>Labrador, Mar 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5343.jpg"
+  caption: |
+    <p>Fruit.</p>
+    <p>Cyrene, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5362.jpg"
+  caption: |
+    <p>Fruit.</p>
+    <p>Cyrene, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/120122cyrd5357.jpg"
+  caption: |
+    <p>Fruit.</p>
+    <p>Cyrene, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/030603labd0133m3.jpg"
+  caption: |
+    <p>Shorter Sickle seagrass next to longer Tape seagrass Labrador, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/041019labd7736m3b.jpg"
+  caption: |
+    <p>Leaves covered with other plants and animals Labrador, Oct 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/050513labg6440m3.jpg"
+  caption: |
+    <p>Thick underground stemLabrador, May 05</p>
 ---
 
 
@@ -93,49 +139,22 @@ So it is also sometimes called Dugong grass or Turtle grass.
 and threats:** It is listed as 'Critically Endangered' on
 the Red List of threatened plants of Singapore.
 
-![](thalassia/050111labg2732m3.jpg)  
-*Labrador, Nov 05  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](thalassia/060228labg5266m3.jpg)*With flowers! *Labrador, Mar 06* *![](thalassia/071026cyrd7071m3a.jpg)  
-Cyrene Reef, Oct 07  
   
-![](thalassia/110830cyrd0551m3a.jpg)  
-Tip rounded not
-serrated,  
-cross-hatching on the long veins.  
-Cyrene Reef, Aug 11*
 
-![](thalassia/080422smkd1570m3.jpg)  
-Flowering plant.*Pulau Semakau, Apr 08*
 
-![](thalassia/070322cyrd9192m3.jpg)  
-Flowering plant.*Cyrene Reef, Mar 07*
 
-*![](thalassia/060227labg5172m3.jpg)*Flowering plant. *Labrador, Mar 06*
 
 ---
 
-![](thalassia/120122cyrd5343.jpg)  
-Fruit. *Cyrene, Jan 12*
 
-![](thalassia/120122cyrd5362.jpg)  
-Fruit. *Cyrene, Jan 12*
 
-*![](thalassia/120122cyrd5357.jpg)*Fruit. *Cyrene, Jan 12*
 
 ---
 
-![](thalassia/030603labd0133m3.jpg)  
-Shorter Sickle seagrass next to  
-longer Tape seagrass *Labrador, Jun 03*
 
-![](thalassia/041019labd7736m3b.jpg)  
-Leaves covered with other plants and animals  
-*Labrador, Oct 04*
 
-![](thalassia/050513labg6440m3.jpg)  
-Thick underground
-stem*Labrador, May 05*
 
 ---
 
@@ -186,5 +205,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 **You CAN make a difference for Singapore's
 seagrasses!**[![](../../../Templates/teamsg.jpg)](http://teamseagrass.blogspot.com/)
-
-

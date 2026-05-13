@@ -2,7 +2,7 @@
 title: Ball-tip corallimorphs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "corallimorph, corynactis, corallimorpharia, corallimorphidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 102]
 family: Corallimorphidae
 genus: Corynactis
@@ -15,6 +15,80 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/080703chgd6583m3.jpg"
+  caption: |
+    <p>Conical mouth protruding.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091203ubnd4951m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/091021chgd3060m3.jpg"
+  caption: |
+    <p>Changi, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/101207ubnd3240m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/170723ubnlks2.jpg"
+  caption: |
+    <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155608397603158&set=a.10155608393858158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/250627bbdc1.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Dayna Cheah on <a href="https://www.facebook.com/media/set?vanity=dayna.cheah&set=a.9995861807197172">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/190704bbay4.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254635250802&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/210401sntrk3.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158984920657906&set=a.10158984896247906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/230508srpky3.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168333107710112&set=a.10168333114975112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100626cyrjk1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100626-terumbu-pandan.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100809cynml1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 10Shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/08/zzz-trip-at-cyrene.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/120407lazlks2m3.jpg"
+  caption: |
+    <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100911sistch1m3.jpg"
+  caption: |
+    <p>Sisters Island, Sep 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/09/letter-of-day-brought-to-you-big.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/141011hntlks.JPG"
+  caption: |
+    <p>Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24033992342/in/album-72157607719695102/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110517tptsy3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Sam Yeo on <a href="http://www.facebook.com/media/set/?set=a.10150253820478140.371891.580878139">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/090818tmjk6m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/090818tmjk6m3b.jpg"
+  caption: |
+    <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappoints.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100810snglks2m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100810snglks2m3b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889941622/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100613sngtch3m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/100613sngtch2m3.jpg"
+  caption: |
+    <p>Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4695299001/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/220201brktch5.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972843858713&set=a.10159972857263713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,23 +131,14 @@ are tucked into the body column.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-*![](balltip/110703cjd5306m3.jpg)  
-Chek Jawa, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](balltip/110703cjd5306m3a.jpg)*
 
-*![](balltip/080703chgd6583m3.jpg)*Conical mouth protruding.
 
 ---
 
-*![](balltip/091203ubnd4951m3.jpg)  
-Pulau Ubin, Dec 09*
 
-*![](balltip/091021chgd3060m3.jpg)  
-Changi, Oct 09*
 
-*![](balltip/101207ubnd3240m3.jpg)  
-Pulau Ubin, Dec 10*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -97,78 +162,32 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](balltip/170723ubnlks2.jpg)  
-Pulau Ubin, Jul 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155608397603158&set=a.10155608393858158&type=3&theater).
 
 ---
 
-*![](balltip/250627bbdc1.jpg)  
-Beting Bronok, Jun 25*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/media/set?vanity=dayna.cheah&set=a.9995861807197172).
 
-*![](balltip/190704bbay4.jpg)  
-Beting Bronok, Jul 19*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10216254635250802&set=a.10210920255494642&type=3&theater).
 
 ---
 
-*![](balltip/210401sntrk3.jpg)  
-Sentosa Tg Rimau, Apr 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10158984920657906&set=a.10158984896247906).
 
-*![](balltip/230508srpky3.jpg)  
-Sentosa Serapong, May 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168333107710112&set=a.10168333114975112).
 
 ---
 
-*![](balltip/100626cyrjk1m3.jpg)  
-Cyrene Reef, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100626-terumbu-pandan.html).
 
-*![](balltip/100809cynml1m3.jpg)  
-Cyrene Reef, Aug 10*Shared
-by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2010/08/zzz-trip-at-cyrene.html).
 
-*![](balltip/120407lazlks2m3.jpg)*  
-*Seringat
-Kias, Apr 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html).
 
 ---
 
-*![](balltip/100911sistch1m3.jpg)* *Sisters Island,
-Sep 10*Photo
-shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/09/letter-of-day-brought-to-you-big.html).
 
-*![](balltip/141011hntlks.JPG)  
-Pulau Hantu,
-Oct 14*Photo
-shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24033992342/in/album-72157607719695102/).
 
-*![](balltip/110517tptsy3m3.jpg)*  
-*Terumbu Pempang Tengah, May 11*Photo shared by Sam Yeo on [facebook](http://www.facebook.com/media/set/?set=a.10150253820478140.371891.580878139).
 
 ---
 
-*![](balltip/090818tmjk6m3.jpg)  
-Tanah Merah, Aug 09![](balltip/090818tmjk6m3b.jpg)*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappoints.html).
 
-*![](balltip/100810snglks2m3.jpg)  
-Pulau Senang,
-Aug 10  
-![](balltip/100810snglks2m3b.jpg)*Photo
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4889941622/).
 
-*![](balltip/100613sngtch3m3.jpg)  
-Pulau Senang, Jun 10![](balltip/100613sngtch2m3.jpg)*Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/4695299001/).
 
 ---
 
-*![](balltip/220201brktch5.jpg)  
-Pulau Berkas, Feb 22*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159972843858713&set=a.10159972857263713).
 
 ---
 

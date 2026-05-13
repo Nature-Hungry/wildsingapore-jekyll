@@ -2,7 +2,7 @@
 title: Spotted moon crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, crab, matuta, lunaris,  matutitdae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Matutidae
 genus: Ashtoret
@@ -23,6 +23,61 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg"
+  caption: |
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/100419chgd1404m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Changi, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/060102sisd6470m3.jpg"
+  caption: |
+    <p>Sisters Island, Oct 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/130112pgllks.JPG"
+  caption: |
+    <p>Punggol, Jan 13Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/01/colourful-sponge-garden-at-punggoll">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/240527srpnlk1.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24 Photos shared by Ng Leekiang on <a href="https://www.facebook.com/photo/?fbid=10159538687430989&set=pcb.10159538725405989">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/090711sjigl1m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Jul 09 Photos shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/07/st-johns-surprisesl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/201019sjijll4.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Oct 20 Photos shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806532786295&set=a.10157806532326295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/240212sjimn1.jpg"
+  caption: |
+    <p>With eggs.</p>
+    <p>St.</p>
+    <p>John's Island, Feb 24 Photos shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10160067037118660&set=a.10160067038553660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/260217bsisml3.jpg"
+  caption: |
+    <p>Big Sisters' Island, Feb 26Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122202745808554640&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/241020hntjk1.jpg"
+  caption: |
+    <p>Pulau Hantu, Oct 24Photo shared by James Koh on <a href="https://www.facebook.com/media/set/?set=a.9345564315456856&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/100626cyrlks1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 10Photos shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4735348516/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110508cyrmng1m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/110508cyrmng2m3.jpg"
+  caption: |
+    <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/160209cyrjtm1.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 16Photos shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10153471982308576.1073741924.518238575&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/150717smksljl1m3.jpg"
+  caption: |
+    <p>Pulau Semakau South, Jul 15Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153074790566295.1073741856.542241294&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/210629bbbrk1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Jun 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159189785827906&set=a.10159189773952906">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/lunaris/050429cftg5330m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,14 +124,9 @@ to skim along the sea bottom and also like spades to rapidly burrow
 into the sand. Some may have large dark blotches on the paddles, with
 smaller dark spots on the legs.
 
-*![](lunaris/050429cftg5330m3.jpg)  
-Changi, Apr 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lunaris/100419chgd1404m3.jpg)  
-Underside. *Changi, Apr
-10*
 
-*![](lunaris/060102sisd6470m3.jpg)* *Sisters Island, Oct 06*
 
 ---
 
@@ -95,71 +145,26 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](lunaris/130112pgllks.JPG)  
-Punggol, Jan 13*Photos
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2013/01/colourful-sponge-garden-at-punggoll).
 
-*![](lunaris/240527srpnlk1.jpg)  
-Sentosa Serapong, May 24*  
-Photos
-shared by Ng Leekiang on [facebook](https://www.facebook.com/photo/?fbid=10159538687430989&set=pcb.10159538725405989).
 
 ---
 
-*![](lunaris/090711sjigl1m3.jpg)  
-St. John's Island, Jul 09*  
-Photos
-shared by Geraldine Lee on [her
-blog](http://starryfinds.blogspot.com/2009/07/st-johns-surprisesl).
 
-*![](lunaris/201019sjijll4.jpg)  
-St. John's Island, Oct 20*  
-Photos
-shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157806532786295&set=a.10157806532326295).
 
-*![](lunaris/240212sjimn1.jpg)*With eggs. *St. John's Island, Feb 24*  
-Photos
-shared by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10160067037118660&set=a.10160067038553660).
 
 ---
 
-*![](lunaris/260217bsisml3.jpg)  
-Big Sisters' Island, Feb 26*Photo
-shared by Mathias Luk on [facebook](https://www.facebook.com/media/set/?set=a.122202745808554640&type=3&ref=embed_post).
 
-*![](lunaris/241020hntjk1.jpg)  
-Pulau Hantu, Oct 24*Photo
-shared by James Koh on [facebook](https://www.facebook.com/media/set/?set=a.9345564315456856&type=3&ref=embed_post).
 
 ---
 
-*![](lunaris/100626cyrlks1m3.jpg)  
-Cyrene Reef, Jun 10*Photos
-shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4735348516/).
 
-*![](lunaris/110508cyrmng1m3.jpg)  
-Cyrene Reef, May 11*Photo
-shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
-*![](lunaris/110508cyrmng2m3.jpg)  
-Cyrene Reef, May 11*Photo
-shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
 ---
 
-*![](lunaris/160209cyrjtm1.jpg)  
-Cyrene Reef, Feb 16*Photos
-shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10153471982308576.1073741924.518238575&type=3&pnref=story).
 
-*![](lunaris/150717smksljl1m3.jpg)  
-Pulau Semakau South, Jul 15*Photo
-shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10153074790566295.1073741856.542241294&type=3&pnref=story).
 
-*![](lunaris/210629bbbrk1.jpg)  
-Beting Bemban Besar, Jun 21*Photo
-shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159189785827906&set=a.10159189773952906).
 
 ---
 

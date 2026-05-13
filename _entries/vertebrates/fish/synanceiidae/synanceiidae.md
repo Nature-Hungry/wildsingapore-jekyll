@@ -2,7 +2,7 @@
 title: Stonefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Synanceiidae
 genus: ""
 species: ""
@@ -17,6 +17,17 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
+  caption: |
+    <p><a href="horrida">Hollow-cheeked stonefish</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn.jpg"
+  caption: |
+    <p>Stargazer waspfish Trachicephalus uranoscopus Changi, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/others/120606chgmn2.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7160002945/in/album-72157630064226482/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,13 +82,8 @@ that look like stones](../cfstonefish).
 
 ---
 
-![](horrida/060312hntd0311m3.jpg)  
-[**Hollow-cheeked stonefish**](horrida)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](others/120606chgmn.jpg)  
-Stargazer waspfish  
-*Trachicephalus uranoscopus* *Changi, Jun 12*
-![](others/120606chgmn2.jpg)Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/7160002945/in/album-72157630064226482/).
 
 ---
 

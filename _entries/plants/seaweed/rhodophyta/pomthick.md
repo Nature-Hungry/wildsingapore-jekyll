@@ -2,7 +2,7 @@
 title: "Thick   crunchy pom-pom red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Galaxauraceae
 genus: ""
@@ -18,6 +18,50 @@ subclass: Nemaliophycidae
 order: Nemaliales
 suborder: Galaxaurineae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg"
+  caption: |
+    <p>Rings around the 'stem', tips rounded with dark spot.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080608cyrd5365m3a.jpg"
+  caption: |
+    <p>Darker pink dot the tips of the 'stems'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/110220lazd6301m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100810sngd9933m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091231biod7036m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091231biod7036m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/100130brkd8504m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/210501tbvc9.jpg"
+  caption: |
+    <p>Terumbu Bemban, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441852747945&set=a.10158441969957945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/091204pawd5391m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,18 +109,9 @@ pink, dark pink to maroon.
 pom shape.](pompom)  
   
 
-*![](pomthick/071026cyrd7131m3.jpg)  
-Cyrene Reef, Oct 07  
-![](pomthick/071026cyrd7131m3a.jpg)*Rings around the 'stem',   
-tips rounded with dark spot.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pomthick/080608cyrd5365m3.jpg)  
-Cyrene Reef, Jun 07  
-![](pomthick/080608cyrd5365m3a.jpg)*Darker pink dot the tips of the 'stems'.
 
-*![](pomthick/110220lazd6301m3.jpg)  
-Lazarus Island, Feb 11  
-![](pomthick/110220lazd6301m3a.jpg)*
 
  *\*Seaweed species
 are difficult to positively identify without microscopic examination.   
@@ -101,24 +136,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-*![](pomthick/100810sngd9933m3.jpg)  
-Pulau Senang, Aug 10![](pomthick/100810sngd9933m3a.jpg)*
 
-*![](pomthick/091231biod7036m3.jpg)  
-Pulau Biola, Dec 09  
-![](pomthick/091231biod7036m3a.jpg)*
 
-*![](pomthick/100130brkd8504m3.jpg)  
-Terumbu Berkas, Jan 10  
-![](pomthick/100130brkd8504m3a.jpg)*
 
 ---
 
-*![](pomthick/210501tbvc9.jpg)  
-Terumbu Bemban, May 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158441852747945&set=a.10158441969957945).
 
-*![](pomthick/091204pawd5391m3.jpg)  
-Pulau Pawai, Dec 09*
  
   
 

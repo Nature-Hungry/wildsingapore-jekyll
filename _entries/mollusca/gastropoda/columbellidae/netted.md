@@ -2,7 +2,7 @@
 title: Turtle dove snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "turtle, dove, shell, snail, pardalinops, pardalina, testudinaria, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Columbellidae
 genus: Pardalinops
 species: testudinaria*
@@ -16,6 +16,49 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg"
+  caption: |
+    <p>Young snail with thinner shell.</p>
+    <p>St John's Island, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050325sjig3659.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050325sjig3659a.jpg"
+  caption: |
+    <p>Operculum</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg"
+  caption: |
+    <p>Sentosa, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3b.jpg"
+  caption: |
+    <p>Adult snail with thicker shell.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/110203sjid5709m3.jpg"
+  caption: |
+    <p>Juveniles of various sizes.</p>
+    <p>St John's Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/220104tkkvc7.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158869374657945&set=a.10158869425132945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/240528tslvc7.jpg"
+  caption: |
+    <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/210403cyrvc2.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158387921187945&set=a.10158388042702945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/180717smkefl.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jul 18Photo shared by Frances Loke on <a href="https://www.facebook.com/pg/littlegreenmensg/photos/?tab=album&album_id=2052416561753723">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/240411tsmkccn1.jpg"
+  caption: |
+    <p>Terumbu Semakau, Apr 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161068808123654&set=a.10161068791073654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/240412tbccn2.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161071236523654&set=a.10161071207308654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/220102biovc4.jpg"
+  caption: |
+    <p>Pulau Biola, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158864216277945&set=a.10158864924162945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050325sjig3657.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,20 +98,14 @@ shell pattern. Operculum is narrow and made of a horn-like material.
 Some seen have shells that are very thin at the shell opening: possibly
 a young snail?
 
-*![](netted/050325sjig3657.jpg)*Young snail with thinner shell. *St John's Island, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](netted/050325sjig3659.jpg)*Underside.
 
-*![](netted/050325sjig3659a.jpg)*Operculum
 
 ---
 
-*![](netted/111128sntd3999m3.jpg)  
-Sentosa, Nov 11*
 
-*![](netted/111128sntd3999m3b.jpg)*Adult snail with thicker shell.
 
-*![](netted/110203sjid5709m3.jpg)*Juveniles of various sizes. *St John's Island, Feb 11*
 
 ---
 
@@ -87,30 +124,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](netted/220104tkkvc7.jpg)  
-Pulau Tekukor, Jan 22*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158869374657945&set=a.10158869425132945).
 
-![](netted/240528tslvc7.jpg)  
-*Terumbu Selegie, May 24*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/media/set/?set=a.10160387281292945).
 
-*![](netted/210403cyrvc2.jpg)  
-Cyrene Reef, Apr 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158387921187945&set=a.10158388042702945).
 
 ---
 
-*![](netted/180717smkefl.jpg)  
-Pulau Semakau East, Jul 18*Photo shared by Frances Loke on [facebook](https://www.facebook.com/pg/littlegreenmensg/photos/?tab=album&album_id=2052416561753723).
 
-*![](netted/240411tsmkccn1.jpg)  
-Terumbu Semakau, Apr 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161068808123654&set=a.10161068791073654).
 
-*![](netted/240412tbccn2.jpg)  
-Terumbu Bemban, Apr 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10161071236523654&set=a.10161071207308654).
 
 ---
 
-*![](netted/220102biovc4.jpg)  
-Pulau Biola, Jan 22*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158864216277945&set=a.10158864924162945).
 
 ---
 

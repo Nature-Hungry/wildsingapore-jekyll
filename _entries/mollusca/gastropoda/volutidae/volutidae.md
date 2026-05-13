@@ -2,7 +2,7 @@
 title: "Volutes "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "noble, volute, cymbiola, nobilis, volutidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Volutidae
 genus: ""
 species: ""
@@ -16,6 +16,53 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Volutoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg"
+  caption: |
+    <p>Baler snail eating a <a href="nobilis.htm">Noble volute</a>!Chek Jawa, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/chek-jawa-northern-sandbar-check-out.html">her blog.</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg"
+  caption: |
+    <p>Noble volute hunting down a <a href="../../bivalvia/mactridae/bigbrown.htm">Big brown mactra clam</a> that eventually escaped.</p>
+    <p>Pulau Semakau, Mar 08 Volute babies: In members of the Famliy Volutidae, the male fertilises the female internally.</p>
+    <p>There is no free-swimming larval stage and crawling juvenile snails emerge from the egg.</p>
+    <p>As a result, volutes have a restricted range and local populations can be wiped out by over-collection.</p>
+    <p>Noble volutes lay translucent egg capsules that contain many eggs.</p>
+    <p>But only one or a few develop, the survivor having eaten the others.</p>
+    <p>The eggs hatch and undergo metamorphosis within the egg capsules, emerging as tiny crawling snails.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100614bbd5995m3.jpg"
+  caption: |
+    <p>A smaller Baler volute riding on the back of a bigger one.</p>
+    <p>Prelude to mating?</p>
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/070325smkd9603m3.jpg"
+  caption: |
+    <p>Noble volute laying egg capsules Pulau Semakau, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/080310smktch01m3.jpg"
+  caption: |
+    <p>Baby Noble volute!</p>
+    <p>Pulau Semakau, Mar 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2322988879/">her flickr</a>.</p>
+    <p>Role in the habitat: Even after it dies, the snails shell continues to provide shelter!</p>
+    <p>Many of the Noble volute shells contain a <a href="../../../crustacea/othercrust/anomura/hermit/hermit.htm">hermit crab</a> instead of the living snail.</p>
+    <p>The hermit crabs need the shell more than we do so we should not collect these shells even if they are empty.</p>
+    <p>Sometimes, <a href="../../cephalopoda/bigseagrass.htm">octopuses</a> are seen sheltering in the empty shells too.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg"
+  caption: |
+    <p><a href="../../cephalopoda/bigseagrass.htm">Octopus</a> hiding inside an empty Noble volute shell.</p>
+    <p>Changi, Jun 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/090514prpd1730.jpg"
+  caption: |
+    <p><a href="../../../crustacea/othercrust/anomura/hermit/stripeorange.htm">Hermit crab</a> and <a href="../calyptraeidae/crepidula.htm">Slipper snails</a> living in an empty Baler volute shell.</p>
+    <p>Pasir Ris, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/060612cftd2873m3.jpg"
+  caption: |
+    <p><a href="nobilis.htm">Noble volute</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/nobilis/011114cjd841m3.jpg"
+  caption: |
+    <p><a href="nobilis.htm">Noble volute</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/050820bbg1813m3.jpg"
+  caption: |
+    <p><a href="melo.htm">Baler volute</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/volutidae/melo/100619cjtch1m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,38 +123,7 @@ bivalve opens up to breathe (which can take several days!), the volute
 sticks its proboscis in and rasps the flesh of its prey with its radula.
 Volutes may hunt their prey from the surface, but often burrow to
 eat their prey under the sand.
-*![](melo/100619cjtch1m3.jpg)*Baler snail eating a [Noble volute](nobilis.htm)!*Chek Jawa, Jun 10*Photo shared by Toh Chay Hoon on [her
-blog.](http://colorclouds.blogspot.com/2010/06/chek-jawa-northern-sandbar-check-out.html)
-*![](../../bivalvia/mactridae/bigbrown/120510chgd2887m6l.jpg)*Noble
-volute hunting down a [Big
-brown mactra clam](../../bivalvia/mactridae/bigbrown.htm) that eventually escaped. *Pulau Semakau, Mar 08*
-**Volute babies:** In members of the
-Famliy Volutidae, the male fertilises the female internally. There
-is no free-swimming larval stage and crawling juvenile snails emerge
-from the egg. As a result, volutes have a restricted range and local
-populations can be wiped out by over-collection. Noble volutes lay
-translucent egg capsules that contain many eggs. But only one or a
-few develop, the survivor having eaten the others. The eggs hatch
-and undergo metamorphosis within the egg capsules, emerging as tiny
-crawling snails.
-*![](melo/100614bbd5995m3.jpg)* A smaller Baler volute riding on the   
-back of a bigger one. Prelude to mating? *Beting Bronok, Jun 10*
-*![](nobilis/070325smkd9603m3.jpg)*Noble volute laying egg capsules *Pulau Semakau, Mar 07*
-*![](nobilis/080310smktch01m3.jpg)*Baby
-Noble volute!  *Pulau Semakau, Mar 08*Photo
-shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/2322988879/).
-**Role in the habitat:** Even after it dies, the snails
-shell continues to provide shelter! Many of the
-Noble volute shells contain a [hermit
-crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm) instead of the living snail. The hermit crabs need the shell
-more than we do so we should not collect these shells even if they
-are empty. Sometimes, [octopuses](../../cephalopoda/bigseagrass.htm) are seen sheltering in the empty shells too.
-![](../../cephalopoda/bigseagrass/130624chg7d7811.jpg)  
-[Octopus](../../cephalopoda/bigseagrass.htm) hiding inside an empty Noble volute shell. *Changi, Jun 13*
-![](melo/090514prpd1730.jpg)  
-[Hermit crab](../../../crustacea/othercrust/anomura/hermit/stripeorange.htm) and [Slipper snails](../calyptraeidae/crepidula.htm) living   
-in an empty Baler volute shell. *Pasir Ris, May 09*   
+{% include img-wrap-group.html items=page.page_images %}
  
 **Human uses:** Called 'kilah'
 in Malay, the Noble volute is edible. It is also 'often collected for
@@ -129,12 +145,8 @@ on Singapore shores**
 
 ---
 
-***![](nobilis/060612cftd2873m3.jpg)*[Noble volute](nobilis.htm)**
 
-***![](nobilis/011114cjd841m3.jpg)*[Noble volute](nobilis.htm)**
 
-**![](melo/050820bbg1813m3.jpg)  
-[Baler volute](melo.htm)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Leathery soft coral ctenophores
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coeloplana, ctenophora, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: ""
 genus: Coeloplana
 species: ""
@@ -14,6 +14,24 @@ phylum: Ctenophora
 class: Tentaculata
 order: Platyctenida
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg"
+  caption: |
+    <p>Sentosa, Nov 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0493m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 12 Features: 1cm or smaller, body very flat with colour and patterns to match their host.</p>
+    <p>Those seen so far were on large <a href="../cnidaria/coralsoft/alcyoniidae">Leathery soft corals</a>, often with many individuals on one soft coral.</p>
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/100528ttkkd3747m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120819cyrd0430m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 12</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/111128sntd4108m6la.jpg"
 ---
 **Leathery
 soft coral ctenophores**  
@@ -28,23 +46,11 @@ seen?** These tiny creatures are well camouflaged and often
 only spotted by the fine tentacles that they produce. Often overlooked,
 they are probably common on leathery soft corals on our shores. Their
 name is pronounced 'ten-nah-fours'.
-*![](coeloplana/111128sntd4108m6la.jpg)  
-Sentosa, Nov 11*
-*![](coeloplana/120819cyrd0493m3.jpg)  
-Cyrene Reef, Aug 12*
-**Features:** 1cm or smaller, body very flat with colour and patterns to match their
-host. Those seen so far were on large [Leathery soft corals](../cnidaria/coralsoft/alcyoniidae), often with many
-individuals on one soft coral.   
+{% include img-wrap-group.html items=page.page_images %}
   
 The tiny animal produces two fringe tentacles
 than can be many times longer than the animal. It is used to gather
 food. The tentacles are stored in two large swellings on the animal.
-*![](coeloplana/100528ttkkd3747m3.jpg)  
-Pulau Tekukor, May 10*
-*![](coeloplana/120722cyrd8101m3.jpg)  
-Cyrene Reef, Jul 12*
-*![](coeloplana/120819cyrd0430m3.jpg)  
-Cyrene Reef, Aug 12*
 
 ---
 

@@ -2,7 +2,7 @@
 title: Bumpy-faced armina nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "bumpy, face, armina, japonica, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 29, 30, 33, 90]
 family: Arminidae
 genus: Armina
@@ -20,6 +20,30 @@ order: Nudibranchia
 suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg"
+  caption: |
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg"
+  caption: |
+    <p>'Bumps' on its 'face'.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg"
+  caption: |
+    <p>Wiggly lines under the mantle.</p>
+    <p>Changi, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg"
+  caption: |
+    <p>Jelly-like egg mass next to it?</p>
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg"
+  caption: |
+    <p>Next to a sea pencil.</p>
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg"
+  caption: |
+    <p>On a spiky sea pen.</p>
+    <p>East Coast Park, Feb 19Photo shared by Teo Say Chong on <a href="https://www.facebook.com/photo.php?fbid=10218783796608300&set=a.10218783795648276&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,12 +90,9 @@ body are not gills although gas exchange may take place. These act
 like the cerata of aeolids, a place where the digestive gland can
 expand. These lines often are the same colour of their sea pen food.
 
-*![](bumpyface/050707chgg9063m3.jpg)  
-Changi, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](bumpyface/050707chgg9063m3a.jpg)*'Bumps' on its 'face'.
 
-*![](bumpyface/050707cftg9069m3.jpg)*Wiggly lines under the mantle. *Changi, Jul 05*
 
 **Sometimes mistaken for** [Semper's
 armina nudibranch](semperi.htm) (*Armina semperi*) that has a more colourful
@@ -84,12 +105,7 @@ pencils](../../../cnidaria/others/pennatulacea/pencil.htm). It is possible that 
 Rudman](http://www.seaslugforum.net/showall/armisemp) has a post sharing how an armina nudibranch feeds on a
 sea pen and is dragged down into the sand when the sea pen retracts.
 
-*![](bumpyface/050818chgg1380m3.jpg)*Jelly-like
-egg mass next to it? *Changi, Aug 05*
 
-*![](bumpyface/050622chgg8137m3.jpg)*Next
-to a sea pencil*.  
-Changi, Jun 05*
 
 ---
 
@@ -108,9 +124,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](bumpyface/190221nsrctsc1.jpg)  
-On a spiky sea pen.  
-East Coast Park, Feb 19*Photo shared by Teo Say Chong on [facebook](https://www.facebook.com/photo.php?fbid=10218783796608300&set=a.10218783795648276&type=3&theater).
 
 ---
 

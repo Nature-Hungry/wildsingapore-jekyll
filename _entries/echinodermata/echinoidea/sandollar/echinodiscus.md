@@ -2,7 +2,7 @@
 title: Keyhole sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "keyhole, sand, dollar, clypeasteroida, astriclypeidae, echinodiscus, truncatus, bisperforatus, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 86, 92]
 family: Astriclypeidae
 genus: Echinodiscus
@@ -22,6 +22,64 @@ suborder: Scutelloida
 infraorder: Scutelliformes
 superfamily: Scutelloidea
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg"
+  caption: |
+    <p>Upperside of living sand dollar Chek Jawa, Jul 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3b.jpg"
+  caption: |
+    <p>Petalloid.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3.jpg"
+  caption: |
+    <p>Underside</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7992m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg"
+  caption: |
+    <p>Upperside of test.</p>
+    <p>Chek Jawa, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0019m3.jpg"
+  caption: |
+    <p>Upperside of test.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0022m3.jpg"
+  caption: |
+    <p>Underside of rest</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/090210tmd6927m3.jpg"
+  caption: |
+    <p>Test of dead keyhole sand dollar.</p>
+    <p>Tanah Merah, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080603tmlks01m3.jpg"
+  caption: |
+    <p>East Coast Park, Jun 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/121214chgelks.JPG"
+  caption: |
+    <p>Changi East, Dec 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/12/breathtaking-trip-to-lost-coastl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 22</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/221127rk1a.jpg"
+  caption: |
+    <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160152618687906&set=a.10160152609332906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3.jpg"
+  caption: |
+    <p>Cyrene, Apr 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/240410cyrtl3b.jpg"
+  caption: |
+    <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161174141579264&set=a.10161174010189264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/241117cyrlks2.jpg"
+  caption: |
+    <p>Cyrene, Nov 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161885675328158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/260201cyrlks1.jpg"
+  caption: |
+    <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -68,17 +126,10 @@ holes in the body (called lunules). Suggestions for the function of
 these slots range from helping the animal to burrow, right itself,
 find food or to prevent the waves from lifting it out of the sand.
 The last is the most widely accepted explanation.
-![](echinodiscus/080720cjd7995m3.jpg)  
-Upperside of living sand dollar *Chek Jawa, Jul 08*
-*![](echinodiscus/080720cjd7995m3c.jpg)*
-![](echinodiscus/080720cjd7995m3b.jpg)  
-Petalloid.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](echinodiscus/080720cjd7992m3.jpg)*Underside
 
-*![](echinodiscus/080720cjd7992m3c.jpg)*
 
-*![](echinodiscus/080720cjd7992m3a.jpg)*
 
 **Dead or alive?** Sand dollars may
 appear dead, but they are very much alive. A living sand dollar is
@@ -86,17 +137,8 @@ covered with fine spines and appears velvety. The skeleton (test) of a dead one 
 without any spines, and the details of skeleton can be seen more clearly.
 The skeleton is fragile and will shatter at the slightest pressure.
 
-![](echinodiscus/031122cjd0023m3.jpg)  
-Upperside of test.  
-*Chek Jawa,
-Nov 03*
 
-![](echinodiscus/031122cjd0019m3.jpg)  
-Upperside of
-test*.*
 
-![](echinodiscus/031122cjd0022m3.jpg)  
-Underside of rest
 
 **Status and threats:** The Keyhole sand
 dollar is listed as 'Vulnerable' in the Red List of threatened animals
@@ -121,36 +163,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](echinodiscus/090210tmd6927m3.jpg)  
-Test of dead
-keyhole sand dollar. *Tanah Merah, Feb 09*
 
-![](echinodiscus/080603tmlks01m3.jpg)  
-*East Coast Park,
-Jun 08*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl).
 
-![](echinodiscus/121214chgelks.JPG)  
-*Changi East, Dec 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/12/breathtaking-trip-to-lost-coastl).
 
 ---
 
-![](echinodiscus/221127rk1.jpg)  
-*Lazarus Island, Nov 22  
-![](echinodiscus/221127rk1a.jpg)*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160152618687906&set=a.10160152609332906).
 
-![](echinodiscus/240410cyrtl3.jpg)  
-*Cyrene, Apr 24  
-![](echinodiscus/240410cyrtl3b.jpg)*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10161174141579264&set=a.10161174010189264).
 
-*![](echinodiscus/241117cyrlks2.jpg)  
-Cyrene, Nov 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161885675328158&type=3&ref=embed_post).
 
 ---
 
-![](echinodiscus/260201cyrlks1.jpg)  
-*Cyrene, Feb 26*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post).
 
 ---
 

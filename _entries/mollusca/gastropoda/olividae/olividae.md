@@ -2,7 +2,7 @@
 title: "Olive snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "olive, snail, shell, oliva, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Olividae
 genus: ""
 species: Family
@@ -16,6 +16,55 @@ subclass: Caenogastropoda
 order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
+  caption: |
+    <p>Changi, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/110829ecpd0062m6l.jpg"
+  caption: |
+    <p><a href="../trochidae/umbonium.htm">Button snails</a> leaping away from a burrowing Olive snail.</p>
+    <p>East Coast Park, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg"
+  caption: |
+    <p><a href="miniacea.htm">Orange-mouth olive snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg"
+  caption: |
+    <p>White lip ends at about half the shell opening length.</p>
+    <p>Shell opening orange or orangey.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg"
+  caption: |
+    <p>Spire flattened with short pointed tip.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg"
+  caption: |
+    <p><a href="tigridella.htm">Tigerish olive snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg"
+  caption: |
+    <p>White lip ends at about half the shell opening length.</p>
+    <p>Shell opening purplish brown.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg"
+  caption: |
+    <p>Spire conical.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
+  caption: |
+    <p><a href="mustelina.htm">Weasel olive snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg"
+  caption: |
+    <p>White lip ends at about half the shell opening length.</p>
+    <p>Shell opening violet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg"
+  caption: |
+    <p>Short conical spire.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9100m3.jpg"
+  caption: |
+    <p><a href="oliva.htm">Common olive snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3.jpg"
+  caption: |
+    <p>White lip ends at less than half the shell opening length.</p>
+    <p>Shell opening violet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/oliva/110814smkd9097m3b.jpg"
+  caption: |
+    <p>Short conical spire.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,12 +112,8 @@ in colour, even within the same species.
 snails](../conidae/conidae.htm) (Family Conidae) which can be **DEADLY** and **should
 NOT be handled**. If you are not sure what the snail is, do not
 handle it.
-![](mustelina/060612cftd2912m3.jpg)  
-*Changi, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](mustelina/110829ecpd0062m6l.jpg)  
-[Button snails](../trochidae/umbonium.htm) leaping away
-from a burrowing Olive snail. *East Coast Park, Aug 11*
 
 **What do they eat?** Olive snails
 are predators. They feed on other snails, small crustaceans and also
@@ -92,56 +137,23 @@ snails on Singapore shores**
 
 ---
 
-![](miniacea/090625cyrd5437m3.jpg)  
-[**Orange-mouth olive snail**](miniacea.htm)
 
-![](miniacea/110830cyrd0490m3.jpg)  
-White lip ends at about   
-half the shell opening length.  
-Shell opening orange or orangey.
 
-![](miniacea/090625cyrd5434m3b.jpg)  
-Spire flattened  
-with short pointed tip.
 
 ---
 
-![](tigridella/130401chgd5120m3.jpg)  
-[**Tigerish olive snail**](tigridella.htm)
 
-![](tigridella/130401chgd5121m3.jpg)  
-White lip ends at about   
-half the shell opening length.  
-Shell opening purplish brown.
 
-![](tigridella/130401chgd5121m3b.jpg)  
-Spire conical.
 
 ---
 
-![](mustelina/060612cftd2912m3.jpg)  
-[**Weasel olive snail**](mustelina.htm)
 
-![](mustelina/090820ecpd9455m3.jpg)  
-White lip ends at about  
-half the shell opening length.  
-Shell opening violet.
 
-![](mustelina/090820ecpd9455m3b.jpg)  
-Short conical spire.
 
 ---
 
-![](oliva/110814smkd9100m3.jpg)  
-[**Common olive snail**](oliva.htm)
 
-![](oliva/110814smkd9097m3.jpg)  
-White lip ends at less  
-than half the shell opening length.  
-Shell opening violet.
 
-![](oliva/110814smkd9097m3b.jpg)  
-Short conical spire.
 
 ---
 

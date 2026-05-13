@@ -2,7 +2,7 @@
 title: Dubious nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Neritidae
 genus: Clithon
 species: oualaniensis
@@ -17,6 +17,59 @@ order: Cycloneritida
 superfamily: Neritoidea
 subfamily: Neritininae
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg"
+  caption: |
+    <p>Thin greyish operculum.</p>
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg"
+  caption: |
+    <p>Striped body with long tentacles.</p>
+    <p>Tanah Merah, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg"
+  caption: |
+    <p>Striped body with long tentacles.</p>
+    <p>Tanah Merah, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg"
+  caption: |
+    <p>Egg cases laid on seagrass.</p>
+    <p>Tanah Merah, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg"
+  caption: |
+    <p>Egg cases laid on seagrass, already hatched.</p>
+    <p>East Coast, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg"
+  caption: |
+    <p>Marina East, De 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090430sntf0627m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg"
+  caption: |
+    <p>Countless snails on Needle seagrass.</p>
+    <p>Marina East, De 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg"
+  caption: |
+    <p>East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811089927945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg"
+  caption: |
+    <p>Tuas, Nov 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG"
+  caption: |
+    <p>Lazarus, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/stars-at-lazarus-reclaimed-beach.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg"
+  caption: |
+    <p>Seringat-Kias, Nov 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157847400963660&set=a.10157847412818660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg"
+  caption: |
+    <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a> .</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,37 +119,16 @@ two shells are identical. Operculum thin smooth horn-like material
 usually greyish. Body pale with fine black stripes, and long slender
 tentacles.
 
-*![](oualaniensis/090512tmftd1473m3b.jpg)* Thin
-greyish operculum. *Tanah Merah, May 09*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](oualaniensis/101013tmftd2360m3.jpg)  
-Striped body
-with long tentacles. *Tanah Merah, Oct 10*
 
-![](oualaniensis/111226tmftd4962m3a.jpg)  
-Striped body
-with long tentacles. *Tanah Merah, Dec 11*
 
 **Dubious babies:** The Dubious nerite lays white circular egg capsules that are miniature versions of other Nerite egg capsules. Each egg capsule
 contains many eggs. These hatch into free-swimming larvae
 that only later settle down to develop into snails.
 
-![](oualaniensis/101013tmftd2358m3.jpg)  
-Egg cases
-laid on seagrass.  
-*Tanah Merah, Oct 10*  
-![](oualaniensis/081214ecmd3109m3a.jpg)  
-Egg cases laid
-on seagrass, already hatched. *East Coast, Dec 08*
 
-![](oualaniensis/251208melks1.jpg)  
-*Marina East, De 25*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post).  
-![](oualaniensis/090430sntf0627m3a.jpg)
 
-![](oualaniensis/251208melks1a.jpg)  
-Countless snails on Needle seagrass. *Marina East, De 25*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post).
 
 **What does it eat?** This tiny snail
 grazes on algae.  
@@ -123,40 +155,16 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](oualaniensis/251107tmftlks4.jpg)  
-*Tanah Merah Ferry Terminal, Nov 25*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post).
 
-*![](oualaniensis/200710mevc5.jpg)  
-East Coast-Marina East, Jul 20*  
-Photo shared
-by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157811089927945&set=a.10157811088932945&type=3&theater).
 
-![](oualaniensis/061106tusd6519m3.jpg)  
-*Tuas, Nov 06*
 
 ---
 
-*![](oualaniensis/081229lazlks01m3.JPG)**Lazarus,
-Dec 08*  
-Photo shared
-by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2008/12/stars-at-lazarus-reclaimed-beach.html).
 
-*![](oualaniensis/201116lazmn1.jpg)  
-Seringat-Kias,
-Nov 20*  
-Photo shared
-by Marcus Ng on [facebook](https://www.facebook.com/photo/?fbid=10157847400963660&set=a.10157847412818660).
 
 ---
 
-![](oualaniensis/250430sjilll1.jpg)  
- *St John's Island, Apr 25*  
-Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post) .
 
-*![](oualaniensis/091205sudd5427m3.jpg)**Pulau
-Sudong, Dec 09*
 
 ---
 

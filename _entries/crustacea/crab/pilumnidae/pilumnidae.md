@@ -2,7 +2,7 @@
 title: "Piluminid crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pilumnid, crab, crustacea, pilumnus, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pilumnidae
 genus: ""
 species: ""
@@ -23,6 +23,20 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg"
+  caption: |
+    <p><a href="pilumnus">Common hairy crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/setifer/130721cjd9597m3.jpg"
+  caption: |
+    <p><a href="setifer">Rubble-carrying hairy crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg"
+  caption: |
+    <p><a href="sluiteri">Fuzzy reef crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
+  caption: |
+    <p><a href="featherstar">Feather star crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/pilumnidae/080621labd6040m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,16 +87,12 @@ crabs on Singapore shores**
 
 ---
 
-**![](pilumnidae/080621labd6040m3.jpg)  
-[Common hairy crab](pilumnus)**
+{% include img-wrap-group.html items=page.page_images %}
 
-![](setifer/130721cjd9597m3.jpg) **[Rubble-carrying hairy crab](setifer)**
 
-![](sluiteri/060714rlhg6649m3.jpg) **[Fuzzy reef crab](sluiteri)**
 
 ---
 
-![](featherstar/150220lsislks2.JPG) **[Feather star crab](featherstar)**
 
 ---
 

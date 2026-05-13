@@ -2,7 +2,7 @@
 title: Flat false limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "javan, false, limpet, siphonaria, atra, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
 family: Siphonariidae
 genus: Siphonaria
@@ -20,6 +20,18 @@ order: Siphonariida
 superfamily: Siphonarioidea
 complex: Siphonaria atra
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/051103sisg2849m3.jpg"
+  caption: |
+    <p>Underside.</p>
+    <p>Sisters Islands, Sep 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/160610jngmn.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10153719048773660&set=a.10153713985548660.1073741906.624178659&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/atra/050509hntd3208m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,10 +73,8 @@ thick ribs which are the same colour as the shell. There is no hole
 at the top the shell. Body plain white. A false limpet, it breathes
 through lungs instead of gills.
 
-*![](atra/050509hntd3208m3.jpg)  
-Pulau Hantu, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](atra/051103sisg2849m3.jpg)*Underside. *Sisters Islands, Sep 05*
 
 ---
 
@@ -83,8 +93,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](atra/160610jngmn.jpg)**Pulau
-Jong, Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10153719048773660&set=a.10153713985548660.1073741906.624178659&type=3&theater).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Prawns and shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Penaeidae
 genus: ""
 species: ""
@@ -20,6 +20,75 @@ order: Decapoda
 suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Apr 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fngshrimps)</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg"
+  caption: |
+    <p>The <a href="penbluetail">Blue-tail prawn</a> like other shrimps contracts its abdomen to swim backwards.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg"
+  caption: |
+    <p><a href="rednose">Red-nose shrimps</a> are also found among seaweeds, and living hard and soft corals.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
+  caption: |
+    <p>A tiny transparent <a href="palaemonidae">commensal shrimp</a>, several seen on a <a href="../../../echinodermata/holothuroidea/colochirus">Thorny sea cucumber</a>.</p>
+    <p>Beting Bronok, Aug 05 How do they mate?</p>
+    <p>Shrimps have separate genders.</p>
+    <p>To mate, a male inserts his sperm packet into a special receptacle in the female.</p>
+    <p>Fertilisation, however, is external.</p>
+    <p>The female releases the sperms from the packet together with her eggs.</p>
+    <p>A female prawn produces a huge number of eggs, as much as one million in one spawning!</p>
+    <p>Some may carry their eggs under their tails.</p>
+    <p>Prawn babies: Like many marine creatures, shrimps undergo metamorphosis.</p>
+    <p>That is, they change their shape as they develop through their life cycle.</p>
+    <p>Most adult shrimps migrate to deeper waters to breed and release their eggs.</p>
+    <p>Eggs usually hatch quickly, within a day or so.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif"
+  caption: |
+    <p>larvae</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta2.gif"
+  caption: |
+    <p>juvenile</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta3.gif"
+  caption: |
+    <p>adult</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
+  caption: |
+    <p><a href="alphballsoft">White snapping shrimps</a> live in Ball flowery soft corals.</p>
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+  caption: |
+    <p>A <a href="../../../crustacea/othercrust/shrimp/alphmanyband">Many-band snapping shrimp</a> sharing a burrow with a <a href="../../../vertebrates/fish/gobiidae/leptocephalus">Pink-speckled shrimp-goby</a>.</p>
+    <p>Kusu Island, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+  caption: |
+    <p>A pair of <a href="brevicarpalis">Five-spot anemone shrimps</a> is commonly found in our carpet anemones.</p>
+    <p>Role in the habitat: Shrimps are numerous and eaten by a wide variety of larger creatures.</p>
+    <p>In coral reefs, some species of shrimps act as cleaners, picking parasites and dead skin off fishes.</p>
+    <p>The fish 'clients' allow the cleaner shrimps to do their job without eating them.</p>
+    <p>These cleaners are often brightly marked.</p>
+    <p>Some shrimps also live with other sea creatures.</p>
+    <p><a href="palaemonidae">Anemone shrimps</a>, for example, frolick happily among the tentacles of a sea anemone that would kill and eat other creatures.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+  caption: |
+    <p><a href="penaeidae">Penaeid prawn</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg"
+  caption: |
+    <p><a href="alpheidae">Snapping shrimps</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+  caption: |
+    <p><a href="palaemonidae">Commensal shrimps</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg"
+  caption: |
+    <p><a href="redband">Red-banded shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg"
+  caption: |
+    <p><a href="saron">Saron shrimp</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+  caption: |
+    <p><a href="hippolytidae">Humpbacked shrimp</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -30,7 +99,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![talking points for nature guides](../../../../Templates/fornatureguides.gif)](../../fngshrimps)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals)
 | [all plants](../../../plants)
@@ -84,28 +153,6 @@ deeper water.
 **What do they eat?** Larger shrimps
 are mostly scavengers or eat small plants and animals. Smaller ones
 feed on plankton and algae.
-*![](penbluetail/070615sntrg0335m3.jpg)*The [Blue-tail prawn](penbluetail) like other shrimps  
-contracts its abdomen to swim backwards.
-*![](rednose/040919sntd7078m3.jpg)* [Red-nose
-shrimps](rednose) are also found among   
-seaweeds, and living hard and soft corals.
-![](../../../echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg)  
-A tiny transparent [commensal shrimp](palaemonidae), several seen on
-a [Thorny
-sea cucumber](../../../echinodermata/holothuroidea/colochirus).  
-*Beting Bronok, Aug 05*
-**How do they mate?** Shrimps have
-separate genders. To mate, a male inserts his sperm packet into a
-special receptacle in the female. Fertilisation, however, is external.
-The female releases the sperms from the packet together with her eggs.
-A female prawn produces a huge number of eggs, as much as one million
-in one spawning! Some may carry their eggs under their tails.
-**Prawn
-babies:** Like many marine creatures, shrimps undergo
-metamorphosis. That is, they change their shape as they develop
-through their life cycle. Most adult shrimps migrate to deeper
-waters to breed and release their eggs. Eggs usually hatch quickly,
-within a day or so.   
   
 After hatching from the egg, the larvae look nothing like the
 adults! These larvae drift with the plankton, changing shape
@@ -113,31 +160,9 @@ as they develop further. Eventually, they look more shrimp-like
 and migrate back to shallow waters. Here they develop into mature
 adults before starting the cycle all over again.
 
-*![](meta1.gif)  
-larvae   
   
-![](meta2.gif)  
-juvenile   
   
-![](meta3.gif)  
-adult*
 
-*![](alphballsoft/110518bbd1955m3.jpg)*[White snapping shrimps](alphballsoft) live in   
-Ball flowery soft corals. *Beting Bronok, May 11*
-![](../../../vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg)  
-A [Many-band
-snapping shrimp](../../../crustacea/othercrust/shrimp/alphmanyband) sharing a burrow with a [Pink-speckled shrimp-goby](../../../vertebrates/fish/gobiidae/leptocephalus). *Kusu Island, Aug 08*
-*![](brevicarpalis/040731kusd3491m3.jpg)*A
-pair of [Five-spot anemone shrimps](brevicarpalis) is commonly   
-found in our carpet anemones.
-**Role in the habitat:** Shrimps are
-numerous and eaten by a wide variety of larger creatures. In coral
-reefs, some species of shrimps act as cleaners, picking parasites
-and dead skin off fishes. The fish 'clients' allow the cleaner shrimps
-to do their job without eating them. These cleaners are often brightly
-marked. Some shrimps also live with other sea creatures. [Anemone
-shrimps](palaemonidae), for example, frolick happily among the tentacles of a
-sea anemone that would kill and eat other creatures.  
   
 **Human uses:** Shrimps and prawns
 are relished food by people everywhere. In Asia, shrimps are eaten in many
@@ -162,20 +187,13 @@ and over-collection can also have an impact on local populations.
 
 ---
 
-*![](penbanded/050721cjg9666m3.jpg)*[**Penaeid prawn**](penaeidae)
 
-***![](alphsmooth/050621skdg7874m3.jpg)***[**Snapping
-shrimps**](alpheidae)
 
-***![](carpet/050621skdg8007m3.jpg)*[Commensal shrimps](palaemonidae)**
 
 ---
 
-***![](redband/060130hntg4350m3.jpg)*[Red-banded shrimp](redband)**
 
-***![](saron/090818tmd9180m3.jpg)*[Saron shrimp](saron)**
 
-***![](humped/111002sisd2124m3.jpg)*[Humpbacked shrimp](hippolytidae)**
 
 ---
 

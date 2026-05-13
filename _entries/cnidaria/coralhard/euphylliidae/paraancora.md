@@ -2,7 +2,7 @@
 title: "Branching anchor corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphylliidae
 genus: Euphyllia
 species: paraancora*
@@ -15,6 +15,68 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg"
+  caption: |
+    <p>Trumpet-shaped corallites.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg"
+  caption: |
+    <p>Tentacles with U-shaped tips, often forming rosettes.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3.jpg"
+  caption: |
+    <p>Kusu Island, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040522kusad0084m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntg1419m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3b.jpg"
+  caption: |
+    <p>Mouth of the polyp surrounded by tentacles with U-shaped tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg"
+  caption: |
+    <p><a href="../../../worm/polychaeta/sabellidae.htm">Fan worm</a> in the middle of the colony.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040830hntd5855m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040830hntd5855m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110717tbd7181m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110717tbd7181m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/220618tmftlks9.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/220618tmftlks9a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827908158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/2007024pcnlks20a.jpg"
+  caption: |
+    <p>East Coast PCN, Jul 2020</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/2007024pcnlks20b.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482803403158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/210812jngjk1.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 21Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/51372013622/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/130427tptlks.JPG"
+  caption: |
+    <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749234835/in/album-72157626616274147/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -71,44 +133,21 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-![](paraancora/110422tbmd9794m3.jpg)  
- *Terumbu Bemban, Apr 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](paraancora/110422tbmd9794m3a.jpg)  
-Trumpet-shaped corallites.
 
-![](paraancora/110422tbmd9794m3c.jpg)  
-Tentacles with U-shaped tips, often forming rosettes.
 
-![](paraancora/040522kusad0084m3.jpg)  
-*Kusu Island, May 04*
 
-![](paraancora/040522kusad0084m3d.jpg)
 
 ---
 
-![](paraancora/040801hntg1419m3.jpg)  
-*Pulau Hantu, Aug 04*
 
-![](paraancora/040801hntd3753m3b.jpg)  
-Mouth of the
-polyp surrounded by   
-tentacles with U-shaped tips.
 
-![](paraancora/040801hntd3753m3a.jpg)  
-[Fan
-worm](../../../worm/polychaeta/sabellidae.htm) in the middle of the colony.
 
 ---
 
-![](paraancora/070630sisg0767m3d.jpg)  
-*Sisters Island, Jun 07*![](paraancora/070630sisg0767m3a.jpg)
 
-![](paraancora/040830hntd5855m3.jpg)  
-*Pulau Hantu, Aug 04*![](paraancora/040830hntd5855m3b.jpg)
 
-![](paraancora/110717tbd7181m3.jpg)  
- *Terumbu Bemban, Jul 11*![](paraancora/110717tbd7181m3a.jpg)
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -132,21 +171,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](paraancora/220618tmftlks9.jpg)  
-*Tanah Merah Ferry Terminal, Jun 22![](paraancora/220618tmftlks9a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943827908158&set=a.10159943838013158).
 
-![](paraancora/2007024pcnlks20a.jpg)  
-*East Coast PCN, Jul 2020*  
-![](paraancora/2007024pcnlks20b.jpg)  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158482803403158&set=a.10158482804868158&type=3&theater).
 
 ---
 
-![](paraancora/210812jngjk1.jpg)  
-*Pulau Jong, Aug 21*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/51372013622/).
 
-![](paraancora/130427tptlks.JPG)  
-*Terumbu Pempang Tengah, Apr 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8749234835/in/album-72157626616274147/).
  
 
 ---

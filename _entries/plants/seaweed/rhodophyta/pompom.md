@@ -2,7 +2,7 @@
 title: "Crunchy   pom-pom red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Corallinaceae
 genus: ""
@@ -18,6 +18,46 @@ subclass: Corallinophycidae
 order: Corallinales
 suborder: Corallinineae
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg"
+  caption: |
+    <p>Growing in clumps on coral rubble near reefs.</p>
+    <p>Sisters Island, Feb 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg"
+  caption: |
+    <p>Tiny <a href="../../../vertebrates/fish/syngnathidae/hippocampus">seahorse</a> among the branches!</p>
+    <p>Changi, Jul 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/080919sntd0623m3.jpg"
+  caption: |
+    <p>Growing among sponges on rocks.</p>
+    <p>Sentosa, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg"
+  caption: |
+    <p>Growing on an abandoned rope in seagrass meadows.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg"
+  caption: |
+    <p>Loose tangles growing among seagrasses forming a crunchy carpet.</p>
+    <p>Cyrene Reef, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg"
+  caption: |
+    <p><a href="pomslender">Slender crunchy pom pom seaweed</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3.jpg"
+  caption: |
+    <p><a href="pomthick">Thick crunchy pom pom seaweed</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg"
+  caption: |
+    <p><a href="pomflat">Flat crunchy pom pom red seaweed</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/071026cyrd7131m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomthick/080207sisg2261m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,27 +110,10 @@ creatures are sometimes seen among the 'branches'. From small snails
 to tiny seahorses. Seastars, especially juveniles, are often abundant
 on 'meadows' of these crunchy seaweed.
 
-*![](pomthick/080207sisg2261m3.jpg)*Growing
-in clumps on coral rubble near reefs. *Sisters Island, Feb 08  
-![](../../../vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg)*Tiny
-[seahorse](../../../vertebrates/fish/syngnathidae/hippocampus)
-among the branches! **Changi, Jul 06**
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pomflat/080919sntd0623m3.jpg)*Growing
-among sponges on rocks.  
-*Sentosa, Sep
-08*
 
-*![](pomslender/110520chgd2384m3.jpg)*Growing
-on an abandoned rope   
-in seagrass meadows.  
-*Changi, May
-11*
 
-***![](pomslender/080425cyrd1775m3b.jpg)***Loose
-tangles growing among seagrasses  
-forming a crunchy carpet. ****Cyrene Reef,
-Apr 08****
 
 ---
 
@@ -100,20 +123,11 @@ pom-pom red seaweeds on Singapore shores**
 
 ---
 
-*![](pomslender/070902skdg2154m3.jpg)*[**Slender crunchy  
-pom pom seaweed**](pomslender)
 
-*![](pomthick/071026cyrd7131m3.jpg)*[**Thick crunchy  
-pom pom seaweed**](pomthick)
 
-*![](pomflat/070602sjig9819m3.jpg)*[**Flat crunchy  
-pom pom red seaweed**](pomflat)
 
-![](pomslender/070902skdg2154m3d.jpg)
 
-*![](pomthick/071026cyrd7131m3a.jpg)*
 
-*![](pomflat/070602sjig9819m3b.jpg)*
 
 'Stems'
 short, slender   

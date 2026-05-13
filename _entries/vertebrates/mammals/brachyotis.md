@@ -2,7 +2,7 @@
 title: Lesser dog-faced fruit bat
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Pteropodidae
 genus: Cynopterus
 species: brachyotis
@@ -22,6 +22,14 @@ superfamily: Pteropodoidea
 subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Sep 03</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg"
 ---
 
 
@@ -74,11 +82,8 @@ time, even as she flies, for about 45-50 days.
 **Status and threats:** It
 is not listed among our threatened animals.
 
-*![](brachyotis/030917sbwrd0086m6l.jpg)**Sungei
-Buloh Wetland Reserve, Sep**03*  
+{% include img-wrap-group.html items=page.page_images %}
   
-*![](brachyotis/030917sbwrd0079m3.jpg)**Sungei
-Buloh Wetland Reserve, Sep* *03*
 
 ---
 
@@ -126,5 +131,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

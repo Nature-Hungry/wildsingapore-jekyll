@@ -2,7 +2,7 @@
 title: Leathery anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "leathery, anemone, radianthus, heteractis, crispa, stichodactylidae, actiniaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 88, 113]
 family: Stichodactylidae
 genus: Radianthus
@@ -17,6 +17,167 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3b.jpg"
+  caption: |
+    <p>Tentacles may have coloured tips</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0634m3a.jpg"
+  caption: |
+    <p>Typical bumpy prominent verrucae on the body column.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0636m3.jpg"
+  caption: |
+    <p>An anemone shrimp was seen in this one.</p>
+- url: "https://live.staticflickr.com/1657/26543870571_6ee687a631_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/26543870571/ "Leathery anemone (Heteractis crispa)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100529kuslks7m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/100529kuslks7m3a.jpg"
+  caption: |
+    <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100528kusmn1m3.jpg"
+  caption: |
+    <p>Kusu Island, May 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4649067805/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/120707jnglks3m3.JPG"
+  caption: |
+    <p>Pulau Jong, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100528tkklks4m3.jpg"
+  caption: |
+    <p>Bleaching Pulau Tekukor, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/160625tkklks2.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Tekukor, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154296607628158&set=a.10154296607228158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/190520hntlks3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 19</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/190520hntlks3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157209327823158&set=a.10157209325888158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/2007025smknlks6.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485858233158&set=a.10158485859383158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/2007025smknlks6b.jpg"
+  caption: |
+    <p>Pulau Semakau, Jul 20</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk12.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk11a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk13.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk12a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk14.jpg"
+  caption: |
+    <p>Pulau Semakau East, Jun 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250629smkelk14a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/070804smklks1m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 07  flickr](http://www.flickr.com/photos/koksheng/2929815177/).</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/070804smklks1m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/2929815177/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/090112smkmn8560m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/090112smkmn8558m3.jpg"
+  caption: |
+    <p>Photo shared by Marcus Ng.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/180602smknll1.jpg"
+  caption: |
+    <p>Pulau Semakau (North), Jun 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/180602smknll1a.jpg"
+  caption: |
+    <p>Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1784233888266609&set=a.1784232248266773&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100617tbtch7m6l.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Terumbu Semakau, Jun 10Photo shared by Toh Chay Hoom on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100617tbtch7m3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/220619tsmjk2.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5892055994141056&set=a.5892057857474203">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100617tsmklks5m6l.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/090330trylks2m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 09  flickr](http://www.flickr.com/photos/koksheng/3559328888/).</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/090330trylks2m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3559328888/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/150606trylks.JPG"
+  caption: |
+    <p>Terumbu Raya, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/150606trylks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/06/life-at-edge-at-terumbu-raya.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/240511tryjt1.jpg"
+  caption: |
+    <p>Terumbu Raya, May 24</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/240511tryjt1a.jpg"
+  caption: |
+    <p>Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10161363010718119&set=a.10161363025593119">faceook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/230221trylks1.jpg"
+  caption: |
+    <p>Terumbu Raya, Feb 23 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160490623053158&set=a.10160490628508158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/250812tblvo1.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25 Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122120521316927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110717tblks.JPG"
+  caption: |
+    <p>Terumbu Bemban, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110717tblksa.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/07/octopuses-mating-at-terumbu-bemban.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110422tbmrl1m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110422tbmrl2m3.jpg"
+  caption: |
+    <p>Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110522bbblks6m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/110522bbblks7m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/200310bbbay1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/200310bbbay1b.jpg"
+  caption: |
+    <p>Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10218346799913611&set=a.10218346760312621&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100507bbbmn.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4629603638/in/album-72157623968892037/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100613snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100613snglks2m3.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718898967/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100613snglks3m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4718898967/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/crispa/100403tbbd0629m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -75,21 +236,13 @@ such as *Dascyllus trimaculatus* and many species of [anemonefishes](../../verte
   
 **Status and threats:** As at 2024, it is listed as Endangered in Singapore.
 
-*![](crispa/100403tbbd0629m3.jpg)  
-Beting Bemban Besar, Apr 10**![](crispa/100403tbbd0634m3b.jpg)*Tentacles may have coloured tips
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](crispa/100403tbbd0634m3.jpg)  
   
-![](crispa/100403tbbd0634m3a.jpg)*  
-Typical bumpy prominent verrucae   
-on the body column.
 
-*![](crispa/100403tbbd0636m3.jpg)*  
-An anemone shrimp was seen in this one.
 
 ---
 
-[![Leathery anemone (Heteractis crispa)](https://live.staticflickr.com/1657/26543870571_6ee687a631_z.jpg)](https://www.flickr.com/photos/wildsingapore/26543870571/ "Leathery anemone (Heteractis crispa)")
 
 ---
 
@@ -108,147 +261,64 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](crispa/100529kuslks7m3.jpg)*  
-Bleaching. *Kusu Island,
-Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
 
-![](../../crustacea/othercrust/shrimp/brevicarpalis/100529kuslks7m3a.jpg)  
- *Kusu Island,
-Jun 10*Photo
-shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusu.html).
 
-*![](crispa/100528kusmn1m3.jpg)*  
-*Kusu Island,
-May 10*Photo
-shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4649067805/).
 
 ---
 
-*![](crispa/120707jnglks3m3.JPG)*  
- *Pulau Jong, Jun 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html).
 
 ---
 
-*![](crispa/100528tkklks4m3.jpg)*  
-Bleaching *Pulau Tekukor, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukor.html).
 
-![](crispa/160625tkklks2.jpg)  
-Bleaching. *Pulau Tekukor, Jun 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10154296607628158&set=a.10154296607228158&type=3&theater).
 
 ---
 
-*![](crispa/190520hntlks3.jpg)  
-Pulau Hantu, May 19*
 
-*![](crispa/190520hntlks3a.jpg)* Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157209327823158&set=a.10157209325888158&type=3&theater).
 
 ---
 
-*![](crispa/2007025smknlks6.jpg)*  
-*Pulau
-Semakau, Jul 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158485858233158&set=a.10158485859383158&type=3&theater).
 
-![](crispa/2007025smknlks6b.jpg)  
-*Pulau
-Semakau, Jul 20*
 
 ---
 
-*![](crispa/250629smkelk12.jpg)**Pulau Semakau East, Jun 25* *![](crispa/250629smkelk11a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post).
 
-*![](crispa/250629smkelk13.jpg)**Pulau Semakau East, Jun 25**![](crispa/250629smkelk12a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post).
 
-*![](crispa/250629smkelk14.jpg)**Pulau Semakau East, Jun 25* *![](crispa/250629smkelk14a.jpg)*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post).
 
 ---
 
-*![](crispa/070804smklks1m3.jpg)**Pulau Semakau, Aug 07* *![](crispa/070804smklks1m3a.jpg)* Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/2929815177/).
 
-*![](crispa/090112smkmn8560m3.jpg)  
-Pulau Semakau, Jan 09![](crispa/090112smkmn8558m3.jpg)*Photo shared by Marcus Ng.
 
-*![](crispa/180602smknll1.jpg)  
-Pulau Semakau (North), Jun 18  
-![](crispa/180602smknll1a.jpg)* Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=1784233888266609&set=a.1784232248266773&type=3&theater).
 
 ---
 
-*![](crispa/100617tbtch7m6l.jpg)* Bleaching. *Terumbu Semakau, Jun 10*Photo shared by Toh Chay Hoom on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html).
 
-*![](crispa/100617tbtch7m3.jpg)*Bleaching.
 
 ---
 
-*![](crispa/220619tsmjk2.jpg)*  
- *Terumbu Semakau, Jun 22*Photo shared by James Koh on [facebook](https://www.facebook.com/photo/?fbid=5892055994141056&set=a.5892057857474203).
 
-*![](crispa/100617tsmklks5m6l.jpg)*  
-*Terumbu
-Semakau, Jun 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html).
 
 ---
 
-*![](crispa/090330trylks2m3.jpg)**Terumbu Raya, Mar 09* *![](crispa/090330trylks2m3a.jpg)* Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/3559328888/).
 
-*![](crispa/150606trylks.JPG)  
-Terumbu Raya, Jun 15  
-![](crispa/150606trylks2.JPG)* Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2015/06/life-at-edge-at-terumbu-raya.html).
 
-*![](crispa/240511tryjt1.jpg)  
-Terumbu Raya, May 24  
-![](crispa/240511tryjt1a.jpg)* Photo shared by Jonathan Tan on [faceook](https://www.facebook.com/photo/?fbid=10161363010718119&set=a.10161363025593119)
 
 ---
 
-*![](crispa/230221trylks1.jpg)  
-Terumbu Raya, Feb 23* Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10160490623053158&set=a.10160490628508158).
 
-*![](crispa/250812tblvo1.jpg)  
-Terumbu Bemban, Aug 25* Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122120521316927700&type=3&ref=embed_post).
 
 ---
 
-*![](crispa/110717tblks.JPG)*  
- *Terumbu Bemban, Jul 11  
-![](crispa/110717tblksa.jpg)*Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2011/07/octopuses-mating-at-terumbu-bemban.html).
 
-*![](crispa/110422tbmrl1m3.jpg)*  
- *Terumbu Bemban, Apr 11  
-![](crispa/110422tbmrl2m3.jpg)*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/fbx/?set=a.179715118746555.57014.109257872458947).
 
 ---
 
-*![](crispa/110522bbblks6m3.jpg)*  
-*Beting Bemban Besar, May 11![](crispa/110522bbblks7m3.jpg)*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html).
 
-*![](crispa/200310bbbay1.jpg)*  
-*Beting Bemban Besar, Mar 20![](crispa/200310bbbay1b.jpg)*Photo shared by Abel Yeo on [facebook](https://www.facebook.com/photo.php?fbid=10218346799913611&set=a.10218346760312621&type=3&theater).
 
-*![](crispa/100507bbbmn.jpg)  
-Beting Bemban Besar, May 10*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4629603638/in/album-72157623968892037/).
 
 ---
 
-*![](crispa/100613snglks1m3.jpg)*  
- *Pulau Senang, Jun 10*
 
-*![](crispa/100613snglks2m3.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718898967/).
 
-*![](crispa/100613snglks3m3.jpg)*  
- *Pulau Senang, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4718898967/).
 
 ---
 

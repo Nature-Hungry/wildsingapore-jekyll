@@ -2,7 +2,7 @@
 title: Sentinel crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sentinel, crab, macrophthalmus, macrophthalmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106, 112]
 family: Macrophthalmidae
 genus: Macrophthalmus
@@ -17,6 +17,57 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 subfamily: Owstoniinae
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/190520hntjll3b.jpg"
+  caption: |
+    <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156408097666295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090113prpd5223m3.jpg"
+  caption: |
+    <p>Nibbling on a worm.</p>
+    <p>Pasir Ris, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/090621hntd4596m3.jpg"
+  caption: |
+    <p>Squarish burrow opening.</p>
+    <p>Pulau Hantu, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/081216prpd3404m3.jpg"
+  caption: |
+    <p>Just moulted!</p>
+    <p>Moult has transparent eyes.</p>
+    <p>Pasir Ris, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250627bbrk10.jpg"
+  caption: |
+    <p>Beting Bronok, Jun 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/251207hntrqo2.jpg"
+  caption: |
+    <p>Moult with transparent eyestalks and eye Pulau Hantu, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.898278796022195&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210115mevc2.jpg"
+  caption: |
+    <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202615962945&set=a.10158202634262945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/130111sjilks.JPG"
+  caption: |
+    <p>St John's Island, Jan 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567771885/in/album-72157607929563969/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/250430sjilll2.jpg"
+  caption: |
+    <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/100912kuslks.JPG"
+  caption: |
+    <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4995475022/in/album-72157607725117581/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/180815bbbll1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Aug 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1893310434025620&set=a.1893308220692508&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/210810tplvc4.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158628140532945&set=a.10158628246612945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/macrophthalmus/050525hntg6712m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,22 +115,13 @@ to tell apart small crabs with long eye stalks](cflongeyedcrabs).
   
 **What does it eat?** It feeds on
 detritus and small worms.
-*![](macrophthalmus/050525hntg6712m3.jpg)  
-Pulau Hantu, May 05![](macrophthalmus/050525hntg6712m3a.jpg)*
-*![](macrophthalmus/190520hntjll3a.jpg)  
-Pulau Hantu, May 19![](macrophthalmus/190520hntjll3b.jpg)*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156408097666295&type=3).
+{% include img-wrap-group.html items=page.page_images %}
  
 
 ---
 
-*![](macrophthalmus/090113prpd5223m3.jpg)*Nibbling
-on a worm. *Pasir Ris, Jan 09*
 
-*![](macrophthalmus/090621hntd4596m3.jpg)*Squarish
-burrow opening. *Pulau Hantu, Jun 09*
 
-*![](macrophthalmus/081216prpd3404m3.jpg)*Just
-moulted! Moult has transparent eyes. *Pasir Ris, Dec 08*
 
 ---
 
@@ -98,40 +140,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](macrophthalmus/250627bbrk10.jpg)*  
-*Beting Bronok, Jun 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162640239532906&type=3&ref=embed_post).
 
-*![](macrophthalmus/251207hntrqo2.jpg)*  
-Moult with transparent eyestalks and eye *Pulau Hantu, Dec 25*Photo shared by Rui Quan Oh on [facebook](https://www.facebook.com/media/set/?set=a.898278796022195&type=3&ref=embed_post).
 
 ---
 
-*![](macrophthalmus/210115mevc2.jpg)  
-East Coast-Marina Bay, Jan 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158202615962945&set=a.10158202634262945).
 
 ---
 
-*![](macrophthalmus/130111sjilks.JPG)  
-St John's Island, Jan 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/8567771885/in/album-72157607929563969/).
 
-![](macrophthalmus/250430sjilll2.jpg)  
- *St John's Island, Apr 25*  
-Photo shared by Low Liong Leong on [facebook](https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post)
 
 ---
 
-*![](macrophthalmus/100912kuslks.JPG)  
-Kusu Island, Sep 10*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/4995475022/in/album-72157607725117581/).
 
 .
 
 ---
 
-*![](macrophthalmus/180815bbbll1.jpg)  
-Beting Bemban Besar, Aug 18*Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo.php?fbid=1893310434025620&set=a.1893308220692508&type=3&theater).
 
-*![](macrophthalmus/210810tplvc4.jpg)  
-Terumbu Pempang Laut, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158628140532945&set=a.10158628246612945).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Giant shield bug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "giant, shield, bug, pycanum, rubens, tessaratomidae, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Tessaratomidae
 genus: Pycanum
 species: ""
@@ -22,6 +22,19 @@ subfamily: Tessaratominae
 tribe: Tessaratomini
 subtribe: Eusthenaria
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg"
+  caption: |
+    <p>Adult on Simpoh air leaf.</p>
+    <p>Pulau Ubin, Feb 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg"
+  caption: |
+    <p>Nymph on Simpoh air leaf.</p>
+    <p>Pulau Ubin, Feb 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/151223labmn.jpg"
+  caption: |
+    <p>Labrador, Dec 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/23925139105/in/photolist-CsbAjn-CN3im6-svpzdr-nWwoVK-KRiGj-sVzV4M-98MeCA-4yqiWF-4yuAjm-4yqiTg-4yqiNv">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg"
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
@@ -47,14 +60,9 @@ their eggs.
 **Features:** Adult about 3cm long, green with orange-black banding on the lower
 body edge. Nymphs somewhat rectangular smaller, green or red.
 
-![](pycanum/040214ubnd0082m3.jpg)  
-Adult on Simpoh air leaf. *Pulau Ubin, Feb 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](pycanum/040207ubnd0027m3.jpg)  
-Nymph on Simpoh air leaf. *Pulau Ubin, Feb 04*
 
-![](pycanum/151223labmn.jpg)  
-*Labrador, Dec 15*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/23925139105/in/photolist-CsbAjn-CN3im6-svpzdr-nWwoVK-KRiGj-sVzV4M-98MeCA-4yqiWF-4yuAjm-4yqiTg-4yqiNv).
 
 ---
 

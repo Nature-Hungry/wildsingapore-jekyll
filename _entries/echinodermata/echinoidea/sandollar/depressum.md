@@ -2,7 +2,7 @@
 title: Thick-edged sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thick, edge, sand, dollar, laganum, jacksonaster, depressum, laganidae, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 86, 92]
 family: Laganidae
 genus: Jacksonaster
@@ -21,6 +21,100 @@ order: Echinolampadacea
 suborder: Scutelloida
 infraorder: Laganiformes
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg"
+  caption: |
+    <p>East Coast,</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2312m3.jpg"
+  caption: |
+    <p>Underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2312m3a.jpg"
+  caption: |
+    <p>Mouth in the centre.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg"
+  caption: |
+    <p>The thick edge is more obvious in a dead sand dollar.</p>
+    <p>Seringat-Kias, Jun 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/100419chgjk1m3.jpg"
+  caption: |
+    <p>Dead sand dollar.</p>
+    <p>Changi, Apr 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/04/100419-changil">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/190704bbvc1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10156721307287945&set=a.10156721306377945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/200706skdtch5.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158634946503713&set=a.10158634969763713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/170626skdlks6.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/130722skdlks.JPG"
+  caption: |
+    <p>Pulau Sekudu, Jul 13 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/08/sekudu-survey-in-predawnl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/160706skdlks5.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/210529ecpgtch5.jpg"
+  caption: |
+    <p>East Coast Park (G), May 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487248888713&set=a.10159487267278713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/220519ecpbky3.jpg"
+  caption: |
+    <p>East Coast Park-Marina Bay, May 22 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167054740795112&set=a.10167054736560112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/220813pcntch2.jpg"
+  caption: |
+    <p>East Coast PCN, Aug 22 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10160309575378713&set=a.10160309591293713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/151001blyjt3m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/171010blymn1.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/171009blylks3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155763645953158&set=pcb.10155763646593158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/200210blylks6.jpg"
+  caption: |
+    <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967184348158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/210430sjilks3.jpg"
+  caption: |
+    <p>St John's Island, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159166991528158&set=a.10159166993588158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/241019lazlks12.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/241019lazlks12a.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/190902tryjll1.jpg"
+  caption: |
+    <p>Terumbu Raya, Sep 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156651196186295&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/141108bbblks3m3.jpg"
+  caption: |
+    <p>Beting Bermban Besar, Nov 14 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10152839284378158.1073741863.547198157&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/220201brktch2.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972844318713&set=a.10159972857263713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/100530pbklks5m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/100530pbklks5m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655327639/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/100530pbklks6m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/100530pbklks6m3a.jpg"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655947844/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090513sntlks4m3.jpg"
+  caption: |
+    <p>Sentosa, May</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090513sntlks5m3.jpg"
+  caption: |
+    <p>Photos shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -77,20 +171,9 @@ The skeleton is fragile and will shatter at the slightest pressure.
 dollar is listed as 'Vulnerable' on the Red List of threatened animals
 of Singapore.
 
-![](depressum/081117ecpmd2310m3.jpg)  
-*East Coast,
-Nov 08![](depressum/081117ecpmd2310m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](depressum/081117ecpmd2312m3.jpg)  
-Underside.  
-![](depressum/081117ecpmd2312m3a.jpg)  
-Mouth in the
-centre.
 
-![](depressum/090628lazd5991m3.jpg)  
-The thick edge is more
-obvious  
-in a dead sand dollar. *Seringat-Kias, Jun 09*
 
 ---
 
@@ -109,97 +192,41 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](depressum/100419chgjk1m3.jpg)  
-Dead sand dollar. *Changi, Apr 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/04/100419-changil).
 
-![](depressum/190704bbvc1.jpg)  
-*Beting Bronok, Jul 19*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10156721307287945&set=a.10156721306377945&type=3&theater).
 
-*![](depressum/200706skdtch5.jpg)  
-Pulau Sekudu, Jul 20*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158634946503713&set=a.10158634969763713&type=3&theater).
 
 ---
 
-*![](depressum/170626skdlks6.jpg)  
-Pulau Sekudu, Jun 17*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3).
 
-*![](depressum/130722skdlks.JPG)**Pulau Sekudu, Jul 13*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2013/08/sekudu-survey-in-predawnl).
 
-*![](depressum/160706skdlks5.jpg)**Pulau Sekudu, Jul 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul).
 
 ---
 
-*![](depressum/210529ecpgtch5.jpg)**East Coast Park (G), May 21*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159487248888713&set=a.10159487267278713).
 
-*![](depressum/220519ecpbky3.jpg)**East Coast Park-Marina Bay, May 22*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10167054740795112&set=a.10167054736560112).
 
-*![](depressum/220813pcntch2.jpg)**East Coast PCN, Aug 22*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10160309575378713&set=a.10160309591293713).
 
 ---
 
-*![](depressum/151001blyjt3m3.jpg)**Berlayar Creek, Oct 15*  
-Photo shared by Jonathan Tan on [facebook](https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater).
 
-*![](depressum/171010blymn1.jpg)*  
-*Berlayar Creek, Oct 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3).
 
-*![](depressum/171009blylks3.jpg)*  
-*Berlayar Creek, Oct 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10155763645953158&set=pcb.10155763646593158&type=3&theater).
 
 ---
 
-![](depressum/200210blylks6.jpg)  
-*Berlayar Creek, Feb 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10157967184348158&set=a.10157967182933158&type=3&theater).
 
-*![](depressum/210430sjilks3.jpg)**St John's Island, Apr 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159166991528158&set=a.10159166993588158).
 
 ---
 
-*![](depressum/241019lazlks12.jpg)  
-Lazarus Island, Oct 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158).
 
-*![](depressum/241019lazlks12a.jpg)  
-Lazarus Island, Oct 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158).
 
 ---
 
-*![](depressum/190902tryjll1.jpg)**Terumbu Raya, Sep 19*  
-Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/marinelife90/media_set?set=a.10156651196186295&type=3).
 
-*![](depressum/141108bbblks3m3.jpg)**Beting Bermban Besar, Nov 14*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10152839284378158.1073741863.547198157&type=1).
 
-*![](depressum/220201brktch2.jpg)**Pulau Berkas, Feb 22*  
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159972844318713&set=a.10159972857263713).
 
 ---
 
-![](depressum/100530pbklks5m3.jpg)  
-*Pulau Berkas,
-May 10   
-![](depressum/100530pbklks5m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4655327639/).
 
-![](depressum/100530pbklks6m3.jpg)  
-*Pulau Berkas,
-May 10  
-![](depressum/100530pbklks6m3a.jpg)*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4655947844/).
 
-![](depressum/090513sntlks4m3.jpg)  
-*Sentosa, May
-09*![](depressum/090513sntlks5m3.jpg)  
-Photos shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2009/05/first-time-to-siloso-isletl).
 
 ---
 

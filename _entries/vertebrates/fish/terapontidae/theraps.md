@@ -2,7 +2,7 @@
 title: Banded perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "banded, grunter, perch, fish, terapon, theraps, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Terapontidae
 genus: Terapon
@@ -17,6 +17,32 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0798m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 11.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/090808tmd8535m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/091022tmd3082m3.jpg"
+  caption: |
+    <p>Tanah Merah, Oct 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/250810bsistt1.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10239868247342318&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/240512jngccn1.jpg"
+  caption: |
+    <p>Pulau Jong, May 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10161117811658654/813777187293830">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/140712cyrlks.JPG"
+  caption: |
+    <p>Cyrene Reef, Jul 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24539755179/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/230805thntky1.jpg"
+  caption: |
+    <p>Terumbu Hantu, Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168627794075112/203027995785237">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/theraps/110831tmnbd0741m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -57,17 +83,10 @@ stripes on sides that run through the eyes. Body colour dusky green
 above, white below. Juveniles dark brown or greenish with white-silvery
 spots or indistinct stripes.   
 
-![](theraps/110831tmnbd0741m3.jpg)  
-*Tanah Merah, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](theraps/110831tmnbd0798m3.jpg)  
-*Tanah Merah, Aug 11*.
 
-![](theraps/090808tmd8535m3.jpg)  
-*Tanah Merah, Aug 09*
 
-![](theraps/091022tmd3082m3.jpg)  
-*Tanah Merah, Oct 09*
 
 ---
 
@@ -82,18 +101,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](theraps/250810bsistt1.jpg)  
-*Big Sisters, Aug 25*Photo shared by Tommy Tan on [facebook](https://www.facebook.com/media/set/?set=a.10239868247342318&type=3&ref=embed_post).
 
 ---
 
-![](theraps/240512jngccn1.jpg)  
-*Pulau Jong, May 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/794658653/videos/a.10161117811658654/813777187293830).
 
-![](theraps/140712cyrlks.JPG)  
-*Cyrene Reef, Jul 14*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24539755179/in/album-72157607718672165/).
-![](theraps/230805thntky1.jpg)  
-*Terumbu Hantu, Aug 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/734420111/videos/a.10168627794075112/203027995785237).
 
 ---
 

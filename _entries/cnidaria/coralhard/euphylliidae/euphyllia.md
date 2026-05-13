@@ -2,7 +2,7 @@
 title: "Euphyllia corals "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "euphyllia, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Euphylliidae
 genus: Euphyllia
 species: ""
@@ -15,6 +15,64 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg"
+  caption: |
+    <p><a href="../../../worm/polychaeta/sabellidae.htm">Fan worm</a> in the middle of the colony.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3c.jpg"
+  caption: |
+    <p>Mouth in the middle of the tentacles.</p>
+    <p>Sisters Island, Jun 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100617tsmd6504m3a.jpg"
+  caption: |
+    <p>Sadly, these corals are often the first affected during mass coral bleaching.</p>
+    <p>Terumbu Semakau, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0581m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0583m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -86,12 +144,7 @@ the IUCN](http://www.iucnredlist.org/). Like other creatures of the intertidal z
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
-![](paraancora/040801hntd3753m3a.jpg)  
-[Fan worm](../../../worm/polychaeta/sabellidae.htm) in
-the middle of the colony.
-*![](paraancora/070630sisg0767m3c.jpg)*Mouth in the middle of the tentacles. *Sisters Island, Jun 07*
-*![](ancora/100617tsmd6504m3a.jpg)*Sadly, these corals are often the first   
-affected during mass coral bleaching. *Terumbu Semakau, Jun 10*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -100,11 +153,8 @@ corals on Singapore shores**
 
 ---
 
-![](ancora/060811rlhd0581m3.jpg)
 
-![](ancora/060811rlhd0583m3c.jpg)
 
-![](ancora/060714rlhg0654m3.jpg)
 
 [**Brain
 anchor coral**](ancora.htm)  
@@ -119,11 +169,8 @@ long and branching, forming meandering valleys with separate walls
 
 ---
 
-![](paraancora/110422tbmd9794m3.jpg)
 
-![](paraancora/110422tbmd9794m3c.jpg)
 
-![](paraancora/110422tbmd9794m3a.jpg)
 
 [**Branching
 anchor coral**](paraancora.htm)  
@@ -138,11 +185,8 @@ trumpet-shaped
 
 ---
 
-![](glabrescens/051203smkg3165m3.jpg)
 
-![](glabrescens/051203smkg3161m3c.jpg)
 
-![](glabrescens/080707hntd7529m3.jpg)
 
 [**Torch
 coral**](glabrescens.htm)  
@@ -157,11 +201,8 @@ trumpet-shaped
 
 ---
 
-![](paradivisa/061122smkd6849m3.jpg)
 
-![](paradivisa/061122smkd6854m3b.jpg)
 
-![](paradivisa/050310smkg3182m3.jpg)
 
 [**Frog
 spawn coral**](paradivisa.htm)  
@@ -177,11 +218,8 @@ long and tubular (phaceloid) and branching.
 
 ---
 
-![](plerogyra/150606tryo6060354m3.jpg)
 
-![](plerogyra/150606tryo6060356m3.jpg)
 
-![](plerogyra/150606tryo6060354m3a.jpg)
 
 [**Pearl bubble coral**](plerogyra.htm)  
 *Plerogyra sinuosa*

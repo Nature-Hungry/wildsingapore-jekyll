@@ -2,7 +2,7 @@
 title: White-rumped sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blotchy, cucumber, seacucumber, actinopyga, lecanora, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Holothuriidae
 genus: ""
@@ -16,6 +16,79 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Holothuriida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0858m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/070701hntg0857m3a.jpg"
+  caption: |
+    <p>White ringed backside guarded by five 'teeth'.</p>
+    <p>Pulau Hantu, Jul 07 One distinguishing feature of this sea cucumber is the white or greyish zone around the rear end.</p>
+    <p>The anus is guarded by five calcareous yellowish teeth-like structures.</p>
+    <p>When feeding, the mouth is usually facing downwards towards the ground.</p>
+    <p>It does not have Cuvierian tubules.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/240527srplks8.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110220lazjk3m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl">his blog</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/251009sjitl3.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/130628thntlks.JPG"
+  caption: |
+    <p>Terumbu Hantu, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24801658311/in/album-72157664453928665/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/201018smkslks5.jpg"
+  caption: |
+    <p>Pulau Semakau South, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158700247228158&set=a.10158700249983158">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/160609tpkmn1.jpg"
+  caption: |
+    <p>Terumbu Pempang Kecil, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100629tpdjk15m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/150524tplhpy3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, May 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100617tbtch3m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10Photo shared by Toh CHay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/110422tbmjk2m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110422-terumbu-bembanl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/151225tsmklks8m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Dec 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/210428slulks9.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468913158&set=a.10159162473618158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100131slulks2m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4351229948/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100130brkd8661m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100613snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719508298/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/100531bioc4530m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091231biolks1m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4232346059/in/set-72157623113122338/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/220201brklks3.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700480643158&set=a.10159700487188158">facebook</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Sea Challengers.</p>
+    <p>314pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/lecanora/091204pawd5302m3.jpg"
 ---
 
 
@@ -47,17 +120,7 @@ Surface somewhat smooth with long, thin tube feet, sparsely distributed
 all over. Sometimes, the sea cucumber is seen with many tube feet
 on the underside. We have not been able to observe the feeding tentacles in the wild. Colours variable ranging from shades of brown to golden yellow or
 white, sometimes with blotches, sometimes a uniform colour.
-![](lecanora/091204pawd5302m3.jpg)  
-*Pulau Pawai, Dec 09*
-![](lecanora/070701hntg0858m3.jpg)  
-*Pulau Hantu, Jul 07*
-![](lecanora/070701hntg0857m3a.jpg)  
-White ringed backside guarded by five 'teeth'.  
-*Pulau Hantu, Jul 07*
-One distinguishing feature of this sea cucumber is the white or greyish
-zone around the rear end. The anus is guarded by five calcareous yellowish teeth-like
-structures. When feeding, the mouth is usually facing downwards towards
-the ground. It does not have Cuvierian tubules.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Human uses:** This sea cucumber
 is among the edible ones harvested for the food trade, usually by hand using lead-bombs and free-diving. Tests indicate
@@ -81,92 +144,35 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lecanora/240527srplks8.jpg)  
-*Sentosa Serapong, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161375044483158).
 
-*![](lecanora/110220lazjk3m3.jpg)  
-Lazarus Island, Feb 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kiasl)
 
-![](lecanora/251009sjitl3.jpg)  
-*St John's Island, Oct 25*Photo shared by Tammy Lim on [facebook](https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post).
 
 ---
 
-![](lecanora/130628thntlks.JPG)  
-*Terumbu Hantu, Jun 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24801658311/in/album-72157664453928665/).
 
-*![](lecanora/201018smkslks5.jpg)  
-Pulau Semakau South, Oct 20*Photo
-shared by Loh Kok Sheng on [flickr](https://www.facebook.com/photo/?fbid=10158700247228158&set=a.10158700249983158).
 
 ---
 
-![](lecanora/160609tpkmn1.jpg)  
-*Terumbu Pempang
-Kecil, Jun 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story).
 
-![](lecanora/100629tpdjk15m3.jpg)  
-*Terumbu Pempang
-Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
-![](lecanora/150524tplhpy3m3.jpg)  
-*Terumbu Pempang
-Laut, May 15*Photo shared by Heng Pei Yan on [facebook](https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1).
 
 ---
 
-*![](lecanora/100617tbtch3m3.jpg)  
-Terumbu Bemban, Jun 10*Photo shared by Toh CHay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl).
 
-*![](lecanora/110422tbmjk2m3.jpg)  
-Terumbu Bemban, Apr 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/04/110422-terumbu-bembanl).
 
-![](lecanora/151225tsmklks8m3.jpg)  
-*Terumbu Semakau, Dec 15*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbul).
 
 ---
 
-![](lecanora/210428slulks9.jpg)  
-*Pulau Salu,
-Apr 21*  
-Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159162468913158&set=a.10159162473618158).
 
-![](lecanora/100131slulks2m3.jpg)  
-*Terumbu Salu,
-Jan 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4351229948/).
 
 ---
 
-![](lecanora/100130brkd8661m3.jpg)  
-*Terumbu Berkas,
-Jan 10*
 
-![](lecanora/100613snglks1m3.jpg)  
-*Pulau Senang,
-Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4719508298/).
 
 ---
 
-![](lecanora/100531bioc4530m3.jpg)  
-*Pulau Biola,
-May 10*
 
-![](lecanora/091231biolks1m3.jpg)  
-*Pulau Biola,
-Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4232346059/in/set-72157623113122338/).
 
-![](lecanora/220201brklks3.jpg)  
-*Pulau Berkas, Feb 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159700480643158&set=a.10159700487188158).
 
 ---
 
@@ -195,7 +201,3 @@ flickr](http://www.flickr.com/photos/koksheng/4232346059/in/set-7215762311312233
 - Gosliner,
   Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Sea Challengers. 314pp.
-
-

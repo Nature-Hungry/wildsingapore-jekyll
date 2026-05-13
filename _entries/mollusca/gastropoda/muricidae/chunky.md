@@ -2,7 +2,7 @@
 title: Chunky drills
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "thais, drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 76, 100, 111, 123]
 family: Muricidae
 genus: Thais
@@ -17,6 +17,44 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Rapaninae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg"
+  caption: |
+    <p>Tuas, Feb 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070201tusg7331m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070506sjig9279m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070506sjig9282m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070812sisd5384m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/091203ubnd5004m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3.jpg"
+  caption: |
+    <p>Chek Jawa, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/080412cjd1331m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/200710mevc9.jpg"
+  caption: |
+    <p>East Coast-Marina East, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811090997945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/201215bsrpvc8.jpg"
+  caption: |
+    <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140894147945&set=a.10158140917142945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/160625tkkis2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jun 16Photo shared by Ian Siah on <a href="https://www.facebook.com/iansiah/media_set?set=a.10153663165622227.1073741921.533257226&type=3">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/chunky/070201tusg7332m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -61,28 +99,17 @@ species of *Thais* commonly seen on our shores have this kind
 of shells. They are difficult to distinguish with certainty in the
 field. On this website, they are grouped by external features for
 convenience of display.
-![](chunky/070201tusg7332m3.jpg)  
-*Tuas, Feb 07*  
-![](chunky/070201tusg7331m3.jpg)  
+{% include img-wrap-group.html items=page.page_images %}
   
 
-![](chunky/070506sjig9279m3.jpg)  
-*St. John's Island, May 07*![](chunky/070506sjig9282m3.jpg)
 
-***![](chunky/070812sisd5384m3.jpg)**  
-*Sisters Island, Aug 07*![](chunky/091203ubnd5004m3.jpg)  
-Pulau Ubin, Dec 09*
 
 **Drill Babies:** Some drills lay
 clusters of bright yellow egg capsules on hard surfaces. The egg capsules turn purple when the free-swimming larvae
 hatch.
 
-![](chunky/080412cjd1331m3.jpg)  
-*Chek Jawa, Apr 08*
 
-![](chunky/080412cjd1331m3a.jpg)
 
-![](chunky/080412cjd1331m3b.jpg)
 
  *\*Species are difficult to positively identify without close examination.  
 On this website, they are grouped by external features for convenience of
@@ -105,15 +132,9 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-**![](chunky/200710mevc9.jpg)**  
-*East Coast-Marina East, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157811090997945&set=a.10157811088932945&type=3&theater).
 
 ---
 
-**![](chunky/201215bsrpvc8.jpg)**  
-*Sentosa Serapong, Dec 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158140894147945&set=a.10158140917142945).
-**![](chunky/160625tkkis2.jpg)**  
-*Pulau Tekukor, Jun 16*Photo shared by Ian Siah on [facebook](https://www.facebook.com/iansiah/media_set?set=a.10153663165622227.1073741921.533257226&type=3).
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

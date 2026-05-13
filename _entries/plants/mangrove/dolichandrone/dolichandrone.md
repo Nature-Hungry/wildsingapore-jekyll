@@ -2,7 +2,7 @@
 title: "Tui "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tui, trumpet, dolichandrone, spathacea, bignoniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [16, 18, 21, 36, 68, 80]
 family: Bignoniaceae
 genus: Dolichandrone
@@ -16,6 +16,39 @@ order: Lamiales
 tribe: Tecomeae
 inat_id: 191683
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg"
+  caption: |
+    <p>Planted</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3c.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/100221sbwrd9570m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7056m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8450m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090328sbwrd8451m3.jpg"
+  caption: |
+    <p>Trumpet shaped flower.</p>
+    <p>Sungei Buloh Wetland Reserve, Mar 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7053m3a.jpg"
+  caption: |
+    <p>Seeds look like wheat biscuits.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6413m3.jpg"
+  caption: |
+    <p>Opened pods.</p>
+    <p>Pulau Ubin, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090214sbwrd7052m3.jpg"
+  caption: |
+    <p>Unopened pod.</p>
+    <p>Sungei Buloh Wetland Reserve, Feb 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/dolichandrone/dolichandrone/090704ubnd6423m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -96,31 +129,16 @@ from the leaves are used to treat mouth infections.  **Status and threats:** It 
 as 'Critically Endangered' on the Red List of threatened plants of
 SIngapore.
 
-*![](dolichandrone/090704ubnd6423m6l.jpg)*Planted
-tree near natural mangroves. *Pulau Ubin, Jul 09**![](dolichandrone/090328sbwrd8450m3c.jpg)  
-Sungei Buloh Wetland Reserve, Mar 09  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](dolichandrone/100221sbwrd9570m3.jpg)**Sungei Buloh Wetland Reserve, Feb 10*
 
-*![](dolichandrone/090214sbwrd7056m3.jpg)  
-Sungei Buloh Wetland Reserve, Feb 09*
 
-*![](dolichandrone/090328sbwrd8450m3.jpg)  
-Sungei Buloh Wetland Reserve, Mar 09*
 
-*![](dolichandrone/090328sbwrd8451m3.jpg)*Trumpet
-shaped flower. *Sungei Buloh Wetland Reserve, Mar 09*
 
 ---
 
-*![](dolichandrone/090214sbwrd7053m3a.jpg)*Seeds
-look like wheat biscuits. *Sungei Buloh Wetland Reserve, Feb 09*
 
-*![](dolichandrone/090704ubnd6413m3.jpg)*Opened
-pods. *Pulau Ubin, Jul 09*
 
-*![](dolichandrone/090214sbwrd7052m3.jpg)*Unopened
-pod. *Sungei Buloh Wetland Reserve, Feb 09*
 
 ---
 

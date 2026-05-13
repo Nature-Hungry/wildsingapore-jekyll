@@ -2,7 +2,7 @@
 title: Peria laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "peria, laut, colubrina, asiatica, rhamnaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 35, 36, 121]
 family: Rhamnaceae
 genus: Colubrina
@@ -15,6 +15,65 @@ class: Magnoliopsida
 order: Rosales
 inat_id: 51593
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg"
+  caption: |
+    <p>Pulau Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg"
+  caption: |
+    <p>Pulau Hanu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg"
+  caption: |
+    <p>Pulau Hanu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 11</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Tan, Hugh T.W.</p>
+    <p>and T.</p>
+    <p>Morgany.</p>
+    <p>2001.</p>
+    <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">Growing the Native Plants of Singapore</a>.</p>
+    <p>BP Science Centre Guidebook.</p>
+    <p>168pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -79,56 +138,22 @@ drunk to alleviate stomach disorders. Medicinal oil is prepared from
 seeds along with other ingredients, which is used to treat rheumatism
 and numbness in adults and also in treating weak legs in children.
 
-*![](asiatica/081206smkd2624m3.jpg)  
-*Pulau Semakau,
-Dec 08*![](asiatica/090412hntd9855m3b.jpg)  
-*Pulau Hantu,
-Apr 09*  
-![](asiatica/090412hntd9855m3.jpg)  
-*Pulau Hantu,
-Apr 09**
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
-![](asiatica/090412hntd9854m6l.jpg)  
-*Pulau Hanu,
-Apr 09*
 
-*![](asiatica/090412hntd9847m3.jpg)  
-*Pulau Hantu,
-Apr 09**
 
-![](asiatica/090412hntd9856m6l.jpg)  
-*Pulau Hanu,
-Apr 09*
 
-*![](asiatica/090412hntd9853m3.jpg)  
-*Pulau Hantu,
-Apr 09**
 
 ---
 
-*![](asiatica/081206smkd2670m3.jpg)  
-*Pulau Semakau,
-Dec 08**
 
-*![](asiatica/090412hntd9857m3.jpg)  
-*Pulau Hantu,
-Apr 09**
 
-*![](asiatica/090412hntd9858m3.jpg)  
-*Pulau Hantu,
-Apr 09**
 
 ---
 
-*![](asiatica/110220lazd6241m3.jpg)  
-*Lazarus Island,
-Feb 11**
 
-*![](asiatica/110220lazd6241m3a.jpg)  
-*Lazarus Island,
-Feb 11**
 
 ---
 
@@ -148,17 +173,6 @@ Feb 11**
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Tan, Hugh
-  T.W. and T. Morgany. 2001. *[Growing
-  the Native Plants of Singapore](http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102)*. BP Science Centre Guidebook.
-  168pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

@@ -2,7 +2,7 @@
 title: Pisang-pisang
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pisang, kandelia, candel, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 120]
 family: Rhizophoraceae
 genus: Kandelia
@@ -15,6 +15,25 @@ class: Magnoliopsida
 order: Malpighiales
 inat_id: 186322
 updated: Jan 2013
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/111015cjd2340m6l.jpg"
+  caption: |
+    <p>Propagule washed up on the shore.</p>
+    <p>Changi, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090529prpd2985m3.jpg"
+  caption: |
+    <p>Pasir Ris, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090529prpd2911m3d.jpg"
+  caption: |
+    <p>Pinkish leaf stlaks, flattened stipule.</p>
+    <p>Pasir Ris, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090529prpd2983m3.jpg"
+  caption: |
+    <p>Pasir Ris, May 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/kandelia/kandelia/090810prpd8958m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,21 +98,10 @@ any real value and it only used for firewood.
 is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore.
 
-*![](kandelia/090810prpd8958m3.jpg)  
-Pasir Ris, Aug 09* *![](kandelia/111015cjd2340m6l.jpg)*Propagule
-washed up on the shore. *Changi, Oct 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](kandelia/090529prpd2985m3.jpg)  
-*Pasir Ris,
-May 09*
 
-![](kandelia/090529prpd2911m3d.jpg)  
-Pinkish leaf stlaks, flattened stipule. *Pasir Ris,
-May 09*
 
-![](kandelia/090529prpd2983m3.jpg)  
-*Pasir Ris,
-May 09*
 
 ---
 

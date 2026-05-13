@@ -2,7 +2,7 @@
 title: Bushy slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "polybranchia, phyllobranchus, phyllobranchillus, orientalis, slug, seaslug, sap, sucking, sacoglossan, polybranchidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 30, 33, 90]
 family: Caliphyllidae
 genus: Polybranchia
@@ -18,6 +18,40 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg"
+  caption: |
+    <p>Out of water, the internal parts can be seen.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3a.jpg"
+  caption: |
+    <p>Branched rhinophores.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050819cjg1522m3.jpg"
+  caption: |
+    <p>Mating?</p>
+    <p>Chek Jawa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/050806skdg0455m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/210528chg7tch3.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159484924213713&set=a.10159484959768713">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/180714cjtch1.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156654587868713&set=a.10156654571338713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/230803skdky3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168620794700112&set=a.10168620780985112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/070714bbmn1.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/808728333/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/130723ecplks.JPG"
+  caption: |
+    <p>East Coast Park, Jul 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24266792294/in/album-72157607719316847/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/polybranchia/110519chgd2177m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -72,19 +106,11 @@ eaten much. On Cyrene Reef, several individuals were seen nestled
 in a large clump of *[Caulerpa
 racemosa](../../../plants/seaweed/chlorophyta/racemosa.htm)*.
 
-![](polybranchia/110519chgd2177m3.jpg)  
-Out of water, the internal parts can be seen. *Changi, May 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](polybranchia/110519chgd2177m3a.jpg)  
-Branched rhinophores.
 
-![](polybranchia/110519chgd2177m3d.jpg)
 
-![](polybranchia/050819cjg1522m3.jpg)  
-Mating? *Chek Jawa, Aug 05*
 
-![](polybranchia/050806skdg0455m3.jpg)  
- *Pulau Sekudu, Aug 05*
 
 ---
 
@@ -103,22 +129,12 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](polybranchia/210528chg7tch3.jpg)  
-*Changi Carpark 7, May 21*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo?fbid=10159484924213713&set=a.10159484959768713).
 
-![](polybranchia/180714cjtch1.jpg)  
-*Chek Jawa, Jul 18*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10156654587868713&set=a.10156654571338713&type=3&theater).
 
-![](polybranchia/230803skdky3.jpg)  
-*Pulau Sekudu, Aug 23*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/photo/?fbid=10168620794700112&set=a.10168620780985112).
 
 ---
 
-![](polybranchia/070714bbmn1.jpg)  
-*Beting Bronok, Jul 07*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/808728333/).
 
-![](polybranchia/130723ecplks.JPG)  
-*East Coast Park, Jul 13*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24266792294/in/album-72157607719316847/).
 
 ---
 

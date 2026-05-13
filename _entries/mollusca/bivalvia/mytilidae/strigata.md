@@ -2,7 +2,7 @@
 title: American mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horse, mussel, clam, modiolus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 attributes: [2, 33, 107]
 family: Mytilidae
 genus: Mytella
@@ -18,6 +18,30 @@ order: Mytilida
 superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: Oct 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg"
+  caption: |
+    <p>Kranji, Mar 17</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300009,jpg.jpg"
+  caption: |
+    <p>Dead ones.</p>
+    <p>Kranji, Jan 18</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/180130krjo1300077.jpg"
+  caption: |
+    <p>Dense carpet on the shore Kranji, Jan 18</p>
+- url: "https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/39982930621/ "Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1.jpg"
+  caption: |
+    <p>Sembawang, Sep 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157705758293660&set=a.10157485864973660">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/200917swgmn1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/201020swgvc4.jpg"
+  caption: |
+    <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158025462192945&set=a.10158025536362945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/strigata/170310krjo3100080.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -51,16 +75,11 @@ seen?** This invasive mussel densely cover large areas of the Johor Strait since
 **Features:** 2-5cm long. The two-part
 shell is oval, smooth, matt. Colours brownish to black. The shell is rather
 triangular. Its byssal threads form a dense mat in which the mussels are embedded close to one another.
-*![](strigata/170310krjo3100080.jpg)  
-Kranji, Mar 17*
-*![](strigata/180130krjo1300009,jpg.jpg)*Dead ones. *Kranji, Jan 18*
+{% include img-wrap-group.html items=page.page_images %}
  
-![](strigata/180130krjo1300077.jpg)  
-Dense carpet on the shore *Kranji, Jan 18*
  
 **How did it reach Singapore?** The study suggests it "may have been transported in ballast water and/or with fouling directly from its native provinces, or spread from the Philippines where there are already established populations of *M. strigata*, possibly since the nineteenth century."   
  **Invader impacts:** A study found that this invasive mussel is displacing the [Green mussel](viridis.htm). The dense mats also prevented horseshoe crabs from burrowing into the ground. The invasive mussels were even seen growing on living horseshoe crabs, weighing them down and making it more difficult for them to move around freely.
-[![Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)](https://live.staticflickr.com/4769/39982930621_8152ba2c57_z.jpg)](https://www.flickr.com/photos/wildsingapore/39982930621/ "Mangrove horseshoe crabs (Carcinoscorpius rotundicauda)")
 
 ---
 
@@ -79,15 +98,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](strigata/200917swgmn1.jpg)  
-Sembawang, Sep 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo?fbid=10157705758293660&set=a.10157485864973660).
-![](strigata/200917swgmn1a.jpg)
  
 
 ---
 
-*![](strigata/201020swgvc4.jpg)  
-Sembawang, Oct 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158025462192945&set=a.10158025536362945).
  
 
 ---

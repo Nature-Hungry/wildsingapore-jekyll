@@ -2,7 +2,7 @@
 title: Tiny spider crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tiny, spider, crab, spider crab, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: ""
 genus: ""
@@ -11,6 +11,26 @@ inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg"
+  caption: |
+    <p>Beting Bronok, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/071001chgd6704m3.jpg"
+  caption: |
+    <p>Changi, Oct 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/081216prpd3536m3.jpg"
+  caption: |
+    <p>Pasir Ris, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/100711cyrd8196m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/060809skdd5567m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 06</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/tiny/030714bbd0009m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -51,24 +71,14 @@ less. Body teardrop-shaped or triangular. The body and spindly walking
 legs often covered with filaments to which tiny bits of rubbish or
 delicate algae are stuck. Pincers short and tiny. Slow moving.
 
-![](tiny/030714bbd0009m3.jpg)  
-*Beting Bronok, Jul 03*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](tiny/030714bbd0009m3a.jpg)
 
-![](tiny/071001chgd6704m3.jpg)  
-*Changi, Oct 07*
 
 ---
 
-![](tiny/081216prpd3536m3.jpg)  
-*Pasir Ris, Dec 08*
 
-![](tiny/100711cyrd8196m3.jpg)  
-*Cyrene Reef, Jul 10*
 
-![](tiny/060809skdd5567m3.jpg)  
-*Pulau Sekudu, Aug 06*
 
   
 *\*Species are difficult

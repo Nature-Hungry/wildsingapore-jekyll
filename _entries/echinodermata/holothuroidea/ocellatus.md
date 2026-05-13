@@ -2,7 +2,7 @@
 title: Eye-spotted sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "eye, spot, cucumber, seacucumber, stichopus, ocellatus, stichopodidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 66, 89, 92]
 family: Stichopodidae
 genus: Stichopus
@@ -16,6 +16,26 @@ class: Holothuroidea
 subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Mar 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3.jpg"
+  caption: |
+    <p>White bump with dark tip</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0385m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3.jpg"
+  caption: |
+    <p>Tube feet in three rows on the flat underside.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0383m3b.jpg"
+  caption: |
+    <p>Slender tube feet.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/220201brktch1.jpg"
+  caption: |
+    <p>Pulau Berkas, Feb 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972842108713&set=a.10159972857263713">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/ocellatus/080321smkd0381m3.jpg"
 ---
 
 
@@ -52,19 +72,11 @@ cucumbers harvested for food.
 is listed as 'Vulnerable' on the Red List of threatened animals of
 Singapore.
 
-![](ocellatus/080321smkd0381m3.jpg)  
-*Pulau Semakau, Mar 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ocellatus/080321smkd0385m3.jpg)  
-White bump with dark tip
 
-![](ocellatus/080321smkd0385m3a.jpg)
 
-![](ocellatus/080321smkd0383m3.jpg)  
-Tube feet in three rows on the flat underside.
 
-![](ocellatus/080321smkd0383m3b.jpg)  
-Slender tube feet.
 
 ---
 
@@ -83,9 +95,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](ocellatus/220201brktch1.jpg)  
-Pulau Berkas, Feb 21*Photo
-shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159972842108713&set=a.10159972857263713).
 
 ---
 
@@ -105,5 +114,3 @@ shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo/?fbid=10159
   J.W. and Didier Vandenspiegel. 2003*. A
   Guide to Sea Stars and Other Echinoderms of Singapore*.
   Singapore Science Centre. 187pp.
-
-

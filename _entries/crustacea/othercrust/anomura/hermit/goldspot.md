@@ -2,7 +2,7 @@
 title: Gold-spotted hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "gold, spot, hermit, crab, clibanarius, cruentatus, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 54]
 family: Diogenidae
 genus: Clibanarius
@@ -21,6 +21,23 @@ suborder: Pleocyemata
 infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/101221tmfts02215m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/110903sntmn.jpg"
+  caption: |
+    <p>Sentosa, Sep 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6111477864/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/250909lazky1.jpg"
+  caption: |
+    <p>Seringat Kias, Sep 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173053859530112&type=3&ref=embed_post">facebook</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/040619sntd0568m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -68,13 +85,9 @@ bright blue with orange feathery tip. Long antennae orange.
   
 More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
-*![](goldspot/040619sntd0568m3.jpg)  
-Sentosa, Jun 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](goldspot/101221tmfts02215m3.jpg)  
-Tanah Merah, Dec 10*
 
-*![](goldspot/101221tmfts02215m3b.jpg)*
 
   
 *\*Species are
@@ -99,11 +112,7 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](goldspot/110903sntmn.jpg)  
-Sentosa, Sep 11*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/6111477864/).
 
-*![](goldspot/250909lazky1.jpg)  
-Seringat Kias, Sep 25*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10173053859530112&type=3&ref=embed_post)
  
 
 ---

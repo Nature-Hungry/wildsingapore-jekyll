@@ -2,7 +2,7 @@
 title: Seashore bat lily
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 53]
 family: Taccaceae
 genus: Tacca
@@ -15,6 +15,49 @@ class: Liliopsida
 order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg"
+  caption: |
+    <p>Grows in shady spots under coastal forest trees near the shoreline.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg"
+  caption: |
+    <p>Fruits.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg"
+  caption: |
+    <p>Flower cluster with 'whiskers'.</p>
+    <p>Pulau Semakau, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg"
+  caption: |
+    <p>Flower cluster with 'whiskers'.</p>
+    <p>Pulau Semakau, May 10</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Singapore University Press.</p>
+    <p>215 pp.</p>
+    <p>- Davison, G.W.</p>
+    <p>H.</p>
+    <p>and P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>Ng and Ho Hua Chew, 2008.</p>
+    <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
+    <p>Nature Society (Singapore).</p>
+    <p>285 pp.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -79,20 +122,11 @@ plants of Singapore. It is mainly threatened by the loss of its preferred
 habitats of undisturbed coastal forest. Even in the past only recorded
 from Pulau Semakau and Pulau Senang.
 
-*![](leontopetaloides/110820smkd9675m6l.jpg)  
-Pulau Semakau, Aug 11  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](leontopetaloides/081206smkd2502m3.jpg)*Grows
-in shady spots under   
-coastal forest trees near the shoreline. **Pulau Semakau, Dec 08**
 
-*![](leontopetaloides/081206smkd2488m3.jpg)*Fruits. *Pulau Semakau, Dec 08*
 
-*![](leontopetaloides/081206smkd2489m3.jpg)*Flower
-cluster with 'whiskers'. *Pulau Semakau, Dec 08*
 
-*![](leontopetaloides/051018smkg2756m3.jpg)*Flower
-cluster with 'whiskers'. *Pulau Semakau, May 10*
 
 ---
 
@@ -121,17 +155,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan.1998, *[The
-  Concise Flora of Singapore II: Monoctyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Monocotyledons%2Fdp%2F9971692074%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Singapore University Press. 215 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

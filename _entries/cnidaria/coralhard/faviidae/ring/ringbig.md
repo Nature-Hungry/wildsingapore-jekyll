@@ -2,7 +2,7 @@
 title: Big ring  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "coral, hard, scleractinia, cnidaria, faviidae, merulinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Faviidae
 genus: ""
 species: ""
@@ -15,6 +15,90 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg"
+  caption: |
+    <p>Pulau Hantu, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6033m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3c.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3a.jpg"
+  caption: |
+    <p>Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5576m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5578m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/101010scyrc7856m3.jpg"
+  caption: |
+    <p>South Cyrene, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100530tbkd4264m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/040507rlhad0010m3.jpg"
+  caption: |
+    <p>Raffles Lighthouse, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091205sudd5602m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4789m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4961m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5318m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5319m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg"
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -64,29 +148,14 @@ patterns include: *Barabattoia, Favia, Favites* and *Montastrea* species. It's h
 small features and they are grouped here by large external features
 for convenience of display.
 
-![](ringbig/050509hntg6032m3.jpg)  
-*Pulau Hantu,
-May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ringbig/050509hntg6032m3c.jpg)
 
-![](ringbig/050509hntg6033m3b.jpg)
 
 ---
 
-![](ringbig/060402ulrd1209m3.jpg)  
-*Pulau
-Hantu, Apr 06  
-![](ringbig/060402ulrd1209m3c.jpg)*Bleaching.
 
-![](ringbig/100617tbd6294m3.jpg)  
-*Terumbu
-Bemban, Jun 10  
-![](ringbig/100617tbd6294m3a.jpg)*Bleaching.
 
-![](ringbig/050807sjid5576m3.jpg)  
-*St. John's
-Island, Aug 05*![](ringbig/050807sjid5578m3b.jpg)
 
   
 *\*Species are difficult
@@ -111,65 +180,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ringbig/101010scyrc7856m3.jpg)  
-*South
-Cyrene, Oct 10*
 
-*![](ringbig/100530tbkd4264m3.jpg)  
-Pulau
-Berkas, May 10*
 
-![](ringbig/040507rlhad0010m3.jpg)  
-*Raffles
-Lighthouse, May 04*
 
 ---
 
-![](ringbig/091205sudd5602m3.jpg)  
-*Pulau
-Sudong, Dec 09*
 
-*![](ringbig/100601slud4789m3.jpg)  
-Pulau
-Salu, Jun 10*
 
-*![](ringbig/100601slud4961m3.jpg)  
-Pulau
-Salu, Jun 10*
 
 ---
 
-![](ringbig/100130brkd8610m3.jpg)  
-*Terumbu
-Berkas, Jan 10  
-![](ringbig/100130brkd8610m3a.jpg)*
 
-![](ringbig/100130brkd8612m3.jpg)  
-*Terumbu
-Berkas, Jan 10  
-![](ringbig/100130brkd8612m3a.jpg)*
 
-![](ringbig/100131slud8835m3.jpg)  
-*Terumbu
-Salu, Jan 10  
-![](ringbig/100131slud8835m3a.jpg)*
 
 ---
 
-![](ringbig/091204pawd5318m3.jpg)  
-*Pulau
-Pawai, Dec 09  
-![](ringbig/091204pawd5319m3.jpg)*
 
-![](ringbig/100131slud8885m3.jpg)  
-*Terumbu
-Salu, Jan 10  
-![](ringbig/100131slud8885m3a.jpg)*
 
-![](ringbig/100811slud0134m3.jpg)  
-*Pulau
-Salu, Aug 10  
-![](ringbig/100811slud0134m3a.jpg)*
 
 [links](../../../../links.htm)
 | [references](../../../../references.htm)

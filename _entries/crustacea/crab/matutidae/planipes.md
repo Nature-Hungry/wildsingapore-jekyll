@@ -2,7 +2,7 @@
 title: "Flower moon crab "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "reticulated, moon, crab, matuta, planipes, matutidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 69, 106, 112]
 family: Matutidae
 genus: Matuta
@@ -23,6 +23,17 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg"
+  caption: |
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050511cftd3257m3.jpg"
+  caption: |
+    <p>Changi, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/080706chg7404m3.jpg"
+  caption: |
+    <p>Changi, Jul 08</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/matutidae/planipes/050818cftg1360m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -66,14 +77,9 @@ body to form a somewhat box-like shape. All walking legs end in paddle-shaped
 tips and used to skim along the sea bottom and also like spades to
 rapidly burrow into the sand. Legs are bright yellow on the upper
 part with bluish or dark markings near the paddle-shaped ends.
-*![](planipes/050818cftg1360m3.jpg)  
-Changi, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](planipes/050511cftd3257m3.jpg)  
-Changi, May 05*
 
-*![](planipes/080706chg7404m3.jpg)  
-Changi, Jul 08*
 
 ---
 

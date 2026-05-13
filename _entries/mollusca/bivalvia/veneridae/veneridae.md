@@ -2,7 +2,7 @@
 title: Venus clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Veneridae
 genus: ""
 species: ""
@@ -19,6 +19,44 @@ superorder: Imparidentia
 order: Venerida
 superfamily: Veneroidea
 updated: May 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
+  caption: |
+    <p>Venus clams being harvested.</p>
+    <p>Pulau Sekudu, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg"
+  caption: |
+    <p>Half buried under a stone.</p>
+    <p>Chek Jawa, Sep 02</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg"
+  caption: |
+    <p>Siphon sticking out.</p>
+    <p>Changi, Feb 02 Human uses: Many of the commercially important clams are venus clams.</p>
+    <p>Some are also used as fish bait.</p>
+    <p>Venus clams are among the favourite seafood of people everywhere.</p>
+    <p>Like other filter-feeding clams, however, venus clams may be affected by <a href="../../../plants/seaweed/redtide.htm">red tide and other harmful algal blooms</a>.</p>
+    <p>Such clams can then be harmful to eat.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
+  caption: |
+    <p><a href="forked.htm">Forked venus clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg"
+  caption: |
+    <p><a href="scripta.htm">Script venus clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg"
+  caption: |
+    <p><a href="bean.htm">Bean-shaped venus clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
+  caption: |
+    <p><a href="ribbed.htm">Ribbed venus clam</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
+  caption: |
+    <p><a href="white.htm">White venus clam</a></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,19 +115,7 @@ Clams in this and related families, have a
 folded gill structure that is well developed for filtering out tiny
 food particles. The Gladys Archerd Shell Collection website has a [drawing
 of this complex filter](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Venus_Gilll.html).   
-![](forked/030717skdd0098m3.jpg)  
-Venus clams being harvested.  
-*Pulau Sekudu, Jul 03*
-![](forked/020908cjd5785m3.jpg)  
-Half buried under a stone. *Chek Jawa, Sep 02*
-![](others/020227chgd7581m3.jpg)  
-Siphon sticking out. *Changi, Feb 02* 
-**Human uses:** Many of the commercially
-important clams are venus clams. Some are also used as fish bait.
-Venus clams are among the favourite seafood of people everywhere.
-Like other filter-feeding clams, however, venus clams may be affected
-by [red tide and other
-harmful algal blooms](../../../plants/seaweed/redtide.htm). Such clams can then be harmful to eat.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Status and threats:** None of our
 venus clams are listed among the threatened animals of Singapore.
@@ -105,22 +131,12 @@ clams on Singapore shores**
 
 ---
 
-**![](forked/070323skdg8233m3.jpg)  
-[Forked venus clam](forked.htm)**
 
-**![](scripta/090510hntd1230m3.jpg)  
-[Script venus clam](scripta.htm)**
 
 ---
 
-**![](bean/060612cftd2894m3.jpg)  
-[Bean-shaped venus clam](bean.htm)**
 
-**![](ribbed/070204hntg7547m3.jpg)  
-[Ribbed venus clam](ribbed.htm)**
 
-***![](white/070323skdg8230m3.jpg)*  
-[White venus clam](white.htm)**
 
 ---
 
@@ -277,8 +293,6 @@ on EOL's Life Desk for identifying some of the Venus clams.
   National Council on the Environment. 163pp.
 - Ng, P. K.
   L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

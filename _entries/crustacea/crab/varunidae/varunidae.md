@@ -2,7 +2,7 @@
 title: "Varunid crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "paddler, crab, varunidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Varunidae
 genus: ""
 species: ""
@@ -23,6 +23,14 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
+  caption: |
+    <p><a href="metaplax">Orange signaller crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg"
+  caption: |
+    <p><a href="varuna">Paddler crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,9 +75,7 @@ crabs on Singapore shores**
 
 ---
 
-***![](metaplax/130202mndd3914m3.jpg)*****[Orange signaller
-crab](metaplax)**
-***![](varuna/070604chgg0129m3.jpg)*****[Paddler crab](varuna)**
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Cat's tail red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "feathery, red, seaweed, weed, algae, asparagopsis, taxiformis, bonnemaisoniaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Bonnemaisoniaceae
 genus: Asparagopsis
@@ -17,6 +17,20 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Bonnemaisoniales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg"
+  caption: |
+    <p>Sentosa, Mar 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050410kusd2187m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050410kusd2187m3.jpg"
+  caption: |
+    <p>Kusu Island, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/catstail/050329sntg3861m3a.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -66,15 +80,10 @@ Human uses: It is used as animal feed, fertiliser and human food.
 It is also reported to have antibacterial and antibiotic properties,
 and to be used to treat livestock diseases.
 
-*![](catstail/050329sntg3861m3a.jpg)  
-Sentosa, Mar 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](catstail/050410kusd2187m3a.jpg)*
 
-*![](catstail/050410kusd2187m3.jpg)  
-Kusu Island, Apr 05*
 
-*![](catstail/050329sntg3861m3b.jpg)*
 
   
 *\*Seaweed species are

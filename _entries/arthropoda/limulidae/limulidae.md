@@ -2,7 +2,7 @@
 title: "Horseshoe crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Limulidae
 genus: ""
 species: ""
@@ -15,6 +15,80 @@ subphylum: Chelicerata
 class: Merostomata
 order: Xiphosurida
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
+  caption: |
+    <p>Often seen in a pair, the smaller male on top and behind the larger female.</p>
+    <p>Pulau Sarimbun, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg"
+  caption: |
+    <p>Using its tail to flip over to the right side.</p>
+    <p>Note the white slipper snails stuck on the underside.</p>
+    <p>Chek Jawa, Aug 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg"
+  caption: |
+    <p>Often entangled in abandoned drift nets.</p>
+    <p>Changi, Oct 07 # Horsing around Horseshoes mate during high spring tides when they can reach the highest part of the beach.</p>
+    <p>The males are smaller and usually hitch a ride on the females using their specially adapted hooked first legs.</p>
+    <p>Sometimes several males latch onto each other forming a chain on a female.</p>
+    <p>The female digs a pit near the high water mark and lays about 200-300 eggs.</p>
+    <p>The males release sperm over the eggs and the nest is covered.</p>
+    <p>They may come back again at the next high tide and a female may lay a total of 2,000-30,000 eggs.</p>
+    <p>In the US, migrating birds time their arrival to feed on this bonanza of horseshoe crab eggs.</p>
+    <p>Eggs hatch at the next full moon when the tide is at its highest again.</p>
+    <p>The hatchlings (called trilobite larvae) look like miniature adults but without tails, and are bright green!</p>
+    <p>The larvae burrow into the sand and after a few moults begins to develop tails.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg"
+  caption: |
+    <p>Males have modified front legs to hold on to the female.</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3a.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
+  caption: |
+    <p>Juvenile horseshoe crab.</p>
+    <p>Kranji, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110410mndd09563m3.jpg"
+  caption: |
+    <p>Horseshoe crab eggs seen in sand.</p>
+    <p>Mandai, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
 ---
 
 arthropods
@@ -72,27 +146,10 @@ A horseshoe crab has a lot of eyes! It has a pair of compound eyes at the top of
 # In a Tailspin
 The sharp tail of the horseshoe crab is is connected to the body in a ball-and-socket joint so it is very mobile. The tail is not venomous and is not used as a weapon. It is merely used as a lever to right itself if it is overturned. If you see an upside down horseshoe crab struggling with its tail waving around, do give it a helping hand. It will not hurt you. The tail (called a telson or caudal spike) is also used as a rudder when moving underwater. If a horseshoe loses its tail, it is doomed. So please be gentle with its tail and don't dangle a horseshoe crab by its tail.
 
-![](tachypleus/050527srbg6987m3.jpg)  
-Often seen in a pair, the smaller male on top and behind the larger female. *Pulau Sarimbun, May 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](carcinoscopius/070803cjg1768m3.jpg)*
-Using its tail to flip over to the right side. Note the white slipper snails stuck on the underside. *Chek Jawa, Aug 07*
 
-![](tachypleus/071002chgd6891m3.jpg)  
-Often entangled in abandoned drift nets. *Changi, Oct 07*
-# Horsing around
-Horseshoes mate
-during high spring tides when they can reach the highest part of the beach. The males are smaller and usually hitch a ride on the females using their specially adapted hooked first legs. Sometimes several males latch onto each other forming a chain on a female. The female digs a pit near the high water mark and lays about 200-300 eggs. The males release sperm over the eggs and the nest is covered. They may come back again at the next high tide and a female may lay a total of 2,000-30,000 eggs. In the US, migrating birds time their arrival to feed on this bonanza of horseshoe crab eggs. Eggs hatch at the next full moon when the tide is at its highest again. The hatchlings (called trilobite larvae) look like miniature adults but without tails, and are bright green! The larvae burrow into the sand and after a few moults begins to develop tails.
 
-![](carcinoscopius/110320cjs07483m3.jpg)  
-Males have modified front legs to hold on to the female.  
-![](carcinoscopius/110320cjs07483m3a.jpg) Chek Jawa, Mar 11
-![](carcinoscopius/110320cjs07484m3.jpg)  
-Females don't have modified front legs.*![](carcinoscopius/110320cjs07484m3a.jpg) Chek Jawa, Mar 11*
-![](carcinoscopius/060627krjd3660m3.jpg)  
-Juvenile horseshoe crab.  *Kranji, Jun 08*  
-![](carcinoscopius/110410mndd09563m3.jpg)  
-Horseshoe crab eggs seen in sand. *Mandai, Apr 11* 
 
 # Role in the habitat
 Like other scavengers, horseshoe crabs help keep the place clear of dead animals. Although the adults have few natural predators (apparently, only sharks and turtles will eat adults), their eggs and hatchlings are eaten by many creatures. Various creatures may settle on a horseshoe crab including [slipper snails](../../mollusca/gastropoda/calyptraeidae/calyptraeidae), [barnacles](../../crustacea/othercrust/ciriipedia/cirripedia), [keelworms](../../worm/polychaeta/serpulidae) and other encrusting plants and animals.  
@@ -116,9 +173,7 @@ Horseshoe crab populations are vulnerable to overharvesting because they reprodu
 
 # Horseshoe crabs on Singapore shores
 
-*![](carcinoscopius/050726chgg0358m3.jpg)*
 
-![](tachypleus/090428chgd0767m3e.jpg)
 
 (*Carcinoscorpius rotundicauda*)
 **[Mangrove horseshoe crab](carcinoscorpius)**  
@@ -126,17 +181,13 @@ Horseshoe crab populations are vulnerable to overharvesting because they reprodu
 **[Coastal horseshoe crab](tachypleus)**  
 (*Tachypleus gigas*)
 
-*![](carcinoscopius/050726chgg0358m3a.jpg)*
 
-![](tachypleus/090428chgd0767m3b.jpg)
 
 Spines on the side of the body shorter.
 
 Spines on the side of the body longer.
 
-*![](carcinoscopius/050726chgg0361m3a.jpg)*
 
-![](tachypleus/071002chgd6898m3b.jpg)
 
 Tail near the body is circular in cross-section,   
 smooth on the upperside.
@@ -144,17 +195,13 @@ smooth on the upperside.
 Tail near the body is triangular in cross-section  
 with serrated edge on the upperside.
 
-*![](carcinoscopius/050726chgg0358m3b.jpg)*
 
-![](tachypleus/090428chgd0767m3a.jpg)
 
 Tail without a groove on the underside.
 
 Tail with a groove on the underside near the body.
 
-*![](carcinoscopius/050726chgg0358m3d.jpg)*
 
-![](tachypleus/090428chgd0767m3d.jpg)
 
 Male's special legs for holding onto the female  
 has two 'fingers'.

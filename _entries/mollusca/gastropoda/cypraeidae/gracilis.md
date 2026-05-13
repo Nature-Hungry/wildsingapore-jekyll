@@ -2,7 +2,7 @@
 title: "Graceful cowrie "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "graceful, cowrie, cypraeidae, purpuradusta, cypraea, gracilis, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [23, 33, 71, 100, 111, 123, 127]
 family: Cypraeidea
 genus: Purpuradusta
@@ -18,6 +18,41 @@ superfamily: Cypraeoidea
 subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9936m6l.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140614cjlks3.JPG"
+  caption: |
+    <p>Chek Jawa, Jun 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24611992190/in/album-72157607712316054/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/091206ubnjk.JPG"
+  caption: |
+    <p>Pulau Ubin, Dec 09 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4168441061/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140419chglks2.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140419chglks3.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13908676076/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chglks1.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chglks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24278918014/in/album-72157607622389163/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks1.JPG"
+  caption: |
+    <p>Pulau Sekudu, Jun 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140613skdlks2.JPG"
+  caption: |
+    <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25409482372/in/album-72157607907125005/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/210628ecpBvc6.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557374617945&set=a.10158557647212945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9864m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -57,10 +92,7 @@ pear-shaped, bluish-grey with irregular
 brownish speckles or small darkish brown blotches or dark brown broken
 bars. Dark brown blotches at both the front and back ends. Underside white brown spots, without
 coloured 'teeth'. The living animal has a dark brown or reddish mantle with sparse short white 'hairs'.
-![](gracilis/130722skdd9864m3.jpg)  
-*Pulau Sekudu, Aug 13*
-![](gracilis/130722skdd9936m6l.jpg)  
- *Pulau Sekudu, Aug 13*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -79,34 +111,15 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](gracilis/140614cjlks3.JPG)  
- *Chek Jawa, Jun 14*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24611992190/in/album-72157607712316054/).
 
-![](gracilis/091206ubnjk.JPG)  
- *Pulau Ubin, Dec 09*  
-Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4168441061/).
 
 ---
 
-![](gracilis/140419chglks2.JPG)  
-*Changi, Jan 14*![](gracilis/140419chglks3.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/13908676076/in/album-72157607622389163/).
 
-![](gracilis/140812chglks1.JPG)  
-*Changi, Aug 14*![](gracilis/140812chglks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24278918014/in/album-72157607622389163/).
 
-![](gracilis/140613skdlks1.JPG)  
- *Pulau Sekudu, Jun 14*  
-![](gracilis/140613skdlks2.JPG)  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/25409482372/in/album-72157607907125005/).
 
 ---
 
-![](gracilis/210628ecpBvc6.jpg)  
-*East Coast Park (B), Jun 21*   
-Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158557374617945&set=a.10158557647212945).
 
 ---
 

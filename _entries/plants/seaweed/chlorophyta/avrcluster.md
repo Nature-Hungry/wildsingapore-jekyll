@@ -2,7 +2,7 @@
 title: Clustered fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "clustered, stiff, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Avrainvillea
@@ -15,6 +15,23 @@ phylum: Chlorophyta
 class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/100401labd0407m3b.jpg"
+  caption: |
+    <p>Labrador, Apr 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/110517tptd1640m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/091204pawd5208m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -63,21 +80,10 @@ there are more than 30 current *Avrainvillea* species.
 fan-shaped green seaweeds. Here's more on [how
 to tell apart fan-shaped green seaweeds](cffan).  
 
-*![](avrcluster/050610sntd3928m3.jpg)  
-Sentosa, Jun 05  
-![](avrcluster/050610sntd3928m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](avrcluster/100401labd0407m3b.jpg)  
-*Labrador,
-Apr 10*
 
-![](avrcluster/110517tptd1640m3.jpg)  
-*Terumbu Pempang
-Tengah, May 11*
 
-![](avrcluster/091204pawd5208m3.jpg)  
-*Pulau Pawai,
-Dec 09*
 
  *\*Species
 are difficult to positively identify without close examination.   

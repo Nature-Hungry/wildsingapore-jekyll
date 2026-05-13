@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "blue, encrusting, prickly, sponge, porifera, field, guide, seashore, sea,"
-layout: default
+layout: entry
 shape: encrusting
 title: Blue encrusting prickly sponge
 family: " updated Oct 2016"
@@ -9,6 +9,59 @@ genus: ""
 species: identification*
 attributes: []
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070317sntg8092m3.jpg"
+  caption: |
+    <p>Sentosa, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070420sntd0190m3.jpg"
+  caption: |
+    <p>Sentosa, Apr 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070420sntd0190m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070317sntg8092m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/040817sntd4667m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/040817sntd4667m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/080208hntd9549m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/080208hntd9549m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/100811slud0110m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/100811slud0110m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/160313trymn2.jpg"
+  caption: |
+    <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/100130brkd8607m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/091205sudd5558m3a.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/091204pawd5218m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Sep 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/091204pawd5218m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/091231biojk11m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/091231biojk11m3a.jpg"
+  caption: |
+    <p>Photo shared by Jamed Koh on <a href="http://www.flickr.com/photos/37823682@N04/4230876989/in/set-72157622842029671/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/encrustpricklyblue/070317sntg8092m3.jpg"
 ---
 
 
@@ -34,26 +87,15 @@ sprinkled on the surface. Colours greyish blue to bright blue.
 Are these young [Silvery blue sponges](spatula.htm) (*Lamellodysidea
 herbacea*) that have yet to develop protruding portions?
 
-![](encrustpricklyblue/070317sntg8092m3.jpg)  
-*Sentosa, Mar 07*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](encrustpricklyblue/070420sntd0190m3.jpg)  
-*Sentosa, Apr 07*
 
-![](encrustpricklyblue/070420sntd0190m3a.jpg)
 
-![](encrustpricklyblue/070317sntg8092m3a.jpg)
 
 ---
 
-![](encrustpricklyblue/040817sntd4667m3.jpg)  
-*Sentosa, Aug 04*![](encrustpricklyblue/040817sntd4667m3c.jpg)
 
-![](encrustpricklyblue/080208hntd9549m3.jpg)  
-*Pulau Hantu, Feb 08*![](encrustpricklyblue/080208hntd9549m3a.jpg)
 
-![](encrustpricklyblue/100811slud0110m3a.jpg)  
-*Pulau Salu, Aug 10*![](encrustpricklyblue/100811slud0110m3b.jpg)
 
   
  *\*Species are difficult to positively identify without close examination.   
@@ -78,25 +120,12 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](encrustpricklyblue/160313trymn2.jpg)  
-*Terumbu Raya, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3).
 
-![](encrustpricklyblue/100130brkd8607m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](encrustpricklyblue/091205sudd5558m3a.jpg)  
-*Pulau Sudong, Dec 09*
 
 ---
 
-![](encrustpricklyblue/091204pawd5218m3.jpg)  
-*Pulau Pawai, Sep 12  
-![](encrustpricklyblue/091204pawd5218m3a.jpg)*
 
-![](encrustpricklyblue/091231biojk11m3.jpg)  
-*Pulau Biola, Dec 09*![](encrustpricklyblue/091231biojk11m3a.jpg)  
-Photo shared by Jamed Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4230876989/in/set-72157622842029671/).
 
 [links](../links.htm)
 | [references](../references.htm)

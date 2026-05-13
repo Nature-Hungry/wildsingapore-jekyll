@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,"
-layout: default
+layout: entry
 shape: ball
 title: Golf ball sponge
 family: Tetillidae
@@ -17,6 +17,82 @@ subclass: Heteroscleromorpha
 order: Tetractinellida
 suborder: Spirophorina
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/090412hntd9690m3.jpg"
+  caption: |
+    <p>Regular circular indentations makes it resemble a golf ball.</p>
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070101cjd7268m3.jpg"
+  caption: |
+    <p>Possibly a dead golfball sponge?</p>
+    <p>Chek Jawa, Jan 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3b.jpg"
+  caption: |
+    <p>Broken ones reveal the yellow radiating internal skeleton.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3a.jpg"
+  caption: |
+    <p>Tiny blobs at the filament tips: buds that fall off to become new sponges?</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/201117labrk1.jpg"
+  caption: |
+    <p>Labrador, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158655116427906&set=a.10158655096007906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/210822ssisvc6.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648326562945&set=a.10158648464857945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091231biod6937m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091205pawlks9m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166011664/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8647m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8786m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8863m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4815m3b.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100530tbkd4301m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4704m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg"
 ---
 
 
@@ -60,32 +136,15 @@ sponge](ballprickly.htm) which has fewer fine spines sometimes with bulbous tips
 and anchored to the surface with stringy tissues. Golf ball sponges
 lack these bulbous tips and stringy anchors.
 
-![](golfball/120123hntd5473m3.jpg)  
-*Pulau Hantu, Jan 12*![](golfball/120123hntd5473m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](golfball/090412hntd9690m3.jpg)  
-Regular circular indentations makes  
-it resemble a golf ball. *Pulau Hantu, Apr 09*
 
-![](golfball/070101cjd7268m3.jpg)  
-Possibly a dead golfball sponge? *Chek Jawa, Jan 07*
 
-![](golfball/120123hntd5473m3b.jpg)
 
 ---
 
-![](golfball/070804smkg1884m3.jpg)  
-*Pulau Semakau, Aug 07*![](golfball/070804smkg1884m3b.jpg)  
-Broken ones reveal the yellow   
-radiating internal skeleton.
 
-![](golfball/100908chgd0646m3.jpg)  
-*Changi, Sep 10*![](golfball/100908chgd0646m3a.jpg)
 
-![](golfball/121216ubnd2603m3.jpg)  
-*Pulau Ubin, Dec 12*![](golfball/121216ubnd2603m3a.jpg)  
-Tiny blobs at the filament tips:  
-buds that fall off to become new sponges?
 
   
 *\*Sponge
@@ -111,51 +170,26 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](golfball/201117labrk1.jpg)  
-*Labrador, Nov 20*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158655116427906&set=a.10158655096007906).
 
-![](golfball/210822ssisvc6.jpg)  
-*Small Sisters Island, Aug 21*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158648326562945&set=a.10158648464857945).
 
 ---
 
-![](golfball/100130brkd8709m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
-![](golfball/100130brkd8709m3a.jpg)
 
-![](golfball/100130brkd8709m3b.jpg)
 
 ---
 
-![](golfball/091231biod6937m3.jpg)  
-*Pulau Biola, Dec 09*
 
-![](golfball/091205pawlks9m3.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4166011664/).
 
-![](golfball/100130brkd8647m3.jpg)  
-*Terumbu Berkas, Jan 10*
 
 ---
 
-![](golfball/100131slud8786m3.jpg)  
-*Terumbu Salu, Jan 10*
 
-![](golfball/100131slud8863m3.jpg)  
-*Terumbu Salu, Jan 10*
 
 ---
 
-![](golfball/100601slud4815m3b.jpg)  
-*Pulau Salu, Jun 10*
 
-![](golfball/100530tbkd4301m3.jpg)  
-*Pulau Berkas, May 10*
 
-![](golfball/100601slud4704m3.jpg)  
-*Pulau Salu, Jun 10*
 
 ---
 

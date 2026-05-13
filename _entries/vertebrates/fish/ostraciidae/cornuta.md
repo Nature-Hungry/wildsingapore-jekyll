@@ -2,7 +2,7 @@
 title: "Longhorn cowfish "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "longhorn, cow, cowfish, fish, lactoria, cornuta, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [11, 25, 47, 85]
 family: Ostraciidae
 genus: Lactoria
@@ -17,6 +17,57 @@ superorder: Acanthomorpha
 order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m6l.jpg"
+  caption: |
+    <p>Cyrene, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/090512tmftd1497m6l.jpg"
+  caption: |
+    <p>Tanah Merah, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/sbr.JPG"
+  caption: |
+    <p>Juvenile.</p>
+    <p>Tuas, Apr 17Photo from Singapore Biodiversity Records 2017:97</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170530chg7lks.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Lok Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/posts/10155355716013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210528chg7lks1.jpg"
+  caption: |
+    <p>Changi Carpark 7, May 21Photo shared by Lok Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159231444518158&set=a.10159231448318158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/240821skdky1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169911572970112&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/170501tsmktch4.jpg"
+  caption: |
+    <p>Terumbu Semakau, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210228lazjll1.jpg"
+  caption: |
+    <p>Lazarus Island, Feb 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158106043786295&set=a.10158106040091295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100725hntlks3m6l.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/having-hell-of-time-at-hantu.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/131104smkmn.jpg"
+  caption: |
+    <p>Pulau Semakau, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/10718402196/in/album-72157637303861923/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/100713cyrtch4m6l.jpg"
+  caption: |
+    <p>Cyrene Reef, Jul 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.html">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/210823smkerk1.jpg"
+  caption: |
+    <p>Pulau Semakau East, Aug 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159292630162906&set=a.10159292625007906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/200627cyrlks6.jpg"
+  caption: |
+    <p>Cyrene, Jun 20Photo shared by Lok Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405641328158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/180419cycw1.jpg"
+  caption: |
+    <p>Cyrene Reef, Apr 18Photo shared by Chris Wong on <a href="https://www.facebook.com/photo.php?fbid=10156427179423395&set=a.10156427177813395&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110731trylks4m3.jpg"
+  caption: |
+    <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-raya.html">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/110601tmnbd3304m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,17 +116,10 @@ of the bottom, back end of the fish. The tail fin is very long, sometimes
 almost as long as the body. Colours green, olive to yellowish, with
 dark blotches and tiny blue spots.
 
-![](cornuta/110601tmnbd3304m3.jpg)  
-*Tanah Merah, Aug 06*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](cornuta/080606cyrd5195m6l.jpg)  
-*Cyrene, Jun 08*
 
-![](cornuta/090512tmftd1497m6l.jpg)  
- *Tanah Merah, May 09*
 
-![](cornuta/sbr.JPG)  
-Juvenile. *Tuas, Apr 17*Photo from Singapore Biodiversity Records 2017:97
 
 **Baby cowfish:** Juveniles lack the horns in the front and back.  
  **What does it eat?** It feeds on
@@ -103,54 +147,27 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](cornuta/170530chg7lks.jpg)  
- *Changi, May 17*Photo shared by Lok Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/posts/10155355716013158).
 
-![](cornuta/210528chg7lks1.jpg)  
- *Changi Carpark 7, May 21*Photo shared by Lok Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159231444518158&set=a.10159231448318158).
 
 ---
 
-![](cornuta/240821skdky1.jpg)  
- *Pulau Sekudu, Aug 24*Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169911572970112&type=3&ref=embed_post).
 
 ---
 
-![](cornuta/170501tsmktch4.jpg)  
- *Terumbu Semakau, May 17*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3)..
 
-![](cornuta/210228lazjll1.jpg)  
- *Lazarus Island, Feb 21*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10158106043786295&set=a.10158106040091295).
 
 ---
 
-![](cornuta/100725hntlks3m6l.jpg)  
-*Pulau Hantu, Jul 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/07/having-hell-of-time-at-hantu.html).
 
-![](cornuta/131104smkmn.jpg)  
-*Pulau Semakau, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/10718402196/in/album-72157637303861923/).
 
-![](cornuta/100713cyrtch4m6l.jpg)  
-*Cyrene Reef, Jul 10*Photo shared by Toh Chay Hoon on [her
-blog](http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-again.html).
 
 ---
 
-![](cornuta/210823smkerk1.jpg)  
-*Pulau Semakau East, Aug 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10159292630162906&set=a.10159292625007906).
 
-![](cornuta/200627cyrlks6.jpg)  
- *Cyrene, Jun 20*Photo shared by Lok Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158405641328158&set=a.10158405653668158&type=3&theater).
 
 ---
 
-![](cornuta/180419cycw1.jpg)  
-*Cyrene Reef, Apr 18*Photo shared by Chris Wong on [facebook](https://www.facebook.com/photo.php?fbid=10156427179423395&set=a.10156427177813395&type=3&theater).
 
-![](cornuta/110731trylks4m3.jpg)  
- *Terumbu Raya, Jul 11*Photo shared by Lok Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-raya.html).
 
 ---
 

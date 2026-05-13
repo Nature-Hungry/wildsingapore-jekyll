@@ -2,7 +2,7 @@
 title: Red junglefowl
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "red, junglefowl, wild, gallus, phasianidae, birds, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Phasianidae
 genus: Gallus
 species: gallus
@@ -15,6 +15,14 @@ subphylum: Vertebrata
 class: Aves
 order: Galliformes
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/gallus/090906prpd0487m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/gallus/090906prpd0489m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Sep 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/gallus/090906prpd0487m6l.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -84,13 +92,8 @@ chicks can run around and follow their mother in a few hours. She
 keeps them close to cover until they are well grown. They fledge in
 about 12 days.
 
-*![](gallus/090906prpd0487m6l.jpg)  
-Pasir
-Ris Park, Sep 09   
+{% include img-wrap-group.html items=page.page_images %}
   
-![](gallus/090906prpd0489m3.jpg)  
-Pasir
-Ris Park, Sep 09*
 
 **Human
 uses:** Red junglefowl are believed to have been domesticated

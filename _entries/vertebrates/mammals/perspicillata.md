@@ -2,7 +2,7 @@
 title: Smooth-coated otter
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Mustelidae
 genus: Lutrogale
 species: perspicillata
@@ -19,6 +19,30 @@ superorder: Laurasiatheria
 order: Carnivora
 subfamily: Lutrinae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg"
+  caption: |
+    <p>Woodlands Park, Dec 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3.jpg"
+  caption: |
+    <p>Sungei Buloh Wetland Reserve, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/090511chgd1421m6.jpg"
+  caption: |
+    <p>Changi, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110703cjd5376m6l.jpg"
+  caption: |
+    <p>Otter prints on mud.</p>
+    <p>Chek Jawa, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9592m6la.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9596m6l.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 11</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg"
 ---
 
 
@@ -70,28 +94,13 @@ with the parents in a family group for some time.
 and threats:** The Smooth-coated otter is listed as 'Critically
 Endangered' in the Red List of threatened animals of Singapore.
 
-*![](perspicillata/101218wdld3563m6l.jpg)  
-Woodlands
-Park, Dec 10*  
+{% include img-wrap-group.html items=page.page_images %}
   
-*![](perspicillata/100316sbwrd0105m3.jpg)  
-Sungei
-Buloh Wetland Reserve, Mar
-10*
 
-*![](perspicillata/090511chgd1421m6.jpg)  
-Changi, May 09*
 
-*![](perspicillata/100316sbwrd0105m3b.jpg)*
 
-*![](perspicillata/110703cjd5376m6l.jpg)*Otter
-prints on mud. *Chek Jawa, Jul 11*
 
-*![](perspicillata/110820smkd9592m6la.jpg)**Pulau
-Semakau, Aug 11*
 
-*![](perspicillata/110820smkd9596m6l.jpg)**Pulau
-Semakau, Aug 11*
 
 ---
 
@@ -187,5 +196,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 FREE photos of [mammals](http://www.flickr.com/photos/54527470@N00/sets/72157600258172269).
 Make your own badge [here](http://www.flickr.com/badge.gne).
-
-

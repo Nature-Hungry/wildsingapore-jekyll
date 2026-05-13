@@ -2,7 +2,7 @@
 title: Spiky flowery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, flower, stereonephthya, nephtheidae, alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Nephtheidea
 genus: Stereonephthya
 species: ""
@@ -15,6 +15,82 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg"
+  caption: |
+    <p>Spikes next to polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/080819cyrd9898m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/080819cyrd9898m3a.jpg"
+  caption: |
+    <p>Spikes next to polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/090807tmd8490m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/090807tmd8490m3b.jpg"
+  caption: |
+    <p>Spikes next to polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3b.jpg"
+  caption: |
+    <p>Spikes next to polyps.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031223tused0039m3.jpg"
+  caption: |
+    <p>Tuas, Dec 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031223tused0039m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0018m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0018m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031223tused0060m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031223tused0060m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/070318labg8200m3a.jpg"
+  caption: |
+    <p>With a <a href="../../mollusca/gastropoda/ovulidae/softcoral.htm">false cowrie snail</a>.</p>
+    <p>Labrador, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg"
+  caption: |
+    <p>Tiny <a href="../../echinodermata/ophiuroidea/tinycolourful.htm">colour brittle stars</a>.</p>
+    <p>Tuas, Nov 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg"
+  caption: |
+    <p>Tiny <a href="../../crustacea/othercrust/shrimp/rednose.htm">red-nose shrimp</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/250714srptccn3a.jpg"
+  caption: |
+    <p>Sentosa Serapong, Jul 25</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/250714srptccn3.jpg"
+  caption: |
+    <p>Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/200112sjivt1.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/200112sjivt1a.jpg"
+  caption: |
+    <p>Photo shared by Victor Toh on <a href="https://www.facebook.com/photo.php?fbid=10158138810932743&set=a.10158138805157743&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/200820ssisjll2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/200820ssisjll2a.jpg"
+  caption: |
+    <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157664272801295&set=a.10157664270651295">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5529m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -59,40 +135,19 @@ are more obvious when the polyp tentacles are retracted and the polyps
 curl up into little balls. The animals do not have symbiotic algae
 (zooxanthellae) and thus can be found in murky water and dark places.
 
-![](nepspiky/120123hntd5529m3.jpg)  
-*Pulau Hantu,
-Jan 12*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nepspiky/120123hntd5532m3.jpg)
 
-![](nepspiky/120123hntd5532m3b.jpg)  
-Spikes next to polyps.
 
 ---
 
-![](nepspiky/080819cyrd9898m3.jpg)  
-*Cyrene Reef, Aug 08*![](nepspiky/080819cyrd9898m3a.jpg)  
-Spikes next to polyps.
 
-![](nepspiky/090807tmd8490m3.jpg)  
-*Tanah Merah, Aug 09*![](nepspiky/090807tmd8490m3b.jpg)  
-Spikes next to polyps.
 
-![](nepspiky/031124tusbd0074m3.jpg)  
-*Tuas, Nov 03*![](nepspiky/031124tusbd0074m3b.jpg)  
-Spikes next to polyps.
 
 ---
 
-![](nepspiky/031223tused0039m3.jpg)  
-*Tuas, Dec 03*  
-![](nepspiky/031223tused0039m3b.jpg)
 
-![](nepspiky/031124tuscd0018m3.jpg)  
-*Tuas, Nov 03*![](nepspiky/031124tuscd0018m3b.jpg)
 
-![](nepspiky/031223tused0060m3.jpg)  
-*Tuas, Dec 03*![](nepspiky/031223tused0060m3b.jpg)
 
 **Flowery friends:** Tiny animals
 may be found on spiky flowery soft corals. These include tiny [false
@@ -100,19 +155,8 @@ cowrie snails](../../mollusca/gastropoda/ovulidae/ovulidae.htm), tiny [red-nose
 shrimps](../../crustacea/othercrust/shrimp/rednose.htm) and [tiny colourful
 brittle stars](../../echinodermata/ophiuroidea/tinycolourful.htm).
 
-![](nepspiky/070318labg8200m3a.jpg)  
-With a [false
-cowrie snail](../../mollusca/gastropoda/ovulidae/softcoral.htm).  
-*Labrador, Mar 07*
 
-![](nepspiky/031124tuscd0030m3b.jpg)  
-Tiny [colour
-brittle stars](../../echinodermata/ophiuroidea/tinycolourful.htm).  
-*Tuas, Nov 03*
 
-![](nepspiky/031126tusad0068m3.jpg)  
-Tiny [red-nose
-shrimp](../../crustacea/othercrust/shrimp/rednose.htm).
 
  *\*ID awaits confirmation.
 Species are difficult to positively identify without close examination.  
@@ -136,15 +180,8 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](nepspiky/250714srptccn3a.jpg)  
-Sentosa Serapong, Jul 25  
-![](nepspiky/250714srptccn3.jpg)*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654).
 
-*![](nepspiky/200112sjivt1.jpg)  
-St John's Island, Jan 20![](nepspiky/200112sjivt1a.jpg)*Photo shared by Victor Toh on [facebook](https://www.facebook.com/photo.php?fbid=10158138810932743&set=a.10158138805157743&type=3&theater).
 
-*![](nepspiky/200820ssisjll2.jpg)  
-Small Sisters Island, Aug 20![](nepspiky/200820ssisjll2a.jpg)*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo?fbid=10157664272801295&set=a.10157664270651295).
 
 ---
 

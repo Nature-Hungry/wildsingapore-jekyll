@@ -2,7 +2,7 @@
 title: Parasitic barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "parasite, barnacle, thompsonia, thompsoniidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Thompsoniidae
 genus: Thompsonia
 species: ""
@@ -21,6 +21,20 @@ superfamily: Cerambycoidea
 subfamily: Cerambycinae
 tribe: Callichromatini
 updated: Mar 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/050428cftg5303m3a.jpg"
+  caption: |
+    <p>Tiny egg sacs emerging through the joints.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/081018cjd1123m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,12 +81,8 @@ The parasitic barnacle
 eventually produces tiny egg sacs (0.5cm or less) that emerge through
 the crab's joints.
 
-*![](parasitic/081018cjd1123m3.jpg)  
-Chek Jawa, Oct 08**![](parasitic/081018cjd1123m3a.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](parasitic/050428cftg5303m3.jpg)  
-Changi, Apr 05*![](parasitic/050428cftg5303m3a.jpg)  
-Tiny egg sacs emerging through the joints.
 
   
 *\***Species

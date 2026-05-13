@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "many, cone, volcano, yellow, sponge, spheciospongia, clionaidae, porifera,"
-layout: default
+layout: entry
 shape: ball
 title: Yellow volcano sponge
 family: Clionaidae
@@ -16,6 +16,59 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3.jpg"
+  caption: |
+    <p>Terumbu Hantu, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3a.jpg"
+  caption: |
+    <p>When submerged, produces an 'eruption' of water flow.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/110323tsmkd7626m3.jpg"
+  caption: |
+    <p>Terumbu Semakau,</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/110323tsmkd7626m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100518tbbc3811m3.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100518tbbc3811m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/101106burs00338m3.jpg"
+  caption: |
+    <p>Terumbu Buran, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/101106burs00338m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/091205sudd5596m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/091205pawlks5m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166010778/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/091231biod7041m3.jpg"
+  caption: |
+    <p>Pulau Biola, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100131slud8829m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100601slud4728m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100130brkd8528m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100530tbkd4223m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/100613sngd5516m3.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/manyconed/120411thntd9374m3.jpg"
 ---
 
 
@@ -45,31 +98,14 @@ The sponge may start by boring into calcium carbonate of dead corals,
 but they are not extensive excavators like some other members of this
 family.
 
-![](manyconed/120411thntd9374m3.jpg)  
-*Terumbu Hantu,
-Apr 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](manyconed/120411thntd9374m3a.jpg)  
-When submerged, produces  
-an 'eruption' of water flow.
 
-![](manyconed/120411thntd9374m3b.jpg)
 
 ---
 
-![](manyconed/110323tsmkd7626m3.jpg)  
-*Terumbu Semakau,
-Mar 11![](manyconed/110323tsmkd7626m3a.jpg)*
 
-![](manyconed/100518tbbc3811m3.jpg)  
-*Beting Bemban
-Besar, May 10  
-![](manyconed/100518tbbc3811m3a.jpg)*
 
-![](manyconed/101106burs00338m3.jpg)  
-*Terumbu Buran,
-Nov 10  
-![](manyconed/101106burs00338m3a.jpg)*
 
  *\*Species
 are difficult to positively identify without close examination.   
@@ -93,42 +129,17 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](manyconed/091205sudd5596m3.jpg)  
-*Pulau Sudong,
-Dec 09*
 
-![](manyconed/091205pawlks5m3.jpg)  
-*Pulau Pawai,
-Dec 09*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4166010778/).
 
-![](manyconed/091231biod7041m3.jpg)  
-*Pulau Biola,
-Dec 09*
 
 ---
 
-![](manyconed/100131slud8829m3.jpg)  
-*Terumbu Salu,
-Jan 10*
 
-![](manyconed/100601slud4728m3.jpg)  
-*Pulau Salu,
-Jun 10*
 
-![](manyconed/100130brkd8528m3.jpg)  
-*Terumbu Berkas,
-Jan 10*
 
 ---
 
-![](manyconed/100530tbkd4223m3.jpg)  
-*Pulau Berkas,
-May 10*
 
-![](manyconed/100613sngd5516m3.jpg)  
-*Pulau Senang,
-Jun 10*
 
 ---
 

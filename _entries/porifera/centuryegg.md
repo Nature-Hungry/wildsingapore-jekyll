@@ -1,7 +1,7 @@
 ---
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
-layout: default
+layout: entry
 shape: ""
 title: 'Century egg'  sponge
 family: Suberitidae
@@ -16,6 +16,23 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/150608tplo6080616m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/200725smknjc1.jpg"
+  caption: |
+    <p>Pulau Semakau (North), Jul 20 Photo shared by Joleen Chang on <a href="https://www.facebook.com/photo.php?fbid=10158404749936310&set=a.10158404815076310&type=3&theater">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/centuryegg/120409tptd8846m3.jpg"
 ---
 
 
@@ -34,11 +51,8 @@ Oct 2016*
 seen?** This black often oval-shaped sponge is bright yellow on the inside, reminding us of the 'Centure egg'. It is sometimes seen on our Southern shores. It is probably often overlooked.  
  **Features:** Oval or spherical, 10-15cm in diameter. Often partially buried in the sand. Surface lumpy, looks smooth but is rough to the touch. Holes tiny on low humps. Colour where exposed to sunlight is yellow-black, it is bright yellow on the inside.
 
-![](centuryegg/120409tptd8846m3.jpg)  
-*Terumbu Pempang Tengah, Apr 12* ![](centuryegg/120409tptd8846m3c.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](centuryegg/150608tplo6080616.jpg)  
-*Terumbu Pempang Laut, Jun 15*![](centuryegg/150608tplo6080616m3b.jpg)
 
  *\*Species are difficult to positively identify without close examination.   
 On this website, they are grouped by external features for convenience
@@ -65,9 +79,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](centuryegg/200725smknjc1.jpg)  
-*Pulau Semakau (North), Jul 20*  
-Photo shared by Joleen Chang on [facebook](https://www.facebook.com/photo.php?fbid=10158404749936310&set=a.10158404815076310&type=3&theater).
 
 ---
 

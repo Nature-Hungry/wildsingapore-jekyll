@@ -2,7 +2,7 @@
 title: Pebble coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pebble, astreopora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Acroporidae
 genus: Astreopora
 species: ""
@@ -15,6 +15,97 @@ class: Anthozoa
 subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1553m3a.jpg"
+  caption: |
+    <p>Polyps with 24 flat, petal-like tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/070520smkg9486m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/080605hntd4924m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0807m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/060401ulrd0806m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1582m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1583m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/220618tmftlks10.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943828408158&set=a.10159943838013158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/200805sntlks5.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Aug 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158518722263158&set=a.10158518725458158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/240527srplks7.jpg"
+  caption: |
+    <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100515sjilks4m3.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/210430sjilks5.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159166989963158&set=a.10159166993588158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100616tsmlks3m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4628479127/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4316m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4310m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100530tbkd4333m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3.jpg"
+  caption: |
+    <p>Pulau Biola, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100531biod4492m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/091204pawd5257m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100131slud8875m3.jpg"
+  caption: |
+    <p>Terumbu Salu, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100131slud8876m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100601slud4768m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10Bleaching.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/100810snglks1m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889896678/">his flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/astreopora/110517tptd1548m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,26 +153,14 @@ with tinges of other colours.
   
 **Sometimes mistaken** for *[Turbinaria](../dendrophylliidae/dendrophyllidae.htm) or [Echinopora](../merulinidae/echinopora.htm)* species.**Status:** While two species are listed as Near Threatened, there is inadequate information as at 2024 to make an informed assesment of the conservation status of the recorded Pebble corals in Singapore.
 
-![](astreopora/110517tptd1548m3.jpg) *Terumbu Pempang Tengah, May 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](astreopora/110517tptd1553m3a.jpg)  
-Polyps with 24
-flat, petal-like tentacles.
 
-![](astreopora/070520smkg9486m3b.jpg)
 
 ---
 
-![](astreopora/080605hntd4924m3.jpg) *Pulau Hantu, Jun 08  
-![](astreopora/080605hntd4924m3b.jpg)*
 
-![](astreopora/060401ulrd0807m3.jpg)  
-*Pulau Hantu,
-Apr 06  
-![](astreopora/060401ulrd0806m3c.jpg)*
 
-![](astreopora/110517tptd1582m3.jpg) *Terumbu Pempang Tengah, May 11  
-![](astreopora/110517tptd1583m3a.jpg)*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -105,57 +184,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](astreopora/220618tmftlks10.jpg)  
- *Tanah Merah Ferry Terminal, Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159943828408158&set=a.10159943838013158).
 
 ---
 
-![](astreopora/200805sntlks5.jpg)  
- *Sentosa Tg Rimau, Aug 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158518722263158&set=a.10158518725458158&type=3&theater).
 
-![](astreopora/240527srplks7.jpg)  
-*Sentosa Serapong, May 24*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10161375044483158).
 
 ---
 
-![](astreopora/100515sjilks4m3.jpg)  
- *St. John's Island, May 10*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html).
 
-![](astreopora/210430sjilks5.jpg)  
- *St. John's Island, Apr 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159166989963158&set=a.10159166993588158).
 
-![](astreopora/100616tsmlks3m3.jpg) *Terumbu Semakau, Jun 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4628479127/).
 
 ---
 
-![](astreopora/100530tbkd4316m3.jpg) *Pulau Berkas, May 10  
-![](astreopora/100530tbkd4316m3a.jpg)*
 
-![](astreopora/100530tbkd4310m3.jpg) *Pulau Berkas, May 10  
-![](astreopora/100530tbkd4310m3a.jpg)*
 
-![](astreopora/100530tbkd4333m3.jpg) *Pulau Berkas, May 10  
-![](astreopora/100530tbkd4333m3a.jpg)*
 
 ---
 
-![](astreopora/100531biod4492m3.jpg) *Pulau Biola, May 10  
-![](astreopora/100531biod4492m3a.jpg)*
 
-![](astreopora/091204pawd5257m3.jpg) *Pulau Pawai, Dec 09  
-![](astreopora/091204pawd5257m3b.jpg)*
 
-![](astreopora/100131slud8875m3.jpg) *Terumbu Salu, Jan 10  
-![](astreopora/100131slud8876m3a.jpg)*
 
 ---
 
-![](astreopora/100601slud4768m3.jpg) *Pulau Salu, Jun 10*Bleaching.
 
-![](astreopora/100810snglks1m3.jpg) *Pulau Senang, Aug 10*Photo shared by Loh Kok Sheng on [his
-flickr](http://www.flickr.com/photos/koksheng/4889896678/).
 
 ---
 

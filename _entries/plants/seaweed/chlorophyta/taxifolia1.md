@@ -2,11 +2,43 @@
 title: "Taxifolia feathery green seaweed (Caulerpa taxifolia) on Singapore seashores"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Chlorophyta
 family: ""
 genus: Caulerpa
 species: taxifolia
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100130brkd8613m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/101010scyrd2019m3.jpg"
+  caption: |
+    <p>South Cyrene, Oct 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/101106burs00465m3.jpg"
+  caption: |
+    <p>Terumbu Buran, Nov 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110619tslgd4324m3a.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg"
+  caption: |
+    <p>Pulau Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100810sngd9926m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100810sngd9926m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100130brkd8613m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -37,25 +69,17 @@ on [taxifolia feathery green seaweed](taxifolia)
 
 ---
 
-*![](taxifolia/100130brkd8613m3.jpg)**Terumbu Berkas, Jan 10*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](taxifolia/101010scyrd2019m3.jpg)  
-South Cyrene, Oct 10*
 
-**![](taxifolia/101106burs00465m3.jpg)  
-Terumbu Buran, Nov 10**
 
 ---
 
-*![](taxifolia/110619tslgd4324m3a.jpg)**Terumbu Selegie, Jun 11*
 
 ---
 
-*![](taxifolia/100530tbkd4338m3.jpg)**Pulau Berkas, May 10**![](taxifolia/100530tbkd4338m3a.jpg)*
 
-*![](taxifolia/100810sngd9926m3.jpg)**Pulau Senang, Aug 10**![](taxifolia/100810sngd9926m3a.jpg)*
 
-*![](taxifolia/100811slud0103m3.jpg)**Pulau Salu, Aug 10**![](taxifolia/100811slud0103m3a.jpg)*
 
 back to general info
 on [taxifolia feathery green seaweed](taxifolia)

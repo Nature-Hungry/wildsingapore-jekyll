@@ -2,7 +2,7 @@
 title: Smooth leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sinularia, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Alcyoniidae
 genus: Sinularia
 species: ""
@@ -15,6 +15,53 @@ class: Anthozoa
 subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3047m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0876m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/050808sntg0873m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8307m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/110802smkd8309m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8597m3.jpg"
+  caption: |
+    <p>Terumbu Berkas, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8598m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100130brkd8600m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5575m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5575m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5578m3.jpg"
+  caption: |
+    <p>Pulau Sudong, Dec 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/091205sudd5578m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100601slud4730m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/100601slud4731m3.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letsmooth/111029smkd3045m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -70,17 +117,9 @@ and thus has a pimply common tissue.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-![](letsmooth/111029smkd3045m3.jpg)  
-*Pulau Semakau,
-Oct 11  
-![](letsmooth/111029smkd3047m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](letsmooth/050808sntg0876m3.jpg)  
-Sentosa, Aug 05  
-![](letsmooth/050808sntg0873m3.jpg)*
 
-*![](letsmooth/110802smkd8307m3.jpg)  
-Pulau Semakau, Aug 11* *![](letsmooth/110802smkd8309m3a.jpg)*
 
   
 *\*ID needs to be
@@ -106,30 +145,13 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](letsmooth/100130brkd8597m3.jpg)  
-*Terumbu Berkas,
-Jan 10*
 
-![](letsmooth/100130brkd8598m3.jpg)
 
-![](letsmooth/100130brkd8600m3a.jpg)
 
 ---
 
-![](letsmooth/091205sudd5575m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](letsmooth/091205sudd5575m3a.jpg)*
 
-![](letsmooth/091205sudd5578m3.jpg)  
-*Pulau Sudong,
-Dec 09  
-![](letsmooth/091205sudd5578m3a.jpg)*
 
-![](letsmooth/100601slud4730m3.jpg)  
-*Pulau Salu,
-Jun 10  
-![](letsmooth/100601slud4731m3.jpg)*
 
 ---
 

@@ -2,7 +2,7 @@
 title: "Bushy ball red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spiky, ball, seaweed, weed, algae, hypnea, pannosa, cystocloniaceae, hypneaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Cystocloniaceae
 genus: Hypnea
@@ -17,6 +17,41 @@ class: Florideophyceae
 subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/031028sntad0019m3.jpg"
+  caption: |
+    <p>Sentosa, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/050413labg4676m3.jpg"
+  caption: |
+    <p>Labrador, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/200822jngjc2.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476135136310&set=a.10158476213361310">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100601slud4821m3.jpg"
+  caption: |
+    <p>Pulau Salu, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100601slud4821m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100811slud0055m3.jpg"
+  caption: |
+    <p>Pulau Salu, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100811slud0055m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100810sngd9935m3.jpg"
+  caption: |
+    <p>Pulau Senang, Aug 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/100810sngd9935m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,16 +96,10 @@ of about 20cm.
 are fed to livestock, eaten by people, used as fertiliser and believed
 to have medicinal properties.
 
-*![](pannosa/040801hntd3702m3.jpg)  
-Pulau Hantu, Aug 04*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pannosa/031028sntad0019m3.jpg)  
-Sentosa, Oct 03*
 
-*![](pannosa/050413labg4676m3.jpg)  
-Labrador, Apr 05*
 
-*![](pannosa/040801hntd3702m3b.jpg)*
 
   
 *\*Seaweed species are
@@ -100,22 +129,11 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](pannosa/200822jngjc2.jpg)  
-*Pulau Jong, Aug 20*Photo shared by Joleen Chan on [facebook](https://www.facebook.com/photo?fbid=10158476135136310&set=a.10158476213361310).
 
 ---
 
-*![](pannosa/100601slud4821m3.jpg)  
-Pulau Salu, Jun 10   
-![](pannosa/100601slud4821m3a.jpg)*
 
-*![](pannosa/100811slud0055m3.jpg)  
-Pulau Salu, Aug 10   
-![](pannosa/100811slud0055m3a.jpg)*
 
-*![](pannosa/100810sngd9935m3.jpg)  
-Pulau Senang, Aug 10  
-![](pannosa/100810sngd9935m3a.jpg)*
 
 ---
 

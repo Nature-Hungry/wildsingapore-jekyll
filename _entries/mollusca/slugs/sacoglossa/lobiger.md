@@ -2,7 +2,7 @@
 title: Tendril slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
 family: Oxynoidae
 genus: Lobiger
@@ -18,6 +18,66 @@ subterclass: Tectipleura
 superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg"
+  caption: |
+    <p>Changi, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg"
+  caption: |
+    <p>Tendrils can be suddenly unfurled to deter predators.</p>
+    <p>Pulau Tekukor, Apr 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg"
+  caption: |
+    <p>Changi East, Dec 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8272996755/">flickr</a>.</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>IKAN-Unterwasserachiv, Frankfurt.</p>
+    <p>321 pp.</p>
+    <p>- Wells, Fred E.</p>
+    <p>and Clayton W.</p>
+    <p>Bryce.</p>
+    <p>2000.</p>
+    <p>Slugs of Western Australia: A guide to the species from the Indian to</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Western Australian Museum.</p>
+    <p>184 pp.</p>
+    <p>- Coleman, Neville.</p>
+    <p>2001.</p>
+    <p>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs.</p>
+    <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
+    <p>- Coleman, Neville, 1989.</p>
+    <p>Nudibranchs of the South Pacific Vol 1.</p>
+    <p>64 pp.</p>
+    <p>- Humann, Paul and Ned Deloach.</p>
+    <p>2010.</p>
+    <p>Reef Creature Identification: Tropical Pacific New World Publications.</p>
+    <p>497pp.</p>
+    <p>- Kuiter, Rudie H and Helmut Debelius.</p>
+    <p>2009.</p>
+    <p>World</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255"
+  caption: |
+    <p>.</p>
+    <p>IKAN-Unterwasserachiv.</p>
+    <p>723pp.</p>
+    <p>- Gosliner, Terrence M., David W.</p>
+    <p>Behrens and Gary C.</p>
+    <p>Williams.</p>
+    <p>1996.</p>
+    <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Sea Challengers.</p>
+    <p>314pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,18 +126,12 @@ may also help the slug obtain food from photosynthesis. Like
 other sacoglossans, this slug retains in its body, the chloroplasts
 obtained from its seaweed food.
 
-![](lobiger/050622cftg8209m3.jpg)  
- *Changi, Jun 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](lobiger/050622cftg8209m3a.jpg)
 
-![](lobiger/050622cftg8209m3b.jpg)
 
 ---
 
-![](lobiger/130426tkkd5655m6l.jpg)  
-Tendrils can be suddenly unfurled to deter predators.  
-Pulau Tekukor, Apr 13
 
 ---
 
@@ -96,8 +150,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](lobiger/121214chgemn1.jpg)  
- *Changi East, Dec 12*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/8272996755/).
 
 ---
 
@@ -120,33 +172,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 - K. R. Jensen & R. S. L. Ong. *Spawning observed in a specimen of the shelled sacoglossan Lobiger viridis Pease, 1863 from Singapore (Mollusca: Gastropoda: Heterobranchia)*.10 July 2015. The Comprehensive Marine Biodiversity Survey: Johor Straits International Workshop (2012) The Raffles Bulletin of Zoology 2015 Supplement No. 31, Pp. 250-254..
 - Debelius,
   Helmut, 2001. *Nudibranchs
-  and Sea Snails: Indo-Pacific Field Guide![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  IKAN-Unterwasserachiv, Frankfurt. 321 pp.
-- Wells, Fred
-  E. and Clayton W. Bryce. 2000. *Slugs
-  of Western Australia: A guide to the species from the Indian to
-  West Pacific Oceans![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Western Australian Museum. 184 pp.
-- Coleman,
-  Neville. 2001. *1001
-  Nudibranchs: Catalogue of Indo-Pacific Sea Slugs*. Neville
-  Coleman's Underwater Geographic Pty Ltd, Australia.144pp.
-- Coleman,
-  Neville, 1989. *Nudibranchs
-  of the South Pacific Vol 1*. 64 pp.
-- Humann, Paul
-  and Ned Deloach. 2010. *Reef
-  Creature Identification: Tropical Pacific* New World Publications.
-  497pp.
-- Kuiter, Rudie
-  H and Helmut Debelius. 2009. *World
-  Atlas of Marine Fauna**![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255)*
-  . IKAN-Unterwasserachiv. 723pp.
-- Gosliner,
-  Terrence M., David W. Behrens and Gary C. Williams. 1996. *Coral
-  Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
-  exclusive of the vertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Sea Challengers. 314pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

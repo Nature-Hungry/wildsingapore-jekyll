@@ -2,7 +2,7 @@
 title: "Ovulid snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spindle, ovulid, cowrie, ovulidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Ovulidae
 genus: ""
 species: ""
@@ -16,6 +16,53 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg"
+  caption: |
+    <p>Closely resembles the sea fan that it eats.</p>
+    <p>Changi, Jul 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
+  caption: |
+    <p>Closely resembles the soft coral that it eats.</p>
+    <p>Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/050822cjg2211m3.jpg"
+  caption: |
+    <p>The shell opening lacks 'teeth', unlike in a real cowrie.</p>
+    <p>Chek Jawa, Aug 05 What do they eat?</p>
+    <p>Ovulids are carnivorous and prey on sea fans, sea whips and soft corals, actually biting off the polyps and chewing up their common tissues.</p>
+    <p>Each species specialises in a particular prey and they usually mimic their prey perfectly.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/130626ecplks2.JPG"
+  caption: |
+    <p>Laying eggs?</p>
+    <p>East Coast Park, Jun 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24593712790/in/album-72157607719316847/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1754.jpg"
+  caption: |
+    <p>Chomped areas and eggs (?) nearby Beting Bronok, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/210528lyg1a.jpg"
+  caption: |
+    <p>Changi, May 21</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/210528lyg1b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/210528lyg2b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/060626ecpd3582m3.jpg"
+  caption: |
+    <p><a href="red.htm">Red spindle cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/nectarea/050724bbg0117m3.jpg"
+  caption: |
+    <p><a href="nectarea.htm">Nectar spindle cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/pellasimnia/060323ulrd0409m3.jpg"
+  caption: |
+    <p><a href="pellasimnia.htm">Rose spindle cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg"
+  caption: |
+    <p><a href="barbieri.htm">Dalmation spindle cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg"
+  caption: |
+    <p><a href="softcoral.htm">Soft coral false cowrie</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/red/120704chgd6983m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -59,36 +106,18 @@ Like the true cowries, the adult ovulid doesn't have an operculum. Ovulids also 
 the shell with their mantle. The mantle usually has the same colour
 and texture as the animal that they live on. Some also accumulate in their mantle, the
 toxic chemicals from their prey.
-![](red/120704chgd6983m3.jpg)  
-Closely resembles the sea fan that it eats. *Changi, Jul 12*
-*![](softcoral/110518bbd1755m3.jpg)*Closely resembles the soft coral that it eats. **Beting Bronok, May 11**
-![](red/050822cjg2211m3.jpg)  
-The shell opening lacks 'teeth',   
-unlike in a real cowrie. *Chek Jawa, Aug 05*
-**What do they eat?** Ovulids are
-carnivorous and prey on sea fans, sea whips and soft corals, actually
-biting off the polyps and chewing up their common tissues. Each species specialises in a particular prey
-and they usually mimic their prey perfectly.   
+{% include img-wrap-group.html items=page.page_images %}
   
 **Ovulid babies:** Ovulids lay their
 eggs on the base of the host or hanging from the limbs of branching
 soft corals.
 
-![](nectarea/130626ecplks2.JPG)  
-Laying eggs? *East Coast Park, Jun 13*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/24593712790/in/album-72157607719316847/).
 
-![](softcoral/110518bbd1754.jpg)  
-Chomped areas and eggs (?) nearby **Beting Bronok, May 11**
 
 **Hanging in there:** Several of these snails were seen 'hanging' from a string of mucus on sea fans exposed out of water during low tide.
 
-![](nectarea/210528lyg1a.jpg)  
-*Changi, May 21*
 
-![](nectarea/210528lyg1b.jpg)
 
-![](nectarea/210528lyg2b.jpg)
 
 **Status and threats:** None of our
 ovulids are listed among the threatened animals of Singapore.
@@ -103,22 +132,12 @@ populations.
 
 ---
 
-**![](red/060626ecpd3582m3.jpg)  
-[Red spindle cowrie](red.htm)**
 
-**![](nectarea/050724bbg0117m3.jpg)  
-[Nectar spindle cowrie](nectarea.htm)**
 
-**![](pellasimnia/060323ulrd0409m3.jpg)  
-[Rose spindle cowrie](pellasimnia.htm)**
 
 ---
 
-![](barbieri/030521bbd0202m3.jpg)  
-**[Dalmation spindle cowrie](barbieri.htm)**
 
-**![](softcoral/120508skdd2250m3.jpg)  
-[Soft coral false cowrie](softcoral.htm)**
 
 ---
 

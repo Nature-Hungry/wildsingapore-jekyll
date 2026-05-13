@@ -2,7 +2,7 @@
 title: Sponge synaptid sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [0, 1, 12, 13, 24, 92, 101]
 family: Synaptidae
 genus: ""
@@ -16,6 +16,59 @@ class: Holothuroidea
 subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/150704cjd6990m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/040506cjd0030m3a.jpg"
+  caption: |
+    <p>Chek Jawa, May 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/070324cyrd9329m3.jpg"
+  caption: |
+    <p>Sometimes long with large bumps.</p>
+    <p>Cyrene Reef, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/070324cyrd9329m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/070324cyrd9329m3b.jpg"
+  caption: |
+    <p>Uniform colour, no obvious stripes between bumps.</p>
+    <p>\Species are difficult to positively identify without close examination.</p>
+    <p>On this website, they are grouped by external features for convenience of display</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/201118pglvc5.jpg"
+  caption: |
+    <p>Punggol, Nov 20Shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086361662945&set=a.10158086509267945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/210529ecpblks4.jpg"
+  caption: |
+    <p>East Coast Park, May 21Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233457308158&set=a.10159233461703158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/210401sntrk2.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, Apr 21Shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158984920477906&set=a.10158984896247906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/201116lazvc6.jpg"
+  caption: |
+    <p>Lazarus Island, Nov 20Shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158082802897945&set=a.10158080800827945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/240309tkrrk1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Mar 24Shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10161031535532906&set=a.10161031532427906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/210429hntvc10.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 21Shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437636752945&set=a.10158431262127945">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/151225tsmkjtm3m3.jpg"
+  caption: |
+    <p>Terumbu Semakau, Dec 15Shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10153386137468576.1073741918.518238575&type=3&pnref=story.unseen-section">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/250403smksrk1.jpg"
+  caption: |
+    <p>Pulau Semakau South, Apr 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/150704cjd6990m6l.jpg"
 ---
 
 
@@ -44,26 +97,12 @@ tentacles short and feathery, often also with stripes.
 Here's more on [how to tell apart
 worm-like animals](../../glossary/wormy).
 
-*![](synsponge/150704cjd6990m6l.jpg)  
-Chek Jawa, Jul 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](synsponge/150704cjd6990m3a.jpg)
 
-*![](synsponge/050722cjg9849m3.jpg)  
-Chek Jawa, Jul 05*
 
-*![](synsponge/050722cjg9849m3b.jpg)*
 
-*![](synsponge/040506cjd0030m3a.jpg)  
-Chek Jawa, May 04*
 
-![](synsponge/070324cyrd9329m3.jpg)  
-Sometimes long with large bumps. *Cyrene Reef, Mar 07*
-![](synsponge/070324cyrd9329m3a.jpg)
-*![](synsponge/070324cyrd9329m3b.jpg)*Uniform colour,   
-no obvious stripes between bumps.
- *\*Species are difficult to positively identify without close examination.*  *On this website, they are grouped by external features for convenience of
-display*
 
 ---
 
@@ -82,37 +121,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](synsponge/201118pglvc5.jpg)  
-*Punggol, Nov 20*Shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158086361662945&set=a.10158086509267945).
 
-![](synsponge/210529ecpblks4.jpg)  
-*East Coast Park, May 21*Shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159233457308158&set=a.10159233461703158).
-
----
-
-![](synsponge/210401sntrk2.jpg)  
-*Sentosa Tg Rimau, Apr 21*Shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10158984920477906&set=a.10158984896247906).
-
-![](synsponge/201116lazvc6.jpg)  
-*Lazarus Island, Nov 20*Shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158082802897945&set=a.10158080800827945).
-
-![](synsponge/240309tkrrk1.jpg)  
-*Pulau Tekukor, Mar 24*Shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10161031535532906&set=a.10161031532427906).
-
----
-
-![](synsponge/210429hntvc10.jpg)  
-*Pulau Hantu, Apr 21*Shared by Vincent Choo on [facebook](https://www.facebook.com/photo?fbid=10158437636752945&set=a.10158431262127945).
-
----
-
-![](synsponge/151225tsmkjtm3m3.jpg)  
-*Terumbu Semakau, Dec 15*Shared by Juria Toramae on [facebook](https://www.facebook.com/juria.toramae/media_set?set=a.10153386137468576.1073741918.518238575&type=3&pnref=story.unseen-section).
-
-![](synsponge/250403smksrk1.jpg)  
-*Pulau Semakau South, Apr 25*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10162285537307906&type=3&ref=embed_post).
 
 ---
 
 
+
+
+---
+
+
+---
+
+
+
+---

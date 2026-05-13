@@ -2,7 +2,7 @@
 title: Sea anemones
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Actiniidae
 genus: ""
 species: ""
@@ -17,6 +17,107 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
+page_images:
+- url: "../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../fngcactiniaria.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+  caption: |
+    <p>The <a href="dofleinia.htm">glass anemone</a> has very long tentacles.</p>
+    <p>Beting Bronok, Jun 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg"
+  caption: |
+    <p>The <a href="star.htm">Wiggly reef star anemone</a> has few tentacles.</p>
+    <p>Pulau Hantu, Apr 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
+  caption: |
+    <p>The <a href="phymanthus.htm">Phymanthus anemone</a> has branched tentacles.</p>
+    <p>Sentosa, May 08 Getting a grip: Most anemones don't move around a lot.</p>
+    <p>Anemones also have a long smooth body column.</p>
+    <p>The other end of the body column may end in a flat muscular pedal disk that attaches to a hard surface.</p>
+    <p>Some anemones can move slowly by gliding on the pedal disk.</p>
+    <p>The <a href="boloceroididae.htm">Swimming anemone</a> can indeed swim, but can also cling in place with its pedal disk.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg"
+  caption: |
+    <p>Long body column of a burrowing <a href="doreensis.htm">Snaky anemone</a>.</p>
+    <p>Beting Bronok, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg"
+  caption: |
+    <p>The <a href="boloceroididae.htm">Swimming anemone</a> really does swim!</p>
+    <p>Pulau Sekudu, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg"
+  caption: |
+    <p>Some anemones are tiny and lie half buried in the sand.</p>
+    <p>Don't step on them!</p>
+    <p>Chek Jawa, Oct 04 Sometimes mistaken for <a href="../coralsoft/coralsoft.htm">soft corals</a>.</p>
+    <p>Some large anemones and large leathery and flowery soft corals may be mistaken for one another.</p>
+    <p>Here's more on <a href="../cflargecnidarians.htm">how to tell apart large soft cnidarians</a> on the shore.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+  caption: |
+    <p>Carpet anemone eating a sand dollar Chek Jawa, Feb 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg"
+  caption: |
+    <p>A <a href="tiger.htm">tiger anemone</a> attempting to swallow a <a href="others/pennatulacea/pennatulacea.htm">sea pen</a>!</p>
+    <p>Changi, Jul 04 What do they eat?</p>
+    <p>Anemones may use their tentacles or mucus to trap small particles, detritus and plankton from the water.</p>
+    <p>Larger anemones can capture and swallow prey such as fishes whole.</p>
+    <p>Anemones have <a href="../cnidaria.htm">stingers like other cnidarians</a>.</p>
+    <p>Prey is captured and immobilised with these stingers.</p>
+    <p>Tentacles may push larger prey into the central mouth.</p>
+    <p>The edges of the mouth may be inflated into 'lips' that pucker to hold prey as it is swallowed.</p>
+    <p>The mouth and body column can expand wide to accommodate the prey whole.</p>
+    <p>Or the anemone may fold its oral disk over the prey.</p>
+    <p>Like other cnidarians, the anemone lacks an anus.</p>
+    <p>So it has to spit out any indigestible bits through the mouth.</p>
+    <p>Farm in their arms: Many anemones also harbour symbiotic single-celled algae (called zooxanthellae) in their tentacles.</p>
+    <p>The algae undergo photosynthesis to produce food from sunlight.</p>
+    <p>The food produced is shared with the anemone, which in return provides the algae with shelter and minerals.</p>
+    <p>The zooxanthellae are believed to give anemone tentacles their brown or greenish tinge.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
+  caption: |
+    <p>Some anemones live on shells occupied by <a href="hermitsmall.htm">hermit crabs</a>.</p>
+    <p>East Coast Park, Jun 15</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+  caption: |
+    <p>So do <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">anemone shrimps</a>!</p>
+    <p>Kusu Island, Jul 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+  caption: |
+    <p>The <a href="../vertebrates/fish/pomacentridae/ocellaris.htm">False clown anemonefish</a> can live happily in the  <a href="actiniaria/stichodactyla.htm">carpet anemone</a> that would eat any other fish.</p>
+    <p>Kusu Island, Jun 04</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
+    <p>pp.</p>
+    <p>963 - Pechenik, Jan A., 2005.</p>
+    <p>Biology</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>5th edition.</p>
+    <p>McGraw-Hill Book Co., Singapore.</p>
+    <p>578 pp.</p>
+    <p>- Wee Y.C.</p>
+    <p>and Peter K.</p>
+    <p>L.</p>
+    <p>Ng.</p>
+    <p>1994.</p>
+    <p>A First Look at Biodiversity in Singapore.</p>
+    <p>National Council on the Environment.</p>
+    <p>163pp.</p>
+    <p>- Ng, P.</p>
+    <p>K.</p>
+    <p>L.</p>
+    <p>& Y.</p>
+    <p>C.</p>
+    <p>Wee, 1994.</p>
+    <p>The</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>The Nature Society (Singapore), Singapore.</p>
+    <p>343 pp.</p>
+coverimg: "../../../Templates/fornatureguides.gif"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -27,7 +128,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../Templates/fornatureguides.gif)](../fngcactiniaria.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)
@@ -90,17 +191,6 @@ a kind of stinger that produces a long adhesive thread (called spirocysts).
 These make the tentacles sticky and are used to entangle hard-bodied
 prey such as crabs that may blunder into them. Stingers are concentrated
 on the tentacles.
-*![](dofleinia/100614bbd5984m3.jpg)*  
-The [glass anemone](dofleinia.htm) has  
-very long tentacles. *Beting Bronok, Jun 10*
-*![](star/060401ulrd0828m3.jpg)*The [Wiggly reef star anemone](star.htm) has few
-tentacles. *Pulau Hantu, Apr 06* 
-*![](phymanthus/band/050808sntg0904m3.jpg)*The [Phymanthus anemone](phymanthus.htm)  
-has branched tentacles. *Sentosa, May 08*
-**Getting a grip:** Most anemones don't move around a lot. Anemones also have a long smooth body column. The other end of
-the body column may end in a flat muscular pedal disk that attaches
-to a hard surface. Some anemones can move slowly by gliding
-on the pedal disk. The [Swimming anemone](boloceroididae.htm) can indeed swim, but can also cling in place with its pedal disk.   
   
 Many anemones burrow in sand,
 mud or crevices in rocks or coral rubble. These may have
@@ -117,40 +207,10 @@ simply retract their entire bodies into a hole, crevice or into the
 sand. This is usually done by expelling fluids so that the tentacles
 and body deflate like balloons. To inflate again, anemones have
 special body structures to pump in and retain water.
-*![](doreensis/050821bbg1876m3.jpg)*Long body column of a burrowing [Snaky anemone](doreensis.htm). *Beting Bronok, Aug 05*
-*![](boloceroididae/060624skdg6189m3.jpg)*The [Swimming anemone](boloceroididae.htm) really
-does swim! *Pulau Sekudu, Jun 06*
-*![](beadbanded/041031cjd7939m3.jpg)*Some anemones are tiny and lie   
-half buried in the sand. Don't step on them! *Chek Jawa, Oct 04*
-**Sometimes mistaken for** [soft
-corals](../coralsoft/coralsoft.htm). Some large anemones and large leathery and flowery
-soft corals may be mistaken for one another. Here's more on [how
-to tell apart large soft cnidarians](../cflargecnidarians.htm) on the shore.   
   
 Some animals look like anemones but are not, e.g., [cerianthids](../others/ceriantharia/ceriantharia.htm), [corallimorphs](../others/corallimorphs/corallimorph.htm) and [zoanthids](../others/zoanthid/zoanthid.htm). Here's
 more on [how to tell apart animals
 with a ring of smooth tentacles](../cfringtentacles.htm).
-*![](haddonieat/040218cjd0004m3.jpg)*Carpet anemone eating a sand dollar *Chek Jawa, Feb 04*
-![](tiger/040702chgd1517m6la.jpg)  
-A [tiger anemone](tiger.htm) attempting to swallow a [sea pen](others/pennatulacea/pennatulacea.htm)! *Changi, Jul 04*
-**What do they eat?** Anemones
-may use their tentacles or mucus to trap small particles, detritus
-and plankton from the water. Larger anemones can capture and swallow prey such as fishes
-whole. Anemones have [stingers like other
-cnidarians](../cnidaria.htm). Prey is captured and immobilised with these stingers.
-Tentacles may push larger prey into the central mouth. The edges of
-the mouth may be inflated into 'lips' that pucker to hold prey as
-it is swallowed. The mouth and body column can expand wide to accommodate
-the prey whole. Or the anemone may fold its oral disk over the prey.
-Like other cnidarians, the anemone lacks an anus. So it has to
-spit out any indigestible bits through the mouth.   
- **Farm in their arms:** Many anemones
-also harbour symbiotic single-celled algae (called zooxanthellae)
-in their tentacles. The algae undergo photosynthesis to produce food
-from sunlight. The food produced is shared with the anemone, which
-in return provides the algae with shelter and minerals. The zooxanthellae
-are believed to give anemone tentacles their brown or greenish
-tinge.   
   
 **Anemone friends:** Some anemones
 may live with other animals such as [hermit
@@ -171,17 +231,8 @@ put another living animal on an anemone you will be hurting two animals.
 Please don't put objects such as litter or dead crabs on an anemone
 either.
 
-![](hermitsmall/150617ecpbsmn2m3.jpg)  
-Some anemones live on  
-shells occupied by [hermit crabs](hermitsmall.htm).  
-**East Coast Park, Jun 15**
 
-*![](../../crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg)*So do [anemone
-shrimps](../../crustacea/othercrust/shrimp/brevicarpalis.htm)! *Kusu Island, Jul 04*
 
-*![](../../vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg)*The [False
-clown anemonefish](../vertebrates/fish/pomacentridae/ocellaris.htm) can live happily
-in the  [carpet anemone](actiniaria/stichodactyla.htm) that would eat any other fish. *Kusu Island, Jun 04*
 
 **Anemone
 Babies:** Most anemones are hermaphrodites,
@@ -286,19 +337,6 @@ Thalassianthidae**
   species*. The Raffles Bulletin of Zoology. Pp. 121-143.
 - Edward E.
   Ruppert, Richard S. Fox, Robert D. Barnes. 2004.*Invertebrate
-  Zoology![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik,
-  Jan A., 2005. *Biology
-  of the Invertebrates![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C.
-  and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*.
-  National Council on the Environment. 163pp.
-- Ng, P. K.
-  L. & Y. C. Wee, 1994. *The
-  Singapore Red Data Book: Threatened Plants and Animals of Singapore![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  The Nature Society (Singapore), Singapore. 343 pp.
 
 [links](../../links.htm)
 | [references](../../references.htm)

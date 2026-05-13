@@ -2,7 +2,7 @@
 title: Ornate lagoon-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "orante, lagoon, goby, istigobius, ornatus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 69, 70]
 family: Gobiidae
 genus: Istigobius
@@ -18,6 +18,47 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg"
+  caption: |
+    <p>Changi, Jun 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m6l.jpg"
+  caption: |
+    <p>Two rows of dark or black dashes along the side of the body.</p>
+    <p>Tanah Merah, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/070506sjig9218m6l.jpg"
+  caption: |
+    <p>Sometimes, a group of many small ones are seen in a pool at low tide.</p>
+    <p>St.</p>
+    <p>John's Island, May 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/251208chgrk2.jpg"
+  caption: |
+    <p>Changi, Dec 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163440955947906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/250628pcnal2.jpg"
+  caption: |
+    <p>East Coast PCN, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/151001blymn1m3.jpg"
+  caption: |
+    <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/170129tslgtch4.jpg"
+  caption: |
+    <p>Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/101107tburrl.jpg"
+  caption: |
+    <p>Terumbu Buran, Nov 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.138438626207538.37124.109257872458947/138440089540725/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/250909lazlks4.jpg"
+  caption: |
+    <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/201019sjilks10.jpg"
+  caption: |
+    <p>St John's Island, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158704038898158&set=a.10158704042413158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/250810bsismn2.jpg"
+  caption: |
+    <p>Big Sisters, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/250811jngal5.jpg"
+  caption: |
+    <p>Pulau Jong, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162001942043693&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/030630chgd0099m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -63,14 +104,8 @@ red and blue speckles.
 **Sometimes confused with** the [Black-spotted
 lagoon-goby](goldmanni.htm) (*Istigobius goldmanni*) which has pairs of close-set
 round black spots along the side of the body.
-![](ornatus/030630chgd0099m3.jpg)  
-*Changi, Jun 03*
-![](ornatus/110506tmftd0826m6l.jpg)  
-Two rows of dark or black dashes along the side of the body. *Tanah Merah, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ornatus/070506sjig9218m6l.jpg)  
-Sometimes, a group of many small ones are seen in a pool at low tide.  
-*St. John's Island, May 07*
 
 **What does it eat?** It eats small
 bottom-dwelling creatures.  
@@ -99,39 +134,22 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ornatus/251208chgrk2.jpg) *Changi, Dec 25*  
-Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163440955947906&type=3&ref=embed_post).
 
 ---
 
-![](ornatus/250628pcnal2.jpg) *East Coast PCN, Jun 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post).
 
-![](ornatus/151001blymn1m3.jpg)  
-*Berlayar Creek, Oct 15*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story).
 
 ---
 
-![](ornatus/170129tslgtch4.jpg) *Terumbu Selegie, Jan 17*   
-Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3).
 
-![](ornatus/101107tburrl.jpg)  
-*Terumbu Buran, Nov 10*Photo shared by Russel Low on [facebook](https://www.facebook.com/singaporereefwatch/photos/a.138438626207538.37124.109257872458947/138440089540725/?type=3&theater).
 
 ---
 
-*![](ornatus/250909lazlks4.jpg)  
-Seringat-Kias mangrove lagoon, Sep 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post).
 
-![](ornatus/201019sjilks10.jpg)  
-*St John's Island, Oct 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10158704038898158&set=a.10158704042413158).
 
 ---
 
-![](ornatus/250810bsismn2.jpg)  
-*Big Sisters, Aug 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161851056978660&type=3&ref=embed_post).
 
-![](ornatus/250811jngal5.jpg)  
-*Pulau Jong, Aug 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162001942043693&type=3&ref=embed_post).
 
 ---
 

@@ -2,7 +2,7 @@
 title: Smooth frilly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "smooth, branched, tentacle, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [6, 51, 88]
 family: Phymantidae
 genus: Phymanthus
@@ -17,6 +17,61 @@ order: Actiniaria
 suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg"
+  caption: |
+    <p>Sentosa, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/100215sisd9399m3.jpg"
+  caption: |
+    <p>Sisters Island, Feb 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/240527sntccn2.jpg"
+  caption: |
+    <p>Sentosa Tg Rimau, May 24 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161141184508654">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/100103tkkjk10m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237075181/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/250131tkkmn.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161106959258660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/220812ssistl1.jpg"
+  caption: |
+    <p>Small Sisters Island, Aug 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159997597469264&set=a.10159997523429264">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/100528kusmn.jpg"
+  caption: |
+    <p>Kusu Island, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4666172416/in/album-72157624158760720/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/080509smklks2m3.jpg"
+  caption: |
+    <p>Pulau Semakau, May 08Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/2930685308/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/220717smknccn1.jpg"
+  caption: |
+    <p>Pulau Semakau (North), Jul 22 Photo shared by Chee Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159824147518654&set=a.10159824133588654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/240725smknky2.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Semakau (North), Jul 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169746973045112&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/240725smknky3.jpg"
+  caption: |
+    <p>Bleaching.</p>
+    <p>Pulau Semakau (North), Jul 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169746973045112&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/110422tpljk4m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/100519trylks.JPG"
+  caption: |
+    <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on  <a href="https://www.flickr.com/photos/koksheng/4628453857/in/album-72157624104220316/">flickr</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/120805bbbrl.jpg"
+  caption: |
+    <p>Beting Bemban Besar, Aug 12 Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.423601704357894.109498.109257872458947/423604787690919/?type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/240526bbbky1.jpg"
+  caption: |
+    <p>Beting Bemban Besar, May 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169489991325112">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/210428sluvc1.jpg"
+  caption: |
+    <p>Pulau Salu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158429562522945&set=a.10158429573917945">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -61,13 +116,9 @@ tentacles are more brightly coloured. Oral
 disk generally dark without a distinctive pattern. Body column with
 rows of pale bumps (verrucae).
 
-*![](phymanthus/smooth/050808sntg0859m3.jpg)  
-Sentosa, Aug 05*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](phymanthus/smooth/050808sntg0859m3a.jpg)*
 
-*![](phymanthus/smooth/100215sisd9399m3.jpg)  
-Sisters Island, Feb 10*
 
  *\*Species are difficult
 to positively identify without close examination.  
@@ -91,70 +142,29 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-*![](phymanthus/smooth/240527sntccn2.jpg)**Sentosa Tg Rimau, May 24*  
-Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?set=a.10161141184508654)
 
-*![](phymanthus/smooth/100103tkkjk10m3.jpg)  
-Pulau Tekukor, Jan 10*Photo
-shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4237075181/).
 
-*![](phymanthus/smooth/250131tkkmn.jpg)  
-Pulau Tekukor, Jan 25*Photo
-shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161106959258660&type=3&ref=embed_post).
 
 ---
 
-*![](phymanthus/smooth/220812ssistl1.jpg)  
-Small Sisters Island, Aug 22*Photo
-shared by Tammy Lim on [facebook](https://www.facebook.com/photo/?fbid=10159997597469264&set=a.10159997523429264).
 
-*![](phymanthus/smooth/100528kusmn.jpg)  
-Kusu Island, May 10*Photo
-shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/4666172416/in/album-72157624158760720/).
 
 ---
 
-*![](phymanthus/smooth/080509smklks2m3.jpg)  
-Pulau Semakau, May 08*Photo
-shared by Loh Kok Sheng on [flickr](http://www.flickr.com/photos/koksheng/2930685308/).
 
-*![](phymanthus/smooth/220717smknccn1.jpg)  
-Pulau Semakau (North), Jul 22* Photo
-shared by Chee Cheng Neo on [facebook](https://www.facebook.com/photo/?fbid=10159824147518654&set=a.10159824133588654).
 
 ---
 
-![](phymanthus/smooth/240725smknky2.jpg)Bleaching. *Pulau Semakau (North), Jul 24*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169746973045112&type=3).
 
-![](phymanthus/smooth/240725smknky3.jpg)Bleaching. *Pulau Semakau (North), Jul 24*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169746973045112&type=3).
 
-*![](phymanthus/smooth/110422tpljk4m3.jpg)  
-Terumbu Pempang Laut, Apr 11*Photo
-shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html).
 
 ---
 
-*![](phymanthus/smooth/100519trylks.JPG)  
-Terumbu Semakau, May 10*Photo
-shared by Loh Kok Sheng on  [flickr](https://www.flickr.com/photos/koksheng/4628453857/in/album-72157624104220316/)..
 
-*![](phymanthus/smooth/120805bbbrl.jpg)  
-Beting Bemban Besar, Aug 12* Photo
-shared by Russel Low on [facebook](https://www.facebook.com/singaporereefwatch/photos/a.423601704357894.109498.109257872458947/423604787690919/?type=3&theater).
 
-*![](phymanthus/smooth/240526bbbky1.jpg)  
-Beting Bemban Besar, May 24* Photo
-shared by Kelvin Yong on [facebook](https://www.facebook.com/media/set/?set=a.10169489991325112).
 
 ---
 
-*![](phymanthus/smooth/210428sluvc1.jpg)  
-Pulau Salu, Apr 21* Photo
-shared by Vincent Choo on [facebook](https://www.facebook.com/photo/?fbid=10158429562522945&set=a.10158429573917945).
 
 [links](../../links.htm)
 | [references](../../references.htm)

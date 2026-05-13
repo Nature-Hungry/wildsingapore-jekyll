@@ -2,7 +2,7 @@
 title: Fringe-eyed flathead
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fringe, eyed, flathead, flat, head, fish, cymbacephalus, nematophthalmus, platycephalidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [9, 25, 47, 49, 81]
 family: Platycephalidae
 genus: Cymbacephalus
@@ -17,6 +17,87 @@ superorder: Acanthomorpha
 order: Perciformes
 suborder: Scorpaenoidei
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110602tmftd3485m3.jpg"
+  caption: |
+    <p>Tanah Merah Ferry Terminal, Jun 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m6l.jpg"
+  caption: |
+    <p>Sisters Island, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/090807tmd8467m3.jpg"
+  caption: |
+    <p>About 2cm long.</p>
+    <p>A juvenile?</p>
+    <p>Tanah Merah, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/080519sisd3370m3.jpg"
+  caption: |
+    <p>Very large mouth on a large flat head.</p>
+    <p>Elaborate fringe over the eyes.</p>
+    <p>Sisters Island, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/200919bsisjll1.jpg"
+  caption: |
+    <p>Over the eyeball, an elaborate golden filigree fringe.</p>
+    <p>Above the eyes, several fleshy tentacles.</p>
+    <p>Big Sisters Island, Sep 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157735611471295&set=a.10157735609381295">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110518bbrl1m6l.jpg"
+  caption: |
+    <p>Beting Bronok, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.185549691496431.60496.109257872458947">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/151031ecpmblks1.JPG"
+  caption: |
+    <p>East Coast-Marina Bay, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23732580739/in/album-72157607745985508/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/200819ecptch1.jpg"
+  caption: |
+    <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759125713713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/170822lablks1.jpg"
+  caption: |
+    <p>Labrador, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/090628lazlt2m3.jpg"
+  caption: |
+    <p>Seringat-Kias, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/241019lazmn2.jpg"
+  caption: |
+    <p>Lazarus Island, Oct 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/100528tkkjk8m3.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/251009sjilvo5.jpg"
+  caption: |
+    <p>St John's Island, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136995108927700&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/251011ssisrk1.jpg"
+  caption: |
+    <p>Small Sisters Island, Oct 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163166282432906&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/220518kusrk3.jpg"
+  caption: |
+    <p>Kusu Island, May 22Photo shared by Richard Kuah on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/220518kusrk3a.jpg"
+  caption: |
+    <p>Kusu Island, May 22Photo shared by Richard Kuah on facebook.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/250530kusmn2.jpg"
+  caption: |
+    <p>Thysanophrys sp.</p>
+    <p>Kusu Island, May 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161510329043660&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/250812tbal2.jpg"
+  caption: |
+    <p>Terumbu Bemban, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/200707hntvc1.jpg"
+  caption: |
+    <p>Pulau Hantu, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157778625057945&set=a.10157778621147945&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110517tptlks5m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/090922labnml4m6l.jpg"
+  caption: |
+    <p>Labrador, Sep 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labradorl">her blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/100613sngtch1m6l.jpg"
+  caption: |
+    <p>Pulau Senang, Jun 10Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4695942444/">her flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/091204pawjk3m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171064781/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/091204pawjk2m3.jpg"
+  caption: |
+    <p>Pulau Pawai, Dec 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/110602tmftd3485m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,22 +137,11 @@ It has bony ridges on the head with spines. Colours and pattern are camouflaging
 **Sometimes mistaken** for other flatheads in the Family such as *Thysanophrys* sp. As well as other flattened fishes that live on the sea bottom. Here's more on [how to tell apart fishes
 with flat heads](../cfflatheads).
 
-![](nematophthalmus/110602tmftd3485m3.jpg)  
-*Tanah Merah Ferry Terminal, Jun 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](nematophthalmus/040730skdd3246m6l.jpg)  
-*Sisters Island, May 08*
 
-![](nematophthalmus/090807tmd8467m3.jpg)  
-About 2cm long. A juvenile? *Tanah Merah, Aug 09*
 
-![](nematophthalmus/080519sisd3370m3.jpg)  
-Very large mouth on a large flat head.  
-Elaborate fringe over the eyes.  
-*Sisters Island, May 08*
 
-![](nematophthalmus/200919bsisjll1.jpg)Over the eyeball, an elaborate golden filigree fringe. Above the eyes, several fleshy tentacles.  
-*Big Sisters Island, Sep 20*Photo shared by Jianlin Liu on [facebook](https://www.facebook.com/photo/?fbid=10157735611471295&set=a.10157735609381295).
 
 **What does it eat?** It is carnivorous,
 feeding on creatures that live on the sea bottom.
@@ -97,84 +167,41 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](nematophthalmus/110518bbrl1m6l.jpg)  
-*Beting Bronok, May 11*Photo shared by Russel Low on [facebook](http://www.facebook.com/media/set/?set=a.185549691496431.60496.109257872458947).
  
 
 ---
 
-![](nematophthalmus/151031ecpmblks1.JPG)  
-*East Coast-Marina Bay, Oct 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/23732580739/in/album-72157607745985508/).
 
-![](nematophthalmus/200819ecptch1.jpg)  
-*East Coast Park, Aug 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158759125713713&set=a.10158759137988713&type=3&theater).
 
 ---
 
-![](nematophthalmus/170822lablks1.jpg)  
- *Labrador, Aug 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3).
 
 ---
 
-![](nematophthalmus/090628lazlt2m3.jpg)  
-*Seringat-Kias, Jun 09*Photo shared by Liana Tang on [her
-blog](http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl).
 
-*![](nematophthalmus/241019lazmn2.jpg)  
-Lazarus Island, Oct 24*Photo shared by Che Cheng Neo on [facebook](https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10161536269958654).
 
-![](nematophthalmus/100528tkkjk8m3.jpg)  
-*Pulau Tekukor, May 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl).
 
 ---
 
-![](nematophthalmus/251009sjilvo5.jpg)  
-*St John's Island, Oct 25*Photo shared by Lon Voon Ong on [facebook](https://www.facebook.com/media/set/?set=a.122136995108927700&type=3&ref=embed_post).
 
-*![](nematophthalmus/251011ssisrk1.jpg)  
-Small Sisters Island, Oct 25*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/media/set/?set=a.10163166282432906&type=3&ref=embed_post).
 
 ---
 
-![](nematophthalmus/220518kusrk3.jpg)  
-*Kusu Island, May 22*Photo shared by Richard Kuah on facebook.
 
-![](nematophthalmus/220518kusrk3a.jpg)  
-*Kusu Island, May 22*Photo shared by Richard Kuah on facebook.
 
-![](nematophthalmus/250530kusmn2.jpg)  
-*Thysanophrys* sp. *Kusu Island, May 25*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10161510329043660&type=3&ref=embed_post).
 
 ---
 
-![](nematophthalmus/250812tbal2.jpg) *Terumbu Bemban, Aug 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post).
 
-![](nematophthalmus/200707hntvc1.jpg)  
-*Pulau Hantu, Jul 20*Photo shared by Vincent Choo on [facebook](https://www.facebook.com/photo.php?fbid=10157778625057945&set=a.10157778621147945&type=3&theater).
 
 ---
 
-![](nematophthalmus/110517tptlks5m3.jpg)  
- *Terumbu Pempang Tengah, May 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl)*.*
 
-![](nematophthalmus/090922labnml4m6l.jpg)  
-*Labrador, Sep 09*Photo shared by Neo Mei Lin on [her
-blog](http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labradorl).
 
-![](nematophthalmus/100613sngtch1m6l.jpg)  
-*Pulau Senang, Jun 10*Photo shared by Toh Chay Hoon on [her
-flickr](http://www.flickr.com/photos/ilmare77/4695942444/).
 
 ---
 
-![](nematophthalmus/091204pawjk3m3.jpg)  
-*Pulau Pawai, Dec 09*Photo shared by James Koh on [his
-flickr](http://www.flickr.com/photos/37823682@N04/4171064781/).
 
-![](nematophthalmus/091204pawjk2m3.jpg)  
-*Pulau Pawai, Dec 09*
 
 ---
 

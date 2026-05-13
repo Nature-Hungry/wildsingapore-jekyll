@@ -2,7 +2,7 @@
 title: Crescent perch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crescent, grunter, perch, fish, terapon, jarbua, teraponidae, theraponidae, therapontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Terapontidae
 genus: Terapon
@@ -17,6 +17,48 @@ superorder: Acanthomorpha
 order: Centrarchiformes
 suborder: Terapontoidei
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/040919sntd7091m3.jpg"
+  caption: |
+    <p>Sentosa, Sep 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/060628sntd3815m3.jpg"
+  caption: |
+    <p>Sentosa, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/070318labg8153m3a.jpg"
+  caption: |
+    <p>Tiny juveniles.</p>
+    <p>Labrador, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/150220chglc.jpg"
+  caption: |
+    <p>Changi, Feb 15Photo shared by Lena Chow on <a href="https://www.facebook.com/photo.php?fbid=10152774735773845&set=a.10151546155568845.1073741849.596333844&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/180603pglrk.jpg"
+  caption: |
+    <p>Punggol, Jun 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/posts/10156225822817906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/090623ecpjk4m3.jpg"
+  caption: |
+    <p>East Coast, Jun 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/06/east-coastl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/150617ecplks.JPG"
+  caption: |
+    <p>East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27776839316/in/album-72157607719316847/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/100709tmmn3m3.jpg"
+  caption: |
+    <p>Tanah Merah, Jul 10 Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4784965599/">his flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/160625tkkgl1.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jun 16 Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154924795318448.1073741837.611888447&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/250131tkkll2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Jan 25Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.9255239521165971&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/160409sjilks3.JPG"
+  caption: |
+    <p>St Johns Island, Apr 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/240114kusll1.jpg"
+  caption: |
+    <p>Kusu Island, Jan 24 Photo shared by Liz Lim on <a href="https://www.facebook.com/photo/?fbid=7166634566693154&set=a.7166629386693672">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/250331hntky1.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0go38mGJSfyJygDkfajeWjyN2MDJjXhZKos9sDVhafGx7yLR9oQQYJaiVB3Q11vSbl?__cft__[0]=AZWCqVMArp8RHjvuL6L95hfPipsVS0TECaleXYFXr_GBy7f-WjS38JtNwfZJvHMI3dSFvjebgMQ-NrFOJHRV1ju63-WDo0WsPgGjCmyNGBccN_Yyi3aAd5JflWyM4E5EZqFcD4Emc5iTfsX6h-GVRLNAbxyZkuqPpRQapqt9lsg75w&__tn__=%2CO%2CP-R">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/terapontidae/jarbua/040919sntd7091m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -58,9 +100,7 @@ sandy bottoms near river mouths. Also goes upriver and estuaries.
 Adults spawn in the sea and juveniles migrate into freshwater.  
   
 
-![](jarbua/040919sntd7091m3.jpg)  
-*Sentosa,
-Sep 04*
+{% include img-wrap-group.html items=page.page_images %}
 
 **What does it eat?** It eats fishes,
 insects, seaweeds and other small animals living in the sand.  
@@ -68,11 +108,7 @@ insects, seaweeds and other small animals living in the sand.
 **Human uses:** In some places, it
 is a marketed fish, sold fresh, dried or salted.
 
-![](jarbua/060628sntd3815m3.jpg)  
-*Sentosa, Jun 06*
 
-![](jarbua/070318labg8153m3a.jpg)  
-Tiny juveniles. *Labrador, Mar 07*
 
 ---
 
@@ -87,49 +123,21 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](jarbua/150220chglc.jpg)  
-*Changi, Feb 15*Photo shared by Lena Chow on [facebook](https://www.facebook.com/photo.php?fbid=10152774735773845&set=a.10151546155568845.1073741849.596333844&type=3&theater).
 
-![](jarbua/180603pglrk.jpg)  
-*Punggol, Jun 18*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/richard.k.tiong/posts/10156225822817906).
 
 ---
 
-![](jarbua/090623ecpjk4m3.jpg)  
-*East Coast, Jun 09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/06/east-coastl).
 
-![](jarbua/150617ecplks.JPG)  
-*East Coast Park, Jun 15*  
-Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27776839316/in/album-72157607719316847/).
 
-![](jarbua/100709tmmn3m3.jpg)  
-*Tanah Merah, Jul 10*  
-Photo shared by Marcus Ng on [his
-flickr](http://www.flickr.com/photos/budak/4784965599/).
 
 ---
 
-![](jarbua/160625tkkgl1.jpg)  
-*Pulau Tekukor, Jun 16*  
-Photo shared by Geraldine Lee on [facebook](https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154924795318448.1073741837.611888447&type=3).
 
-*![](jarbua/250131tkkll2.jpg)  
-Pulau Tekukor, Jan 25*Photo shared by Liz Lim on [facebook](https://www.facebook.com/media/set/?set=a.9255239521165971&type=3&ref=embed_post).
 
 ---
 
-![](jarbua/160409sjilks3.JPG)  
-*St Johns Island, Apr 16*  
-Photo shared by Loh Kok Sheng on [his blog](http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-gardenl).
 
-![](jarbua/240114kusll1.jpg)  
-*Kusu Island, Jan 24*  
-Photo shared by Liz Lim on [facebook](https://www.facebook.com/photo/?fbid=7166634566693154&set=a.7166629386693672).
 
-![](jarbua/250331hntky1.jpg)  
-*Pulau Hantu, Apr 25*  
-Photo shared by Kelvin Yong on [facebook](https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0go38mGJSfyJygDkfajeWjyN2MDJjXhZKos9sDVhafGx7yLR9oQQYJaiVB3Q11vSbl?__cft__[0]=AZWCqVMArp8RHjvuL6L95hfPipsVS0TECaleXYFXr_GBy7f-WjS38JtNwfZJvHMI3dSFvjebgMQ-NrFOJHRV1ju63-WDo0WsPgGjCmyNGBccN_Yyi3aAd5JflWyM4E5EZqFcD4Emc5iTfsX6h-GVRLNAbxyZkuqPpRQapqt9lsg75w&__tn__=%2CO%2CP-R).
 
 ---
 

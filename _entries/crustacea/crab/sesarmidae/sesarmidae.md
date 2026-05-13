@@ -2,7 +2,7 @@
 title: "Sesarmid crabs "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sesarmid, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Sesarmidae
 genus: ""
 species: ""
@@ -23,6 +23,28 @@ zoosection: Eubrachyura
 zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
+  caption: |
+    <p>About to munch on flowers?</p>
+    <p>Sungei Buloh Wetland Reserve, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/060627krjd3636m3.jpg"
+  caption: |
+    <p>This mama crab was carrying lots of eggs!</p>
+    <p>Kranji, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg"
+  caption: |
+    <p><a href="brockii">Mangrove tree-dwelling crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg"
+  caption: |
+    <p><a href="episesarma">Tree climbing crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3a.jpg"
+  caption: |
+    <p><a href="perisesarma">Face-banded sesarmine crab</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg"
+  caption: |
+    <p><a href="sarmatium">Mound crab</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,8 +94,7 @@ surfaces. Their bodies and legs are flattened, allowing them to squeeze
 deep into narrow cracks and crevices. In some species, males have
 larger pincers than females. Many can stay out of the water for some
 time.
-*![](episesarma/030928sbwad0054m3.jpg)*About to munch on flowers? *Sungei Buloh Wetland Reserve, Sep 03*
-*![](brockii/060627krjd3636m3.jpg)*This mama crab was carrying lots of eggs! *Kranji, Jun 06*
+{% include img-wrap-group.html items=page.page_images %}
  
 **Role in the habitat:** By feeding
 on mangrove leaves, these crabs recycle nutrients in the mangrove
@@ -94,16 +115,11 @@ crabs on Singapore shores**
 
 ---
 
-***![](brockii/031128sbwrad0071m3.jpg)*[Mangrove tree-dwelling crab](brockii)**
 
-***![](episesarma/031213sbwrd0047m3.jpg)*[Tree climbing
-crab](episesarma)**
 
-***![](perisesarma/100425kntd1687m3a.jpg)*[Face-banded sesarmine crab](perisesarma)**
 
 ---
 
-***![](sarmatium/110205krjd5938m3.jpg)*[Mound crab](sarmatium)**
 
 ---
 

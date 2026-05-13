@@ -2,7 +2,7 @@
 title: Eagle rays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "spotted, eagle, ray, aetobatus, mula, narinari, myliobatidae, fish, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 118]
 family: Myliobatidae
 genus: ""
@@ -17,6 +17,43 @@ subclass: Elasmobranchii
 infraclass: Batoidea
 order: Myliobatiformes
 updated: Dec 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg"
+  caption: |
+    <p>Aetobatus mula Large triangular 'wings' with white spots.</p>
+    <p>Tanah Merah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0856m3.jpg"
+  caption: |
+    <p>Eyes and breathing spiracles on the sides of the head.</p>
+    <p>Triangular snout.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3.jpg"
+  caption: |
+    <p>Venomous spines at the base of the tail.</p>
+    <p>Eagle babies: Mama Eagle ray gives birth to live young, a litter of 2-4 pups after a gestation period of probably a year.</p>
+    <p>The ray is sexually mature at 4 to 6 years.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/161218lab.jpg"
+  caption: |
+    <p>Labrador, Dec 16 Photo shared by Chi Yang</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Periplus Editions.</p>
+    <p>292 pp.</p>
+    <p>- Kuiter, Rudie H.</p>
+    <p>2002.</p>
+    <p>Guide to Sea Fishes of Australia: A Comprehensive Reference for Divers</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>New Holland Publishers.</p>
+    <p>434pp.</p>
+    <p>- Lieske, Ewald and Robert Myers.</p>
+    <p>2001.</p>
+    <p>Coral</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>Periplus Editions.</p>
+    <p>400pp.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m3g.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,21 +102,9 @@ weighing up to 230kgs. But more commonly about half that. One White-spotted eagl
 is white. A long thin whip-like tail with 2-6 venomous spines at the
 base. It has a bulging head with a triangular snout.
 
-![](narinari/110506tmftd0849m3g.jpg)  
-*Aetobatus mula*  
-Large triangular 'wings' with white spots.  
-*Tanah Merah, May 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](narinari/110506tmftd0856m3.jpg)  
-Eyes and breathing spiracles on   
-the sides of the head. Triangular snout.
 
-![](narinari/110506tmftd0849m3.jpg)  
-Venomous spines at  
-the base of the tail.
-**Eagle babies:** Mama Eagle ray gives
-birth to live young, a litter of 2-4 pups after a gestation period
-of probably a year. The ray is sexually mature at 4 to 6 years.  
   
 **What does it eat?** It feeds on
 clams but also eats shrimps, crabs, octopus, worms, snails and small
@@ -109,9 +134,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](narinari/161218lab.jpg)  
-*Labrador, Dec 16*  
-Photo shared by Chi Yang
 
 ---
 
@@ -156,17 +178,6 @@ ray)
   National Council on the Environment. 163pp.
 - Allen, Gerry,
   2000. *Marine
-  Fishes of South-East Asia: A Field Guide for Anglers and Divers![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Periplus Editions. 292 pp.
-- Kuiter, Rudie
-  H. 2002. *Guide
-  to Sea Fishes of Australia: A Comprehensive Reference for Divers
-  & Fishermen![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  New Holland Publishers. 434pp.
-- Lieske,
-  Ewald and Robert Myers. 2001. *Coral
-  Reef Fishes of the World![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*
-  Periplus Editions. 400pp.
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

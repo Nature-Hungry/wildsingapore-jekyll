@@ -2,7 +2,36 @@
 title: "Wooly elysia slug (Elysia) "
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg"
+  caption: |
+    <p>White knobs possibly the penis?</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -37,9 +66,7 @@ info on elysia slugs](elysiidae.htm)
 About 2cm long.
 Green body with only has a black margin around the parapodia (no orange
 margin). Little black spots. *Pulau Sekudu, May 04*
-![](elysianoid/040508skdbd0108m3.jpg)
-![](elysianoid/040508skdbd0108m3b.jpg)
-![](elysianoid/040508skdbd0108m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 
@@ -49,15 +76,7 @@ About 0.5-1cm long.
 Olive green body tapering 'wings' and very long rhinophores. Many
 seen on a bloom of unknown fine hairy green stuff on a sandy silty
 shore. *Seletar Feb 12*
-![](elysianoid/120223sltd7318m3.jpg)
-![](elysianoid/120223sltd7318m3a.jpg)
-![](elysianoid/120223sltd7321m3a.jpg)
-![](elysianoid/120223sltd7301m3.jpg)
-![](elysianoid/120223sltd7301m3a.jpg)
 
-![](elysianoid/120223sltd7301m3c.jpg)  
-White knobs possibly
-the penis?
 
 back to [general info on elysia slugs](elysiidae.htm)
 

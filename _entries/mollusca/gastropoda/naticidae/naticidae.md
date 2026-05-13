@@ -2,7 +2,7 @@
 title: "Moon snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "moon, snail, shell, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: []
 family: Naticidae
 genus: ""
@@ -16,6 +16,148 @@ subclass: Caenogastropoda
 order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg"
+  caption: |
+    <p>The Ball moon snail, like most moon snails, can deflate the huge body and retract completely into the shell.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg"
+  caption: |
+    <p>Siphon (upper left) and tentcles Bulldozing for prey: The body forms a wedge shape that helps the snail move under the sand.</p>
+    <p>The front of the foot is used like a plough.</p>
+    <p>A part of the foot covers the head as a protective shield.</p>
+    <p>The tentacles and siphon stick out of this shield.</p>
+    <p>The mantle (a part of its body) extends in two flaps over the shell on either side.</p>
+    <p>A moon snail's shell often remains shiny and lustrous because the mantle envelopes its shell, and the snail spends most of its time under the sand.</p>
+    <p>Encrusting animals have little chance of establishing on the shell of a living moon snail.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/060614ecpd3194m3.jpg"
+  caption: |
+    <p>Tiny button snails leaping away from a hunting moon snail.</p>
+    <p>East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/120802chgd9178.jpg"
+  caption: |
+    <p>A moon snail with a bivalve enveloped in its foot.</p>
+    <p>Changi, Aug 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/101011chgd2129m3c.jpg"
+  caption: |
+    <p>Clam shell with hole neatly drilled, possibly by a moon snail?</p>
+    <p>Changi, Oct 10 What do they eat?</p>
+    <p>Moon snails are fierce predators.</p>
+    <p>They feed on bivalves and snails.</p>
+    <p>A moon snail wraps its huge foot around the hapless prey to suffocate it.</p>
+    <p>If this fails, it has a gland at the tip of its proboscis that secretes an acid to soften the victim's shell.</p>
+    <p>With its radula, a hole is slowly drilled through the shell.</p>
+    <p>The hole created by a moon snail is usually neat and bevelled.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5864m3.jpg"
+  caption: |
+    <p>Bivalve escaping a moon snail!</p>
+    <p>Changi, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/noid/110705chgd5869m6l.jpg"
+  caption: |
+    <p>Using its long foot, the bivalve 'leaps' away to safety.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0383m3.jpg"
+  caption: |
+    <p><a href="onca.htm">China moon snail</a> dragging a small shell.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/080519sisd3457m3.jpg"
+  caption: |
+    <p><a href="zebra.htm">Zebra moon snail</a> dragging a small shell.</p>
+    <p>Sisters Island, May 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/080916tusd0464.jpg"
+  caption: |
+    <p>Two snails, mating?</p>
+    <p>or trying to eat the same thing?Tuas, Sep 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
+  caption: |
+    <p>Sand collar: egg mass of a moon snail.</p>
+    <p><a href="sandcollar.htm">more photos</a> of sand collars.</p>
+    <p>Pulau Sekudu, Jul 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg"
+  caption: |
+    <p>Sand collar: egg mass of a moon snail.</p>
+    <p><a href="sandcollar.htm">more photos</a> of sand collars.</p>
+    <p>Chek Jawa, Nov 04 Role in the habitat: When a moon snail dies, its shell is usually quickly taken over by a hermit crab.</p>
+    <p>Many of the moon snail shells you see on the surface will probably be so occupied.</p>
+    <p>Living moon snails are rarely seen above ground during the day.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050511cftg6255m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3342m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/050524cftg6597m3.jpg"
+  caption: |
+    <p><a href="didyma.htm">Ball moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg"
+  caption: |
+    <p><a href="mammilla.htm">Oval moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120512cyrd3341m3.jpg"
+  caption: |
+    <p><a href="albumen.htm">Eggwhite moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/110830cyrd0332m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6844m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0646m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/onca/111127sisd3940m3.jpg"
+  caption: |
+    <p><a href="onca.htm">China moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/060711chgg6281m3.jpg"
+  caption: |
+    <p><a href="pink.htm">Pink moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/zebra/050807sjig0641m3.jpg"
+  caption: |
+    <p><a href="zebra.htm">Zebra moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4564m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/tigrina/050412tusg4560m3b.jpg"
+  caption: |
+    <p><a href="tigrina.htm">Tiger moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg"
+  caption: |
+    <p><a href="lineata.htm">Lined moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8184m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/spotted/100711cyrd8186m3.jpg"
+  caption: |
+    <p><a href="spotted.htm">Spotted moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110518bbd1899m3.jpg"
+  caption: |
+    <p><a href="vitellus.htm">Calf moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg"
+  caption: |
+    <p><a href="albumen.htm">Eggwhite moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/130401chg.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/111028chged2720m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammatus/110705chgd5817m3.jpg"
+  caption: |
+    <p>Shell of a dead snail <a href="mammatus.htm">Bosom moon snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg"
+  caption: |
+    <p><a href="sinum.htm">Naked moon snail</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -73,46 +215,12 @@ large bodies which cannot be retracted fully into the shell.
 snail is fully extended out of its shell, it has an amazingly large
 body compared to its shell. It achieves this by inflating its tissues
 with seawater.
-![](didyma/110520chgd2415m6l.jpg)  
-The Ball moon snail, like most moon snails, can deflate the huge body   
-and retract completely into the shell. *Changi, May
-11* 
-![](didyma/110520chgd2415m3a.jpg)  
-Siphon (upper left) and tentcles
-**Bulldozing for prey:** The body forms a wedge shape that helps the snail move under the sand.
-The front of the foot is used like a plough. A part of the foot covers
-the head as a protective shield. The tentacles and siphon stick out
-of this shield. The mantle (a part of its body) extends in two flaps
-over the shell on either side. A moon snail's shell often remains shiny and lustrous because the
-mantle envelopes its shell, and the snail spends most of its time
-under the sand. Encrusting animals have little chance of establishing
-on the shell of a living moon snail.  
+{% include img-wrap-group.html items=page.page_images %}
   
 **Sometimes mistaken for** a sea slug when the mantle covers the shell.
 Some moon snails can't retract completely into their shells: like the [Naked moon snail](sinum.htm) and [Bosom moon snail](mammatus.htm). Here's more on how to tell apart [animals
 that resemble sea slugs](../../../glossary/flatwormslug.htm).
-*![](didyma/060614ecpd3194m3.jpg)*Tiny button snails leaping away  
-from a hunting moon snail.  
-*East Coast, Jun 06* 
-![](pink/120802chgd9178.jpg)  
-A moon snail with a bivalve enveloped in its foot. *Changi, Aug 12*
-*![](noid/101011chgd2129m3c.jpg)*  
-Clam shell with hole neatly drilled,  
-possibly by a moon snail?  
-*Changi, Oct 10*
-**What do they eat?** Moon snails
-are fierce predators. They feed on bivalves and snails. A moon snail
-wraps its huge foot around the hapless prey to suffocate it. If this
-fails, it has a gland at the tip of its proboscis that secretes an
-acid to soften the victim's shell. With its radula, a hole is slowly
-drilled through the shell. The hole created by a moon snail is usually
-neat and bevelled.
-*![](noid/110705chgd5864m3.jpg)*  
-Bivalve escaping a moon snail!  
-*Changi, Jul 11*
 
-*![](noid/110705chgd5869m6l.jpg)*  
-Using its long foot, the bivalve 'leaps' away to safety.
 
 Moon snail attempting
 to eat a bivalve as big as itself!  
@@ -124,28 +232,13 @@ blog](http://peiyansama.blogspot.sg/2013/08/new-surprises-at-cyrene-reef-with-la
 **Snail takeaway?** Some moon snails have been seen 'dragging' a small snail shell behind them attached
 to the foot. Is it taking the meal away to some other place to eat it in safety?
 
-*![](onca/110830cyrd0383m3.jpg)*[China moon snail](onca.htm) dragging a small shell. *Cyrene Reef, Aug 11*
 
-![](zebra/080519sisd3457m3.jpg)  
-[Zebra moon snail](zebra.htm) dragging a small shell. *Sisters Island, May 08*
 
 **Moon babies:** The sand collar is
 the moon snail's egg mass. When the eggs hatch, the collar disintegrates.
 Thus, an intact collar has living snails in it! Please don't damage
 the sand collars.
 More [about sand collars](sandcollar.htm).
-![](tigrina/080916tusd0464.jpg)  
-Two snails, mating? or trying to eat the same thing?*Tuas, Sep 08*
-*![](sandcollar/030703skdd0250m3.jpg)*Sand collar: egg mass of a moon snail.  
-[more photos](sandcollar.htm) of sand collars.  
-*Pulau Sekudu, Jul 03*
-*![](sandcollar/041127cjd8603m3.jpg)*Sand collar: egg mass of a moon snail.  
-[more photos](sandcollar.htm) of sand collars. *Chek Jawa, Nov 04*
-**Role in the habitat:** When a moon
-snail dies, its shell is usually quickly taken over by a hermit crab. Many
-of the moon snail shells you see on the surface will probably be so
-occupied. Living moon snails are rarely seen above ground during the
-day.   
   
 **Human uses:** Some larger moon snail
 species are sold as food in Asian markets.  
@@ -163,77 +256,39 @@ snails on Singapore shores**
 
 ---
 
-**![](didyma/050511cftg6255m3.jpg)**
 
-**![](mammilla/090806tmd8343m3.jpg)**
 
-![](albumen/120512cyrd3342m3.jpg)
 
-**![](didyma/050524cftg6597m3.jpg)  
-[Ball moon snail](didyma.htm)**
 
-**![](mammilla/090609sntd3548m3.jpg)  
-[Oval moon snail](mammilla.htm)**
 
-**![](albumen/120512cyrd3341m3.jpg)  
-[Eggwhite moon snail](albumen.htm)**
 
 ---
 
-***![](onca/110830cyrd0332m3.jpg)***
 
-**![](pink/080704sekd6844m3.jpg)**
 
-**![](zebra/050807sjig0646m3.jpg)**
 
-***![](onca/111127sisd3940m3.jpg)*  
-[China moon snail](onca.htm)**
 
-**![](pink/060711chgg6281m3.jpg)  
-[Pink moon snail](pink.htm)**
 
-**![](zebra/050807sjig0641m3.jpg)  
-[Zebra moon snail](zebra.htm)**
 
 ---
 
-**![](tigrina/050412tusg4564m3.jpg)**
 
-**![](lineata/081116chgd2193m3.jpg)**
 
-***![](tigrina/050412tusg4560m3b.jpg)*  
-[Tiger moon snail](tigrina.htm)**
 
-**![](lineata/081116chgd2180.jpg)  
-[Lined moon snail](lineata.htm)**
 
 ---
 
-***![](spotted/100711cyrd8184m3.jpg)***
 
-**![](vitellus/110714chgd6457m3.jpg)**
 
-***![](albumen/120621cyrd6210m3.jpg)***
 
-***![](spotted/100711cyrd8186m3.jpg)*  
-[Spotted moon snail](spotted.htm)**
 
-**![](vitellus/110518bbd1899m3.jpg)  
-[Calf moon snail](vitellus.htm)**
 
-***![](albumen/120621cyrd6171m3.jpg)*  
-[Eggwhite moon snail](albumen.htm)**
 
 ---
 
-**![](mammatus/130401chg.jpg)**
 
-**![](sinum/111028chged2720m3.jpg)**
 
-**![](mammatus/110705chgd5817m3.jpg)***Shell of a dead snail* **[Bosom
-moon snail](mammatus.htm)**
 
-**![](sinum/050402cjg3999m3a.jpg) [Naked moon snail](sinum.htm)**
 
 ---
 

@@ -2,7 +2,7 @@
 title: Candystripe cardinalfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "candy, stripe,cardinalfish, cardinal, fish, ostorhinchus, apogon, endekataenia, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Apogonidae
 genus: Ostorhinchus
@@ -18,6 +18,21 @@ order: Gobiiformes
 suborder: Apogonoidei
 subfamily: Apogoninae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg"
+  caption: |
+    <p>Tanah Merah, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110831tmnbd0570m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m6l.jpg"
+  caption: |
+    <p>Pulau Tekukor, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/120424tmnbd0485m3.jpg"
+  caption: |
+    <p>Tanah Merah, Apr 12 \Species are difficult to positively identify without close examination.</p>
+    <p>On this website, they are grouped by external features for convenience of display.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -55,18 +70,7 @@ known as *Apogon endekataenia*.
 **Features:** To about 14cm,
 those seen about 5-7cm. Body slender pale. 6 red or brown lines with a
 large black spot at the base of the tail fin.
-![](candystripe/110506tmftd0831.jpg)  
-*Tanah Merah, May 11* 
-![](candystripe/110831tmnbd0570m6l.jpg)  
-*Tanah Merah, Aug 11*
-![](candystripe/100528tkkd3753m6l.jpg)  
-*Pulau Tekukor, May 10*
-![](candystripe/120424tmnbd0485m3.jpg)  
-*Tanah Merah, Apr 12*
- *\*Species are difficult
-to positively identify without close examination.  
-On this website, they are grouped by external features for convenience of
-display.*
+{% include img-wrap-group.html items=page.page_images %}
 
 ---
 

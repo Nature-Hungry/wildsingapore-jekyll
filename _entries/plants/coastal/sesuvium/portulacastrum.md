@@ -2,7 +2,7 @@
 title: "Gelang laut "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "sesuvium, portulacastrum, aizoaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 39]
 family: Aizoaceae
 genus: Sesuvium
@@ -17,6 +17,24 @@ subfamily: Sesuvioideae
 tribe: Sesuvieae
 inat_id: 130743
 updated: Jan 13
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg"
+  caption: |
+    <p>Growing with <a href="../ipomoea/pescaprae">Beach morning glory</a>.</p>
+    <p>Pulau Semakau, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9021m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3a.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090126ubnd6233m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/sesuvium/portulacastrum/090405smkd9020m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Apr 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -70,23 +88,11 @@ contain much salt. According to Geisen, in Thailand, this plant is
 used widely as forage and feed for sheep, cattle and pigs and even
 as a vegetable for human consumption.   
 
-![](../ipomoea/pescaprae/090118smkd5798m3.jpg)  
-Growing with [Beach morning glory](../ipomoea/pescaprae). *Pulau Semakau, Jan 09*  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](portulacastrum/090405smkd9021m3.jpg)  
-*Pulau Semakau, Apr 09*
 
-*![](portulacastrum/090126ubnd6233m3a.jpg)*  
-*Pulau Ubin,
-Jan 09*
 
-![](portulacastrum/090126ubnd6233m3.jpg)  
-*Pulau Ubin,
-Jan 09*
 
-*![](portulacastrum/090405smkd9020m3.jpg)*  
-*Pulau Semakau,
-Apr 09*
 
 ---
 

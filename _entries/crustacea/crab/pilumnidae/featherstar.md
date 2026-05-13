@@ -2,7 +2,7 @@
 title: Crinoid crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "crab, hairy, crustacea, ceratocarcinus, longimanus, harrovia, albolineata, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [38, 106]
 family: Pilumnidae
 genus: ""
@@ -23,6 +23,17 @@ zoosection: Eubrachyura
 zoosubsection: Heterotremata
 superfamily: Pilumnoidea
 updated: Dec 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
+  caption: |
+    <p>Sisters Island, Feb 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27814987945/in/album-72157607725632221/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks3.JPG"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks1.JPG"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/featherstar/150220lsislks2.JPG"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -60,12 +71,9 @@ somewhat hexagonal, with long legs and long narrow pincers. Its colours and patt
 **Status and threats:** Our *Harrovia* species are listed as 'Critically Endangered' on the
 Red List of threatened animals of Singapore. As it is only found in feather stars, it depends on protection of our reefs.
 According to Dr Tan Heok Hui, *Harrovia longipes* was last recorded from Singapore waters in the 1990s, and there had been no collections or reported sightings since then. Until Dr Tan found two in 2012.
-![](featherstar/150220lsislks2.JPG)  
-*Sisters Island, Feb 15*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/27814987945/in/album-72157607725632221/).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](featherstar/150220lsislks3.JPG)
 
-![](featherstar/150220lsislks1.JPG)
 
  *\*Species are difficult
 to positively identify without close examination.  

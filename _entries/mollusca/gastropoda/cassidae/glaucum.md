@@ -2,7 +2,7 @@
 title: Grey bonnet snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "helmet, bonnet, phalium, glaucum, cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cassidae
 genus: Phalium
 species: glaucum
@@ -17,6 +17,65 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 subfamily: Phaliinae
 updated: Jan 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg"
+  caption: |
+    <p>Thick strong foot.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2770m3.jpg"
+  caption: |
+    <p>Buried with only its siphon sticking out.</p>
+    <p>Changi East, Oct 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrlks.JPG"
+  caption: |
+    <p>Juvenile with less developed shell.</p>
+    <p>Cyrene Reef, Aug 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6119778463/in/album-72157607718672165/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg"
+  caption: |
+    <p>On top of a Cake sand dollar.</p>
+    <p>Cyrene Reef, Aug 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0379m3a.jpg"
+  caption: |
+    <p>Notch in the shell for its siphon.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg"
+  caption: |
+    <p>Baby bonnets: Egg capsules usually form an irregular mass, the result of several females spawning together.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1.jpg"
+  caption: |
+    <p>Cyrene, May 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02YUTX1JRu7m9p7J93C9CKLfnVVuCy8GaUr59cr4hHhpkb3HDj8B2FutwT3DiLQDRal&id=61566639210004&__cft__[0]=AZVvtYI7-_dfQKUoV8XeRX3LAZtbZOxYMSsBfFydeQKFdSMhD1OklSbAMUUOYNtO8Hs2qcn4DJCEdImG6evzEU6HQ9_GO-AkOcrSnK1M5fhtI0xIAUrXax0WORtCYuZ-nDI_4f44GsUflSD-RDYSml2cy4mckTne6Slb2J5riRRqhQ&__tn__=%2CO%2CP-R">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/250503cyrlml1b.jpg"
+  caption: |
+    <p></p>
+- url: "https://live.staticflickr.com/700/19998112723_8c9d303cdb_z.jpg"
+  caption: |
+    <p>](https://www.flickr.com/photos/wildsingapore/19998112723/ "Grey bonnet snail (Phalium glaucum)")</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/191214cjjt3.jpg"
+  caption: |
+    <p>Chek Jawa, Dec 19Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10156921021428576&set=a.10156921015753576&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/251206chgelks2.jpg"
+  caption: |
+    <p>Changi East (Lost Coast), Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163665477508158&type=3&ref=embed_post">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/220616chgelks9.jpg"
+  caption: |
+    <p>Eating a sand dollar?</p>
+    <p>Changi East (Lost Coast), Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940593228158&set=a.10159940599688158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/210529ecpgtch1.jpg"
+  caption: |
+    <p>East Coast (G), May 21Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10156921021428576&set=a.10156921015753576&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/140501kusmn.jpg"
+  caption: |
+    <p>Kusu Island, May 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/30088558100/in/album-72157644044207678/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg"
+  caption: |
+    <p>Eating a sand dollar?</p>
+    <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/260201cyrlks3.jpg"
+  caption: |
+    <p>Cyrene, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,34 +121,18 @@ allowing it to breathe while it stays beneath the sand to hunt or
 eat its prey. It has a white body and large yellowish foot which is
 edged in brown, the operculum is fan-shaped and bright yellow.
 
-![](glaucum/110830cyrd0370m3.jpg)  
-Thick strong foot. *Cyrene Reef, Aug 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](glaucum/111028chged2770m3.jpg)  
-Buried with only its siphon sticking out. *Changi East, Oct 11*
 
-![](glaucum/110830cyrlks.JPG)  
-Juvenile with less developed shell. *Cyrene Reef, Aug 11*Photo shared by Loh Kok Sheng on [flickr](https://www.flickr.com/photos/koksheng/6119778463/in/album-72157607718672165/).
 
 **What does it eat?** According to
 Tan, it feeds on sea urchins but according to Poutiers it feeds on
 sand dollars. On our shores, they have been seen on top of [Cake
 sand dollars](../../../echinodermata/echinoidea/sandollar/arachnoides.htm), and when the sand dollar is examined, a hole is seen in the sand dollar skeleton. This suggests the snail bored the hole. For
 more gruesome feeding details, see [Family Cassidae](cassidae.htm).
-![](glaucum/110830cyrd0374m3.jpg)On top of a Cake sand dollar. *Cyrene Reef, Aug 11*
-![](glaucum/110830cyrd0379m3a.jpg)  
-Notch in the shell for its siphon.
-![](glaucum/110830cyrd0365m3.jpg)
-**Baby bonnets:** Egg capsules usually
-form an irregular mass, the result of several females spawning together.
 
-*![](glaucum/250503cyrlml1.jpg)  
-Cyrene, May 25*  
-Photo shared by Mathias Luk on [facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid02YUTX1JRu7m9p7J93C9CKLfnVVuCy8GaUr59cr4hHhpkb3HDj8B2FutwT3DiLQDRal&id=61566639210004&__cft__[0]=AZVvtYI7-_dfQKUoV8XeRX3LAZtbZOxYMSsBfFydeQKFdSMhD1OklSbAMUUOYNtO8Hs2qcn4DJCEdImG6evzEU6HQ9_GO-AkOcrSnK1M5fhtI0xIAUrXax0WORtCYuZ-nDI_4f44GsUflSD-RDYSml2cy4mckTne6Slb2J5riRRqhQ&__tn__=%2CO%2CP-R).
 
-![](glaucum/250503cyrlml1a.jpg)
 
-![](glaucum/250503cyrlml1b.jpg)
 
 **Human uses:** It is collected for
 food and for the shell trade.   
@@ -100,7 +143,6 @@ Singapore. It is threatened by habitat loss and over-collection. The
 Book states that it has not been seen since the early 1970s and its
 status needs investigation to determine if there are any remaining
 populations.
-[![Grey bonnet snail (Phalium glaucum)](https://live.staticflickr.com/700/19998112723_8c9d303cdb_z.jpg)](https://www.flickr.com/photos/wildsingapore/19998112723/ "Grey bonnet snail (Phalium glaucum)")
 
 ---
 
@@ -119,33 +161,18 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](glaucum/191214cjjt3.jpg)  
- *Chek Jawa, Dec 19*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/photo.php?fbid=10156921021428576&set=a.10156921015753576&type=3&theater).
 
 ---
 
-![](glaucum/251206chgelks2.jpg)  
- *Changi East (Lost Coast), Dec 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163665477508158&type=3&ref=embed_post)..
 
-![](glaucum/220616chgelks9.jpg)  
-Eating a sand dollar? *Changi East (Lost Coast), Jun 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159940593228158&set=a.10159940599688158).
 
-![](glaucum/210529ecpgtch1.jpg)  
- *East Coast (G), May 21*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/photo.php?fbid=10156921021428576&set=a.10156921015753576&type=3&theater).
 
 ---
 
-![](glaucum/140501kusmn.jpg)  
- *Kusu Island, May 14*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/30088558100/in/album-72157644044207678/).
 
 ---
 
-*![](glaucum/110508cyrmng3m3.jpg)*Eating
-a sand dollar? *Cyrene Reef, May 11*Photo
-shared by Marcus Ng on [flickr](http://www.flickr.com/photos/budak/sets/72157626681285094/).
 
-![](glaucum/260201cyrlks3.jpg)  
- *Cyrene, Feb 26*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163927237053158&type=3&ref=embed_post).
 
 ---
 

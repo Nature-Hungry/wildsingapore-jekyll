@@ -2,7 +2,7 @@
 title: Spinoid worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tube, worm, spionid, spionidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Spionidae
 genus: ""
 species: ""
@@ -17,6 +17,34 @@ infraclass: Canalipalpata
 order: Spionida
 suborder: Spioniformia
 updated: Sep 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg"
+  caption: |
+    <p>On <a href="../../porifera/chocolate">Chocolate sponge</a>.</p>
+    <p>Terumbu Raya, Jul 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8034m3b.jpg"
+  caption: |
+    <p>Tiny short pale tentacles.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/120124sisd5948m3a.jpg"
+  caption: |
+    <p>On <a href="../../porifera/coelocarteria">Daisy sponges</a>.</p>
+    <p>Sisters Island, Jan 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/081212cyrd2927m3a.jpg"
+  caption: |
+    <p>On <a href="../../porifera/sprawlorange">Orange sprawling sponge</a>.</p>
+    <p>Cyrene Reef, Dec 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/100530tbkd4320m3a.jpg"
+  caption: |
+    <p>On <a href="../../porifera/smoothbrown">Smooth brown sponge</a>.</p>
+    <p>Terumbu Berkas, May 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/xestospongia/040803tusd3969m3a.jpg"
+  caption: |
+    <p>On <a href="../../porifera/xestospongia">Barrel sponges</a>.</p>
+    <p>Tuas, Aug 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/190706skdro2.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 19Photo shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542">facebook</a>..</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg"
 ---
 
 
@@ -51,30 +79,12 @@ or wander freely.
 but are often overlooked. About 0.5cm long. Tiny short beige tubes. Often found in large numbers, encrusting a surface spacing themselves
 out regularly, at a distance equalling the length of their tentacles.
 
-![](spionidae/110731tryd8033m3.jpg)  
-On [Chocolate
-sponge](../../porifera/chocolate). *Terumbu Raya, Jul 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](spionidae/110731tryd8034m3b.jpg)  
-Tiny short pale tentacles.
 
-![](spionidae/120124sisd5948m3a.jpg)  
-On [Daisy sponges](../../porifera/coelocarteria). *Sisters Island, Jan 12*
 
-![](../../porifera/sprawlorange/081212cyrd2927m3a.jpg)  
-On [Orange sprawling
-sponge](../../porifera/sprawlorange).  
-*Cyrene Reef, Dec 08*
 
-![](spionidae/100530tbkd4320m3a.jpg)  
-On [Smooth brown
-sponge](../../porifera/smoothbrown).  
-*Terumbu Berkas, May 10*
 
-![](../../porifera/xestospongia/040803tusd3969m3a.jpg)  
-On [Barrel sponges](../../porifera/xestospongia).  
-*Tuas, Aug
-04*
 
   
 *\***Tentative
@@ -100,8 +110,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](spionidae/190706skdro2.jpg)  
-*Pulau Sekudu, Jul 19*Photo shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542)..
 
 ---
 
@@ -118,5 +126,3 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
   Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii
   exclusive of the vertebrates*
   Sea Challengers. 314pp.
-
-

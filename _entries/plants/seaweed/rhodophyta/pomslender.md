@@ -2,7 +2,7 @@
 title: "Slender   crunchy pom-pom red seaweed "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 division: Rhodophyta
 family: Corallinaceae
 genus: Jania
@@ -20,6 +20,44 @@ suborder: Corallinineae
 subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3d.jpg"
+  caption: |
+    <p>White rounded 'caps' at the tips.</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/120410chgd9015m3.jpg"
+  caption: |
+    <p>Loose bunches growing among seagrasses.</p>
+    <p>Changi, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/110520chgd2384m3.jpg"
+  caption: |
+    <p>Growing on an abandoned rope.</p>
+    <p>Changi, May 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/080425cyrd1775m3b.jpg"
+  caption: |
+    <p>Loose tangles growing among seagrasses.</p>
+    <p>Cyrene Reef, Apr 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3.jpg"
+  caption: |
+    <p>Chek Jawa, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050526cjg6842m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3.jpg"
+  caption: |
+    <p>Labrador, Jun 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050625labg8597m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3.jpg"
+  caption: |
+    <p>Sentosa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/050720sntg9570m3b.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomslender/070902skdg2154m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,32 +109,15 @@ red seaweeds include *Amphiroa fragilissima.*
 **May be confused with** other [pinkish seaweeds with a pom
 pom shape.](pompom)
 
-*![](pomslender/070902skdg2154m3.jpg)  
-Pulau Sekudu, Jul 09  
-![](pomslender/070902skdg2154m3d.jpg)*White rounded 'caps' at the tips.
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](pomslender/120410chgd9015m3.jpg)*Loose bunches growing among seagrasses.  
- *Changi, Apr 12*
 
-*![](pomslender/110520chgd2384m3.jpg)*Growing on an abandoned rope.  
-*Changi, May 11*
 
-*![](pomslender/080425cyrd1775m3b.jpg)*Loose tangles growing among seagrasses.  
- *Cyrene Reef, Apr 08*
 
 ---
 
-*![](pomslender/050526cjg6842m3.jpg)  
-Chek Jawa, May 05  
-![](pomslender/050526cjg6842m3a.jpg)*
 
-*![](pomslender/050625labg8597m3.jpg)  
-Labrador, Jun 05  
-![](pomslender/050625labg8597m3a.jpg)*
 
-*![](pomslender/050720sntg9570m3.jpg)  
-Sentosa, Jul 05  
-![](pomslender/050720sntg9570m3b.jpg)*
 
   
 *\*Seaweed species

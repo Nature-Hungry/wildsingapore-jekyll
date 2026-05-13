@@ -2,7 +2,7 @@
 title: Silversides
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Atherinidae
 genus: ""
@@ -16,6 +16,43 @@ class: Actinopterygii
 superorder: Acanthomorpha
 order: Atheriniformes
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg"
+  caption: |
+    <p>Pulau Semakau, Aug 14</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg"
+  caption: |
+    <p>Tanah Merah, Dec 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg"
+  caption: |
+    <p>Sometimes large schools are seen.</p>
+    <p>Chek Jawa, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg"
+  caption: |
+    <p>The school, seen from the boardwalk.</p>
+    <p>Chek Jawa, Jan 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg"
+  caption: |
+    <p>Other fishes prey on them.</p>
+    <p>Sisters Island, Aug 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg"
+  caption: |
+    <p>Carpet anemones are among their predators.</p>
+    <p>Kusu Island, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg"
+  caption: |
+    <p>Swimming crabs also eat them.</p>
+    <p>Kusu Island, Sep 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4982574993/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157522790593660&set=a.10157522494898660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg"
+  caption: |
+    <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/37359269096/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg"
+  caption: |
+    <p>Pulau Biola, Jan 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649730713158&set=a.10159649733953158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,32 +114,15 @@ grey, bluish to bright blue. Usually with a narrow silvery line along
 the length of the side of the body.  
   
 **Sometimes confused with** other small silvery fishes. More on [how to tell apart small silvery fishes](../cfsilvery.htm).
-![](duodecimalis/140810smksd8112m3.jpg)  
-*Pulau Semakau, Aug 14*
-![](duodecimalis/111213tmftd4612m6l.jpg)  
- *Tanah Merah, Dec 11*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](duodecimalis/100124cjd7926m6l.jpg)  
-Sometimes large schools are seen.  
-*Chek Jawa, Jan 10*
 
-![](duodecimalis/100124cjd7927m3.jpg)  
-The school, seen from the boardwalk.  
-*Chek Jawa, Jan 10*
 
 **What do they eat?** Many feed on
 zoo plankton or other tiny creatures that live in the water column
 (as opposed to on the sea bottom). Being so numerous, they are important prey for other
 larger fishes, other marine life and sea birds.
- *![](duodecimalis/090822sisd9645m3a.jpg)*Other fishes
-prey on them.  
-*Sisters Island, Aug 09*
-*![](duodecimalis/120607kusd4706.jpg)*Carpet anemones are among their predators.  
-*Kusu Island, Jun 12*
 
-![](duodecimalis/100912kusjk.jpg)  
-Swimming crabs also eat them.  
-*Kusu Island, Sep 10*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/4982574993/).
 
 **Human uses:** Only a few species of this Family
 are large enough to be valuable as human food. Smaller ones maybe
@@ -129,17 +149,10 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](duodecimalis/200706skdmn2.jpg)  
- *Pulau Sekudu, Jul 20*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10157522790593660&set=a.10157522494898660&type=3&theater).
 
-![](duodecimalis/140713tsmkmn.jpg)  
-*Terumbu Semakau, Jul 14*  
-Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/37359269096/).
 
 ---
 
-![](duodecimalis/220102biolks3.jpg)  
-*Pulau Biola, Jan 22*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159649730713158&set=a.10159649733953158).  
   
 
 ---

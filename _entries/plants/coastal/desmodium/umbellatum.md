@@ -2,7 +2,7 @@
 title: Petai laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "desmodium, umbellatum, fabaceae, plant, shrub, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [18, 21, 36, 121]
 family: Fabaceae
 genus: Desmodium
@@ -18,6 +18,73 @@ subfamily: Faboideae
 tribe: Desmodieae
 subtribe: Desmodiinae
 updated: Nov 10
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg"
+  caption: |
+    <p>Pulau Hantu, Apr 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9881m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9883m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9891m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9886m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9887m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9917m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9884m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hntd9888m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3.jpg"
+  caption: |
+    <p>Pasir Ris, May 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2914m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090529prpd2915m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Singapore University Press.</p>
+    <p>222 pp.</p>
+    <p>- Corners, E.</p>
+    <p>J.</p>
+    <p>H., 1997.</p>
+    <p>[Wayside</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
+    <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
+    <p>- Burkill, I.</p>
+    <p>H., 1993.</p>
+    <p>[A</p>
+- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+  caption: |
+    <p>.</p>
+    <p>3rd printing.</p>
+    <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
+    <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/desmodium/umbellatum/090412hnto0283m3.jpg"
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -78,37 +145,21 @@ used for drawing water from wells. Charcoal produced from the wood
 is widely used by blacksmiths. Leaves are used as in a tonic for women
 after childbirth. It is also grown as an ornamental plant.   
 
-![](umbellatum/090412hnto0283m3.jpg)  
-*Pulau Hantu,
-Apr 09  
-![](umbellatum/090412hntd9881m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-*![](umbellatum/090412hntd9883m3.jpg)*
 
-*![](umbellatum/090412hntd9883m3a.jpg)*
 
-*![](umbellatum/090412hntd9891m3.jpg)*
 
-*![](umbellatum/090412hntd9884m3.jpg)*
 
-*![](umbellatum/090412hntd9886m3.jpg)*
 
-*![](umbellatum/090412hntd9887m3a.jpg)*
 
-*![](umbellatum/090412hntd9917m3a.jpg)*
 
-*![](umbellatum/090412hntd9884m3a.jpg)*
 
-*![](umbellatum/090412hntd9888m3.jpg)*
 
 ---
 
-*![](umbellatum/090529prpd2914m3.jpg)  
-Pasir Ris, May 09*
 
-*![](umbellatum/090529prpd2914m3a.jpg)*
 
-*![](umbellatum/090529prpd2915m3.jpg)*
 
 ---
 
@@ -125,18 +176,6 @@ Pasir Ris, May 09*
 
 - Hsuan Keng,
   S.C. Chin and H. T. W. Tan. 1990, *[The
-  Concise Flora of Singapore: Gymnosperms and Dicotyledons](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FConcise-Flora-Singapore-Gymnosperms-Dicotyledons%2Fdp%2F9971691353%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175580156%26sr%3D8-2&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Singapore University Press. 222 pp.
-- Corners,
-  E. J. H., 1997. *[Wayside
-  Trees of Malaya: in two volumes](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FWAYSIDE-TREES-MALAYA-2-Volumes%2Fdp%2FB000H9ABCG%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175578169%26sr%3D8-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  Fourth edition, Malayan Nature Society, Kuala Lumpur. Volume 1:
-  1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.
-- Burkill,
-  I. H., 1993. *[A
-  Dictionary of the Economic Products of the Malay Peninsula](http://www.amazon.com/gp/redirectl?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2Fdictionary-economic-products-Malay-Peninsula%2Fdp%2FB0006EUWTE%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1175505620%26sr%3D1-1&tag=wildsingapo08-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1)*.
-  3rd printing. Publication Unit, Ministry of Agriculture, Malaysia,
-  Kuala Lumpur. Volume 1: 1-1240; volume 2: 1241-2444.
 
 [www.**flickr**.com](http://www.flickr.com)  
 

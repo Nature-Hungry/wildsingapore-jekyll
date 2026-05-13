@@ -2,7 +2,7 @@
 title: White spiral fanworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Sabellidae
 genus: ""
 species: identification*
@@ -16,6 +16,47 @@ subclass: Sedentaria
 infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3c.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050526cjg6820m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050526cjg6820m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/090824tusjk2m3.jpg"
+  caption: |
+    <p>Tuas, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180519ssisdc5.jpg"
+  caption: |
+    <p>Small Sisters Island, May 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1588499791266791&set=a.1588495367933900&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180912tkkmn2.jpg"
+  caption: |
+    <p>Pulau Tekukor, Sep 18Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155838280758660&set=a.10155838276003660&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/180620jngdc1.jpg"
+  caption: |
+    <p>Pulau Jong, Jun 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1621905027926267&set=a.1621899711260132&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/150720smknrl1m3.jpg"
+  caption: |
+    <p>Pulau Semakau North, Jul 15Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.969213436463382.1073741847.109257872458947&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/200625tblks3.jpg"
+  caption: |
+    <p>Terumbu Bemban, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158398028458158&set=a.10158398059803158&type=3&theater">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/100629tpdjk16m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/160312tptmn2.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509281398660&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/110423tpllks3m3.jpg"
+  caption: |
+    <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl">his blog</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/white/050806skdg0543m3.jpg"
 ---
 
 
@@ -47,11 +88,7 @@ the white body.The
 worms are often seen close to one another, in groups of 5 or more.
 They are very sensitive to disturbances and will disappear at the
 slightest sign of danger.
-*![](sabellidae/white/050806skdg0543m3.jpg)  
-Pulau Sekudu, Aug 05**![](sabellidae/white/050806skdg0543m3c.jpg)*
-*![](sabellidae/white/050526cjg6820m3.jpg)  
-Chek Jawa,
-May 05![](sabellidae/white/050526cjg6820m3b.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
  
  *\***Species are
 difficult to positively identify without close examination.   
@@ -75,50 +112,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](sabellidae/white/090824tusjk2m3.jpg)  
-*Tuas, Aug
-09*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl).
 
-![](sabellidae/white/180519ssisdc5.jpg)  
-*Small Sisters Island, May 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1588499791266791&set=a.1588495367933900&type=3&theater).
 
 ---
 
-![](sabellidae/white/180912tkkmn2.jpg)  
-*Pulau Tekukor, Sep 18*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/photo.php?fbid=10155838280758660&set=a.10155838276003660&type=3&theater).
 
-![](sabellidae/white/180620jngdc1.jpg)  
-*Pulau Jong, Jun 18*Photo shared by Dayna Cheah on [facebook](https://www.facebook.com/photo.php?fbid=1621905027926267&set=a.1621899711260132&type=3&theater).
 
 ---
 
-![](sabellidae/white/150720smknrl1m3.jpg)  
-*Pulau Semakau North, Jul 15*Photo shared by Russel Low on [facebook](https://www.facebook.com/media/set/?set=a.969213436463382.1073741847.109257872458947&type=3).
 
-![](sabellidae/white/200625tblks3.jpg)  
-*Terumbu Bemban, Jun 20*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo.php?fbid=10158398028458158&set=a.10158398059803158&type=3&theater).
 
 ---
 
-![](sabellidae/white/100629tpdjk16m3.jpg)  
-*Terumbu Pempang
-Darat, Jun 10*Photo shared by James Koh on [his
-blog](http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-daratl).
 
-![](sabellidae/white/160312tptmn2.jpg)  
-*Terumbu Pempang
-Tengah, Mar 16*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/media/set/?set=a.10153509281398660&type=3).
 
-![](sabellidae/white/110423tpllks3m3.jpg)  
-*Terumbu Pempang
-Laut, Apr 11*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl).
 
 ---
 
 [white spiral fan worm @ sekudu - Oct2011](https://vimeo.com/31378133) from [SgBeachBum](https://vimeo.com/sgbeachbum) on [Vimeo](https://vimeo.com).
 
 *.*
-
-

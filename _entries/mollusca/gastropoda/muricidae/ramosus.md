@@ -2,7 +2,7 @@
 title: Ramose murex
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "ram, ramose, spiny, chicoreus, ramosus, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Muricidae
 genus: Chicoreus
 species: ramosus
@@ -17,6 +17,53 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Feb 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg"
+  caption: |
+    <p>Cyrene Reef, Aug 13</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0902m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2a.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg6mn2.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>..</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/120704chglks1m3.JPG"
+  caption: |
+    <p>Changi, Jul 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/predawn-surprises-at-changi-shore.html">his blog</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/170528chg7lks4.jpg"
+  caption: |
+    <p>Changi, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/posts/10155349682483158">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/250528chgsafal1.jpg"
+  caption: |
+    <p>Changi SAF Chalet, May 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10161658979118693">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/251109chgsaflks4.jpg"
+  caption: |
+    <p>Changi SAF Chalet, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/190706skdro1.jpg"
+  caption: |
+    <p>Pulau Sekudu, Jul 19Photo shared by Rene Ong on <a href="https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/210628ecpBrk2.jpg"
+  caption: |
+    <p>East Coast Park (B), Jun 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159188512527906&set=a.10159188494042906">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/251108ecpblks4.jpg"
+  caption: |
+    <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/220421smkejt1.jpg"
+  caption: |
+    <p>Pulau Semakau (East), Apr 22Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo/?fbid=10158846752003576&set=a.10158846748163576">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/161215cyris.jpg"
+  caption: |
+    <p>Cyrene Reef, Dec 16Photo shared by Ian Siah on <a href="https://www.facebook.com/photo.php?fbid=10154145838797227&set=a.10154145802887227.1073741927.533257226&type=3&theater">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/200209cyrtch1.jpg"
+  caption: |
+    <p>Cyrene Reef, Feb 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158138415918713&set=a.10158138398788713&type=3&theater">facebook</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/210502tptlks3.jpg"
+  caption: |
+    <p>Terumbu Pempang Tengah, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171384008158&set=a.10159171388568158">facebook</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/ramosus/130808cyrd0900m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,13 +112,9 @@ in some parts of the world.
 and threats:** This snail is listed as 'Endangered' on the
 Red List of threatened animals of Singapore.
 
-![](ramosus/130808cyrd0900m3.jpg)  
-*Cyrene Reef, Aug 13*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ramosus/130808cyrd0902m3.jpg)
 
-![](ramosus/170528chg6mn2a.jpg)  
-*Changi, May 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3).
 
 ---
 
@@ -90,49 +133,23 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](ramosus/170528chg6mn2.jpg)  
-*Changi, May 17*Photo shared by Marcus Ng on [facebook](https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3)..
 
-![](ramosus/120704chglks1m3.JPG)  
-*Changi, Jul 12*Photo shared by Loh Kok Sheng on [his
-blog](http://wondercreation.blogspot.sg/2012/07/predawn-surprises-at-changi-shore.html).
 
-![](ramosus/170528chg7lks4.jpg)  
-*Changi, May 17*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/posts/10155349682483158).
 
 ---
 
-*![](ramosus/250528chgsafal1.jpg)  
-Changi SAF Chalet, May 25*Photo shared by Adriane Lee on [facebook](https://www.facebook.com/media/set/?vanity=nekomun&set=a.10161658979118693)
 
-*![](ramosus/251109chgsaflks4.jpg)  
-Changi SAF Chalet, Nov 25*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post)
 
-![](ramosus/190706skdro1.jpg)  
-*Pulau Sekudu, Jul 19*Photo shared by Rene Ong on [facebook](https://www.facebook.com/pg/Naturely-Curious-133291903397183/photos/?tab=album&album_id=2463654747027542)
 
 ---
 
-![](ramosus/210628ecpBrk2.jpg)  
-*East Coast Park (B), Jun 21*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo?fbid=10159188512527906&set=a.10159188494042906)
 
-![](ramosus/251108ecpblks4.jpg)  
-*East Coast Park (B), Nov 25*Photo
-shared by Loh Kok Sheng on [facebook](https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post).
 
-![](ramosus/220421smkejt1.jpg)  
-*Pulau Semakau (East), Apr 22*Photo shared by Juria Toramae on [facebook](https://www.facebook.com/photo/?fbid=10158846752003576&set=a.10158846748163576)
 
 ---
 
-![](ramosus/161215cyris.jpg)  
-*Cyrene Reef, Dec 16*Photo shared by Ian Siah on [facebook](https://www.facebook.com/photo.php?fbid=10154145838797227&set=a.10154145802887227.1073741927.533257226&type=3&theater)
 
-![](ramosus/200209cyrtch1.jpg)  
-*Cyrene Reef, Feb 20*Photo shared by Toh Chay Hoon on [facebook](https://www.facebook.com/photo.php?fbid=10158138415918713&set=a.10158138398788713&type=3&theater)
 
-![](ramosus/210502tptlks3.jpg)  
-*Terumbu Pempang Tengah, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo?fbid=10159171384008158&set=a.10159171388568158)
 
 ---
 

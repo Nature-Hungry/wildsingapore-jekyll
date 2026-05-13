@@ -2,7 +2,7 @@
 title: [, Long-tailed macaque]
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "long, tailed, crab, eating, macaque, monkey, macaca, fascicularis, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Cercopithecidae
 genus: Long-tailed
 species: macaque
@@ -23,6 +23,38 @@ parvorder: Catarrhini
 subfamily: Cercopithecinae
 tribe: Papionini
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg"
+  caption: |
+    <p>Sisters Island, Mar 07</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/031004lptd0053m3m6l.jpg"
+  caption: |
+    <p>The monkey can't read, but we can.</p>
+    <p>Lower Peirce, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/031004lpted0040m3.jpg"
+  caption: |
+    <p>Drive-by feeding kills monkeys as they rush towards cars, associating cars with food.</p>
+    <p>Lower Peirce, Oct 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/030907btnrd0011m3.jpg"
+  caption: |
+    <p>Junk food is bad for people AND monkeys.</p>
+    <p>Bukit Timah Nature Reserve, Sep 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/110928sisd1427m3.jpg"
+  caption: |
+    <p>Foraging on the sea shore, turning over rocks.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/110928sisd1433m3.jpg"
+  caption: |
+    <p>Sisters Island, Sep 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4211m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4237m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/090613admd4205m6l.jpg"
+  caption: |
+    <p>Admiralty Park, Jun 09</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/fascicularis/070331sisg8439m3.jpg"
 ---
 
 
@@ -106,29 +138,13 @@ Be a responsible visitor to our wild places:
   monkeys. People who feed monkeys usually mean well and will usually
   eventually understand and stop feeding them.
 
-*![](fascicularis/070331sisg8439m3.jpg)  
-Sisters Island, Mar 07  
+{% include img-wrap-group.html items=page.page_images %}
   
-![](fascicularis/031004lptd0053m3m6l.jpg)*The monkey
-can't read, but we can. *Lower Peirce, Oct 03  
   
-![](fascicularis/031004lpted0040m3.jpg)*Drive-by
-feeding kills monkeys as they rush towards cars, associating cars
-with food. *Lower Peirce, Oct 03  
   
-![](fascicularis/030907btnrd0011m3.jpg)*Junk
-food is bad for people AND monkeys. *Bukit Timah Nature Reserve, Sep 03*
 
-*![](fascicularis/110928sisd1427m3.jpg)*Foraging on
-the sea shore, turning over rocks.  
-*![](fascicularis/110928sisd1433m3.jpg)  
-Sisters Island, Sep 11*
 
-*![](fascicularis/090613admd4211m3.jpg)  
-Admiralty Park, Jun 09![](fascicularis/090613admd4237m3.jpg)*
 
-*![](fascicularis/090613admd4205m6l.jpg)  
-Admiralty Park, Jun 09*
 
 ---
 
@@ -171,5 +187,3 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
   Charles M. 2001. *Mammals
   of South-East Asia*
   New Holland Publishers. 128 pp.
-
-

@@ -2,7 +2,7 @@
 title: Oriental pied-hornbill
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "oriental, pied, hornbill, anthracoceros, albirostris, bucerotidae, birds, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
-layout: default
+layout: entry
 family: Bucerotidae
 genus: Anthracoceros
 species: albirostris
@@ -15,6 +15,42 @@ subphylum: Vertebrata
 class: Aves
 order: Bucerotiformes
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9848m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Jan 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/040229ubnd0125m3.jpg"
+  caption: |
+    <p>Pulau Ubin, Feb 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/100314cjd9919m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9940m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg"
+  caption: |
+    <p>Chek Jawa, Mar 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/100314cjd0014m3.jpg"
+  caption: |
+    <p>Chek Jawa,</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/100314cjd0014m3a.jpg"
+  caption: |
+    <p>Nesting box in use?</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091121cjd4573m6l.jpg"
+  caption: |
+    <p>Artificial nesting box.</p>
+    <p>Chek Jawa, Nov 09</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091203ubnd4894m3.jpg"
+  caption: |
+    <p>Pulau</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/091203ubnd4894m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/albirostris/050126cjd9843m6l.jpg"
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -51,9 +87,7 @@ can be found outside primary rainforests and may visit inhabited areas
 to feed on fruit. But they still depend on large living trees for
 nesting sites.
 
-*![](albirostris/050126cjd9843m6l.jpg)  
-Pulau
-Ubin, Jan 05*
+{% include img-wrap-group.html items=page.page_images %}
 
 **Features:** A large bird (about
 70cm) with black-and-white plumage. The hornbill's trademark is its
@@ -104,33 +138,11 @@ Singapore but are now no longer found: The Rhinoceros hornbill (*Buceros
 rhinoceros*) and the Helmeted hornbill (*Buceros vigil*).
   
 
-*![](albirostris/050126cjd9848m3.jpg)  
-Pulau
-Ubin, Jan 05   
-![](albirostris/040229ubnd0125m3.jpg)  
-Pulau Ubin, Feb 04   
-![](albirostris/100314cjd9919m3.jpg)  
-Chek Jawa,
-Mar 10*
 
-*![](../../plants/others/ficus/microcarpa/100314cjd9940m3.jpg)  
-Chek Jawa,
-Mar 10*
 
-![](../../plants/others/ficus/microcarpa/100314cjd9947m3.jpg)  
-*Chek Jawa,
-Mar 10*
 
-![](albirostris/100314cjd0014m3.jpg)  
-*Chek Jawa,
-Mar 10![](albirostris/100314cjd0014m3a.jpg)*Nesting
-box in use?
 
-*![](albirostris/091121cjd4573m6l.jpg)*Artificial
-nesting box. *Chek Jawa, Nov 09*
 
-*![](albirostris/091203ubnd4894m3.jpg)**Pulau
-Ubin, Dec 09![](albirostris/091203ubnd4894m3a.jpg)*
 
 ---
 

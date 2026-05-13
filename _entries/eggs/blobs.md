@@ -2,8 +2,35 @@
 title: Egg blobs on Singapore shore
 description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
 keywords: "encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 updated: Apr 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3.jpg"
+  caption: |
+    <p>Pulau Sekudu,</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/110418tmftd8998m3.jpg"
+  caption: |
+    <p>On sand</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/110418tmftd9000m3a.jpg"
+  caption: |
+    <p>Tanah Merah, Apr 11</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/120407lazd7990m3.jpg"
+  caption: |
+    <p>Many blobs sometimes seen.</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/120407lazd7990m3a.jpg"
+  caption: |
+    <p>Seringat-Kias, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/120408sjid8277m6l.jpg"
+  caption: |
+    <p>St.</p>
+    <p>John's Island, Apr 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/120408sjid8279m3a.jpg"
+  caption: |
+    <p></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/eggs/eggs/111030skdd3236m3.jpg"
 ---
 eggs [text
 index](eggindex) | [photo index](eggfi)
@@ -31,26 +58,13 @@ with tiny eggs embedded in the mass. Usually attached to the group,
 often teardrop or light-bulb shaped when submerged. Possible animals
 responsible for laying these eggs include sea slugs and worms.
 
-![](eggs/111030skdd3236m3.jpg)  
-*Pulau Sekudu,
-Oct 11*![](eggs/111030skdd3236m3a.jpg)
+{% include img-wrap-group.html items=page.page_images %}
 
-![](eggs/110418tmftd8998m3.jpg)  
-On sand  
-![](eggs/110418tmftd9000m3a.jpg) *Tanah Merah, Apr 11*
 
-![](eggs/120407lazd7990m3.jpg)  
-Many blobs sometimes seen.  
-*![](eggs/120407lazd7990m3a.jpg)  
-Seringat-Kias, Apr 12*
 
 ---
 
-![](eggs/120408sjid8277m6l.jpg)  
-*St. John's
-Island, Apr 12*
 
-![](eggs/120408sjid8279m3a.jpg)
 
 ---
 

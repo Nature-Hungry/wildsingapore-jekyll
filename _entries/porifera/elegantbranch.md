@@ -1,7 +1,7 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "elegant, branching, sponge, haliclona, chalinidae, porifera, field, guide,"
-layout: default
+layout: entry
 shape: branching
 title: Elegant branching sponge
 family: Chalinidae
@@ -16,6 +16,38 @@ class: Demospongiae
 subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg"
+  caption: |
+    <p>Changi, Jul 10</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/050721cjd5123m3.jpg"
+  caption: |
+    <p>Chek Jawa, Jul 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/050721cjd5123m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060613ecpd3003m3.jpg"
+  caption: |
+    <p>East Coast, Jun 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060613ecpd3003m3b.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/030520bbd0015m3.jpg"
+  caption: |
+    <p>Beting Bronok, May 03</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/030520bbd0015m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060516chgd2019m3.jpg"
+  caption: |
+    <p>Changi, May 06</p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/060516chgd2019m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/160125obslks1.jpg"
+  caption: |
+    <p>Pulau Ubin OBS, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/porifera/elegantbranch/100727chgd9336m6l.jpg"
 ---
 
 
@@ -43,29 +75,14 @@ hollow tubes along the length. The entire sponge may cover an area
 of about 30cm. Colours bright light blue, bright purple or olive green.
 Sometimes bright yellow.
 
-![](elegantbranch/100727chgd9336m6l.jpg)  
-*Changi, Jul
-10*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](elegantbranch/050721cjd5123m3.jpg)  
-*Chek Jawa,
-Jul 05*
 
-*![](elegantbranch/050721cjd5123m3b.jpg)*
 
 ---
 
-![](elegantbranch/060613ecpd3003m3.jpg)  
-*East Coast, Jun 06  
-![](elegantbranch/060613ecpd3003m3b.jpg)*
 
-![](elegantbranch/030520bbd0015m3.jpg)  
-*Beting Bronok, May 03  
-![](elegantbranch/030520bbd0015m3a.jpg)*
 
-![](elegantbranch/060516chgd2019m3.jpg)  
-*Changi, May 06  
-![](elegantbranch/060516chgd2019m3a.jpg)*
 
   
 *\*Species
@@ -91,8 +108,6 @@ Distribution in Singapore on [this wildsingapore flickr map](https://www.flickr.
 
 ---
 
-![](elegantbranch/160125obslks1.jpg)  
-*Pulau Ubin OBS, Jan 16*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story).
 
 ---
 

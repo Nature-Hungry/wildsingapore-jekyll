@@ -2,7 +2,7 @@
 title: Brown shore goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "brown, shore, goby, drombus, triangularis, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 attributes: [25, 47, 106, 108]
 family: Gobiidae
 genus: Drombus
@@ -18,6 +18,28 @@ order: Gobiiformes
 suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg"
+  caption: |
+    <p>Sometimes in a group of individuals of different sizes.</p>
+    <p>Punggol, Jun 12</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m6l.jpg"
+  caption: |
+    <p>Pasir Ris Park, Apr 10 Living with a shrimp: This fish is sometimes seen sharing a burrow with a <a href="../../../crustacea/othercrust/shrimp/alphsmooth.htm">Smooth snapping shrimp</a>.</p>
+    <p>More about the <a href="shrimpgoby.htm">goby and shrimp partnership</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/131107pglmn.jpg"
+  caption: |
+    <p>Punggol, Nov 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27935539966/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/080603prpd4695m3.jpg"
+  caption: |
+    <p>Pasir Ris Park, Jun 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/040618chgd0527m3.jpg"
+  caption: |
+    <p>Changi, Jun 04</p>
+- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/090512tmjk2m3.jpg"
+  caption: |
+    <p>Tanah Merah, May 09 Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3523575195/">flickr</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/120604pgld3756.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -56,21 +78,10 @@ and mangroves. Sometimes, in a group of several individuals of different sizes.
 seen about 3-5cm. It has a chubby face with small eyes and a camouflaging
 pattern of a dark head and body with irregular pale spots and blotches
 that break up the body outline.
-![](triangularis/120604pgld3756.jpg)  
-Sometimes in a group of   
-individuals of different sizes. *Punggol, Jun 12*
-![](triangularis/100429prpd1888m6l.jpg)  
-*Pasir Ris Park, Apr 10*
-**Living with a shrimp:** This fish is sometimes seen sharing a burrow with a [Smooth snapping shrimp](../../../crustacea/othercrust/shrimp/alphsmooth.htm). More about the [goby and shrimp partnership](shrimpgoby.htm).
+{% include img-wrap-group.html items=page.page_images %}
 
-![](triangularis/131107pglmn.jpg)  
-*Punggol, Nov 13*Photo shared by Marcus Ng on [flickr](https://www.flickr.com/photos/budak/27935539966/).
 
-![](triangularis/080603prpd4695m3.jpg)  
-*Pasir Ris Park, Jun 08*
 
-![](triangularis/040618chgd0527m3.jpg)  
-*Changi, Jun 04*
 
  *\*Species are difficult
 to positively identify without close examination.   
@@ -94,8 +105,6 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](triangularis/090512tmjk2m3.jpg)  
-*Tanah Merah, May 09* Photo shared by James Koh on [flickr](http://www.flickr.com/photos/37823682@N04/3523575195/).
 
 ---
 

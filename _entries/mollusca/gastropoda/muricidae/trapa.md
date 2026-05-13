@@ -2,7 +2,7 @@
 title: Rare-spined murex
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "rare, spined, spiny, murex, trapa, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Muricidae
 genus: Murex
 species: trapa
@@ -17,6 +17,41 @@ order: Neogastropoda
 superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg"
+  caption: |
+    <p>Changi, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8560m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8563m3.jpg"
+  caption: |
+    <p>Long tentacles and muscular foot.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8584m3.jpg"
+  caption: |
+    <p>This one was clasping a bivalve.</p>
+    <p>Changi, Aug 08</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050823chgg2294m3.jpg"
+  caption: |
+    <p>Empty shells are commonly seen.</p>
+    <p>Changi, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/050429cftg5414m3.jpg"
+  caption: |
+    <p>Shell taken over by a <a href="../../../crustacea/othercrust/anomura/hermit/clibanarius.htm">hermit crab</a>.</p>
+    <p>Changi, Apr 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2b.jpg"
+  caption: |
+    <p>Changi Carpark 1, Jul 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160587839332906&set=a.10160587835882906">facebook</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/230704chg1rk2.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/090807tmjk1m3.jpg"
+  caption: |
+    <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3797191642/">flickr</a>.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/210530ecpglks8.jpg"
+  caption: |
+    <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159235743013158&set=a.10159235746118158">facebook</a>.</p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/trapa/080801chgd8557m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -60,27 +95,16 @@ it does make it difficult for the animal to move about among seagrasses
 and seaweeds. So the animal usually moves by holding the shell high
 above the bottom as it moves across the surface.
 
-![](trapa/080801chgd8557m3.jpg)  
-*Changi, Aug 08*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](trapa/080801chgd8560m3.jpg)
 
-![](trapa/080801chgd8563m3.jpg)  
-Long tentacles and muscular foot.
 
 **What does it eat?** Like other drills
 (Family Muricidae) the Rare-spined murex snail can drill through the
 shells of clams and snails.
 
-![](trapa/080801chgd8584m3.jpg)  
-This one was clasping a bivalve.  
-*Changi, Aug 08*
 
-![](trapa/050823chgg2294m3.jpg)  
-Empty shells are commonly seen. *Changi, Aug 05*
 
-![](trapa/050429cftg5414m3.jpg)  
-Shell taken over by a [hermit crab](../../../crustacea/othercrust/anomura/hermit/clibanarius.htm). *Changi, Apr 05*
 
 **Human uses:** It is sometimes collected
 as food by coastal dwellers (e.g., in Malaysia) and for its shell
@@ -110,18 +134,11 @@ flickr](http://www.flickr.com/photos/wildsingapore/)
 
 ---
 
-![](trapa/230704chg1rk2b.jpg)  
-*Changi Carpark 1, Jul 23*Photo shared by Richard Kuah on [facebook](https://www.facebook.com/photo/?fbid=10160587839332906&set=a.10160587835882906).
 
-![](trapa/230704chg1rk2.jpg)
 
 ---
 
-![](trapa/090807tmjk1m3.jpg)  
-*Tanah Merah, Aug 09*Photo shared by James Koh on [flickr](https://www.flickr.com/photos/jameskoh/3797191642/).
 
-![](trapa/210530ecpglks8.jpg)  
-*East Coast Park, May 21*Photo shared by Loh Kok Sheng on [facebook](https://www.facebook.com/photo/?fbid=10159235743013158&set=a.10159235746118158).
 
 ---
 

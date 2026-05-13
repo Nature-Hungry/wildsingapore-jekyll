@@ -2,7 +2,36 @@
 title: "Wandering and Ovum cowries compared"
 description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
 keywords: "wandering, cowrie, cypraeidae, errones, cypraea, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
+page_images:
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9813m3a.jpg"
+  caption: |
+    <p></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
+  caption: |
+    <p><a href="errones.htm">Wandering cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
+  caption: |
+    <p><a href="ovum.htm">Ovum cowrie</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+  caption: |
+    <p><a href="quadrimaculata.htm">Four-spot cowrie</a></p>
+coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -33,9 +62,8 @@ cowries](ovum.htm)
 
 ---
 
-*![](errones/080604kusd4832m3.jpg)*
+{% include img-wrap-group.html items=page.page_images %}
 
-![](ovum/070602sjig9814m3.jpg)
 
 **[Wandering
 cowrie](errones.htm)**  
@@ -44,9 +72,7 @@ cowrie](errones.htm)**
 **[Ovum
 cowrie](ovum.htm)***Cypraea ovum*
 
-*![](errones/110123sisd5313m3.jpg)*
 
-![](ovum/110517tptlks2m3.jpg)
 
 Cylindrical.  
 Has brown spot at the front.
@@ -54,9 +80,7 @@ Has brown spot at the front.
 Pear-shaped.  
 Does not have brown spot at the front.
 
-*![](errones/110123sisd5313m3a.jpg)*
 
-![](ovum/070602sjig9813m3a.jpg)
 
 Does
 not have coloured 'teeth'.
@@ -71,12 +95,8 @@ comparisons**
 
 ---
 
-***![](errones/110123sisd5312m3.jpg)*[Wandering cowrie](errones.htm)**
 
-**![](ovum/070602sjig9811m3.jpg)  
-[Ovum cowrie](ovum.htm)**
 
-***![](quadrimaculata/120804bbbd9817m3.jpg)*[Four-spot cowrie](quadrimaculata.htm)**
 
 [links](../../../links.htm)
 | [references](../../../references.htm)

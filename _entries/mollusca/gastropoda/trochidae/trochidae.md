@@ -2,7 +2,7 @@
 title: "Top shell snails "
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "top, trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
-layout: default
+layout: entry
 family: Trochidae
 genus: ""
 species: ""
@@ -16,6 +16,40 @@ subclass: Vetigastropoda
 order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
+page_images:
+- url: "../../../../Templates/fornatureguides.gif"
+  caption: |
+    <p>](../../fnggastropods.htm)</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/050513labg6457m3.jpg"
+  caption: |
+    <p>The Spotted top shell snail has a large foot with tentacles fringing the body mantle.</p>
+    <p>Labrador, May 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
+  caption: |
+    <p>The Toothed top shell snail also has a large foot with tentacles fringing the body mantle.</p>
+    <p>St.</p>
+    <p>John's Island, Aug 05</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/120817nsrccd0110m3.jpg"
+  caption: |
+    <p>Tiny button snails have a long mobile foot and tentacles fringing the body mantle.</p>
+    <p>East Coast, Aug 12 What do they eat?</p>
+    <p>Top shells graze the algae that thrive on the rocks, scraping this off with their radula.</p>
+    <p>Human uses: The shell is lined with mother-of-pearl.</p>
+    <p>Larger species are collected for food and their shells that are made into ornaments and pearl buttons.</p>
+    <p>This is still a significant industry in some Pacific Islands and effort is being made to establish a susbtainable method of farming these snails.</p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/020628lazcpd0833m3.jpg"
+  caption: |
+    <p><a href="maculatus.htm">Spotted top shell snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/060716sisg6748m3.jpg"
+  caption: |
+    <p><a href="labio.htm">Toothed top shell snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/chrysostoma/130429jngd6403m3.jpg"
+  caption: |
+    <p><a href="chrysostoma.htm">Orange-mouth top shell snail</a></p>
+- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/umbonium/050402cjg3983m3.jpg"
+  caption: |
+    <p><a href="umbonium.htm">Button snails</a></p>
+coverimg: "../../../../Templates/fornatureguides.gif"
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -26,7 +60,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-[![](../../../../Templates/fornatureguides.gif)](../../fnggastropods.htm)
+{% include img-wrap-group.html items=page.page_images %}
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)
@@ -67,21 +101,6 @@ whorls and a thick, chalky operculum. While many Top snails have a
 more conical shell and a thin operculum made of a horn-like material.
 Here's more on [how to tell apart turban
 and top shell snails](../topturban.htm).
-*![](maculatus/050513labg6457m3.jpg)*The Spotted top shell snail has a large foot with tentacles
-fringing the body mantle. *Labrador, May 05*
-![](labio/050807sjig0794m3.jpg)  
-The Toothed top shell snail also has a large foot with tentacles
-fringing the body mantle.  *St. John's Island, Aug 05*
-*![](umbonium/120817nsrccd0110m3.jpg)*Tiny button snails have a long mobile foot and tentacles fringing
-the body mantle.  
-*East Coast, Aug 12*
-**What do they eat?** Top shells graze the algae that thrive
-on the rocks, scraping this off with their radula. **Human uses:** The shell
-is lined with mother-of-pearl. Larger species are collected for food
-and their shells that are made into ornaments and pearl buttons. This
-is still a significant industry in some Pacific Islands and effort
-is being made to establish a susbtainable method of farming these
-snails.  
   
 **Status and threats:** [Button
 snails](umbonium.htm) are listed as 'Vulnerable'
@@ -94,19 +113,11 @@ shell snails on Singapore shores**
 
 ---
 
-**![](maculatus/020628lazcpd0833m3.jpg)  
-[Spotted top shell snail](maculatus.htm)**
 
-***![](labio/060716sisg6748m3.jpg)*[Toothed top shell
-snail](labio.htm)**
 
-***![](chrysostoma/130429jngd6403m3.jpg)*[Orange-mouth
-top shell snail](chrysostoma.htm)**
 
 ---
 
-**![](umbonium/050402cjg3983m3.jpg)  
-[Button snails](umbonium.htm)**
 
 ---
 
