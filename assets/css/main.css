@@ -50,7 +50,7 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 html {
-  font-size: 0.9375rem;
+  font-size: 15px;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   font-family: 'Comfortaa';
@@ -59,7 +59,6 @@ html {
 
 body {
   font-family:      var(--font-body);
-  font-size:        0.9375rem;   /* ≈15 px – matches original size="2" feel */
   line-height:      1.7;
   color:            var(--color-text);
   background-color: var(--color-bg);
@@ -148,20 +147,16 @@ body {
  * ─────────────────────────────────────────────────────────────────────── */
 nav{
     display:flex;
-    justify-content: center;
+    justify-content: space-between;
     padding:2rem 4rem;
-    gap:2rem;
+    gap:1rem;
     align-items: center;
 }
-.nav-left{
-  width:30%
-}
 .nav-logo{
-  width: 40%;
   text-align: center;
 }
-.nav-right{
-  width: 30%;
+.nav-links{
+    white-space: nowrap;
     display:flex;
     gap:2rem;
     align-items: center;
@@ -327,7 +322,6 @@ nav{
 
   .site-sidebar__copy { margin-top: 0; }
 
-  .page-content { padding: 1rem; }
 }
 
 /* ── Headings (Helvetica Neue) ───────────────────────────────────────────── */
@@ -523,10 +517,6 @@ li { margin-bottom: 0.2rem; }
 /* ── Responsive ──────────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
   .site-header__inner { flex-wrap: wrap; }
-  .site-logo img      { height: 44px; }
-  .site-tagline__main { font-size: 1.3rem; }
-  h1                  { font-size: 1.4rem; }
-  h2                  { font-size: 1.15rem; }
   .species-header img { width: 100%; }
   .site-footer__nav   { text-align: left; }
 }
@@ -887,9 +877,18 @@ li { margin-bottom: 0.2rem; }
   height: 3.1rem;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   .pig-row {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  .nav-links, .nav-socials{
+    display:none;
+  }
+
+  
+  html{
+    font-size:12px;
   }
 }
 
@@ -969,5 +968,13 @@ li { margin-bottom: 0.2rem; }
 
   .content-bar__btn {
     width: auto;
+  }
+}
+@media screen and (max-width:600px) {
+  .page-content{
+    padding: var(--gap) 2rem 3rem;
+  }
+  nav{
+    padding: 1rem 2rem;
   }
 }

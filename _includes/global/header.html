@@ -26,6 +26,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/photoindexes.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/utils.css' | relative_url }}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/solid.min.css" integrity="sha512-EHa6vH03/Ty92WahM0/tet1Qicl76zihDCkBnFhN3kFGQkC+mc86d7V+6y2ypiLbk3h0beZAGdUpzfMcb06cMg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
 
@@ -33,7 +34,21 @@
   <div class="site-wrapper">
 
     <nav>
-        <div class="nav-left">
+        
+        <div class="nav-logo">
+          {% if page.url != "/" %}
+          <a href="/">
+            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
+          </a>
+          {%endif%}
+        </div>
+        <div class="nav-links">
+            <a href="">Explore</a>
+            <a href="/wildfacts/concepts">Concepts</a>
+            <a href="/about">About</a>
+            <a href="/links">Useful links</a>
+        </div>
+        <div class="nav-socials">
         {% if site.data.social %}
           <div class="site-sidebar__social" aria-label="Social links">
             {% for item in site.data.social %}
@@ -44,18 +59,5 @@
             {% endfor %}
           </div>
         {% endif %}
-        </div>
-        <div class="nav-logo">
-          {% if page.url != "/" %}
-          <a href="/">
-            <h1 style="font-size:1.5rem"><span style="color:rgb(0, 115, 25)">Nature. </span><span style="color:rgb(227, 102, 0)">Hungry</span></h1>
-          </a>
-          {%endif%}
-        </div>
-        <div class="nav-right">
-            <a href="">Explore</a>
-            <a href="/wildfacts/concepts">Concepts</a>
-            <a href="/about">About</a>
-            <a href="/links">Useful links</a>
         </div>
     </nav>

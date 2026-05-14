@@ -165,7 +165,7 @@ layout: default
 
     <div class="random-container">
         {% for post in random_posts %}
-            <div class="random">
+            <a class="random" href="{{post.url}}">
                 {% if post.coverimg %}
                     <img src={{post.coverimg}} alt="">
                 {%else%}
@@ -173,7 +173,7 @@ layout: default
                 {%endif%}
                 <p class="caption">{{post.title}}</p>
 
-            </div>
+            </a>
         
         {% endfor %}
        

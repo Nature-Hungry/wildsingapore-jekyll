@@ -14,6 +14,7 @@ layout: none
   "phylum": {{ post.phylum | jsonify }},
   "subphylum": {{ post.subphylum | jsonify }},
   "class": {{ post.class | jsonify }},
+  "infraorder": {{ post.infraorder | jsonify }},
   "order": {{ post.order | jsonify }},
   "family": {{ post.family | jsonify }},
   "species": {{ post.species | jsonify }},

@@ -3,6 +3,7 @@
     display: grid;
     grid-template-columns: repeat(5, minmax(100px, 1fr));
     gap:1rem;
+    
 }
 
 .entry{
@@ -22,6 +23,18 @@
 
 .scientific-name{
     font-size: 0.6rem;
+}
+
+@media (max-width:800px){
+  .entries-grid{  
+    grid-template-columns: repeat(4, minmax(100px, 1fr));
+  }
+}
+
+@media (max-width:600px){
+  .entries-grid{  
+    grid-template-columns: repeat(3, minmax(60px, 1fr));
+  }
 }
 
 </style>
@@ -48,7 +61,7 @@ if (isNaN(currentPage) || currentPage < 1) {
   currentPage = 1
 }
 
-const perpage = 10
+const perpage = 20
 
 fetch('/assets/search.json')
   .then(res => res.json())
@@ -137,6 +150,9 @@ function filterResults(){
 
   }
 
+ 
+
+  console.log(taxaFilters)
 
   // Step 1: true substring search for partial matches
   let partialResults = data.filter(item =>
@@ -249,7 +265,6 @@ checkboxes.forEach((checkbox) => {
     const checked = event.target.checked;
 
     updateTaxaFilters(value, checked)
-
   });
 });
 
