@@ -1,12 +1,18 @@
 ---
 title: Sea toad spider crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "toad, spider, crab, spider crab, schizophrys, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
+keywords: toad, spider, crab, spider crab, schizophrys, majidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info,  photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Majidae
 genus: Schizophrys
-species: ""
+species: ''
 inat_id: 354674
 stateofmatter: Life
 kingdom: Animalia
@@ -25,55 +31,55 @@ superfamily: Majoidea
 subfamily: Majinae
 updated: Dec 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
   caption: |
     <p>Changi, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3c.jpg
   caption: |
     <p>Eyes wide apart.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3.jpg
   caption: |
     <p>One pincer bigger than the other.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2397m3f.jpg
   caption: |
     <p>Close up of pincers</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2346m3.jpg
   caption: |
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120508skdd2348m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/110617pgllks.JPG
   caption: |
     <p>Punggol, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/seahorse-suprises-at-punggol-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/120614pgllks.JPG
   caption: |
     <p>Punggol, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/06/colourful-marine-city-of-punggoll">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/121216ubnlks.JPG
   caption: |
     <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8523074593/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/250626ubnccn3.jpg
   caption: |
     <p>Pulau Ubin, Jun 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162605453353654">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/160607bbjt2.jpg
   caption: |
     <p>Beting Bronok, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154214279943119.1073741909.696593118&type=3&pnref=story.unseen-section">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/150617ecpbslks2m3.jpg
   caption: |
     <p>East Coast Park, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090818tmjk1m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappointsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/060714rlhg6651m3d.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/schizophrys/090525chgd2395m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -118,7 +124,7 @@ ends of the pincers. Some may have small bits and pieces stuck on
 their bodies, but they are not as well 'decorated' as the [Velcro
 crabs](retusa) (*Camposcia retusa*).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

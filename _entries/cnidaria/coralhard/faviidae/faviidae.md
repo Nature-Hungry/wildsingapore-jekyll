@@ -1,11 +1,13 @@
 ---
-title: "Favid hard corals "
+title: 'Favid hard corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 503799
 stateofmatter: Life

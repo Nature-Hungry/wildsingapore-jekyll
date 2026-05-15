@@ -1,7 +1,9 @@
 ---
 title: Banded mangrove ear snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cassidula, nucleus, mustelina, snail, ellobiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cassidula, nucleus, mustelina, snail, ellobiidae, gastropod, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Ellobiidae
 genus: Cassidula
@@ -21,19 +23,19 @@ superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090307blyd7467m3.jpg
   caption: |
     <p>Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7233m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/251219cnyrqo2.jpg
   caption: |
     <p>Coney Island, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/banded/090228smkd7234m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,7 +78,7 @@ and oval, with wide dark and light brown spiralling bands. Underside pinkish vio
 **What does it eat?** It grazes on
 algae growing on mangrove trees and on the ground.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

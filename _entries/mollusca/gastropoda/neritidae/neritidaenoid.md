@@ -1,67 +1,69 @@
 ---
-title: "Nerites snails (Nerita) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Nerites snails (Nerita) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: nerita, nerite, neritidae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9292m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6918m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6918m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6919m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060729sisg6919m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6498m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6498m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6499m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/061106tusd6499m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3714m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3714m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3715m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krnd3715m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krjd3715m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/060627krjd3715m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3455m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3455m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/050527srbd3456m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3188m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/080511sntd3190m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/noid/070506sjig9293m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +97,7 @@ info on nerite snails](neritidae.htm)
 nerite snail #070506sjig9293**About 3cm. On rocky shore alone among large boulders, *St.
 John's Island, May 07*
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,12 @@
 ---
-title: "Xanthid crabs "
+title: 'Xanthid crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: round, xanthid, crab, xanthidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Xanthidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 51176
 stateofmatter: Life
@@ -24,53 +25,53 @@ zoosubsection: Heterotremata
 superfamily: Xanthoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
   caption: |
     <p>The <a href="pictor">Mosaic reef crab</a> is the most poisonous crab on our shores.</p>
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040919sntd7092m3.jpg
   caption: |
     <p>Floral egg crab eating a fish.</p>
     <p>Sentosa, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/090606tmftd3138m3.jpg
   caption: |
     <p>A Red egg crab eating a sea urchin.</p>
     <p>Tanah Merah, Jun 09 What do they eat?</p>
     <p>Most of these crabs are said to be vegetarians, but at least one was seen chomping happily on a fish.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/integerrimus/060811rlhd5792m3.jpg
   caption: |
     <p><a href="integerrimus">Red egg crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/091106smkd3813m3.jpg
   caption: |
     <p><a href="pictor">Mosaic reef crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/utilis/050917smkg2456m3.jpg
   caption: |
     <p><a href="utilis">Saw-edged spooner crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/floridus/040521sntad0102m3.jpg
   caption: |
     <p><a href="floridus">Floral egg crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/platypodia/110731tryd8022m3.jpg
   caption: |
     <p><a href="platypodia">Curry puff crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/laevimanus/031125hntbd0024m3.jpg
   caption: |
     <p><a href="laevimanus">Smooth spooner crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
   caption: |
     <p><a href="leptodius">Rock crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/euxanthus/060527sjid2222m3.jpg
   caption: |
     <p><a href="euxanthus">Lumpy rock crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pilodius/111001sjid1824m3.jpg
   caption: |
     <p><a href="pilodius">Pilodius rock crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/venosa/050723labg0037m3.jpg
   caption: |
     <p><a href="actaea">Ruby reef crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/cymo/081231sisd4418m3a.jpg
   caption: |
     <p><a href="cymo">Hairy coral crab</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/pictor/070615sntrg0276m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -138,7 +139,7 @@ are produced by bacteria that live in symbiosis with the crabs. Their
 toxins are similar to the neurotoxins of puffer fishes, and just
 as deadly.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
  **Human uses:** The study of the unique toxins in these crabs
 may help develop new drugs or achieve better understanding of human

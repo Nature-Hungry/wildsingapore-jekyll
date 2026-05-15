@@ -1,9 +1,15 @@
 ---
 title: Hollow-cheeked stonefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: stonefish, stone, fish, synanceia, horrida, synanceiidae, scorpaenidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Synanceiidae
 genus: Synanceia
 species: horrida
@@ -19,17 +25,17 @@ suborder: Scorpaenoidei
 subfamily: Synanceiinae
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
   caption: |
     <p>Large pectoral fins.</p>
     <p>Tail curled.</p>
     <p>Spines up.</p>
     <p>Pulau Hantu, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0315m3.jpg
   caption: |
     <p>Tough spines can penetrate a thick soled shoe!</p>
     <p>Pulau Hantu, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060811rlhd5897m3b.jpg
   caption: |
     <p>Deep depressions beneath the eye.</p>
     <p>Mouth in perpetual frown.</p>
@@ -42,33 +48,33 @@ page_images:
     <p>But the victim should be brought to hospital as soon as possible.</p>
     <p>There are few documented cases of fatalities.</p>
     <p>The fishes use their spines in self-defence and not for hunting prey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110816tmftL1070493m4.jpg
   caption: |
     <p>Tanah Merah, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120619tmd5590m4.jpg
   caption: |
     <p>Tanah Merah, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120424tmnbd0546m4.jpg
   caption: |
     <p>Tanah Merah, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110505tmnbd0734m3.jpg
   caption: |
     <p>Tanah Merah, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110730tmftd7714m4.jpg
   caption: |
     <p>Tanah Merah, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120806tmfts02147m4.jpg
   caption: |
     <p>Tanah Merah, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101204tmfts01505m4.jpg
   caption: |
     <p>Half buried.</p>
     <p>Tanah Merah, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/101221tmfts02127m4.jpg
   caption: |
     <p>Half buried.</p>
     <p>Tanah Merah, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190716tbm3a.jpg
   caption: |
     <p>Nearly stepped on a stonefish!</p>
     <p>Terumbu Hantu, Jul 19 What do they eat?</p>
@@ -76,72 +82,72 @@ page_images:
     <p>Instead, they lie motionless, relying on their camouflage to remain undetected.</p>
     <p>When a suitable snack comes close enough, they suck it into their huge mouths, or grab it with a sudden lunge of incredible speed.</p>
     <p>They generally eat fishes and crustaceans.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/161217chglc.jpg
   caption: |
     <p>Changi, Dec 16Photo shared by Lena Chow on <a href="https://www.facebook.com/photo.php?fbid=10154313597103845&set=a.109579743844.95660.596333844&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/140614cjlks2.JPG
   caption: |
     <p>Chek Jawa, Jun 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24539845999/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/150705skdrl2m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 15Photo shared by Russel Low on <a href="https://www.facebook.com/media/set/?set=a.960220700695989.1073741846.109257872458947&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100709tmmn1m3.jpg
   caption: |
     <p>Tanah Merah, Jul 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4785594384/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091218tmlks4m3.JPG
   caption: |
     <p>Tanah Merah, Dec 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091009tmtch1m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/10/mission-failed-againl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190830epcnky1.jpg
   caption: |
     <p>East Coast Park, Sep 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162801861755112&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/190221nsrccl1.jpg
   caption: |
     <p>East Coast Park, Feb 19Photo shared by Camille Lee on <a href="https://www.facebook.com/photo.php?fbid=10158932827274852&set=a.10158932826959852&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/221226ecpgky3.jpg
   caption: |
     <p>East Coast (G), Dec 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167869236920112&set=a.10167869237595112">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/160509srpmn5.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/29167133288/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110903sntmn.jpg
   caption: |
     <p>Sentosa, Sep 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6166288347/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/070929kuskms.jpg
   caption: |
     <p>Kusu Island, Sep 07Photo shared by Khoo Min Sheng on <a href="https://www.flickr.com/photos/khooms/1468365570/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/100515sjilks8m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/090509sislks6m3.jpg
   caption: |
     <p>A tiny one!</p>
     <p>Sisters Island, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/back-to-big-sistersl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/120505sisjk1m3.jpg
   caption: |
     <p>Sisters Island, May 12Photos shared by James Koh on  <a href="http://singaporenature.wordpress.com/2012/05/07/120505-big-sisters/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/091117smkjk2m6l.jpg
   caption: |
     <p>Pulau Semakau, Nov 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4112699930/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/110830cyrjk3m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/08/110830-cyrenel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/171104cyrlks3.jpg
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830727273158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/170812cymn1.jpg
   caption: |
     <p>Cyrene Reef, Aug 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154908225898660&set=a.10154515554383660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/200626tptky2.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10164415149030112&set=a.10164415147495112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/220102biotch4.jpg
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918014158713&set=a.10159918036293713">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -197,7 +203,7 @@ often moves on top of reefs.
 **Sometimes mistaken for** scorpionfishes.
 Here's more on [how to tell apart fishes
 that look like stones](../cfstonefish).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **How painful is the sting of a
 stonefish?** Here's a description:  

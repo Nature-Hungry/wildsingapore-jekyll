@@ -1,12 +1,15 @@
 ---
 title: Big hermit-hitching anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hermit, crab, anemone, anthozoa, cnidaria, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Hormathidae
 genus: Calliactis
-species: ""
+species: ''
 inat_id: 195593
 stateofmatter: Life
 kingdom: Animalia
@@ -18,49 +21,49 @@ suborder: Enthemonae
 superfamily: Metridioidea
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
   caption: |
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8665m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8665m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
   caption: |
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7735m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7735m3.jpg
   caption: |
     <p>It was attached to a living snail.</p>
     <p>Changi, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd2018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd2018m3.jpg
   caption: |
     <p>Verrucae in regular bands.</p>
     <p>Changi, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100926cjd1705m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100926cjd1705m3.jpg
   caption: |
     <p>Chek Jawa, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd1980m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/100430chgd1980m3.jpg
   caption: |
     <p>Changi, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7786m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/090722chgd7786m3.jpg
   caption: |
     <p>Changi, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/160125obsjt6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/160125obsjt6.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153851748833119.1073741887.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/140502chgmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/140502chgmn.jpg
   caption: |
     <p>Changi, May 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14087377034/in/photostream/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/251109chgsafky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/251109chgsafky1.jpg
   caption: |
     <p>Changi Creek, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/240723chgeccn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/240723chgeccn2.jpg
   caption: |
     <p>Stuck on a <a href="../../mollusca/gastropoda/naticidae/sandcollar.htm">sand collar</a>.</p>
     <p>Changi East (Lost Coast), Jul 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161269751293654">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/080801chgd8683m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -111,7 +114,7 @@ living snails](snail.htm).
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

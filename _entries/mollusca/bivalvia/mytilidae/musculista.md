@@ -1,9 +1,14 @@
 ---
 title: Nest mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: nest, mussel, clam, musculista, arcuatula, senhousia, mytilidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info
 layout: entry
-attributes: [2, 33, 107]
+attributes:
+- 2
+- 33
+- 107
 family: Mytilidae
 genus: Arcuatula
 species: senhousia
@@ -19,39 +24,39 @@ superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
   caption: |
     <p>Mats coating boulders and the ground.</p>
     <p>Pulau Sekudu, Dec 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
   caption: |
     <p>These tiny mussels can form vast mats.</p>
     <p>Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks01m3.jpg
   caption: |
     <p>Pasir Ris, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks02m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/blog-post.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/090211prplks03m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/140530prpEd5721m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/140530prpEd5721m3.jpg
   caption: |
     <p>Plain sand star seen on a nest mussel bed.</p>
     <p>Pasir Ris, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120705chgd7098m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120705chgd7098m3.jpg
   caption: |
     <p><a href="../../../worm/polycladida/silt.htm">Silt flatworm</a> seen on a nest mussel bed.</p>
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/120605lygd4072m3.jpg
   caption: |
     <p><a href="../../../plants/seagrass/decipiens.htm">Hairy spoon seagrass</a> growing on a nest mussel bed.</p>
     <p>Changi, Jun 12</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/071223skdd8045m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -94,7 +99,7 @@ individuals in one square metre. These mats rapidly change sandy bottoms
 into mud flats as they retain silt. Colonies fluctuate widely and
 unpredictably.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

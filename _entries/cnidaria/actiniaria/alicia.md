@@ -1,9 +1,13 @@
 ---
 title: Alicia anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "alicia, anemone, aliciidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: alicia, anemone, aliciidae, anthozoa, cnidarian, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [5, 6, 88]
+attributes:
+- 5
+- 6
+- 88
 family: Aliciidae
 genus: Alicia
 species: sp.
@@ -22,78 +26,78 @@ subfamily: Pepsinae
 tribe: Priocnemini
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
   caption: |
     <p>Terumbu Semakau, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1292m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1292m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1212m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1212m6l.jpg
   caption: |
     <p>Terumbu Semakau, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1281m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1281m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1296m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1296m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/120704chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/120704chglks.JPG
   caption: |
     <p>Changi, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520756308/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/210613chg4vc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/210613chg4vc1.jpg
   caption: |
     <p>Changi (4), Jun 21Photos shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158522667227945&set=a.10158519623147945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk1m6l.jpg
   caption: |
     <p>Changi, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/090622chgjk2m3a.jpg
   caption: |
     <p>Photos shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/06/changi-mooncrabs-and-flatfishes.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/100403tbbjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/100403tbbjk5m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/100403tbbjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/100403tbbjk6m3.jpg
   caption: |
     <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/1405019srplks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/1405019srplks1.JPG
   caption: |
     <p>Sentosa Serapong, May 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14033429430/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233843413/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/130428tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/130428tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750454558/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/140811trylks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/140811trylks.JPG
   caption: |
     <p>Terumbu Raya, Aug 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25233069600/in/album-72157618622863607/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrd2930m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrd2930m3.jpg
   caption: |
     <p>This is what it looked like when we first saw it.</p>
     <p>Cyrene Reef, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrd2935m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrd2935m3.jpg
   caption: |
     <p>Cyrene Reef, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrtsj1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrtsj1m3.jpg
   caption: |
     <p>What it looked like after it relaxed in a tank.</p>
     <p>blog](http://naturescouter.blogspot.com/2008/05/alicia-at-cyrene-reef.html).</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrtsj1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/080509cyrtsj1m3a.jpg
   caption: |
     <p>Cyrene Reef, May 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/05/alicia-at-cyrene-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/190520hntjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/190520hntjll2.jpg
   caption: |
     <p>Pulau Hantu, May 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156408098531295&set=a.10156408097666295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/110517tptlt1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/110517tptlt1m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11 Photo shared by Liana Tang on <a href="http://www.facebook.com/media/set/?set=a.541764784148.43593.227700992">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/110517tptlt2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/110517tptlt2m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/alicia/121115tsmkd1279m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -137,7 +141,7 @@ have a powerful and nasty sting.
   
 **Sometimes mistaken for** [cerianthids](../others/ceriantharia/ceriantharia.htm) when their tentacles are expanded. Unlike Alicia anemones, cerianthids live in a tube and don't have bumps on their body column. When retracted, may also resemble some kinds of [corallimorphs](../others/corallimorphs/corallimorph.htm), which tend to occur in clusters of many individuals while Alicia anemones are usually found alone.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

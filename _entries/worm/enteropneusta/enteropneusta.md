@@ -1,75 +1,76 @@
 ---
-title: "Acorn worms "
+title: 'Acorn worms '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore, marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo"
+keywords: acorn, worm, enteropneusta, hemichordata, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singalpore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
   caption: |
     <p>This one was seen in a pool of water.</p>
     <p>Chek Jawa, Aug 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/050402cjd2070m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/050402cjd2070m3a.jpg
   caption: |
     <p>The back end of this worm may stick out</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/030702cjd0104m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/030702cjd0104m3.jpg
   caption: |
     <p>The worm must obviously manipulate its butt in order to 'build' such a neat coil!</p>
     <p>Chek Jawa, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090428chgd0794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090428chgd0794m3.jpg
   caption: |
     <p>Also amongst seagrasses.</p>
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160508kusjt10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160508kusjt10.jpg
   caption: |
     <p>Kusu Island, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/080603tmlksm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/080603tmlksm3.jpg
   caption: |
     <p>Tanah Merah, Jun 08Photo shared by Loh Kok Seng on  <a href="http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090224lazlks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/090224lazlks03m3.jpg
   caption: |
     <p>Lazarus, Feb 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/200822jngjc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/200822jngjc5.jpg
   caption: |
     <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476141171310&set=a.10158476213361310">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160124smkell5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/160124smkell5.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153671838553964.1073741871.716233963&type=3">facbook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091205sudd5456m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091205sudd5456m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100613sngd5780m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100613sngd5780m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091204pawd5418m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091204pawd5418m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091231biod7101m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/091231biod7101m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/100130brklks17m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352606989/">his flickr</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
     <p>963 - Pechenik, Jan A., 2005.</p>
     <p>Biology</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>5th edition.</p>
     <p>McGraw-Hill Book Co., Singapore.</p>
     <p>578 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/enteropneusta/enteropneusta/020811cjd0644m3.jpg
 ---
 
 
@@ -155,7 +156,7 @@ fertilisation. In some, eggs develop into free-swimming larvae that
 look very similar to echinoderm larvae. These eventually settle down
 and change into tiny acorn worms.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

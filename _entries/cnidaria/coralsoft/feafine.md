@@ -1,7 +1,8 @@
 ---
 title: Fine feathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "alcyonacea, soft, coral, octocoral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: alcyonacea, soft, coral, octocoral, cnidaria, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Briareidae
 genus: Briareum
@@ -9,57 +10,57 @@ species: excavatum*
 attributes: []
 updated: Aug 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
   caption: |
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5839m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5839m3a.jpg
   caption: |
     <p>Polyps emerge from calyces.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/060625bbd3321m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/060625bbd3321m3.jpg
   caption: |
     <p>Beting Bronok,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/060625bbd3321m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/060625bbd3321m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/070518tkrg9410m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/070518tkrg9410m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/070518tkrg9410m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/070518tkrg9410m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/040919sntd7035m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/040919sntd7035m3.jpg
   caption: |
     <p>Encrusting a discarded bottle.</p>
     <p>Sentosa, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/040919sntd7038m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/040919sntd7038m3b.jpg
   caption: |
     <p>Sentosa, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/200822jngjc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/200822jngjc1.jpg
   caption: |
     <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476122716310&set=a.10158476213361310">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/091204pawd5228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/091204pawd5228m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/091204pawd5228m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/091204pawd5228m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/100613sngd5427m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/100613sngd5427m3b.jpg
   caption: |
     <p>Pulau Senang.</p>
     <p>Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/110619tslgd4396m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/110619tslgd4396m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/110619tslgd4398m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/110619tslgd4398m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/220201brktch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/220201brktch3.jpg
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159972839228713&set=a.10159972857263713">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -105,7 +106,7 @@ symbiotic algae (zooxanthellae) and is thus more common in clearer waters.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

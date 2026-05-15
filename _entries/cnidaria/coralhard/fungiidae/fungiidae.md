@@ -1,11 +1,13 @@
 ---
-title: "Mushroom  corals "
+title: 'Mushroom  corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Fungiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 53677
 stateofmatter: Life
@@ -16,44 +18,44 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
   caption: |
     <p>Young mushroom corals start life attached to a hard surface on stalks.</p>
     <p>Tanah Merah, Jul 2011</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110423tpld9895m3.jpg
   caption: |
     <p>'Stalk' on underside of dead mushroom coral.</p>
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060131sjig4475m3e.jpg
   caption: |
     <p>Underside of a mushroom coral.</p>
     <p>St.</p>
     <p>John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
   caption: |
     <p><a href="circular.htm">Circular mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
   caption: |
     <p><a href="oval.htm">Oval mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/040801hntd3805m3.jpg
   caption: |
     <p><a href="heliofungia.htm">Sunflower mushroom coral</a> often mistaken for a sea anemone.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/polyphyllia/100502tryd2301m3.jpg
   caption: |
     <p><a href="polyphyllia.htm">Mole mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/herpolitha/040606kusg0472m3.jpg
   caption: |
     <p><a href="herpolitha.htm">Tongue mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
   caption: |
     <p><a href="ctenactis.htm">Feather mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/bracket/110731tryd7884m3.jpg
   caption: |
     <p><a href="bracket.htm">Bracket mushroom coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
   caption: |
     <p><a href="lithophyllon.htm">Lithophyllon mushroom coral</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -156,7 +158,7 @@ other creatures of the intertidal zone, all mushroom corals are affected
 by human activities such as reclamation and pollution. Trampling by
 careless visitors, and over-collection by hobbyists also have an impact
 on local populations.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

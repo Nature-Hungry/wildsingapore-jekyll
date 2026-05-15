@@ -1,11 +1,13 @@
 ---
-title: "Sundial snails "
+title: 'Sundial snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sundial, architectonicidae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Architectonicidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 185051
 stateofmatter: Life
@@ -16,29 +18,29 @@ subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
   caption: |
     <p>Laying egg string.</p>
     <p>St.</p>
     <p>John's Island, May 09 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/080606cyrcck2m3.jpg
   caption: |
     <p>Laying egg string.</p>
     <p>Cyrene Reef, Jun 08 Photo shared by Chim Chee Kong on  <a href="http://www.flickr.com/photos/chimck/2652195775/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4300.jpg
   caption: |
     <p>St John's Island, Feb 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
   caption: |
     <p><a href="perspectiva.htm">Clear sundial snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
   caption: |
     <p>Dead specimen.</p>
     <p><a href="perdix.htm">Partridge sundial snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/variegatus/130211sjid4147.jpg
   caption: |
     <p><a href="variegatus.htm">Variegated sundial snail</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -79,7 +81,7 @@ of long, tapering and very slender tentacles bearing eyes at their
 outer bases.The end of the the foot has two pointed lobes. The body
 is striped to match the shell.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

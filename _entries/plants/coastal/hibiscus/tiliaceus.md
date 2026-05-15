@@ -1,9 +1,15 @@
 ---
-title: "Sea hibiscus "
+title: 'Sea hibiscus '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: talipariti, tiliaceum, hibiscus, tiliaceus, malvaceae, plant, tree, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Malvaceae
 genus: Talipariti
 species: tiliaceum
@@ -18,51 +24,51 @@ subfamily: Malvoideae
 tribe: Hibisceae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
   caption: |
     <p>Sungei Buloh</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020415sbwrcpd8160m3.jpg
   caption: |
     <p>Slits on</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/031120sbwrd0002m3.jpg
   caption: |
     <p>The yellow flower turns orange</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090117smkd5536m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/081206smkd2478m3.jpg
   caption: |
     <p>Juvenile <a href="../../../insecta/dysdercus.htm">Cotton stainer bug</a> These bugs feed on its seeds.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090214sbwrd7160m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/090214sbwrd7160m3a.jpg
   caption: |
     <p>Adult Bugs are often found in large numbers under Sea hibiscus leaves.</p>
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090321krjo3211491m3a.jpg
   caption: |
     <p>Kranji Canal, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3.jpg
   caption: |
     <p>Changi Boardwalk, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0552m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0537m3a.jpg
   caption: |
     <p>Changi Boardwalk, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0546m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090912chgbwd0546m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/091005cjd2206m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/090408wdld9158m3.jpg
   caption: |
     <p>Woodland Park, Apr 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -71,7 +77,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -79,7 +85,7 @@ page_images:
     <p>- Tomlinson, P.</p>
     <p>B., 1986.</p>
     <p>[The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Cambridge University Press.</p>
     <p>USA.</p>
@@ -87,7 +93,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -98,7 +104,7 @@ page_images:
     <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/hibiscus/tiliaceus/020120sbwrcpd5232m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -187,7 +193,7 @@ Indonesia and used to control fevers. The leaves are also used to
 sooth and remove phlegm in respiratory ailments. In the Philippines,
 fresh bark soaked in water is used to treat dysentery.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

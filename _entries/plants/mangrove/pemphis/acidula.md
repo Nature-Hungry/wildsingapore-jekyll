@@ -1,9 +1,15 @@
 ---
 title: Mentigi
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mentigi, pemphis, acidula, lythraceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mentigi, pemphis, acidula, lythraceae, mangrove, mangroves, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Lythraceae
 genus: Pemphis
 species: acidula
@@ -16,19 +22,19 @@ class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7113m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7113m3b.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7116m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod7116m3a.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6848m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6848m6l.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/pemphis/acidula/091231biod6842m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -96,7 +102,7 @@ storm in Nov 2006.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

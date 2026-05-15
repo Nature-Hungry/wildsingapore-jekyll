@@ -1,9 +1,17 @@
 ---
 title: Orange-clawed swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "swimming, crab, charybdis, anisodon, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: swimming, crab, charybdis, anisodon, portunidae, decapod, crustrace, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112, 119]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
+- 119
 family: Portunidae
 genus: Charybdis
 species: anisodon*
@@ -26,31 +34,31 @@ subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3.jpg
   caption: |
     <p>Pasir Ris, Mar 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3a.jpg
   caption: |
     <p>6 spines on the body side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3001.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3001.jpg
   caption: |
     <p>Pasir Ris, Mar 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/130726chgsafd0475m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/200622chgmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/200622chgmn4.jpg
   caption: |
     <p>Changi, Jun 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157477172653660&set=a.10157477171708660&type=3&theater&comment_id=10157498373053660&reply_comment_id=10157498379083660&force_theater=1&notif_t=photo_reply&notif_id=1593321490133757">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/200921chgwvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/200921chgwvc2.jpg
   caption: |
     <p>Changi West, Sep 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157963790287945&set=a.10157963789392945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/230706bbmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/230706bbmn1.jpg
   caption: |
     <p>Beting Bronok, Jul 23 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159696234558660&set=a.10159696239548660">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/anisodon/150323prpEd3000m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -91,7 +99,7 @@ Last pair of legs are paddle-shaped and rotate like boat propellers,
 so the crab swims well in all directions. It is a fully marine crab
 and cannot live long out of water. Body and legs olive green. Claws olive green on the outside, orange on the inside and towards the pincers which has white tips
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

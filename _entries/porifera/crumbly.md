@@ -1,6 +1,6 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
 title: Crumbly sponge
@@ -17,19 +17,19 @@ subclass: Heteroscleromorpha
 order: Suberitida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
   caption: |
     <p>Punggol, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/101205blylks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/crumbly/101205blylks4.jpg
   caption: |
     <p>Berlayar Creek, Dec 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5239767822/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/crumbly/130822pgld2055m3.jpg
 ---
 
 
@@ -48,7 +48,7 @@ Oct 2016*
 seen?**
 This colourful sponge with a crumbly-looking texture is sometimes seen on our Northern shores. Often seen near [Rainbow sponges](rainbow.htm) (*Suberites* sp.) **Features:** Encrusting to irregular boulder-shaped sponge 10-15cm, surface rough and irregular. Holes not obvious out of water. On the outside, greyish-green, blue. Those growing in shade said to be yellowish. Bright yellow on the inside.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

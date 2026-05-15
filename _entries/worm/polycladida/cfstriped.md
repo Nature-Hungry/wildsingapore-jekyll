@@ -1,9 +1,11 @@
 ---
 title: Flatworms with one central line
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, polyclad, turbellaria, platyhelminthes, pseudoceros, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: flat, worm, flatworm, polyclad, turbellaria, platyhelminthes, pseudoceros,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
-family: ""
+family: ''
 genus: How
 species: to
 attributes: []
@@ -18,59 +20,59 @@ subfamily: Lilioideae
 tribe: Lilieae
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3a.jpg
   caption: |
     <p><a href="lineblue">Blue-lined flatworm</a> (Pseudoceros concinnus)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineyellow/031025cjd0042m3a.jpg
   caption: |
     <p><a href="lineyellow">Yellow-lined flatworm</a> (Pseudoceros sp.</p>
     <p>3)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/linebraid/100528tkklks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/linebraid/100528tkklks3m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/my-first-trip-to-pulau-tekukorl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/linebraid/100528tkklks3m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/linebraid/100528tkklks3m3a.jpg
   caption: |
     <p><a href="linebraid">Braided-line flatworm</a> (Pseudoceros sp.</p>
     <p>4)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3a.jpg
   caption: |
     <p><a href="bifurcus">Racing-line flatworm</a> (Pseudoceros bifurcus)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/060810rlhd5700m3a.jpg
   caption: |
     <p><a href="triplestripe">Triple-striped flatworm</a>(Pseudoceros sp.</p>
     <p>5)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/triplestripe/160124smkelks2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/060101sisg3571m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/060101sisg3571m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/rubrotentaculatus/060101sisg3571m3a.jpg
   caption: |
     <p><a href="rubrotentaculatus">Ocher-striped flatworm</a>(Pseudoceros rubrotentaculatus)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/brownstripe/060305sisg5452m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/brownstripe/060305sisg5452m3.jpg
   caption: |
     <p><a href="brownstripe">Pseudobiceros sp.</p>
     <p>2</a> (Brown-stripe flatworm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orsaki/141109lazlks5m3.jpg
   caption: |
     <p><a href="orsaki">Nymphozoon orsaki</a> (Orsak's flatworm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bayeri/060402ulrd1024m3.jpg
   caption: |
     <p><a href="bayeri">Nymphozoon bayeri</a> (Bayer's flatworm)</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/lineblue/080524sntd4190m3.jpg
 ---
 
 
@@ -91,7 +93,7 @@ Here's more on how to tell them apart.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Body colour creamy-white to slightly bluish-creamy-white.  
   

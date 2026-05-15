@@ -1,9 +1,16 @@
 ---
 title: Carpet eel-blenny
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "carpet, eel, blenny, eelblenny, fish, congrogadus, subducens, pseudochromidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: carpet, eel, blenny, eelblenny, fish, congrogadus, subducens, pseudochromidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Pseudochromidae
 genus: Congrogadus
 species: subducens
@@ -18,127 +25,127 @@ order: Blenniiformes
 subfamily: Congrogadinae
 updated: Sep 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/120506sisd1191m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/120506sisd1191m6l.jpg
   caption: |
     <p>Tiny one hunting among <a href="../../../plants/seaweed/chlorophyta/bryopsis">Hairy green seaweed</a> and <a href="../../../mollusca/slugs/sacoglossa/bryopsis">Bryopsis slugs</a>.</p>
     <p>Sisters Island, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisd1598m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisd1598m6l.jpg
   caption: |
     <p>Dorsal, anal and tail fins are continuous.</p>
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3a.jpg
   caption: |
     <p>Large mouth, large eyes, large gill covers.</p>
     <p>Sisters Island, Jul 04 What does it eat?</p>
     <p>The Carpet eel-blenny preys on small fish, crabs and shrimps.</p>
     <p>It usually hunts alone.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090822sisd9645m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090822sisd9645m3a.jpg
   caption: |
     <p>Caught a <a href="../atherinidae/duodecimalis">Tropical silverside</a>.</p>
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks6.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks6.JPG
   caption: |
     <p>Caught a <a href="../labridae/dussumieri">Diamond tuskfish</a>.</p>
     <p>Cyrene Reef, Jun 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk.jpg
   caption: |
     <p>Doesn't appear to have lots of sharp teeth.</p>
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4647294598/">flickr</a>.</p>
     <p>Human uses: Although large, the Carpet eel-blenny is not eaten by people.</p>
     <p>It is, however, harvested from the wild for the live aquarium trade and sold as "wolf eels".</p>
     <p>But they are not the most popular aquarium fish, as they tend to eat their tankmates.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110617pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110617pgllks.JPG
   caption: |
     <p>Punggol, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5866215618/in/album-72157625372847848/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190519prpjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190519prpjll4.jpg
   caption: |
     <p>Pasir Ris Park, May 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156384875781295&set=a.10156384873701295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/200723bblks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/200723bblks3.jpg
   caption: |
     <p>Beting Bronok, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158480104208158&set=a.10158480109973158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/170723ubnay8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/170723ubnay8.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210528chg7lks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210528chg7lks4.jpg
   caption: |
     <p>Changi Carpark 7, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159231444258158&set=a.10159231448318158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/130625ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/130625ecplks.JPG
   caption: |
     <p>East Coast Park, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24771202632/in/album-72157607719316847/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/220813pcnlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/220813pcnlks2.jpg
   caption: |
     <p>East Coast PCN, Aug 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160033991433158&set=a.10160033993923158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090808tmtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/090808tmtch1m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/08/no-uncle-i-am-not-waiting-forl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/091218tmlks3m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/091218tmlks3m3.JPG
   caption: |
     <p>Tanah Merah, Dec 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/12/tanah-merah-brightly-ledl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/251011lablks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/251011lablks7.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/151029sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/151029sntmn.jpg
   caption: |
     <p>Sentosa, Oct 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27459546640/">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100420snttch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100420snttch1m3.jpg
   caption: |
     <p>Sentosa, Apr 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/back-to-sentosa-tanjong-rimaul">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100710cyrmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100710cyrmn1m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4792497527/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080509cyrlks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080509cyrlks01m3.jpg
   caption: |
     <p>Cyrene Reef, May 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/another-fantastic-trip-out-at-cyrenel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250726cyrlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250726cyrlks3.jpg
   caption: |
     <p>Cyrene, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks5.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/160608cyrlks5.JPG
   caption: |
     <p>Caught a <a href="../labridae/dussumieri">Diamond tuskfish</a>.</p>
     <p>Cyrene Reef, Jun 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2016/06/coral-bleaching-at-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100528tkkjk1m3.jpg
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4647293000/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110421jngrl1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110421jngrl1m3.jpg
   caption: |
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110619tslgjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110619tslgjk6m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared byJames Koh on <a href="http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/180715thndc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/180715thndc4.jpg
   caption: |
     <p>Terumbu Hantu, Jul 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1659335177516585&set=a.1659334347516668&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/150121tpkjll4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/150121tpkjll4m3.jpg
   caption: |
     <p>Terumbu Pempang Kecil, Jan 15Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152686639956295.1073741844.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250712tplal3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/250712tplal3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Adriene Lee on <a href="https://www.facebook.com/media/set/?set=a.10161886103498693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190521tpljll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/190521tpljll3.jpg
   caption: |
     <p>Terumbu Pempang Laut, May 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156410461466295&set=a.10156410459021295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100403tbbtch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100403tbbtch3m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/hot-and-sunny-beting-bemban-besarl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110522bbblks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110522bbblks8m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besarl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110422tbmro1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/110422tbmro1m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/fbx/?set=a.161983543861352.37680.133291903397183">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080804rlhlks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/080804rlhlks02m3.jpg
   caption: |
     <p>Raffles Lighthouse, Aug 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/08/reef-animals-of-raffles-lighthousel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100531biojk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/100531biojk.jpg
   caption: |
     <p>Pulau Biola, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4656112194/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210428slutch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/210428slutch3.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407093978713&set=a.10159407302613713">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pseudochromidae/subducens/040703sisg0982m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -208,7 +215,7 @@ ones.
 snakes](../../snakes/hydrophiidae/laticauda) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Eel-blenny babies:** Carpet eel-blennies
 lay their eggs in small clumps.

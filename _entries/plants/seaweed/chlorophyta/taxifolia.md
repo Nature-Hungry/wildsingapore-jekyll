@@ -1,13 +1,17 @@
 ---
 title: Taxifolia feathery green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: narrow, feathery, seaweed, weed, green, caulerpa, taxifolia, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: taxifolia*
-attributes: [46, 97]
+attributes:
+- 46
+- 97
 inat_id: 50919
 stateofmatter: Life
 kingdom: Plantae
@@ -16,44 +20,44 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Sep 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
   caption: |
     <p>Branch sickle-shaped, slight constriction where it attaches to the mid-rib.</p>
     <p>Labrador, Nov 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3.jpg
   caption: |
     <p>Sentosa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/050706sntg8971m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100811slud0103m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/110814smkd9055m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/190218cnyrk2.jpg
   caption: |
     <p>Coney Island, Feb 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156856805907906&set=a.10156856799117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/100530tbkd4338m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/151001blymn4m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -125,7 +129,7 @@ smother native plants and deprive native animals of food. Efforts
 to eradicate it has not succeeded and this seaweed is now considered
 a noxious introduced alien.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

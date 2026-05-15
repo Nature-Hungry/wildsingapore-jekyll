@@ -1,11 +1,13 @@
 ---
 title: Phyllodesmium nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "phyllodesmium, briareum, glaucidae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: phyllodesmium, briareum, glaucidae, nudibranchia, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Facelinidae
 genus: Phyllodesmium
-species: ""
+species: ''
 attributes: []
 inat_id: 54650
 stateofmatter: Life
@@ -21,35 +23,35 @@ suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
   caption: |
     <p>Chek Jawa, Dec 19Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10157786810023119&set=a.10157786791043119&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/171105cjtch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/171105cjtch.jpg
   caption: |
     <p>Chek Jawa, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155931143523713.1073742118.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/230606cjjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/230606cjjll3.jpg
   caption: |
     <p>Chek Jawa, Jun 23Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159668964936295&set=a.10159668995566295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527chgsaftch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527chgsaftch1.jpg
   caption: |
     <p>Changi Creek, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159478885733713&set=a.10159478904418713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527prpvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/210527prpvc2.jpg
   caption: |
     <p>Pasir Ris, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10158490211547945&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/070607sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/070607sntmn.jpg
   caption: |
     <p>Sentosa, Jun 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/534750571/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/080622snttch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/080622snttch1m3.jpg
   caption: |
     <p>Sentosa, Jun 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2631180250/">flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/220419sjitch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/220419sjitch1.jpg
   caption: |
     <p>Phyllodesmium macphersonae St.</p>
     <p>John's Island, Apr 22Photo and ID shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10160106788533713&set=a.10160106799518713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/090513sntlks1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/090513sntlks1m6l.jpg
   caption: |
     <p>Sentosa, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/back-to-first-love-at-tanjong-rimau.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/phyllodesmium/191214cjjt5.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +95,7 @@ the sea slug. Usually beige or brown.
 Bill Rudman, *Phyllodesmium briareum* feeds on [Fine
 feathery soft corals](../../../cnidaria/coralsoft/feafine.htm) (*Briareum* sp.).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

@@ -1,7 +1,9 @@
 ---
 title: Gnarled sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seafan, fan, echinomuricea, pulchra, plexauridae, gorgonian, gorgonacea,
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
 genus: Echinomuricea
@@ -9,42 +11,42 @@ species: pulchra*
 attributes: []
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
   caption: |
     <p>Beting Bronok, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3a.jpg
   caption: |
     <p>Stems look gnarled with polyps retracted.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/150616chgfpd5415m3.jpg
   caption: |
     <p>Closer look at the stem with polyps retracted.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1706m3.jpg
   caption: |
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1707m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/050820bbg1707m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3.jpg
   caption: |
     <p>Changi, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/100908chgd0758m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0045m3.jpg
   caption: |
     <p>Beting Bronok, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0046m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/030714bbd0046m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030618bbd0161m3.jpg
   caption: |
     <p><a href="../../../mollusca/cephalopoda/cepeggs">Squid egg capsules</a> attached to the sea fan.</p>
     <p>Beting Bronok, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/pteriidae/120704chgd6895m3.jpg
   caption: |
     <p><a href="../../../mollusca/bivalvia/pteriidae/seafan">Winged oyster</a> on the sea fan.</p>
     <p>Changi, Jul 12</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/gnarled/080705bbd7072m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +94,7 @@ fluffy.
   
 Animals seen on the sea fan include [Winged oysters](../../../mollusca/bivalvia/pteriidae/seafan) and [squid egg capsules](../../../mollusca/cephalopoda/cepeggs).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

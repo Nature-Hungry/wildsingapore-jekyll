@@ -1,7 +1,9 @@
 ---
 title: Marine flatworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: flat, worm, flatworm, polycladida, polyclad, turbellaria, platyhelminthes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 attributes: []
 family: Callioplanidae
@@ -9,15 +11,15 @@ genus: Order
 species: Polycladida
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
   caption: |
     <p>Some may be colourfully patterned.</p>
     <p>St John's Island, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/silt/100215sisd9466m3.jpg
   caption: |
     <p>Some may be nearly transparent!</p>
     <p>Sisters Island, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/baibaiye/050709skdg9312m3a.jpg
   caption: |
     <p>Pseudo tentacles made out folded edges of the body margin.</p>
     <p>Mouth is on the underside.</p>
@@ -25,158 +27,158 @@ page_images:
     <p>Many flatworms are carnivores that prey on tiny animals (protozoa, copepods, <a href="../worm">worms</a>) or feed on immobile animals such as <a href="../../bryozoa/bryozoan">bryozoans</a>, <a href="../../ascidiacea/ascidiacea">ascidians</a> and molluscs.</p>
     <p>Being flat, they slip easily between the shells of <a href="../../mollusca/bivalvia">bivalves</a> and some flatworms are considered pests of oyster farms.</p>
     <p>Some are scavengers, feeding on dead animals.</p>
-- url: "https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg"
+- url: https://live.staticflickr.com/828/27333526027_54c0f6d7b2_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/27333526027/ "Dawn flatworm (Pseudobiceros hancockanus)") Flatworms on the move: To move about, small flatworms secrete a mat of mucus and crawl on this mat with a dense layer of cilia on their underside.</p>
     <p>Bigger ones may swim by undulating the sides of their bodies.</p>
     <p>Some flatworms even have a sucker on the underside to get a grip on the surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/060130hntg4262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bedfordi/060130hntg4262m3.jpg
   caption: |
     <p>The mouth of a flatworm may be towards the middle of the underside of the body.</p>
     <p>Pulau Hantu, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg
   caption: |
     <p>Eating <a href="../../ascidiacea/eudistoma">Yellow clustered bead ascidians</a>?</p>
     <p>Changi, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/050112smkd9730m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/050112smkd9730m3.jpg
   caption: |
     <p>Bigger flatworms may undulate the sides of their bodies to 'swim'.</p>
     <p>Pulau Semakau, Jan 05 Flatworm babies: Marine flatworms are hermaphrodites, that is, each flatworm has both male and female reproductive organs.</p>
     <p>When two flatworms meet, they exchange sperm.</p>
     <p>Some species simply insert their needle-like penis anywhere in the body of the partner.</p>
     <p>This is not surprisingly called 'hypodermic impregnation'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/170625bbd3587m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/170625bbd3587m3.jpg
   caption: |
     <p>Two worms 'penis fencing'.</p>
     <p>Beting Bronok, Jun 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brklks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brklks6m3.jpg
   caption: |
     <p>'Penis fencing'  Terumbu Berkas, Jan 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353266620/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100617tblks4m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100617tblks4m3.JPG
   caption: |
     <p>'Penis fencing' Terumbu Bemban, Jun 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trapl">his blog</a>.</p>
     <p>Here's <a href="acanthozoon">a video clip of 'penis-fencing'</a> shared by Loh Kok Sheng.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140913pgllks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140913pgllks1m3.JPG
   caption: |
     <p>Possibly Stylochid Punggol, Sep 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110105sellks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110105sellks.jpg
   caption: |
     <p>Stylochid 8 Seletar, Jan 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5328337503/in/album-72157618302600113/">flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140114cjlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140114cjlks1m3.JPG
   caption: |
     <p>Pseudocerotidae 2 Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/01/any-impact-on-chek-jawa-from-dec-floodl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150221sjilks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150221sjilks1m3.JPG
   caption: |
     <p>Pseudocerotidae St John's Island, Mar 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/03/cny-day-3-st-johns-islandl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/120818lazlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/120818lazlks1m3.JPG
   caption: |
     <p>Pseudobiceros hymanae Seringat Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/230221tryjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/230221tryjll1.jpg
   caption: |
     <p>Pseudobiceros hymanae Terumbu Raya, Feb 23Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159470280566295&set=a.10159470289421295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181224sntlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181224sntlks1.jpg
   caption: |
     <p>Pseudoceros cf cruentus Sentosa, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156864203933158&set=a.10156864202778158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/211108ecpjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/211108ecpjll1.jpg
   caption: |
     <p>Pseudoceros cf cruentus East Coast Park, Nov 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158614310926295&set=a.10158614307991295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks1.JPG
   caption: |
     <p>Tytthosoceros sp.</p>
     <p>2 Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24059482061/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/141011hntlks2.JPG
   caption: |
     <p>Tytthosoceros sp.</p>
     <p>2 Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24059482211/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200209cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200209cyrjll1.jpg
   caption: |
     <p>Pseudobiceros hymanae Cyrene, Feb 20Photo shared by JIanlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157074787866295&set=a.10157074785861295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200210blylks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/200210blylks1.jpg
   caption: |
     <p>Eurylepta sp.</p>
     <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157946237288158&set=pcb.10157946238298158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/241019lazvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/241019lazvc1.jpg
   caption: |
     <p>Eurylepta sp.</p>
     <p>Lazarus, Oct 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160738772987945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181125tptgt.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/181125tptgt.jpg
   caption: |
     <p>Maritigrella sp Terumbu Pempang Tengah, Nov 18Photo shared by Gina Tan on <a href="https://www.facebook.com/gtanlc/media_set?set=a.10156921163653054&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/201117chg7lks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/201117chg7lks2.jpg
   caption: |
     <p>Pseudoceros cf stimpsoni Changi, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158772053388158&set=a.10158772054638158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/240528tslvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/240528tslvc1.jpg
   caption: |
     <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/250201bsisvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/250201bsisvc2.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?vanity=xia0gui&set=a.10161230122252945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks1m3.JPG
   caption: |
     <p>Acanthozoon/Thysanozoon sp.</p>
     <p>2 Pulau Hantu, Aug 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/140809hntlks2m3.JPG
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2b.jpg
   caption: |
     <p>About 2cm Pulau Hantu, Dec 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/251207hntky2d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsismn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsismn1.jpg
   caption: |
     <p>Thysanozoon nigrum Big Sisters Island, Feb 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158063610178660&set=a.10158062491188660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsisjc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210213bsisjc3.jpg
   caption: |
     <p>Thysanozoon nigropapillosum Big Sisters Island, Feb 21Photo shared by Joleen Chan on <a href="https://www.facebook.com/704656309/videos/a.10158878291171310/10158878256561310">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/260202smkerk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/260202smkerk1.jpg
   caption: |
     <p>Thysanozoon nigropapillosum Pulau Semakau East, Feb 26Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163658334517906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/171008srgjll2.jpg
   caption: |
     <p>Thysanozoon nigropapillosum Seringat-Kias, Oct 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155086851341295&set=a.10155086849486295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks1m3.JPG
   caption: |
     <p>Sisters Island, Feb 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/02/cny-day-1-big-sisters-islandl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/130210sislks2m3.JPG
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/150720smknlks3m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3.JPG
   caption: |
     <p>Pulau Hantu, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/090510hntlks1mn3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/predawn-at-hantu-reefsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210428slujll1c.jpg
   caption: |
     <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158234249971295&set=a.10158234241606295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210810tplmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/210810tplmn1.jpg
   caption: |
     <p>Pseuobiceros bajae (ID by Rene Ong).</p>
     <p>Terumbu Pempang Laut, Aug 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158433985458660&set=a.10158433985713660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks1m3.JPG
   caption: |
     <p>Planocerid 7 Cyrene Reef, Jun 11 shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/others/110606cyrlks2m3.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/anemone-hunt-at-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>CSIRO Publishing.</p>
@@ -212,7 +214,7 @@ page_images:
     <p>5th edition.</p>
     <p>McGraw-Hill Book Co., Singapore.</p>
     <p>578 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/orangewhite/121116sjjid1330m3.jpg
 ---
 
 
@@ -305,7 +307,7 @@ probably serve as a warning of their distasteful nature. Flatworms
 can contain powerful toxins. Others have colours and patterns that
 blend with the background. These and smaller ones are simply overlooked.
 Some flatworms mimic other animals such as [nudibranchs](../../mollusca/nudibranchia) (or perhaps visa versa).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Flatworms on the hunt:** Flatworms
 are quite adept hunters.

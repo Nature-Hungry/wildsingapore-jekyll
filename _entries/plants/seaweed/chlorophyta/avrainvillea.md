@@ -1,12 +1,14 @@
 ---
 title: Fan green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "solitary, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: solitary, fan, seaweed, weed, green, avrainvillea, udoteacea, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Avrainvillea
-species: ""
+species: ''
 attributes: []
 inat_id: 131285
 stateofmatter: Life
@@ -16,13 +18,13 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 12
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
   caption: |
     <p><a href="avrerecta">Solitary fan green seaweed</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrcluster/050610sntd3928m3.jpg
   caption: |
     <p><a href="avrcluster">Clustered fan green seaweed</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/avrerecta/050624tusg8537m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,7 +75,7 @@ there are more than 30 current *Avrainvillea* species.
 fan-shaped green seaweeds. Here's more on [how
 to tell apart fan-shaped green seaweeds](cffan).  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
  *\*Species are difficult to positively identify without close examination.

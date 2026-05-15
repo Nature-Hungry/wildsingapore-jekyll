@@ -1,9 +1,18 @@
 ---
-title: "Tengar putih "
+title: 'Tengar putih '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tengah, ceriops, tagal, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tengah, ceriops, tagal, rhizophoraceae, tree, mangrove, mangroves, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 32, 36, 57, 68]
+attributes:
+- 16
+- 18
+- 21
+- 32
+- 36
+- 57
+- 68
 family: Rhizophoraceae
 genus: Ceriops
 species: tagal
@@ -16,40 +25,40 @@ order: Malpighiales
 inat_id: 190475
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/081211smkd2783m3b.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090412hntd9789m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090412hntd9789m3.jpg
   caption: |
     <p>Growing on a sea wall.</p>
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5520m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5520m3a.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6050m3.jpg
   caption: |
     <p>Flowers small, many one one stalk.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090905sbwrd0234m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090905sbwrd0234m6l.jpg
   caption: |
     <p>Stilt roots.</p>
     <p>Sungei Buloh, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m3a.jpg
   caption: |
     <p>Brown 'fruit' smooth.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6049m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090124ubnd6049m3.jpg
   caption: |
     <p>Propagules hang down.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090118smkd5854m6.jpg
   caption: |
     <p>White collar on propagule.</p>
     <p>Pulau Semakau, Jan 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/tagal/090117smkd5478m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -124,7 +133,7 @@ in childbirth and as part of a lotion for ulcers.
 **Status and threats:** It is listed
 as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

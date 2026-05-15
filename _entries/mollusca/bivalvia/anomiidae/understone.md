@@ -1,12 +1,17 @@
 ---
-title: "Under-a-stone jingle clam "
+title: 'Under-a-stone jingle clam '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: monia, jingle, shell, anomiidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [2, 33, 34, 73]
+attributes:
+- 2
+- 33
+- 34
+- 73
 family: Anomiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 50611
 stateofmatter: Life
 kingdom: Animalia
@@ -18,26 +23,26 @@ order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
   caption: |
     <p>Chek Jawa, Jun 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/060624skdd3259m3.jpg
   caption: |
     <p>Notch in one of the valves is clearly seen in the shell of this dead animal Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/080422smkd1586m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3.jpg
   caption: |
     <p>Stuck on a <a href="../placunidae/placuna.htm">Window pane shell</a>.</p>
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6691m3a.jpg
   caption: |
     <p>Fringe of tentacles when submerged.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/120703chgd6695m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/understone/020616cjd0734m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -83,7 +88,7 @@ Initially, this opening is a notch on the edge of the shell. But as
 the animal grows and secretes more shell material, the notch is surrounded
 and becomes a hole.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

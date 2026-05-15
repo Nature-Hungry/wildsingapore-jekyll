@@ -1,6 +1,6 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: encrusting
 title: Veined sponge
@@ -10,19 +10,19 @@ species: cf.
 attributes: []
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
   caption: |
     <p>Changi, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/veined/130501sntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/veined/130501sntlks.JPG
   caption: |
     <p>Sentosa, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24016916961/in/album-72157607923545583/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/veined/101205blylks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/veined/101205blylks1.jpg
   caption: |
     <p>Berlayar Creek, Dec 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5241349152/in/album-72157625545414532/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/veined/110812chgd8798m3.jpg
 ---
 
 
@@ -43,7 +43,7 @@ seen?** Considered the thinnest recorded sponge in Singapore, this fragile spong
   
 **May be confused with** encrusting ascidians such as [Rock slime ascidians](../ascidiacea/rockslime.htm) and [Orange lobe ascidians](../ascidiacea/orange.htm). These ascidians do not have 'veins'.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  *\*Species are difficult to positively identify without close examination.   

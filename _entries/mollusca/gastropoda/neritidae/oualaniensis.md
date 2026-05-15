@@ -1,7 +1,9 @@
 ---
 title: Dubious nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dubious, nerite, clithon, oualaniensis,  neritidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Clithon
@@ -18,58 +20,58 @@ superfamily: Neritoidea
 subfamily: Neritininae
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
   caption: |
     <p>Thin greyish operculum.</p>
     <p>Tanah Merah, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2360m3.jpg
   caption: |
     <p>Striped body with long tentacles.</p>
     <p>Tanah Merah, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/111226tmftd4962m3a.jpg
   caption: |
     <p>Striped body with long tentacles.</p>
     <p>Tanah Merah, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/101013tmftd2358m3.jpg
   caption: |
     <p>Egg cases laid on seagrass.</p>
     <p>Tanah Merah, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081214ecmd3109m3a.jpg
   caption: |
     <p>Egg cases laid on seagrass, already hatched.</p>
     <p>East Coast, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1.jpg
   caption: |
     <p>Marina East, De 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090430sntf0627m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090430sntf0627m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251208melks1a.jpg
   caption: |
     <p>Countless snails on Needle seagrass.</p>
     <p>Marina East, De 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/251107tmftlks4.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/200710mevc5.jpg
   caption: |
     <p>East Coast-Marina East, Jul 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811089927945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/061106tusd6519m3.jpg
   caption: |
     <p>Tuas, Nov 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/081229lazlks01m3.JPG
   caption: |
     <p>Lazarus, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/stars-at-lazarus-reclaimed-beach.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/201116lazmn1.jpg
   caption: |
     <p>Seringat-Kias, Nov 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157847400963660&set=a.10157847412818660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/250430sjilll1.jpg
   caption: |
     <p>St John's Island, Apr 25 Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723442181180571&type=3&ref=embed_post">facebook</a> .</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/091205sudd5427m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/oualaniensis/090512tmftd1473m3b.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -119,7 +121,7 @@ two shells are identical. Operculum thin smooth horn-like material
 usually greyish. Body pale with fine black stripes, and long slender
 tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

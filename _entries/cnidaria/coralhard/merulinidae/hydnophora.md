@@ -1,11 +1,13 @@
 ---
 title: Horn corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "horn, hydnophora, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: horn, hydnophora, merulinidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Hydnophora
-species: ""
+species: ''
 attributes: []
 inat_id: 88980
 stateofmatter: Life
@@ -16,40 +18,40 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Jun 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3a.jpg
   caption: |
     <p>Conical mounds called monticules.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3.jpg
   caption: |
     <p>Colony may be a combination of encrusting and branching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3b.jpg
   caption: |
     <p>Sometimes forming short valleys.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0549m3d.jpg
   caption: |
     <p>Tentacles around the mounds.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1100m3.jpg
   caption: |
     <p><a href="hydboulder.htm">Boulder horn coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1101m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydboulder/060402ulrd1101m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6493m3.jpg
   caption: |
     <p><a href="hydbranch.htm">Branching horn coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6498m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/060714rlhg6498m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2233m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2232m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/040705sisd2232m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/hydbranch/070618rlhg0547m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -101,7 +103,7 @@ human activities such as reclamation and pollution. Trampling by careless
 visitors, and over-collection also have an impact on local populations.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

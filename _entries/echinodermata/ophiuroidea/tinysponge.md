@@ -1,9 +1,15 @@
 ---
-title: "Tiny in-a-sponge brittle stars "
+title: 'Tiny in-a-sponge brittle stars '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tiny, sponge, brittle, star, brittlestar, ophiactis, savignyi, ophiuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 31, 92]
+attributes:
+- 0
+- 1
+- 31
+- 92
 family: Ophioactidae
 genus: Ophiactis
 species: savignyi*
@@ -21,42 +27,42 @@ suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
   caption: |
     <p>In a <a href="../../porifera/suberites">Chocolate sponge</a>.</p>
     <p>Chek Jawa, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3a.jpg
   caption: |
     <p>The arms of countless brittle stars can make a sponge appear 'hairy'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/080919sntd0619m3.jpg
   caption: |
     <p>Outside the sponge?</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3.jpg
   caption: |
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg8017m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg
   caption: |
     <p>Larger white brittle stars among the tiny banded ones.</p>
     <p>Pulau Sekudu, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothblue/100911sisd1174m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothblue/100911sisd1174m3a.jpg
   caption: |
     <p>In a  <a href="../../porifera/smoothblue">blue icing sponge</a>.</p>
     <p>Sisters Island, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100911sisd1245m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100911sisd1245m3a.jpg
   caption: |
     <p>In a <a href="../../porifera/smoothbrown">smooth brown sponge</a>.</p>
     <p>Sisters Island, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/050621skdg7908m3.jpg
   caption: |
     <p>In a <a href="../../porifera/bloborange">Orange blob sponge</a>.</p>
     <p>Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/150524tplmn1m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, May 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/060611cjd2782m3.jpg
 ---
 
 
@@ -95,7 +101,7 @@ star can reproduce sexually as well as asexually by division of the
 central disk, each half regenerating arms and other body parts to
 produce two new animals!
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

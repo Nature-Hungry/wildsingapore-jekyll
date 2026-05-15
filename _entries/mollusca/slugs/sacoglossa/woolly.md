@@ -1,11 +1,13 @@
 ---
 title: Woolly leaf slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "woolly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, plakobranchidae, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: woolly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, plakobranchidae,
+  elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plakobranchidae
 genus: Elysia
-species: ""
+species: ''
 attributes: []
 inat_id: 47799
 stateofmatter: Life
@@ -19,80 +21,80 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/161216cyro150203.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/161216cyro150203.jpg
   caption: |
     <p>Larger one seen among seagrasses.</p>
     <p>Cyrene Reef, Dec 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050708labg9140m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050708labg9140m3.jpg
   caption: |
     <p>About 1cm long.</p>
     <p>Seen on  <a href="../../../plants/seaweed/chlorophyta/halbig.htm">Coin green seaweed</a> Labrador, Jul 05 It is difficult to tell apart the species in the field, but in general, Elysia tomentosa is generally dark green with a thin dark line along inner and outer margins of the parapodia.</p>
     <p>Between the two lines the parapodial margins were cream-coloured.</p>
     <p>Many black dots on the body, head and rhinophores.</p>
     <p>No dots on foot sole.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9780m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9780m3.jpg
   caption: |
     <p>Green underside.</p>
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050722cjg9966m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050722cjg9966m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170714prpay3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170714prpay3.jpg
   caption: |
     <p>Pasir Ris Park, Jul 17 Shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211968894189954&set=a.10211104869269871&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081020chgtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081020chgtch1.jpg
   caption: |
     <p>Changi, Oct 08 Shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2961594802/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081020chgtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081020chgtch2.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/210527chgsaftch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/210527chgsaftch4.jpg
   caption: |
     <p>Changi Creek, May 21 Shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159478850843713&set=a.10159478904418713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/220616chgelks17.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/220616chgelks17.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159940595928158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/200706skdtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/200706skdtch4.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20 Shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158634944188713&set=a.10158634969763713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/111030skdlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/111030skdlks8m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/251011tgrlks20.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/251011tgrlks20.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/260104trmyls1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/260104trmyls1.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118137331062825">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/100515sjitch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/100515sjitch2m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 10 Shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/st-johns-island-with-new-sightings.html">her blog.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/100528tkkgl2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/100528tkkgl2m3.jpg
   caption: |
     <p>Pulau Tekukor, May 10 Shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2010/05/slugs-of-pulau-tekukor.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170129tslgtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170129tslgtch3.jpg
   caption: |
     <p>Terumbu Selegie, Jan 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155031352658713.1073742059.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081113jngtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081113jngtch01m3.jpg
   caption: |
     <p>Pulau Jong, Nov 08 Shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3029049093/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/250811jngjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/250811jngjll2.jpg
   caption: |
     <p>Pulau Jong, Aug 25Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161898528186295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/250503cyrtl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/250503cyrtl1.jpg
   caption: |
     <p>Cyrene, May 25 Shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162448315749264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081017cyrtch03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/081017cyrtch03m3.jpg
   caption: |
     <p>Cyrene Reef, Oct 08 Shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2947403134/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170812cyrmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/170812cyrmn1.jpg
   caption: |
     <p>Cyrene Reef, Aug 17 Shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154911221498660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/161216cyro150203.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/161216cyro150203.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -135,7 +137,7 @@ is a pair of 'rolled up' tentacles: look like rolls of tissue with
 a hollow centre, not solid tentacles like other slugs. Generally
 pinkish with black spots. Some have a black border around the parapodia.
 Some are very fast moving.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 *Elysia cf. verrucosa* is
 greyish green with many scattered small black spots. Also, many tiny orange or red dots.   

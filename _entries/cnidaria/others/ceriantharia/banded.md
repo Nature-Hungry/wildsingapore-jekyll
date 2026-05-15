@@ -1,46 +1,51 @@
 ---
 title: Banded cerianthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [4, 6, 88]
-family: ""
-genus: ""
+attributes:
+- 4
+- 6
+- 88
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
   caption: |
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050426chgd2803m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050426chgd2803m3.jpg
   caption: |
     <p>Smooth, sometimes purplish column.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/2007024pcnlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/2007024pcnlks4.jpg
   caption: |
     <p>East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482800018158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/201118nsrcssjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/201118nsrcssjk2.jpg
   caption: |
     <p>East Coast NSRCC, Nov 20 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50621737118/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/210822ssislks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/210822ssislks4.jpg
   caption: |
     <p>Small Sisters Island, Aug 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159407416353158&set=a.10159407433713158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/101206cyrlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/101206cyrlks4m3.jpg
   caption: |
     <p>Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/cyrene-reef-with-teamseagrass.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/110423tpllks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/110423tpllks6m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/110517tptlks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/110517tptlks7m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,7 +83,7 @@ outer long tentacles have bands of blue, brown and yellow, sometimes
 light green too. The inner ring of tentacles are very short and rather
 sparse. The smooth long body column is often purplish.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

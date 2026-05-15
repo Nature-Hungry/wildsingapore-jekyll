@@ -1,7 +1,9 @@
 ---
 title: Common triton snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: gyrineum, natator, ranellidae, cymatiidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Ranellidae
 genus: Gyrineum
@@ -17,27 +19,27 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
   caption: |
     <p>Pulau Sekudu, Sep 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/050110skdd9320m3.jpg
   caption: |
     <p>The snail has a long proboscis.</p>
     <p>Pulau Sekudu, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/110829ecpd0229.jpg
   caption: |
     <p>Under a stone: Laying eggs?</p>
     <p>East Coast Park, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/251208chgrk1.jpg
   caption: |
     <p>Changi, Dec 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163440955947906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2.jpg
   caption: |
     <p>Cyrene, Jul 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/250726cyrrk2a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -83,7 +85,7 @@ gyrineum snails elsewhere may eat sponges, hydroids, worms and clams.
 They may spray or inject an anaesthetic to paralyse their prey. Some
 tear off bits of flesh with their radula, while others liquify the
 prey's flesh then suck up the soup with their proboscis. [One study](https://www.researchgate.net/publication/273961466_The_feeding_strategy_of_the_predatory_Gyrineum_natator_Gastropoda_Neotaenioglossa_Ranellidae_in_the_Cape_d%27Aguilar_Marine_Reserve_Hong_Kong_with_a_review_of_sulphuric_acid_use_in_prey_access_by_the_To) suggests that the snail uses sulphuric acid to drill large holes in oysters and to attack other prey only when more easily obtained food is not available. It may also be used in defence.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

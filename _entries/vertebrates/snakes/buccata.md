@@ -1,7 +1,9 @@
 ---
 title: Puff-faced water snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: puff, face, faced, water, snake, homalopsis, buccata, homalopsidae, colubridae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Homalopsidae
 genus: Homalopsis
@@ -17,16 +19,16 @@ order: Squamata
 suborder: Serpentes
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6352m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 06</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/buccata/060826sbwrd6350m3.jpg
 ---
 
 
@@ -72,7 +74,7 @@ and China.
 and threats:**This snake is listed as 'Vulnerable'
 on the Red List of threatened animals of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

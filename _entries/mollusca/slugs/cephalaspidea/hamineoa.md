@@ -1,11 +1,28 @@
 ---
 title: Bubble-shell snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bubble, shell, snail, haminoea, haminoeidae, cephalaspidea, gastropod, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
+attributes:
+- 14
+- 22
+- 23
+- 30
+- 33
+- 64
+- 65
+- 71
+- 90
+- 100
+- 105
+- 111
+- 123
+- 125
+- 126
 family: Haminoeidae
-genus: ""
+genus: ''
 species: Family
 inat_id: 49813
 stateofmatter: Life
@@ -19,39 +36,39 @@ order: Cephalaspidea
 superfamily: Haminoeoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
   caption: |
     <p>Chek Jawa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3b.jpg
   caption: |
     <p>Releasing purple secretion.</p>
     <p>Chek Jawa, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
   caption: |
     <p>Chek Jawa, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/070224cjd8492m3a.jpg
   caption: |
     <p>Chek Jawa, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1143m3.jpg
   caption: |
     <p>Sometimes seen in a row.</p>
     <p>Chek Jawa, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/141223tustch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/141223tustch1m3.jpg
   caption: |
     <p>Tuas, Dec 14Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10152937374888713.1073741930.619308712&type=1">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/091230prpjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/091230prpjk2m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/251205cjlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/251205cjlks3a.jpg
   caption: |
     <p>Chek Jawa, Dec 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163664353053158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/160706skdnml1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/160706skdnml1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Neo Mei Lin on <a href="https://www.facebook.com/media/set/?set=a.10154328220629452.1073741850.565034451&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/191127lazjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/191127lazjll1.jpg
   caption: |
     <p>Lazarus Island, Nov 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156874805496295&set=a.10156874802806295&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/080412cjd1145m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +110,7 @@ snails](cephalaspidea.htm) it has a shield over the front of the body which is u
 to plough through the sediments. It has a pair of wing-like extensions
 of the body (called parapodia) which envelope the shell. It lacks
 tentacles and an operculum.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **What does it eat?** It grazes on

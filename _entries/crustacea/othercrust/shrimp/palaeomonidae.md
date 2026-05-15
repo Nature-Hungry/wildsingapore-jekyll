@@ -1,11 +1,13 @@
 ---
 title: Glass and commensal shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "commensal, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: commensal, anemone, shrimp, periclimenes, palaemonidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Palaemonidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50928
 stateofmatter: Life
@@ -22,44 +24,44 @@ infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Oct 2016
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngshrimps)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p><a href="brevicarpalis">Five-spot anemone shrimp</a> seen on carpet anemones in pairs.</p>
     <p>Kusu Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
   caption: |
     <p><a href="carpet">Tiny carpet anemone shrimp</a> seen on carpet anemones in groups of 5-10.</p>
     <p>Pulau Sekudus, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p><a href="brevicarpalis">Five-spot anemone shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
   caption: |
     <p><a href="carpet">Tiny carpet anemone shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/holthuisi/130626chgd8741m3.jpg
   caption: |
     <p><a href="holthuisi">'Gelek' anemone shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
   caption: |
     <p><a href="rednose">Little red nose shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/coralliocaris/110126hntd5201m3.jpg
   caption: |
     <p><a href="coralliocaris">Machine gun coral shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
   caption: |
     <p><a href="palaemon">Glass shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
   caption: |
     <p>About 1cm, several seen on a <a href="../../../echinodermata/holothuroidea/colochirus">Thorny sea cucumber</a>.</p>
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/other/050524cftg6598m3b.jpg
   caption: |
     <p>About 1cm, a pair seen on a <a href="../../../cnidaria/others/pennatulacea/veretillidae">Flowery sea pen</a>.</p>
     <p>Changi, May 05</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,7 +72,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

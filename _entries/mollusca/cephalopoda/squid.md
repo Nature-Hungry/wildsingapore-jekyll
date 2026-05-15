@@ -1,11 +1,12 @@
 ---
 title: Squids and cuttlefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "squid, cuttlefish, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: squid, cuttlefish, cephalopod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Loliginidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49441
 stateofmatter: Life
@@ -17,18 +18,18 @@ superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcephalopods.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
   caption: |
     <p>A <a href="sepiidae.htm">cuttlefish</a> has fins all around its body.</p>
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/080422smkd1422m3.jpg
   caption: |
     <p>Other  <a href="loliginidae.htm">squid</a> have broad fins that extend the length of the body.</p>
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
   caption: |
     <p>The <a href="sepiolida.htm">bobtail or bottletail squids</a> are not streamlined at all!</p>
     <p>Changi, Jun 05 Jet-propelled molluscs: Squids and cuttlefish squirt a jet of water out of a funnel to zoom off in the opposite direction.</p>
@@ -38,41 +39,41 @@ page_images:
     <p>A cuttlefish can also hover or swim slowly by undulating the fins along the sides of its body.</p>
     <p>A squid does not have this all-round fin.</p>
     <p>Instead, the fin is limited to a triangular flap at the tip of the body, which acts as stabilisers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/030802hntd0082m3b.jpg
   caption: |
     <p>Squids have a pair of onger tentacles that extend beyond the shorter arms.</p>
     <p>Pulau Hantu, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/pygmy/110831tmnbd0631m3.jpg
   caption: |
     <p>The tiny <a href="pygmy.htm">Pgymy squid</a> can catch shrimps almost as big as itself.</p>
     <p>Tanah Merah, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
   caption: |
     <p>Cuttlebone Chek Jawa, Mar 03 Armed and Dangerous: Squids and cuttlefish have eight arms.</p>
     <p>These arms are short and stout, with suckers along their entire length.</p>
     <p>Some have toothed suckers and hooks for an even better grip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/090606tmftd3187m3.jpg
   caption: |
     <p>Squids taking on different colours.</p>
     <p>Tanah Merah, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
   caption: |
     <p>Ink squirted out retains its shape.</p>
     <p>Sister Island, May 12 Disappearing Ink: When alarmed, squids and cuttlefish may squirt a cloud of 'ink'.</p>
     <p>The ink may contain substances that affect the senses of other sea creatures.</p>
     <p>The inky clouded water also allows it to make a getaway.</p>
     <p>Sometimes, mucous is also released that 'holds' the ink into a shape that distracts the predator.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
   caption: |
     <p>Some egg capsules commonly seen.</p>
     <p>Pulau Hantu, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
   caption: |
     <p>String of black <a href="cepeggs.htm">egg capsoules</a> Changi, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
   caption: |
     <p>Developing babies Changi, Jul 03</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -83,7 +84,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

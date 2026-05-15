@@ -90,7 +90,7 @@ may also be yellow.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

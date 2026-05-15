@@ -1,9 +1,14 @@
 ---
-title: "Seashore nutmeg "
+title: 'Seashore nutmeg '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nutmeg, knema, globularia, myristicaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nutmeg, knema, globularia, myristicaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 109]
+attributes:
+- 18
+- 21
+- 36
+- 109
 family: Myristicaceae
 genus: Knema
 species: globularia
@@ -16,28 +21,28 @@ class: Magnoliopsida
 order: Magnoliales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
   caption: |
     <p>Chek Jawa,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0013m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0013m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3.jpg
   caption: |
     <p>Chek Jawa, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/080412cjd1319m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/070623cjd2686m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/070623cjd2686m6l.jpg
   caption: |
     <p>Chek Jawa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/090926cjd1856m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/090926cjd1856m3.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -52,7 +57,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -62,7 +67,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -76,7 +81,7 @@ page_images:
     <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/knema/globularia/040208cjd0011m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -137,7 +142,7 @@ Ubin and St. John's Island it is now listed as 'Critically Endangered'
 in the Red List of threatened plants of Singapore.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

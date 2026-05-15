@@ -1,9 +1,19 @@
 ---
 title: Bottleneck sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bottleneck, cucumber, seacucumber, holothuria, impatiens, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Holothuriidae
 genus: Holothuria
 species: impatiens
@@ -18,41 +28,41 @@ order: Holothuriida
 subgenus: Thymiosycia
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
   caption: |
     <p>Narrow end with the mouth sticking out from hiding.</p>
     <p>Pulau Sekudu, Jun 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6167m6l.jpg
   caption: |
     <p>Pulau Sekudu, Jun 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks1.JPG
   caption: |
     <p>Pulau Sekudu, Jun 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdlks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24897482484/in/album-72157607907125005/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/160706skdnml2l.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Neo Mei Lin on <a href="https://www.facebook.com/media/set/?set=a.10154328220629452.1073741850.565034451&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/100527tmtch6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/100527tmtch6l.jpg
   caption: |
     <p>Tanah Merah, May 10Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/4643759510/in/album-72157602520570932/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/220618tmftjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/220618tmftjll1.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158972112641295&set=a.10158972116291295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/130531tkkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/130531tkkmn.jpg
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8902649240/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/230901kusky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/230901kusky1.jpg
   caption: |
     <p>Kusu Island, Sep 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168716640065112/806624451256827">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/250201bsislks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/250201bsislks2.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162326916718158&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/banded/140613skdd6155m3a.jpg
 ---
 
 
@@ -77,7 +87,7 @@ can release from its backside, long thick sticky white cylindrical tubes called 
 **Human uses:** This sea cucumber
 has low commercial value and is harvested by hand and free-diving in some places.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

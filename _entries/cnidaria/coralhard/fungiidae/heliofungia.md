@@ -1,7 +1,9 @@
 ---
 title: Sunflower mushroom coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: white, tip, mushroom, heliofungia, actiniformis, fungiidae, coral, hard,
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Fungiidae
@@ -16,71 +18,71 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3a.jpg
   caption: |
     <p>Large, lobed teeth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030619bbd0065m3.jpg
   caption: |
     <p>The underside is flat (not concave) Beting Bronok, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090112smkd5118m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8966m3.jpg
   caption: |
     <p>Young ones attached to a hard surface.</p>
     <p>Pulau Semakau, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/030802hnted0011m3.jpg
   caption: |
     <p>Pulau Hantu, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/060402ulrd1147m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/050310smkd1590m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080422smkd1455m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/170402smktch1.jpg
   caption: |
     <p>Pulau Semakau (North), Apr 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10155228680933713&set=a.10155228571078713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/2007025smknlks3.jpg
   caption: |
     <p>Pulau Semakau (North), Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485857278158&set=a.10158485859383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/250727smkwlks9.jpg
   caption: |
     <p>Pulau Semakau West, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/200111smksll4.jpg
   caption: |
     <p>Pulau Semakau (South), Jan 20Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2755508664472455&set=a.2755471284476193&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220619tsmtl3.jpg
   caption: |
     <p>Terumbu Semakau, Jun 22Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10159916125189264&set=a.10159916117854264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/090330trylks2m3.jpg
   caption: |
     <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3558524687/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/110522bbbjk2m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/05/110522-beting-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/100130brkd8644m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/220201brkjll2.jpg
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158753887236295&set=a.10158753863266295">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/heliofungia/080803smkd8964m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -149,7 +151,7 @@ and locally common throughout its range, it is heavily to harvested
 for aquarium trade and has suffered extensive reduction of coral reef
 habitat due to a combination of threats."
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

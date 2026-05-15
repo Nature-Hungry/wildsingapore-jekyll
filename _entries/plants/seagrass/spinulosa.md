@@ -1,15 +1,22 @@
 ---
-title: "Fern seagrass "
+title: 'Fern seagrass '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fern, spinulosa, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [46, 95, 97]
+attributes:
+- 46
+- 95
+- 97
 englishname: Fern seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: spinulosa
-summary: "2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that makes it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem about 4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi."
-coverimg: "https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg"
+summary: 2cm wide, 4cm long. Only seagrass with opposite leaves on a stem that makes
+  it appear fern-like. 10-20 opposite pairs of leaves on one stem, the stem about
+  4cm long. Rhizomes thin, sometimes woody. Common on Chek Jawa and Changi.
+coverimg: https://live.staticflickr.com/65535/47830012321_5e4e046f08_n.jpg
 inat_id: 50374
 stateofmatter: Life
 kingdom: Plantae
@@ -19,39 +26,39 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/080412cjd1263m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/080412cjd1263m6l.jpg
   caption: |
     <p>Fern seagrass sometimes grows right up</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/020213cjd6797m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/020213cjd6797m3.jpg
   caption: |
     <p>Leaves emerge from underground stems.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m6l.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3a.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/110916cjd1153m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg
   caption: |
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg
   caption: |
     <p>Small one-sided fold at the base of each leaf.</p>
     <p>Chek Jawa, Sep 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050819cjg1506m3a.jpg
   caption: |
     <p>Tiny snails grazing on algae on the leaves.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/bryozoannoid/080817chgd9745m3a.jpg
   caption: |
     <p><a href="../../bryozoa/bryozoan">Bryozoans</a> growing on the seagrass.</p>
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg"
-  caption: |
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/071126chgd7629m3c.jpg
+  caption: |-
     <p>Tiny organisms growing on leaflet.</p>
     <p>Changi, Nov 07</p>
 ---
@@ -135,7 +142,7 @@ known to graze on this seagrass.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

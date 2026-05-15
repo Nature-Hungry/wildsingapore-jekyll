@@ -1,12 +1,14 @@
 ---
 title: Cerianthids
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: peacock, tube, anemone, cerianthid, cerianthus, cerianthidae, ceriantharia,
+  anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Cerianthidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 47704
 stateofmatter: Life
 kingdom: Animalia
@@ -16,15 +18,15 @@ subclass: Ceriantharia
 order: Spirularia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
   caption: |
     <p>An inner ring of shorter tentacles identifies this as a cerianthid.</p>
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/030630chgd0121m3.jpg
   caption: |
     <p>Long body column that slips into an even longer tube.</p>
     <p>Changi, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/120413cjs06290m3.jpg
   caption: |
     <p>Chek Jawa, Apr 12 What do they eat?</p>
     <p>Cerianthids do not harbour symbiotic algae (zooxanthellae).</p>
@@ -32,15 +34,15 @@ page_images:
     <p>Cerianthids have potent stingers that can even be released into the water.</p>
     <p>These floating stingers can seriously affect creatures such as fishes and corals.</p>
     <p>(more about stingers on the <a href="../../cnidaria.htm">Cnidria page</a>)</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/phoronida/phoronida/030630chgd0017m3.jpg
   caption: |
     <p>Tiny black <a href="../../../worm/phoronida/phoronida.htm">Phoronid worms</a> are often seen with cerianthids.</p>
     <p>Changi, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2139m3.jpg
   caption: |
     <p>Scorpionfish hiding next to cerianthid.</p>
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/110519chgd2134m3a.jpg
   caption: |
     <p>Laid on a cerianthid tube: eggs?</p>
     <p>Changi, May 11 Human uses: Cerianthids are sometimes taken for the live aquarium trade.</p>
@@ -48,25 +50,25 @@ page_images:
     <p>Their burrowing habit and long body columns means they require deep tank beds.</p>
     <p>They also only take suspended food.</p>
     <p>This makes them difficult to keep alive in a home aquarium.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/banded/050818chgg1386m3.jpg
   caption: |
     <p><a href="banded.htm">Banded cerianthid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3.jpg
   caption: |
     <p><a href="blackmouth.htm">Black-mouth cerianthid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/common/040720chgd2874m3.jpg
   caption: |
     <p><a href="common.htm">Common cerianthid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3.jpg
   caption: |
     <p><a href="elegant.htm">Elegant cerianthid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/shy/060809skdd5496m3.jpg
   caption: |
     <p><a href="shy.htm">Shy glass cerianthid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
   caption: |
     <p><a href="smallmouth.htm">Small-mouth cerianthid</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/blackmouth/080422smkd1484m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -172,7 +174,7 @@ entire animal retracts down into the protective tube.
 **Sometimes confused with** [true sea
 anemones](../../actiniaria/actiniaria.htm). Here's more on [how
 to tell apart animals with a ring of smooth tentacles](../../cfringtentacles.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Peacock Babies:**They reproduce
 by releasing eggs and sperm into the water. The larvae are tiny and

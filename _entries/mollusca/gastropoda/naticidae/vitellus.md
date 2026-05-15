@@ -1,7 +1,9 @@
 ---
 title: Calf moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "moon, snail, natica, vitellus, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: moon, snail, natica, vitellus, naticidae, gastropod, mollusc, sand, collar,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Natica
@@ -18,74 +20,74 @@ superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
   caption: |
     <p>Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3.jpg
   caption: |
     <p>Small depression on underside.Operculum chalky with dark smudge.</p>
     <p>Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6460m3a.jpg
   caption: |
     <p>Operculum with a pair of spiralling grooves on the outer margin and finely serrated inner margin.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3a.jpg
   caption: |
     <p>Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858508158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3b.jpg
   caption: |
     <p>Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858508158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/200917prplks3c.jpg
   caption: |
     <p>Pasir Ris Park, Sep 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858508158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100116cjlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100116cjlks1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100116cjlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100116cjlks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4283722152/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251109chgsaflks7a.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173587094970112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/111125chgelks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/11/back-to-lost-coast.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100614bblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100614bblks1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100614bblks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/100614bblks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4699488314/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/220716bbccn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/220716bbccn1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/220716bbccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/220716bbccn1.jpg
   caption: |
     <p>Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159822592323654&set=a.10159822572458654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251008bbbtl1a.jpg
   caption: |
     <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163217448304264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3a.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163541820368158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/251107tmftlks3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/160608cyrjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/160608cyrjt1.jpg
   caption: |
     <p>Cyrene Reef, Jun 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154252104998119.1073741910.696593118&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/vitellus/110714chgd6457m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -127,7 +129,7 @@ the underside, a small depression. Operculum white with with a dark smudge where
 grooves on the outer margin and finely serrated inner margin. Body plain white
 or beige.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

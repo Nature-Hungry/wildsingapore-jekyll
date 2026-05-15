@@ -1,12 +1,14 @@
 ---
 title: Cowries
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cowrie, cypraeidae, cypraea, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 attributes: []
 family: Cypraeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 50687
 stateofmatter: Life
 kingdom: Animalia
@@ -17,21 +19,21 @@ order: Littorinimorpha
 superfamily: Cypraeoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
   caption: |
     <p>When covered with the 'hairy' mantle they are often mistaken for slugs Pulau Sekudu, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8705m3.jpg
   caption: |
     <p>The animal with tentacles and broad foot.</p>
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
   caption: |
     <p>The 'toothed' shell opening is only seen when the animal is completelyretracted.</p>
     <p>Changi, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/090210tmd6904m3.jpg
   caption: |
     <p>A broken shell shows the internal structure of a typical cowrie.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/noid/240212sjivc6.jpg
   caption: |
     <p>Young cowrie, has not developed 'teeth' at the shell opening yet.</p>
     <p>St John's Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229794202945&set=a.10160230394282945">facebook</a>.What do they eat?</p>
@@ -39,87 +41,87 @@ page_images:
     <p>Each has a radula adapted to its particular prey.</p>
     <p>Most cowries live in the intertidal zone, hiding during the day and emerging to feed at night.</p>
     <p>A cowrie has a pair of tentacles and a siphon, which is part of the mantle modified for breathing and sampling the water to look for food and mates.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
   caption: |
     <p>Eggs turn dark grey as they mature.</p>
     <p>Chek Jawa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
   caption: |
     <p>Mama cowrie under a rock, protecting her egg mass with her foot.</p>
     <p>Sentosa, Apr 10Human uses: Some cowries are popular in the live aquarium trade.</p>
     <p>Cowries are among the most harvested snails for the shell trade.</p>
     <p>In the past, they were traditionally collected for food.</p>
     <p>Some islanders use cowries to bait traps for octopus.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
   caption: |
     <p><a href="quadrimaculata.htm">Four-spot cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9300m3.jpg
   caption: |
     <p><a href="milliaris.htm">Miliaris cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/090818tmd9297m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/080604kusd4848m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
   caption: |
     <p><a href="pyriformis.htm">Pear-shaped cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3476m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3476m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/130722skdd9913m3.jpg
   caption: |
     <p><a href="gracilis.htm">Graceful cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chg4d8610.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/gracilis/140812chg4d8610.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8698m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/arabica/050625labg8690m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/moneta/190621cyrvt1.jpg
   caption: |
     <p><a href="moneta.htm">Money cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/tigris/130824smklks3.jpg
   caption: |
     <p><a href="tigris.htm">Tiger cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
   caption: |
     <p><a href="vitellus.htm">Milk-spotted cowrie</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/milliaris/040730skdd3368m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -191,7 +193,7 @@ shell and protects it from algae and encrusting animals. This is why
 a cowrie shell is so shiny and smooth. When disturbed, the entire
 mantle retracts into the shell.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

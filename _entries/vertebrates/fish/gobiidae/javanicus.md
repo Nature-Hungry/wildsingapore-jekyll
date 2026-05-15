@@ -1,9 +1,15 @@
 ---
 title: Java fat-nose goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: java, fat, nose, goby, pseudogobius, javanicus, fish, gobiidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [25, 47, 106, 108]
+attributes:
+- 25
+- 47
+- 106
+- 108
 family: Gobiidae
 genus: Pseudogobius
 species: javanicus
@@ -19,16 +25,16 @@ suborder: Gobioidei
 subfamily: Gobionellinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m6la.jpg
   caption: |
     <p>Kranji, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3c.jpg
   caption: |
     <p>First dorsal fin with black blotch at the rear portion, black bar under the first dorsal fin.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060317sbwrg5578m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -72,7 +78,7 @@ black spots at tail fin base.
   
 **What does it eat?** It feeds on
 small fishes and invertebrates.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
  
 

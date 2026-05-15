@@ -1,37 +1,39 @@
 ---
-title: "Wandering and Ovum cowries compared"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "wandering, cowrie, cypraeidae, errones, cypraea, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Wandering and Ovum cowries compared
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: wandering, cowrie, cypraeidae, errones, cypraea, gastropod, mollusc, snail,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9813m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9813m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
   caption: |
     <p><a href="errones.htm">Wandering cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
   caption: |
     <p><a href="ovum.htm">Ovum cowrie</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
   caption: |
     <p><a href="quadrimaculata.htm">Four-spot cowrie</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/080604kusd4832m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -62,7 +64,7 @@ cowries](ovum.htm)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **[Wandering

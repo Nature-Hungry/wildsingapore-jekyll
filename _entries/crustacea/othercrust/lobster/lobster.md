@@ -1,11 +1,12 @@
 ---
 title: Lobsters and lobster-like crustaceans
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Palinuridae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47297
 stateofmatter: Life
@@ -21,19 +22,19 @@ suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
   caption: |
     <p><a href="palinuridae">Lobster</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
   caption: |
     <p><a href="thalassina">Mud lobster</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/glypturus/040521sntbd0050m3.jpg
   caption: |
     <p><a href="glypturus">Coral ghost shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
   caption: |
     <p><a href="upogebiidae">Mud shrimp</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +93,7 @@ harvested as seafood everywhere.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

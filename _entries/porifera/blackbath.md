@@ -1,12 +1,12 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,"
+keywords: black, bath, sponge, spongia, hippospongia, spongiidae, porifera, field,
 layout: entry
 shape: ball
 title: Black bath sponge
 family: Spongiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 126518
 stateofmatter: Life
@@ -17,34 +17,34 @@ subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3.jpg
   caption: |
     <p>Terumbu Raya, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5371m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5371m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5373m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/120123hntd5373m3.jpg
   caption: |
     <p><a href="../mollusca/bivalvia/malleidae/vulsella.htm">Sponge finger oysters</a> embedded in the sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100502tryd2247m3a.jpg
   caption: |
     <p><a href="../worm/polychaeta/spionidae.htm">Spionid sponge worms</a> on the surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091204pawd5212m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091204pawd5212m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackbath/091205sudd5487m3a.jpg
   caption: |
     <p><a href="../mollusca/bivalvia/malleidae/vulsella.htm">Sponge finger oysters</a> embedded in the sponge.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackbath/100812tpld0275m3.jpg
 ---
 
 
@@ -105,7 +105,7 @@ leaving behind the skeleton. The spongin itself cannot absorb water,
 it is the structure of the skeleton that can absorb a huge amount
 of water, which can be easily released when the skeleton is squeezed.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

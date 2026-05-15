@@ -1,10 +1,11 @@
 ---
 title: Straw tubeworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: straw, tube, worm, chaetopteridae, tubeworm, polychaete, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chaetopteridae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 130244
@@ -15,27 +16,27 @@ class: Polychaeta
 subclass: Sedentaria
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
   caption: |
     <p>Regularly separated, not tightly clustered.</p>
     <p>Chek Jawa, Jan 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080801chglks.JPG
   caption: |
     <p>Peeking out of its tube.</p>
     <p>Changi, Aug 08Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2902842349/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg
   caption: |
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/171206ubnlks4.jpg
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Chaetopteridae">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/080122cjd9082m3.jpg
 ---
 
 
@@ -66,7 +67,7 @@ large areas, the tubes usually regularly separated from one another
   
 The actual animals are complex with 'wings' and other extensions.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

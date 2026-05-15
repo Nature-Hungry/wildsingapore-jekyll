@@ -1,28 +1,30 @@
 ---
-title: "Upsidedown brittle star (Ophiothrix sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Upsidedown brittle star (Ophiothrix sp.) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg
   caption: |
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3.jpg
   caption: |
     <p>Changi, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/080619chgd5733m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/070731chgd4729m3.jpg
 ---
 [![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
@@ -52,7 +54,7 @@ info on upsidedown brittle stars](upsidedown)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

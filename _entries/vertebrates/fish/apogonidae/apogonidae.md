@@ -1,11 +1,12 @@
 ---
 title: Cardinalfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cardinalfish, cardinal, fish, apogonidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Apogonidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 85594
 stateofmatter: Life
@@ -18,15 +19,15 @@ order: Gobiiformes
 suborder: Apogonoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
   caption: |
     <p>Sometimes found in groups.</p>
     <p>Pulau Hantu, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3106m3b.jpg
   caption: |
     <p>Brooding eggs in the mouth.</p>
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/111029smkd3110m3.jpg
   caption: |
     <p>Brooding young in the mouth.</p>
     <p>Pulau Semakau, Oct 11 Cardinalfish babies: Cardinalfishes are mouth brooders.</p>
@@ -35,22 +36,22 @@ page_images:
     <p>What do they eat?</p>
     <p>As a group they eat a wide variety from small fishes, crabs, prawns and other tiny animals including plankton.</p>
     <p>Most are more active at night.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/060130hntg4314m3.jpg
   caption: |
     <p><a href="margaritophorus">Chequered cardinalfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/110506tmftd0831.jpg
   caption: |
     <p><a href="candystripe">Candystripe cardinalfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/candystripe/100528tkkd3753m3.jpg
   caption: |
     <p><a href="candystripe">Candystripe cardinalfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/orbicularis/040830hntd5831m3.jpg
   caption: |
     <p><a href="orbicularis">Orbicular cardinalfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/melas/100810sngd9986m3.jpg
   caption: |
     <p><a href="melas">Black cardinalfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/apogonidae/margaritophorus/031125hntad0022m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -103,7 +104,7 @@ comes from the red colour of many of the species, although they come
 in all colours from yellow to brown and blue. Often found in small
 groups, sheltering among the seagrasses or other hiding places during
 the day.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Some species of cardinalfish
 like the Five-lined Cardinalfish (*Cheilodipterus quinquelineatus*)

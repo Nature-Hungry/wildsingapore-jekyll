@@ -1,11 +1,13 @@
 ---
 title: Sea turtles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Cheloniidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 39657
 stateofmatter: Life
@@ -17,14 +19,14 @@ order: Testudines
 superfamily: Chelonioidea
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
   caption: |
     <p>Young sea turtle found resting in the man-made lagoon.</p>
     <p>Sisters Island, Jul 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-islandl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130909kusrick1m3.jpg
   caption: |
     <p>Kusu Island, Sep 13Photo shared by Leong Chin Rick on <a href="https://www.facebook.com/photo.php?fbid=686186058076134&set=a.100353353326077.557.100000542374374&type=1&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/071112smktsy3m3.jpg
   caption: |
     <p>Hawksbill turtle (serrated edge of shell at the back).</p>
     <p>Pulau Semakau, Nov 07 Photo shared by Teo Siyang on <a href="http://uforest.blogspot.com/2007/11/sea-turtle-semakaul">his blog</a>.</p>
@@ -34,36 +36,36 @@ page_images:
     <p>In nature, starlight and moonlight on the water would guide them in the right direction.</p>
     <p>However, in urbanised shores like ours, light from our parks, streets and other human activities disorientate them.</p>
     <p>As a result, they head in the wrong direction and usually come to a sad end.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/130721ecpdavid1m3.jpg
   caption: |
     <p>Sea turtle seen attempting to lay eggs.</p>
     <p>East Coast Park, Jul 13Photo shared by David Tan on <a href="https://www.facebook.com/photo.php?fbid=10151624658014902&set=pb.626294901.-2207520000.1379039725.&type=3&src=https%3A%2F%2Ffbcdn-sphotos-f-a.akamaihd.net%2Fhphotos-ak-prn2%2F703694_10151624658014902_1000370831_o.jpg&smallsrc=https%3A%2F%2Ffbcdn-sphotos-f-a.akamaihd.net%2Fhphotos-ak-frc3%2F1069809_10151624658014902_1000370831_n.jpg&size=2048%2C1365">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/090921kusd1412m3.jpg
   caption: |
     <p>Baby sea turtle seen in the man-made lagoon.</p>
     <p>They were eventually released into the sea.</p>
     <p>Kusu Island, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/190320smkm3.jpg
   caption: |
     <p>Bones of a dead sea turtle in an abandoned net.</p>
     <p>Pulau Semakau, Mar 19</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3.jpg
   caption: |
     <p>East Coast Park, May 06Photos shared by Sivasothi on <a href="http://habitatnews.nus.edu.sg/index.php?entry=/marine/20060523-turtle_rescue.txt">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn1m3a.jpg
   caption: |
     <p>Rescued hawksbill turtle hatchlings.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/060523ecphn2m3.jpg
   caption: |
     <p>Searching for lost Hawksbill hatchlings.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/170823tsmkjt1.jpg
   caption: |
     <p>Terumbu Semakau, Aug 17Photos shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10155614375843119&set=a.10155614374353119&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/160625tkklks3.jpg
   caption: |
     <p>Dead sea turtle washed ashore.</p>
     <p>Pulau Tekukor, Jun 16 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154296607708158&set=a.10154296607228158&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/seaturtle/100710sistch1m3.jpg
 ---
 
 
@@ -111,7 +113,7 @@ turtle and the Hawksbill turtle.
 > coastal areas with seagrass meadows. Juveniles are omnivorous
 > and eat seaweeds, crabs and squid.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
  **What to do with sea turtles stranded on
 the beach?** If you spot any sea turtles on our shores,

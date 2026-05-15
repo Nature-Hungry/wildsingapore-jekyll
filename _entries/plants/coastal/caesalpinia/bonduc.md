@@ -1,9 +1,14 @@
 ---
-title: "Bonduc "
+title: 'Bonduc '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "caesalpinia, bonduc, fabacea, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: caesalpinia, bonduc, fabacea, plant, tree, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Fabacea
 genus: Caesalpinia
 species: bonduc
@@ -18,41 +23,41 @@ tribe: Caesalpinieae
 inat_id: 851888
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/120219smkd7194m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2571m6l.jpg
   caption: |
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2561m6l.jpg
   caption: |
     <p>Pulau Semakau, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2570m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2639m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2639m3a.jpg
   caption: |
     <p>Developing flowers.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2576m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2556m3.jpg
   caption: |
     <p>Pulau Semakau, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2638m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/111022smkd2553m3.jpg
   caption: |
     <p>Pulau Semakau, Nov 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/bonduc/081206smkd2637m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -109,7 +114,7 @@ stomach aches and to stimulate the appetite.
 is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

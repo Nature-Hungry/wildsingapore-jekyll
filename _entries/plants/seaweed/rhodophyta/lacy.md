@@ -1,13 +1,17 @@
 ---
-title: "Lacy red seaweed "
+title: 'Lacy red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lacy, red, seaweed, weed, algae, martensia, elegans, delesseriaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lacy, red, seaweed, weed, algae, martensia, elegans, delesseriaceae, rhodophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Delesseriaceae
 genus: Martensia
 species: elegans*
-attributes: [97, 98]
+attributes:
+- 97
+- 98
 inat_id: 704184
 stateofmatter: Life
 kingdom: Plantae
@@ -20,67 +24,67 @@ subfamily: Nitophylloideae
 tribe: Martensieae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3b.jpg
   caption: |
     <p>Little balls attached to the lacy surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3.jpg
   caption: |
     <p>Pulau Jong, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1184m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3.jpg
   caption: |
     <p>Pulau Jong, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1229m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3.jpg
   caption: |
     <p>Pulau Jong, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070704jngg1178m3a.jpg
   caption: |
     <p>Base of the blade smooth, unperforated.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/070618rlhg0734m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/091204pawd5358m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100601slud5006m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8494m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100130brkd8515m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/100530tbkd4213m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/lacy/060415hntg5636m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -122,7 +126,7 @@ lacy net-like mesh at the outer edges which are often ruffled.
 Sometimes, with little balls attached to the lacy surface. Young blades mostly solid and not lacy. Colours
 beige or bright green with tinges of lilac or blue.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

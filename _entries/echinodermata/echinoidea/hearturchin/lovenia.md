@@ -1,9 +1,18 @@
 ---
 title: Lovenia heart urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "heart, urchin, lovenia, elongata, loveniidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: heart, urchin, lovenia, elongata, loveniidae, spatangoida, echinoidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 92, 93, 94]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 92
+- 93
+- 94
 family: Loveniidae
 genus: Lovenia
 species: elongata*
@@ -21,62 +30,62 @@ suborder: Brissidina
 superfamily: Spatangoidea
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
   caption: |
     <p>Upperside Kusu Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3545m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3545m3.jpg
   caption: |
     <p>Side view</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3543m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3543m3.jpg
   caption: |
     <p>Underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110517tptd1536m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110517tptd1536m3b.jpg
   caption: |
     <p>Caught by a <a href="../../../crustacea/crab/portunidae/portunidae">swimming crab</a>!</p>
     <p>Terumbu Pempang Laut, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks2m3.jpg
   caption: |
     <p>Changi East, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3.jpg
   caption: |
     <p>Changi East, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/111028chgelks3m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coastl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/220616chgelks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/220616chgelks6.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940595503158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/2007024pcnlks25.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/2007024pcnlks25.jpg
   caption: |
     <p>East Coast PCN, Jul 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482804528158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170529srpjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170529srpjll3.jpg
   caption: |
     <p>Sentosa Serapong, May 17 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154710139516295.1073741888.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks2.JPG
   caption: |
     <p>Sentosa, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3.JPG
   caption: |
     <p>Sentosa, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120706sntlks3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/heart-urchins-at-sentosa-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks13m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks13m3.jpg
   caption: |
     <p>Cyrene Reef, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/110508cyrlks1m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170429kusmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/170429kusmn2.jpg
   caption: |
     <p>Kusu Island, May 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154598945733660&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120123hntlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/120123hntlks1m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 12 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/01/happy-cny-from-pulau-hantul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/090209smkmn01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/090209smkmn01m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 09 Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3262343788/in/set-72157613461942881/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/lovenia/040731kusd3539m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +126,7 @@ with many shorter spines covering the body. It can use these spines
 to burrow and to move around quite rapidly, as Mei
 Lin's video clip (below) shows. Overall colour dark rose pink.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

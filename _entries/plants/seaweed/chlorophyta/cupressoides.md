@@ -1,13 +1,17 @@
 ---
 title: Zipper green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: zipper, feathery, seaweed, weed, green, caulerpa, cupressoides, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: cupressoides*
-attributes: [46, 97]
+attributes:
+- 46
+- 97
 inat_id: 131266
 stateofmatter: Life
 kingdom: Plantae
@@ -16,37 +20,37 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/100519tsmc4168m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/100519tsmc4168m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3.jpg
   caption: |
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050819cjg1542m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3.jpg
   caption: |
     <p>Pulau Sekudu, Sep 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/070902skdd6623%20m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/040621sntd0896m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/210529epcnvc9.jpg
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497031912945&set=a.10158495877737945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -103,7 +107,7 @@ also makes them toxic to humans.
 Its scientific name 'cupressoides' means 'cypress-like' or 'resembling
 cypress'.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

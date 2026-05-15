@@ -1,7 +1,9 @@
 ---
-title: "Bintangor bunut "
+title: 'Bintangor bunut '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bintangor, bunut, calophyllum, soulattri, clusiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bintangor, bunut, calophyllum, soulattri, clusiaceae, plant, tree, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Clusiaceae
 genus: Calophyllum
@@ -16,17 +18,17 @@ class: Magnoliopsida
 order: Malpighiales
 updated: Nov 2010
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
   caption: |
     <p>Planted.</p>
     <p>Chek Jawa, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2190m3a.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/091005cjd2183m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/calophyllum/soulattri/090823cjd9987m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,7 +78,7 @@ medicinal uses.
 is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

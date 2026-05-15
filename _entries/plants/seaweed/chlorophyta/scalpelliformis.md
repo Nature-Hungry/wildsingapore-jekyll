@@ -1,13 +1,17 @@
 ---
 title: Scalpel  green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mexican, feathery, seaweed, weed, green, caulerpa, mexicana, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: scalpelliformis*
-attributes: [46, 97]
+attributes:
+- 46
+- 97
 inat_id: 570223
 stateofmatter: Life
 kingdom: Plantae
@@ -16,27 +20,27 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
   caption: |
     <p>Changi, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/070803cjd4992m6.jpg
   caption: |
     <p>A bloom covering a large area.</p>
     <p>Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050621skdg7873m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050621skdg7873m3a.jpg
   caption: |
     <p>Pulau Sekuidu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/251205cj1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/251205cj1.jpg
   caption: |
     <p>Chek Jawa, Dec 25 \Species are difficult to positively identify without close examination of internal parts.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/201019cnyrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/201019cnyrk4.jpg
   caption: |
     <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158588708962906&set=a.10158588678307906">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,7 +87,7 @@ Here's more on [how to tell apart different
 feathery green seaweeds](cffeathery) and how to tell apart [feathery
 green seaweeds and seagrasses](../../../glossary/seagrassweed).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

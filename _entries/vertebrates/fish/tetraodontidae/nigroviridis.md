@@ -1,9 +1,15 @@
 ---
 title: Spotted green pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spotted, green, pufferfish, puffer, fish, tetraodon, nigroviridis, tetraodontidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Tetraodontidae
 genus: Tetraodon
 species: nigroviridis
@@ -18,10 +24,10 @@ order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks2.jpg
   caption: |
     <p>East Coast-Marina Bay, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472152224/in/album-72157607745985508/">flickr</a>.</p>
     <p>What does it eat?</p>
@@ -29,13 +35,13 @@ page_images:
     <p>Human uses: These fishes are sometimes taken for the live aquarium trade, although they can be aggressive towards tankmates and are not recommended for home aquariums.</p>
     <p>It is said that they may eat the scales and fins of other fishes.</p>
     <p>They are also used as bait.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/151031ecpmblks3.jpg
   caption: |
     <p>East Coast-Marina Bay, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24017796191/in/album-72157607745985508/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/200819ecptch5.jpg
   caption: |
     <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759123338713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/nigroviridis/050218sbwrd0424m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -70,7 +76,7 @@ seen?** The tiny globular spotted juvenile is sometimes seen in our mangroves, e
 coastal areas including estuaries, alone or in small groups. **Features:**  Those seen 3-6cm, grows to
 about 14cm. Smooth, globular. Adult has a green back with black spots, tail fin with dark bars. Tiny juveniles usually
 golden yellow with black spots of various sizes and translucent fins.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

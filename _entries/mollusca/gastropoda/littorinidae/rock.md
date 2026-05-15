@@ -1,11 +1,19 @@
 ---
 title: Rock periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rock, periwinkle, littorinidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [23, 33, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 75
+- 100
+- 111
+- 123
 family: Littorinidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 48918
 stateofmatter: Life
@@ -17,25 +25,25 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
   caption: |
     <p>Sentosa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6386m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6386m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/101207ubnd3209m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9874m3.jpg
   caption: |
     <p>East Coast Park, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/120817nsrccd9858m6l.jpg
   caption: |
     <p>East Coast Park, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/160125obsmn10.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/070831sntd6384m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +88,7 @@ to positively identify without close examination. On this website,
 the various kinds of tiny periwinkle snails found on rocks are grouped
 here for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

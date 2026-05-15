@@ -1,9 +1,15 @@
 ---
 title: Spotted reef crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, crab, carpilius, maculatus, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
 family: Carpiliidae
 genus: Carpilius
 species: maculatus
@@ -24,16 +30,16 @@ zoosubsection: Heterotremata
 superfamily: Carpilioidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/100529kuslks8m3.jpg
   caption: |
     <p>Kusu Island, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/spectacular-coral-reef-of-kusul">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/carpilliidae/maculatus/040703sisd1784m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -80,7 +86,7 @@ short period after feeding on poisonous molluscs.
 **Status and threats:** Our Spotted
 reef crab is listed as 'Endangered' among the threatened animals of Singapore. Like other creatures of the intertidal zone, they are affected by
 human activities such as reclamation and pollution.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,14 @@
 ---
 title: Stubby corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: corallimorph, discosoma, nummiforme, discosomidae, ricordea, yuma, ricordeidae,
+  corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Ricordeidae
 genus: Ricordea
 species: yuma
@@ -16,40 +21,40 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
   caption: |
     <p>Kusu Island, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusg7747m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040705sisd2131m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/070506sjig9212m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/130528cyrmn.jpg
   caption: |
     <p>Cyrene Reef, May 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8865103253/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/160609thntmn3.jpg
   caption: |
     <p>Terumbu Hantu, Jun 2016Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/050611kusd3973m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +100,7 @@ seen include brown, green and blue.
 A study found that Stubby corallimorphscan also look like [Beaded corallimorphs](beaded.htm) (*Discosoma nummiforme*).  
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,8 @@
 ---
-title: "Wild boar "
+title: 'Wild boar '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "wild, boar, pig, sus, scrofa, suidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: wild, boar, pig, sus, scrofa, suidae, vertebrate, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Suidae
 genus: Sus
@@ -22,27 +23,27 @@ subfamily: Suinae
 tribe: Suini
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
   caption: |
     <p>Priscilla the Pig.</p>
     <p>Chek Jawa, Oct 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/030621cjd0058m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/030621cjd0058m3.jpg
   caption: |
     <p>Priscilla the Pig.</p>
     <p>Chek Jawa, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/040502cjd0158m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/040502cjd0158m3.jpg
   caption: |
     <p>Priscilla the Pig cooling off in a mud wallow.</p>
     <p>Chek Jawa, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/120414cjd0013m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/120414cjd0013m6l.jpg
   caption: |
     <p>Very young piglets, still with their stripes.</p>
     <p>Chek Jawa, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/111210cjnhcs00571m3.jpg
   caption: |
     <p>Safe closer encounters are possible!</p>
     <p>Chek Jawa, Dec 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/scrofa/011007cjcpd142m3.jpg
 ---
 
 
@@ -108,7 +109,7 @@ place may be unmarked, but her mark on many of our hearts remains
 till this day. [More
 about Priscilla](http://wildshores.blogspot.com/2008/09/memories-of-priscilla-pig-of-chek-jawal) on the wild shores of singapore blog.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

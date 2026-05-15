@@ -1,9 +1,15 @@
 ---
 title: Upsidedown brittle star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: upsidedown, brittle, star, brittlestar, ophiothrix, ophiuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 31, 92]
+attributes:
+- 0
+- 1
+- 31
+- 92
 family: Ophiotrichidae
 genus: Ophiothrix
 species: sp.
@@ -22,34 +28,34 @@ superfamily: Ophiactoidea
 subgenus: Ophiothrix
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3a.jpg
   caption: |
     <p>Upperside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3.jpg
   caption: |
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7883m3a.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/201118pglvc3.jpg
   caption: |
     <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086356272945&set=a.10158086509267945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/200917prplks14.jpg
   caption: |
     <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625858753158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/151127cnylks1.JPG
   caption: |
     <p>Coney Island, Nov 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23780503769/in/album-72157662420076169/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/251012chgmn7.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/250627bbal5.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161767901058693&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/upsidedown/050621skdg7887m3.jpg
 ---
 
 
@@ -77,7 +83,7 @@ blunt cylindrical spines arranged all around the arms like bristles of a bottle 
 down and if turned the right side up will turn upside down again.
 This may be an adaptation to feeding on substances on the water surface?
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

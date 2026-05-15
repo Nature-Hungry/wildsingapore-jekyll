@@ -1,9 +1,15 @@
 ---
 title: Reef box crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "box, crab, calappa, hepatica, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: box, crab, calappa, hepatica, calappidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Calappidae
 genus: Calappa
 species: hepatica
@@ -24,43 +30,43 @@ zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1247m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1240m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/120407lazlks1.JPG
   caption: |
     <p>Seringat-Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7052549847/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/170212bsismn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/170212bsismn.jpg
   caption: |
     <p>Big Sisters Island, Feb 17 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154385643943660&set=a.10154384580548660.1073741913.624178659&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/250201bsistt1.jpg
   caption: |
     <p>Big Sisters Island, Feb 25 Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10237217357711734&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/150219cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Feb 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25180800629/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/230423cyrlks1.jpg
   caption: |
     <p>Cyrene Reef, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160612793283158&set=a.10160612798858158">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks.JPG
   caption: |
     <p>Cyrene Reef, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/110508cyrlks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5701985501/in/album-72157607718672165/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -109,7 +115,7 @@ its snail meal.
 **Status and threats:** This crab
 is listed as Vulnerable in the Red Data List of threatened animals
 of Singapore.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Castle coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: castle, pachyseris, rugosa, agariciidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: Pachyseris
@@ -16,63 +18,63 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
   caption: |
     <p>Terumbu Bemban,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7311m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7311m3b.jpg
   caption: |
     <p>Fine lines perpendicular to thick ridges.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7228m3.jpg
   caption: |
     <p>Terumbu Bemban,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7227m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7227m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8814m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8816m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/080802sjid8816m3.jpg
   caption: |
     <p>Maze-like pattern.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100515sjilks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/half-snorkelling-at-new-stretch-of-st.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/20070724thntrk2a.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158359593107906&set=a.10158359570117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/220419sjijk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/220419sjijk1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5708929415787049&set=a.5708930215786969">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/240512jnglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/240512jnglks2.jpg
   caption: |
     <p>Pulau Jong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161341835998158&set=a.10161341838823158">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/180717smkefl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/180717smkefl1.jpg
   caption: |
     <p>Pulau Semakau East, Jul 18Photo shared by Frances Loke on <a href="https://www.facebook.com/pg/littlegreenmensg/photos/?tab=album&album_id=2052416561753723">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/2007025smknlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/2007025smknlks2.jpg
   caption: |
     <p>Pulau Semakau North, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485853003158&set=a.10158485859383158&type=3&theater">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120804bbblks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120804bbblks.JPG
   caption: |
     <p>Beting Bemban Besar, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8460713850/in/album-72157623141793370/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100617tblks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/100617tblks1m3.JPG
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/terumbu-bemban-reef-of-fish-trap.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120721tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/120721tptlks.JPG
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520884246/in/album-72157626616274147/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/210428slulks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/210428slulks6.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162469803158&set=a.10159162473618158">facebook</a>..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/castle/110717tbd7310m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -122,7 +124,7 @@ leafy hard corals like [Lettuce coral](pavona.htm) (*Pavona* sp.).
 is listed as globally Vulnerable [by
 the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

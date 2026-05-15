@@ -1,9 +1,16 @@
 ---
 title: Stripe-nosed   halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: stripe, striped, nose, halfbeak, half, beak, zenarchopterus, buffonis, zenarchopteridae,
+  hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Zenarchopteridae
 genus: Zenarchopterus
 species: buffonis
@@ -17,15 +24,15 @@ superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
   caption: |
     <p>Sungei Buloh, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m6l.jpg
   caption: |
     <p>Pasir Ris, Feb 12 What does it eat?</p>
     <p>It seems to feed mainly on insects that have fallen into the water.</p>
     <p>Which is probably why this fish 'hangs around' in small groups under mangrove vegetation.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,7 +72,7 @@ groups of many individuals.
 Lower jaw elongated with a narrow sharp point. The tip is bright white that seems to glow in the water. It has a prominent dark line along the
 centre of the lower jaw so it does appear to have a stripe on its
 'nose'. Upper jaw very short. Tail fin is not forked.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

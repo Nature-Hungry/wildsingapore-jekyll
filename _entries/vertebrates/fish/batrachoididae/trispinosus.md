@@ -1,12 +1,18 @@
 ---
 title: Toadfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: three, spined, toadfish, toad, fish, batrachomoeus, trispinosus, batrachoididae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Batrachoididae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 51374
 stateofmatter: Life
 kingdom: Animalia
@@ -17,71 +23,71 @@ superorder: Acanthomorpha
 order: Batrachoidiformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
   caption: |
     <p>Huge eyes often the first sign of the fish hidden under stones.</p>
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/070812sisd5439m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/070812sisd5439m6l.jpg
   caption: |
     <p>Sisters Island, Aug 07 Don't touch the Toad!</p>
     <p>Beware of the sharp spines on the sides of its head that can cause painful pricks.</p>
     <p>Some may even bite if handled.How to stay safe: Don't grope around with bare hands, don't handle fishes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks1m6l.jpg
   caption: |
     <p>Parent fish looking after its young?</p>
     <p>Beting Bronok, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/140713bblks2m3.JPG
   caption: |
     <p>Closer look at the young fishes.</p>
     <p>Beting Bronok, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
     <p>Human uses:In some places, members of this family are considered edible delicacies.</p>
     <p>It is also sold in the live aquarium trade.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201118pglvc8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201118pglvc8.jpg
   caption: |
     <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086359022945&set=a.10158086509267945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250626ubnccn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250626ubnccn4.jpg
   caption: |
     <p>Pulau Ubin, Jun 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162605453353654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250627bbdc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250627bbdc3.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Dayna Cheah on <a href="https://www.facebook.com/media/set?vanity=dayna.cheah&set=a.9995861807197172">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201117labvc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/201117labvc7.jpg
   caption: |
     <p>Labrador, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083942122945&set=a.10158084785112945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011labal3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011labal3.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162241053863693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011tgrlks27.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/251011tgrlks27.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/100103tkkjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/100103tkkjk3m3.jpg
   caption: |
     <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237878502/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250810bsisky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250810bsisky4.jpg
   caption: |
     <p>Big Sisters, Aug 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172831535100112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250726cyrlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/250726cyrlks8.jpg
   caption: |
     <p>Cyrene, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163071519108158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/180715thndc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/180715thndc1.jpg
   caption: |
     <p>Terumbu Hantu, Jul 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1659335080849928&set=a.1659334347516668&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/080210smktch05m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/080210smktch05m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2389163948/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210823smkerk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210823smkerk2.jpg
   caption: |
     <p>Pulau Semakau (East), Aug 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159292630992906&set=a.10159292625007906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210629bbbvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210629bbbvc5.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158564933907945&set=a.10158565409977945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/200624trydc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/200624trydc1.jpg
   caption: |
     <p>Terumbu Raya, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2915181828598574&set=a.2915257538591003&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/210428slulks1.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467653158&set=a.10159162473618158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/batrachoididae/trispinosus/050526cjg6754m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -149,7 +155,7 @@ fin base.*Allenbatrachus reticulatus* looks similar and lacks this pit.
 **Sometimes mistaken for** stonefish
 and scorpionfishes. Here's more on [how
 to tell apart fishes that look like stones](../cfstonefish).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **What does it eat?** A sluggish fish
 that swims poorly, the toadfish is an ambush predator. It waits motionless

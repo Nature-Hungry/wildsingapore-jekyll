@@ -1,29 +1,31 @@
 ---
-title: "Spoon seagrasses (Halophila ovalis) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "spoon, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Spoon seagrasses (Halophila ovalis) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: spoon, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 englishname: Spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: ovalis
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/091204pawd5334m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/091204pawd5334m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/091231biod6905m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/091231biod6905m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100811slud0131m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100811slud0131m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100530tbkd4249m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100530tbkd4249m3b.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100810sngd9958m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/100810sngd9958m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/091204pawd5334m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/091204pawd5334m3.jpg
 ---
 [![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
@@ -53,7 +55,7 @@ info on spoon seagrasses](ovalis)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

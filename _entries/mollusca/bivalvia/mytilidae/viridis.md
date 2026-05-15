@@ -1,9 +1,15 @@
 ---
 title: Green mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: green, mussel, clam, perna, viridis, mytilidae, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
-attributes: [2, 33, 59, 107]
+attributes:
+- 2
+- 33
+- 59
+- 107
 family: Mytilidae
 genus: Perna
 species: viridis
@@ -19,39 +25,39 @@ superfamily: Mytiloidea
 subfamily: Crenellinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
   caption: |
     <p>Growing on a large boulder.</p>
     <p>Changi, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0027m3.jpg
   caption: |
     <p>Growing on a large boulder.</p>
     <p>Changi, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3525m3.jpg
   caption: |
     <p>Growing in cracks of boulder.</p>
     <p>Punggol, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
   caption: |
     <p>Chek Jawa, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/120604pgld3696m3.jpg
   caption: |
     <p>When submerged, filter feeds.</p>
     <p>Punggol, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/lkcnhm.jpg
   caption: |
     <p>It has a large mobile foot.</p>
     <p>From the <a href="https://singapore.biodiversity.online/species/A-Moll-Bivalvia-000146">Lee Kong Chian Natural History Museum</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/201116cnyrk1.jpg
   caption: |
     <p>Coney Island, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158651295897906&set=a.10158651280122906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/090310tuslks.JPG
   caption: |
     <p>Tuas, Mar 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3558550953/in/album-72157618623639729/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/200311blylks7.jpg
   caption: |
     <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on facebook.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -97,7 +103,7 @@ shell is thin, smooth. Young clams often all bright green, older clams usually b
 attaches to hard surfaces with byssus threads, usually in clusters
 of many individuals. It has a large mobile foot and can 'climb' to another position, e.g., to avoid being buried in sediments. It grows very rapidly, compared to other encrusting animals in its preferred habitat, thus can sometimes take over a location.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

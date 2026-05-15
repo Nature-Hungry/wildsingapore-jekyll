@@ -1,9 +1,13 @@
 ---
 title: Mini carpet anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tinycarpet, anemone, stichodactyla, tapetum, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Stichodactylidae
 genus: Stichodactyla
 species: tapetum
@@ -18,16 +22,16 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
   caption: |
     <p>Chek Jawa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/110519chgd2284m3.jpg
   caption: |
     <p>Changi, May 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tapetum/080720cjd7934m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -73,7 +77,7 @@ kinds of carpet anemones](stichodactyla.htm).
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

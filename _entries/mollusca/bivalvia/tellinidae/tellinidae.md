@@ -1,11 +1,12 @@
 ---
 title: Tellin clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tellin, clam, tellinidae, bivalve, mollusc, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Tellinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 71253
 stateofmatter: Life
@@ -20,20 +21,20 @@ order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/110409smks09259m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/190520hntjc2.jpg
   caption: |
     <p>Pulau Hantu, May 19Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157171695851310&set=a.10157171667441310&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/090711sjigl3m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jul 09Photo shared by Geraldine Lee on <a href="http://starryfinds.blogspot.com/2009/07/st-johns-surprises.html">her blog</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
@@ -41,12 +42,12 @@ page_images:
     <p>- Abbott, R.</p>
     <p>Tucker, 1991.</p>
     <p>Seashells</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Graham Brash, Singapore.</p>
     <p>145 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tellinidae/tellinidae/050309smkd1477m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -97,7 +98,7 @@ often in a horizontal position.
   
 **Human
 uses:** Some are collected for food and the shell trade.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

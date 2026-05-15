@@ -1,12 +1,21 @@
 ---
 title: Thorny sea urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: thorny, pencil, urchin, prinocidaris, bispinosa, echinoid, echinoderm, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 92, 93, 94]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 92
+- 93
+- 94
 family: Cidaridae
 genus: Prionocidaris
-species: ""
+species: ''
 inat_id: 348181
 stateofmatter: Life
 kingdom: Animalia
@@ -19,40 +28,40 @@ superfamily: Cidaroidea
 subfamily: Stylocidarinae
 updated: Apr 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngechinoidea)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3.jpg
   caption: |
     <p>Pulau Sekudu, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2542m3a.jpg
   caption: |
     <p>Upperside with five short sharp spines.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/030619bbd0219m3.jpg
   caption: |
     <p>Beting Bronok, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/080507skdd2540m3b.jpg
   caption: |
     <p>Mouth surrounded by flattened spines.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/231214cjvc1.jpg
   caption: |
     <p>Chek Jawa, Dec 23 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160134683007945&set=a.10160134769417945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/090309cyrlks03m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amazel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/100809cyrjk2m3.jpg
   caption: |
     <p>Cyrene Reef, Sep 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/08/100809-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/prionocidaris/171104cyrlks5.jpg
   caption: |
     <p>Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830726948158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -63,7 +72,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

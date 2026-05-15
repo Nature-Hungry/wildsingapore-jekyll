@@ -1,12 +1,12 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,"
+keywords: blue, jorunna, sponge, porifera, neopetrosia, petrosiidae, field, guide,
 layout: entry
 shape: encrusting
 title: Blue jorunna sponge
 family: Petrosiidae
 genus: Neopetrosia
-species: ""
+species: ''
 attributes: []
 inat_id: 131793
 stateofmatter: Life
@@ -17,60 +17,60 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
   caption: |
     <p><a href="../mollusca/slugs/nudibranchia/funebris.htm">Polka-dot nudibranch</a> with white egg mass near the sponge  Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3304m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3304m3.jpg
   caption: |
     <p>A pair of the nudibranchs near the sponge.</p>
     <p>Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3b.jpg
   caption: |
     <p>Chewed up sponge Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/070602sjig9860m3a.jpg
   caption: |
     <p>The nudi was seen next to a chomped up blue sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050709skdg9248m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050709skdg9248m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050709skdg9248m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050709skdg9248m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050723labg0042m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050723labg0042m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050723labg0042m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/050723labg0042m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/20070724thntrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/20070724thntrk1.jpg
   caption: |
     <p>Terumbu Hantu, Jul 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158359592952906&set=a.10158359570117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/110322tryrl1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/110322tryrl1m3.jpg
   caption: |
     <p>Terumbu Raya, Mar 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?aid=52164&id=109257872458947&fbid=172973539420713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/100629tpdjk5m3.jpg
   caption: |
     <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100601slud4828m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100601slud4828m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100131slud8882m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100131slud8882m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/091205sudd5512m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/091205sudd5512m3b.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/091205sudlks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/091205sudlks6m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168115545/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100530pbklks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/bluejorunna/100530pbklks3m3.jpg
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655944682/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/funebris/060624skdd3301m3.jpg
 ---
 
 
@@ -98,7 +98,7 @@ blue.
 It appears to be among the favourite food of the [Polka-dot nudibranch](../mollusca/slugs/nudibranchia/funebris.htm) (*Jorunna funebris*) and this nudibranch
 is often seen laying egg masses near the sponge.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

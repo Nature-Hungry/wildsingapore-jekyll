@@ -1,15 +1,18 @@
 ---
-title: "Noodle seagrass "
+title: 'Noodle seagrass '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: noodle, grass, syringodium, isoetifolium, potamogetonaceae, cymodoceaceae,
+  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Noodle seagrass
 family: Cymodoceaceae
 genus: Syringodium
 species: isoetifolium
 summary: Leaves cylindrical (like plastic tubing). Common on on Pulau Semakau.
-coverimg: "https://live.staticflickr.com/8546/29515741994_03f992d572_n.jpg"
+coverimg: https://live.staticflickr.com/8546/29515741994_03f992d572_n.jpg
 inat_id: 50375
 stateofmatter: Life
 kingdom: Plantae
@@ -19,27 +22,27 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050309smkd1462m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050309smkd1462m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/050626smkg8824m3a.jpg
   caption: |
     <p>Pulau Semakau, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/100519tsmc4069m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/081016cyrd0933m3.jpg
   caption: |
     <p>Cyrene Reef, Oct 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/110830cyrd0547m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg"
-  caption: |
-    <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159145163277945&set=a.10159145289027945">facebook</a>.</p>
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/syringodium/220618tmftvc4.jpg
+  caption: <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Vincent Choo on <a
+    href="https://www.facebook.com/photo/?fbid=10159145163277945&set=a.10159145289027945">facebook</a>.</p>
 ---
 
 
@@ -110,7 +113,7 @@ it is also sometimes called Dugong grass.
 and threats:** It is listed as 'Endangered' on the Red List
 of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

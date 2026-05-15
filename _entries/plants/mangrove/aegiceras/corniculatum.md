@@ -1,9 +1,15 @@
 ---
-title: "Kachang-kachang "
+title: 'Kachang-kachang '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "aegiceras, corniculatum, primulaceae, myrsinaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: aegiceras, corniculatum, primulaceae, myrsinaceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Primulaceae
 genus: Aegiceras
 species: corniculatum
@@ -17,33 +23,33 @@ subfamily: Myrsinoideae
 inat_id: 183233
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110501kntd0403m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m6l.jpg
   caption: |
     <p>Alternating leaves in a spiral.</p>
     <p>Kranji Nature Trail, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9216m3.jpg
   caption: |
     <p>Kranji Nature Trail, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9172m3.jpg
   caption: |
     <p>Kranji Nature Trail, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/111121tkgd3731m3.jpg
   caption: |
     <p>Pulau Tekong, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/060905ubnkl1m3a.jpg
   caption: |
     <p>Photo shared by Kevin on <a href="http://naturespies.blogspot.com/2006/09/kacang-kacang-aegiceras-corniculatuml">his blog</a>.</p>
     <p>Pulau Ubin, Sep 06</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/aegiceras/corniculatum/110419krjd9208m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -131,7 +137,7 @@ an important source of nectar for local honey industries.
 is listed as 'Endangered' in the Red List of threatened plants of
 Singapore. It is threatened by habitat loss and oil spills.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,15 @@
 ---
-title: "Mangrove tree-dwelling crab "
+title: 'Mangrove tree-dwelling crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, tree, dwelling, crab, selatium, brocki, brockii, sesarmidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Sesarmidae
 genus: Selatium
 species: brockii
@@ -24,29 +30,29 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3.jpg
   caption: |
     <p>Pointed legs to climb and cling.</p>
     <p>Sungei Buloh Wetland Reserve, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/030830sbwrbd0046m3a.jpg
   caption: |
     <p>Eyes have a greenish tinge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251213prprqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251213prprqo2.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/200819ecptvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/200819ecptvc4.jpg
   caption: |
     <p>East Coast Park, Aug 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157884336462945&set=a.10157884335157945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/201215bsisvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/201215bsisvc1.jpg
   caption: |
     <p>Big Sisters Island, Dec 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158147073322945&set=a.10158144055007945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251011ssisyls10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/251011ssisyls10.jpg
   caption: |
     <p>Small Sisters Island, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/brockii/031128sbwrad0071m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -96,7 +102,7 @@ against the uneven face.
 algae that grows on hard surfaces, scraping this off with its flattened
 pincers. It also nibbles on young mangrove leaves and small animals
 found there, such as ants and bivalves.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

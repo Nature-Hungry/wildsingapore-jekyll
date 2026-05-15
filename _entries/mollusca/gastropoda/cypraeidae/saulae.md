@@ -1,9 +1,18 @@
 ---
-title: "Saul's cowrie "
+title: 'Saul''s cowrie '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: saulcowrie, cypraeidae, palmadusta, cypraea, saulae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 100, 111, 123, 127]
+attributes:
+- 23
+- 33
+- 71
+- 100
+- 111
+- 123
+- 127
 family: Cypraeidea
 genus: Palmadusta
 species: saulae
@@ -19,16 +28,16 @@ subfamily: Erroneinae
 tribe: Bistolidini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9948m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9776m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/saulae/130722skdd9772m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,7 +74,7 @@ Shell
 cylindrical, pale blue or greyish with 3 broad very pale brown bands and sparse tiny brown speckles all over. Sometimes, but not always, with one or a few brown blotches. Underside white with dark brown spots, without
 coloured 'teeth'. The living animal has a bright orange mantle with sparse short white translucent 'hairs'.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,15 @@
 ---
 title: Blue-lined brittle star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea, ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blue, lined, brittle, star, brittlestar, macrophiothrix, ophiothrix, lineocaerulea,
+  ophiuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 31, 92]
+attributes:
+- 0
+- 1
+- 31
+- 92
 family: Ophiotrichidae
 genus: Macrophiothrix
 species: lineocaerulea
@@ -21,40 +27,40 @@ suborder: Gnathophiurina
 superfamily: Ophiactoidea
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6084m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040828skdd5509m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/040730skdd3437m3a.jpg
   caption: |
     <p>Releasing eggs?</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks4m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/110517tptlks3m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/130526chglks1.JPG
   caption: |
     <p>Changi, May 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14036443733/in/album-72157607622389163/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/lineocaerulea/100614bbd6088m3.jpg
 ---
 
 
@@ -84,7 +90,7 @@ A pair of dark parallel lines along the upperside of the arms. This
 pair of lines continues on the central disk. The arms have diffuse
 banding of blue and yellow.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

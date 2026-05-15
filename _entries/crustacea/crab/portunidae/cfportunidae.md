@@ -1,11 +1,13 @@
 ---
-title: "Swimming       crabs "
+title: 'Swimming       crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "swimming, crab, portunidae, portunus, charybdis, thalamita, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: swimming, crab, portunidae, portunus, charybdis, thalamita, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 family: Portunidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49506
 stateofmatter: Life
@@ -24,79 +26,79 @@ zoosubsection: Heterotremata
 superfamily: Portunoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/scylla/070716chgd4233m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/spinimana/050623cjg8260m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/blue/041019labd7612m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/mottled/100613sngd5595m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/bluespined/040818sntd4739m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/annulata/041215labd8963m3.jpg
   caption: |
     <p><a href="blue">Banded-leg swimming crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/050428cftd2923m3.jpg
   caption: |
     <p><a href="tiny">Tiny swimming crabs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/powderblue/110730tmd7500m3.jpg
   caption: |
     <p><a href="powderblue">Powder blue-clawed swimming crab</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -135,7 +137,7 @@ how to tell them apart.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 **[Flower
 crab](pelagicus)**  

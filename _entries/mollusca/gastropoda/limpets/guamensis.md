@@ -1,9 +1,21 @@
 ---
 title: Guam false limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: guam, false, limpet, siphonaria, guamensis, siphonariidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
+attributes:
+- 14
+- 23
+- 33
+- 64
+- 65
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Siphonariidae
 genus: Siphonaria
 species: guamensis
@@ -20,28 +32,28 @@ order: Siphonariida
 superfamily: Siphonarioidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
   caption: |
     <p>Changi, May 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/120817nsrccd9861.jpg
   caption: |
     <p>East Coast Park, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
   caption: |
     <p>A broad foot to cling firmly to the surface.</p>
     <p>Kusu Island, Dec 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3583.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3583.jpg
   caption: |
     <p>Coiled egg mass laid on a rock.</p>
     <p>Changi, Jan 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3585.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/130113chgd3585.jpg
   caption: |
     <p>Tiny eggs embedded in the coiled egg mass.</p>
     <p>Changi, Jan 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/170626skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/170626skdmn1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49193185806/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/020527chgcpd9714m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +93,7 @@ Shell thin conical with a pointed tip and many fine white ribs. There
 is no hole at the top of the shell. Body plain white. It
 is a false limpet and breathes through lungs instead of gills.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

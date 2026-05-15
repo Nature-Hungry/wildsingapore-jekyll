@@ -1,9 +1,16 @@
 ---
 title: Black prickly nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, spiny, nudibranchia, trippa, atagema, intecta, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, spiny, nudibranchia, trippa, atagema, intecta, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 63, 90]
+attributes:
+- 14
+- 22
+- 33
+- 63
+- 90
 family: Discodorididae
 genus: Atagema
 species: intecta
@@ -22,67 +29,67 @@ infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9799m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9799m3.jpg
   caption: |
     <p>Smooth foot on the underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/041018sntd7546m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/041018sntd7546m3.jpg
   caption: |
     <p>Tiny one about 1cm long.</p>
     <p>Sentosa, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210528lygjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210528lygjll3.jpg
   caption: |
     <p>Changi Loyang, May 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158300370906295&set=a.10158300364091295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/181226chgay3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/181226chgay3.jpg
   caption: |
     <p>Changi, Dec 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10214909140014262&set=a.10211958779177085&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/101009cjnml2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/101009cjnml2m3a.jpg
   caption: |
     <p>Chek Jawa, Oct 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/10/im-seagrasser-chek-jawa.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090720skdmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090720skdmn1m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3741184091/in/set-72157621755591436/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3.jpg
   caption: |
     <p>Tanah Merah, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/090806tmjk6m3a.jpg
   caption: |
     <p>Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/180106sntay2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/180106sntay2.jpg
   caption: |
     <p>Sentosa Tg.</p>
     <p>Rimau, Jan 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212402738515791&set=a.10212400854868701&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210530epcnvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/210530epcnvc3.jpg
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158495740937945&set=a.10158495877737945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/211106sntjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/211106sntjll1.jpg
   caption: |
     <p>Sentosa Tg Rimau, Nov 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158610366421295&set=a.10158610308121295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/220419sjijll5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/220419sjijll5.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158871215151295&set=a.10158871195486295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/100725hnttch3m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/100725hnttch3m6l.jpg
   caption: |
     <p>Pulau Hantu, Sep 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/07/careful-where-you-put-your-next-step.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/240410cyrtl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/240410cyrtl1.jpg
   caption: |
     <p>Cyrene, Apr 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10161174129824264&set=a.10161174010189264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2389176008/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/080210smktch01m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/250515tpttl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/250515tpttl3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/intecta/050721cjg9778m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -126,7 +133,7 @@ pale or beige bumps along the upper body length, but few of those
 seen had this. The foot has small white spots on the upperside and
 is smooth and lighter on the underside.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,12 @@
 ---
 title: Halfbeaks
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Hemiramphidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 57298
 stateofmatter: Life
@@ -17,11 +18,11 @@ superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
   caption: |
     <p>The lower jaw is many times longer than the upper jaw.</p>
     <p>Sungei Buloh, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/060130hntg4333m3.jpg
   caption: |
     <p>A young halfbeak?</p>
     <p>Pulau Hantu, Jan 06 Surface dwellers: It is well adapted to living at the water surface.</p>
@@ -33,41 +34,41 @@ page_images:
     <p>What do they eat?</p>
     <p>Halfbeaks eat things that float on the surface such as algae, tiny animals like zooplankton and other fishes.</p>
     <p>Some halfbeak species eat land insects that might fall into the water, while others eat seagrasses and algae.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/110205krjd5876m6l.jpg
   caption: |
     <p>At high tide, often seen under mangrove vegetation.</p>
     <p>Sungei Buloh, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/100429prpd1877.jpg
   caption: |
     <p>Shadow cast resembles a twig.</p>
     <p>Pasir Ris, Apr 10 Halfbeak babies: Most halfbeak lay eggs attached to seaweed in shallow waters.</p>
     <p>Some, however, may give birth to live young.</p>
     <p>In some, fertilisation takes place internally and the males have modified fins to fertilise the females with.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/twig/110630tmftd4796m3.jpg
   caption: |
     <p><a href="twig.htm">Twig-like halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/070812sisg1982m3.jpg
   caption: |
     <p><a href="broadnose.htm">Broad-nosed halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/broadnose/090606tmftd3297m3.jpg
   caption: |
     <p><a href="broadnose.htm">Broad-nosed halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/120215prpd6977m3.jpg
   caption: |
     <p><a href="buffonis.htm">Striped-nosed halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m3.jpg
   caption: |
     <p><a href="plain.htm">Plain halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m3.jpg
   caption: |
     <p><a href="plain.htm">Plain halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/shortnose/110602tmftd3544m3a.jpg
   caption: |
     <p><a href="shortnose.htm">Quoy's halfbeak</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/far/091206tmd5674m3d.jpg
   caption: |
     <p><a href="far.htm">Black-barred halfbeak</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/buffonis/031212sbwrd0069m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -125,7 +126,7 @@ are of equal length and usually filled with sharp teeth. [Young
 barracuda](../sphyraenidae/sphyraenidae.htm) (Family Sphyraenidae) also appear similar at first glance.
 Here's more on [how to tell apart stick-like
 fishes](../cfstick.htm) commonly seen on our shores.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
  **Human uses:** Halfbeaks apparently
 taste good and large species (like the [Black-barred halfbeak](far.htm)) are

@@ -1,7 +1,9 @@
 ---
-title: "Onyx cowrie "
+title: 'Onyx cowrie '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cowrie, erronea, cypraea, onyx, cypraeidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Erronea
@@ -19,37 +21,37 @@ subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
   caption: |
     <p>Beting Bronok, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1821m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1822m3.jpg
   caption: |
     <p>'Teeth' tinged orange.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnd2637.jpg
   caption: |
     <p>Mama cowrie protecting her egg mass with her foot.</p>
     <p>Pulau Ubin, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/121216ubnlks.JPG
   caption: |
     <p>Mama cowrie protecting her egg mass with her foot.</p>
     <p>Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8523083907/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170626skdjl3.jpg
   caption: |
     <p>Mama cowrie with her egg mass.</p>
     <p>Pulau Sekudu, Jun 17 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154793106831295&set=a.10154793094221295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/170430lyglks8.jpg
   caption: |
     <p>Changi Loyang, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155260871073158.1073741942.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/220616chgelks11.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940593753158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/150617ecpbslks8m3.jpg
   caption: |
     <p>East Coast Park Big Splash, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/onyx/110518bbd1820m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -98,7 +100,7 @@ to tell apart slugs and animals that look like slugs](../../../glossary/flatworm
 **Human uses:** It is collected for subsistence food by coastal dwellers
 and the shell for the shell trade.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

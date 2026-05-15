@@ -1,7 +1,9 @@
 ---
 title: Atlas moth
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: atlas, moth, atlas attacus, saturniidae, lepidoptera, insect, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 family: Saturniidae
 genus: Attacus
@@ -20,26 +22,26 @@ subfamily: Saturniinae
 tribe: Attacini
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
   caption: |
     <p>Probably just emerged from the cocoon or awaiting for a female to emerge from hers.</p>
     <p>Pulau Ubin, Feb 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/atlas/050422adamg4716m3.jpg
   caption: |
     <p>The caterpillar is large and whitish.</p>
     <p>Adam Road, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/atlas/020116cjcpd4973m3.jpg
   caption: |
     <p>The caterpillar creating its cocoon.</p>
     <p>Pulau Ubin, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/atlas/091230prpd6472m3.jpg
   caption: |
     <p>Cocoons in a <a href="../plants/mangrove/sonneratia/caseolaris.htm">Berembang tree</a>.</p>
     <p>Pasir Ris Park, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/atlas/080601cjwlk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/atlas/080601cjwlk.jpg
   caption: |
     <p>Chek Jawa, Jun 08Photo shared by Wong Ley Kun on <a href="http://nakedhermitcrabs.blogspot.sg/2008/06/1-june-08-what-our-bukit-batok-guests.html">her blog.</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/atlas/040207ubnd0003m6l.jpg
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
@@ -70,7 +72,7 @@ a gland at the end of the abdomen. The male Atlas Moths has huge long
 feathery antennae to track down the female by her pheromones. The
 females are much larger than the males and don't have feathery antennae.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 Atlas moth eggs are laid on the underside of a leaf. They hatch in

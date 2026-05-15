@@ -1,13 +1,18 @@
 ---
 title: Bumpy finger seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bumpy, finger, seaweed, weed, algae, eucheuma, kappaphycus, solieriaceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Solieriaceae
 genus: Eucheuma
 species: sp.
-attributes: [50, 97, 98]
+attributes:
+- 50
+- 97
+- 98
 inat_id: 471901
 stateofmatter: Life
 kingdom: Plantae
@@ -18,67 +23,67 @@ subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3.jpg
   caption: |
     <p>Sisters Island, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/060212sisd6806m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/050309smkg3103m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3.jpg
   caption: |
     <p>Pulau Semakau, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080510smkd3062m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/080220smkd9752m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4179m3.jpg
   caption: |
     <p>Terumbu Semakau, May10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4180m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100519tsmc4180m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/200626tptvc6.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157750327647945&set=a.10157750324127945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/250712tplrk4.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100601slud4971m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100130brkd8574m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100530tbkd4374m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bumpy/100531biod4608m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -125,7 +130,7 @@ fresh or blanched in boiling water or made into a candy by boiling
 with sugar to form a gel. It is also used as livestock feed, an insect
 repellent and is believed to have medicinal properties
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,26 @@
 ---
 title: Singapore bivalve slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bivalve, slug, berthelinia, singaporensis, juliidae, sacoglossa, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
+attributes:
+- 14
+- 22
+- 23
+- 30
+- 33
+- 64
+- 65
+- 71
+- 90
+- 100
+- 105
+- 111
+- 123
+- 125
+- 126
 family: Juliidae
 genus: Berthelinia
 species: singaporensis
@@ -20,51 +37,51 @@ superfamily: Oxynooidea
 subfamily: Bertheliniinae
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
   caption: |
     <p>From the side.</p>
     <p>Pulau Hantu, May 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6673m6.jpg
   caption: |
     <p>From above.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6691m3.jpg
   caption: |
     <p>Several of various sizes often seen close to one another.</p>
     <p>Pulau Hantu, May 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210527chgsaftch3.jpg
   caption: |
     <p>Changi Creek, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159478840983713&set=a.10159478904418713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/210613ubntch3.jpg
   caption: |
     <p>Pulau Ubin, Jun 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159524125973713&set=a.10159524128878713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170624cjtch4.jpg
   caption: |
     <p>Chek Jawa, Jun 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155508836018713.1073742094.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160705cjlks2.jpg
   caption: |
     <p>Chek Jawa, Jul 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154323415858158&set=a.10154323412343158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/240821skdch7.jpg
   caption: |
     <p>Pulau Sekudu, Aug 24Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161804173833713&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/160706skdtch2.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10154334722473713.1073742021.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdlks1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155493333003158&set=a.10155493331973158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/150802bbtch1m3.jpg
   caption: |
     <p>Beting Bronok, Aug 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153528143493713.1073741971.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170812cyrtch1.jpg
   caption: |
     <p>Cyrene, Aug 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155683832248713.1073742107.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1a.jpg
   caption: |
     <p>Chek Jawa, Jun 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154796495313660&set=a.10154759351698660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/170626skdmn1.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/berthelinia/130511hntd6666m6.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -103,7 +120,7 @@ well camouflaged slug (0.5-1cm long). A pair of oval transparent 'shells'
 with the slender slug in between. The slug is exactly the same colour
 as the seaweed that it is found on. It has a pair of slender tentacles (rhinophores) with a sprinkling of white spots.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

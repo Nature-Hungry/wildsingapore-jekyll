@@ -1,11 +1,12 @@
 ---
 title: Rabbitfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rabbitfish, rabbit, fish, siganidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Siganidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 84096
 stateofmatter: Life
@@ -17,29 +18,29 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
   caption: |
     <p>Juveniles often seen among Sargassum.</p>
     <p>There are two here, can you spot them?</p>
     <p>Changi, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
   caption: |
     <p>Spines on the dorsal fin raised: these can inject a painful venom.</p>
     <p>Chek Jawa, Aug 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/110605tsmkd3949m6l.jpg
   caption: |
     <p>Rabbitfishes are often seen trapped in fishing nets.</p>
     <p>Terumbu Semakau, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusd4023m3.jpg
   caption: |
     <p><a href="canaliculatus">White-spotted rabbitfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/guttatus/020811cjd492m3.jpg
   caption: |
     <p><a href="guttatus">Orange-spotted rabbitfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m3.jpg
   caption: |
     <p><a href="javus">Streaked rabbitfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +91,7 @@ for its rabbit-like snout ('siganus' means 'has a nose like a rabbit')
 or possibly for its habit of grazing on seaweeds. It is also called
 Spinefoot after the spines on its pelvic fins, a unique feature of
 this family. It has tiny scales.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

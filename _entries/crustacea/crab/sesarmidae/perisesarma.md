@@ -1,12 +1,18 @@
 ---
 title: Face-banded sesarmine crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: face, banded, perisesarma, chiromantes, indiarum, eumolpe, crab, sesarmidae,
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Sesarmidae
 genus: Perisesarma
-species: ""
+species: ''
 inat_id: 133703
 stateofmatter: Life
 kingdom: Animalia
@@ -24,29 +30,29 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
   caption: |
     <p>Kranji Nature Trail, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3.jpg
   caption: |
     <p>Perisesarma indiarum Pulau Semakau, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/090228smkd7247m3c.jpg
   caption: |
     <p>Bright upside-down V-shape under the face-band.</p>
     <p>A study of these two species found that males of both species had more intense blue facial bands, whereas green was more pronounced in female facial bands.</p>
     <p>These colour differences may play a role in sexual recognition within the species.</p>
     <p>Bigger females had more intense blue in their facial bands, suggesting that s indicates of their maturity (and possibly body condition).</p>
     <p>In large males, facial band colours contrast strongly against the surrounding mudflat and may play an important role in signalling to other males during territorial disputes or competition for females.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100606prpd5221m3.jpg
   caption: |
     <p>Pasir Ris, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/101226krjd4197m3.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/091226cjd6255m3.jpg
   caption: |
     <p>Chek Jawa, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/perisesarma/100425kntd1687m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +96,7 @@ A study found that the band's concave shape focuses reflected light to enhance b
   
 Two species commonly seen in our mangroves are *Perisesarma eumolpe* with a dark upside down V-shape under the face-band and *Perisesarma
 indiarum* with a bright upside-down V-shape under the face-band.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

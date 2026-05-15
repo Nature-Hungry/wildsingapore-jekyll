@@ -1,49 +1,49 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: bumpy, yellow, sponge, porifera, field, guide, seashore, sea, shore, marine,
 layout: entry
 shape: encrusting
 title: Yellow bumpy sponges
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
   caption: |
     <p>Tuas, Apr</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3.jpg
   caption: |
     <p>Beting Bronok,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/030618bbd0138m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3.jpg
   caption: |
     <p>Chek Jawa, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/020101cjcpd3824m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/100614bbd5912m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/060429skdd1436m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/yellowbumps/050411tusd2292m3.jpg
 ---
 
 
@@ -64,7 +64,7 @@ seen?** There are various yellow or orange sponges which look like cones,
 lumpy fingers or bumps. They have yet to be identified. They are grouped
 together here for ease of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,15 @@
 ---
 title: Senduduk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "Senduduk, melastoma, malabathricum, melastomaceae, plant, shrub, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: Senduduk, melastoma, malabathricum, melastomaceae, plant, shrub, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Melastomaceae
 genus: Melastoma
 species: malabathricum
@@ -18,43 +24,43 @@ subfamily: Melastomatoideae
 tribe: Melastomeae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
   caption: |
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3.jpg
   caption: |
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9352m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9354m3.jpg
   caption: |
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9358m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9358m3.jpg
   caption: |
     <p>Some have white flowers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3.jpg
   caption: |
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9361m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0481m6l.jpg
   caption: |
     <p>Pasir Ris, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0482m3.jpg
   caption: |
     <p>Pasir Ris, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090906prpd0484m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/091005cjd2174m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -63,7 +69,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -71,13 +77,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/melastoma/malabathricum/090410ubnd9359m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -131,7 +137,7 @@ used for a mouthwash for toothache. It is even used to treat elephants!
 The fruits may also be used to obtain a black dye, while the ashes
 of the plant is used to fix dyes.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

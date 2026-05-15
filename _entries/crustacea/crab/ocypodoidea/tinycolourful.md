@@ -1,11 +1,15 @@
 ---
 title: Tiny colourful fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Ocypodidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 51932
 stateofmatter: Life
@@ -24,28 +28,28 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngfiddlers)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8662m3a.jpg
   caption: |
     <p>Chek Jawa, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
   caption: |
     <p>Chek Jawa, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8659m3.jpg
   caption: |
     <p>Chek Jawa, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/090329cjd8668m3.jpg
   caption: |
     <p>Chek Jawa, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks1.jpg
   caption: |
     <p>Chek Jawa, Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158833147053158&set=a.10158833162093158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/201216cjlks2.jpg
   caption: |
     <p>Chek Jawa, Dec 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158833147063158&set=a.10158833162093158">facebook</a>.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,7 +60,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

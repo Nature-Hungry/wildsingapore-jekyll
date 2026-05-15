@@ -1,12 +1,20 @@
 ---
 title: Bumpy-faced armina nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bumpy, face, armina, japonica, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bumpy, face, armina, japonica, arminidae, arminacea nudibranchia, slug,
+  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 29, 30, 33, 90]
+attributes:
+- 14
+- 22
+- 29
+- 30
+- 33
+- 90
 family: Arminidae
 genus: Armina
-species: ""
+species: ''
 inat_id: 47500
 stateofmatter: Life
 kingdom: Animalia
@@ -21,29 +29,29 @@ suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
   caption: |
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3a.jpg
   caption: |
     <p>'Bumps' on its 'face'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707cftg9069m3.jpg
   caption: |
     <p>Wiggly lines under the mantle.</p>
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050818chgg1380m3.jpg
   caption: |
     <p>Jelly-like egg mass next to it?</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
   caption: |
     <p>Next to a sea pencil.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/190221nsrctsc1.jpg
   caption: |
     <p>On a spiky sea pen.</p>
     <p>East Coast Park, Feb 19Photo shared by Teo Say Chong on <a href="https://www.facebook.com/photo.php?fbid=10218783796608300&set=a.10218783795648276&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050707chgg9063m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -90,7 +98,7 @@ body are not gills although gas exchange may take place. These act
 like the cerata of aeolids, a place where the digestive gland can
 expand. These lines often are the same colour of their sea pen food.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

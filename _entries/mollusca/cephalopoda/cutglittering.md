@@ -1,7 +1,9 @@
 ---
 title: Glittering cuttlefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "glittering, cuttlefish, sepiella, inermis, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: glittering, cuttlefish, sepiella, inermis, sepiidae, cephalopod, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Sepiidae
 genus: Sepiella
@@ -19,25 +21,25 @@ suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
   caption: |
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1815m3.jpg
   caption: |
     <p>The same cuttlefish rapidly changing ...</p>
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/060502cftd1810m3.jpg
   caption: |
     <p>...</p>
     <p>colours and patterns.</p>
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/180910chg4dc1.jpg
   caption: |
     <p>Changi, Sep 18 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744989162284519&set=a.1744988158951286&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/210113smkwjt1.jpg
   caption: |
     <p>Pulau Semakau (West), Jan 21 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10159136902943119&set=pcb.10159136917293119">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -86,7 +88,7 @@ hunts fishes, crustaceans and other cephalopods.
 **Human uses:** The cuttlefish is
 an important commercial seafood harvested by trawls, nets with lights
 at night. There has been efforts to aquaculture this cuttlefish.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

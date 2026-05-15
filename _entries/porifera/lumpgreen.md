@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
+keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
 title: Lumpy green sponge
@@ -17,31 +17,31 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060429skdd1401m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060723skdg6764m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060712tusd4053m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060712tusd4053m3.jpg
   caption: |
     <p>Tuas, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/031124tuscd0048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/031124tuscd0048m3.jpg
   caption: |
     <p>Tuas, Nov 03</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpygreen/060611cjd2766m3.jpg
 ---
 
 
@@ -71,7 +71,7 @@ is light green, almost flourescent forming cushions with slightly
 raised large holes. It is sometimes seen on reefs on our Southern
 shores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

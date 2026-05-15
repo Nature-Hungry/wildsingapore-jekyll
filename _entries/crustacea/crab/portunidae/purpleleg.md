@@ -1,9 +1,17 @@
 ---
 title: Purple-legged swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "purple, leg, swimming, crab, charybdis, hellerii, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: purple, leg, swimming, crab, charybdis, hellerii, portunidae, decapod, crustrace,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112, 119]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
+- 119
 family: Portunidae
 genus: Charybdis
 species: hellerii*
@@ -26,53 +34,53 @@ subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
   caption: |
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3b.jpg
   caption: |
     <p>6 spines on the side of the body.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050818cftg1346m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050818cftg1346m3a.jpg
   caption: |
     <p>Changi, Aug 05 What does it eat?</p>
     <p>The crab has been seen eating other crabs and clams.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/090511chgd1344m3.jpg
   caption: |
     <p>Eating another swimming crab.</p>
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050411tusd2266m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050411tusd2266m3.jpg
   caption: |
     <p>Ate a clam?</p>
     <p>Tuas, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/040508skdad0127m3.jpg
   caption: |
     <p>Mating crabs.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/091203ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/091203ubnlks.JPG
   caption: |
     <p>Pulau Ubin, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4168044235/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/220616chgelks16.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/220616chgelks16.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940594533158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/160605tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/160605tmlks.JPG
   caption: |
     <p>Tanah Merah, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27198634160/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/241022ecpgio1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/241022ecpgio1.jpg
   caption: |
     <p>East Coast (G), Oct 24Photo shared by Isaac Ong on <a href="https://www.facebook.com/media/set?vanity=61567026176318&set=a.122112498608567539">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/251108ecpblks14.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/251108ecpblks14.jpg
   caption: |
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/250714srpal5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/250714srpal5.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172594516380112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/251009sjial1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/251009sjial1.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162233208303693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/241117cyrccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/241117cyrccn1.jpg
   caption: |
     <p>Cyrene, Nov 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10161636414613654&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/purpleleg/050621skdg7959m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +124,7 @@ is a fully marine crab and cannot live long out of water. Body smooth,
 colours various: yellowish, orange, olive with brownish patch near
 the eyes, often with a pair of white spots near the base. Walking
 legs purple. Pincers long orange with black pointed tips.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

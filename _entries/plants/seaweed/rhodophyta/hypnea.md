@@ -1,13 +1,18 @@
 ---
-title: "Prickly red seaweed "
+title: 'Prickly red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "prickly, red, seaweed, weed, algae, hypnea, cystocloniaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: prickly, red, seaweed, weed, algae, hypnea, cystocloniaceae, rhodophyceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Cystocloniaceae
 genus: Hypnea
 species: sp.
-attributes: [50, 97, 98]
+attributes:
+- 50
+- 97
+- 98
 inat_id: 700626
 stateofmatter: Life
 kingdom: Plantae
@@ -18,55 +23,55 @@ subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3.jpg
   caption: |
     <p>Pulau Hantu, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060312hntd0256m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3.jpg
   caption: |
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/050917smkg2493m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060227labg5054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060227labg5054m3.jpg
   caption: |
     <p>Labrador, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060227labg5054m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060227labg5054m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3.jpg
   caption: |
     <p><a href="pannosa">Bushy ball red seaweed</a>  Terumbu Raya, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100502tryd2341m3a.jpg
   caption: |
     <p>Terumbu Raya, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3.jpg
   caption: |
     <p><a href="pannosa">Bushy ball red seaweed</a> Pulau Hantu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pannosa/040801hntd3702m3a.jpg
   caption: |
     <p>Pulau Hantu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100811slud0071m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100811slud0071m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100811slud0071m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100811slud0071m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/201215bsrpvc11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/201215bsrpvc11.jpg
   caption: |
     <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140897862945&set=a.10158140917142945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100403tbbd0676m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/100403tbbd0676m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/hypnea/060402ulrd1051m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +121,7 @@ there are more than 50 current *Hypnea* species.
 **Human uses:** In some places, Hypnea
 seaweeds are fed to livestock and eaten by people.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

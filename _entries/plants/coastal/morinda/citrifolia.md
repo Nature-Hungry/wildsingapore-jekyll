@@ -1,9 +1,14 @@
 ---
-title: "Noni "
+title: 'Noni '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mengkudu, morinda, citrifolia, rubiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mengkudu, morinda, citrifolia, rubiaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Rubiaceae
 genus: Morinda
 species: citrifolia
@@ -18,21 +23,21 @@ subfamily: Rubioideae
 tribe: Morindeae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
   caption: |
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3.jpg
   caption: |
     <p>Sungei</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090328sbwrd8470m3a.jpg
   caption: |
     <p>fruit.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5994m3.jpg
   caption: |
     <p>Ripening fruit.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -45,7 +50,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -53,7 +58,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -64,7 +69,7 @@ page_images:
     <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/citrifolia/090124ubnd5992m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -142,7 +147,7 @@ Islands where they are eaten raw or cooked. The fruits may also be
 fed to pigs. Young leaves may be eaten as a vegetable and contain
 high levels of protein. Seeds may also be roasted and eaten.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 ---

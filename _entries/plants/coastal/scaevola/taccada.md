@@ -1,9 +1,14 @@
 ---
-title: "Merambong "
+title: 'Merambong '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "merambong, scaevola, taccada, goodeniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: merambong, scaevola, taccada, goodeniaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Goodeniaceae
 genus: Scaevola
 species: taccada
@@ -16,34 +21,34 @@ order: Asterales
 inat_id: 363481
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9069m3a.jpg
   caption: |
     <p>Flower is 'split'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5713m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5713m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5714m3c.jpg
   caption: |
     <p>Fruit ripens to white.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3c.jpg
   caption: |
     <p>Sentosa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090405smkd9031m3.jpg
   caption: |
     <p>Sometimes with violet markings.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/110719sntd7397m3b.jpg
   caption: |
     <p>Sentosa, Jul 11</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -52,7 +57,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -60,7 +65,7 @@ page_images:
     <p>- Tomlinson, P.</p>
     <p>B., 1986.</p>
     <p>[The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Cambridge University Press.</p>
     <p>USA.</p>
@@ -68,7 +73,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -79,7 +84,7 @@ page_images:
     <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/scaevola/taccada/090118smkd5793m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -145,7 +150,7 @@ fish and crabs. According to Giersen, the wood is resistant to sea
 water but found in small quantities so it is used for making nails
 for canoes.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

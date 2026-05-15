@@ -1,9 +1,15 @@
 ---
-title: "Gambir laut "
+title: 'Gambir laut '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "clerodendrum, inerme, lamiaceae, verbenacae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: clerodendrum, inerme, lamiaceae, verbenacae, creeper, plant, bush, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Verbenaceae
 genus: Clerodendrum
 species: inerme
@@ -17,24 +23,24 @@ order: Lamiales
 subfamily: Ajugoideae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
   caption: |
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090517ubnd1946m3.jpg
   caption: |
     <p>Pulau Ubin, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/110317mndd7324m3a.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9574m3.jpg
   caption: |
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
     <p>222 pp..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/clerodendrum/inerme/090411lckd9586m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +96,7 @@ used to treat poisoning from fish and other marine animals. The leaves
 are used to treat wounds, and fruits to dysentery. The leaves are
 used in an appetizer dish in Indonesia.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,12 @@
 ---
 title: Orange-mouth olive snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "olive, snail, shell, oliva, miniacea, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: olive, snail, shell, oliva, miniacea, olividae, gastropod, mollusc, sand,
+  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Olividae
-genus: ""
+genus: ''
 species: Oliva
 attributes: []
 inat_id: 61805
@@ -17,46 +19,46 @@ order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3b.jpg
   caption: |
     <p>Spire flattened with short pointed tip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5434m3.jpg
   caption: |
     <p>Shell opening often orange or orangey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0488m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/110830cyrd0490m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11</p>
-- url: "https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg"
+- url: https://live.staticflickr.com/4583/38793224572_99b6c0b452_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/38793224572/ "Orange-mouth olive snail (Oliva miniacea)") Status and threats: This olive snail is listed as 'Vulnerable' in the Red List of threatened animals of Singapore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/220616chgeccn1.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10159774555278654/448417193783623">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/2007024pcnlks1.jpg
   caption: |
     <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482798258158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/081017cyrtch02m3.jpg
   caption: |
     <p>Cyrene Reef, Oct 08 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2947534620/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12a.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/251011tgrlks12.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls3a.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls33.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/260104trmyls33.jpg
   caption: |
     <p>Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118137331062825">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/miniacea/090625cyrd5437m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -100,7 +102,7 @@ on the inner portion. Body large, beige with brown
 spots all over. A long siphon sticks out of the notch in the shell.
 It does not have an operculum.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

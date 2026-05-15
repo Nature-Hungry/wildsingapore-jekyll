@@ -1,12 +1,15 @@
 ---
 title: Upsidedown jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "jellyfish, jelly, fish, jellies, cassiopea, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: jellyfish, jelly, fish, jellies, cassiopea, scyphozoa, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [56]
+attributes:
+- 56
 family: Cassiopeidae
 genus: Cassiopea
-species: ""
+species: ''
 inat_id: 128144
 stateofmatter: Life
 kingdom: Animalia
@@ -18,64 +21,64 @@ suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
   caption: |
     <p>Upper side.</p>
     <p>Pulau Semakau, Mar 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0423m3.jpg
   caption: |
     <p>Turning around.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0424m3.jpg
   caption: |
     <p>Upside down.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3.jpg
   caption: |
     <p>Pulau Semakau, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3a.jpg
   caption: |
     <p>Closer look at the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7488m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220616chgerk2.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159804112767906&set=a.10159804107292906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/211106sntlks2.jpg
   caption: |
     <p>Sentosa Tg Rimau, Nov 21Shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=10159544063688158&set=a.10159544071408158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/220103sntlks2.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 22Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159652571753158&set=a.10159652575878158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240527srplks12.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/240309tkrrk4.jpg
   caption: |
     <p>Pulau Tekukor, Mar 24Shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10161031538947906&set=a.10161031532427906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/170429kusmn1.jpg
   caption: |
     <p>Kusu Island, Apr 17Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154598945733660&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090921kusjk2m3.jpg
   caption: |
     <p>Kusu Island, Sep 09Shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolatel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/071124smkd7485m3.jpg
   caption: |
     <p>Upside down.</p>
     <p>Pulau Semakau, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/121115tsmkd1178m3.jpg
   caption: |
     <p>Upside down.</p>
     <p>Terumbu Semakau, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/090723tmrjk4m3.jpg
   caption: |
     <p>Terumbu Raya, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywherel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/160124smkemn4.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/100403tbblks7m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4540476794/in/datetaken/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -120,7 +123,7 @@ the 'right' way up, it will slowly turn itself upside down again.
 **Sometimes mistaken for** a sea anemone, in its preferred position, with only its oral arms visible and bell
 hidden beneath.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

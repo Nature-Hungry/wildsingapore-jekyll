@@ -1,13 +1,18 @@
 ---
-title: "Spiny red seaweed "
+title: 'Spiny red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spiny, red, seaweed, weed, algae, acanthophora, rhodomelaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spiny, red, seaweed, weed, algae, acanthophora, rhodomelaceae, rhodophyceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
 genus: Acanthophora
 species: sp.*
-attributes: [50, 97, 98]
+attributes:
+- 50
+- 97
+- 98
 inat_id: 199320
 stateofmatter: Life
 kingdom: Plantae
@@ -19,61 +24,61 @@ order: Ceramiales
 tribe: Chondrieae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg
   caption: |
     <p>Pulau Jong, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3a.jpg
   caption: |
     <p>Overgrown with coat of fine fluffy organisms.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050427tmg5201m3.jpg
   caption: |
     <p>Tanah Merah, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050610sntg7590m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/050610sntg7590m3.jpg
   caption: |
     <p>Sentosa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6212m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6212m3.jpg
   caption: |
     <p>Chek Jawa, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6213m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6213m3b.jpg
   caption: |
     <p>Chek Jawa, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6215m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/120208cjd6215m3b.jpg
   caption: |
     <p>Chek Jawa, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100130brkd8458m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100130brkd8458m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/091204pawd5303m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/091204pawd5303m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100601slud4977m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100601slud4977m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100613sngd5436m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100530tbkd4313m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3a.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100528tkkd3689m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100519tsmc4125m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/100519tsmc4125m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acanthophora/060727jngd5168m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -129,7 +134,7 @@ It is reported to have antibacterial, antibiotic properties.
 In Hawaii, it is considered an introduced and thus alien, invasive
 weed that affects the native marine life there.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

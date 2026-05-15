@@ -1,12 +1,14 @@
 ---
 title: Synaptid sea cucumbers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: synaptid, seacucumber, cucumber, synaptidae, apodida, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 attributes: []
 family: Synaptidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 48044
 stateofmatter: Life
 kingdom: Animalia
@@ -17,54 +19,54 @@ subclass: Paractinopoda
 order: Apodida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
   caption: |
     <p>Synaptids <a href="synsponge">on a sponge</a> usual many seen together.</p>
     <p>Pulau Sekudu, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/080422smkd1534m3.jpg
   caption: |
     <p><a href="synbig">Big synaptid</a> is usually seen alone.</p>
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/130331tbd5041m3.jpg
   caption: |
     <p><a href="synbig">Big synaptid</a> when 'bobbles' are not expanded.</p>
     <p>Terumbu Bemban, Mar 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3.jpg
   caption: |
     <p>Feeding tentacles.</p>
     <p>Cyrene Reef, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0606m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/120819cyrd0607m3.jpg
   caption: |
     <p>Body covered with tiny hooked sclerites.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3.jpg
   caption: |
     <p><a href="synsponge">Sponge synaptid sea cucumber</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050822cjg2143m3.jpg
   caption: |
     <p>Usually many seen on a sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050722cjg9849m3b.jpg
   caption: |
     <p>Feeding tentacles</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7139m3.jpg
   caption: |
     <p><a href="synbig">Big synaptid sea cucumber</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3b.jpg
   caption: |
     <p>Usually seen alone.</p>
     <p>With distinct stripes between 'bobbles'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synbig/071026cyrd7141m3a.jpg
   caption: |
     <p>Feeding tentacles</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synmangrove/200125prpAm3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/030717skdd0090m3.jpg
 ---
 
 
@@ -88,7 +90,7 @@ and other encrusting animals. In the seagrass meadows, thicker very
 long ones (10-12cm, to 30cm long) are entwined among the seagrasses.
 They might even be seen crawling (slowly) on the sand.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

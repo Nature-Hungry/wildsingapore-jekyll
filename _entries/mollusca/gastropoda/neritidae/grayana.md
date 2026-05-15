@@ -1,7 +1,9 @@
 ---
-title: "Grey mangrove nerite snail "
+title: 'Grey mangrove nerite snail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "grey, nerita, nerite, grayana, undulata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: grey, nerita, nerite, grayana, undulata, neritidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
 genus: Nerita
@@ -18,16 +20,16 @@ superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
   caption: |
     <p>Kranji, Mar 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4642m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/grayana/130317krjd4641m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ bumps, grayish with beige patches. Body creamy white with dark tentacles.
 nerites](undata.htm) which are not found in mangroves and have one distinctly large
 'tooth' on one side of the shell opening which the Grey mangrove nerite does not.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

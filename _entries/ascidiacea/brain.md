@@ -1,44 +1,46 @@
 ---
-title: "Brain ascidians (Ascidiacea) "
+title: 'Brain ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: brain, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
   caption: |
     <p>Terumbu Raya, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/160124smkerk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/160124smkerk1.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10153760529257906.1073741854.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/220420tbmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/220420tbmn4.jpg
   caption: |
     <p>Terumbu Bemban, Apr 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158840091748660&set=a.10158840094873660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100130brkd8499m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/091204pawd5226m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/100810sngd9989m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/brain/090209tryd6730m3.jpg
 ---
  
 
@@ -63,7 +65,7 @@ in diameter. Rubbery blobs forming on hard surfaces or on stones,
 with meandering ridges that resembles the surface of a brain. A few
 small holes seen only when submerged. Usually beige with shades of pale
 blue or green.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

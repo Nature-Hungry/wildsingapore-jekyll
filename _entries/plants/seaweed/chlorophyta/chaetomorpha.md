@@ -105,7 +105,7 @@ to tell apart some green seaweeds](cffeathery).
 **Human uses:** It is used as animal
 feed and eaten raw by people.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

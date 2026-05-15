@@ -1,9 +1,18 @@
 ---
 title: Polished nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "polished, nerita, nerite, polita, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: polished, nerita, nerite, polita, neritidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 75
+- 100
+- 111
+- 123
 family: Neritidae
 genus: Nerita
 species: polita
@@ -18,29 +27,29 @@ superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
   caption: |
     <p>Labrador, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6164m3.jpg
   caption: |
     <p>Labrador, Jan 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080511sntd3192m3.jpg
   caption: |
     <p>Not all have glossy shells.</p>
     <p>Sentosa, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/090114labd5376m3.jpg
   caption: |
     <p>Labrador, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/101223sntd3896m3.jpg
   caption: |
     <p>Sentosa, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2a.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118137331062825">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/260104trmyls2b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/polita/080621labd6167m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -85,7 +94,7 @@ The flat underside white, smooth and glossy, sometimes slightly wrinkled.
 Tiny notched 'teeth' on the straight edge at the shell opening, the
 uppermost one is squarish. Operculum thick, greenish grey smooth except
 for a border of fine bars at the edge. Body pale with fine black bands.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

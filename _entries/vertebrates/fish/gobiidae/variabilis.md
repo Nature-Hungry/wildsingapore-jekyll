@@ -1,7 +1,9 @@
 ---
 title: Dusky-gilled mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dusky, gill, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
+  variabilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Gobiidae
 genus: Periophthalmus
@@ -19,14 +21,14 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
   caption: |
     <p>Pasir Park, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m6l.jpg
   caption: |
     <p>Pectoral fins are reddish at the edges Pulau Semakau, Oct 05 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/091019prpd2907m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,7 +69,7 @@ and tail fins are reddish at the edges. The fish is only positively
 identified by looking at their underside, to see the blackish area
 near the gills. More about [how to tell apart
 small mudskippers](cfmudsmall.htm) commonly found on our shores.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

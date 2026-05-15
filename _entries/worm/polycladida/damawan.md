@@ -1,7 +1,9 @@
 ---
 title: Damawan flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, worm, flatworm, pseudobiceros, damawan, polyclad, turbellaria, platyhelminthes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudobiceros
@@ -16,19 +18,19 @@ order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
   caption: |
     <p>Sisters Island, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4247803538/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3.jpg
   caption: |
     <p>Pseudotentacles squarish, ruffled on the sided.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks2m3a.jpg
   caption: |
     <p>Underside white with broad orange and thin black margin.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/140201kushpy1m3.jpg
   caption: |
     <p>Kusu Island, Feb 14Photo shared by Heng Pei Yan on <a href="http://peiyansesarma.blogspot.sg/2014/01/kusu-reef-reef-with-lion-city-viewl">her blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/damawan/100103sislks1m3.jpg
 ---
 
 
@@ -59,7 +61,7 @@ body usually raised with a light white stripe along the length. The
 underside white with a wide orange and thin black margin. It has a
 pair of pseudotentacles that are squarish and ruffled on the sides.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

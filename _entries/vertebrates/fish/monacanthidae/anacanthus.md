@@ -1,9 +1,16 @@
 ---
 title: Bearded filefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus, monacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: beareded, filefish, file, fish, leather, jacket, anacanthus, barbatus, monacanthidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Monacanthidae
 genus: Anacanthus
 species: barbatus
@@ -18,23 +25,23 @@ order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
   caption: |
     <p>Tanah Merah, Sep 11Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2011/10/bukom-incident-and-brief-look-at-tanahl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6l.jpg
   caption: |
     <p>Cyrene Reef, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3973m6la.jpg
   caption: |
     <p>Tiny uptuned mouth.</p>
     <p>Barbel under the chin that can be straightened out.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/080523cyrd3971m3b.jpg
   caption: |
     <p>Like other filefishes, it has a flap under the body.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110221tmmn.jpg
   caption: |
     <p>Tanah Merah, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6194874235/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/monacanthidae/anacanthus/110929tmftnml1m6.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,7 +88,7 @@ out so that the fish looks like a pointed stick. Like other filefishs, it has a 
 **Sometimes mistaken for** other fishes that resemble sticks.
 Here's more on [how to tell apart stick-like
 fishes](../cfstick) commonly seen on our shores.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

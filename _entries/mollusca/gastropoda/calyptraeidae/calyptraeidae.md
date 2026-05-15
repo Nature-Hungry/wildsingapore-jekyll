@@ -1,12 +1,14 @@
 ---
 title: Slipper snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: slipper, crepidula, calyptraea, calyptraeidae, crepidulidae, calyptraeidae,
+  gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Calyptraeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 81643
 stateofmatter: Life
 kingdom: Animalia
@@ -17,37 +19,37 @@ order: Littorinimorpha
 superfamily: Calyptraeoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
   caption: |
     <p>Two different kinds of slipper snails on this shell occupied by a hermit crab.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3a.jpg
   caption: |
     <p>The smaller shell is usually the male.</p>
     <p>Chek Jawa, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/130923tmftd3409.jpg
   caption: |
     <p>Tanah Merah, Sep 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
   caption: |
     <p>On a  <a href="../../../arthropoda/limulidae/limulidae.htm">horseshoe crab</a>.</p>
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/180811chg.jpg
   caption: |
     <p>On a living <a href="../../bivalvia/pectinidae/singapore.htm">scallop</a>.</p>
     <p>Changi, Aug 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/100926cjd1682m3.jpg
   caption: |
     <p><a href="calyptraea.htm">Conical slipper snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/crepidula/050315cjd1823m3.jpg
   caption: |
     <p><a href="crepidula.htm">Flat slipper snail</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/calyptraeidae/calyptraea/050429chgg5381m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -107,7 +109,7 @@ big enough, it will change into a female! The females produce flask-shaped
 capsules with several eggs in one capsule. The capsules are brooded
 in the mantle cavity.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

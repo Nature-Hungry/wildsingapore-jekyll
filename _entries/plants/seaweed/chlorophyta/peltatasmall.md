@@ -1,13 +1,18 @@
 ---
 title: Small parasol green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: small, parasol, seaweed, weed, green, caulerpa, racemosa, peltata, caulerpaceae,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: racemosa
-attributes: [44, 97, 115]
+attributes:
+- 44
+- 97
+- 115
 inat_id: 50926
 stateofmatter: Life
 kingdom: Plantae
@@ -16,34 +21,34 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/060713rlhd4358m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/60727jngd5070m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070615sntrg0283m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/160806tplmn5.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/peltatasmall/070728sisd4512m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -93,7 +98,7 @@ This is probably a variety of [Oval sea grapes](racemosa)
 green seaweeds. Here's more on [how to tell
 apart some green seaweeds](cfgrapes).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

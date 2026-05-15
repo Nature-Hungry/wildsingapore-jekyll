@@ -1,13 +1,15 @@
 ---
-title: "Painted sand stars (Astropecten) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Painted sand stars (Astropecten) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: sand, star, seastar, sea star, starfish, fish, astropecten, astropectinidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
   caption: |
     <p>East Coast, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
 ---
 [![](../../../Templates/wildfactsheet3.gif)](../../indexl)
 
@@ -38,7 +40,7 @@ info on painted sand stars](sandpainted)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
   
 back to [general

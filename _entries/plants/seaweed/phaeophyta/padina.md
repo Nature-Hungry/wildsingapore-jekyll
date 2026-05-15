@@ -1,13 +1,18 @@
 ---
 title: Mermaid's fan seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mermaid, fan, ear, brown, seaweed, weed, padina, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mermaid, fan, ear, brown, seaweed, weed, padina, dictyotaceae, phaeophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Padina
-species: ""
-attributes: [41, 97, 98]
+species: ''
+attributes:
+- 41
+- 97
+- 98
 inat_id: 51025
 stateofmatter: Life
 kingdom: Chromista
@@ -18,67 +23,67 @@ order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
   caption: |
     <p>Sentosa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3a.jpg
   caption: |
     <p>Circular fan-shaped, often torn at the edges.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3972m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3972m3.jpg
   caption: |
     <p>Sentosa, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3.jpg
   caption: |
     <p>Tiny hairs on edges and along concentric circles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111128sntd3973m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3823m3.jpg
   caption: |
     <p>Sisters Island, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3824m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3824m3.jpg
   caption: |
     <p>Tiny hairs on edges and along concentric circles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3825m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/111127sisd3825m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/051103sisg2811m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/060131sjid6688m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040409tusad0066m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091204pawd5267m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091204pawd5267m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091205sudd5541m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091205sudd5541m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091231biod7012m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/091231biod7012m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100131slud8839m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100131slud8839m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100130brkd8512m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100130brkd8512m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/100810sngd9917m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -130,7 +135,7 @@ there are more than 30 current *Padina* species.
 is eaten in some places. It is also used as animal feed, fertiliser
 and traditional medicine.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

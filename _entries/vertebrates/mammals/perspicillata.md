@@ -1,7 +1,9 @@
 ---
 title: Smooth-coated otter
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: smooth, coated, otter, lutrogale, perspicillata, mustelidae, vertebrate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Mustelidae
 genus: Lutrogale
@@ -20,29 +22,29 @@ order: Carnivora
 subfamily: Lutrinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
   caption: |
     <p>Woodlands Park, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/090511chgd1421m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/090511chgd1421m6.jpg
   caption: |
     <p>Changi, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/100316sbwrd0105m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110703cjd5376m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110703cjd5376m6l.jpg
   caption: |
     <p>Otter prints on mud.</p>
     <p>Chek Jawa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9592m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9592m6la.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9596m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/110820smkd9596m6l.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/perspicillata/101218wdld3563m6l.jpg
 ---
 
 
@@ -94,7 +96,7 @@ with the parents in a family group for some time.
 and threats:** The Smooth-coated otter is listed as 'Critically
 Endangered' in the Red List of threatened animals of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

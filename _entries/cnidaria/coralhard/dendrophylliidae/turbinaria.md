@@ -1,11 +1,13 @@
 ---
 title: Disk corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
-species: ""
+species: ''
 attributes: []
 inat_id: 92703
 stateofmatter: Life
@@ -16,49 +18,49 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
   caption: |
     <p>Tuas, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3a.jpg
   caption: |
     <p>Two different kinds of Disk corals</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
   caption: |
     <p><a href="flowery.htm">Flowery disk coral</a> Turbinaria peltata Colony flat plate often ruffled so it resembles a cabbage.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
   caption: |
     <p>Corallites sunken to sticking out and tubular, large (0.6cm).</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
   caption: |
     <p>Polyps large and expanded even during the day.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
   caption: |
     <p><a href="encrust.htm">Encrusting disk coral</a> Colony plate-like thick (1cm) encrusting, edges against the surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1941m3.jpg
   caption: |
     <p>Corallites sunken to conical.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1942m3b.jpg
   caption: |
     <p>Polyps tiny with fewer short entacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
   caption: |
     <p><a href="ruffled.htm">Ruffled disk coral</a> Colony plate-like thin (0.5cm) edges often folded into ruffles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
   caption: |
     <p>Corallites conical.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
   caption: |
     <p>Polyps tiny with many short tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
   caption: |
     <p><a href="thin.htm">Thin disk coral</a> Colony plate-like thin (0.2-0.5cm) shaped into a cup or inverted cone.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
   caption: |
     <p>Corallites tiny low rounded bumps.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
   caption: |
     <p>Polyps tiny with few short tentacles.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4096m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -118,7 +120,7 @@ of display. See
 details below.  
   
 **Status:** *Turbinaria reniformis* is listed as Near Threatened, but for others there is inadequate information as at 2024 to make an informed assesment of their conservation status in Singapore.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 
 ---

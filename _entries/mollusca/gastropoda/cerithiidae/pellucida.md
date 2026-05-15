@@ -1,7 +1,9 @@
 ---
 title: Mangrove creeper snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus, cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pellucid, creeper, trail, cerith, snail, shell, clypeomorus, pellucidus,
+  cerithiidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cerithiidae
 genus: Clypeomorus
@@ -17,19 +19,19 @@ superfamily: Cerithioidea
 subfamily: Cerithiinae
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9714m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/161228cjik.jpg
   caption: |
     <p>Chek Jawa, Dec 2016Photo shared by Ivan Kwan on <a href="https://www.facebook.com/photo.php?fbid=10154149205526179&set=a.10154149196226179.1073741851.602806178&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cerithiidae/pellucida/080220smkd9713m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,7 +71,7 @@ tree roots or stuck to logs near the low water mark.
 Shell thick with irregular ribbing and rather knobbly look. It is
 believed to eat microalgae.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

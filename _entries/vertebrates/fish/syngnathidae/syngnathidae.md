@@ -1,11 +1,12 @@
 ---
-title: "Pipefishes "
+title: 'Pipefishes '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pipefish, pipe, fish, horse, seahorse, syngnathidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Syngnathidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49106
 stateofmatter: Life
@@ -18,15 +19,15 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
   caption: |
     <p>Often seen in a pair.Flexible tail used to hang onto objects.</p>
     <p>Tanah Merah, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3895m3c.jpg
   caption: |
     <p>The Alligator pipefish also has a rehensile tail.</p>
     <p>Cyrene Reef, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
   caption: |
     <p>Mobile eyes can move while the body remains still.</p>
     <p>Toothless jaws used like a straw.</p>
@@ -39,20 +40,20 @@ page_images:
     <p>In some species, 'pregnant' males may hang out together in small groups.</p>
     <p>The eggs develop safely on dad's body.</p>
     <p>The father 'gives birth' to live young, which emerge as miniatures of the adults.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
   caption: |
     <p>Very pregnant seahorse papa.</p>
     <p>Sisters Island, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/060724chgg4880m3.jpg
   caption: |
     <p>Some seahorses are tiny!</p>
     <p>Watch your step!</p>
     <p>Changi, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/130624chg7d8080m3.jpg
   caption: |
     <p>Very pregnant piepfish papa.</p>
     <p>Changi, Jun 13</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +117,7 @@ pipefishes.
 **What do they eat?**  Seahorses and
 pipefishes feed on tiny creatures. These are sucked up with their
 tube-like, toothless snouts. 'Syngnathus' means 'fused jaws' in Greek.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

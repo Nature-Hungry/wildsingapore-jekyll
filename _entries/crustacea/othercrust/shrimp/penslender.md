@@ -1,12 +1,16 @@
 ---
 title: Slender penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Penaeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 51042
 stateofmatter: Life
 kingdom: Animalia
@@ -21,25 +25,25 @@ suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
   caption: |
     <p>Labrador, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3.jpg
   caption: |
     <p>East Coast, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/060626ecpd3527m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,7 +83,7 @@ quite common but overlooked because it is so well camouflaged.
 **Features:** 5-8cm long. Body plain
 in various colours from yellowish, brown or beige to grey and even
 reddish. There may be faint bands on the body.  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

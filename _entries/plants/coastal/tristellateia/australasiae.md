@@ -1,9 +1,15 @@
 ---
 title: Maiden's jealousy
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "maiden, jealousy, tristellateia, australasiae, malpighiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: maiden, jealousy, tristellateia, australasiae, malpighiaceae, plant, tree,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Malpighiaceae
 genus: Tristellateia
 species: australasiae
@@ -16,34 +22,34 @@ order: Malpighiales
 inat_id: 321819
 updated: Sep 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
   caption: |
     <p>Growing wild in a mangrove Kranji Nature Trail, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6389m3.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0580m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0578m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0579m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0579m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/090912chgbwd0575m6la.jpg
   caption: |
     <p>Planted.</p>
     <p>Changi, Sep 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
     <p>222 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tristellateia/australasiae/091227kntd6390m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -83,7 +89,7 @@ up to 10m long). The twigs are puple with bumps (lenticels). The leaves
 (7-12cm) a fresh green, arranged opposite one another. The star-shaped
 flowers (2-3cm) are bright yellow appearing in clusters (4-30cm long).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 **Sometimes
 confused with** [Kuku

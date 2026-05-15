@@ -1,12 +1,17 @@
 ---
 title: Striped corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "corallimorph, discosoma, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: corallimorph, discosoma, discosomidae, corallimorpharia, anthozoa, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Discosomidae
 genus: Discosoma
-species: ""
+species: ''
 inat_id: 447204
 stateofmatter: Life
 kingdom: Animalia
@@ -16,32 +21,32 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070304hntg7964m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070304hntg7964m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070304hntg7964m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070304hntg7964m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070701hntg0880m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070701hntg0880m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070701hntg0880m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/070701hntg0880m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/050312hntg3326m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/050312hntg3326m3.jpg
   caption: |
     <p>Pulau Hantu, Mar 05 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, the animals are grouped by external features for convenience of display.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7304m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -84,7 +89,7 @@ The edge of the oral disk smooth. The mouth is usually held upturned.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

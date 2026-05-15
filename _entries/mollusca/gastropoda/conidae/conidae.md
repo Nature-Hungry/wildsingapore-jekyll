@@ -1,10 +1,12 @@
 ---
-title: "Cone snails "
+title: 'Cone snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cone, snail, shell, conus, conidae, gastropod, mollusc, sand, collar, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Conidae
-genus: ""
+genus: ''
 species: Family
 attributes: []
 inat_id: 55743
@@ -17,110 +19,110 @@ order: Neogastropoda
 superfamily: Conoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
   caption: |
     <p>Singed cone snail (Conus consors) Cyrene Reef, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0874m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Cyrene Reef, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190123lazay2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190123lazay2.jpg
   caption: |
     <p>Lazarus, Jan 19Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10215109770749905&set=a.10215109764669753&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/180731ecprk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/180731ecprk.jpg
   caption: |
     <p>Conus caracteristicus East Coast Park, Jul 18Photo shared by Royston Koh Lai Peng on Singapore Biodiverity Records.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191127lazky4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191127lazky4a.jpg
   caption: |
     <p>Lazarus, Nov 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163217688085112&set=a.10163217683870112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191127lazky4b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191127lazky4b.jpg
   caption: |
     <p>Lazarus, Nov 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163217688085112&set=a.10163217683870112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171008srgjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171008srgjll1.jpg
   caption: |
     <p>Lazarus, Oct 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155086849561295&set=a.10155086849486295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171008srglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171008srglks1.jpg
   caption: |
     <p>Lazarus, Oct 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155760681918158&set=pcb.10155760682683158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220104lazky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220104lazky2.jpg
   caption: |
     <p>Lazarus, Jan 22</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220104lazky2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220104lazky2b.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663612335112&set=a.10166663609395112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251009sjirk7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251009sjirk7.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163159501127906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190731kusrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190731kusrk1.jpg
   caption: |
     <p>Kusu Island, Jul 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10157322469652906&set=a.10157322464727906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190731kusrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/190731kusrk1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220518kusrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220518kusrk4.jpg
   caption: |
     <p>Kusu Island, May 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159750837952906&set=a.10159750827347906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/200705kusjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/200705kusjll4.jpg
   caption: |
     <p>Kusu Island, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541500516295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/200705kusjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/200705kusjll2.jpg
   caption: |
     <p>Conus textile Kusu Island, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541500821295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240114kusccn1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240114kusccn1b.jpg
   caption: |
     <p>Kusu Island, Jan 24Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10160932342908654&set=a.10160932320298654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1a.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162511345177906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250530kusrk1c.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162511345177906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240820kusky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240820kusky4.jpg
   caption: |
     <p>Kusu Island, Aug 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240820kusky4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/240820kusky4a.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251011ssisccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251011ssisccn1.jpg
   caption: |
     <p>Small Sisters Island, Oct 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251011ssisccn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/251011ssisccn1a.jpg
   caption: |
     <p>Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163155166123654&type=3&ref=embed_post">facebook</a> Conus achatinus: ID by <a href="https://www.facebook.com/media/set/?set=a.122103418101062825&type=3&ref=embed_post">Yan Le Su</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191028bsisvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191028bsisvc2.jpg
   caption: |
     <p>Big Sisters Island, Oct 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157018276397945&set=a.10157015211837945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191028bsisvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/191028bsisvc1.jpg
   caption: |
     <p>Big Sisters Island, Oct 19Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157018276397945&set=a.10157015211837945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/230705ssisky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/230705ssisky4.jpg
   caption: |
     <p>Small Sisters Island, Jul 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168523834555112/599983835366818">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171104cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/171104cyrlks1.jpg
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10155830725878158.1073741955.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/160820cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/160820cyrmn.jpg
   caption: |
     <p>Cyrene Reef, Aug 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/29019866572/in/album-72157672689245905/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220911cyrrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/220911cyrrk1.jpg
   caption: |
     <p>Cyrene, Sep 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159940582752906&set=a.10159940574347906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/210810tpltch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/210810tpltch4.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159648423393713&set=a.10159648444183713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250712tplrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/250712tplrk1.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "https://live.staticflickr.com/912/40398360790_a0607e141b_z.jpg"
+- url: https://live.staticflickr.com/912/40398360790_a0607e141b_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/40398360790/in/photolist-2eavK6y-27ezk23-26cQJLu-fv13PA-fv13z9-fv13i5-fuKKkt-27jFGEE-26cX1DE-24xSacU-7tAK1F-7tEGHE "Cone snail (Family Conidae)")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/conidae/conidae/130808cyrd0887m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -197,7 +199,7 @@ of Singapore. It used to be the most common cone species seen in Singapore's
 rocky shores in the past, but now seldom seen due to degradation or
 reclamation of natural rocky shores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Deadly

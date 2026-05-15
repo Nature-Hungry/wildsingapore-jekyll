@@ -1,11 +1,13 @@
 ---
 title: Star barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: star, barnacle, chthamalus, euraphia, cirripedia, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Chthalamidae
 genus: Chthamalus
-species: ""
+species: ''
 attributes: []
 inat_id: 128743
 stateofmatter: Life
@@ -22,28 +24,28 @@ order: Balanomorpha
 superfamily: Chthamaloidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060716sisg6735m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/060613ecpd3118m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/201020swgvc5.jpg
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025460752945&set=a.10158025536362945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/euraphia/050512tmg6400m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +89,7 @@ and protrudes from the shell opening. They are often found close to
 one another, so much so that the 'shells' of individual animals seem
 to merge together.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

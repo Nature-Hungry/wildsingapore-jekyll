@@ -1,7 +1,9 @@
 ---
 title: Plate montipora coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Acroporidae
 genus: Montipora
@@ -16,98 +18,98 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg
   caption: |
     <p>Delicate tiers like a wedding cake.</p>
     <p>Kusu Island, Apr 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/050625labg8584m3b.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7173m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7173m3.jpg
   caption: |
     <p>Terumbu Bemban,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7177m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110717tbd7177m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3a.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/060713rlhg6373m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3262m3.jpg
   caption: |
     <p>Sisters Island, Dec 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3263m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/051204sisg3263m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0006m3.jpg
   caption: |
     <p>Raffles Lighthouse, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0007m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/040507rlhbd0007m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3.jpg
   caption: |
     <p>Terumbu Raya, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/110324tryas07908m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8997m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8997m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8998m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd8998m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9033m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9033m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9035m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100201hntd9035m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/220618tmftlks23.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/220618tmftlks23.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943826488158&set=a.10159943838013158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudlks12m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168143657/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3.jpg
   caption: |
     <p>Pulau Sudong, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100613sngd5532m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4804m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4804m3.jpg
   caption: |
     <p>Pulau Sudong, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4805m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100601slud4805m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5609m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5609m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5610m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/091205sudd5610m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4295m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4295m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4297m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/100530tbkd4297m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3.jpg
   caption: |
     <p>Terumbu Buran, Nov 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/101106burs00310m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monplate/170429kusd2134m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -157,7 +159,7 @@ There are probably several different species on this page. It's hard
 to distinguish them without close examination of small features and
 they are grouped by large external features for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

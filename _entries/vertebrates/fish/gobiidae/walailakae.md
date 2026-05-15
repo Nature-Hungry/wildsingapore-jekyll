@@ -1,9 +1,17 @@
 ---
 title: Yellow-spotted mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, walailakae, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yellow, spotted, mudskipper, mud, skipper, fish, periophthalmus, walailakae,
+  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Periophthalmus
 species: walailakae*
@@ -19,24 +27,24 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
   caption: |
     <p>A quarreling pair Chek Jawa, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m6l.jpg
   caption: |
     <p>Chek Jawa, Nov 09 Sometimes mistaken for as juveniles of the <a href="schlosseri.htm">Giant mudskipper</a>.</p>
     <p>Unlike the Giant mudskipper, the Yellow-spotted mudskipper does not have a broad black band along the body length and lacks the white-bluish, iridescent speckles often seen on the Giant mudskipper's cheeks.</p>
     <p>Juvenile Yellow-spotted mudskippers can also be mistaken for other small mudskippers.</p>
     <p>More about <a href="cfmudsmall.htm">how to tell apart small mudskippers</a> commonly found on our shores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
   caption: |
     <p>Juveniles often mistaken for other mudskippers.</p>
     <p>Pasir Ris, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/140322cjd4070m3.jpg
   caption: |
     <p>Burrow doesn't have a 'swimming pool' like the Giant mudskipper.</p>
     <p>Chek Jawa, Mar 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/030822sbwrad0056m3.jpg
   caption: |
     <p>A pair at their burrow.</p>
     <p>Sungei Buloh Wetland Reserve, Aug 03 Burrow behaviour:  Like the Giant mudskipper, this fish is also seen to dig out deep burrows.</p>
@@ -45,14 +53,14 @@ page_images:
     <p>But they are sometimes seen on Chek Jawa, frolicking out in the mid-day sun with the incoming tide, among other kinds of mudskippers.</p>
     <p>During low tide, even during the day, they can sometimes be seen at the entrance of the burrow.</p>
     <p>Sometimes, two fishes at one burrow.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/130811sbwrmn.jpg
   caption: |
     <p>Clinging on with its pelvic fins, its pectoral fins on the side.</p>
     <p>Sungei Buloh Wetland Reserves, Aug 13Photo by Marcus Ng on <a href="https://www.flickr.com/photos/budak/25111616566/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/250430sjiml3.jpg
   caption: |
     <p>St John's Island, Apr 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +103,7 @@ first dorsal fin has a rounded margin, is brownish red with a broad
 black band and narrow white margin. The second dorsal fin has a black
 stripe in the middle. The two dorsal fins are well separated. The
 pelvic fins form a complete disk.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 *\*Species are difficult
 to positively identify without close examination.   

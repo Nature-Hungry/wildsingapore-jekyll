@@ -1,9 +1,18 @@
 ---
 title: Lined moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lined, moon, snail, shell, naticidae, tanea, natica, lineata, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lined, moon, snail, shell, naticidae, tanea, natica, lineata, gastropod,
+  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 77, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 77
+- 100
+- 111
+- 123
 family: Naticidae
 genus: Tanea
 species: lineata
@@ -18,26 +27,26 @@ superfamily: Naticoidea
 subfamily: Naticinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
   caption: |
     <p>Changi, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2180.jpg
   caption: |
     <p>Operculum with a pair of spiralling grooves on the outer margin and a yellow smudge.</p>
     <p>Changi, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/111028chgelks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/111028chgelks1m3.jpg
   caption: |
     <p>Changi East, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/080603tmlks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/080603tmlks02m3.jpg
   caption: |
     <p>Tanah Merah, Jun 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/180812nsrtlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/180812nsrtlks8.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550001083158&set=a.10156549999868158&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/2007024pcnlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/2007024pcnlks3.jpg
   caption: |
     <p>East Coast Park PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482798748158&set=a.10158482804868158&type=3&theater">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/lineata/081116chgd2193.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +89,7 @@ or beige with fine brown spiralling lines. On
 the underside, a small depression. Operculum white with a yellow smudge where the whorl begins, a pair of spiralling
 grooves on the outer margin. Body white or pale beige, front shield darker brown. Tentacles short, brown.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Human uses:** It is collected in

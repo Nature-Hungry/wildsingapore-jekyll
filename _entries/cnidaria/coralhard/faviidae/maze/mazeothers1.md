@@ -1,41 +1,42 @@
 ---
-title: "Other maze favid corals "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Other maze favid corals '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100130brkd8469m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd0039m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4325m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4334m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/100530tbkd4334m3.jpg
   caption: |
     <p>Bleaching.</p>
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/others/091204pawd5245m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -65,7 +66,7 @@ info on other maze favid corals](mazeothers.htm)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

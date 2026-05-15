@@ -1,9 +1,17 @@
 ---
 title: Bearded mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae,
+  goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Scartelaos
 species: histophorus
@@ -19,41 +27,41 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
   caption: |
     <p>Tall mast-like dorsal fin raised when creeping.</p>
     <p>Chek Jawa, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090720prpd7577m6l.jpg
   caption: |
     <p>Pasir Ris Park, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/120414cjd9962m6l.jpg
   caption: |
     <p>When leaping, second dorsal fin is raised, but tall first dorsal fin is not.</p>
     <p>Chek Jawa, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6326.jpg
   caption: |
     <p>'Stands' on its tail when it leaps..</p>
     <p>Chek Jawa, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk1.jpg
   caption: |
     <p>Chek Jawa, Jan 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4261336735/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/110327cjd7895m3.jpg
   caption: |
     <p>A pair emerging from a narrow burrow that opens sideways into a pool.</p>
     <p>Chek Jawa, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
   caption: |
     <p>Pasir Ris, Dec 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/pasir-ris-quickly.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
   caption: |
     <p>Pasir Ris, Mar 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/pasir-ris-quickly.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/251213prprqo3.jpg
   caption: |
     <p>Pasir Ris Mangrove Boardwalk, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/100110cjjk2.jpg
   caption: |
     <p>Chek Jawa, Jan 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4262091226/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -98,7 +106,7 @@ those seen about 7-10cm. Scales are tiny and partly embedded and thus
 not visible with the naked eye. The skin on the top of the head and
 on the back is full of blood vessels allowing the fish to respire
 through the skin. The first dorsal fin is tall and mast-like. Tail fin quite large and long.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

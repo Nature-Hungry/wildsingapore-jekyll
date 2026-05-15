@@ -1,7 +1,9 @@
 ---
-title: "Bohol nudibranch "
+title: 'Bohol nudibranch '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "discodoris, boholiensis, discodoridae, dorid, dorididae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: discodoris, boholiensis, discodoridae, dorid, dorididae, nudibranch, slug,
+  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Discodoridae
 genus: Discodoris
@@ -22,105 +24,105 @@ infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg
   caption: |
     <p>Sentosa, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3b.jpg
   caption: |
     <p>Rhinophores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3a.jpg
   caption: |
     <p>Feathery gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3988m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3988m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3988m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3988m3a.jpg
   caption: |
     <p>A pair of tentacles on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/050112smkd9674m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/050112smkd9674m3.jpg
   caption: |
     <p>Chunks of the body broken off, but still alive.</p>
     <p>Pulau Semakau, Jan 05</p>
-- url: "https://live.staticflickr.com/31337/49513998272_7db16e4f38_z.jpg"
+- url: https://live.staticflickr.com/31337/49513998272_7db16e4f38_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/49513998272/ "Discodoris boholiensis") Nudibranch babies: Nudibranchs are simultaneous hermaphrodites, that is, each animal has both male and female reproductive organs at the same time.</p>
     <p>They practice internal fertilisation.</p>
     <p>So each nudibranch has a complex system of tubes to avoid self fertilisation, to introduce sperm while at the same time receiving sperm from a partner, and for laying eggs.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/250726cyrtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/250726cyrtch3.jpg
   caption: |
     <p>Laying egg ribbon Cyrene, Jul 25Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10163258914273713&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200113chgsaf.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200113chgsaf.jpg
   caption: |
     <p>Egg ribbon laid by the nudibranch.</p>
     <p>Changi, Jan 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/080623cyrd6194m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/080623cyrd6194m3.jpg
   caption: |
     <p>Tiny one.</p>
     <p>Cyrene, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100615tustch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100615tustch3m3.jpg
   caption: |
     <p>Tuas, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/it-has-been-three-years.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100614bblks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100614bblks3m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/annual-beting-bronok-checkup.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/180518chg2jll.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/180518chg2jll.jpg
   caption: |
     <p>Changi, May 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155624586956295.1073741906.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/141109lazlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/141109lazlks3m3.jpg
   caption: |
     <p>Seringat-Kias, Nov 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10152841771308158.1073741864.547198157&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/191127lazky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/191127lazky2.jpg
   caption: |
     <p>Lazarus Island, Nov 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163217685810112&set=a.10163217683870112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200126bsisjll5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200126bsisjll5.jpg
   caption: |
     <p>Big Sisters Island, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157035131901295&set=a.10157035131206295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/110619tslgnml2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/110619tslgnml2m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11 Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2011/06/hide-seek-at-terumbu-selegie.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/240212sjiky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/240212sjiky3.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169204502720112&set=a.10169204495945112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200705kusjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/200705kusjll3.jpg
   caption: |
     <p>Kusu Island, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541499866295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/120707jnglks5m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/120707jnglks5m3.JPG
   caption: |
     <p>Pulau Jong, Jun 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/slugs-galore-at-pulau-jong.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/171104cyrlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/171104cyrlks6.jpg
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830727153158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/260201cyrjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/260201cyrjll2.jpg
   caption: |
     <p>Cyrene, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162602846021295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/201215smkejll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/201215smkejll1.jpg
   caption: |
     <p>Pulau Semakau (East), Dec 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157925668611295&set=a.10157925700911295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/260202smkemn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/260202smkemn1.jpg
   caption: |
     <p>Pulau Semakau (East), Feb 26Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162571130573660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100519tsmklks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100519tsmklks7m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/150620tblks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/150620tblks4m3.jpg
   caption: |
     <p>Terumbu Bemban, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153428823588158.1073741884.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/160609tpkmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/160609tpkmn2.jpg
   caption: |
     <p>Terumbu Pempang Kecil, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/110517tptlks26m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/110517tptlks26m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5729905096/in/album-72157626616274147/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/181223tpljll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/181223tpljll1.jpg
   caption: |
     <p>Terumbu Pempang Laut, Dec 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156096433966295&set=a.10156096432306295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/141108bbbmn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/141108bbbmn2m3.jpg
   caption: |
     <p>Beting Bemban Besar, Nov 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152497513118660.1073741850.624178659&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100130brklks9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/100130brklks9m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352531931/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/boholiensis/060115sntg3989m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -169,7 +171,7 @@ another pair of tentacles.
   
 **What does it eat?** It eats [sponges](../../../porifera/porifera.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

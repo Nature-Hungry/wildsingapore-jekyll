@@ -1,9 +1,14 @@
 ---
-title: "Soldier crab "
+title: 'Soldier crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: soldier, crab, dotilla, myctiroides, dotillidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Dotillidae
 genus: Dotilla
 species: myctiroides
@@ -25,55 +30,55 @@ superfamily: Ocypodoidea
 subfamily: Dotillinae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
   caption: |
     <p>Chek Jawa, Nov 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/060225cjg4975m3a.jpg
   caption: |
     <p>Typical burrow with small and big sand balls around the opening.</p>
     <p>Chek Jawa, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/111129tmftd4218m3.jpg
   caption: |
     <p>'Igloo' built just before the incoming tide.</p>
     <p>Tanah Merah, Nov 11 Burrowing in a bubble of air: <a href="http://www.sciencedirect.com/science/article/pii/002209819600007X">A study found</a> that Dotilla myctiroides in wet semi-fluid sand builds an 'igloo' of sand pellets by rotating itself, in order to seal a bubble of air around itself in the wet sand.</p>
     <p>Beneath the sand, the crab continues to scoop sand from below it and plaster the sand above the bubble of air.</p>
     <p>In this way, the crab in its bubble of air is able to burrow downwards.</p>
     <p>In more stable sand, the crab builds a vertical burrow.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0403m3.jpg
   caption: |
     <p>Chek Jawa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0404m3.jpg
   caption: |
     <p>Creating an 'igloo' in wet sand with the incoming tide.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/070616cjg0405m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/171105cjay1.jpg
   caption: |
     <p>Chek Jawa, Nov 17Shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211945512405424&set=a.10211945511485401&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/151001blylks2.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24574693840/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090109sjilks01m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jan 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/01/st-johns-northern-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/090224lazlks04m3.jpg
   caption: |
     <p>Lazarus Island, Feb 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/160208smkshpy4.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091204pawd5191m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/091205sudd5475m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/100810snglks1m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889929146/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/dotilla/041127cjd8656m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -134,7 +139,7 @@ run forwards as well as sideways. And it can move very fast indeed!
 sandier areas not wandering far from its hole.  *Dotilla myctiroides* is larger (body width up to 1.5cm) and is found in muddier areas often
 moving around in large groups at low tide. This habit of 'trooping'
 in numbers gave these crabs their common name.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **What does it eat?** The soldier
 crab eats the thin coating of detritus on sand grains. Sand grains

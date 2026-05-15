@@ -1,7 +1,9 @@
 ---
 title: Belitong snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "belitong, terebralia, sulcata, sulcate, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: belitong, terebralia, sulcata, sulcate, cerith, snail, shell, potamididae,
+  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: Terebralia
@@ -16,25 +18,25 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7455m3.jpg
   caption: |
     <p>Unlike the similarly shaped <a href="obtusa.htm">Chut-chut</a>, the Belitong has a distinctive peristome Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/090307blyd7454m3.jpg
   caption: |
     <p>Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/250909lazrk1.jpg
   caption: |
     <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163001288762906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/2104hntvc2.jpg
   caption: |
     <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437640537945&set=a.10158431262127945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/091205sudikw2m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160107523/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ chut-chut](obtusa.htm) and [Black
 chut-chut](quadrata.htm). More on [how
 to tell these snails apart](cfpotamids.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

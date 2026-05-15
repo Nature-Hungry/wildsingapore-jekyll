@@ -1,13 +1,17 @@
 ---
 title: Fluffy green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fluffy, seaweed, weed, green, caulerpa, verticillata, caulerpaceae, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: verticillata*
-attributes: [46, 97]
+attributes:
+- 46
+- 97
 inat_id: 326813
 stateofmatter: Life
 kingdom: Plantae
@@ -16,19 +20,19 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3.jpg
   caption: |
     <p>Labrador, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/100401labd0356m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3a.jpg
   caption: |
     <p>Circlet of short filaments.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/fluffy/050721cjg9759m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -69,7 +73,7 @@ comprising a stack of 2-4 circlets of short filaments. Light green to
 reddish green.  
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

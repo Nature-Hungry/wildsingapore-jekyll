@@ -1,9 +1,18 @@
 ---
 title: Wandering cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: wandering, cowrie, cypraeidae, erronea, errones, cypraea, gastropod, mollusc,
+  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 100, 111, 123, 127]
+attributes:
+- 23
+- 33
+- 71
+- 100
+- 111
+- 123
+- 127
 family: Cypraeidea
 genus: Erronea
 species: errones
@@ -19,49 +28,49 @@ subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
   caption: |
     <p>Sisters Island, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5314m3.jpg
   caption: |
     <p>Shell cylindrical with one or two spots.</p>
     <p>Sisters Island, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5313m3.jpg
   caption: |
     <p>Teeth' not coloured.</p>
     <p>Sisters Island, Jan 11 '</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/100420sntd1507m3.jpg
   caption: |
     <p>Mama cowrie under a rock, protecting her egg mass with her foot.</p>
     <p>Sentosa, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/181126lablks.jpg
   caption: |
     <p>Labrador, Nov 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/171108ecpmblks11.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240212sjivc4.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229793312945&set=a.10160230394282945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1a.jpg
   caption: |
     <p>Pulau Tekukor, Mar 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/240309tkccn1b.jpg
   caption: |
     <p>Photo shared by Chee Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10161017768768654&set=a.10161017740053654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1b.jpg
   caption: |
     <p>Terumbu</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/250712tplrk1a.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162752072182906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/210501tbvc6.jpg
   caption: |
     <p>Terumbu Bemban, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441851097945&set=a.10158441969957945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/170514bbbtch3.jpg
   caption: |
     <p>Beting Bemban Besar, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155368581973713.1073742086.619308712&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/errones/110123sisd5312m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -126,7 +135,7 @@ mistaken for a [sea slug](../../slug.htm). Here's more
 on [how to tell apart
 slugs and animals that look like slugs](../../../glossary/flatwormslug.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

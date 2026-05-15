@@ -1,11 +1,12 @@
 ---
 title: Sea anemones
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: anemone, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Actiniidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47796
 stateofmatter: Life
@@ -18,18 +19,18 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcactiniaria.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
   caption: |
     <p>The <a href="dofleinia.htm">glass anemone</a> has very long tentacles.</p>
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/star/060401ulrd0828m3.jpg
   caption: |
     <p>The <a href="star.htm">Wiggly reef star anemone</a> has few tentacles.</p>
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
   caption: |
     <p>The <a href="phymanthus.htm">Phymanthus anemone</a> has branched tentacles.</p>
     <p>Sentosa, May 08 Getting a grip: Most anemones don't move around a lot.</p>
@@ -37,25 +38,25 @@ page_images:
     <p>The other end of the body column may end in a flat muscular pedal disk that attaches to a hard surface.</p>
     <p>Some anemones can move slowly by gliding on the pedal disk.</p>
     <p>The <a href="boloceroididae.htm">Swimming anemone</a> can indeed swim, but can also cling in place with its pedal disk.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/doreensis/050821bbg1876m3.jpg
   caption: |
     <p>Long body column of a burrowing <a href="doreensis.htm">Snaky anemone</a>.</p>
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/boloceroididae/060624skdg6189m3.jpg
   caption: |
     <p>The <a href="boloceroididae.htm">Swimming anemone</a> really does swim!</p>
     <p>Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadbanded/041031cjd7939m3.jpg
   caption: |
     <p>Some anemones are tiny and lie half buried in the sand.</p>
     <p>Don't step on them!</p>
     <p>Chek Jawa, Oct 04 Sometimes mistaken for <a href="../coralsoft/coralsoft.htm">soft corals</a>.</p>
     <p>Some large anemones and large leathery and flowery soft corals may be mistaken for one another.</p>
     <p>Here's more on <a href="../cflargecnidarians.htm">how to tell apart large soft cnidarians</a> on the shore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
   caption: |
     <p>Carpet anemone eating a sand dollar Chek Jawa, Feb 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6la.jpg
   caption: |
     <p>A <a href="tiger.htm">tiger anemone</a> attempting to swallow a <a href="others/pennatulacea/pennatulacea.htm">sea pen</a>!</p>
     <p>Changi, Jul 04 What do they eat?</p>
@@ -73,25 +74,25 @@ page_images:
     <p>The algae undergo photosynthesis to produce food from sunlight.</p>
     <p>The food produced is shared with the anemone, which in return provides the algae with shelter and minerals.</p>
     <p>The zooxanthellae are believed to give anemone tentacles their brown or greenish tinge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
   caption: |
     <p>Some anemones live on shells occupied by <a href="hermitsmall.htm">hermit crabs</a>.</p>
     <p>East Coast Park, Jun 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p>So do <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">anemone shrimps</a>!</p>
     <p>Kusu Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/ocellaris/040605kusbd0077m3.jpg
   caption: |
     <p>The <a href="../vertebrates/fish/pomacentridae/ocellaris.htm">False clown anemonefish</a> can live happily in the  <a href="actiniaria/stichodactyla.htm">carpet anemone</a> that would eat any other fish.</p>
     <p>Kusu Island, Jun 04</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
     <p>963 - Pechenik, Jan A., 2005.</p>
     <p>Biology</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>5th edition.</p>
@@ -112,12 +113,12 @@ page_images:
     <p>C.</p>
     <p>Wee, 1994.</p>
     <p>The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -128,7 +129,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

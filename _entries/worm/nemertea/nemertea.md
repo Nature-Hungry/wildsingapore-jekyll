@@ -1,7 +1,9 @@
 ---
 title: Ribbon worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ribbon, worm, ribbonworm, nemertine, nemertea, nemertean, nemertines,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Geonemertidae
 genus: Phylum
@@ -9,40 +11,40 @@ species: Nemertea
 attributes: []
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
   caption: |
     <p>Sometimes seen swimming in the water.</p>
     <p>Tuas, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5585m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5585m6l.jpg
   caption: |
     <p>This one can be more than 1m long.</p>
     <p>Pulau Sudong, Dec 09 What do they eat?</p>
     <p>Most ribbon worms are voracious predators, often specialising in a particular prey although some will eat a wide variety of prey.</p>
     <p>Ribbon worm prey include other worms, crustaceans and molluscs.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/060531labd2669m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/060531labd2669m3.jpg
   caption: |
     <p>Wrapped around a drill snail.</p>
     <p>Labrador, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/070304hntg7898m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/070304hntg7898m3.jpg
   caption: |
     <p>Coiled around a paralysed shrimp.</p>
     <p>Pulau Hantu, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/short/100213tmd9299m3a.jpg
   caption: |
     <p><a href="short">Short ribbon worm</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/redreef/050111labd9614m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/redreef/050111labd9614m3.jpg
   caption: |
     <p><a href="redreef">Red reef ribbon worm</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd5005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/060726chgd5005m3.jpg
   caption: |
     <p><a href="pink">Pink ribbon worm</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/twotone/080603prpd4699m3b.jpg
   caption: |
     <p><a href="twotone">Two-toned ribbon worm</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/nemertea/verylong/091205sudd5587m3.jpg
   caption: |
     <p><a href="verylong">Very long ribbon worm</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/nemertea/pink/050510tusg6052m3.jpg
 ---
 
 
@@ -89,7 +91,7 @@ worms. The body of a ribbon worm is rather flattened. Although it
 appears smooth, the body is covered with microscopic hairs (cilia).
 Ribbon worms may have zero to 80 'eyes' (light-dectecting sensors).
 Some ribbon worms produces mucus through which they move.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Shooting off its mouth:** To capture
 its prey, the ribbon worm has a unique eversible proboscis at the

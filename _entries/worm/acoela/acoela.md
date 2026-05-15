@@ -1,11 +1,12 @@
 ---
 title: Acoel worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: acoel, flat, worm, flatworm, acoela, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49843
 stateofmatter: Life
@@ -19,44 +20,44 @@ order: Cephalaspidea
 superfamily: Philinoidea
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg
   caption: |
     <p>A hard coral thickly covered with acoel worms.</p>
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3a.jpg
   caption: |
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd3000m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/031223tused0053m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/031223tused0053m3b.jpg
   caption: |
     <p>On <a href="../../cnidaria/coralhard/poritidae/gonsmall">Small goniopora coral</a>.</p>
     <p>Tuas, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/110802smkd8294m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/110802smkd8294m3.jpg
   caption: |
     <p>On <a href="../../cnidaria/coralhard/poritidae/gonbig">Anemone coral</a>.</p>
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/151225tsmktch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/151225tsmktch3m3.jpg
   caption: |
     <p>On <a href="../../cnidaria/others/zoanthid/zoanthus">Button zoanthid</a>.</p>
     <p>Terumbu Semakau, Dec 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153848779733713.1073741996.619308712&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/250515tpttl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/250515tpttl2.jpg
   caption: |
     <p>On <a href="../../cnidaria/coralsoft/alcyoniidae">Leathery soft coral</a> Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Sea Challengers.</p>
     <p>314pp.</p>
     <p>- Newman, Leslie and Lester Cannon.</p>
     <p>2003.</p>
     <p>Marine</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>CSIRO Publishing.</p>
     <p>97pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/acoela/acoela/111029smkd2994m3.jpg
 ---
 
 
@@ -89,7 +90,7 @@ by the host animals that they are found on.
 **What eats them?** Among their predators
 are [tailed
 slugs](../../mollusca/slugs/cephalaspidea/cephalaspidea) (Family Aglajidae).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

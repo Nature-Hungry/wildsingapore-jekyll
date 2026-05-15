@@ -1,42 +1,50 @@
 ---
-title: "Kempudang baran "
+title: 'Kempudang baran '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cassine, viburnifolia, celastraceae, tree, mangrove, mangroves, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 80]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 80
 family: Celastraceae
 genus: Cassine
 species: viburnifolia
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090816sbwrd9083m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090816sbwrd9083m6la.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0137m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0137m3.jpg
   caption: |
     <p>Leaves with scalloped edges.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0137m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0137m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090816sbwrd9075m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090816sbwrd9075m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/110301sbwrd6629m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/110301sbwrd6629m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0135m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0135m3b.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/110301sbwrd6619m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/110301sbwrd6619m3b.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0171m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0171m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/cassine/cassine/090905sbwrd0165m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -93,7 +101,7 @@ used as firewood.
 is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore. It is threatened by habitat loss and oil spills.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

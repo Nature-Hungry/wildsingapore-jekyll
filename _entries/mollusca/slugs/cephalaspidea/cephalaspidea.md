@@ -1,11 +1,13 @@
 ---
 title: Headshield snails and slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: head, shield, slug, seaslug, bubble, shell, snail, cephalaspidea, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49843
 stateofmatter: Life
@@ -19,31 +21,31 @@ order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngslugs.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
   caption: |
     <p><a href="pilsbryi.htm">Batik tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m3.jpg
   caption: |
     <p>Reticulated tailed-slug](reticulata.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
   caption: |
     <p><a href="lineolata.htm">Lined tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
   caption: |
     <p><a href="black.htm">Black tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/haminoea/101009cjd1866m3.jpg
   caption: |
     <p><a href="hamineoa.htm">Mangrove bubble-shell snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
   caption: |
     <p><a href="hydatinidae.htm">Paper bubble snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
   caption: |
     <p><a href="philine.htm">'Attap chee' slug</a></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -54,7 +56,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

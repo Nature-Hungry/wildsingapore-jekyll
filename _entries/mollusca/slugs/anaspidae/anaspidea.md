@@ -1,11 +1,13 @@
 ---
-title: "Sea hares "
+title: 'Sea hares '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seahare, hare, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seahare, hare, anaspidea, opisthobranch, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Aplysiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 48656
 stateofmatter: Life
@@ -19,17 +21,17 @@ order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngslugs.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
   caption: |
     <p>Two pairs of tentacles Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
   caption: |
     <p>A pair of flaps cover the body, thin internal shell.</p>
     <p>Changi, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
   caption: |
     <p>Swimming sea hare!</p>
     <p>Cyrene Reef, Nov 11 Like other gastropods, most sea hares have a shell, but this is reduced, thin and just under the skin.</p>
@@ -37,14 +39,14 @@ page_images:
     <p>Some sea hares lack internal shells.</p>
     <p>The shell encloses the gills and the heart.</p>
     <p>The body wall (called the mantle) has openings or a siphon to pump water in and out over the gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/040509skdbd0143m3.jpg
   caption: |
     <p>Some release a purple dye when disturbed  Pulau Sekudu, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
   caption: |
     <p>Often seen half buried in soft ground.</p>
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/121116sjjid1458m3.jpg
   caption: |
     <p>This tiny sea hare is perfectly camouflaged on a seagrass blade.</p>
     <p>St.</p>
@@ -55,14 +57,14 @@ page_images:
     <p>It is believed that the dye is a by-product of the seaweeds that the sea hare eats.</p>
     <p>Some kinds of sea hares may have a gland that produces a white secretion.</p>
     <p>Sea hares may also store in their skin, distasteful and even toxic chemicals that they obtain from the seaweed that they eat.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
   caption: |
     <p>Laying egg strings.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3.jpg
   caption: |
     <p>Cyrene Reef, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/100402cyrtch2m3a.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/04/good-friday-cyrene-reef.html">her blog</a>.</p>
     <p>Hare today, gone tomorrow!</p>
@@ -73,58 +75,58 @@ page_images:
     <p>Some sea hares are said to form mating chains, each one acting as male to the one in front of it and as a female to the one behind.</p>
     <p>They lay eggs in strings or ribbons.</p>
     <p>There is often a seasonal abundance of sea hares on our shores, with not a hare in sight in between.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dactylomela/090628lazd6182m3.jpg
   caption: |
     <p><a href="dactylomela.htm">Black-tailed sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/spotted/040509skdbd0100m3.jpg
   caption: |
     <p><a href="spotted.htm">Spotted sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
   caption: |
     <p><a href="geographica.htm">Geographic sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/extraordinaria/060301kusg5370m3.jpg
   caption: |
     <p><a href="extraordinaria.htm">Extraordinary sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/stylocheilus/050325sjig3648m3.jpg
   caption: |
     <p><a href="stylocheilus.htm">Furry sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/bursatella/050511cftg6199m3.jpg
   caption: |
     <p><a href="bursatella.htm">Hairy sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/100215sisd9413m3.jpg
   caption: |
     <p><a href="parvula.htm">Mini sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100201hntd9184m3.jpg
   caption: |
     <p><a href="seagrass.htm">Seagrass sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/dolabella/230224trylks1c.jpg
   caption: |
     <p><a href="dolabella.htm">Wedge sea hare</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3.jpg
   caption: |
     <p>Petalifera sp.?</p>
     <p>on Sargassum.</p>
     <p>Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10158761614533713&set=a.10158761681943713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/200820ssistch3b.jpg
   caption: |
     <p>Petalifera sp.?</p>
     <p>on Sargassum.</p>
     <p>Small Sisters Island, Aug 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10158761619458713&set=a.10158761681943713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/140809hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/others/140809hntmn.jpg
   caption: |
     <p>Aplysiomorpha sp.</p>
     <p>Pulau Hantu, Aug 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14777922557/in/album-72157645890016118/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/141011hntlks.JPG
   caption: |
     <p>Pulau Hantu, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24033993912/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/101223sntd3969m3.jpg
   caption: |
     <p>On Tape seagrass.</p>
     <p>Sentosa, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/parvula/160507cjjt4.jpg
   caption: |
     <p>Chek Jawa, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10153811457703119.1073741881.696593118&type=3">facebook</a>.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -135,7 +137,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

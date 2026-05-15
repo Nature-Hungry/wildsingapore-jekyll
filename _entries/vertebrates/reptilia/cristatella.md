@@ -1,7 +1,9 @@
 ---
-title: "Green crested lizard "
+title: 'Green crested lizard '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: green, crested, lizard, bronchocela, cristatella, agamidae, vertebrate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Agamidae
 genus: Bronchocela
@@ -20,14 +22,14 @@ parvorder: Acrodonta
 subfamily: Draconinae
 updated: Dex 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
   caption: |
     <p>Bukit Timah Nature Reserve, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/031004lptd0049m6l.jpg
   caption: |
     <p>Lower Peirce Trail, Oct 03 What does it eat?</p>
     <p>It eats insects such as beetles, flies and ants.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/cristatella/041003btnrd7398m3.jpg
 ---
 
 
@@ -55,7 +57,7 @@ a spiny crest on the back of its neck and a very long tail. Generally
 a plain bright bluish green although it may change to dark brown or
 grey. It has a dark ring around the eyes, and dark brown patch on
 the ears and the tip of the tail.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Baby lizards:** Mama lizard lays
 1-4 large, spindle-shaped eggs which are buried in the soil.  

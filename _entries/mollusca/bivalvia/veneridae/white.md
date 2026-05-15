@@ -1,10 +1,11 @@
 ---
 title: White venus clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, shell, clam, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, shell, clam, veneridae, bivalve, mollusc, clam, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veneridae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 50588
@@ -20,23 +21,23 @@ order: Venerida
 superfamily: Veneroidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
   caption: |
     <p>Pulau Sekudu, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8231m3.jpg
   caption: |
     <p>\Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/090510hntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/090510hntlks.JPG
   caption: |
     <p>Pulau Hantu, May 09Photo shared by Loh Kok Sheng on flickr.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/170429kusmn3.jpg
   caption: |
     <p>Pulau Kusu, Apr 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154598945733660&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -71,7 +72,7 @@ on some of our shores, lying loose among coral rubble and under stones.
 **Features:**About
 4cm. Shell thick, squarish, quite smooth with very fine ridges in concentric rings. Usually
 plain, mostly white with dark irregular blotches.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

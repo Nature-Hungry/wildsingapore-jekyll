@@ -1,13 +1,18 @@
 ---
-title: "Pimply red seaweed "
+title: 'Pimply red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pimply, red, seaweed, weed, algae, acrocystis, nana, rhodomelaceae, rhodophyceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
 genus: Acrocystis
 species: nana*
-attributes: [52, 97, 98]
+attributes:
+- 52
+- 97
+- 98
 inat_id: 924748
 stateofmatter: Life
 kingdom: Plantae
@@ -18,16 +23,16 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
   caption: |
     <p>Sentosa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7454m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/acrocystis/110719sntd7453m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -74,7 +79,7 @@ it appears brown it is a red seaweed
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=33926):
 there is only one species of *Acrocystis*.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,12 +1,16 @@
 ---
 title: Blue-tailed penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Penaeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 51042
 stateofmatter: Life
 kingdom: Animalia
@@ -21,35 +25,35 @@ suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
   caption: |
     <p>Changi, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/100626cyrd7004m3.jpg
   caption: |
     <p>With reddish chest may be juveniles.</p>
     <p>Cyrene Reef, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/240723chgett1.jpg
   caption: |
     <p>Changi East (Lost Coast), Jul 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234678123392463">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/150731ecpmn.jpg
   caption: |
     <p>Pulau Hantu, Jul 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27168728945/in/album-72157654314180383/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/201019sjijk.jpg
   caption: |
     <p>St John's Island, Oct 20Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50506368337/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/110517tptlks8m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/091204pawikw7m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158068553/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070419chgg8757m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +96,7 @@ with a reddish chest may be juveniles. It can bury itself rapidly
 in soft silty sand leaving only the tip of its 'nose' and its eyes
 above the surface.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

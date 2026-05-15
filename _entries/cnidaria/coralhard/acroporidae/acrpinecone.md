@@ -1,7 +1,9 @@
 ---
 title: Pinecone acropora coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: staghorn, table, top, acropora, acroporidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Acroporidae
 genus: Acropora
@@ -16,70 +18,70 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhg6383m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhg6383m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070221kusg7782m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070221kusg7782m3.jpg
   caption: |
     <p>Kusu Island, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070221kusg7782m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070221kusg7782m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/080719sntd7794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/080719sntd7794m3.jpg
   caption: |
     <p>Sentosa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/080719sntd7802m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/080719sntd7802m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070618rlhg0718m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070618rlhg0718m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070618rlhg0720m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/070618rlhg0720m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/210628ecpBlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/210628ecpBlks4.jpg
   caption: |
     <p>East Coast Park (B), Jun 21</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/210628ecpBlks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/210628ecpBlks4a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300984393158&set=a.10159300990763158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/091205sudlks10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/091205sudlks10m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/091205sudlks11m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/091205sudlks11m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168906784/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100201hntd8986m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100201hntd8986m3.jpg
   caption: |
     <p>Pulau Hantu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100201hntd8986m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100201hntd8986m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8536m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8536m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8537m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8537m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8699m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8699m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8700m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100130brkd8700m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100131slud8883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100131slud8883m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100131slud8883m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/100131slud8883m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/acrpinecone/060713rlhd4272m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -127,7 +129,7 @@ There are probably several different species on this page. It's hard
 to distinguish them without close examination of small features and
 they are grouped by large external features for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

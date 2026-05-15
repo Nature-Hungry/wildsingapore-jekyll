@@ -1,11 +1,12 @@
 ---
 title: Volcano barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "volcano, barnacle, tetraclita, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: volcano, barnacle, tetraclita, cirripedia, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Balanidae
 genus: Tetraclita
-species: ""
+species: ''
 attributes: []
 inat_id: 121685
 stateofmatter: Life
@@ -22,42 +23,42 @@ order: Balanomorpha
 superfamily: Coronuloidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
   caption: |
     <p>Pulau Sekudu, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3a.jpg
   caption: |
     <p>Operculum with pointed tip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/020425cjd8321m3.jpg
   caption: |
     <p>Thick shell with air-filled, honey-comb internal structure.</p>
     <p>Chek Jawa, Apr 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3.jpg
   caption: |
     <p>Sisters Island, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/060728sisd5354m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3.jpg
   caption: |
     <p>Pulau Hantu, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/030712hntd0053m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdd9276m3a.jpg
   caption: |
     <p>Spot where a Volcano barnacle used to be?</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/101106tburjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/101106tburjk.JPG
   caption: |
     <p>Terumbu Buran, Nov 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5151340738/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/200921chgwvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/200921chgwvc1.jpg
   caption: |
     <p>'Feet' of the barnacle.</p>
     <p>Changi West, Sep 20</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/tetraclita/070323skdg8250m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -102,7 +103,7 @@ with an operculum with a pointed tip. The thick shell has an air-filled,
 honey-comb internal structure. This provides strength as well as insulation
 from the heat when exposed at low tide.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

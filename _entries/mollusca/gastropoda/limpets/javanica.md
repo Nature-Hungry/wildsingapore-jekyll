@@ -1,9 +1,21 @@
 ---
-title: "Javan false limpet "
+title: 'Javan false limpet '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "javan, false, limpet, siphonaria, javanica, siphonariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: javan, false, limpet, siphonaria, javanica, siphonariidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
+attributes:
+- 14
+- 23
+- 33
+- 64
+- 65
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Siphonariidae
 genus: Siphonaria
 species: javanica
@@ -21,14 +33,14 @@ superfamily: Siphonarioidea
 complex: Siphonaria laciniosa
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
   caption: |
     <p>Pulau Sekudu, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/040901sjid6160m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070901sjimn.jpg
   caption: |
     <p>Drill snail drilled a hole in the limpet shell.</p>
     <p>St.</p>
@@ -36,21 +48,21 @@ page_images:
     <p>Limpet Babies: Siphonaria limpets lay eggs in circular or coiling jelly-like masses that contain thousands of eggs suspended in a gelatinous matrix, attached to a hard surface.</p>
     <p>The free-swimming limpet larvae have a little spiral shell like other 'normal' snails.</p>
     <p>As they develop, the shell flattens and becomes umbrella-shaped.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0205m6l.jpg
   caption: |
     <p>Coiled egg mass laid on a rock.</p>
     <p>East Coast Park, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
   caption: |
     <p>Tiny eggs embedded in the coiled egg mass.</p>
     <p>East Coast Park, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/170626skdmn1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49193185806/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/201117labvc4.jpg
   caption: |
     <p>Labrador, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083940247945&set=a.10158084785112945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/070217skdg7695m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +107,7 @@ This limpet is often preyed upon by [drills](../muricidae/muricidae.htm).
 **Human uses:** It is sometimes collected
 as food by coastal dwellers in Southeast Asia.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

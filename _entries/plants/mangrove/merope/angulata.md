@@ -1,9 +1,15 @@
 ---
-title: "Limau lelang "
+title: 'Limau lelang '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "limau, lelang, merope, angulata, rutaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: limau, lelang, merope, angulata, rutaceae, mangrove, mangroves, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Rutaceae
 genus: Merope
 species: angulata
@@ -17,20 +23,20 @@ order: Sapindales
 subfamily: Aurantioideae
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8247m3.jpg
   caption: |
     <p>Small white flowers.</p>
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/110329mndd8243m3.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/101226krjd4150m3a.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/merope/angulata/100425kntd1724m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -86,7 +92,7 @@ and in childbirth treatment. A lotion of it is used to treat syphilis.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

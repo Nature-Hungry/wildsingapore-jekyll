@@ -1,9 +1,15 @@
 ---
 title: Tembusu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tembusu, fagraea, fragrans, gentianaceae, loganiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tembusu, fagraea, fragrans, gentianaceae, loganiaceae, tree, plant, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 109]
+attributes:
+- 18
+- 21
+- 36
+- 109
 family: Gentianaceae
 genus: Fagraea
 species: fragrans
@@ -18,54 +24,54 @@ tribe: Potalieae
 subtribe: Potaliinae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
   caption: |
     <p>Planted next to Changi Creek.</p>
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9405m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9405m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3.jpg
   caption: |
     <p>Pasir Ris</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0487m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9403m3.jpg
   caption: |
     <p>Changi, Apr</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9404m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubnd9404m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090906prpd0368m3a.jpg
   caption: |
     <p>Pasir Ris, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8737m6l.jpg
   caption: |
     <p>Growing wild on a natural cliff.</p>
     <p>St.</p>
     <p>John's Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8738m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8740m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8740m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8739m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8742m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090809sjid8742m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/110502prpd0486m6l.jpg
   caption: |
     <p>Pasir Ris Park, May 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/fragrans/090410ubno058m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -146,7 +152,7 @@ girth of 4.6m and height 27m. The Tembusu tree at the Singapore Botanic
 Gardens is reportedly more than 150 years old and a photograph of
 it is reproduced on the back of the �Portrait� series $5 note.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

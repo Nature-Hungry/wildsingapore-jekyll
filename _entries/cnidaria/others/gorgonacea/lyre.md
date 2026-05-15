@@ -1,7 +1,9 @@
 ---
 title: Lyre sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lyre, seafan, fan, whip, ctenocella, pectinata, ellisellidae, gorgonian,
+  gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellisellidae
 genus: Ctenocella
@@ -16,28 +18,28 @@ subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
   caption: |
     <p>Beting Bronok, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/040604bbad0076m3.jpg
   caption: |
     <p>Beting Bronok, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/030520bbd0332m3.jpg
   caption: |
     <p>Beting Bronok, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/120704chgd6848m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1.jpg
   caption: |
     <p>Changi-Loyang, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/240706ubnlks1a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/lyre/060812bbd6033m3la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,7 +81,7 @@ overall shape resembles a lyre or harp; or teeth of a comb.  The cylindrical
 stems are smooth and thin. When the polyps are retracted, they form
 small mounds on the stem. Colours red, brown and white.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

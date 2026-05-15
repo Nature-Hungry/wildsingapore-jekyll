@@ -1,7 +1,8 @@
 ---
 title: Seahorses
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: seahorse, horse, hippocampus, syngnathidae, kuda, fish, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Syngnathidae
 genus: Hippocampus
@@ -19,15 +20,15 @@ suborder: Syngnathoidei
 subfamily: Syngnathinae
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
   caption: |
     <p>Often seen in a pair.</p>
     <p>Tanah Merah, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3d.jpg
   caption: |
     <p>Flexible tail used to hang onto objects.</p>
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/070702chgd3169m3.jpg
   caption: |
     <p>Mobile eyes can move while the body remains still.</p>
     <p>Toothless jaws used like a straw.</p>
@@ -37,27 +38,27 @@ page_images:
     <p>These shrimps, crabs and tiny crustaceans are sucked up and swallowed whole.</p>
     <p>The jaws are tube-like ending in a tiny toothless mouth.</p>
     <p>'Syngnathus' means 'fused jaws' in Greek.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/080702prpd6420m3.jpg
   caption: |
     <p>Pregnant papa Pasir Ris Park, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/110519chgd2195m3.jpg
   caption: |
     <p>Very pregnant papa.</p>
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/120312siss04823m3.jpg
   caption: |
     <p>Very pregnant papa.</p>
     <p>Sisters Island, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/050511cftg6328m3.jpg
   caption: |
     <p><a href="kuda">Estuarine seahorses</a> body and tail the same colour</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/031226chgd0026m3.jpg
   caption: |
     <p><a href="kuda">Estuarine seahorses</a> 'hairy' and usually small</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/comes/050625labg8740m3.jpg
   caption: |
     <p><a href="comes">Tiger-tailed seahorses</a> tail is banded yellow and black</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Periplus Editions.</p>
@@ -76,7 +77,7 @@ page_images:
     <p>- Sparks, John, 1999.</p>
     <p>Battle of the Sexes in the Animal World BBC Worldwide, London.</p>
     <p>224 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/kuda/090806tmd8401m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -132,7 +133,7 @@ It uses its flexible, muscular tail to hang on to vegetation and other
 supports. It can also change colours to match its surroundings. Some
 species have flaps and projections out of their body to match the
 vegetation around them.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 A seahorse needs to eat a lot continuously because its digestive system
 is simple and it does not have a stomach. Even a baby seahorse can

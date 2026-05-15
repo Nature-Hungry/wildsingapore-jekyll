@@ -1,9 +1,18 @@
 ---
 title: Tumu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tumu, bruguiera, gymnorrhiza, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tumu, bruguiera, gymnorrhiza, rhizophoraceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 32, 36, 57, 68]
+attributes:
+- 16
+- 18
+- 21
+- 32
+- 36
+- 57
+- 68
 family: Rhizophoraceae
 genus: Bruguiera
 species: gymnorrhiza
@@ -16,41 +25,41 @@ order: Malpighiales
 inat_id: 1361284
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg
   caption: |
     <p>Erosion reveals buttess and knee roots.</p>
     <p>Lim Chu Kang, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9498m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9498m3.jpg
   caption: |
     <p>Buttress roots and knee roots.</p>
     <p>Lim</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5887m3.jpg
   caption: |
     <p>Large flowers, each on one stalk.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090118smkd5888m3a.jpg
   caption: |
     <p>Opened 'pouch' petals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110301sbwrd6661m3a.jpg
   caption: |
     <p>'Pouched' petals not yet open.</p>
     <p>Sungei Buloh Wetland Reserve, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090411lckd9537m3.jpg
   caption: |
     <p>Calyx may be yellow.</p>
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090502cjf0890m3a.jpg
   caption: |
     <p>Tassels on petal tips.</p>
     <p>Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/090801prpd8001m3a.jpg
   caption: |
     <p>Sepals bend towards the propagule.</p>
     <p>Pasir Ris Park, Aug 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/gymnorrhiza/110430lckd0375m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -132,7 +141,7 @@ for heavy duty purposes such as foundation pilings, mine timbers,
 house posts. As well as furniture and cabinet work. Also as firewood
 and for making charcoal.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

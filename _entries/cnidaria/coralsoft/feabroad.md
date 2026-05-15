@@ -1,7 +1,9 @@
 ---
 title: Broad feathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: alcyonacea, soft, coral, octocoral, sansibia, flava, xeniidae, alcyonacea,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Xeniidae
@@ -16,68 +18,68 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3a.jpg
   caption: |
     <p>Polyps do not retract completely.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/070102sisg7185m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/110517tptd1613m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/040705sisd2213m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/200210blylks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/200210blylks1.jpg
   caption: |
     <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967185458158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/250811jngmn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/250811jngmn5.jpg
   caption: |
     <p>Pulau Jong, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161854402173660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/20070724thntrk3.jpg
   caption: |
     <p>Terumbu Hantu, Jul 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158359597792906&set=a.10158359570117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091231biod7022m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100130brkd8468m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091204pawd5389m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/091205sudjk9m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171198371/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/100613sngd5432m3b.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -135,7 +137,7 @@ zone.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

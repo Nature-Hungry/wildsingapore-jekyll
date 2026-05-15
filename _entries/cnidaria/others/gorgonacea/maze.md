@@ -1,10 +1,12 @@
 ---
 title: Maze sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seafan, fan, echinogorgia, plexauridae, coral, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seafan, fan, echinogorgia, plexauridae, coral, gorgonian, gorgonacea, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Plexauridae
-genus: ""
+genus: ''
 species: Echinogorgia
 attributes: []
 inat_id: 85999
@@ -16,37 +18,37 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0138m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0138m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0161m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0163m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0163m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/200722lyglks6b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158477544383158&set=a.10158477547983158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks2.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240706ubnlks5.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2.jpg
   caption: |
     <p>Pulau Sekudu, Aug 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/240821skdrk2a.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161384257847906&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/maze/050724bbg0137m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +92,7 @@ rounded tips. Colours seen include orange, pink, yellow and white.
 The relatively small polyps are white and emerge all around the branches.
 They can retract completely leaving large bumps on the stem.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Thorny oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: thorny, oyster, spondylus, spondylidae, bivalve, mollusc, clam, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Spondylidae
 genus: Spondylus
@@ -19,23 +21,23 @@ superfamily: Pectinoidea
 subfamily: Spondylinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
   caption: |
     <p>Pulau Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8521m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8521m3.jpg
   caption: |
     <p>Pulau Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/101204tmftd3061m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/101204tmftd3061m3.jpg
   caption: |
     <p>Mantle revealed in this submerged clam.</p>
     <p>Tanah Merah, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/210502tptvc10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/210502tptvc10.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447595542945&set=a.10158447654442945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/210629bbbvc6.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158564934342945&set=a.10158565409977945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/spondylidae/spondylidae/100130brkd8523m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -85,7 +87,7 @@ to prevent water loss.
 food and the shell trade by coastal dwellers. Their shells may also
 be used in shellcraft or to make lime.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

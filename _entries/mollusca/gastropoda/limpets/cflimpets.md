@@ -1,11 +1,12 @@
 ---
 title: Various kinds of limpets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "limpets, mollusca, gastropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: limpets, mollusca, gastropoda, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Nacellidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 64285
 stateofmatter: Life
@@ -17,34 +18,34 @@ order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/040901sjid6173m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/040901sjid6172m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/patelloida/050108cjd9237m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/guamensis/041212kusd8718m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/keyhole/130426tkkd5687.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/110803chgd8435m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/110803chgd8435m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +82,7 @@ encouraging the limpets to move onto the glass.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

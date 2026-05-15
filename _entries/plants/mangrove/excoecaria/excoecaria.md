@@ -1,9 +1,17 @@
 ---
-title: "Buta-buta "
+title: 'Buta-buta '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blind, eye, buta, excoecaria, agallocha, euphorbiaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 80]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 80
 family: Euphorbiaceae
 genus: Excoecaria
 species: agallocha
@@ -18,35 +26,35 @@ tribe: Hippomaneae
 inat_id: 192360
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
   caption: |
     <p>Red leaves and male flowers.</p>
     <p>Sungei Buloh Wetland Reserve, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090322krjd8372m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090322krjd8372m3.jpg
   caption: |
     <p>Male flowers.</p>
     <p>Kranji Canal, Mar 00</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211569m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211569m3.jpg
   caption: |
     <p>Female</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/020120sbwrcp5219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/020120sbwrcp5219m3.jpg
   caption: |
     <p>Often with multiple trunks.</p>
     <p>No specialised roots.</p>
     <p>Sungei Buloh Wetland Reserve, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090905sbwrd0118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090905sbwrd0118m3.jpg
   caption: |
     <p>Leaves turning red at the same time.</p>
     <p>Sungei Buloh, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/calliphara/040108ubnd0013m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/calliphara/040108ubnd0013m3a.jpg
   caption: |
     <p>Juvenile <a href="../../../insecta/calliphara">Mangrove shield bugs</a>.</p>
     <p>Pulau Ubin, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/090321krjo3211561m3.jpg
   caption: |
     <p>Fruits.</p>
     <p>Kranji Canal, Mar 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/excoecaria/excoecaria/031217sbwrd0077m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -139,7 +147,7 @@ as it produces an unpleasant smoke. But the wood is used to make matchsticks
 in the Philippines, also sold as aromatic wood, and is considered
 useful for carving. The roots are used to treat toothache and swellings.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

@@ -1,15 +1,21 @@
 ---
 title: Tape seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Tape seagrass
 family: Hydrocharitaceae
 genus: Enhalus
 species: acoroides
-summary: "Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. Thick rhizomes. Flowering often observed. Large female flowers on coiled stalk. Tiny white male flowers produced from inflorescence at base of the plant. Often seen on most of our undisturbed shores. Largest meadow on Pulau Semakau."
-coverimg: "https://live.staticflickr.com/65535/54588072124_3781dc5647.jpg"
+summary: Longest seagrass with ribbon-like leaves. 30cm-1.5m long, 1-2cm wide. Thick
+  rhizomes. Flowering often observed. Large female flowers on coiled stalk. Tiny white
+  male flowers produced from inflorescence at base of the plant. Often seen on most
+  of our undisturbed shores. Largest meadow on Pulau Semakau.
+coverimg: https://live.staticflickr.com/65535/54588072124_3781dc5647.jpg
 inat_id: 50360
 stateofmatter: Life
 kingdom: Plantae
@@ -19,106 +25,106 @@ class: Liliopsida
 order: Alismatales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050309smkg3099m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050309smkg3099m3.jpg
   caption: |
     <p>Pulau Semakau has a vast meadow of tape seagrass Pulau Semakau, Mar 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/110929tmftd1586m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/110929tmftd1586m3.jpg
   caption: |
     <p>Inrolled leaf edges.</p>
     <p>Tanah Merah, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8135m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8135m3.jpg
   caption: |
     <p>Male flowers sometimes form 'rafts'</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080623cyrd6197m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080623cyrd6197m3a.jpg
   caption: |
     <p>Pink opened fruit and narrow female flower on long stalk.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070324tsd9529m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070324tsd9529m3.jpg
   caption: |
     <p>Hairy bristles on rhizomes.</p>
     <p>Thick hairless roots.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7285m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7285m6l.jpg
   caption: |
     <p>Leaf with smooth rounded tip.</p>
     <p>Pulau Semakau, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080771m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080771m6l.jpg
   caption: |
     <p>Petals fully open at the water surface at low spring tide.</p>
     <p>Sentosa, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080784m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080784m6.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/111027sntL1080794m3.jpg
   caption: |
     <p>Petals are water repellant.</p>
     <p>Male flower in the centre.</p>
     <p>Petals zip up underwater.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdd6592m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdd6592m3.jpg
   caption: |
     <p>Inflorescence at the base of the plant that produces the male flowers.</p>
     <p>Pulau Sekudu, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3.jpg
   caption: |
     <p>Male flower bract with tiny white male flowers.</p>
     <p>Pulau Sekudu, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060129skdg4117m3b.jpg
   caption: |
     <p>The male flowers are tiny.</p>
     <p>Pulau Sekudu, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3.jpg
   caption: |
     <p>Female flower just opened.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6270m3a.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3.jpg
   caption: |
     <p>Tiny balls of pollen transferred?</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/120219smkd7189m3a.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3.jpg
   caption: |
     <p>Fruit open with floating seeds.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/070317sntg8070m3a.jpg
   caption: |
     <p>Sentosa, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060628sntd3825m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/060628sntd3825m3.jpg
   caption: |
     <p>Unopened fruit.</p>
     <p>Sentosa, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100602tmd5130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100602tmd5130m3.jpg
   caption: |
     <p>Often grows in a ring.</p>
     <p>Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/171108ecpmblks14.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/171108ecpmblks14.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091231biod7104m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091231biod7104m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091205sudd5574m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/091205sudd5574m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
   caption: |
     <p>Pulau Hantu, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
   caption: |
     <p><a href="../seaweed/rhodophyta/encrust">Encrusting red algae.</a> Sentosa, Oct 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg
   caption: |
     <p>Egg capsules of <a href="../../mollusca/gastropoda/neritidae/oualaniensis">Dubious nerites</a>.</p>
     <p>Tanah Merah, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg
   caption: |
     <p>Egg capsules?</p>
     <p>Pulau Hantu, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg
   caption: |
     <p>Egg capsules?</p>
     <p>Tanah Merah, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg"
-  caption: |
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg
+  caption: |-
     <p>Unidentified organisms.</p>
     <p>Pulau Semakau, Feb 09</p>
 ---
@@ -235,7 +241,7 @@ fibre useful for fishing nets is also made from it.
 **Status and threats:** It is listed
 as 'Vulnerable' on the Red List of threatened plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

@@ -1,11 +1,13 @@
 ---
 title: Naked moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "moon, snail, sinum, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: moon, snail, sinum, naticidae, gastropod, mollusc, sand, collar, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Sinum
-species: ""
+species: ''
 attributes: []
 inat_id: 246554
 stateofmatter: Life
@@ -18,64 +20,64 @@ superfamily: Naticoidea
 subfamily: Sininae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
   caption: |
     <p>Chek Jawa, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg3999m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7658m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7658m3.jpg
   caption: |
     <p>Chek Jawa, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7663m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7663m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7665m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120314cjd7665m3.jpg
   caption: |
     <p></p>
-- url: "https://live.staticflickr.com/31337/49224624233_1e262b4a1a_z.jpg"
+- url: https://live.staticflickr.com/31337/49224624233_1e262b4a1a_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/49224624233/ "Naked moon snail (Sinum sp.)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/110520chglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/110520chglks1m3.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/110520chglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/110520chglks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discover.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120704chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120704chglks.JPG
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120704chglksa.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/120704chglksa.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519642217/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/140419chglks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/140419chglks1.JPG
   caption: |
     <p>Changi, Apr 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/140419chglks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/140419chglks1a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13932230634/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1.JPG
   caption: |
     <p>East Coast Park, Feb 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/160210nsrcclks1a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-3-tanah-merah-sandflat.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/180812nsrtlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/180812nsrtlks1.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550000648158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/230608tmftlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/230608tmftlks6.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160717497133158&set=a.10160717509253158">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/130525tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/130525tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13989120899/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/221127ky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/221127ky1.jpg
   caption: |
     <p>Lazarus Island, Nov 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10167798133450112/552686143344032">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/230424blyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/230424blyrk1.jpg
   caption: |
     <p>Berlayar Creek, Apr 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160448659907906&set=a.10160448655987906">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sinum/050402cjg4001m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -118,7 +120,7 @@ shell opening and is usually completely covered by the living animal.
 Body leathery and white, huge and unable to retract completely into the shell.
 The animal can produce a large amount of slime.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

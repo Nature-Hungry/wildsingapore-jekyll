@@ -1,11 +1,13 @@
 ---
 title: Eeltail catfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: eeltail, eel, tail, catfish, cat, fish, plotosidae, plotosus, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Plotosidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49213
 stateofmatter: Life
@@ -18,31 +20,31 @@ order: Siluriformes
 suborder: Siluroidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
   caption: |
     <p>'Whiskers' help it to find food in murky waters.</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040605kuscd0186m3.jpg
   caption: |
     <p>Small ones may swim in tight groups.</p>
     <p>Kusu Island, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/100124cjd7939m3.jpg
   caption: |
     <p>Great billed heron caught an eeltail catfish!</p>
     <p>Chek Jawa, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/lineatus/040919sntd7020m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/plotosidae/canius/050818cftg1436m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -115,7 +117,7 @@ are sometimes also mistaken for [sea
 snakes](../../snakes/snakeshore) or [eels](../muraenidae/muraenidae) (Family
 Muraenidae). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Don't touch!** These fishes have venomous spines on the dorsal fin and on each of the pectoral
 fins, which can be locked upright. Their stings can be excruciating

@@ -1,9 +1,18 @@
 ---
 title: Chameleon nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: chameleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 75
+- 100
+- 111
+- 123
 family: Neritidae
 genus: Nerita
 species: chamaeleon
@@ -18,19 +27,19 @@ superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
   caption: |
     <p>St John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
   caption: |
     <p>St John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/060516chgd2044m3.jpg
   caption: |
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/210529epcnvc3.jpg
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497029472945&set=a.10158495877737945">facebcok</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -87,7 +96,7 @@ bands on the foot and long thin black tentacles.
 similar nerites. Here's a comparison of these [similar
 nerite snails](neritidaecf.htm) and how to tell them apart.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

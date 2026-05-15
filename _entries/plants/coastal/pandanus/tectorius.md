@@ -1,9 +1,17 @@
 ---
-title: "Mengkuang "
+title: 'Mengkuang '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pandan, pandanus, tectorius, pandanaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pandan, pandanus, tectorius, pandanaceae, creeper, plant, bush, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 18, 20, 21, 36, 82]
+attributes:
+- 8
+- 18
+- 20
+- 21
+- 36
+- 82
 family: Pandanaceae
 genus: Pandanus
 species: tectorius
@@ -16,42 +24,42 @@ order: Pandanales
 inat_id: 70026
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
   caption: |
     <p>Can grow into a tall tree!</p>
     <p>Pulau Semakau, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/051018smkg2732m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/051018smkg2732m3.jpg
   caption: |
     <p>Pulau Semakau, Oct 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkg9558m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkg9558m3.jpg
   caption: |
     <p>Compound fruit that resembles a pineapple.</p>
     <p>Pulau Semakau, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/120407lazd8215m3.jpg
   caption: |
     <p>Female flower a green gloobular cone.</p>
     <p>Lazarus, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3a.jpg
   caption: |
     <p>Male flowers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/090315smkd8276m3.jpg
   caption: |
     <p>Male flowers tiny white in a long cone.</p>
     <p>Pulau Semakau, Mar 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pandanus/tectorius/070520smkd1228m6.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -139,7 +147,7 @@ The sweet smelling male flowers are used by women in their hair or
 to prepare scented oils. Medicinal uses include using the young leaves
 as an antidote for poisoning.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

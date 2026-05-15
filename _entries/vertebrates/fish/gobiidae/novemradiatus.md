@@ -1,9 +1,17 @@
 ---
 title: Pearse's mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pearse, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, novemradiatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pearse, mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus,
+  novemradiatus, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Periophthalmus
 species: novemradiatus*
@@ -19,13 +27,13 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
   caption: |
     <p>Berlayar Creek, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3a.jpg
   caption: |
     <p>Pectoral fins reddish near the body.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/novemradiatus/071129blyd7686m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,7 +76,7 @@ fish is only positively identified by looking at their underside,
 to see the blackish area near the gills. More about [how
 to tell apart small mudskippers](cfmudsmall.htm) commonly found on our shores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
  *\*Species are

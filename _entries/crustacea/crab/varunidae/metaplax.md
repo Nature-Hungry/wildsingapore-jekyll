@@ -1,9 +1,14 @@
 ---
-title: "Orange signaller crab "
+title: 'Orange signaller crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, signaller, metaplax, elegans, varunidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: orange, signaller, metaplax, elegans, varunidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Varunidae
 genus: Metaplax
 species: elegans
@@ -25,16 +30,16 @@ superfamily: Grapsoidea
 subfamily: Cyclograpsinae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3.jpg
   caption: |
     <p>Mandai, Feb 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/130202mndd3914m3a.jpg
   caption: |
     <p>Mandai, Feb 13</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/metaplax/100221sbwrd9527m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -77,7 +82,7 @@ up and down on their legs, to compete for females.
   
 **What does it eat?**It
 feeds mainly on worms, coming of out its burrow at low tide.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

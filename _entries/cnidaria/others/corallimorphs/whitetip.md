@@ -1,9 +1,14 @@
 ---
 title: White-tip corallimorphs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Discosomidae
 genus: Rhodactis
 species: indosinensis
@@ -16,58 +21,58 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8047m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8039m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8039m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd8031m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120607kusd4965m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120607kusd4965m3.jpg
   caption: |
     <p>Kusu Island, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160625tkkgl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160625tkkgl2.jpg
   caption: |
     <p>Pulau Tekukor, Jun 16Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154924795318448.1073741837.611888447&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/240309tkrrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/240309tkrrk2.jpg
   caption: |
     <p>Pulau Tekukor, Mar 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10161031537007906&set=a.10161031532427906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/210228lazrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/210228lazrk2.jpg
   caption: |
     <p>Lazarus Island, Feb 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158910293652906&set=a.10158910280417906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tbrnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tbrnlks.JPG
   caption: |
     <p>Terumbu Buran, Jan 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5152380331/in/album-72157625202884091/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tburjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/101106tburjk.JPG
   caption: |
     <p>Terumbu Buran, Nov 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5151338262/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/110220lazrl7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/110220lazrl7m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/100519tsmjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/100519tsmjk2m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakaul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/150717smksmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/150717smksmn1m3.jpg
   caption: |
     <p>Pulau Semakau South, Jul 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153048790073660.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160124smkelks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/160124smkelks4.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/260202smkeml1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/260202smkeml1.jpg
   caption: |
     <p>Pulau Semakau East, Feb 26Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122169568046554640&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +121,7 @@ the tentacles.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,19 @@
 ---
 title: Ball sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ball, cucumber, seacucumber, phyllophorus, phyllophoridae, holothuridae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ball, cucumber, seacucumber, phyllophorus, phyllophoridae, holothuridae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Phyllophoridae
 genus: Phyllophorus
 species: sp.
@@ -17,51 +27,51 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngholothuroidea)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150831chg1d9949m3.jpg
   caption: |
     <p>Many often buried just beneath the surface.</p>
     <p>Changi, Aug 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/050428chgg5234m3.jpg
   caption: |
     <p>Freshly dug up sea cucumber with anus and mouth facing upwards.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/070731chgd4722m3.jpg
   caption: |
     <p>Feeding tentacles from a buried sea cucumber..</p>
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3.jpg
   caption: |
     <p>Rarely found above ground.</p>
     <p>Changi, Jul 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/150702chg7d6334m3a.jpg
   caption: |
     <p>Feeding tentacles and long thin tube feet..</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/161118chg7d9090m3.jpg
   caption: |
     <p>Those found above ground may be inflated into translucent balls and float in the water.</p>
     <p>Changi, Nov 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/260105prpezxh8.jpg
   caption: |
     <p>Pasir Ris Park, Jan 26Photo shared by Zen Xuan He on <a href="https://www.facebook.com/chen.octavius/posts/2081297236002397?ref=embed_post">facebook.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/210529ecpblks9.jpg
   caption: |
     <p>East Coast Park (B), May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233457778158&set=a.10159233461703158">facebook.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/151001blyjt14m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278308119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/230424blylks2.jpg
   caption: |
     <p>Berlayar Creek, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160614711768158&set=a.10160614719623158">facebook.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/100912kuslks2m3.jpg
   caption: |
     <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-cityl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/phyllophorus/110220lazlks.JPG
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5465053154/in/album-72157612002594170/">flickr</a>.</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../indexl)
 
@@ -72,7 +82,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals)
 | [all plants](../../plants)

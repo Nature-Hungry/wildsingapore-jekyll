@@ -1,9 +1,16 @@
 ---
 title: Painted sand star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, star, seastar, sea star, starfish, fish, astropecten, vappa, astropectinidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, star, seastar, sea star, starfish, fish, astropecten, vappa, astropectinidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 91, 92, 106]
+attributes:
+- 0
+- 1
+- 91
+- 92
+- 106
 family: Astropectinidae
 genus: Astropecten
 species: vappa
@@ -17,53 +24,53 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3c.jpg
   caption: |
     <p>Stout flat spines on the sides.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3b.jpg
   caption: |
     <p>Madreporite at bottom right.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8120m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8120m3.jpg
   caption: |
     <p>Underside white without markings.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/060612chgg6132m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/060612chgg6132m3d.jpg
   caption: |
     <p>Pointed tube feet.</p>
     <p>Changi, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/160210ecplks.JPG
   caption: |
     <p>Parasitic <a href="../../mollusca/gastropoda/eulimidae/eulimidae">Ulimid snail</a>.</p>
     <p>East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24642250860/in/album-72157663938916840/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/080731chgd8474m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/080731chgd8474m3.jpg
   caption: |
     <p>Tiny painted star Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/030615cjd0189m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/030615cjd0189m3.jpg
   caption: |
     <p>With six arms.</p>
     <p>Chek Jawa, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/101011chgd2206m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/101011chgd2206m3.jpg
   caption: |
     <p>Changi, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/160125obsjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/160125obsjt2.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153851748833119.1073741887.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/250627bbal4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/250627bbal4.jpg
   caption: |
     <p>Betint Bronok, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161767901058693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/081214ecmlks03m3.jpg
   caption: |
     <p>East Coast, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/210529ecpgtch7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/210529ecpgtch7.jpg
   caption: |
     <p>East Coast (G), May 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487179803713&set=a.10159487267278713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/201019sjijll8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/201019sjijll8.jpg
   caption: |
     <p>St John's Island, Oct 20 Photo shared by JIanlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806535786295&set=a.10157806532326295">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/sandpainted/050622chgg8118m3.jpg
 ---
 
 
@@ -97,7 +104,7 @@ bands near the arm tips. Underside pale without markings. Tubefeet translucent w
   
 **What does it eat?** According to Marsh and Fromont, it eats small clams and snails, which are swallowed whole.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

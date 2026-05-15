@@ -1,11 +1,12 @@
 ---
 title: Prawns and shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Penaeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 51042
 stateofmatter: Life
@@ -21,16 +22,16 @@ suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Apr 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngshrimps)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
   caption: |
     <p>The <a href="penbluetail">Blue-tail prawn</a> like other shrimps contracts its abdomen to swim backwards.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
   caption: |
     <p><a href="rednose">Red-nose shrimps</a> are also found among seaweeds, and living hard and soft corals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
   caption: |
     <p>A tiny transparent <a href="palaemonidae">commensal shrimp</a>, several seen on a <a href="../../../echinodermata/holothuroidea/colochirus">Thorny sea cucumber</a>.</p>
     <p>Beting Bronok, Aug 05 How do they mate?</p>
@@ -44,24 +45,24 @@ page_images:
     <p>That is, they change their shape as they develop through their life cycle.</p>
     <p>Most adult shrimps migrate to deeper waters to breed and release their eggs.</p>
     <p>Eggs usually hatch quickly, within a day or so.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta1.gif
   caption: |
     <p>larvae</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta2.gif"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta2.gif
   caption: |
     <p>juvenile</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta3.gif"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/meta3.gif
   caption: |
     <p>adult</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
   caption: |
     <p><a href="alphballsoft">White snapping shrimps</a> live in Ball flowery soft corals.</p>
     <p>Beting Bronok, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
   caption: |
     <p>A <a href="../../../crustacea/othercrust/shrimp/alphmanyband">Many-band snapping shrimp</a> sharing a burrow with a <a href="../../../vertebrates/fish/gobiidae/leptocephalus">Pink-speckled shrimp-goby</a>.</p>
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p>A pair of <a href="brevicarpalis">Five-spot anemone shrimps</a> is commonly found in our carpet anemones.</p>
     <p>Role in the habitat: Shrimps are numerous and eaten by a wide variety of larger creatures.</p>
@@ -70,25 +71,25 @@ page_images:
     <p>These cleaners are often brightly marked.</p>
     <p>Some shrimps also live with other sea creatures.</p>
     <p><a href="palaemonidae">Anemone shrimps</a>, for example, frolick happily among the tentacles of a sea anemone that would kill and eat other creatures.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
   caption: |
     <p><a href="penaeidae">Penaeid prawn</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
   caption: |
     <p><a href="alpheidae">Snapping shrimps</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
   caption: |
     <p><a href="palaemonidae">Commensal shrimps</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/redband/060130hntg4350m3.jpg
   caption: |
     <p><a href="redband">Red-banded shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090818tmd9180m3.jpg
   caption: |
     <p><a href="saron">Saron shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
   caption: |
     <p><a href="hippolytidae">Humpbacked shrimp</a></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -99,7 +100,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

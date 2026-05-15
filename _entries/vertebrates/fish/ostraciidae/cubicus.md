@@ -1,9 +1,15 @@
 ---
-title: "Yellow boxfish "
+title: 'Yellow boxfish '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yellow, box, boxfish, fish, ostracion, cubicus, ostraciidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Ostraciidae
 genus: Ostracion
 species: cubicus
@@ -18,16 +24,16 @@ order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
   caption: |
     <p>Pulau Sekudu, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3b.jpg
   caption: |
     <p>Tiny stick-like tail and tiny dorsal fins.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3a.jpg
   caption: |
     <p>Small, downward-pointing tube-like mouth.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -69,7 +75,7 @@ white eye-like spots. Adults grow to 45cm and are found in deeper
 waters. They are dusky yellow with irregular yellow lines on the head,
 with greyish blue fins. It
 is reported that juveniles are often seen among *Acropora* corals.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

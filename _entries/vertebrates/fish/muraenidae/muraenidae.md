@@ -1,11 +1,12 @@
 ---
-title: "Moray eels "
+title: 'Moray eels '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: moray, eel, fish, muraenidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Muraenidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47313
 stateofmatter: Life
@@ -18,38 +19,38 @@ order: Anguilliformes
 suborder: Muraenoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
   caption: |
     <p>Dorsal, anal and tail fins are continuous.</p>
     <p>Sisters Island, Jan 1</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/080621labd6014m3c.jpg
   caption: |
     <p>No pelvic fins, small eyes, tubular nostrils.</p>
     <p>Labrador Jun 08 What do they eat?</p>
     <p>Moray eels' prey include fishes, crustaceans, snails and <a href="../../../mollusca/cephalopoda.htm">octopus, squid and cuttlefish</a>.</p>
     <p>Those that eat fish have sharp, long, fang-like teeth to grab and hold on to their slippery prey.</p>
     <p>Those that eat hard-shelled crabs and snails have pebble-like teeth to crush prey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/110602tmftd3429m6l.jpg
   caption: |
     <p>Sharp teeth!</p>
     <p>Tanah Merah, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/091008tmd2463m3.jpg
   caption: |
     <p>Lunging after prey in a hole with flaring of long dorsal fins.</p>
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m3.jpg
   caption: |
     <p><a href="tile.htm">Estuarine moray eel</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/reevesii/100527tmd3450m3.jpg
   caption: |
     <p><a href="reevesii.htm">Brown-spotted moray eel</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3.jpg
   caption: |
     <p><a href="concolor.htm">Brown moray eel</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/251011labyls1.jpg
   caption: |
     <p>White-eyed moray (Gymnothorax thyrsoideus) Labrador, Oct 25Photo and ID shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122101681779062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/tile/101224sisd4114m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -112,7 +113,7 @@ in S-shapes, rather like a snake.
 **Sometimes mistaken for** [sea
 snakes](../../snakes/hydrophiidae/laticauda.htm). Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Two sets of jaws!** A moray eel
 has a special trick up its throat to help it swallow prey. Lots of

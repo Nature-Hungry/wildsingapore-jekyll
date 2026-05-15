@@ -1,39 +1,43 @@
 ---
 title: Arrow-head spider crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
+keywords: arrow, head, spider, crab, spider crab, menatheius, majidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info,  photo
 layout: entry
-attributes: [38, 106]
+attributes:
+- 38
+- 106
 family: Epialtidae
 genus: Menatheius
-species: ""
+species: ''
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/020127cjcpd5423m3.jpg
   caption: |
     <p>Chek Jawa, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090429chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090429chglks1.jpg
   caption: |
     <p>Changi, Apr 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/04/crabs-fishes-and-echinoderms-at-changil">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/200821cjvc1.jpg
   caption: |
     <p>Chek Jawa, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157888694422945&set=a.10157888692007945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/090706tmtch5m3.jpg
   caption: |
     <p>Tanah Merah, Jul 09 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/07/crabby-day-tanah-merahl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/110619tslgjk2m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/06/110619-terumbu-selegil">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/240211bigsisvc4.jpg
   caption: |
     <p>Big Sister Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224110557945&set=a.10160224174947945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/150816cyrlks1.jpg
   caption: |
     <p>Cyrene, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2015/08/seagrass-critters-of-cyrene-reefl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/menatheius/050625labg8681m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,7 +83,7 @@ According to the Singapore Red Data Book, the One-horned spider crab
 and among seagrasses on rocky or sandy/muddy shores. It also covers
 itself with debris to blend into the surroundings.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

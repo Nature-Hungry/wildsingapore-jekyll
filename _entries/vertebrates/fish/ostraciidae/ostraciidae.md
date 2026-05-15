@@ -1,11 +1,12 @@
 ---
 title: Boxfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: boxfish, box, fish, ostraciidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ostraciidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47529
 stateofmatter: Life
@@ -18,16 +19,16 @@ order: Tetraodontiformes
 suborder: Balistoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
   caption: |
     <p><a href="cornuta">Longhorned cowfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/nasus/090625cyrd5620m3.jpg
   caption: |
     <p><a href="nasus">Shortnosed boxfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cubicus/070217skdg7635m3.jpg
   caption: |
     <p><a href="cubicus">Yellow boxfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ostraciidae/cornuta/080606cyrd5195m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -104,7 +105,7 @@ on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

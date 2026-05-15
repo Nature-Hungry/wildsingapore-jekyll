@@ -1,9 +1,19 @@
 ---
 title: Zebrafish sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: curryfish, zebrafish, cucumber, seacucumber, stichopus, vastus, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Stichopodidae
 genus: Stichopus
 species: vastus
@@ -17,22 +27,22 @@ subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
   caption: |
     <p>Pulau Semakau, Jul 16 Photo by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10154373785068158.1073741920.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks4a.jpg
   caption: |
     <p>Large conical bumps with dark stripes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks2.jpg
   caption: |
     <p>Flat underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1.jpg
   caption: |
     <p>Short tube feet in three broad rows.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks1a.jpg
   caption: |
     <p>Short tube feet.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/vastus/160723smkelks3.jpg
 ---
 
 
@@ -62,7 +72,7 @@ tube feet appearing in three rows along the body length. Mouth is downward facin
 **Human uses:** According to the [IUCN
 Red List](http://www.iucnredlist.org/details/180545/0): "It is commercially harvested through out much of its range. Although this species is of current low value in fisheries, it can be expected that this species may become more popular after the depletion or reduction of other species of higher commercial importance and value. There is a subsistence fishery in Palau targeting gonads and/or intestines. The species is heavily exploited in Indonesia."
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

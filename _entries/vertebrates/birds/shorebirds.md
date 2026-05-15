@@ -1,45 +1,46 @@
 ---
 title: Shorebirds and sea birds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "shorebirds, birds, waders, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: shorebirds, birds, waders, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
   caption: |
     <p>A group of whimbrels on the shore.</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/s221a.gif"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/s221a.gif
   caption: |
     <p>Route a migrating shorebird might take on the East Asian- Australasian Flyway</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4583m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4583m3.jpg
   caption: |
     <p>Bird poop on the shore.</p>
     <p>Chek Jawa, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m6l.jpg
   caption: |
     <p>Seabirds resting on the sand bars.</p>
     <p>Chek Jawa, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/110102cjd4580m3a.jpg
   caption: |
     <p>Lesser crested-terns.</p>
     <p>Chek Jawa, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7228m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7228m6l.jpg
   caption: |
     <p>Pacific golden plovers.</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/091227kntd6403m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/091227kntd6403m3.jpg
   caption: |
     <p>Grey heron.</p>
     <p>Kranji Nature Trail, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/birds/shorebirds/070101cjd7242m6l.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -74,7 +75,7 @@ the migratory season of September to March. These are shorebirds visiting
 from afar. They are sometimes also called waders as they are often
 seen wading in water.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 Seabirds are those that hunt mainly fish on open waters or coastal
 areas, rather than feeding on the mudflats like shorebirds. Some seabirds

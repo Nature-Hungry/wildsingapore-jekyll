@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, porifera,"
+keywords: melted, chocolate, sponge, chondrilla, australiensis, chondrillidae, porifera,
 layout: entry
 shape: encrusting
 title: Melted chocolate sponges
@@ -17,39 +17,39 @@ subclass: Verongimorpha
 order: Chondrillida
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
   caption: |
     <p>Tiny sea anemone Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3a.jpg
   caption: |
     <p>With <a href="../echinodermata/holothuroidea/synaptid.htm">synaptid sea cucumbers</a>.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/synsponge/050510tusg6129m3.jpg
   caption: |
     <p>With <a href="../echinodermata/holothuroidea/synaptid.htm">synaptid sea cucumbers</a>.</p>
     <p>Tuas, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/080803smkd8938m3b.jpg
   caption: |
     <p>Tiny holes with a membranous lip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8132m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8132m3.jpg
   caption: |
     <p>Lazarus, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8133m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120407lazd8133m3b.jpg
   caption: |
     <p>Tiny holes with a membranous lip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5841m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5841m3.jpg
   caption: |
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5843m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/120124sisd5843m3b.jpg
   caption: |
     <p>Tiny holes with a membranous lip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/200125prpAhd2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/200125prpAhd2.jpg
   caption: |
     <p>Pasir Ris Park, Jan 20 Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827012330675964&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/meltedchoc/050607chgg7244m3c.jpg
 ---
 
 
@@ -90,7 +90,7 @@ the anemone settled into the ascidian, or the anemone was there first
 and the ascidian grew around it.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

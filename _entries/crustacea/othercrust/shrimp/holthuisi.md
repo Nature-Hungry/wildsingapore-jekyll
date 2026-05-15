@@ -83,7 +83,7 @@ Instead, they are believed to shelter in the anemone for protection
 and may feed on left overs. The shrimps have often been seen "hanging"
 over the edge of their anemone home with their pincers extended.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

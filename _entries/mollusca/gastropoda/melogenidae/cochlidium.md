@@ -1,80 +1,90 @@
 ---
-title: "Spiral melongena "
+title: 'Spiral melongena '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spiral, melongena, pugilina, cochlidium, melogenidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spiral, melongena, pugilina, cochlidium, melogenidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 64, 71, 100, 111, 123, 125]
+attributes:
+- 23
+- 33
+- 64
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Melongenidae
 genus: Pugilina
 species: cochlidium
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
   caption: |
     <p>Fine hairs on the shell of a living snail.</p>
     <p>Pulau Ubin, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3196m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3196m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Pulau Ubin, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050428cftd2949m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/050428cftd2949m3.jpg
   caption: |
     <p>The animal's body is black.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3.jpg
   caption: |
     <p>Mating and laying eggs</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110815chgd9192m3c.jpg
   caption: |
     <p>Changi, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3.jpg
   caption: |
     <p>Laying eggs</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110929tmftd1502m3a.jpg
   caption: |
     <p>Tanah Merah, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3.jpg
   caption: |
     <p>Eggs in the capsule</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/111226tmftd5043m3a.jpg
   caption: |
     <p>Tanah Merah, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/091217sbglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/091217sbglks.JPG
   caption: |
     <p>Sembawang, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4196800455/in/album-72157622905436345/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160125obsrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160125obsrk1.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10153769205387906.1073741855.563787905&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/260103prpyls5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/260103prpyls5.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118127263062825">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160510ecpbsjt3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160510ecpbsjt3.jpg
   caption: |
     <p>East Coast Park, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/a.tropical.penguin/media_set?set=a.10154128494628119.1073741901.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/200710mevc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/200710mevc7.jpg
   caption: |
     <p>East Coast-Marina East, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811091362945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/151001blymn9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/151001blymn9m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160209cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/160209cyrjll1.jpg
   caption: |
     <p>Cyrene Reef, Feb 16Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10153455345581295.1073741864.542241294&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/080209smkhw02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/080209smkhw02m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08Photo shared by Dai Jiao on <a href="http://www.flickr.com/photos/peisan/2255524788/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110814smkjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110814smkjk2m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/08/110814-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/130428tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/130428tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750441498/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110517tptlks10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/110517tptlks10m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/100629tpdjk10m3.jpg
   caption: |
     <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/101207ubnd3195m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -131,7 +141,7 @@ although relatively large and common. When the snail dies, the hairs
 drop off revealing a glossy, orange shell. The large empty shell is
 often taken over by a [hermit
 crab](../../../crustacea/othercrust/anomura/hermit/hermit.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

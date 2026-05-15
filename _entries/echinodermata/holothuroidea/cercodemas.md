@@ -1,9 +1,18 @@
 ---
 title: Pink warty sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pink, warty, cucumber, seacucumber, cercodemas, anceps, cucumariidae, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 92, 101]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 92
+- 101
 family: Cucumariidae
 genus: Cercodemas
 species: anceps
@@ -17,28 +26,28 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
   caption: |
     <p>Changi, May 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3a.jpg
   caption: |
     <p>Colourful feeding tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/120705chgd7120m3b.jpg
   caption: |
     <p>Underside with three rows of tube feet.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m3b.jpg
   caption: |
     <p>Anus surrounding by five tiny 'teeth'.</p>
-- url: "https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg"
+- url: https://live.staticflickr.com/636/20865881730_b8e98a7370_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/20865881730/ "Pink warty sea cucumber (Cercodemas anceps)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/220616chgelks2.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940592948158&set=a.10159940599688158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/cercodemas/140502chg7d5173m6l.jpg
 ---
 
 
@@ -73,7 +82,7 @@ sea cucumber](colochirus) which looks similar and is found in the same habitat o
 cucumber has soft conical projections
 and is more red than pink and seldom has yellow on its body.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

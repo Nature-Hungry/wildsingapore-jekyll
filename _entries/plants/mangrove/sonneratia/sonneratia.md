@@ -1,11 +1,13 @@
 ---
-title: "Sonneratia "
+title: 'Sonneratia '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sonneratia, lythraceae. sonneratiaceae, tree, mangrove, mangroves, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Lythraceae
 genus: Sonneratia
-species: ""
+species: ''
 attributes: []
 inat_id: 182095
 stateofmatter: Life
@@ -16,69 +18,69 @@ class: Magnoliopsida
 order: Myrtales
 updated: Jan 2013
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngmangroves)</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090611prpd3865m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090611prpd3865m3.jpg
   caption: |
     <p>Conical pneumatophores.</p>
     <p>Pasir Ris, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/081211smkd2766m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/081211smkd2766m3.jpg
   caption: |
     <p>Side roots from the pneumatophore.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
   caption: |
     <p>Sunbird nesting in Berembang.</p>
     <p>Pasir Ris Park, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
   caption: |
     <p>Atlas moth cocoon on Berembang.</p>
     <p>Pasir Ris Park, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
   caption: |
     <p>Ripe fruit falls and splits open releasing seeds.</p>
     <p>Kranji Nature Trail, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
   caption: |
     <p></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -89,7 +91,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

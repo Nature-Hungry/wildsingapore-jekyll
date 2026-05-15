@@ -1,12 +1,24 @@
 ---
 title: Snapping shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: snapping, shrimp, alpheidae, alpheid, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 43, 47, 48, 79, 106, 108]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 43
+- 47
+- 48
+- 79
+- 106
+- 108
 family: Alpheidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 51196
 stateofmatter: Life
 kingdom: Animalia
@@ -22,18 +34,18 @@ infraorder: Caridea
 superfamily: Alpheoidea
 updated: Dec 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngshrimps)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3c.jpg
   caption: |
     <p>One pincer greatly enlarged.</p>
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/060527sjid2315m3.jpg
   caption: |
     <p>Sideview of the shrimp St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/020528labd9910m3a.jpg
   caption: |
     <p>Using the small pincer to carry things.</p>
     <p>Labrador, May 02 The science of The Sound: A study of one species of snapping shrimp shows the pincer has a moveable 'finger' held at right angles to a matching 'socket' on the opposite side.</p>
@@ -44,15 +56,15 @@ page_images:
     <p>The bubbles rapidly collapse (called cavitation), releasing an extremely loud sound as well as a flash of light, and for a brief moment, at high temperatures.</p>
     <p>These findings are possibly useful for naval applications as the sound of snapping shrimps seriously interfere with sonar detection in shallow seas.</p>
     <p>In fact, snapping shrimps have been studied since World War II as their sounds interfered with the detection of hostile submarines!</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/050722cjg9923m3.jpg
   caption: |
     <p>This shrimp shares its burrow with a brittle star.</p>
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
   caption: |
     <p>A <a href="../../../crustacea/othercrust/shrimp/alphmanyband">Many-band snapping shrimp</a> sharing a burrow with a <a href="../../../vertebrates/fish/gobiidae/leptocephalus">Pink-speckled shrimp-goby</a>.</p>
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
   caption: |
     <p>A <a href="../../../crustacea/othercrust/shrimp/alphmanyband">Many-band snapping shrimp</a> sharing a burrow with a <a href="../../../vertebrates/fish/gobiidae/maudae">Saddled shrimp-goby</a>.</p>
     <p>Labrador, May 05.</p>
@@ -62,22 +74,22 @@ page_images:
     <p>With keener eyesight, the goby keeps a look-out while the shrimp busily digs out and maintains their shared home.</p>
     <p>The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby.</p>
     <p>When the goby darts into the burrow, the shrimp is right behind it!</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphornament/070304hntg7902m3.jpg
   caption: |
     <p><a href="alphornament">Ornamented snapping shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphsmooth/050621skdg7874m3.jpg
   caption: |
     <p><a href="alphsmooth">Smooth snapping shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphmanyband/080705bbd7018m3.jpg
   caption: |
     <p><a href="alphmanyband">Many-band snapping shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphcommensal/020710chgcpd1738m3.jpg
   caption: |
     <p><a href="alphcommensal">Commensal snapping shrimp</a> in sponges and under stones</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
   caption: |
     <p><a href="alphballsoft">White soft coral snapping shrimp</a>in ball flowery soft corals</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -88,7 +100,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

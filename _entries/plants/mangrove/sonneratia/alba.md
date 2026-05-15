@@ -1,9 +1,17 @@
 ---
-title: "Perepat "
+title: 'Perepat '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "perepat, bedada, sonneratia, alba, lythraceae.sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: perepat, bedada, sonneratia, alba, lythraceae.sonneratiaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 61, 68]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 61
+- 68
 family: Lythraceae
 genus: Sonneratia
 species: alba
@@ -16,34 +24,34 @@ order: Myrtales
 inat_id: 196661
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/121216ubnd2662m3.jpg
   caption: |
     <p>Young leaf pale green with pink blush at tips.</p>
     <p>Pulau Ubin, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/050626smkg4450m3.jpg
   caption: |
     <p>Calyx sepals pinkish on the inside.</p>
     <p>Pulau Semakau, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5551m3.jpg
   caption: |
     <p>Petals inconspicuous, white.</p>
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5509m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5509m3.jpg
   caption: |
     <p>Flower just about to bloom.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090411lckd9580m3.jpg
   caption: |
     <p>Calyx lobes bend backwards towards the stalk.</p>
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090412hntd9894m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090412hntd9894m3.jpg
   caption: |
     <p>Opened fruit on the shore.</p>
     <p>Pulau Hantu, Apr 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/alba/090117smkd5432m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -121,7 +129,7 @@ Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=arti
 a girth of 5m and height 14m, another with a girth 4.25m and height
 16m.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

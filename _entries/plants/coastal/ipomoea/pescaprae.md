@@ -1,9 +1,15 @@
 ---
 title: Beach morning glory
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "morning, glory, ipomoea, pescaprae, convolvulaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: morning, glory, ipomoea, pescaprae, convolvulaceae, creeper, plant, bush,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 39]
+attributes:
+- 18
+- 21
+- 36
+- 39
 family: Convolvulaceae
 genus: Ipomoea
 species: pes-caprae
@@ -18,28 +24,28 @@ tribe: Ipomoeeae
 inat_id: 60879
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8943m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090405smkd8945m3b.jpg
   caption: |
     <p>Lobed leaf may resemble a hoof print.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/100117chgec0527m3.jpg
   caption: |
     <p>Opened fruit capsules.</p>
     <p>Changi, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5717m3.jpg
   caption: |
     <p>Fruit capsule.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -59,7 +65,7 @@ page_images:
     <p>- Polunin, Ivan.</p>
     <p>1987.</p>
     <p>[Plants</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Times Editions.</p>
@@ -67,13 +73,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/ipomoea/pescaprae/090118smkd5798m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -145,7 +151,7 @@ have a diuretic effect. According to Burkill, animals will eat the
 leaves but they will taint the milk of cows. The leaves are also fed
 to pigs.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

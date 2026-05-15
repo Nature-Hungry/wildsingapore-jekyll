@@ -1,7 +1,9 @@
 ---
 title: Common sun skink
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "common, sun, skink, eutropis, multifasciata, scincidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: common, sun, skink, eutropis, multifasciata, scincidae, vertebrate, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Scincidae
 genus: Eutropis
@@ -19,22 +21,22 @@ infraorder: Scincomorpha
 subfamily: Mabuyinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, May 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/090905sbwrd0091m3b.jpg
   caption: |
     <p>With black stripes on the back and white dots on the sides.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/multifasciata/020527sbwrcpd9548m6l.jpg
 ---
 
 
@@ -57,7 +59,7 @@ the undergrowth and leaf litter in vegation near the shores. According
 to Baker, in Singapore it is widespread in wooded areas, mangroves
 and parks. It was previously known as *Mabuya multifasciata*.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 **Features:**Total length
 to 35cm. A long body, somewhat angular, covered with shiny, smooth

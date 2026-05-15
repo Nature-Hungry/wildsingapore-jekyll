@@ -1,11 +1,12 @@
 ---
-title: "Worm-eels "
+title: 'Worm-eels '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: worm, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Ophichthidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49249
 stateofmatter: Life
@@ -18,16 +19,16 @@ order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
   caption: |
     <p><a href="wormeel.htm">Worm-eels</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/081231sisd4444m3.jpg
   caption: |
     <p><a href="evermann.htm">Evermann's snake-eel</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2813m3a.jpg
   caption: |
     <p><a href="mangrove.htm">Mangrove snake-eel</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -91,7 +92,7 @@ squids and cuttlefishes](../../../mollusca/cephalopoda.htm) and crustaceans.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

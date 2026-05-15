@@ -1,12 +1,18 @@
 ---
 title: Tree climbing crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tree, climbing, crab, episesarma, sesarmidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Sesarmidae
 genus: Episesarma
-species: ""
+species: ''
 inat_id: 143092
 stateofmatter: Life
 kingdom: Animalia
@@ -24,35 +30,35 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
   caption: |
     <p>About to munch on flowers?</p>
     <p>Sungei Buloh Wetland Reserve, Sep 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4185m3.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031213sbwrd0047m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/031204prpd0094m3.jpg
   caption: |
     <p>Singapore tree climbing crab (Episesarma singaporense) has all red pincers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/101226krjd4307m3a.jpg
   caption: |
     <p>Violet tree climbing crab (Episesarma versicolor) has purple-white pincers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110419krjd9186m3.jpg
   caption: |
     <p>Pink tree climbing crab (Episesarma chentongense) has red-white pincers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/110910cjlks.JPG
   caption: |
     <p>Chek Jawa, Sep 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6146753647/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/120908cjlks.JPG
   caption: |
     <p>Chek Jawa, Sep 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7961124836/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/141227prplks.JPG
   caption: |
     <p>Pasir Ris Park, Dec 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/16163390685/in/album-72157649634263729/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/episesarma/030928sbwad0054m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -95,7 +101,7 @@ help recirculate and oxygenate water in the gill chambers. In this
 way, these crabs can breathe air and stay out of the water for some
 time.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,12 @@
 ---
-title: "Melongena snails "
+title: 'Melongena snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "melongena, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: melongena, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Melongenidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 637739
 stateofmatter: Life
@@ -17,13 +18,13 @@ order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
   caption: |
     <p><a href="cochlidium.htm">Spiral melongena</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/ternatanus/140812chg4d8531m3.jpg
   caption: |
     <p><a href="ternatanus.htm">Ternate false fusus</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/melogenidae/cochlidium/020823smbgd4228m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -72,7 +73,7 @@ on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

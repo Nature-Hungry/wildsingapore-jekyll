@@ -1,11 +1,13 @@
 ---
 title: Frilly anemones
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Phymantidae
 genus: Phymanthus
-species: ""
+species: ''
 attributes: []
 inat_id: 361297
 stateofmatter: Life
@@ -18,60 +20,60 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3b.jpg
   caption: |
     <p>Only one side of the tentacle bears 'branches'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/080422smkd1433m3.jpg
   caption: |
     <p>Body column pale becoming darker near the top with rows of white spots.</p>
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/201019sjijll5.jpg
   caption: |
     <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806534721295&set=a.10157806532326295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/130527tmlks.JPG
   caption: |
     <p>A pair of <a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone</a> shrimps seen in this anemone.</p>
     <p>Tanah Merah, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/13989032809/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/others/100711cyrd8263m3.jpg
   caption: |
     <p>Bleaching frilly anemone Cyrene Reef, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100809cyrd9724m3.jpg
   caption: |
     <p>Bleaching frilly anemone Cyrene Reef, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/sixpoint/050820bbg1791m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/band/050808sntg0904m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/060729sisd5407m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/smooth/050808sntg0859m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/050808sntg0899m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/plain/110522bbbd2711m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -125,7 +127,7 @@ to tell apart feathery animals](../../glossary/feathery.htm) on our shores.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,15 +1,20 @@
 ---
 title: Hairy spoon seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hairy, spoon, halophila, decipiens, complex, minor, hydrocharitaceae, seagrass,
+  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Hairy spoon seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: decipiens
-summary: "Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging in pairs. Minute serrations on edges and minute hairs on both sides of the leaves. Seen in deeper waters in our Southern islands."
-coverimg: "https://live.staticflickr.com/3788/9247400430_866983b68c.jpg"
+summary: Spoon shaped leaves, longer and the width, 0.5 wide, 1-2.5cm long, emerging
+  in pairs. Minute serrations on edges and minute hairs on both sides of the leaves.
+  Seen in deeper waters in our Southern islands.
+coverimg: https://live.staticflickr.com/3788/9247400430_866983b68c.jpg
 inat_id: 163512
 stateofmatter: Life
 kingdom: Plantae
@@ -19,33 +24,33 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/200728bb.jpg
   caption: |
     <p>Beting Bronok, Jul 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/120605lygd4072m3.jpg
   caption: |
     <p>Growing on carpet on <a href="../../mollusca/bivalvia/mytilidae/musculista">Nest mussels</a>.</p>
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/070522skdg9587.jpg
   caption: |
     <p>Pulau Sekusu, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0665m3a.jpg
   caption: |
     <p>Minute hairs on the leaf.</p>
     <p>Changi Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/090427chgd0666m3.jpg
   caption: |
     <p>Leaf blade longer than wide.</p>
     <p>Changi Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2336m3a.jpg
   caption: |
     <p>Flower.</p>
     <p>Pasir Ris Park, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2337m3.jpg
   caption: |
     <p>Fruit Pasir Ris Park, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg"
-  caption: |
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/decipiens/130823prpd2354m3.jpg
+  caption: |-
     <p>Seeds.</p>
     <p>Pasir Ris Park, Aug 13</p>
 ---
@@ -112,7 +117,7 @@ recorded in Singapore in 2008, from specimens found off Pulau Semakau
 at a depth of about 8m. It has since been sighted at other locations
 in waters off the Southern islands and on the intertidal in the North.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

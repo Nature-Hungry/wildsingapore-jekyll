@@ -1,11 +1,12 @@
 ---
 title: Tubeworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tube, worm, tubeworm, bristle, polychaete, annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tube, worm, tubeworm, bristle, polychaete, annelida, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Vermetidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 51437
 stateofmatter: Life
@@ -17,14 +18,14 @@ order: Littorinimorpha
 superfamily: Vermetoidea
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
   caption: |
     <p>Various kinds of tubes made by worms.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg
   caption: |
     <p>Tube washed ashore Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/120410chgd9214m3.jpg
   caption: |
     <p>Some tubeworms are more complex looking!</p>
     <p>Changi, Apr 12 Why live in a tube?</p>
@@ -33,27 +34,27 @@ page_images:
     <p>Tubes may go quite deep to where it remains moist and cool at low tide.</p>
     <p>Tubes that project some distance above the bottom may allow the worms to reach clean, oxygenated water above a muddy or sandy bottom.</p>
     <p>Building a tube on a hard surface also allows worms to live in places where they cannot burrow (see <a href="../polychaeta/serpulidae">keelworms</a>).</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG
   caption: |
     <p>Being eaten by a mudskipper Chek Jawa, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/great-day-guiding-at-chek-jawal">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg
   caption: |
     <p>Reaching out to grab a mangrove propagule.</p>
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
   caption: |
     <p>Forming shaggy mats may help anchor sediments Chek Jawa, Jan 06 Role in the ecosystem:Tubeworms are eaten by many animals higher up in the food chain.</p>
     <p>Many kinds of shorebirds, for example, feed on worms, including tubeworms, for sustenance to make their long migratory journeys.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01934m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01934m3.jpg
   caption: |
     <p><a href="../polychaeta/gregarious">Gregarious tubeworms</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/020627chgd0515m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/strawtube/020627chgd0515m3.jpg
   caption: |
     <p><a href="../polychaeta/strawtube">Straw tubeworms</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg
   caption: |
     <p><a href="../polychaeta/diopatra">Solitary tubeworm</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/tubeworm/tubeworm/020225cjd7437m3.jpg
 ---
 
 
@@ -127,7 +128,7 @@ include [peacock
 anemones](../../cnidaria/others/ceriantharia/ceriantharia) and [vermetid
 snails](../../mollusca/gastropoda/vermetidae/vermetidae). More on [how to tell
 apart hard tubes](../../glossary/tubehard) made by worms from those made by other animals.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Tubeworm babies:** Most tubeworms
 have separate genders. In some, eggs and sperm are released into the

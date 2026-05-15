@@ -1,9 +1,15 @@
 ---
 title: Black-spotted lagoon-goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, spotted, lagoon, goby, istigobius, goldmanni, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, spotted, lagoon, goby, istigobius, goldmanni, fish, gobiidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [25, 47, 106, 108]
+attributes:
+- 25
+- 47
+- 106
+- 108
 family: Gobiidae
 genus: Istigobius
 species: goldmanni*
@@ -19,33 +25,33 @@ suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m6l.jpg
   caption: |
     <p>Pairs of close-set round black spots along the side of the body.</p>
     <p>Tanah Merah, Jul 09 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/170624cjmn.jpg
   caption: |
     <p>Chek Jawa, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/24083414027/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/141223tusjll3m3.jpg
   caption: |
     <p>Tuas, Dec 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10152597733211295.1073741843.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/171009blymn3.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110220lazmn.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6904300150/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/250727smkwrk4.jpg
   caption: |
     <p>Pulau Semakau (West), Jul 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162822850792906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/110517tptik7m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/sets/72157626616789601/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/090706tmftd6605m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -85,7 +91,7 @@ by a row of pairs of close-set round black spots along the side of the body.
 **Sometimes mistaken for** the [Ornate
 lagoon-goby](ornatus.htm) which has 'dashed' lines
 on the sides of the body instead of pairs of spots.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

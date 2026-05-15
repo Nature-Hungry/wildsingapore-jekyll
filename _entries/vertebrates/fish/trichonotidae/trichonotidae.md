@@ -1,12 +1,19 @@
 ---
 title: Sand-divers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, diver, fish, trichonotidae, trichonotus, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 43, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
+- 116
 family: Trichonotidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 49412
 stateofmatter: Life
 kingdom: Animalia
@@ -18,42 +25,42 @@ order: Gobiiformes
 suborder: Trichonotoidei
 updated: Nov 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m6l.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/110507cyrd1170m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/110507cyrd1170m6l.jpg
   caption: |
     <p>Underside of a dead fish.</p>
     <p>Cyrene Reef, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/101205cyrs01793m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/101205cyrs01793m3.jpg
   caption: |
     <p>Lower jaw slightly longer, Fine gold 'eyelashes'.</p>
     <p>Cyrene Reef, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/220616chgedc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/220616chgedc4.jpg
   caption: |
     <p>Changi East (Lost Coast), Jun 22 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5017110315072371&set=a.5017125578404178">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/240723chgerk2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/240723chgerk2a.jpg
   caption: |
     <p>Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161288903157906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6a.jpg
   caption: |
     <p>East Coast Park Sailing Centre, May 21</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/210529ecpgtch6.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487220108713&set=a.10159487267278713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/240509ecptt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/240509ecptt1.jpg
   caption: |
     <p>East Coast Park Sailing Centre, May 24 Photo shared by Tommy Tan on <a href="https://www.facebook.com/photo/?fbid=10234149546458370&set=a.10234149519977708">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch1m3.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153507930658713.1073741968.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/150731nsrcctch2m3.jpg
   caption: |
     <p>East Coast Park, Jul 15</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/trichonotidae/trichonotidae/040703sisg1005m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -94,7 +101,7 @@ a long and slender body, somewhat flattened sideways. The pointed
 snout had a lower jaw that is longer than the upper jaw. Some have fine
 gold 'eyelashes' over large eyes. The male fish has long filamentous
 extensions on his dorsal fin.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

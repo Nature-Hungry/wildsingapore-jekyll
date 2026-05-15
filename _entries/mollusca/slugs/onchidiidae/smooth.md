@@ -1,10 +1,12 @@
 ---
-title: "Smooth little onch slug "
+title: 'Smooth little onch slug '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: slug, seaslug, onch, onchidium, onchidiidae, gastropod, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 family: Onchidiidae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 54928
@@ -20,28 +22,28 @@ order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
   caption: |
     <p>Pulau Sarimbun, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
   caption: |
     <p>Eyes on long thin stalks</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
   caption: |
     <p>Broad foot on the underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050609chgg7332m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050607chgg7329m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/080301ubnmn.jpg
   caption: |
     <p>Pulau Ubin, Mar 08Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2301129551/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +84,7 @@ walls under a jetty or bridge. Often seen in groups of small numbers.
 very rounded with a rather smooth skin with small regular bumps. Generally
 greyish or brown to black. Sometimes with lighter spots. Eyes on long
 thin stalks. The underside is white with a broad foot.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

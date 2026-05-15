@@ -1,10 +1,11 @@
 ---
 title: Delicate hydroid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: candy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,56 +13,56 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
   caption: |
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050722cjg9836m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050722cjg9836m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050722cjg9836m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050720sntg9553m3.jpg
   caption: |
     <p>Sentosa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050720sntg9553m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050720sntg9553m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/060527sjid2107m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/060527sjid2107m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/060527sjid2107m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100629pdrd7406m3a.jpg
   caption: |
     <p>Terumbu Pempang Darat, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/090625bsrd5219m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/091231biod7088m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/091231biod7088m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/091231biod7088m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100811slud0097m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100811slud0097m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/100811slud0097m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -103,7 +104,7 @@ surface. Pale brown.
 worm](../../../worm/polychaeta/sabellidae). Here's more on how to [tell
 apart feathery animals](../../../glossary/feathery).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

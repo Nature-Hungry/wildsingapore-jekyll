@@ -1,37 +1,39 @@
 ---
-title: "Wooly elysia slug (Elysia) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Wooly elysia slug (Elysia) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: wooly, elysia, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiidae,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7318m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7321m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3c.jpg
   caption: |
     <p>White knobs possibly the penis?</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/040508skdbd0108m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -66,7 +68,7 @@ info on elysia slugs](elysiidae.htm)
 About 2cm long.
 Green body with only has a black margin around the parapodia (no orange
 margin). Little black spots. *Pulau Sekudu, May 04*
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

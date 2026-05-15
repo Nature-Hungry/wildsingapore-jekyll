@@ -1,11 +1,12 @@
 ---
 title: Sea mussels
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mussel, clam, shell, mytilidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Mytilidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50600
 stateofmatter: Life
@@ -18,14 +19,14 @@ order: Mytilida
 superfamily: Mytiloidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
   caption: |
     <p><a href="viridis.htm">Green mussels</a> growing on a large boulder.</p>
     <p>Changi, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070803cjd5010m3.jpg
   caption: |
     <p><a href="musculista.htm">Nest mussels</a> can form vast mats Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/070704skdd3544m3.jpg
   caption: |
     <p>Tiny <a href="viridis.htm">Green mussels</a> growing among tinier <a href="musculista.htm">Nest mussels</a>.</p>
     <p>Pulau Sekudu, Jul 07 What do they eat?</p>
@@ -33,19 +34,19 @@ page_images:
     <p>At high tide, they open their shells a little.</p>
     <p>They then generate a current of water through the shell and sieve out the food particles with enlarged gills.</p>
     <p>When the tide goes out, they clamp up their shells tightly to prevent water loss.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/031207cjd0034m3.jpg
   caption: |
     <p><a href="viridis.htm">Green mussels</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/modiolus/130820skdd1497m3.jpg
   caption: |
     <p><a href="modiolus.htm">Horse mussels</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
   caption: |
     <p><a href="xenostrobus.htm">Little black mussels</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/musculista/070704skdd3541m3.jpg
   caption: |
     <p><a href="musculista.htm">Nest mussels</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/viridis/040121chgd0031m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -96,7 +97,7 @@ Sea mussels are often found in colonies of a large number of individuals. [Nest 
 They weave a nest out of byssus threads and mud. Date mussels (*Lithophaga* sp.) create a safe hiding place for themselves by drilling into dead
 coral and even concrete by rotating their shells and secreting an
 acid.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Sea mussels are among
 the favourite seafood of people everywhere. The [Green

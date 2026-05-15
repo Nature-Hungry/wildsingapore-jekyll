@@ -1,11 +1,13 @@
 ---
-title: "Periwinkles "
+title: 'Periwinkles '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: periwinkle, littorinidae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Littorinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 48918
 stateofmatter: Life
@@ -17,45 +19,45 @@ order: Littorinimorpha
 superfamily: Littorinoidea
 updated: Aug 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fnggastropods.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/others/050822cjg2240m3.jpg
   caption: |
     <p>Several kinds of periwinkles may be found together.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/050502cjg5584m3.jpg
   caption: |
     <p>Like other snails, they have a broad foot and tentacles.</p>
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/050513labg6424m3.jpg
   caption: |
     <p>A thin operculum.</p>
     <p>Labrador, May 05 Surviving the low tide: At low tide, periwinkles attach the lip of the shell to the surface with mucus then seal the shell opening tightly with a thin, horny operculum.</p>
     <p>Don't pick periwinkles off a rock or a mangrove tree!</p>
     <p>Left unattached, they may wash away when the tide comes in and they will die.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3.jpg
   caption: |
     <p>Kranji, Mar 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/130317krjd4625m3a.jpg
   caption: |
     <p>Mucus strands used to stick onto a tree.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/nodilittorina/040706lzrd2452m3.jpg
   caption: |
     <p><a href="nodilittorina.htm">Knobbly periwinkle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/rock/041031cjd7944m3.jpg
   caption: |
     <p><a href="rock.htm">Rock periwinkle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3a.jpg
   caption: |
     <p><a href="round.htm">Round periwinkle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/mangrove/070304hntg7887m3.jpg
   caption: |
     <p><a href="mangrove.htm">Mangrove periwinkle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/050327sbwrg3810m3.jpg
   caption: |
     <p><a href="melanostoma.htm">Black-mouth mangrove periwinkle</a></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,7 +68,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

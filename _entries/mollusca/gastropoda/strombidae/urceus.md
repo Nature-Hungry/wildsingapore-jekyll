@@ -1,9 +1,18 @@
 ---
 title: Black-lipped conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, lip, conch, strombus, canarium, urceus, strombidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 64, 71, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 64
+- 71
+- 100
+- 111
+- 123
 family: Strombidae
 genus: Canarium
 species: urceus
@@ -17,52 +26,52 @@ order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
   caption: |
     <p>Kusu Island, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7823m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/090512tmlks3m3.JPG
   caption: |
     <p>Tanah Merah, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/exploring-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220519ecpbrk4.jpg
   caption: |
     <p>East Coast Park-Marina East, May 22Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159752012977906&set=a.10159752009057906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/181126lablks.jpg
   caption: |
     <p>Labrador, Nov 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156802114803158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100103tkkjk6m3.jpg
   caption: |
     <p>Pulau Tekukor, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4237867428/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/230508srpky1.jpg
   caption: |
     <p>Sentosa Serapong, May 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168333130710112&set=a.10168333134805112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/221127lazjk3.jpg
   caption: |
     <p>Lazarus (Eagle Bay), Nov 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=6373551399324844&set=a.6373553772657940">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110220lazjk1m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/02/110220-lazarus-and-seringat-kias.html">his blog</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170211cyrmn.jpg
   caption: |
     <p>Cyrene Reef, Feb 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/46961579905/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/170501tsmkmn1.jpg
   caption: |
     <p>Terumbu Semakau, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/100518bbbjk5m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100518-beting-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/110522bbblks3m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/200310bbbky3.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163754487780112&set=a.10163754415345112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/220201brklks15.jpg
   caption: |
     <p>Pulau Berkas, Feb 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482983158&set=a.10159700487188158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/urceus/050611kusg7811m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -118,7 +127,7 @@ around the edges of the shell's underside. Body greenish
 sometimes with white or with beige spots. Large eyes on
 eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Human uses:** The snails are actively

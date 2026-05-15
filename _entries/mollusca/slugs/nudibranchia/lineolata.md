@@ -1,7 +1,9 @@
 ---
 title: Lined chromodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chromodoris, lineolata, lined, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: chromodoris, lineolata, lined, nudibranch, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Chromodoris
@@ -23,122 +25,122 @@ superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg
   caption: |
     <p>Sisters Island, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/050917smkg2532m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/050917smkg2532m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/050917smkg2532m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/050917smkg2532m3.jpg
   caption: |
     <p>About 12 animals gathered together!</p>
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190608smkll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190608smkll1.jpg
   caption: |
     <p>Head first into a hole in a sponge, probably eating the sponge.</p>
     <p>Pulau Semakau, Jun 19 Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2328774633812529&set=a.2328773393812653&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/080422smkd1494m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/080422smkd1494m3.jpg
   caption: |
     <p>A pair in mating position.</p>
     <p>Pulau Semakau, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/120508skdjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/120508skdjk.jpg
   caption: |
     <p>Egg coils next to a pair, laid by them?</p>
     <p>Pulau Sekudu,May 12 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7157326960/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/260217bsisjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/260217bsisjll1.jpg
   caption: |
     <p>A really tiny one (2mm) Big Sisters Island, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162668128201295&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/101207ubnlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/101207ubnlks1m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/back-at-ubins-other-shores.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190706skdjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190706skdjll2.jpg
   caption: |
     <p>Pulau Sekudu, Jul 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156517897421295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210626cjtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210626cjtch4.jpg
   caption: |
     <p>Chek Jawa, Jun 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159555831123713&set=a.10159555848543713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/120508skdjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/120508skdjk5m3.jpg
   caption: |
     <p>Pulau Sekudu, May 12Photo shared by James Koh on <a href="http://singaporenature.wordpress.com/2012/05/08/120508-sekudu/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/150706skdtch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/150706skdtch2m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153441356198713.1073741964.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/160706skdlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/160706skdlks2.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190704bbjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190704bbjll3.jpg
   caption: |
     <p>Beting Bronok, Jul 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156512853051295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/180616bbtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/180616bbtch2.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156581479858713&set=a.10156581443943713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220716bblks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220716bblks2.jpg
   caption: |
     <p>Beting Bronok, Jul 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159991042548158&set=a.10159991052193158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220618tmftvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220618tmftvc2.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159145154827945&set=a.10159145289027945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/250714srptccn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/250714srptccn5.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/250201bsisjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/250201bsisjll4.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared byJianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161140636471295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/201116lazlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/201116lazlks2.jpg
   caption: |
     <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158766768158158&set=a.10158766770633158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210824tkkjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210824tkkjll1.jpg
   caption: |
     <p>Pulau Tekukor, Aug 21Photo shared byJianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158474198856295&set=a.10158474195066295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190707thntjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/190707thntjk.jpg
   caption: |
     <p>Terumbu Hantu, Jul 19Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/48218924862/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/240212sjitch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/240212sjitch2.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161409773958713&set=a.10161409802193713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/240212sjijll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/240212sjijll3.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10160088466511295&set=a.10160088476676295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210403cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210403cyrjll1.jpg
   caption: |
     <p>Cyrene, Apr 21Photo shared byJianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158180897636295&set=a.10158180895236295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/081212cyrtch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/081212cyrtch.jpg
   caption: |
     <p>Cyrene Reef, Dec 08Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/3104021361/">flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210823smkejll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210823smkejll1.jpg
   caption: |
     <p>Pulau Semakau (East), Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158472754426295&set=a.10158472745926295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/150606trytch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/150606trytch1m3.jpg
   caption: |
     <p>Terumbu Raya, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/100502trytch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/100502trytch3m3.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-raya.html">her blog</a> .</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220420tbjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220420tbjt2.jpg
   caption: |
     <p>Terumbu Bemban, Apr 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10159952464528119&set=a.10159952467098119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/100617tbtch4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/100617tbtch4m3.jpg
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hopping.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/110717tbjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/110717tbjk6m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5945869228/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/170514bbbtch5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/170514bbbtch5.jpg
   caption: |
     <p>Beting Bemban Besar, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155368581973713.1073742086.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/251008bbbyls2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/251008bbbyls2.jpg
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/permalink.php?story_fbid=122099217177062825&id=61581884764116&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/140601tpltch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/140601tpltch1m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jun 14Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10152460347913713.1073741889.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220103tplvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/220103tplvc2.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158866567742945&set=a.10158866576687945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210502tptvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/210502tptvc3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158447594437945&set=a.10158447654442945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lineolata/060212sisg4799m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -182,7 +184,7 @@ and the rhinophores are maroon to pink. The similar *Chromodoris
 striatella* has a white body with fine black lines and a white
 line along the inner edge of the orange border.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Sometimes

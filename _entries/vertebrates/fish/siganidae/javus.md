@@ -1,9 +1,15 @@
 ---
 title: Streaked rabbitfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: streaked, rabbitfish, rabbit, fish, siganus, javus, siganidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Siganidae
 genus: Siganus
 species: javus
@@ -17,26 +23,26 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
   caption: |
     <p>Tanah Merah, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/020811cjd0467m6l.jpg
   caption: |
     <p>Chek Jawa, Aug 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/080603tmlks05m3.jpg
   caption: |
     <p>East Coast Park, Jun 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091010tmlks4m6l.jpg
   caption: |
     <p>Tanah Merah, Oct 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/10/finally-saron-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/090512tmjk1m6l.jpg
   caption: |
     <p>Tanah Merah, May 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>New Holland Publishers.</p>
     <p>434pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/javus/091206tmd5720m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,7 +84,7 @@ Spinefoot after the spines on its pelvic fins, a unique feature of
 this family. It has tiny scales. It is distinguished by the many small white spots on the upper side
 of the body and fine longitudinal lines on the lower part of the body.
 The head and fins are often yellow and the tail fin is dark.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

@@ -1,9 +1,17 @@
 ---
 title: Blue-spotted mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blue, spotted, mudskipper, mud, skipper, fish, boleophthalmus, boddarti,
+  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Boleophthalmus
 species: boddarti
@@ -19,23 +27,23 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
   caption: |
     <p>Adult females have elongated spines on the first dorsal fin.</p>
     <p>Pulau Ubin, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/100124cjd8051m6l.jpg
   caption: |
     <p>Chek Jawa, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/110828seld0022.jpg
   caption: |
     <p>Seletar, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/061216sbwrmn.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Dec 06Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/324420653/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/101125prplks1m3.jpg
   caption: |
     <p>Pasir Ris, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/11/back-to-pasir-ris-shore.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -75,7 +83,7 @@ seen about 6-8cm. Brown with 6-7 dark diagonal bars along the body.
 Lots of tiny blue spots on the 'cheeks', along the sides of the body
 and on the dorsal and other fins. In adult females, the first dorsal fin has elongated
 spines that stick out like long filaments.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **What does it eat?** It grazes on

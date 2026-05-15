@@ -1,11 +1,12 @@
 ---
 title: Bean-shaped venus clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veneridae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50588
 stateofmatter: Life
@@ -20,31 +21,31 @@ order: Venerida
 superfamily: Veneroidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6231m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6231m3a.jpg
   caption: |
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2891m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2891m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050412tusd2449m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050412tusd2449m3.jpg
   caption: |
     <p>Tuas, Apr 05 Dead clams.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050412tusd2449m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050412tusd2449m3a.jpg
   caption: |
     <p>Dead clams.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/190206prpll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/190206prpll1.jpg
   caption: |
     <p>Pasir Ris, Feb 19Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2129423477080980&set=a.2129422790414382&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/251107chgmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/251107chgmn1.jpg
   caption: |
     <p>Changi Carpark 1, Nov 25 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/050511cftg6230m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -83,7 +84,7 @@ Often with a pattern of fine V-shapes. Some *Paphia* species
 have this shape, but other venus clams species may also have this
 shape.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,12 +1,14 @@
 ---
 title: Omelette leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sarcophyton, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 attributes: []
 family: Alcyoniidae
 genus: Sarcophyton
-species: ""
+species: ''
 inat_id: 155098
 stateofmatter: Life
 kingdom: Animalia
@@ -16,79 +18,79 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0618m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0618m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8147m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8151m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8151m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/120621cyrd5934m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100812tpld0375m3.jpg
   caption: |
     <p>Colony usually mushroom shaped.</p>
     <p>Terumbu Pempang Laut, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/160724tpto7240179m3.jpg
   caption: |
     <p>Bleaching and 'melting' colony during mass coral bleaching.</p>
     <p>Terumbu Pempang Tengah, Jul 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ctenophora/coeloplana/120722cyrd8101m3.jpg
   caption: |
     <p>Tiny <a href="../../ctenophora/coeloplana.htm">ctenophores</a> sometimes seen.</p>
     <p>Cyrene Reef, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/140518tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/140518tmlks.JPG
   caption: |
     <p>Tanah Merah, May 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25409931642/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/220618tmftlks20.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943827323158&set=a.10159943838013158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100130brkd8474m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091204pawd5270m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100810sngd9982m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5501m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5502m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100613sngd5502m3.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100811slud0054m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/091205sudd5501m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/100131slud8803m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -150,7 +152,7 @@ found by the long fine strings that they produce.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

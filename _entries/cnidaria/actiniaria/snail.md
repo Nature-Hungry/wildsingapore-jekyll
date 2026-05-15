@@ -1,9 +1,13 @@
 ---
 title: Snail-hitching  anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae, actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: snail, mollusca, gastropod, anemone, paraiptasia, radiata, aiptasiidae,
+  actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Aiptasiidae
 genus: Paraiptasia
 species: radiata
@@ -18,54 +22,54 @@ suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
   caption: |
     <p>Pulau Sekudu, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2379m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2379m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5386m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5384m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/110703cjd5384m3.jpg
   caption: |
     <p>Anemones stick out when snail is buried.</p>
     <p>Chek Jawa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7630m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7630m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7688m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080718wdld7688m3.jpg
   caption: |
     <p>Woodlands, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6458m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6458m3.jpg
   caption: |
     <p>Kranji, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6493m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6493m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090705krjd6492m6l.jpg
   caption: |
     <p>Not attached to snails.</p>
     <p>Kranji, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
   caption: |
     <p>Punggol, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1746136962169739&set=a.1746136788836423&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/251208chgrk6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/251208chgrk6.jpg
   caption: |
     <p>Changi, Dec 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set?vanity=richard.k.tiong&set=a.10163440955947906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/260216cnyrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/260216cnyrqo1.jpg
   caption: |
     <p>Coney Island, Oct 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955892726927468&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090822sislks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/090822sislks.JPG
   caption: |
     <p>Sisters Island, Aug 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4172811219/in/album-72157607725632221/">flickr</a></p>
-- url: "https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg"
+- url: https://live.staticflickr.com/2921/32974945200_26a7c5d455_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32974945200/ "Snail-hitching sea anemones on Mud whelk (Nassarius jacksonianus)")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/snail/080507skdd2382m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -115,7 +119,7 @@ shell occupied by a hermit crab](hermitsmall.htm).
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

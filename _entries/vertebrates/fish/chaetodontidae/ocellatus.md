@@ -1,9 +1,17 @@
 ---
 title: Kite butterflyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "kite, butterflyfish, butterfly, ocellate, coralfish, fish, parachaetodon, ocellatus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: kite, butterflyfish, butterfly, ocellate, coralfish, fish, parachaetodon,
+  ocellatus, chaetodontidae, chelmon, rostratus, parachaetodon, ocellatus, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [7, 9, 25, 42, 47]
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
 family: Chaetodontidae
 genus: Parachaetodon
 species: ocellatus
@@ -18,92 +26,92 @@ order: Acanthuriformes
 subfamily: Chaetodontinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
   caption: |
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080722cyrd8270m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080722cyrd8270m3.jpg
   caption: |
     <p>Juvenile seen among seagrasses.</p>
     <p>Cyrene Reef, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg
   caption: |
     <p>Seen near a <a href="../../../cnidaria/others/ceriantharia/ceriantharia.htm">cerianthid</a>.</p>
     <p>Changi, Jun 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg
   caption: |
     <p>Sometimes seen near <a href="../../../cnidaria/actiniaria/haddoni.htm">carpet anemones</a>.</p>
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/191214cjjt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/191214cjjt4.jpg
   caption: |
     <p>Sometimes seen near <a href="../../../cnidaria/actiniaria/haddoni.htm">carpet anemones</a>.</p>
     <p>Chek Jawa, Dec 19Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10156921023433576&set=a.10156921015753576&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200917prplks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200917prplks7.jpg
   caption: |
     <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625859073158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200917prplks13.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200917prplks13.jpg
   caption: |
     <p>Swimming near carpet anemone.</p>
     <p>Pasir Ris Park, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158625857483158&set=a.10158625872343158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/230803skdky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/230803skdky1.jpg
   caption: |
     <p>Swimming near carpet anemone.</p>
     <p>Pulau Sekudu, Aug 23From video shared by Kelvin Yong on <a href="https://www.facebook.com/734420111/videos/a.10168620780985112/1317037512584418">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/101011chglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/101011chglks1m3.jpg
   caption: |
     <p>Changi, Oct 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5077823053/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/201020chgsafmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/201020chgsafmn1.jpg
   caption: |
     <p>Changi, Oct 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157785572418660&set=a.10157785574688660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/251109chgsaflks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/251109chgsaflks5.jpg
   caption: |
     <p>Changi Creek, Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163557130478158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/230706bbccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/230706bbccn1.jpg
   caption: |
     <p>Beting Bronok, Jul 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10160566623333654/1004318697237902">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200627cnyrk6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200627cnyrk6.jpg
   caption: |
     <p>Coney Island, Jun 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158289090012906&set=a.10150265187972906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/120604pglhpy2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/120604pglhpy2m3.jpg
   caption: |
     <p>Punggol, Jun 12Photo shared by Heng Pei Yan on <a href="http://peiyansama.blogspot.sg/2012/06/eggy-crabby-feathery-punggol.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/150930prplig1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/150930prplig1m3.jpg
   caption: |
     <p>Punggol, Oct 15Photo shared by Law Ing Sind on <a href="https://www.facebook.com/law.ingsind/media_set?set=a.1142318349115906.1073741852.100000132558559&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/151031ecpmblks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/151031ecpmblks2.JPG
   caption: |
     <p>East Coast-Marine Bay, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23732581339/in/album-72157607745985508/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/171108ecpmblks16.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/171108ecpmblks16.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/090922labnml2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/090922labnml2m3.jpg
   caption: |
     <p>Labrador, Sep 09Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2009/09/fish-galore-at-labrador.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/171009labmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/171009labmn.jpg
   caption: |
     <p>Labrador, Oct 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49190723733/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/160410blylks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/160410blylks1.jpg
   caption: |
     <p>Berlayar Creek, Apr 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/26319998096/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/201019sjilks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/201019sjilks12.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158704042068158&set=a.10158704042413158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/070701hntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/070701hntlks.JPG
   caption: |
     <p>Pulau Hantu, Jul 07Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/2928328223/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200625tbdc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/200625tbdc2.jpg
   caption: |
     <p>Terumbu Hantu, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2917799531670137&set=a.2918046111645479&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/110731trylks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/110731trylks.jpg
   caption: |
     <p>Terumbu Raya, Jul 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6011199639/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/251008bbblvo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/251008bbblvo2.jpg
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -147,7 +155,7 @@ flat, circular disk-shaped, snout is blunt. 4 bands which are black, brown or br
 White-edged black bar at the base of the tail, with a smudged dark eye spot on the dorsal fin. Upper parts of the dorsal fin and body yellowish. Adults have a more pointed
 dorsal fin. It is also sometimes called the Ocellate coralfish.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

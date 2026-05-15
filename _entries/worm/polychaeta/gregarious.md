@@ -1,10 +1,11 @@
 ---
 title: Gregarious tubeworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: gregarious, tube, worm, tubeworm, polychaete, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,17 +13,17 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/080608cyrd5403m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/060114cjg3823m3a.jpg
   caption: |
     <p>Chek Jawa, Jan 06 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/gregarious/120111chgs01917m3.jpg
 ---
 
 
@@ -59,7 +60,7 @@ and their tubes might play a role in keeping sediments down and creating
 mounds that trap pools of water at low tide for small creatures to
 shelter in. Seagrasses and seaweeds often grow among the mat of tubes.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

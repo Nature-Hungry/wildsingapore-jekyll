@@ -1,13 +1,18 @@
 ---
 title: Puffy brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "puffy. brown, seaweed, weed, colpomenia, sinuosa, scytosiphonaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: puffy. brown, seaweed, weed, colpomenia, sinuosa, scytosiphonaceae, phaeophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
 genus: Colpomenia
 species: sinuosa*
-attributes: [41, 97, 98]
+attributes:
+- 41
+- 97
+- 98
 inat_id: 328391
 stateofmatter: Life
 kingdom: Chromista
@@ -17,32 +22,32 @@ subclass: Fucophycidae
 order: Ectocarpales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m3a.jpg
   caption: |
     <p>Crisp outer membrance encasing hollow interior.</p>
     <p>Sisters Islands, Nov 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3a.jpg
   caption: |
     <p>When submerged may have a fine hairy surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/090512tmftd1590m3.jpg
   caption: |
     <p>Tanah Merah, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/060128labg4051m3.jpg
   caption: |
     <p>Labrador, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101010scyrd1998m3.jpg
   caption: |
     <p>South Cyrene, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/101107tburrl.jpg
   caption: |
     <p>Terumbu Buran, Nov 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.138438626207538.37124.109257872458947/138439556207445/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/171009blyay1.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/120819cyrd0467m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -86,7 +91,7 @@ interior. The seaweed starts growing as a single rounded blob and
 as it gets bigger may form sheets with irregular wrinkled blobs or
 puffed up lobes. Colours range from beige to yellowish brown.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 According
 to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=64),

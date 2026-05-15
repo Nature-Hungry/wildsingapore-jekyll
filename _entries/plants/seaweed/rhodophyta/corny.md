@@ -1,13 +1,18 @@
 ---
 title: Corny red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomeiaceae
 genus: Palisada
 species: perforata*
-attributes: [50, 97, 98]
+attributes:
+- 50
+- 97
+- 98
 inat_id: 1027544
 stateofmatter: Life
 kingdom: Plantae
@@ -19,16 +24,16 @@ order: Ceramiales
 tribe: Laurencieae
 updated: Oct 15
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3b.jpg
   caption: |
     <p>Sunken pit at the tip of the bumps.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/corny/110422tbd9744m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -63,7 +68,7 @@ This purple maroon seaweed with tiny rows of bumps is sometimes seen on our Sout
   
 **Features:** Branching 'stems' (4-7cm long). Each 'stem' covered with tiny bumps that has a sunken pit at the tip. The bumps are arranged in rows almost like corn. Colour shades of purple from greenish to dark purple to purplish pink.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

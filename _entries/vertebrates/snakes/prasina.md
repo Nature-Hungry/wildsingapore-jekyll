@@ -1,7 +1,8 @@
 ---
 title: Oriental whip snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: oriental, whip, snake, ahaetulla, prasina, colubridae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Colubridae
 genus: Ahaetulla
@@ -18,26 +19,26 @@ suborder: Serpentes
 subfamily: Chrysopeleinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0044m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0044m3.jpg
   caption: |
     <p>Tongue threat display?</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0039m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0039m6la.jpg
   caption: |
     <p>A long thin tail.</p>
     <p>Chek Jawa, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/110402sbwrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/110402sbwrmn.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Apr 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/5587782583/in/photolist-vXpfzB-4J2hju-5KFLxX-9vLR62-w44NKN-9vPTfo-5t8S26-eQc7Ss-qMgJQU-fnC1sw-ddAu78-9973to-oYPhYE-j2SBQk-5WdrE5-fsLzi3-8AEqf6-ftJvDN-p2J281-CeZb1V-irmN9w-Ckhrcm-CKKiai-poxVmg-pYVezE-dezE6x-w63TAH">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/150722labmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/150722labmn.jpg
   caption: |
     <p>Labrador, Jul 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/24123900519/in/photolist-vXpfzB-4J2hju-5KFLxX-9vLR62-w44NKN-9vPTfo-5t8S26-eQc7Ss-qMgJQU-fnC1sw-ddAu78-9973to-oYPhYE-j2SBQk-5WdrE5-fsLzi3-8AEqf6-ftJvDN-p2J281-CeZb1V-irmN9w-Ckhrcm-CKKiai-poxVmg-pYVezE-dezE6x-w63TAH">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/251231prprqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/251231prprqo1.jpg
   caption: |
     <p>Pasir Ris Park, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/prasina/030817cjd0036m3.jpg
 ---
 
 
@@ -88,7 +89,7 @@ frogs and small birds.
 **Whip babies:** Mama snake
 gives birth to live young in litters of 4-10. The babies look
 just like their parents.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

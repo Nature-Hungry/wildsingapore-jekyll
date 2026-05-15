@@ -1,50 +1,51 @@
 ---
 title: Arthropods
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "arthropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: arthropoda, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p>A pair of <a href="../crustacea/othercrust/shrimp/brevicarpalis">anemone shrimps</a> is commonly found in our carpet anemones.</p>
     <p>Kusu Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/spearer/050707cftg9086m3.jpg
   caption: |
     <p><a href="../crustacea/othercrust/stomatopoda/stomatopoda">Mantis shrimps</a> are not like other shrimps and belong to a different Order Stomatopoda.</p>
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
   caption: |
     <p><a href="../crustacea/othercrust/anomura/hermit/clibanarius">Striped hermit crab</a> Chek Jawa, Feb 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
   caption: |
     <p>The <a href="../crustacea/crab/portunidae/pelagicus">Flower crab</a> and other decapods are among our favourite seafood!</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/050726chgg0423m3.jpg
   caption: |
     <p><a href="othercrust/anomura/porcellanidae/porcellanidae">Porcelain crabs</a> often live with other animals.</p>
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
   caption: |
     <p><a href="../crustacea/othercrust/isopoda/ligia">Sea slater</a> Chek Jawa, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
   caption: |
     <p><a href="limulidae/carcinoscorpius">Mangrove horseshoe crab</a> Pulau Sekudu, Dec03</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
   caption: |
     <p><a href="limulidae/tachypleus">Coastal horsehoe crabs</a> Pulau Sarimbun, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/050510tusg6173m3.jpg
   caption: |
     <p><a href="../crustacea/othercrust/ciriipedia/cirripedia">Barnacles</a> are crustaceans and arthropods!</p>
     <p>Tuas, May 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
 ---
  
 
@@ -87,4 +88,4 @@ crabs](../crustacea/decapoda))
   
 from Pechenik, Jan A., 2005. *Biology of the Invertebrates*.
 5th Edition
-{% include img-wrap-group.html items=page.page_images %}
+ 

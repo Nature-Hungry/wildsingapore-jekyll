@@ -1,9 +1,16 @@
 ---
 title: Cake sand dollar
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cake, sand, dollar, arachnoides, placenta, clypeasteroida, echinoidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 86, 92]
+attributes:
+- 0
+- 1
+- 12
+- 86
+- 92
 family: Clypeasteridae
 genus: Arachnoides
 species: placenta
@@ -22,41 +29,41 @@ suborder: Clypeasterina
 subfamily: Arachnoidinae
 updated: Mar 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngechinoidea)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3.jpg
   caption: |
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m6l.jpg
   caption: |
     <p>They are often found in huge numbers.</p>
     <p>Chek Jawa, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2311m3a.jpg
   caption: |
     <p>Upperside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080506chgd2312m3a.jpg
   caption: |
     <p>Mouth on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
   caption: |
     <p>Upperside of test</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
   caption: |
     <p>Underside of test</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6116m3.jpg
   caption: |
     <p>Living sand dollar moving under wet sand.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
   caption: |
     <p>Changi, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
   caption: |
     <p>Living sand dollars, not moving under sand.</p>
     <p>Lazarus Island, Jun 09 What eats sand dollars?</p>
@@ -65,53 +72,53 @@ page_images:
     <p>A <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a> was also seen in the process of engulfing one.</p>
     <p>Kok Sheng also shared a video clip (below) of <a href="../../../crustacea/othercrust/anomura/hermit/hermit">hermit crabs</a> arguing over a sand dollar.</p>
     <p>Tiny <a href="../../../mollusca/gastropoda/eulimidae/eulimidae">parasitic snails</a> are sometimes seen on them too.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110508cyrmng3m3.jpg
   caption: |
     <p>Is this <a href="../../../mollusca/gastropoda/cassidae/glaucum">Grey bonnet snail</a> eating a sand dollar?</p>
     <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
   caption: |
     <p>Being eaten by a <a href="../../asteroidea/protoreaster">Knobbly sea star</a>?</p>
     <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/eulimidae/eulimidae/110830cyrd0357m3a.jpg
   caption: |
     <p>Tiny <a href="../../../mollusca/gastropoda/eulimidae/eulimidae">parasitic snail</a> on a Cake sand dollar.</p>
     <p>Cyrene, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
   caption: |
     <p>Cake sand dollar being swallowed by a <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a>.</p>
     <p>Chek Jawa Feb 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1801m3.jpg
   caption: |
     <p>Bird footprints surround the sand dollar.</p>
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjc1802m3a.jpg
   caption: |
     <p>It seems birds have flipped over some and pecked out the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/100328cjtsgc1803m3.jpg
   caption: |
     <p>Some are flipped but not harmed.</p>
     <p>Only egg-bearing females are pecked?</p>
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/251011tgrlks12.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/160625tkkjll1.jpg
   caption: |
     <p>Pulau Tekukor, Jun 16Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10153767800051295.1073741870.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090224lazlks02m3.jpg
   caption: |
     <p>Lazarus, Feb 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarusl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/200820ssismn4.jpg
   caption: |
     <p>Small Sisters Island, Aug 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157639265773660&set=a.10157639263998660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/110517tptlks6m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/091205sudd5468m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -122,7 +129,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

@@ -1,13 +1,18 @@
 ---
 title: Bracket brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bracket, brown, seaweed, weed, algae, lobophora, variegata, dictyotaceae,
+  phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Lobophora
 species: variegata*
-attributes: [41, 97, 98]
+attributes:
+- 41
+- 97
+- 98
 inat_id: 131277
 stateofmatter: Life
 kingdom: Chromista
@@ -18,31 +23,31 @@ order: Dictyotales
 tribe: Zonarieae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
   caption: |
     <p>Labrador, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3.jpg
   caption: |
     <p>Labrador, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1696m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3.jpg
   caption: |
     <p>Sentosa, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/081115sntd2005m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/110619tslgd4319m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/bracket/060501labd1721m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -93,7 +98,7 @@ and stiff with a slimy surface.
 According to [AlgaeBase](http://www.algaebase.org/browse/taxonomy/?id=8716):
 there are 10 species of *Lobophora.*
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

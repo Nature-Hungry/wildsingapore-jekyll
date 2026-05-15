@@ -1,166 +1,167 @@
 ---
-title: "Hermit crabs "
+title: 'Hermit crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Crepidulidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 updated: Jan 2020
 page_images:
-- url: "../../../../../Templates/fornatureguides.gif"
+- url: ../../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../../fnghermitcrabs)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3a.jpg
   caption: |
     <p>This hermit crab is using a half broken shell.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110520chgd2437m3b.jpg
   caption: |
     <p>Small 'legs' on the abdomen cling to the shell.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/hermit.gif"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/hermit.gif
   caption: |
     <p>What it looks like inside the shell!</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/070224cjd8511m3.jpg
   caption: |
     <p>The same kind of hermit crab can live in a wide variety of shells.</p>
     <p>Chek Jawa Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/090606tmftd3303m3.jpg
   caption: |
     <p>Even a broken shell can be a hermit home.</p>
     <p>Tanah Merah, Jun 09 House hunting: As a hermit crab grows bigger, it has to find a bigger shell.</p>
     <p>A shell that is too small provides less effective protection from predators as the hermit crabs can't retreat deep into the shell.</p>
     <p>Hermit crabs understood the concept of 'upgrading' long before other Singaporeans!</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/070602sjig9792m3.jpg
   caption: |
     <p>Land hermit crabs may even live in land snail shells!</p>
     <p>St.</p>
     <p>John's Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
   caption: |
     <p>Hanging onto the shell of a snail so recently dead that whelks are still cleaning it out!</p>
     <p>Tanah Merah, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/050428cftg5223m3.jpg
   caption: |
     <p>Even tiny Button shells are homes to tiny hermit crabs.</p>
     <p>Changi, Apr 05 Living with a hermit: The hermit crab makes such a comfy home in its borrowed shell that other animals take up residence with it.</p>
     <p>These include the <a href="../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae">Slipper snail</a> (Family Crepidulidae), <a href="../porcellanidae/hermit">tiny porcelain crabs</a> and <a href="../../../../cnidaria/actiniaria/hermitsmall">sea anemones</a>.</p>
     <p>These animals enjoy the constant flow of oxygenated water that the hermit crab generates, snack on the hermit crab's leftovers, and the hermit crab will hide in the sand or crevices where its safe and wet so the hitch-hikers don't risk drying out.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
   caption: |
     <p><a href="../../../../cnidaria/actiniaria/hermitsmall">Tiny sea anemones</a> may be found on a shell occupied by a hermit crab.</p>
     <p>Changi, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitbig/040701chgd1385m3.jpg
   caption: |
     <p>Others may have <a href="../../../../cnidaria/actiniaria/hermitbig">big sea anemones</a>!</p>
     <p>Changi, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
   caption: |
     <p><a href="../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae">Slipper snails</a> are often found on the inside of the shell occupied by a hermit crab.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3b.jpg
   caption: |
     <p><a href="../porcellanidae/hermit">Tiny porcelain crabs</a>  Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3d.jpg
   caption: |
     <p><a href="../../../../worm/polychaeta/serpulidae">Keelworms</a> may build their tubes on the shell.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3b.jpg
   caption: |
     <p>Little animals also bore into the shell, possibly boring sponges.</p>
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3.jpg
   caption: |
     <p><a href="../../../../worm/polychaeta/scaleworm">Scale worms</a> are sometimes seen on the shell.</p>
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/080801chgd8593m3c.jpg
   caption: |
     <p>Unknown animal on the shell.</p>
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/060529chgd2556m3.jpg
   caption: |
     <p><a href="../../../../mollusca/gastropoda/calyptraeidae/calyptraeidae">Slipper snails</a> and <a href="../../../../worm/polychaeta/serpulidae">keelworms</a>  Changi, Jun 05 What do they eat?</p>
     <p>Many hermit crabs are scavengers.</p>
     <p>These have a keen sense of smell to find their food.</p>
     <p>Others eat algae and detritus.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/241116smksmn1.jpg
   caption: |
     <p>With eggs inside the shell.</p>
     <p>Pulau Semakau (South), Nov 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10160710973593660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3.jpg
   caption: |
     <p>Moult outside the shell, original hermit crab inside the shell?</p>
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050726chgg0377m3a.jpg
   caption: |
     <p>Transparent eyes indicates this is a moult.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/040110cjd0043m3.jpg
   caption: |
     <p>Hermit crab tracks on sand.</p>
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1282m3.jpg
   caption: |
     <p>Just moulted.</p>
     <p>Tuas, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3.jpg
   caption: |
     <p>Moult with transparent eyes.</p>
     <p>Tuas, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110927tusd1279m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/huddling/060131sjig4376m3.jpg
   caption: |
     <p><a href="huddling">Huddling hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tidal/050609cftg7489m3a.jpg
   caption: |
     <p><a href="tidal">Tidal hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
   caption: |
     <p><a href="lavender">Lavender hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/banded/050113sntg2834m3a.jpg
   caption: |
     <p><a href="banded">Banded hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/bandedpink/130923tmftd3454m3.jpg
   caption: |
     <p><a href="banded">Pink banded hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/blueelbow/100712chgd8429m3.jpg
   caption: |
     <p><a href="blueelbow">Blue-elbow hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/black/080816sisd9480m3.jpg
   caption: |
     <p><a href="black">All-black hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/goldspot/050720sntg9519m3.jpg
   caption: |
     <p><a href="goldspot">Gold-spotted hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050206cjdd9978m3.jpg
   caption: |
     <p><a href="stripeorange">Orange-striped hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeblue/030712hntd0016m3a.jpg
   caption: |
     <p><a href="stripeblue">Blue-striped hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/tawny/120618tmnbd5283m3.jpg
   caption: |
     <p><a href="tawny">Tawny hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/orangespot/090606tmftd3116m3.jpg
   caption: |
     <p><a href="orangespot">Spotted orange hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/veryhairy/060228labg5303m3.jpg
   caption: |
     <p><a href="veryhairy">Very hairy hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
   caption: |
     <p><a href="coenobita">Land hermit crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/120806tmfts02122.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/noid/240211bigsisky2.jpg
   caption: |
     <p>Big Sisters Island, Feb 24 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169202002145112&set=a.10169201997770112">facebook</a>.</p>
-coverimg: "../../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -171,7 +172,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../../animals)
 | [all plants](../../../../plants)

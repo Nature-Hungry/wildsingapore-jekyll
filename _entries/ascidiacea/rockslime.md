@@ -1,38 +1,40 @@
 ---
-title: "Rock slime ascidians (Ascidiacea) "
+title: 'Rock slime ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rock, slime, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate,
+  chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg
   caption: |
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4124m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4124m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/090623ecpd4854m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/140812chg4d8502m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/100812tpld0272m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/rockslime/060129skdg4122m3.jpg
 ---
  
 
@@ -61,7 +63,7 @@ and a few large holes. When in water, inflates into more rounded shapes.
 In various shades of white, pink, lilac and orange. Out of water,
 it is deflated and appears to be a 'melted' or slimy layer.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

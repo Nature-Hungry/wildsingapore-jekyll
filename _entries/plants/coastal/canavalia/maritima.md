@@ -1,9 +1,15 @@
 ---
-title: "Sea bean "
+title: 'Sea bean '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "canavalia, maritima, fabaceae, leguminosae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: canavalia, maritima, fabaceae, leguminosae, creeper, plant, bush, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 39]
+attributes:
+- 18
+- 21
+- 36
+- 39
 family: Fabaceae
 genus: Canavalia
 species: maritima
@@ -18,19 +24,19 @@ tribe: Diocleae
 inat_id: 131242
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9043m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9043m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9041m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9041m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9043m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9043m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/canavalia/canavalia/090405smkd9044m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -81,7 +87,7 @@ and seeds are edible after (prolonged) boiling. Flower used as spice.
 The plant is considered suitable as ground cover against soil erosion
 on eroding coastal lands.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

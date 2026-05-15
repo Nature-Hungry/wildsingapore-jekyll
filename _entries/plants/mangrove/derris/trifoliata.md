@@ -1,9 +1,15 @@
 ---
-title: "Common derris "
+title: 'Common derris '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "derris, trifoliata, fabaceae, leguminosae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: derris, trifoliata, fabaceae, leguminosae, tree, mangrove, mangroves, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Fabaceae
 genus: Derris
 species: trifoliata
@@ -18,34 +24,34 @@ tribe: Millettieae
 inat_id: 354252
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
   caption: |
     <p>Sungei Pandan, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090905sbwrd0264m3.jpg
   caption: |
     <p>Sungei Buloh, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090913kntd0711m3.jpg
   caption: |
     <p>Scars of derris.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090328sbwrd8514m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/081206smkd2450m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090816ubind9107m3a.jpg
   caption: |
     <p>Pulau Ubin, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090425prpd0385m3.jpg
   caption: |
     <p>Pasir Ris, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4035m3.jpg
   caption: |
     <p>Sungei Pandan, Jun 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/derris/trifoliata/090612pndd4084m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -141,7 +147,7 @@ the water soon becomes pure again. This of course is chiefly by diffusion,
 but also because aqueous solutions of the poison decompose rather
 quickly."   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

@@ -1,9 +1,15 @@
 ---
-title: "Collared fig "
+title: 'Collared fig '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "collared, fig, ficus, crassiramea, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: collared, fig, ficus, crassiramea, moraceae, tree, plant, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 17, 20, 21]
+attributes:
+- 8
+- 17
+- 20
+- 21
 family: Moraceae
 genus: Ficus
 species: crassiramea
@@ -17,37 +23,37 @@ order: Rosales
 tribe: Ficeae
 updated: Dec 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5795m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5785m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5788m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3.jpg
   caption: |
     <p>Pulau Ubin, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3b.jpg
   caption: |
     <p>Pulau Ubin, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/100410ubnd0897m3d.jpg
   caption: |
     <p>Pulau Ubin, Apr 10</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -56,12 +62,12 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
     <p>Volume 1: 1-476 pp, plates 1-38; volume 2: 477-861 pp., plates 139-236.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -113,7 +119,7 @@ yellow bracts at the base. Bark pinkish brown.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

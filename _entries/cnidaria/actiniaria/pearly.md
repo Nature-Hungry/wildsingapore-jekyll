@@ -1,9 +1,14 @@
 ---
 title: Pearly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sinensis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pearly, anemone, anthozoa, cnidaria, actiniidae, paracondylactis, sinensis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [5, 6, 88]
+attributes:
+- 5
+- 6
+- 88
 family: Actiniidae
 genus: Paracondylactis
 species: sinensis*
@@ -18,57 +23,57 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
   caption: |
     <p>Tanah Merah, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5758m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5758m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/121116sjjid1481m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/121116sjjid1481m3.jpg
   caption: |
     <p>This one had a bright red body column.</p>
     <p>St John's Island, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/110703cjd5346m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/110703cjd5346m3.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5772m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5772m3.jpg
   caption: |
     <p>Tanah Merah, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/251208chgrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/251208chgrk4.jpg
   caption: |
     <p>Attempting to eat a sea cucumber?</p>
     <p>Changi, Dec 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set?vanity=richard.k.tiong&set=a.10163440955947906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/200822prpvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/200822prpvc2.jpg
   caption: |
     <p>Pasir Ris Park, Aug 20Photo shared by Vincent Koh on <a href="https://www.facebook.com/photo?fbid=10157891014517945&set=a.10157891012412945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/231506chgelks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/231506chgelks1.jpg
   caption: |
     <p>Changi East (Lost Coast), Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10163665471093158&set=a.10163665477508158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/090725tmjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/090725tmjk2m3.jpg
   caption: |
     <p>Tanah Merah, Dec 08Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/tanah-merah-sandflies-are-out-of.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/081216tmlks04m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/081216tmlks04m3.jpg
   caption: |
     <p>East Coast Park, Dec 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/moments-of-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/180812nsrtlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/180812nsrtlks5.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550002778158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/150617ecpbslks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/150617ecpbslks7m3.jpg
   caption: |
     <p>East Coast Park, Jun 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/150617ecpbslks7m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/150617ecpbslks7m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebok</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/160410blylks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/160410blylks4.jpg
   caption: |
     <p>Berlayar Creek, Apr 16 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/26279766471/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/090628lazd5993m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/090628lazd5993m3.jpg
   caption: |
     <p>Seringat-Kias, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091204pawikw1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091204pawikw1m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4158765322/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/pearly/091206tmd5757m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -111,7 +116,7 @@ and plain without any bumps. It retracts its tentacles into the body column when
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

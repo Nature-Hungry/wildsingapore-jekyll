@@ -1,7 +1,9 @@
 ---
 title: Spurred turban snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spur, wheel, turban, turbo, astralium, astraea, calcar, turbinidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Astralium
@@ -18,52 +20,52 @@ superfamily: Trochoidea
 subfamily: Turbininae
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
   caption: |
     <p>Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
   caption: |
     <p>Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/170723ubnjll3.jpg
   caption: |
     <p>Pulau Ubin, Jul 17 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154885469751295.1073741895.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/251011labal4.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162241053863693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240528tslvc5a.jpg
   caption: |
     <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3a.jpg
   caption: |
     <p>Tanah Merah, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090512tmlks4m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/exploring-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3a.jpg
   caption: |
     <p>Lazarus Island, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090224lazlks09m3b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/resurrection-of-lazarus.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/101206cyrlks5m3.jpg
   caption: |
     <p>Cyrene Reef, Dec 10 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/cyrene-reef-with-teamseagrass.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/180419cyjll1.jpg
   caption: |
     <p>Cyrene Reef, Apr 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155564359541295&set=a.10155564359041295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/241020hntvc1.jpg
   caption: |
     <p>Pulau Hantu, Oct 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set?vanity=xia0gui&set=a.10160745981747945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/100129smklks1.JPG
   caption: |
     <p>Pulau Semakau, Jan 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4352620736/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/240822tsmktt1.jpg
   caption: |
     <p>Terumbu Semakau, Aug 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10235042935632541&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7602m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -109,7 +111,7 @@ tentacles with fine black bars.
   
 **Human uses:** Sometimes gathered
 for food by coastal dwellers.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

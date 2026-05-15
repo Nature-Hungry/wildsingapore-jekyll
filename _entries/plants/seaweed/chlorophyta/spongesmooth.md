@@ -1,71 +1,76 @@
 ---
 title: Smooth sponge green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis, siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sponge, seaweed, weed, green, codium, cladophoropsis, vaucheriaeformis,
+  siphonocladaceae, chlorophyta, algae, porifera, halichondria, cartilaginea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Boodleaceae
 genus: Cladophoropsis
 species: vaucheriaeformis
-attributes: [44, 97]
+attributes:
+- 44
+- 97
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/111225tmskd4855m3a.jpg
   caption: |
     <p>No obvious holes.</p>
     <p>Terumbu Semakau, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100131slud8784m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100102tkkd7199m3.jpg
   caption: |
     <p>Pulau Tekukor, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/060727jngd5176m3.jpg
   caption: |
     <p>Pulau Jong, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/171009blyay5.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/160124smkell3.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153671838553964.1073741871.716233963&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100130brkd8495m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091205sudd5576m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7097m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7098m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod7098m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/091231biod6938m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100811slud0086m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/100519tsmc4166m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/spongesmooth/050509hntd3227m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -119,7 +124,7 @@ sponge seaweed](../rhodophyta/spongeholey) (*Ceratodictyon* sp.) which has more 
 relationship with another kind of sponge. The two organisms are sometimes
 difficult to tell apart in the field.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

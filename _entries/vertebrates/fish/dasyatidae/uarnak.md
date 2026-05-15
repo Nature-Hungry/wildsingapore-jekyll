@@ -1,9 +1,14 @@
 ---
 title: Honeycomb whipray
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray, himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: honey, comb, honeycomb, reticulated, whip, whipray, sting, ray, stingray,
+  himantura, uarnak, fish, rajiformes, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 118]
+attributes:
+- 25
+- 47
+- 118
 family: Dasyatidae
 genus: Himantura
 species: uarnak
@@ -19,33 +24,33 @@ order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
   caption: |
     <p>Tail very long and slender.A large dead one seen on the sand bar.</p>
     <p>Chek Jawa, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0114m3a.jpg
   caption: |
     <p>Granular skin on adult.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3a.jpg
   caption: |
     <p>Broadly triangular snout.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0108m3.jpg
   caption: |
     <p>What does it eat?</p>
     <p>Small fishes, clams, crabs, shrimps, worms and jellyfishes</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro1m6l.jpg
   caption: |
     <p>Chek Jawa, Dec 10Photo shared by Rene Ong on <a href="http://www.facebook.com/#!/album.php?fbid=135094696550237&id=133291903397183&aid=22355">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/101200cjro2m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1.jpg
   caption: |
     <p>Pulau Sekudu, May 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/250501skdjt1a.jpg
   caption: |
     <p>Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162585289158119&type=3&ref=embed_post">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -82,7 +87,7 @@ humungous spotted stingray is sometimes seen at Chek Jawa. Elsewhere it is commo
 **Features:**  A large ray that can grow to about 160cm in diameter and
 6m in total length. It has conspicuous dark spots on a light brown disc; spots well-spaced in young but crowded to form reticulated or honey-comb like pattern in adult; white ventrally; tail marked with bands of black and white; snout sharply pointed; disc with narrowly rounded outer corners, and tail long, slender and nearly three times body length when intact.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

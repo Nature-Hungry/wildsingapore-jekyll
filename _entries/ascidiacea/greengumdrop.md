@@ -1,74 +1,76 @@
 ---
-title: "Green gum drops ascidians (Ascidiacea) "
+title: 'Green gum drops ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/070505kusg9099m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/070505kusg9099m3.jpg
   caption: |
     <p>Kusu Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/070505kusg9099m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/070505kusg9099m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100502tryd2284m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100502tryd2284m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100502tryd2284m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100502tryd2284m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg
   caption: |
     <p>Growing on <a href="../plants/seagrass/enhalus">Tape seagrass</a> Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3143m3.jpg
   caption: |
     <p>Growing on <a href="../plants/seagrass/enhalus">Tape seagrass</a> Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/080722cyrd8227m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/080722cyrd8227m3.jpg
   caption: |
     <p>Growing on <a href="../plants/seagrass/syringodium">Noodle seagrass</a> Cyrene Reef, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/180912tkkrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/180912tkkrk2.jpg
   caption: |
     <p>Pulau Tekukor, Sep 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156466002157906&set=a.10156465992502906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/160124smkerk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/160124smkerk3.jpg
   caption: |
     <p>Pulau Semakau, Jan 16Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10153760529257906.1073741854.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/110423tpllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/110423tpllks.JPG
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5646158270/in/album-72157626558367080/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/091205sudd5557m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/091205sudd5557m3a.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5427m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5427m3c.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100531biod4466m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100531biod4466m3a.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5588m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5588m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5588m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100613sngd5588m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100601slud4831m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100601slud4831m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100601slud4831m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100601slud4831m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100530tbkd4290m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100530tbkd4290m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100530tbkd4290m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/100530tbkd4290m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050820bbg1769m3.jpg
 ---
  
 
@@ -100,7 +102,7 @@ It's hard to identify ascidians without close examination of small
 features. On this website, they are grouped by large external features
 for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

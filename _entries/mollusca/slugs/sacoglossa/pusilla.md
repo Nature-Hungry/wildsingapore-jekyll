@@ -1,9 +1,18 @@
 ---
 title: Halimeda slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacoglossa, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: halimeda, slug, elysia, elysiella, pusilla, plakobranchidae, sacoglossa,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 27, 29, 30, 33, 90]
+attributes:
+- 14
+- 22
+- 27
+- 29
+- 30
+- 33
+- 90
 family: Plakobranchidae
 genus: Elysia
 species: pusilla
@@ -19,44 +28,44 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
   caption: |
     <p>Labrador, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk.jpg
   caption: |
     <p>Terumbu Buran, Nov 11 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5150734079/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/101106brnjk2.jpg
   caption: |
     <p>Seen on <a href="../../../plants/seaweed/chlorophyta/bryopsis.htm">Bryopsis seaweed</a>.</p>
     <p>Terumbu Buran, Nov 11 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5150734777/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/251011tgrlks3.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210712srpvc1.jpg
   caption: |
     <p>Sentosa Serapong, Jul 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158582281257945&set=a.10158582306727945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/211204cyrtch1.jpg
   caption: |
     <p>Cyrene, Dec 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159864397498713&set=a.10159864485893713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5.jpg
   caption: |
     <p>Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/170501tsmktch5a.jpg
   caption: |
     <p>Terumbu Semakau, May 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155325257823713.1073742082.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/180615trytch1.jpg
   caption: |
     <p>Terumbu Raya, Jun 18 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156581011588713&set=a.10156581011393713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/210823smkevc2.jpg
   caption: |
     <p>Pulau Semakau (East), Aug 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158649743877945&set=a.10158649794402945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050330labg3921m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -100,7 +109,7 @@ concentrates defensive chemicals in its youngest parts. Studies show
 that the slugs not only prefer to feed on these parts of the seaweed,
 but also use the chemicals to protect themselves and their eggs.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

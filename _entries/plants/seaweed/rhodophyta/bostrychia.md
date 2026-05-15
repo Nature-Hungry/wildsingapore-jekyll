@@ -1,13 +1,18 @@
 ---
-title: "Tiny fern red seaweed "
+title: 'Tiny fern red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, rhodophyceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pimply, red, seaweed, weed, algae, bostrychia, rhodomelaceae, rhodophyceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhodomelaceae
 genus: Bostrychia
-species: ""
-attributes: [97, 98, 114]
+species: ''
+attributes:
+- 97
+- 98
+- 114
 inat_id: 3742
 stateofmatter: Life
 kingdom: Animalia
@@ -17,19 +22,19 @@ class: Aves
 order: Pelecaniformes
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
   caption: |
     <p>Sentosa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3.jpg
   caption: |
     <p>Labrador, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/111224labd4802m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/bostrychia/110719sntd7447m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -78,7 +83,7 @@ tiny creatures are often seen in thick carpets of this seaweed.
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=32785&-session=abv4:DABA11FE02c9417522uRU2794B42):
 there are more than 150 species of *Bostrychia*.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

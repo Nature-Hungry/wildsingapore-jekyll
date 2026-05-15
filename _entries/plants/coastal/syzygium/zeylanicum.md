@@ -1,9 +1,16 @@
 ---
 title: Kelat nasi nasi
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sea, apple, syzygium, zeylanicum, myrtaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sea, apple, syzygium, zeylanicum, myrtaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 109, 120]
+attributes:
+- 18
+- 21
+- 36
+- 109
+- 120
 family: Myrtaceae
 genus: Syzygium
 species: zeylanicum
@@ -18,47 +25,47 @@ subfamily: Myrtoideae
 tribe: Syzygieae
 updated: Feb 11
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3c.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5609m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5609m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3a.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5609m6l.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6181m6la.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6180m3a.jpg
   caption: |
     <p>Lazarus Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6180m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110220lazd6180m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0477m3.jpg
   caption: |
     <p>Pasir Ris Park, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0477m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0477m3a.jpg
   caption: |
     <p>Planted in the park.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110502prpd0479m6l.jpg
   caption: |
     <p>Pasir Ris Park, May 11Planted in the park.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -67,7 +74,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -75,13 +82,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/syzygium/zeylanicum/110203sjid5606m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -133,7 +140,7 @@ the fruit is sweet, aromatic and edible. The reddish or brown wood
 is used for fuel and in boat building. The leaves and roots are also
 used in traditional medicine.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

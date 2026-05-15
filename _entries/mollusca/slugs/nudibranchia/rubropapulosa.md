@@ -1,9 +1,16 @@
 ---
 title: Orange-spotted gymnodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "gymnodoris, rubropapulosa, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: gymnodoris, rubropapulosa, nudibranchia, slug, seaslug, opisthobranch, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 90, 110]
+attributes:
+- 14
+- 22
+- 33
+- 90
+- 110
 family: Gymnodorididae
 genus: Gymnodoris
 species: rubropapulosa
@@ -23,59 +30,59 @@ superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
   caption: |
     <p>Pulau Ular, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3.jpg
   caption: |
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/050918smkg2720m3a.jpg
   caption: |
     <p></p>
-- url: "https://live.staticflickr.com/31337/49370034251_a215a83d0b_z.jpg"
+- url: https://live.staticflickr.com/31337/49370034251_a215a83d0b_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/49370034251/ "Gymnodoris rubropapulosa")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210401sntvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210401sntvc1.jpg
   caption: |
     <p>Sentosa Tg Rimau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158373652852945&set=a.10158373695697945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/120408sjilks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/120408sjilks6m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island , Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210812jngvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210812jngvc5.jpg
   caption: |
     <p>Pulau Jong, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158645190607945&set=a.10158645270727945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/090723tmrjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/090723tmrjk2m3.jpg
   caption: |
     <p>Terumbu Raya, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywhere.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/151225tsmkmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/151225tsmkmn1m3.jpg
   caption: |
     <p>Terumbu Semakau, Dec 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/250515tpttl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/250515tpttl1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10162492941969264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/220420tbmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/220420tbmn2.jpg
   caption: |
     <p>Terumbu Bemban, Apr 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10158840088853660&set=a.10158840094873660">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210501tbvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/210501tbvc3.jpg
   caption: |
     <p>Terumbu Bemban, May 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441851382945&set=a.10158441969957945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/141108bbbmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/141108bbbmn1m3.jpg
   caption: |
     <p>Beting Bemban Besar, Nov 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152497513118660.1073741850.624178659&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/120804bbblks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/120804bbblks1.JPG
   caption: |
     <p>Beting Bemban Besar, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8460729808/in/album-72157623141793370/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/100130brkd8690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/100130brkd8690m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/rubropapulosa/060401ulrd0768m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -124,7 +131,7 @@ Gymnodoris nudibranchs secrete nasty acids and chemicals. **What does it eat?** 
 predators' of other sea slugs like [nudibranchs](../../nudibranchia.htm), [sacoglossans](../sacoglossa/sacoglossa.htm) and [sea
 hares](../anaspidae/anaspidea.htm). Among its prey is [*Ceratosoma* sp.](sinuatum.htm)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

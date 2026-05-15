@@ -1,7 +1,9 @@
 ---
 title: Coral scallop
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, scallop, clam, shell, pedum, spondyloideum, pectinidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Pectinidae
 genus: Pedum
@@ -20,41 +22,41 @@ subfamily: Pedinae
 tribe: Pedini
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
   caption: |
     <p>Tanah Merah, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3a.jpg
   caption: |
     <p>When submerged, tentacles and tiny eyes can be seen.</p>
     <p>Beting Bemban Besar, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/070406hntg8468m3a.jpg
   caption: |
     <p>Pulau Hantu, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
   caption: |
     <p>Pulau Berkas, Jan 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100403tbbd0666m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/170822lablks6.jpg
   caption: |
     <p>Labrador, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200822jnglks2.jpg
   caption: |
     <p>Pulau Jong, Aug 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158561948168158&set=a.10158561952098158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/200919bsislks6.jpg
   caption: |
     <p>Big Sisters Island, Sep 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158630375398158&set=a.10158630376778158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/160609thntmn1.jpg
   caption: |
     <p>Terumbu Hantu, Jun 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/27315356520/in/album-72157669440937916/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110717tblks2m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/octopuses-mating-at-terumbu-bemban.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/130427tptlks.JPG
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749232887/in/album-72157626616274147/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +95,7 @@ circular two-part shell, thin. In some the shell is covered with encrusting
 fluff, in others, a pattern of spots may be seen. When submerged, a fringe of tiny tentacles emerge with many tiny, well developed eyes along the
 mantle edge.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Digging into corals:** This clam is often seen in

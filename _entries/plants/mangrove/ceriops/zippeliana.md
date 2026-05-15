@@ -1,9 +1,17 @@
 ---
-title: " Tengar merah"
+title: ' Tengar merah'
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ceriops, zippeliana, sp, nov, rhizophoraceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 117]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 117
 family: Rhizophoraceae
 genus: Ceriops
 species: zippeliana
@@ -16,36 +24,36 @@ order: Malpighiales
 inat_id: 190476
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
   caption: |
     <p>Sometimes with stilt roots.</p>
     <p>Pulau Ubin, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6042m3.jpg
   caption: |
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3.jpg
   caption: |
     <p>Leaves oval.</p>
     <p>Pulau Ubin, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3.jpg
   caption: |
     <p>Flowers small,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090124ubnd6058m3a.jpg
   caption: |
     <p>White petals with frilly edges.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090704ubnd6338m3a.jpg
   caption: |
     <p>Brown 'fruit'</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090301prpd7368m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090301prpd7368m3.jpg
   caption: |
     <p>Propagules point upwards and other directions.</p>
     <p>Pasir Ris Park, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/090802ubnd8163m6l.jpg
   caption: |
     <p>Red collar on ripe propagule.Ridged propagules.</p>
     <p>Pulau Ubin, Aug 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/ceriops/zippeliana/110226ubnd6418M6L.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -97,7 +105,7 @@ Sometimes with stilt roots.
 **Status and threats:** It is listed
 as 'Endangered' on the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 `
 

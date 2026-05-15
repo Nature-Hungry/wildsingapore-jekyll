@@ -1,11 +1,13 @@
 ---
 title: Corallimorphs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, disc, anemone, discosoma, corallimorph, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, disc, anemone, discosoma, corallimorph, anthozoa, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Corallimorphidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 124501
 stateofmatter: Life
@@ -16,16 +18,16 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Nov 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
   caption: |
     <p>Upturned mouth.</p>
     <p>St.</p>
     <p>John's Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
   caption: |
     <p>Underside is usually smooth.</p>
     <p>Pulau Hantu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3b.jpg
   caption: |
     <p>Oral disk tucked into the body column.</p>
     <p>St.</p>
@@ -33,44 +35,44 @@ page_images:
     <p>Most corallimorphs harbour zooxanthellae (symbiotic algae) inside their bodies.</p>
     <p>The symbiotic algae carry out photosynthesis and may contribute nutrients to the host.</p>
     <p>Corallimorphs also filter feed, trapping edible bits in mucus that coats their bodies.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
   caption: |
     <p>Many usually found together, often forming a living carpet.</p>
     <p>Sisters Islands, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/080608cyrd5465m3a.jpg
   caption: |
     <p>Dense clusters of corallimorphs may resemble hard corals.</p>
     <p>Cyrene Reef, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/060131sjig4490m3b.jpg
   caption: |
     <p>Covered with tiny brown <a href="../../../worm/acoela/acoela.htm">acoel flatworms</a>.</p>
     <p>St.</p>
     <p>John's Island, Jan 06 Corallimorph babies: Corallimorphs can reproduce by budding or by fission, in which the parent divides to produce a new polyp.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/frilled/070901sjid6484m3a.jpg
   caption: |
     <p><a href="frilled.htm">Frilled corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/stubby/040801hntd3735m3a.jpg
   caption: |
     <p><a href="stubby.htm">Stubby corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3a.jpg
   caption: |
     <p><a href="carpet.htm">Carpet corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
   caption: |
     <p><a href="beaded.htm">Beaded corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/ridged/050807sjid5570m3.jpg
   caption: |
     <p><a href="ridged.htm">Ridged corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/striped/110717tbd7305m3.jpg
   caption: |
     <p><a href="striped.htm">Striped corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/whitetip/120721tptd7883m3.jpg
   caption: |
     <p><a href="whitetip.htm">White-tip corallimorphs</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/balltip/110703cjd5306m3.jpg
   caption: |
     <p><a href="balltip.htm">Ball-tip corallimorphs</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -146,7 +148,7 @@ tentacles are merely bumps.
   
 Corallimorphs come in a wide range of colours and textures on the
 oral disk.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Corallimorphs also have [stingers like
 other Cnidarians](../../cnidaria.htm). Some large corallimorphs can reach 30cm across

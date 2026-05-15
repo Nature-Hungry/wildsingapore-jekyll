@@ -1,43 +1,44 @@
 ---
-title: "Jigsaw maze favid corals "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Jigsaw maze favid corals '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg
   caption: |
     <p>Terumbu</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3a.jpg
   caption: |
     <p>Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4708133787/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100613sngd5528m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100530tbkd4207m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100530tbkd4207m3b.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/091204pawd0060m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100131slud8838m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100811slud0135m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/maze/jigsaw/100616tsmmn3m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -67,7 +68,7 @@ info on jigsaw maze favid corals](mazejigsaw.htm)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

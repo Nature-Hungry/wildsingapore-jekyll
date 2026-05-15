@@ -1,9 +1,14 @@
 ---
-title: " Baru-baru "
+title: ' Baru-baru '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: portia, thespesia, populnea, malvaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Malvaceae
 genus: Thespesia
 species: populnea
@@ -18,40 +23,40 @@ subfamily: Malvoideae
 tribe: Gossypieae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
   caption: |
     <p>Pasir Ris, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3837m3.jpg
   caption: |
     <p>Flower bud about to blossom.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3964m3.jpg
   caption: |
     <p>Developing fruits.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3836m3.jpg
   caption: |
     <p>Flowers past their bloom.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3962m3.jpg
   caption: |
     <p>Flower just blossoming.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3.jpg
   caption: |
     <p>Chek Jawa, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080216cjd9672m3a.jpg
   caption: |
     <p>Insect pollinating the flower?</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/080609ubnod5556m3a.jpg
   caption: |
     <p>Pulau Ubin, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/dysdercus/080609ubnod5558m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/dysdercus/080609ubnod5558m3a.jpg
   caption: |
     <p><a href="../../../insecta/dysdercus">Cotton stainer bugs</a> on the fruit.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3.jpg
   caption: |
     <p>Changi, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090428chgd0933m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -71,7 +76,7 @@ page_images:
     <p>- Polunin, Ivan.</p>
     <p>1987.</p>
     <p>[Plants</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Times Editions.</p>
@@ -79,13 +84,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/thespesia/populnea/090611prpd3832m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -153,7 +158,7 @@ and gum from the bark, while an orange-yellow dye is extracted from
 the wood.  
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

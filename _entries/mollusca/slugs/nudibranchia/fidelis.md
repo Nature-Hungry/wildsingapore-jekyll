@@ -1,9 +1,16 @@
 ---
-title: "Reliable nudibranch "
+title: 'Reliable nudibranch '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: goniobranchus, chromodoris, fidelis, chromodoriidae, doridina, nudibranch,
+  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 90, 110]
+attributes:
+- 14
+- 22
+- 33
+- 90
+- 110
 family: Chromodoridae
 genus: Goniobranchus
 species: fidelis
@@ -23,35 +30,35 @@ superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
   caption: |
     <p>Pulau Tekukor, May 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4646685073/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220503tptrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220503tptrk3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 22 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159723967372906&set=a.10159723965727906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220419sjijt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/220419sjijt2.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10159951259098119&set=a.10159951265878119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/210430sjijll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/210430sjijll1.jpg
   caption: |
     <p>St John's Island, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158238595411295&set=a.10158238590001295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/221127rk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/221127rk2.jpg
   caption: |
     <p>Lazarus Island, Nov 22 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160152619562906&set=a.10160152609332906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230122jngjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230122jngjll3.jpg
   caption: |
     <p>Pulau Jong, Jan 23 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159413141071295&set=a.10159413154211295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230423cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/230423cyrjll1.jpg
   caption: |
     <p>Cyrene, Apr 23 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159584100621295&set=a.10159584094506295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/170501tsmkjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/170501tsmkjll1.jpg
   caption: |
     <p>Terumbu Semakau, May 17 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154633417781295.1073741885.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/090330trylks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/090330trylks1m3.jpg
   caption: |
     <p>Terumbu Raya, Mar 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/great-reef-terumbu-raya.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/fidelis/100528tkkjk6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +100,7 @@ gills tipped in black.
 their sponge food and incorporate these chemicals into the mantle
 glands on their backs where they repel predators.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

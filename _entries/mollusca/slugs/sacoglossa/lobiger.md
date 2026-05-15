@@ -1,9 +1,26 @@
 ---
 title: Tendril slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tendril, slug, lobiger, viridis, seaslug, sap, sucking, sacoglossan, oxynoidae
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
+attributes:
+- 14
+- 22
+- 23
+- 30
+- 33
+- 64
+- 65
+- 71
+- 90
+- 100
+- 105
+- 111
+- 123
+- 125
+- 126
 family: Oxynoidae
 genus: Lobiger
 species: viridis
@@ -19,23 +36,23 @@ superorder: Sacoglossa
 superfamily: Oxynooidea
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/130426tkkd5655m6l.jpg
   caption: |
     <p>Tendrils can be suddenly unfurled to deter predators.</p>
     <p>Pulau Tekukor, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/121214chgemn1.jpg
   caption: |
     <p>Changi East, Dec 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8272996755/">flickr</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>321 pp.</p>
@@ -44,7 +61,7 @@ page_images:
     <p>Bryce.</p>
     <p>2000.</p>
     <p>Slugs of Western Australia: A guide to the species from the Indian to</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Western Australian Museum.</p>
@@ -63,7 +80,7 @@ page_images:
     <p>- Kuiter, Rudie H and Helmut Debelius.</p>
     <p>2009.</p>
     <p>World</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=as2&o=1&a=3939767255
   caption: |
     <p>.</p>
     <p>IKAN-Unterwasserachiv.</p>
@@ -73,11 +90,11 @@ page_images:
     <p>Williams.</p>
     <p>1996.</p>
     <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Sea Challengers.</p>
     <p>314pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/lobiger/050622cftg8209m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -126,7 +143,7 @@ may also help the slug obtain food from photosynthesis. Like
 other sacoglossans, this slug retains in its body, the chloroplasts
 obtained from its seaweed food.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

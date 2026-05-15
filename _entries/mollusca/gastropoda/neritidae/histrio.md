@@ -1,9 +1,18 @@
 ---
-title: "Scaly nerite snail "
+title: 'Scaly nerite snail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: scaled, nerita, nerite, histrio, squamulata, neritidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 75
+- 100
+- 111
+- 123
 family: Neritidae
 genus: Nerita
 species: squamulata
@@ -18,28 +27,28 @@ superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
   caption: |
     <p>Kusu Island, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3a.jpg
   caption: |
     <p>Tiny 'scales' on the shell.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
   caption: |
     <p>Kusu Island, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/080621labd6143m3.jpg
   caption: |
     <p>Labrador, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2048m3.jpg
   caption: |
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060516chgd2050m3.jpg
   caption: |
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/260104trmlvo5.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post">facebook</a>..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5366m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +104,7 @@ black bands on the foot and long thin black tentacles.
 similar nerites. Here's a comparison of these [similar
 nerite snails](neritidaecf.htm) and how to tell them apart.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

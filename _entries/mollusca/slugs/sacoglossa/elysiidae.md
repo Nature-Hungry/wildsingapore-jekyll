@@ -1,11 +1,13 @@
 ---
 title: Elysia slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "plakobranchidae, elysia, ornata, leaf, slug, seaslug, sap, sucking, sacoglossan, elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: plakobranchidae, elysia, ornata, leaf, slug, seaslug, sap, sucking, sacoglossan,
+  elysiidae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Plakobranchidae
 genus: Elysia
-species: ""
+species: ''
 attributes: []
 inat_id: 47799
 stateofmatter: Life
@@ -19,31 +21,31 @@ superorder: Sacoglossa
 superfamily: Plakobranchoidea
 updated: Sep 12
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
   caption: |
     <p>Not green, perhaps not fed yet?</p>
     <p>Sentosa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/050529sjig7219m3.jpg
   caption: |
     <p>Mating Elysia slugs.</p>
     <p>St.</p>
     <p>John's Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/woolly/050721cjg9776m3.jpg
   caption: |
     <p><a href="woolly.htm">Woolly leaf slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091008tmd2443m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/091008tmd2443m3.jpg
   caption: |
     <p><a href="ornata.htm">Ornate leaf slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/pusilla/050625labg8575m3.jpg
   caption: |
     <p><a href="pusilla.htm">Halimeda slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/bangtawaensis/110101krjd4571m3a.jpg
   caption: |
     <p><a href="bangtawaensis.htm">Mangrove leaf slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/elysianoid/120223sltd7301m3.jpg
   caption: |
     <p><a href="elysianoid.htm">Unidentified leaf slugs</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/sacoglossa/ornata/040423snt0116m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -99,7 +101,7 @@ gets its bright green colour from the choloplasts that it retains
 from its seaweed food. The chloroplasts are distributed throughout
 the parapodia and in the body wall in fine branches of the gut.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 ---

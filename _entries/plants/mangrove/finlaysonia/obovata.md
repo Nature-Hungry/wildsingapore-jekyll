@@ -1,9 +1,15 @@
 ---
-title: "Kalak kambing "
+title: 'Kalak kambing '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "finlaysonia, obovata, apocynaceae, asclepiadaceae, climber, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: finlaysonia, obovata, apocynaceae, asclepiadaceae, climber, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Apocynaceae
 genus: Finlaysonia
 species: obovata
@@ -17,31 +23,31 @@ subfamily: Periplocoideae
 inat_id: 425633
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg
   caption: |
     <p>Kranji Canal, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2844m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2844m3.jpg
   caption: |
     <p>Mandai, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/110328mndd8014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/110328mndd8014m3.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2831m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2831m3.jpg
   caption: |
     <p>Mandai, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2835m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/121230mndd2835m3.jpg
   caption: |
     <p>Mandai, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/110428mndd0198m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/110428mndd0198m3.jpg
   caption: |
     <p>Mandai, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8364m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8364m3.jpg
   caption: |
     <p>Kranji Canal, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8360m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8360m3a.jpg
   caption: |
     <p>Kranji Canal, Mar 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/finlaysonia/obovata/090322krjd8419m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -107,7 +113,7 @@ plants of Singapore. This is because it is estimated that there are
 fewer than 50 mature individuals left in the wild with some evidence
 of decline and fragmentation of its natural habitat.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

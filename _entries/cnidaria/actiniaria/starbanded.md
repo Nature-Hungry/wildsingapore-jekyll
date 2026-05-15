@@ -1,49 +1,53 @@
 ---
 title: Wiggly sand star anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: star, anemone, actiniaria, cnidria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 67, 88]
-family: ""
-genus: ""
+attributes:
+- 6
+- 67
+- 88
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3.jpg
   caption: |
     <p>Pulau Hantu, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091107hntd3965m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks.JPG
   caption: |
     <p>Pulau Hantu, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5807348935/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110607hntlks1.JPG
   caption: |
     <p>Pulau Hantu, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5807916878/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110103sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110103sjilks.JPG
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11Photo shared by Loh Kok Sheng on flickr.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/100813smknml3m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/08/strolling-semakau.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110717tbjk4m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/07/110717-terumbu-bemban.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/110422tpljk5m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/04/110423-terumbu-pempang-laut.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/starbanded/091205sudd5446m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -94,7 +98,7 @@ skin.
 **Sometimes mistaken for** the [Wiggly reef star anemone](star.htm) which tends to be more colourful, lacks the regular bands and tends
 to be found near coral reefs and among coral rubble.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  *\*Species are difficult to positively identify without close examination.  

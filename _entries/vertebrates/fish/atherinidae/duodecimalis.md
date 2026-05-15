@@ -1,12 +1,18 @@
 ---
 title: Silversides
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tropical, silverside, atherinomorus, duodecimalis, atherinidae, fish, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [25, 47, 106, 108]
+attributes:
+- 25
+- 47
+- 106
+- 108
 family: Atherinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 85611
 stateofmatter: Life
 kingdom: Animalia
@@ -17,42 +23,42 @@ superorder: Acanthomorpha
 order: Atheriniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/111213tmftd4612m6l.jpg
   caption: |
     <p>Tanah Merah, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7926m6l.jpg
   caption: |
     <p>Sometimes large schools are seen.</p>
     <p>Chek Jawa, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100124cjd7927m3.jpg
   caption: |
     <p>The school, seen from the boardwalk.</p>
     <p>Chek Jawa, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/090822sisd9645m3a.jpg
   caption: |
     <p>Other fishes prey on them.</p>
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/120607kusd4706.jpg
   caption: |
     <p>Carpet anemones are among their predators.</p>
     <p>Kusu Island, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/100912kusjk.jpg
   caption: |
     <p>Swimming crabs also eat them.</p>
     <p>Kusu Island, Sep 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4982574993/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/200706skdmn2.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157522790593660&set=a.10157522494898660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140713tsmkmn.jpg
   caption: |
     <p>Terumbu Semakau, Jul 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/37359269096/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/220102biolks3.jpg
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649730713158&set=a.10159649733953158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/atherinidae/duodecimalis/140810smksd8112m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -114,7 +120,7 @@ grey, bluish to bright blue. Usually with a narrow silvery line along
 the length of the side of the body.  
   
 **Sometimes confused with** other small silvery fishes. More on [how to tell apart small silvery fishes](../cfsilvery.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,13 @@
 ---
 title: Sidegill slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "side, gill, notaspidea, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: side, gill, notaspidea, slug, seaslug, opisthobranch, gastropod, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Pleurobranchidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49900
 stateofmatter: Life
@@ -20,19 +22,19 @@ order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
   caption: |
     <p><a href="pleurobranchus.htm">Forskal's sidegill slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/euselenops/121214chged2264m3.jpg
   caption: |
     <p><a href="euselenops.htm">Moon-headed sidegill slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chglks3.jpg
   caption: |
     <p>Pleurobranchea brockii Changi, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155349681278158&set=pcb.10155349682483158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/others/170528chgjll1.jpg
   caption: |
     <p>Pleurobranchea brockii Changi, May 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10154707808471295&set=a.10154707806301295&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -90,7 +92,7 @@ Sidegill slugs of Singapore**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 
 ---

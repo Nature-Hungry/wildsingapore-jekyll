@@ -1,7 +1,9 @@
 ---
 title: Lesser dog-faced fruit bat
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fruit, bat, cynopterus, brachyotis, pteropodidae, vertebrate, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Pteropodidae
 genus: Cynopterus
@@ -23,13 +25,13 @@ subfamily: Cynopterinae
 tribe: Cynopterini
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0079m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 03</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/brachyotis/030917sbwrd0086m6l.jpg
 ---
 
 
@@ -82,7 +84,7 @@ time, even as she flies, for about 45-50 days.
 **Status and threats:** It
 is not listed among our threatened animals.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 ---

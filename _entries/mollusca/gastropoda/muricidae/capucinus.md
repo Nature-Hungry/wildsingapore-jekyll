@@ -1,7 +1,9 @@
 ---
 title: Mangrove murex
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, snail, shell,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, drill, chicoreus, capucinus, muricidae, gastropod, mollusc, snail,
+  shell,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Chicoreus
@@ -18,26 +20,26 @@ superfamily: Muricoidea
 subfamily: Muricinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
   caption: |
     <p>Pasir Ris Park, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2895m3.jpg
   caption: |
     <p>Pasir Ris Park, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050327sbwrg3818m3.jpg
   caption: |
     <p>Sungei Buloh, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3.jpg
   caption: |
     <p>Kranji Nature Trail, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/110207krjd6090m3a.jpg
   caption: |
     <p>Egg capsules?</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/050809lckg1034.jpg
   caption: |
     <p>Feeding on <a href="../../bivalvia/mytilidae/xenostrobus.htm">Little black mussels</a>?</p>
     <p>Lim Chu Kang, Aug 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/capucinus/091019prpd2893m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +82,7 @@ Shell opening circular with 'teeth' on the inner edge. Long
 siphonal canal. Operculum
 dark.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

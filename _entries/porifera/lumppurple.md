@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
+keywords: green, lumpy, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: encrusting
 title: Lumpy purple sponge
@@ -17,31 +17,31 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/080522cjd5879m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/170624cjd3253m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/240309tkrrg1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/240309tkrrg1.jpg
   caption: |
     <p>Pulau Tekukor, Mar 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2875297122612922&set=pcb.2875298959279405">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/100617tblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/100617tblks1m3.jpg
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4711295556/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/lumpypurple/050412tusd2426m3.jpg
 ---
 
 
@@ -64,7 +64,7 @@ on coral rubble. **Features:** 10-15cm.
 The sponge is encrusting with knobs with large holes at the tips.
 Colour purple.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

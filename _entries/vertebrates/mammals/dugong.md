@@ -1,7 +1,8 @@
 ---
 title: Dugong
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: dugong, seacow, cow, dugongnidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Dugongidae
 genus: Dugong
@@ -20,22 +21,22 @@ order: Sirenia
 subfamily: Dugonginae
 updated: Jan 2021
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr2m6l.jpg
   caption: |
     <p>Photos from <a href="http://rmbr.nus.edu.sg/news/index.php?entry=/news/20060608-dugong_tekong.txt">Raffles Museum news</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3.jpg
   caption: |
     <p>Dugong</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/070120cjm3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/b6m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/b6m6l.jpg
   caption: |
     <p>Gracie the captive dugong at Underwater World Sentosa on her 12th birthday Jan 09, from <a href="http://wildsingaporenews.blogspot.com/2009/01/rescued-dugong-at-underwater-worldl">Channel NewsAsia</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/dugong/060607rmbr1m6l.jpg
 ---
 
 
@@ -69,7 +70,7 @@ hundred kilometers in a few days as they feed from place to place.
 Our seagrass meadows are probably only one stop among many for dugongs
 that live in the area.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Features:** Adults 2.4-2.7m long and weighing 230-360kgs.

@@ -1,7 +1,9 @@
 ---
 title: Walker's cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cowrie, contradusta, cypraea, erronea, walkeri, cypraeidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Contradusta
@@ -19,31 +21,31 @@ subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 08 Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/2698539046/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8279m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080722cyrd8275m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks1.jpg
   caption: |
     <p>Cyrene Reef, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608414158158.1073741952.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks2.jpg
   caption: |
     <p>Cyrene Reef, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608414158158.1073741952.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/170812cyrlks3.jpg
   caption: |
     <p>Cyrene Reef, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608414158158.1073741952.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080721cyrlks1m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 08Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/2910731417/in/set-72157607718672165/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/150219cyrlks3m3.jpg
   caption: |
     <p>Cyrene Reef, Feb 15 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/02/cny-day-1-cyrene-reef.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/walkeri/080724cyrcck1m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -84,7 +86,7 @@ Shell
 somewhat pear-shaped, generally pale blue with 3 dark brown bands, centre band much broader, outer bands may be broken up into squares. Underside pale violet with brown spots and short, dark violet 'teeth'. The living animal has a red mantle with white branching finger-like structures (papillae) while the
 foot is red with some white dots or blotches.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

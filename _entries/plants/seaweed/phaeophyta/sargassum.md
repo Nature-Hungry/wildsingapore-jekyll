@@ -1,13 +1,18 @@
 ---
 title: Sargassum seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sargassum, brown, seaweed, weed, sargassaceae, phaeophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Sargassaceae
 genus: Sargassum
-species: ""
-attributes: [41, 97, 98]
+species: ''
+attributes:
+- 41
+- 97
+- 98
 inat_id: 130178
 stateofmatter: Life
 kingdom: Chromista
@@ -17,108 +22,108 @@ subclass: Fucophycidae
 order: Fucales
 updated: Oct 2015
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
   caption: |
     <p>Sargassum bloom over a reef.</p>
     <p>Sisters Island, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100103sisc0092m3.jpg
   caption: |
     <p>Large piles of sargassum washed ashore.</p>
     <p>Sisters Island, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/101106burs00361m3.jpg
   caption: |
     <p>Air bladders keep the seaweed afloat</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/111128sntd3968m3.jpg
   caption: |
     <p>Growing from a hard surface.</p>
     <p>Sentosa, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050529sjid3610m3a.jpg
   caption: |
     <p>Big 'leaves'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/051103sisg2808m3.jpg
   caption: |
     <p>Medium 'leaves'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/050509hntg5971m3a.jpg
   caption: |
     <p>Small 'leaves'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3.jpg
   caption: |
     <p>Fluffy bits reproductive structures?</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060212sisg4763m3a.jpg
   caption: |
     <p>Sisters Island, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3.jpg
   caption: |
     <p>Long bits reproductive structures?</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060227labg5117m3a.jpg
   caption: |
     <p>Labrador, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3d.jpg
   caption: |
     <p>Long bits reproductive structures?</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/060228labg5226m3e.jpg
   caption: |
     <p>Labrador, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040703sisd1674m3.jpg
   caption: |
     <p>Tiny <a href="../../../mollusca/cephalopoda/octopus">octopus</a> on sargassum.</p>
     <p>Sentosa, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
   caption: |
     <p>Tiny <a href="../../../crustacea/othercrust/shrimp/rednose">Red-nose shrimp</a> sheltering in sargassum.</p>
     <p>Sentosa, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040520sntad0020m3.jpg
   caption: |
     <p>Tiny fish and entangled green seaweed on sargassum.</p>
     <p>Sentosa, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2113m3.jpg
   caption: |
     <p><a href="../../../mollusca/gastropoda/columbellidae/dotted">Dove snail</a> eats tiny algae growing on sargassum.</p>
     <p>St.</p>
     <p>John's Island, Sep 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
   caption: |
     <p>The <a href="../../../mollusca/slugs/nudibranchia/crosslandia">Crosslandia nudibranch</a> looks just like sargassum!</p>
     <p>St.</p>
     <p>John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101010scyrd1984m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101010scyrd1984m3.jpg
   caption: |
     <p>A <a href="../../../worm/polychaeta/giant">Giant reef worm</a> snatches a bunch of sargassum back into its lair.</p>
     <p>South Cyrene, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9913m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100810sngd9905m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8804m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8503m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100130brkd8506m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100131slud8819m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100811slud0077m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091231biod6972m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/091204pawd0011m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/100911sisd1140m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -154,7 +159,7 @@ seaweed with strange air bladders is commonly encountered on our Southern
 shores, but rarely on our Northern shores. It grows on the rocky shores
 as well as on coral rubble.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 if you
 learn only 3 things about them ...  

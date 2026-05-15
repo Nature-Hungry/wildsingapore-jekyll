@@ -1,11 +1,13 @@
 ---
 title: Pythia snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pythia, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ellobiidae
 genus: Pythia
-species: ""
+species: ''
 attributes: []
 inat_id: 371530
 stateofmatter: Life
@@ -21,19 +23,19 @@ superfamily: Ellobioidea
 subfamily: Pythiinae
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
   caption: |
     <p>Sungei Buloh Besar, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/090112smkd5042m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/031204prpad0039m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8644m6l.jpg
   caption: |
     <p>Sungei Buloh Besar, Apr 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/pythia/110406sbbd8682m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,7 +78,7 @@ like most other marine snails) and like others of the Family Ellobidae,
 it lacks an operculum. Body dark, paler towards the end of the foot,
 with short dark long tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

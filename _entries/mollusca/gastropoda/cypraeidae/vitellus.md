@@ -1,7 +1,9 @@
 ---
 title: Milk-spotted cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "milk, spotted, cowrie, cypraea, lyncina, vitellus, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: milk, spotted, cowrie, cypraea, lyncina, vitellus, cypraeidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Lyncina
@@ -19,16 +21,16 @@ subfamily: Luriinae
 tribe: Austrocypraeini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
   caption: |
     <p>Kusu Island, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5648m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829ssd5649m3.jpg
   caption: |
     <p>Underside.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/vitellus/040829kusd5644m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,7 +79,7 @@ to tell apart slugs and animals that look like slugs](../../../glossary/flatworm
 **Human uses:** It is collected for
 food and the shell for the shell trade.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

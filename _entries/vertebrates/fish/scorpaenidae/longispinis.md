@@ -1,9 +1,15 @@
 ---
-title: "Longspined waspfish "
+title: 'Longspined waspfish '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon, longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: longspined, long, spine, waspfish, wasp, scorpionfish, scorpion, fish, paracentropogon,
+  longispinus, tetrarogidae, scorpaenidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Scorpaenidae
 genus: Paracentropogon
 species: longispinis
@@ -19,53 +25,53 @@ suborder: Scorpaenoidei
 subfamily: Tetraroginae
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/060429skdd1404m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/060429skdd1404m6l.jpg
   caption: |
     <p>Prominent tube-like scales along the lateral line.</p>
     <p>Deeply incised membranes between dorsal fin spines Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3a.jpg
   caption: |
     <p>Backward facing spines next to the mouth, First dorsal fin almost between the eyes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/101109sntd2715m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/101109sntd2715m6l.jpg
   caption: |
     <p>Sentosa, Nov 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/250627bbky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/250627bbky3.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/251011labjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/251011labjt2.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10163310837118119&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/151001blyjt9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/151001blyjt9m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153609277128119.1073741872.696593118&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/251011tgrlks26.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/251011tgrlks26.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/100528tkkjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/100528tkkjk.jpg
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4646674969/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/141109lazlks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/141109lazlks6m3.jpg
   caption: |
     <p>Seringat-Kias, Nov 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10152841771308158.1073741864.547198157&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/090822sislt1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/090822sislt1m3.JPG
   caption: |
     <p>Sisters Island, Aug 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/08/little-sisters-island-revisitedl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/180715thnjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/180715thnjll1.jpg
   caption: |
     <p>Terumbu Hantu, Jul 18Photo shared by Jianlin Liau on <a href="https://www.facebook.com/photo.php?fbid=10155752808161295&set=a.10155752806801295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/180615trydc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/180615trydc1.jpg
   caption: |
     <p>Terumbu Raya, Jun 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1618534761596627&set=a.1618534384929998&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/140909tptjll2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/140909tptjll2m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Sep 14Photo shared by Jianlin Liau on <a href="https://www.facebook.com/media/set/?set=a.10152381963996295.1073741841.542241294&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/210428slujll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/210428slujll2.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liau on <a href="https://www.facebook.com/photo?fbid=10158234249821295&set=a.10158234241606295">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -123,7 +129,7 @@ scorpionfish](../centrogenyidae/vaigiensis) (*Centrogenys vaigiensis*), a groupe
 looks very similar. Here's more on [how
 to tell apart fishes that look like stones](../cfstonefish).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

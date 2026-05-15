@@ -1,36 +1,49 @@
 ---
-title: "Beige sheet ascidians (Ascidiacea) "
+title: 'Beige sheet ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
   caption: |
     <p>East Coast, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4897m3a.jpg
   caption: |
     <p>East Coast, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/120803chgd9293m3.jpg
   caption: |
     <p>Changi, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/070714bbd3972m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3.jpg
   caption: |
     <p><a href="../worm/polycladida/indicus">Flatworm</a> on the ascidian.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/050822cjg2070m3b.jpg
   caption: |
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/101221tmfts02262m6l.jpg
   caption: |
     <p><a href="../worm/polycladida/ascidianbeige">These flatworms</a> were seen on Beige sheet ascidians growing beneath a stone.</p>
     <p>Tanah Merah, Dec 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
+links_references: |-
+  **Links**
+
+
+  - [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333) on the National Exotic Marine and Estuarine Species Information System, Smithsonian Environmental Research Centre.
+
+
+  **References**
+
+
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
 ---
  
 
@@ -54,7 +67,7 @@ In Serina Lee's article, photos of *Didemnum psammatodes* closely resemble these
 # What eats them?
 Various kinds of [flatworms](../worm/polycladida/polycladida) (Order Polycladida) are sometimes seen on the sheets, possibly eating them.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 
@@ -69,11 +82,3 @@ On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)
 
 - [Photos](https://www.flickr.com/search/?user_id=54527470@N00&sort=date-posted-desc&view_all=1&text=Beige sheet ascidian) for free download
 - [Map of sightings in Singapore](https://www.flickr.com/photos/wildsingapore/tags/Beige%20sheet%20ascidian/map?&fLat=1.2612&fLon=103.8661&zl=11&order_by=recent)
-
-# Links
-
-- [*Didemnum psammatodes*](https://invasions.si.edu/nemesis/browseDB/SpeciesSummary.jsp?TSN=-333) on the National Exotic Marine and Estuarine Species Information System, Smithsonian Environmental Research Centre.
-
-# References
-
-- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. *State of knowledge of ascidian diversity in South China Sea and new records for Singapore*. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.

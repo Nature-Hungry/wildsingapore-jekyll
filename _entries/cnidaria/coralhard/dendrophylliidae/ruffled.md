@@ -1,11 +1,13 @@
 ---
 title: Ruffled disk coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
-species: ""
+species: ''
 attributes: []
 inat_id: 92703
 stateofmatter: Life
@@ -16,82 +18,82 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7130m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7133m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060401ulrd0801m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060401ulrd0801m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060401ulrd0801m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060401ulrd0801m3b.jpg
   caption: |
     <p>Is this a barnacle growing in the coral?</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/111127sisd3909m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/111127sisd3909m3.jpg
   caption: |
     <p>Sisters Island, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/111127sisd3913m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/111127sisd3913m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060810rlhd5593m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060810rlhd5593m3.jpg
   caption: |
     <p>Raffles Lighthouse, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060810rlhd5594m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/060810rlhd5594m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/080719sntd7768m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/080719sntd7768m3.jpg
   caption: |
     <p>Sentosa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/080719sntd7776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/080719sntd7776m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/061122smkd6883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/061122smkd6883m3.jpg
   caption: |
     <p>Pulau Semakau, Nov 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/070518tkrd0977m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/070518tkrd0977m3.jpg
   caption: |
     <p>Pulau Tekukor, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/031224sisd0085m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/031224sisd0085m3.jpg
   caption: |
     <p>Sisters Island, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100131slud8858m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100131slud8858m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100131slud8858m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100131slud8858m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100130brkblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100130brkblks1m3.jpg
   caption: |
     <p>Terumbu Berkas Besar, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100130brkblks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100130brkblks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352584583/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4354m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4354m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4354m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5521m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5521m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5523m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5523m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5523m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100613sngd5523m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4293m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100530tbkd4293m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100601slud4832m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/100601slud4832m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -143,7 +145,7 @@ sometimes seen sheltering within the folds. Circular or oval bumps
 with a small slit in the centre are sometimes seen among the polyps
 and even on the underside. Are these barnacles?
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

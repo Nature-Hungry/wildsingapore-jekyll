@@ -1,11 +1,15 @@
 ---
 title: Commensal porcelain crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tiny, commensal, porcelain, crab, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tiny, commensal, porcelain, crab, porcellanidae, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 122]
+attributes:
+- 38
+- 122
 family: Porcellanidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 47805
 stateofmatter: Life
@@ -22,44 +26,44 @@ infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
   caption: |
     <p>In branching <a href="../../../../cnidaria/coralhard/poritidae/porbranch">hard coral</a>.</p>
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060625bbd3494m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060625bbd3494m3a.jpg
   caption: |
     <p>On <a href="../../../../cnidaria/coralsoft/neppink">pink flowery soft coral</a>.</p>
     <p>Beting Bronok, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/050621skdg7978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/050621skdg7978m3.jpg
   caption: |
     <p>On a <a href="../../../../porifera/chocolate">sponge</a>.</p>
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060516chgd2003m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/060516chgd2003m3a.jpg
   caption: |
     <p>Changi, May 06On <a href="../../../../cnidaria/coralsoft/neppink">pink flowery soft coral</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3423m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3423m3c.jpg
   caption: |
     <p>Beting Bronok, Jun 06 In <a href="../../../../cnidaria/coralsoft/nepball">ball flowery soft coral</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/110715cyrd6659m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 11In <a href="../../../../cnidaria/coralsoft/nepball">asparagus flowery soft coral</a> .</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/140913pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/140913pgllks.JPG
   caption: |
     <p>On an <a href="../../../../ascidiacea/ascidiacea">ascidian</a>.</p>
     <p>Punggol, Sep 14Photo shared by Loh Kok Sheng on his <a href="http://wondercreation.blogspot.sg/2014/09/full-of-crabs-at-punggol-shorel">blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/240706ubnlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/240706ubnlks4.jpg
   caption: |
     <p>On <a href="../../../../cnidaria/coralsoft/neppink">pink flowery soft coral</a>.</p>
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/101224bsislks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/101224bsislks.jpg
   caption: |
     <p>On hard coral.</p>
     <p>Sisters Island, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/12/christmas-eve-with-big-sisterl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/160704cjlks2l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/160704cjlks2l.jpg
   caption: |
     <p>On a sponge.</p>
     <p>Chek Jawa, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/predawn-at-chek-jawa-coral-rubblel">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/commensal/070615sntrd2221m3c.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -110,7 +114,7 @@ of display.
 The [Painted porcelain crab](picta) (*Porcellanella
 triloba*) that lives in sea pens has a separate fact sheet.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

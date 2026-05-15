@@ -1,11 +1,13 @@
 ---
 title: Similar nerite snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chamaleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: chamaleon, nerita, nerite, chamaeleon, neritidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Neritidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50760
 stateofmatter: Life
@@ -17,45 +19,45 @@ order: Cycloneritida
 superfamily: Neritoidea
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080620chgd5946m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080620chgd5946m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3329m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3329m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/071129blyd7704m3a.jpg
   caption: |
     <p>Spire slightly sticking out.</p>
     <p>Spire sticking out a lot.</p>
     <p>Spire not sticking out or depressed.</p>
     <p>Thicker ribs Smooth finer ribs Rougher texture of shell</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3.jpg
   caption: |
     <p>Underside may have ridges and rounded bumps.</p>
     <p>Underside may be wrinkled or have some ridges.</p>
     <p>Underside smooth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8926m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/histrio/060301kusg5365m3b.jpg
   caption: |
     <p>A few tiny ridged 'teeth' at the shell opening.</p>
     <p>3-4 - 'teeth' at the shell opening.</p>
@@ -63,7 +65,7 @@ page_images:
     <p>Sometimes one large 'tooth' at outer lip.</p>
     <p>Sometimes one large 'tooth' at outer lip.</p>
     <p>No large 'tooth' at outer lip.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/chamaeleon/080802sjid8927m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -104,7 +106,7 @@ animal.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 **[Chameleon
 nerite snail](chamaeleon.htm)**  

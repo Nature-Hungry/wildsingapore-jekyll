@@ -1,9 +1,18 @@
 ---
 title: Dark Diana conch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum, strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: diana, ear, conch, strombus, euprotomus, aurisdianae, aratrum, atratum,
+  strombidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 64, 71, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 64
+- 71
+- 100
+- 111
+- 123
 family: Strombidae
 genus: Euprotomus
 species: aratrum
@@ -17,19 +26,19 @@ order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
   caption: |
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0823m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk1.jpg
   caption: |
     <p>Changi, May 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3575533688/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090529chgjk2.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/aratrum/090428chgd0825m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,7 +79,7 @@ is pearly and orange and there are brown stains on the underside. The flared
 shell protects the long proboscis as the animal sweeps the bottom
 for titbits. Large eyes on
 eyestalks, each eyestalk has a tentacle, the purpose of which is not known. Like other conch snails, it hops using the knife-like operculum at the tip of a long muscular foot.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 According to Abbott, *Strombus aratrum* is a subspecies of *S.

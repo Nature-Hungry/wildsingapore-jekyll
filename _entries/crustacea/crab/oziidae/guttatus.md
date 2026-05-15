@@ -1,9 +1,16 @@
 ---
-title: "Spotted-belly "
+title: 'Spotted-belly '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spotted, belly, forceps, crab, ozius, guttatus, oziidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spotted, belly, forceps, crab, ozius, guttatus, oziidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
 family: Oziidae
 genus: Ozius
 species: guttatus
@@ -24,50 +31,50 @@ zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
   caption: |
     <p>Pulau Semakau, Oct 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2737m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2737m3a.jpg
   caption: |
     <p>Plain smooth upper side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2748m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2748m3.jpg
   caption: |
     <p>Spotted belly on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3.jpg
   caption: |
     <p>One with a 'peeled' snail.</p>
     <p>Sentosa, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/040521sntad0043m3b.jpg
   caption: |
     <p>Eyes dark with pale spots.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/091206tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/091206tmlks.JPG
   caption: |
     <p>Tanah Merah, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4165784173/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/251010blytl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/251010blytl2.jpg
   caption: |
     <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/180912tkkmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/180912tkkmn3.jpg
   caption: |
     <p>Pulau Tekukor, Sep 18Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155838284463660&set=a.10155838276003660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1.jpg
   caption: |
     <p>Lazarus, Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663612775112&set=a.10166663609395112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/220104lazky1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/230831sjirk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/230831sjirk4.jpg
   caption: |
     <p>St, John's Ialand, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160700871922906&set=a.10160700864147906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/210822ssisvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/210822ssisvc1.jpg
   caption: |
     <p>Small Sisters Island, Aug 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648325007945&set=a.10158648464857945">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/250331hntky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/250331hntky2.jpg
   caption: |
     <p>Pulau Hantu, Apr 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0go38mGJSfyJygDkfajeWjyN2MDJjXhZKos9sDVhafGx7yLR9oQQYJaiVB3Q11vSbl?__cft__[0]=AZWCqVMArp8RHjvuL6L95hfPipsVS0TECaleXYFXr_GBy7f-WjS38JtNwfZJvHMI3dSFvjebgMQ-NrFOJHRV1ju63-WDo0WsPgGjCmyNGBccN_Yyi3aAd5JflWyM4E5EZqFcD4Emc5iTfsX6h-GVRLNAbxyZkuqPpRQapqt9lsg75w&__tn__=%2CO%2CP-R">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/110421jngmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/110421jngmn1m3.jpg
   caption: |
     <p>Pulau Jong, Apr 11 Photo shared by Marcus Ng on <a href="http://www.facebook.com/photo.php?fbid=10150159607888660&set=a.10150159606398660.292070.624178659&type=1">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/oziidae/guttatus/051018smkg2734m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -127,7 +134,7 @@ is peeled open or crushed.
 **Sometimes confused with** similar
 crabs in the same habitat. Here's more on how to tell apart [big
 crabs with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

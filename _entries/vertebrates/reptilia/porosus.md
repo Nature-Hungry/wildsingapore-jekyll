@@ -1,7 +1,9 @@
 ---
-title: "Estuarine crocodile "
+title: 'Estuarine crocodile '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: estuarine, crocodile, crocodylus, porosus, crocodylidae, vertebrate, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Crocodylidae
 genus: Crocodylus
@@ -16,19 +18,19 @@ class: Reptilia
 order: Crocodylia
 updated: Apr 2018
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/090913sbwrtsy1m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09 Photo shared by Teo Siyang on <a href="http://uforest.blogspot.com/2009/09/crocodilel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc3m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Oct 09Photo shared by Brandon Chia on <a href="http://www.flickr.com/photos/brandonchia/3997939750/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/091010sbwrbc2m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Oct 09 Photo shared by Brandon Chia on <a href="http://www.flickr.com/photos/brandonchia/3997936872/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/porosus/100221sbwrd9556m3.jpg
 ---
 
 
@@ -94,7 +96,7 @@ Here's NParks's advice on what you should do to stay safe
 - If a crocodile is spotted on the path, stay calm and back away slowly.
 - Do not approach, provoke or feed the crocodile.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

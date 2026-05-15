@@ -1,7 +1,9 @@
 ---
 title: Forskal's sidegill slug
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: side, gill, sidegill, notaspidea, pleurobranchus, forskalii, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pleurobranchidae
 genus: Pleurobranchus
@@ -20,65 +22,65 @@ order: Pleurobranchida
 superfamily: Pleurobranchoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
   caption: |
     <p>Tanah Merah, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3a.jpg
   caption: |
     <p>Pair of tubular rhinophores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6551m3.jpg
   caption: |
     <p>GIlls on the side.</p>
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6685m6l.jpg
   caption: |
     <p>Many were seen in areas thick with <a href="../../../ascidiacea/greengumdrop.htm">Green gum drop ascidians</a>.</p>
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110715cyrd6515m3.jpg
   caption: |
     <p>Laying egg ribbons.</p>
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230423cyrlks4.jpg
   caption: |
     <p>Mating?!</p>
     <p>Cyrene Reef, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160612793888158&set=a.10160612798858158">facebook</a></p>
-- url: "https://live.staticflickr.com/5810/23358180213_0b69705a41_z.jpg"
+- url: https://live.staticflickr.com/5810/23358180213_0b69705a41_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/23358180213/ "Forskal's sidegill slug (Pleurobranchus forskalii)")</p>
-- url: "https://live.staticflickr.com/1574/23902526511_729a3745ff_z.jpg"
+- url: https://live.staticflickr.com/1574/23902526511_729a3745ff_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/23902526511/ "Forskal's sidegill slug (Pleurobranchus forskalii)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/171204chglks1.jpg
   caption: |
     <p>Changi, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155911535543158&set=a.10155911533538158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/230608tmftlks7.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160717498278158&set=a.10160717509253158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/080410cyrtsj1m3.jpg
   caption: |
     <p>Cyrene Reef, Oct 08 Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/04/teamseagrass-at-cyrene-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/071101cyrlks1m3.jpg
   caption: |
     <p>Cyrene Reef, Nov 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/11/lush-seagrass-meadow-of-cyrene-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/110814smklks6m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/08/finally-galloping-sea-star-at-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/160124smkelks.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153899838098158.1073741908.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/180421smkslks.jpg
   caption: |
     <p>Pulau Semakau South, Apr 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156283865548158.1073741964.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/2007025smknlks4.jpg
   caption: |
     <p>Pulau Semakau North, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485856238158&set=a.10158485859383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/170311bbbrk.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 17Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10154948261927906.1073741883.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/100130brklks18m3.jpg
   caption: |
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352607687/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/notaspidae/pleurobranchus/090606tmftd3261m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -125,7 +127,7 @@ The large single gill is found on the right side between the mantle
 and the foot. The underside is smooth and unmarked. The slug appears
 to secrete a slime that feels acidic and is hard to rub off your hand.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,12 @@
 ---
 title: Seagrasses
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: seagrass, hydrocharitaceae, potamogetonaceae, cymodoceaceae, grass, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info
 layout: entry
 family: Cymodoceaceae
-genus: ""
+genus: ''
 species: Family
 attributes: []
 inat_id: 50376
@@ -16,21 +18,21 @@ class: Liliopsida
 order: Alismatales
 updated: Dec 2019
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](fngseagrass)</p>
-- url: "https://live.staticflickr.com/7844/46448551964_034a6ea771_z.jpg"
+- url: https://live.staticflickr.com/7844/46448551964_034a6ea771_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/46448551964/ "Seagrass meadows at East Coast Park") Lush seagrass meadows at East Coast Park, Feb 2019 Features: Like other 'normal' land plants, seagrasses have green leaves where photosynthesis takes place.</p>
     <p>These leaves have veins to transport water around (called a vascular system).</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/020714cjd3111m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/020714cjd3111m3a.jpg
   caption: |
     <p>Seagrass leaves have veins.</p>
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
   caption: |
     <p>Seagrass have underground stems with roots Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050623cjd4106m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/050623cjd4106m3.jpg
   caption: |
     <p><a href="spinulosa">Fern seagrass</a> has a leaf made up of little leaflets Chek Jawa, Jun 05 Seagrass flowers: Seagrass flowers are usually small and inconspicuous.</p>
     <p>Water plays a big role in pollination.</p>
@@ -38,53 +40,53 @@ page_images:
     <p>Their seeds are also dispersed by water.</p>
     <p>In some species, the same plant produces male and female flowers.</p>
     <p>In others, male and female flowers are produced in separate plants.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg
   caption: |
     <p>Flowering <a href="ovalis">Spoon seagrass</a>?</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050310smkg3174m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/050310smkg3174m3.jpg
   caption: |
     <p>Female flower of <a href="enhalus">Tape seagrass</a> with tiny male flowers in the centre.</p>
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/thalassia/060228labg5266m3.jpg
   caption: |
     <p>Flowers of the <a href="thalassia">Sickle seagrass</a> Labrador, Mar 06 Role of seagrasses: Seagrass meadows are a vital habitat that is often overlooked and loses out in media coverage to the more glamorous reefs.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/seagrass/100711cyrd8201m3.jpg
   caption: |
     <p>The tiny <a href="../../mollusca/slugs/anaspidae/seagrass">seagrass sea hare</a> is sometimes seen on <a href="enhalus">Tape seagrass</a>.</p>
     <p>Cyrene Reef, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080208hntd9427m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/080208hntd9427m3a.jpg
   caption: |
     <p>Small animals settle on <a href="enhalus">Tape seagrass</a>.</p>
     <p>Pulau Hantu, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg
   caption: |
     <p>Eggs laid on <a href="enhalus">Tape seagrass</a>.</p>
     <p>Cyrene Reef, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/others/070120cjd7618m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/070120cjd7618m3.jpg
   caption: |
     <p>A fresh dugong feeding trail!</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/others/190523cyrm6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/others/190523cyrm6l.jpg
   caption: |
     <p>Dugong feeding trails Cyrene Reef, May 19 However, seagrasses do provide food indirectly.</p>
     <p>Microscopic algae grow on their leaves and larger seaweeds get entangled among the seagrasses.</p>
     <p>Many small animals graze on these algae.</p>
     <p>They are in turn eaten by larger animals.</p>
     <p>In this way, seagrasses are an important part of the food chain in other ecosystems nearby, such as sandy shores, mangroves and coral reefs.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/1000619cjd6799m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/1000619cjd6799m3.jpg
   caption: |
     <p>Bleaching following oil spill in May 10.</p>
     <p>Chek Jawa, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1329m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1329m3.jpg
   caption: |
     <p>Bleaching, cause unknown.</p>
     <p>Sentosa, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1334m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/110509sntd1334m3.jpg
   caption: |
     <p>Burnt, cause unknown.</p>
     <p>Sentosa, Apr 11</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../indexl)
 
@@ -95,7 +97,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals)
 | [all plants](../../plants)

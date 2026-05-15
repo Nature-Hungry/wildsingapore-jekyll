@@ -1,7 +1,9 @@
 ---
-title: "Black cow nudibranch "
+title: 'Black cow nudibranch '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chromodoris, orientalis, chromodoriidae, doridina, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: chromodoris, orientalis, chromodoriidae, doridina, nudibranchia, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Chromodoris
@@ -23,28 +25,28 @@ superfamily: Chromodoridoidea
 subfamily: Chromodoridinae
 updated: May 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
   caption: |
     <p>Beting Bronok, Jun 24Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?vanity=ilmare77&set=a.10161648044993713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/210528lygjll10.jpg
   caption: |
     <p>Changi Loyang, May 21Photo shared by Jianlin LIu on <a href="https://www.facebook.com/photo?fbid=10158304969061295&set=a.10158300364091295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/251012chgmn4.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/250529cjmn3.jpg
   caption: |
     <p>Chek Jawa, May 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161503830463660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/050724bbg0228m3.jpg
   caption: |
     <p>Beting Bronok, Jul 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/orientalis/240625bbtch3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -92,7 +94,7 @@ of the Family Chromodorididae absorb the toxic chemicals in
 their sponge food and incorporate these chemicals into the mantle
 glands on their backs where they repel predators.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

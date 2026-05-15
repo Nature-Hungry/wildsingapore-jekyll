@@ -1,9 +1,14 @@
 ---
 title: Smasher mantis shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "gonodactylus chiragra, gonodactylidae, smasher, mantis, shrimp, stomatopod, stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: gonodactylus chiragra, gonodactylidae, smasher, mantis, shrimp, stomatopod,
+  stomatopoda, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Gonodactylidae
 genus: Gonodactylellus
 species: viridis
@@ -20,63 +25,63 @@ suborder: Unipeltata
 superfamily: Gonodactyloidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070804smkg1912m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070804smkg1912m3.jpg
   caption: |
     <p>Hiding next to a seagrass blade.</p>
     <p>Pulau Semakau, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3.jpg
   caption: |
     <p>Pincers modified into smashing clubs.</p>
     <p>Sisters Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/070630sisd2890m3b.jpg
   caption: |
     <p></p>
-- url: "https://live.staticflickr.com/3711/33347711166_32483c233d_z.jpg"
+- url: https://live.staticflickr.com/3711/33347711166_32483c233d_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/54527470@N00/33347711166 "Smasher mantis shrimp (Gonodactylus chiragra)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/190123lazjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/190123lazjll2.jpg
   caption: |
     <p>Lazarus, Feb 19 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156161217981295&set=a.10156161217696295&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/260217bsisml2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/260217bsisml2.jpg
   caption: |
     <p>Big Sisters Island, Feb 26 Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122202745808554640&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170812cyray1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170812cyray1.jpg
   caption: |
     <p>Cyrene, Aug 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211347438093940.1073741904.1000600604&type=3">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/260101cryyls1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/260101cryyls1.jpg
   caption: |
     <p>Cyrene, Feb 26 Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122121553899062825&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/200627cyrtch1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/200627cyrtch1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/200627cyrtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/200627cyrtch1.jpg
   caption: |
     <p>Cyrene, Jun 20 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158605197168713&set=a.10158605192538713&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/100502trytch10m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/100502trytch10m6l.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-rayal">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/190902tryky5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/190902tryky5.jpg
   caption: |
     <p>Terumbu Raya, Sep 19 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170317bbbrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170317bbbrk1.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 17 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10154948308892906&set=a.10154948261927906&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/160124smkell2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/160124smkell2.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153671838553964.1073741871.716233963&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170402smkn2tch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170402smkn2tch.jpg
   caption: |
     <p>Pulau Semakau North, Apr 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10155228679218713&set=a.10155228571078713.1073742074.619308712&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170402smkn1tch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/170402smkn1tch.jpg
   caption: |
     <p>Pulau Semakau North, Apr 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10155228692503713&set=a.10155228571078713.1073742074.619308712&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/250712tpljt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/250712tpljt4.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162930972213119&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/stomatopoda/smasher/090208smkd6585m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -123,7 +128,7 @@ the victim's shell is further cracked. The blows of smasher mantis
 shrimp are so powerful that they have been known to break aquarium
 glass!
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

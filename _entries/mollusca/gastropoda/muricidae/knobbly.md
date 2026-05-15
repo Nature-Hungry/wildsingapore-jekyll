@@ -1,11 +1,13 @@
 ---
 title: Knobbly drill
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "knobbly, drill, morula, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: knobbly, drill, morula, muricidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Morula
-species: ""
+species: ''
 attributes: []
 inat_id: 209538
 stateofmatter: Life
@@ -18,16 +20,16 @@ superfamily: Muricoidea
 subfamily: Ergalataxinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2439m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/041212kusd8712m3.jpg
   caption: |
     <p>Teeth at narrow shell opening Kusu Island, Dec 04</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/knobbly/081206smkd2440m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,7 +76,7 @@ of shell. They are difficult to distinguish with certainty in the
 field. On this website, they are grouped by external features for
 convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

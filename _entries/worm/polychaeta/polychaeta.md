@@ -1,11 +1,12 @@
 ---
 title: Bristleworms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bristle, worm, bristleworm, polychaete, annelid, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sabellidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49282
 stateofmatter: Life
@@ -17,13 +18,13 @@ infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3b.jpg
   caption: |
     <p>Bristles on the sides of the worm</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702cjd1447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702cjd1447m3.jpg
   caption: |
     <p>This tiny <a href="../tubeworm/tubeworms">tubeworm</a> has eyes, tentacles, and feathery appendages on the sides that act as gills.</p>
     <p>Changi, Jul 04 Complex worms: Bristleworms are rather complex and well developed.</p>
@@ -31,15 +32,15 @@ page_images:
     <p>Their heads bear eyes (from 2 to 4 pairs), sensory organs, the mouth and contain a brain.</p>
     <p>Many have specialised feeding structures on their head.</p>
     <p>These can range from powerful jaws to long tentacles that collect food.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia/050412tusd2407m3.jpg
   caption: |
     <p>This <a href="http://www.wildsingapore.com/wildfacts/worm/polychaeta/chloeia">fireworm</a> swims actively and has really elaborate bristles.</p>
     <p>Raffles Marina, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/banded/040830hntd5883m3.jpg
   caption: |
     <p><a href="sabellidae">Fanworms</a> are bristleworms with a delicate fan of feathery tentacles on their heads.</p>
     <p>Pulau Hantu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm/120511tpld3253m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm/120511tpld3253m3.jpg
   caption: |
     <p><a href="http://www.wildsingapore.com/wildfacts/worm/polychaeta/scaleworm">Scale worms</a> are tiny and often overlooked.</p>
     <p>Terumbu Pempang Laut, May 12 What do they eat?</p>
@@ -47,7 +48,7 @@ page_images:
     <p>These are captured with strong jaws that can be extended and retracted.</p>
     <p>Some can inject a poison with their jaws.</p>
     <p>Some predatory bristleworms live in tubes where they lie in wait for suitable prey.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/reef/040804skdd4129m3.jpg
 ---
 
 
@@ -99,7 +100,7 @@ function as gills.
 **Sometimes confused with** [brittlestars](../../echinodermata/ophiuroidea/ophiuroidea).
 Here's more on [how to tell them
 apart](../../glossary/wormstar).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Bristleworms have amazing powers of regeneration. Many can replace
 body parts that get chomped off by predators. This even includes the

@@ -1,7 +1,9 @@
 ---
-title: "Dolphin snail "
+title: 'Dolphin snail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dolphin, angaria, delphinus, trochidae, angariinae, angariidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Angariidae
 genus: Angaria
@@ -17,30 +19,30 @@ order: Trochida
 superfamily: Trochoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
   caption: |
     <p>Upper side usuallyunder a thick layer of encrusting organisms.</p>
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
   caption: |
     <p>Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110504srplks.JPG
   caption: |
     <p>Sentosa Serapong, May 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5916935969/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/110220lazmn.jpg
   caption: |
     <p>Shell of a dead snail.</p>
     <p>Lazarus Island, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/5463766996/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/240608kustl3.jpg
   caption: |
     <p>Kusu Island, Jun 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161279668269264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/220521bbbccn3.jpg
   caption: |
     <p>Beting Bemban Besar, May 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159726922558654&set=a.10159726900588654">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2545m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +84,7 @@ other commonly seen turban snails, the ooperculum is thin, brown and
 made of a horn-like material. Body with dark blotches, a pair
 of long tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,12 @@
 ---
 title: Tigerish olive snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: olive, snail, shell, oliva, tigridella, olividae, gastropod, mollusc, sand,
+  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Olividae
-genus: ""
+genus: ''
 species: Oliva
 attributes: []
 inat_id: 61805
@@ -17,43 +19,43 @@ order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
   caption: |
     <p>Changi, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3b.jpg
   caption: |
     <p>Tall conical spire.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5121m3.jpg
   caption: |
     <p>Shell opening purplish brown</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5130m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5134m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5134m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4780m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4783m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090622chgd4783m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4967m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4968m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/090623ecpd4968m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1.jpg
   caption: |
     <p>Changi East (Lost Coast), Dec 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163467533269264&type=3&ref=embed_post">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/251206chgetm1b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/tigridella/130401chgd5120m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -95,7 +97,7 @@ dark brown or black blotchy bars. The shell opening purplish brown.Body large be
 long siphon sticks out of the notch in the shell. It does not have
 an operculum.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

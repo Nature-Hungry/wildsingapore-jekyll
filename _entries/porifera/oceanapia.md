@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,"
+keywords: pink, puff, ball, sponge, oceanapia, sagittaria, phloeodictyidae, porifera,
 layout: entry
 shape: ball
 title: Pink puff ball sponge
@@ -17,38 +17,38 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
   caption: |
     <p>Pulau Semakau, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3.jpg
   caption: |
     <p>Pulau Hantu, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/080208hntd9514m3a.jpg
   caption: |
     <p>\Species are difficult to positively identify without dissection and examination of internal parts.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/250501skdlll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/250501skdlll1.jpg
   caption: |
     <p>Pulau Sekudu, May 25Photo shared by Low Liong Leong on <a href="https://www.facebook.com/media/set/?set=a.2723467284511394&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210401sntmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210401sntmn2.jpg
   caption: |
     <p>Sentosa Tg Rimau, Apr 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158162991218660&set=a.10158162992183660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210228lazrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210228lazrk1.jpg
   caption: |
     <p>Lazarus Island, Feb 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158910292937906&set=a.10158910280417906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/251009sjilvo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/251009sjilvo3.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136995108927700&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/170628jngll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/170628jngll2.jpg
   caption: |
     <p>Pulau Jong, Jun 17Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1458830684140266&set=a.1458829354140399&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/151225tsmklks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/151225tsmklks1m3.jpg
   caption: |
     <p>Terumbu Semakau, Dec 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/12/christmas-with-full-moon-at-terumbu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210428slumn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/210428slumn3.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158223552443660&set=a.10158223378038660">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/oceanapia/110521smks01955m3.jpg
 ---
 
 
@@ -75,7 +75,7 @@ Colour usually a deep maroon to bright pink.
   
 The capitate structure is where the water is 'exhaled' from the sponge,
 and also where propagules (new sponges) are dispersed.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

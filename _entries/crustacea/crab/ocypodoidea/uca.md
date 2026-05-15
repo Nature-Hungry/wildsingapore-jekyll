@@ -1,7 +1,8 @@
 ---
-title: "Fiddler crabs "
+title: 'Fiddler crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ocypodidae
 genus: Uca
@@ -26,60 +27,60 @@ subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Jan 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngfiddlers)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090611prpd3944m3.jpg
   caption: |
     <p>Female (top) and male (bottom).</p>
     <p>Pasir Ris, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/041031cjd7966m3a.jpg
   caption: |
     <p>Males can't feed with the enlarged pincer and have only one small pincer to feed with.</p>
     <p>Chek Jawa, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/040108ubnd0080m3.jpg
   caption: |
     <p>Females have two small pincers and so can feed faster.</p>
     <p>Pulau Ubin Jan 04 Looking out: Eyes mounted on long stalks give the crab a good all-round view on the flat terrain where they are usually found.</p>
     <p>When the crab scuttles back into its burrow, the eyestalks fold down into grooves along the body.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/040108ubnd0113m3.jpg
   caption: |
     <p>Males may be 'right' or 'left' handed.</p>
     <p>Pulau Ubin, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
   caption: |
     <p>Male displaying, waving his legs and enlarged pincer.</p>
     <p>St John's Island, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/070505kusg9113m3.jpg
   caption: |
     <p>Mating usually happens inside the burrow, but this shameless pair was outside!</p>
     <p>Kusu Island, May 07 Role in the habitat: Fiddler crabs are eaten by many animals higher up in the food chain.</p>
     <p>The Kingfisher is among the birds that might snack on them.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
   caption: |
     <p><a href="annulipes">Porcelain fiddler crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/vocans/090510hntd1140m3.jpg
   caption: |
     <p><a href="vocans">Orange fiddler crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
   caption: |
     <p><a href="rosea">Rosy fiddler crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
   caption: |
     <p><a href="stoutpincer">Stout pincered fiddler crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/tinycolourful/110327cjd7979m3.jpg
   caption: |
     <p><a href="tinycolourful">Tiny colourful fiddler crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/200111smksll1.jpg
   caption: |
     <p>Pulau Semakau (South), Jan 20Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2755472311142757&set=a.2755471284476193&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/110327cjd7977m3.jpg
   caption: |
     <p>Chek Jawa, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/noid/130923tmftd3476m3.jpg
   caption: |
     <p>Tanah Merah, Sep 13</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
@@ -124,7 +125,7 @@ page_images:
     <p>The Sea Shore Ecology of Hong Kong.</p>
     <p>Hong Kong University Press.</p>
     <p>350 pp.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -135,7 +136,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

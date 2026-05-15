@@ -1,11 +1,12 @@
 ---
-title: "Figs "
+title: 'Figs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fig, ficus, moraceae, tree, plant, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Moraceae
 genus: Ficus
-species: ""
+species: ''
 attributes: []
 inat_id: 50999
 stateofmatter: Life
@@ -17,32 +18,32 @@ order: Rosales
 tribe: Ficeae
 updated: Mar 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
   caption: |
     <p>The tall Jejawi fig next to Jejawi Tower.</p>
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/crassiramea/091213ubnd5794m6l.jpg
   caption: |
     <p>The rare <a href="crassiramea">Collared fig</a>.Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3.jpg
   caption: |
     <p>Figs of the <a href="microcarpa">Jejawi</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3a.jpg
   caption: |
     <p>Small opening in a fig.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091227kntd6471m3c.jpg
   caption: |
     <p>Flowers inside the hollow of a fig.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9907m3.jpg
   caption: |
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9925m3.jpg
   caption: |
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/100314cjd9947m3.jpg
   caption: |
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -50,13 +51,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/microcarpa/091005cjd2233m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -153,7 +154,7 @@ in Asia often become stuff of legend and are treated with respect.
 Figs also provide food and medicine.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

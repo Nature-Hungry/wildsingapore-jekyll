@@ -1,11 +1,16 @@
 ---
 title: Big-head seagrass octopus
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: octopus, octopodidae, mollusc, cephalopod, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [3, 14, 33, 40]
+attributes:
+- 3
+- 14
+- 33
+- 40
 family: Octopodidae
-genus: ""
+genus: ''
 species: awaiting
 inat_id: 47457
 stateofmatter: Life
@@ -19,61 +24,61 @@ suborder: Incirrata
 superfamily: Octopodoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
   caption: |
     <p>Smooth head large relative to its arms.</p>
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/140812chg4d8546.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/140812chg4d8546.jpg
   caption: |
     <p>Sometimes with small bumps on the head.</p>
     <p>Changi, Aug 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/090525chgd2387m3.jpg
   caption: |
     <p>'Walking' with its head above the ground.</p>
     <p>Changi, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/130624chg7d7811.jpg
   caption: |
     <p>Hiding in a dead Noble volute shell.</p>
     <p>Changi, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/180713chg.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/180713chg.jpg
   caption: |
     <p>Hiding in a dead clam shell Changi, Jul 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/120705chgd7104.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/120705chgd7104.jpg
   caption: |
     <p>Hiding in a broken glass bottle Changi, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
   caption: |
     <p>Changi, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
   caption: |
     <p>Carrying eggs?</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
   caption: |
     <p></p>
-- url: "https://live.staticflickr.com/1827/29503362278_03dc6669e4_z.jpg"
+- url: https://live.staticflickr.com/1827/29503362278_03dc6669e4_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/29503362278/ "Big-head seagrass octopus") \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3.jpg
   caption: |
     <p>Changi, May 15Photo shares by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/150519chg1mn1m3a.jpg
   caption: |
     <p>With eggs inside an empty shell.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/220616chgedc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/220616chgedc1.jpg
   caption: |
     <p>With eggs inside an empty shell.</p>
     <p>Changi Lost Coast, Jun 22Photo shares by Dayna Cheah on <a href="https://www.facebook.com/photo?fbid=5017109781739091&set=a.5017125578404178">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/140615bbmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/140615bbmn1m3.jpg
   caption: |
     <p>Beting Bronok, Jun 14Photo shares by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/210530ecpglks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/210530ecpglks5.jpg
   caption: |
     <p>East Coast Park, May 21Photo shares by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235742183158&set=a.10159235746118158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/201116lazvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/201116lazvc2.jpg
   caption: |
     <p>Lazarus Island, Nov 20Photo shares by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158082799812945&set=a.10158080800827945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080703chgd6684.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -112,7 +117,7 @@ large compared to the arms. Arms tapering, webbing not very extensive.
 This octopus hasn't been seen to change the skin texture into very large
 bumps or spines, although some have been seen with small bumps on the head. One was seen at low tide 'walking' on its arms with its head raised above the dry ground.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

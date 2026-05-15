@@ -1,11 +1,12 @@
 ---
 title: Flatfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Paralichthyidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 48417
 stateofmatter: Life
@@ -18,14 +19,14 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
   caption: |
     <p>All that can be seen of the huge buried fish are its eyes!</p>
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3.jpg
   caption: |
     <p>The underside is usually pale and unmarked.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/050218sbwrd0715m3a.jpg
   caption: |
     <p>The pectoral fin on the underside is usually reduced.</p>
     <p>The mouth on the underside may bristle with tentacles and teeth!</p>
@@ -36,11 +37,11 @@ page_images:
     <p>The mouth and one pectoral fin also becomes asymmetrically distorted.</p>
     <p>There are also changes in the skeleton and digestive system.</p>
     <p>The change may be completed within five days.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pleuronectiformes/pleuronectiformes/201019sjivc4.jpg
   caption: |
     <p>Juvenile flatfish.</p>
     <p>St John's Island, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158021781972945&set=a.10158021785797945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/110505tmnbd0602.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/110505tmnbd0602.jpg
   caption: |
     <p>Unidentified juvenile Sole?</p>
     <p>Tanah Merah, May 11 Roving eye: If the right eye migrates to the left side, the flatfish is left-eyed (sinistral).</p>
@@ -48,34 +49,34 @@ page_images:
     <p>Left-eyed flatfish include the Family Paralichthyidae (lefteye flounders).</p>
     <p>Right-eyed flatfish include the Family Pleuronectidae (righteye flounders); Family Soleidae (true soles) and Family Cynoglossidae (tongue-soles).</p>
     <p>Here's more on <a href="pleuronectiformes1">how to tell apart flatfish families</a> commonly seen on our shores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m3.jpg
   caption: |
     <p><a href="../soleidae/commersonnii">Commerson's sole</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050429cftg5340m3.jpg
   caption: |
     <p><a href="../cynoglossidae/cynoglossidae">Tongue-sole</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/pavoninus/050722cjg9806m3.jpg
   caption: |
     <p><a href="../soleidae/pavoninus">Peacock sole</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
   caption: |
     <p><a href="../paralichthyidae/paralichthyidae">Large-tooth flounder</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
   caption: |
     <p><a href="../bothidae/polyophthalmus">Three-spot flounder</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/orientalis/090623ecpd4978m3.jpg
   caption: |
     <p><a href="../soleidae/orientalis">Oriental sole</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
   caption: |
     <p><a href="../soleidae/ovata">Ovate sole</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/psettodidae/erumei/090622chgd4715m3.jpg
   caption: |
     <p><a href="../psettodidae/psettodidae">Indian halibut</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/zebra/100612chgd5283m3.jpg
   caption: |
     <p><a href="../soleidae/orientalis">Zebra sole</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0035m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -135,7 +136,7 @@ is an ambush predator. It usually lies just beneath the sediment or
 sand, with only its eyes sticking out. It snaps up small bottom-dwelling
 worms, crabs and prawns. It also snacks on buried animals such as
 bivalves.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Many flatfishes are
 edible and some species are important commercially. Soles are said

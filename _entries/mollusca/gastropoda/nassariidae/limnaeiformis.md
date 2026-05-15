@@ -1,9 +1,17 @@
 ---
 title: Speckled whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "whelk, nassarius, limnaeiformis, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: whelk, nassarius, limnaeiformis, nassariidae, gastropod, mollusc, shell,
+  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info
 layout: entry
-attributes: [23, 33, 87, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 87
+- 100
+- 111
+- 123
 family: Nassariidae
 genus: Nassarius
 species: limnaeiformis
@@ -18,32 +26,32 @@ superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
   caption: |
     <p>Terumbu Semakau, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6098.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6098.jpg
   caption: |
     <p>Terumbu Semakau, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
   caption: |
     <p>Patterned spiralling band on shell.</p>
     <p>Cyrene Reef, Mar 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160606chg1lks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160606chg1lks2.JPG
   caption: |
     <p>Changi, Jun 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2016/06/back-at-changis-echinoderm-haven.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160508kusjt5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/160508kusjt5.jpg
   caption: |
     <p>Kusu Island, May 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10154124088173119.1073741899.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/181225kuslks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/181225kuslks6.jpg
   caption: |
     <p>Kusu Island, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156868566838158&set=a.10156868565383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130808cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130808cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24593563230/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/140713tsmkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/140713tsmkmn.jpg
   caption: |
     <p>Terumbu Semakau, Jul 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/15071169495/in/album-72157645656582534/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130428tsmkd6115.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -79,7 +87,7 @@ seen on our Southern shores. It is also known as *Nassarius limnaeformis*.
   
 **Features:** About 2.5cm. Shell thick conical smooth. Shell pattern varies from plain brown to spiralling chevron band and/or fine red lines. Body white with black
 speckles, very long siphon and short tentacles. Operculum orange.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

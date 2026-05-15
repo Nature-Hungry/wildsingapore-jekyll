@@ -1,11 +1,13 @@
 ---
-title: "Honey-comb hexagonal  corals "
+title: 'Honey-comb hexagonal  corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, hard, merulinidae, faviidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, hard, merulinidae, faviidae, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 503799
 stateofmatter: Life
@@ -16,85 +18,85 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3f.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3f.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3.jpg
   caption: |
     <p>Sentosa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/031029sntbd0058m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6679m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6681m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050525hntg6681m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080623cyrd6266m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/080422smkd1415m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3.jpg
   caption: |
     <p>Sentosa, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/070517sntrd0849m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100130brkd8476m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3a.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100613sngd5425m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4715m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3b.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4754m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100601slud4758m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100530tbkd4355m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/100530tbkd4355m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexahoneycomb/050509hntg5989m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -152,7 +154,7 @@ corallites with a narrow 'base'. Another coral with honeycomb shaped corallites 
 planulata* of [Family
 Agariciidae](../../agariciidae/agariciidae.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

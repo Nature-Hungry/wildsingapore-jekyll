@@ -1,7 +1,9 @@
 ---
 title: Forked venus clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, shell, clam, gafrarium, divaricatum, veneridae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: venus, shell, clam, gafrarium, divaricatum, veneridae, bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Malleidae
 genus: Gafrarium
@@ -21,31 +23,31 @@ superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8234m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8234m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9330m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9331m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/090819ecpd9331m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4255m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4258m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/080525ubnd4258m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/091019prplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/091019prplks.JPG
   caption: |
     <p>Pasir Ris Park, Oct 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4171387070/in/album-72157607599260498/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/171009blyay1.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211764760646743&set=a.10211764752726545&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -84,7 +86,7 @@ fine ribs parallel to the shell edge, that spray out or 'fork' into two separate
 directions from the pointed base. Colour white usually with a pattern of thin dark lines perpendicular
 to the shell edges.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

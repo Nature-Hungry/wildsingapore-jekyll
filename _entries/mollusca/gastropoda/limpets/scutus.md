@@ -1,12 +1,14 @@
 ---
 title: Hoof-shield limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: limpet, scutus, hoof, shield, fissurellidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Fissurellidae
 genus: Scutus
-species: ""
+species: ''
 inat_id: 50692
 stateofmatter: Life
 kingdom: Animalia
@@ -18,75 +20,75 @@ superfamily: Fissurelloidea
 subfamily: Emarginulinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
   caption: |
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/030412cjd0030m3.jpg
   caption: |
     <p>Chek Jawa, Apr 03.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/060326tusd0676m3.jpg
   caption: |
     <p>Tuas, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/101222chgd3777m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/101222chgd3777m6l.jpg
   caption: |
     <p>A barnacle grew on its shell!</p>
     <p>Changi, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/101222chgd3770m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/101222chgd3770m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Changi, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/201020swgvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/201020swgvc1.jpg
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158025459952945&set=a.10158025536362945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/201118pglvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/201118pglvc2.jpg
   caption: |
     <p>Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086361732945&set=a.10158086509267945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/131223pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/131223pgllks.JPG
   caption: |
     <p>Punggol, Dec 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5286383285/in/album-72157625372847848/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/120604pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/120604pgllks.JPG
   caption: |
     <p>Punggol, Jun 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8314507266/in/album-72157625372847848/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/111030skdlks11m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/111030skdlks11m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/160706skdjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/160706skdjt1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/100614bblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/100614bblks1m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4699584666/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/250627bbvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/250627bbvc4.jpg
   caption: |
     <p>Beting Bronok, Jun 25 Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10161760184947945&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/250627bbvc4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/250627bbvc4a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/090725tmjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/090725tmjk1m3.jpg
   caption: |
     <p>Tanah Merah, Dec 08Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/tanah-merah-sandflies-are-out-of.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/160705ecplks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/160705ecplks6.jpg
   caption: |
     <p>East Coast Park, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimed.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/210628ecpBvc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/210628ecpBvc7.jpg
   caption: |
     <p>East Coast Park (B), Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557370822945&set=a.10158557647212945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/210712srpvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/210712srpvc2.jpg
   caption: |
     <p>Sentosa Serapong, Jul 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158582285867945&set=a.10158582306727945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/240212sjivc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/240212sjivc5.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160229786957945&set=a.10160230394282945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/240211bigsisvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/240211bigsisvc2.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224105182945&set=a.10160224174947945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/220812ssisjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/220812ssisjll1.jpg
   caption: |
     <p>Small Sisters Island, Aug 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10159051363301295&set=a.10159051365471295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/100810snglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/100810snglks1m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889894214/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/scutus/020716cjd3602m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -135,7 +137,7 @@ doesn't have a hole at the top of its shell.
 **Sometimes confused with** [slugs](../../slug.htm) which are snails without shells. Here's more on how to tell apart [slugs and other slug-like
 animals](../../../glossary/flatwormslug.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

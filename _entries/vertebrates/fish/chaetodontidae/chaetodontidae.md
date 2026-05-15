@@ -1,11 +1,13 @@
 ---
-title: "Butterflyfishes "
+title: 'Butterflyfishes '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: butterflyfish, butterfly, angel, bat, banner, fish, chaetodontidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Chaetodontidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47318
 stateofmatter: Life
@@ -17,15 +19,15 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
   caption: |
     <p>Sometimes many are seen together.</p>
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/031029sntbd0064m3b.jpg
   caption: |
     <p>Pointed snout to nibble on small things.</p>
     <p>Sentosa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/050526cjg6792m3.jpg
   caption: |
     <p>Flattened sideways it's hard to spot from above or head on.</p>
     <p>Sentosa, Oct 03 Butterflyfish Babies: The male and female of these fishes generally look similar.</p>
@@ -35,31 +37,31 @@ page_images:
     <p>A unique feature of this family is a prolonged larval stage in which the free-swimming larvae may remain drifting with plankton for 2-3 months before changing into juvenile butterflyfishes.</p>
     <p>As a result, butterflyfishes are quite widely distributed.</p>
     <p>They are unique among fishes in that the larvae pass through a stage when a bony sheath encases the head.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/100615tmlks2m3.jpg
   caption: |
     <p>Some are seen among living corals.</p>
     <p>Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050822cjd5868m3.jpg
   caption: |
     <p>Sometimes seen near <a href="../../../cnidaria/actiniaria/haddoni.htm">carpet anemones</a>.</p>
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/020627chgcpd0638m3.jpg
   caption: |
     <p>Seen near a <a href="../../../cnidaria/others/ceriantharia/ceriantharia.htm">cerianthid</a>.</p>
     <p>Changi, Jun 02 Human uses: Butterflyfishes of various kinds are popular in the live aquarium trade.</p>
     <p>The family is the third most frequently exported and second highest in total value in the aquarium trade.</p>
     <p>However, most species are difficult to maintain in captivity.</p>
     <p>Those that eat only specialised prey are doomed to die of starvation in an aquarium.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/rostratus/100810sngd0004m3.jpg
   caption: |
     <p><a href="rostrarus.htm">Copperband butterflyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/080830kusd9981m3.jpg
   caption: |
     <p><a href="ocellatus.htm">Kite butterflyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/octofasciatus/101224sisd4066m3.jpg
   caption: |
     <p><a href="octofasciatus.htm">Eightband butterflyfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/chaetodontidae/ocellatus/050721cjg9723m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -137,7 +139,7 @@ fish eggs, and seaweeds.
 An adult butterflyfish is usually restricted to a small territory
 and doesn't travel far from it. Their planktonic larval stage, however,
 is long and they may thus drift to settle far from their birthplace.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Harvesting of butterflyfishes and their relatives from the wild for
 the live aquarium trade may involve the use of cyanide or blasting,

@@ -40,7 +40,7 @@ Oct 2016*
 **Where
 seen?** This encrusting sponge reminds of our favourite 'Milo dinosaur' beverage. It coats dead corals and rocks near the subtidal area on our Northern shores. We first started seeing this in 2012 and now encounter it commonly.  
  **Features:** Encrusting sheet often evenly coating an entire dead coral colony or rock. Surface uneven, crumbly and grainy looking, but feels smooth and is glossy. Holes small, few, spaced far apart, ringed with a pale edge. Colour warm reddish brown, sometimes paler or with a pinkish or purplish tinge.  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

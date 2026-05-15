@@ -1,7 +1,9 @@
 ---
 title: Sea whip
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: whip, coral, seafan, fan, junceella, ellisellidae, gorgonian, gorgonacea,
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellisellidae
 genus: Junceella
@@ -16,47 +18,47 @@ subclass: Octocorallia
 order: Scleralcyonacea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
   caption: |
     <p>Beting Bronok, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/040604bbg0210m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/040604bbg0210m3.jpg
   caption: |
     <p>Beting Bronok, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/040604bbg0210m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/040604bbg0210m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/050412tusd2422m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/050412tusd2422m3.jpg
   caption: |
     <p>Tuas, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/050412tusd2423m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/050412tusd2423m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
   caption: |
     <p><a href="../../../vertebrates/fish/gobiidae/gobiidae">Unidentified goby</a> seen on a sea whip.</p>
     <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3.jpg
   caption: |
     <p>Chek Jawa, Jun 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159298711468158&set=a.10159298723568158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210626cjlks3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210628ecpBlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/210628ecpBlks3.jpg
   caption: |
     <p>East Coast Park (B), Jun 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159300984503158&set=a.10159300990763158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/240608kusky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/240608kusky2.jpg
   caption: |
     <p>Kusu Island, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169554016160112&set=a.10169554012185112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/240527srplks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/240527srplks3.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/whip/030714bbd0067m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -100,7 +102,7 @@ A long unbranched colony of [Asparagus sea
 fan](asparagus) may resemble a sea whip. Another species that has a long unbranched
 whip-like form is *Viminella* sp.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,16 @@
 ---
 title: Three-spot flounder
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: many, eyed, flat, fish, flatfish, flounder, bothidae, grammatobothus, polyophthalmus,
+  soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 25, 47, 49, 81]
+attributes:
+- 9
+- 25
+- 47
+- 49
+- 81
 family: Bothidae
 genus: Grammatobothus
 species: polyophthalmus
@@ -18,16 +25,16 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
   caption: |
     <p>Cyrene Reef, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3b.jpg
   caption: |
     <p>Eyes on the left side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3a.jpg
   caption: |
     <p>Tail fin separated from the dorsal and anal fins.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bothidae/polyophthalmus/080509cyrd2745m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,7 +72,7 @@ The eyed-side with three large eye-like spots.
 The [Large-toothed
 flounder](../paralichthyidae/paralichthyidae) (Family Paralichthyidae) looks very similar but is more oval and has more smaller spots. Here's more on [how
 to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1) commonly seen.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

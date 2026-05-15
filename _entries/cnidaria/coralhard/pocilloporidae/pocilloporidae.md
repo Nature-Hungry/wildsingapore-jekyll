@@ -1,11 +1,12 @@
 ---
-title: "Pocilloporid corals "
+title: 'Pocilloporid corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pocilloporidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 60546
 stateofmatter: Life
@@ -16,17 +17,17 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
   caption: |
     <p><a href="../../../crustacea/crab/trapezioidea/redcoral">Red coral crab</a> in bleaching Cauliflower coral.</p>
     <p>Cyrene Reef, Jul 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -100,7 +101,7 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

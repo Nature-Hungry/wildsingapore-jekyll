@@ -1,9 +1,16 @@
 ---
 title: Smooth-eyed ghost crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: horn, eyed, ghost, crab, ocypode, cordimanus, ocypodidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
 family: Ocypodidae
 genus: Ocypode
 species: cordimanus
@@ -25,22 +32,22 @@ superfamily: Ocypodoidea
 subfamily: Ocypodinae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
   caption: |
     <p>Sentosa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3b.jpg
   caption: |
     <p>Eyes without 'horns'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1078m3.jpg
   caption: |
     <p>Back without dark marks.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1086m3.jpg
   caption: |
     <p>Lacks ridges on inner palm.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3c.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/cordimanus/110903sntd1076m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -86,7 +93,7 @@ skittish. It lacks ridges on the inner palm. But juvenile Long-eyed
 ghost crabs also lack 'horns' and tend to remain immobile when spotted. **Status and threats:** The Smooth-eyed ghost crab is listed
 as 'Vulnerable' in the Red List of threatened animals of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

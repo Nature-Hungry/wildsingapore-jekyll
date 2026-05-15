@@ -1,11 +1,18 @@
 ---
 title: Eyed phyllid nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: eyed, phyllid, phyllidiella, phyllidia, ocellata, phyllidiidae, nudibranch,
+  slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 28, 33, 90]
+attributes:
+- 14
+- 22
+- 28
+- 33
+- 90
 family: Phyllidiidae
-genus: ""
+genus: ''
 species: Phyllidia
 inat_id: 49731
 stateofmatter: Life
@@ -22,22 +29,22 @@ infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
   caption: |
     <p>Pulau Jong, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6240m3.jpg
   caption: |
     <p>Pulau Jong, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 2020Photo shared by Jesselyn Chua on <a href="https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10159717061619517&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/200310bbbjc1b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +88,7 @@ yellow too. The literally eye-popping colours and design warn predators
 of its unpleasant nature. When disturbed, noxious secretions appear
 from the bumps.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,11 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: horn, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
 shape: stick
 title: Yellow horn sponge
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -13,16 +13,16 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/horn/050721cjg9758m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/horn/050721cjg9758m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/horn/050722cjd5181m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/horn/050722cjd5181m3a.jpg
   caption: |
     <p>With <a href="../echinodermata/holothuroidea/tinyred.htm">tiny red sea cucumbers</a> and <a href="../echinodermata/holothuroidea/synsponge.htm">purple synaptid sea cucumbers</a> Chek Jawa, Jul 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/horn/050526cjg6829m3.jpg
 ---
 
 
@@ -48,7 +48,7 @@ Clumps of many horns may be spread over 30-40cm. Each conical, horn-shaped
 portion about 5cm tall and 3cm wide at the base. Colours beige to
 pale yellow.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

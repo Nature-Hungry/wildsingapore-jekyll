@@ -1,7 +1,9 @@
 ---
 title: Dark drill
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: drill, morula, semiricinula, fusca, muricidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Muricidae
 genus: Semiricinula
@@ -9,13 +11,13 @@ species: fusca
 attributes: []
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5694m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5710m3.jpg
   caption: |
     <p>Chek Jawa, May 05 What does it eat?</p>
     <p>According to Brian Ong's study, those on St.</p>
@@ -23,17 +25,17 @@ page_images:
     <p>They also rarely ate small bivalves and barnacles.</p>
     <p>In Brian's study, found that the snail drills a hole through the shell of the false limpet, or by slipping its proboscis under the shell of the false limpet.</p>
     <p>Brian found that they were not selective about the size of their prey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong3m3.jpg
   caption: |
     <p>Photo shared by Brian Ong.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong1m3.jpg
   caption: |
     <p>Photo shared by Brian Ong.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/brianong2m3.jpg
   caption: |
     <p>Hole drilled into a false limpet, by the drill.</p>
     <p>Photo shared by Brian Ong.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/fusca/050502cjg5693m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -74,7 +76,7 @@ occurs. It is also known as *Morula fusca*.
 **Features:** 2-3cm. Shell thick with
 squarish bumps. Shell opening is wide and usually dark to dark purple.
 One of the identifying features is its yellow foot.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Baby drills:** This snail lays stalked,
 globular egg cases. Tiny crawling juvenile snails emerge from these

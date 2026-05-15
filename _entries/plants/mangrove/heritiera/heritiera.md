@@ -1,9 +1,17 @@
 ---
 title: Dungun
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dungun, heritiera, littoralis, malvaceae, sterculiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dungun, heritiera, littoralis, malvaceae, sterculiaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 80]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 80
 family: Malvaceae
 genus: Heritiera
 species: littoralis
@@ -17,31 +25,31 @@ subfamily: Sterculioideae
 inat_id: 193310
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg
   caption: |
     <p>Chek Jawa, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090411lckd9477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090411lckd9477m3.jpg
   caption: |
     <p>Leaves dark green above, silvery below.</p>
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9902m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9902m3a.jpg
   caption: |
     <p>Bell-shaped flowers pink and velvety.</p>
     <p>Chek Jawa, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110329mndd8261m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110329mndd8261m3c.jpg
   caption: |
     <p>Bell-shaped flowers pink and velvety.</p>
     <p>Mandai mangroves, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090214sbwrd7115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/090214sbwrd7115m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020254m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020254m6l.jpg
   caption: |
     <p>Kranji Nature Trail , Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020250m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/110901krjL1020250m3.jpg
   caption: |
     <p>Thin ridge in the centre.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/heritiera/heritiera/120414cjd9900m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +125,7 @@ poison.
 **Status and threats:** It is listed
 as 'Endangered' in the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

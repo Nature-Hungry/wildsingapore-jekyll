@@ -1,11 +1,12 @@
 ---
-title: "Pencil squids "
+title: 'Pencil squids '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pencil, squid, loliginidae, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Loliginidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49441
 stateofmatter: Life
@@ -17,32 +18,32 @@ superorder: Decapodiformes
 order: Myopsida
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
   caption: |
     <p>Ink squirted out retains its shape.</p>
     <p>Sister Island, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/110602tmftd3396m3.jpg
   caption: |
     <p>Which is ink and which is squid?</p>
     <p>Tanah Merah, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120618tmnbd5467m3.jpg
   caption: |
     <p><a href="sqbigfin.htm">Bigfin reef squid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqindian/091008tmd2514m3.jpg
   caption: |
     <p><a href="sqindian.htm">Indian squid</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>ConchBooks, Germany.</p>
     <p>319 pp - Norman, Mark and Amanda Reid.</p>
     <p>2000.</p>
     <p>A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>The Gould League of Australia.</p>
     <p>96pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sqbigfin/120505sisd0910m6l.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -96,7 +97,7 @@ that can swim fast.
 **Human uses:** Our popular seafood
 squids belong to this family.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

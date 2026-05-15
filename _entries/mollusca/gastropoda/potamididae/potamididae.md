@@ -1,11 +1,13 @@
 ---
-title: "Horn snails "
+title: 'Horn snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: horn, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc,
+  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 68129
 stateofmatter: Life
@@ -16,35 +18,35 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
   caption: |
     <p>Rodong snails mating?</p>
     <p>Sungei Buloh Wetland Reserve, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/110101krjd4469m3.jpg
   caption: |
     <p>The Red Chut-chut snail on a mangrove tree trunk.</p>
     <p>Kranji, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/090210nsrccd6965.jpg
   caption: |
     <p>Shell structure East Coast Park, Feb 09 What do they eat?</p>
     <p>Horn snails graze on detritus and algae growing on the bottom or other surfaces such as tree trunks.</p>
     <p>Many feed at low tide, some in very large groups.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
   caption: |
     <p><a href="telescopium.htm">Rodong</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/sulcata/050310smkg3209m3.jpg
   caption: |
     <p><a href="sulcata.htm">Belitong</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/cingulata/070505kusg9136m3.jpg
   caption: |
     <p><a href="cingulata.htm">Girdled horn snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
   caption: |
     <p><a href="obtusa.htm">Red Chut-chut</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/quadrata/090228smkd7229m3.jpg
   caption: |
     <p><a href="quadrata.htm">Black Chut-chut</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -98,7 +100,7 @@ of a horny material but with only a few whorls. Horn snails have siphonal
 canals that are less pronounced and they are generally larger than
 Creeper snails. More on [how to tell
 these snails apart](../certihpotamid.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Horn snail babies:** Members of
 this family have separate genders. The male transfers a sperm packet

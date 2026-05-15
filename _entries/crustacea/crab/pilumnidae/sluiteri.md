@@ -1,9 +1,15 @@
 ---
 title: Fuzzy reef crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "crab, hairy, crustacea, pilumnus, sluiteri, pilumnidae, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: crab, hairy, crustacea, pilumnus, sluiteri, pilumnidae, decapod, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Pilumnidae
 genus: Pilumnus
 species: sluiteri
@@ -25,42 +31,42 @@ superfamily: Pilumnoidea
 subfamily: Pilumninae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll3.jpg
   caption: |
     <p>Sentosa, Dec 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156098463231295&set=a.10156098461691295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181224sntjll1.jpg
   caption: |
     <p>Sentosa, Dec 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156098463231295&set=a.10156098461691295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/251011tgrlks17.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/251011tgrlks17.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181225kuslks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/181225kuslks7.jpg
   caption: |
     <p>Kusu Island, Dec 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156868566203158&set=a.10156868565383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100529kuslks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100529kuslks.JPG
   caption: |
     <p>Kusu Island, May 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4649067533/in/album-72157607725117581/">flickr</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/240608kustl4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/240608kustl4.jpg
   caption: |
     <p>Kusu Island, Jun 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161279668269264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100515sjilks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100515sjilks6m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/230831sjiaks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/230831sjiaks2.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 23Photo shared by Arjun Sai Krishnan on <a href="https://www.facebook.com/photo/?fbid=3489512664632130&set=a.3489518747964855">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/210822ssislks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/210822ssislks2.jpg
   caption: |
     <p>Small Sisters Islands, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159407416573158&set=a.10159407433713158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100919sislks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/100919sislks3m3.jpg
   caption: |
     <p>Sisters Islands, Sep 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4152304648/in/photolist-7jVDvs-6qvYco-6oZv7m-75y3ab-75ua14-CFpwXu-C5tUxj-oUWpyC-ek98EP-e46YPD-dTyNtz-dTErif-aCbbie-andw2q-aer62J-aaf1DY-9SnkYd-9JhqZ8-8VmUfU-8s7azd-87sFCB-6tm2Yh-75u9Tx-gpicLD-ekb7EH-dZa1nt-dYS6nv-dTyP8c-dTEaTs-dEHYMJ-d8v5sE-andxaN-9d5rz7-8ZhgQ3-8ViU6V-8JHdAg-8HQyT3-8zeKe3-8zbre4-8s7aeY-8c3s3G-7mMK7q-6uCnqX-6qrGQr-75ucaa-5NxQHZ-5sQhKW-CE47Fp-qkL8mu-njaQhr">flickr</a>..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/pilumnidae/sluiteri/060714rlhg6649m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -98,7 +104,7 @@ pincers, with black tips. Eyes bright
 red.   
   
 **Sometimes mistaken for** the [Ferocious reef crab](../eriphiidae/ferox) which is found in the same habitat and also also has red eyes but is not fuzzy.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

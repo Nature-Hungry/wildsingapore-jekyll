@@ -1,9 +1,13 @@
 ---
 title: Striped bead anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "anemone, actiniaria, cnidaria, actiniidae, paracondylactis singaporensis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: anemone, actiniaria, cnidaria, actiniidae, paracondylactis singaporensis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Actiniidae
 genus: Paracondylactis
 species: singaporensis
@@ -18,37 +22,37 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3494m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3494m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/190422cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/190422cnyrk1.jpg
   caption: |
     <p>Coney Island, Apr 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156989303677906&set=a.10156989301812906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obsmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obsmn1.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obslks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160125obslks3.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160704cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/160704cjmn.jpg
   caption: |
     <p>Chek Jawa, Jul 16 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/29097628390/in/album-72157667787864163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/171108ecpmblks17.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/171108ecpmblks17.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/120407lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/120407lazlks.JPG
   caption: |
     <p>Seingat-Kias, Apr 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7052550419/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3.JPG
   caption: |
     <p>Kusu Island, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/070801kuslks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2007/08/anemones-co-at-kusu.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadstriped/081216prpd3496m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -98,7 +102,7 @@ which is smaller than the Striped bead anemone. The Banded bead anemone is found
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

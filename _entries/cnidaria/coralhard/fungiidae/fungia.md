@@ -1,11 +1,13 @@
 ---
-title: "Fungia mushroom  corals "
+title: 'Fungia mushroom  corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fungia, mushroom, fungiidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Fungia
-species: ""
+species: ''
 attributes: []
 inat_id: 53674
 stateofmatter: Life
@@ -16,34 +18,34 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3d.jpg
   caption: |
     <p>Short tentacles</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4229m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/oval/060402ulrd0962m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060212sisg4742m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/110730tmftd7666m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/circular/060713rlhd4228m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -107,7 +109,7 @@ global listing](http://www.iucnredlist.org/). Like other creatures of the intert
 mushroom corals are affected by human activities such as reclamation
 and pollution. Trampling by careless visitors, and over-collection
 by hobbyists also have an impact on local populations.  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

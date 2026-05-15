@@ -1,7 +1,8 @@
 ---
 title: Banded krait
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: snake, krait, bungarus fasciatus, elapidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Elapidae
 genus: Bungarus
@@ -17,27 +18,27 @@ order: Squamata
 suborder: Serpentes
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
   caption: |
     <p>Swimming in shallow water near coral rubble.</p>
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2753m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2753m3a.jpg
   caption: |
     <p>Black patch on the head forms a V-shape with the first black band on the body.</p>
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2746m6l.jpg
   caption: |
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m6l.jpg
   caption: |
     <p>Chek Jawa, Jul 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/07/chek-jawa-is-now-open-any-tidel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/070707cjlks1m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/fasciatus/020713cjcpd2754m3.jpg
 ---
 
 
@@ -91,7 +92,7 @@ one hunting on the coral rubble area at Chek Jawa, investigating crevices,
 then swimming away in the shallow water.  
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 **Snake babies:** Mama snake lays

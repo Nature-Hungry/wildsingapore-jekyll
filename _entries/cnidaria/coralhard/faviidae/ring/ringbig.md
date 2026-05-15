@@ -1,11 +1,13 @@
 ---
 title: Big ring  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, hard, scleractinia, cnidaria, faviidae, merulinidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, hard, scleractinia, cnidaria, faviidae, merulinidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 503799
 stateofmatter: Life
@@ -16,89 +18,89 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6033m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6033m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/060402ulrd1209m3c.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3.jpg
   caption: |
     <p>Terumbu Bemban, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100617tbd6294m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5576m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5576m3.jpg
   caption: |
     <p>St.</p>
     <p>John's</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5578m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050807sjid5578m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/101010scyrc7856m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/101010scyrc7856m3.jpg
   caption: |
     <p>South Cyrene, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100530tbkd4264m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100530tbkd4264m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/040507rlhad0010m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/040507rlhad0010m3.jpg
   caption: |
     <p>Raffles Lighthouse, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091205sudd5602m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091205sudd5602m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4789m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4789m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4961m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100601slud4961m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8610m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100130brkd8612m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8835m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5318m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5319m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/091204pawd5319m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100131slud8885m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/100811slud0134m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringbig/050509hntg6032m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -148,7 +150,7 @@ patterns include: *Barabattoia, Favia, Favites* and *Montastrea* species. It's h
 small features and they are grouped here by large external features
 for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

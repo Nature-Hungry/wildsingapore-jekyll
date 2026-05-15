@@ -1,7 +1,9 @@
 ---
 title: Racing-line flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "racing, stripe, red, tipped, flat, worm, flatworm, pseudoceros, bifurcus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: racing, stripe, red, tipped, flat, worm, flatworm, pseudoceros, bifurcus,
+  polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -16,52 +18,52 @@ order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
   caption: |
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3a.jpg
   caption: |
     <p>Central line white becoming orange/red near the head, edged with dark purple border.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chglks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chglks3.jpg
   caption: |
     <p>Changi, Aug 19Shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157400935598158&set=a.10157400934118158&type=3&theater&comment_id=10157570950978158&notif_t=comment_mention&notif_id=1570600192336021">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/120704chgnml1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/120704chgnml1m3.jpg
   caption: |
     <p>Changi, Jul 12Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2012/07/softie-changil">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chgjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190801chgjll3.jpg
   caption: |
     <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/191214cjlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/191214cjlks2.jpg
   caption: |
     <p>Chek Jawa, Dec 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157773600393158&set=a.10157773598893158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190706skdjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/190706skdjll1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156517897421295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170723ubnlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170723ubnlks5.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608393858158.1073741951.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks1.jpg
   caption: |
     <p>Sentosa Serapong, May 17Shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155372791133158.1073741944.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/170529srplks2.jpg
   caption: |
     <p>Sentosa Serapong, May 17Shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155372791133158.1073741944.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/160509srpmn10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/160509srpmn10.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153650562648660.1073741902.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240527srpky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240527srpky1.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169494400910112&set=a.10169494395795112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240113lazky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/240113lazky3.jpg
   caption: |
     <p>Lazarus Island, Jan 24Shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169130254875112&set=a.10169130251430112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/200310lazvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/200310lazvc5.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 20Shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157391599942945&set=a.10157391593172945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/080220smkpoc1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/080220smkpoc1m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08Shared by Lim Swee Cheng on <a href="http://www.flickr.com/photos/sweecheng/2282979653/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/bifurcus/031126tusad0089m3.jpg
 ---
 
 
@@ -97,7 +99,7 @@ possibly the [pink ascidian](../../ascidiacea/pink). It may have a more generali
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

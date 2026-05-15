@@ -1,9 +1,15 @@
 ---
-title: "Simpoh air "
+title: 'Simpoh air '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "simpoh, air, dillenia, suffruticosa, dilleniaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: simpoh, air, dillenia, suffruticosa, dilleniaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 62]
+attributes:
+- 18
+- 21
+- 36
+- 62
 family: Dilleniaceae
 genus: Dillenia
 species: suffruticosa
@@ -16,33 +22,33 @@ class: Magnoliopsida
 order: Dilleniales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
   caption: |
     <p>Admiralty Park, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/090418admd0201m3.jpg
   caption: |
     <p>Admiralty Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3403m3.jpg
   caption: |
     <p>Young leaf.</p>
     <p>Admiralty Park, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0018m3.jpg
   caption: |
     <p>Opened fruit with red seeds.</p>
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/031115rmbrad0082m3a.jpg
   caption: |
     <p>Yellow flower.</p>
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040207ubnd0027m3.jpg
   caption: |
     <p>Nymph of <a href="../../../insecta/pycanum">Giant shield bug</a> (Pycanum sp).</p>
     <p>Pulau Ubin, Feb 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/pycanum/040214ubnd0082m3.jpg
   caption: |
     <p>Adult Giant shield bug (Pycanum sp.).</p>
     <p>Pulau Ubin, Feb 04</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/dillenia/suffruticosa/101212admd3398m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -130,7 +136,7 @@ to wrap food such as tempeh (fermented soyabean cakes), or formed
 into shallow cones to contain traditional "fast food" such as rojak.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

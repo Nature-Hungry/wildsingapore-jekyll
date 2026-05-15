@@ -1,11 +1,12 @@
 ---
-title: "Razor clams "
+title: 'Razor clams '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: razor, clam, shell, solenidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Solenidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50587
 stateofmatter: Life
@@ -20,21 +21,21 @@ order: Adapedonta
 superfamily: Solenoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
   caption: |
     <p>Razor clam (Solen brevisiima)Foot burrowing in (left) and siphon extended (right).</p>
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/120703chgd6621m3.jpg
   caption: |
     <p>Siphon of a large buried razor clam Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/111227prpd5118m6l.jpg
   caption: |
     <p>Bulbous tip of the muscular foot.</p>
     <p>Pasir Ris, Dec 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/091230prpjk1m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/091230-pasir-ris.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/solenidae/solenidae/040120cjd0014m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,7 +78,7 @@ quickly and are rarely seen as they are usually buried in the sand.
 They are sometimes seen above ground on the undisturbed sandy shores
 near seagrass areas on our northern shores. They are adapted for burrowing
 deeply in soft bottoms.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 **Built for digging:** 1.5-5cm long.
 The razor clam is a strong and quick burrower. The somewhat rectangular

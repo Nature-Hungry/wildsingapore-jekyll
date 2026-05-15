@@ -1,9 +1,18 @@
 ---
 title: Waved nerite snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: waved, nerita, nerite, undata, neritidae, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 75
+- 100
+- 111
+- 123
 family: Neritidae
 genus: Nerita
 species: undata
@@ -18,34 +27,34 @@ superfamily: Neritoidea
 subfamily: Neritinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
   caption: |
     <p>Sisters Island, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/080519sisd3330m3.jpg
   caption: |
     <p>Sisters Island, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/101109snt.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/101109snt.jpg
   caption: |
     <p>Sentosa, Nov 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/201020swgvc3.jpg
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158025462262945&set=a.10158025536362945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/200710mevc10.jpg
   caption: |
     <p>East Coast-Marina Bay, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811090592945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/160509srpik2.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/260104trmlvo4.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/110220lazro1m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/251009sjirk2.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163159501127906&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/neritidae/undata/060714rlhg6629m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -98,7 +107,7 @@ fine black bands on the foot and tentacles long thin black.
 similar nerites. Here's a comparison of these [similar
 nerite snails](neritidaecf.htm) and how to tell them apart.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

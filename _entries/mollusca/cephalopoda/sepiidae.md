@@ -1,11 +1,12 @@
 ---
-title: "Cuttlefishes "
+title: 'Cuttlefishes '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cuttlefish, spiidae, sepia, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cuttlefish, spiidae, sepia, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 67960
 stateofmatter: Life
@@ -19,31 +20,31 @@ suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
   caption: |
     <p>Cuttlefish inking Chek Jawa, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030329cjd0083m3.jpg
   caption: |
     <p>Cuttlebone washed ashore.</p>
     <p>Chek Jawa, Mar 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030928cjd0029.jpg
   caption: |
     <p>Only slightly bigger than a blade of seagrass.</p>
     <p>Chek Jawa, Sep 03 Disappearing Ink: Like other cephalopods, the cuttlefish can squirt ink that distracts predators and clouds up the water.</p>
     <p>More about this in the fact sheet on <a href="../cephalopoda.htm">cephalopods</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutglittering/050524chgd3327m3.jpg
   caption: |
     <p><a href="cutglittering.htm">Glittering cuttlefish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
   caption: |
     <p><a href="cutsmooth.htm">Smooth cuttlefish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutbroadclub/091009tmd2690m3.jpg
   caption: |
     <p><a href="cutbroadclub.htm">Broadclub cuttlefish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/050820bbd5746m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/050820bbd5746m3.jpg
   caption: |
     <p><a href="cutcurvespine.htm">Curvespine cuttlefish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutcurvespine/030518cjad0014m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -87,7 +88,7 @@ same width throughout and edge the entire sides of the body. Cuttlefishes
 can change not only the patterns on their bodies, but also the texture!
 The internal shell (called the cuttlebone) is thick, chalky and porous.
 The cuttlebone contains gases that help the animal control its bouyancy.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Cuttlefishes are important
 fishery items in many parts of the world. Cuttlebones are marketted

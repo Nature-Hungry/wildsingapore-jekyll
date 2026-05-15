@@ -1,13 +1,18 @@
 ---
 title: Perforated brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "perforated, brown, seaweed, weed, hydroclathrus, scytosiphonaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: perforated, brown, seaweed, weed, hydroclathrus, scytosiphonaceae, phaeophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Scytosiphonaceae
 genus: Hydroclathrus
-species: ""
-attributes: [41, 97, 98]
+species: ''
+attributes:
+- 41
+- 97
+- 98
 inat_id: 354821
 stateofmatter: Life
 kingdom: Chromista
@@ -17,19 +22,19 @@ subclass: Fucophycidae
 order: Ectocarpales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
   caption: |
     <p>Pulau Hantu, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/120123hntd5401m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/perforated/1003021hntd9614m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -76,7 +81,7 @@ brown. '*Clathratus*' means 'latticed'.
 as a salad mixed with vegetables or as a spice. It is also used as
 animal feed, fertiliser and medicine.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

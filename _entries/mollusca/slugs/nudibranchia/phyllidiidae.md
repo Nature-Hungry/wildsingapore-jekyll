@@ -1,10 +1,12 @@
 ---
 title: Phyllid nudibranchs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "phyllid, phyllidiidae, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: phyllid, phyllidiidae, nudibranch, slug, seaslug, opisthobranch, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Phyllidiidae
-genus: ""
+genus: ''
 species: Family
 attributes: []
 inat_id: 49731
@@ -22,38 +24,38 @@ infraorder: Doridoidei
 superfamily: Phyllidioidea
 updated: Apr 2021
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
   caption: |
     <p><a href="nigra.htm">Black phyllid</a>: milky substance secreted when disturbed.</p>
     <p>Sisters Island, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3a.jpg
   caption: |
     <p>Short rhinophores of the <a href="varicosa.htm">Varicose phyllid</a> look like the orange blobs on its body.</p>
     <p>St.</p>
     <p>John's Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/060323ulrd0430m3.jpg
   caption: |
     <p>Gills on the underside along the length of the body St.</p>
     <p>John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/050210kusd0112m3.jpg
   caption: |
     <p><a href="nigra.htm">Black phyllid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/pustulosa/050528kusg7068m3.jpg
   caption: |
     <p><a href="pustulosa.htm">Pimply phyllid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/ocellata/060813jngd6242m3.jpg
   caption: |
     <p><a href="ocellata.htm">Eyed phyllid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/varicosa/120509tsmkd2701m3.jpg
   caption: |
     <p><a href="varicosa.htm">Varicose phyllid</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1.jpg
   caption: |
     <p>Phyllidia elegans Pulau Hantu, Apr 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158236255801295&set=a.10158236250826295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/others/2104hntjll1a.jpg
   caption: |
     <p>Phyllidia elegans (underside)</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>321 pp.</p>
@@ -62,7 +64,7 @@ page_images:
     <p>Bryce.</p>
     <p>2000.</p>
     <p>[Slugs of Western Australia: A guide to the species from the Indian to</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Western Australian Museum.</p>
@@ -74,7 +76,7 @@ page_images:
     <p>- Coleman, Neville, 1989.</p>
     <p><a href="http://www.nevillecoleman.com.au/">Nudibranchs of the South Pacific Vol 1</a>.</p>
     <p>64 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/nigra/070531sisd1471m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -138,7 +140,7 @@ strong that the water from the aquarium may have an acrid smell. The
 properties of these toxins are currently being studied for possible
 applications such as in human medicine and anti-fouling uses.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

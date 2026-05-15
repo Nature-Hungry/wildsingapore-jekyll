@@ -1,9 +1,16 @@
 ---
 title: Pale scaly sea stars
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata, asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: red, scaly, sea star, seastar, starfish, star, fish, nepanthia, maculata,
+  asterinidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 91, 92, 106]
+attributes:
+- 0
+- 1
+- 91
+- 92
+- 106
 family: Asterinidae
 genus: Nepanthia
 species: maculata
@@ -17,25 +24,25 @@ superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
   caption: |
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3a.jpg
   caption: |
     <p>Scales on the upperside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
   caption: |
     <p>Tiny tube feet emerge among the scales.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3.jpg
   caption: |
     <p>Pale underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1983m3a.jpg
   caption: |
     <p>Long tube feet from the grooves on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3b.jpg
   caption: |
     <p>Tiny tube feet emerge among the scales.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/nepmaculata/050821bbg1978m3.jpg
 ---
 
 
@@ -71,7 +78,7 @@ scaly sea star](nepred). The Red scaly sea star
 is smaller with reddish markings on the underside, and is more commonly
 encountered.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

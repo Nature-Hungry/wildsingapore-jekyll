@@ -1,9 +1,19 @@
 ---
 title: Garlic bread sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sandfish, cucumber, seacucumber, holothuria, scabra, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sandfish, cucumber, seacucumber, holothuria, scabra, holothuriidae, holothuroidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Holothuriidae
 genus: Holothuria
 species: scabra
@@ -18,77 +28,77 @@ order: Holothuriida
 subgenus: Metriatyla
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg
   caption: |
     <p>Upperside Chek Jawa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8037m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8037m3.jpg
   caption: |
     <p>Underside flat and pale.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3a.jpg
   caption: |
     <p>Short tube feet</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/120618tmnbd5434.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/120618tmnbd5434.jpg
   caption: |
     <p>'Breathing' through its backside.</p>
     <p>Tanah Merah, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/090625bsrd5206m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/090625bsrd5206m3.jpg
   caption: |
     <p>Often buried or half buried.</p>
     <p>Beting Bemban Besar, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/070816cjd5855m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/070816cjd5855m3a.jpg
   caption: |
     <p>Mouth with short feeding tentacles.</p>
     <p>Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/210531chg6jt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/210531chg6jt4.jpg
   caption: |
     <p>Changi Carpark 6, May 21Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo?fbid=10159364080278119&set=a.10159364135288119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/220616chgelks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/220616chgelks3.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940594603158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240706ubnky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240706ubnky3.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set?vanity=yongszeyuenkelvin&set=a.10169672419380112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/200627cnyrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/200627cnyrk3.jpg
   caption: |
     <p>Coney Island, Jun 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158281495252906&set=a.10158281486542906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/151031ecpmblks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/151031ecpmblks.JPG
   caption: |
     <p>East Coast Park, Marina Bay, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23473603033/in/album-72157607745985508/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/251208melks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/251208melks3.jpg
   caption: |
     <p>Marina East, Dec 2025Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/151001blyjt12m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/151001blyjt12m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared byJonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278308119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/110220lazlks2m6.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/110220lazlks2m6.JPG
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5465053154/in/datetaken/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/150829lazis1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/150829lazis1m3.jpg
   caption: |
     <p>Seringat-Kias, Aug 15Photo shared by Ian Siah on <a href="https://www.facebook.com/iansiah/media_set?set=a.10153056577677227.1073741887.533257226&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/241019lazlks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/241019lazlks10.jpg
   caption: |
     <p>Seringat-Kias, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/250909lazlks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/250909lazlks10.jpg
   caption: |
     <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163254114628158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/250530kusrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/250530kusrk4.jpg
   caption: |
     <p>Kusu Island, May 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162511345177906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/120408sjilks9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/120408sjilks9m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island , Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-islandl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240211bigsisvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240211bigsisvc5.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224105342945&set=a.10160224174947945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240623hntky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/240623hntky1.jpg
   caption: |
     <p>Pulau Hantu, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169619874670112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/160208smkshpy6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/160208smkshpy6.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/scabra/080720cjd8038m3.jpg
 ---
 
 
@@ -142,7 +152,7 @@ Red List](http://www.iucnredlist.org/details/full/180257/0), juveniles settle in
 seagrass such as [Sickle
 seagrass](../../plants/seagrass/thalassia) (*Thallassia hemprichi*) as well as mangrove areas.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

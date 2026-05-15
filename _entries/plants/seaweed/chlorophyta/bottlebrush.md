@@ -1,7 +1,8 @@
 ---
 title: Bottlebrush green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
@@ -16,28 +17,28 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
   caption: |
     <p>Labrador, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050311labg3274m3.jpg
   caption: |
     <p>Labrador, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3a.jpg
   caption: |
     <p>Labrador, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6493m3b.jpg
   caption: |
     <p>Labrador, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1800m3a.jpg
   caption: |
     <p>Cyrene Reef, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/080425cyrd1802m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/bottlebrush/050513labg6494m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -79,7 +80,7 @@ in whorls around the central 'stem' to give the overall appearance
 of a stiff bottlebrush. Green to olive green.  
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

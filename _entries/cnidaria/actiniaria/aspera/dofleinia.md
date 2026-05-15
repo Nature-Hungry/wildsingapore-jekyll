@@ -1,11 +1,13 @@
 ---
 title: Glass anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: glass, anemone, dofleinia, actiniidae, anthozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Actiniidae
 genus: Dofleinia
-species: ""
+species: ''
 attributes: []
 inat_id: 361260
 stateofmatter: Life
@@ -18,92 +20,92 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3a.jpg
   caption: |
     <p>Rings of long tentacles and short tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg
   caption: |
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg
   caption: |
     <p>Beting Bronok, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180518chg1jll.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180518chg1jll.jpg
   caption: |
     <p>Changi, May 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155624586956295.1073741906.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/171204chglks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/171204chglks4.jpg
   caption: |
     <p>Changi, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155911535913158&set=a.10155911533538158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg
   caption: |
     <p>Caught a small fish!</p>
     <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg
   caption: |
     <p>Changi Carpark 6, May 21Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10159364078628119&set=a.10159364135288119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/230605chg7lks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/230605chg7lks4.jpg
   caption: |
     <p>Changi Carpark 7, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160711616928158&set=a.10160711621108158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG
   caption: |
     <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8524190136/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431581733158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/170626skdtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/170626skdtch1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/160706skdrl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/160706skdrl1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Russel Low on <a href="https://www.facebook.com/photo.php?fbid=10154082246736273&set=pcb.10154082249236273&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/140613skdlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/140613skdlks.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/140613skdlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/140613skdlks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25160466569/in/album-72157607907125005/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180617skdlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180617skdlks1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180617skdlks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180617skdlks1a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156414549313158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1a.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156581479058713&set=a.10156581443943713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg
   caption: |
     <p>East Coast Park (G), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487217113713&set=a.10159487267278713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210628ecpBrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210628ecpBrk2.jpg
   caption: |
     <p>East Coast Park (B), Jun 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159188507907906&set=a.10159188494042906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks1.JPG
   caption: |
     <p>Cyrene Reef, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks1a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5803570015/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks4.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/110606cyrlks4.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/130810cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/130810cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/130810cyrlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/130810cyrlks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472458013/in/album-72157607718672165/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -154,7 +156,7 @@ The Striped or Armed Anemone (*Dofleinia armata*) found in Australia
 is considered extremely dangerous as it can inflict painful stings
 that take months to heal.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

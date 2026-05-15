@@ -1,11 +1,12 @@
 ---
 title: Gobies
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: goby, fish, gobiidae, mudskipper, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Gobiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47308
 stateofmatter: Life
@@ -18,15 +19,15 @@ order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
   caption: |
     <p>Gobies can be colourful!</p>
     <p>Chek Jawa, Aug 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/050607chgg7251m3.jpg
   caption: |
     <p>But most are well camouflaged.</p>
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/100201hntd9103.jpg
   caption: |
     <p>The <a href="histrio.htm">Broad barred acropora goby</a> lives only in Acropora corals.</p>
     <p>Pulau Hantu, Feb 10 Fishy friend: The shrimp goby lives in the same burrow with a snapping shrimp.</p>
@@ -34,84 +35,84 @@ page_images:
     <p>The shrimp is literally constantly in touch with the goby with at least one of its antennae always on the goby.</p>
     <p>When the goby darts into the burrow, the shrimp is right behind it!</p>
     <p>More about this <a href="shrimpgoby.htm">shrimp-fish partnership</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6528m3.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a young <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
     <p>Labrador, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090208smkthb1m3.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with an adult <a href="maudae.htm">Saddled shrimp-goby</a>.</p>
     <p>Pulau Semakau, Feb 09Photos shared by Tang Hung Bun.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/shrimp/alphmanyband.htm">Many-banded snapping shrimp</a> with a <a href="leptocephalus.htm">Pink-speckled shrimp-goby</a>.</p>
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130421ubnd5457m3.jpg
   caption: |
     <p><a href="mudskipper.htm">Mudskippers</a> are gobies too!</p>
     <p>Pulau Ubin, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
   caption: |
     <p>The <a href="kabiliensis.htm">Bumblebee goby</a> is found in mangroves.</p>
     <p>Admiralty Park, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5308m3.jpg
   caption: |
     <p>The <a href="biocellatus.htm">Crocodile flathead goby</a> looks different!</p>
     <p>Changi, Jun 10 Human uses: Gobies are generally not eaten, although it is said that large <a href="mudskipper.htm">mudskippers</a> are eaten in places like Taiwan.</p>
     <p>Some of the more colourful gobies are collected for the live aquarium trade.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gobiidaenoid/230606cjky7.jpg
   caption: |
     <p>Seen on a <a href="../../../cnidaria/others/gorgonacea/whip.htm">sea whip</a>.</p>
     <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168426586550112&set=a.10168426590055112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m3.jpg
   caption: |
     <p><a href="caninus.htm">Green-shouldered goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/bathygobius/070901sjid6547m3.jpg
   caption: |
     <p><a href="bathygobius.htm">Frill-fin goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/nebulosus/060726chgd4918m3.jpg
   caption: |
     <p><a href="nebulosus.htm">Shadow goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/triangularis/100429prpd1888m3.jpg
   caption: |
     <p><a href="triangularis.htm">Brown shore goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/goldmanni/140811tryd8309m3a.jpg
   caption: |
     <p><a href="goldmanni.htm">Black-spotted lagoon-goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/ornatus/110506tmftd0826m3.jpg
   caption: |
     <p><a href="ornatus.htm">Ornate lagoon-goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/biocellatus/100612chgd5276m3.jpg
   caption: |
     <p><a href="biocellatus.htm">Crocodile flathead goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/120820sisd0649m3.jpg
   caption: |
     <p><a href="stethophthalmus.htm">Head-stripe goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/muralis/110601tmnbd3312m3.jpg
   caption: |
     <p><a href="muralis.htm">Mural glider-goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/leptocephalus/080830kusd9939m3b.jpg
   caption: |
     <p><a href="leptocephalus.htm">Slender-lined shrimp goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/050513labg6519m3.jpg
   caption: |
     <p><a href="maudae.htm">Saddled shrimp goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/maudae/090625cyrd5636m3.jpg
   caption: |
     <p><a href="maudae.htm">Saddled shrimp goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histrio/051204sisg3318m3.jpg
   caption: |
     <p><a href="histrio.htm">Broad barred acropora goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/kabiliensis/110822admd9796m3.jpg
   caption: |
     <p><a href="kabiliensis.htm">Mangrove bumblebee goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/javanicus/060627krjd3690m3.jpg
   caption: |
     <p><a href="javanicus.htm">Java fatnose goby</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/sadanundio/110307admd6820m3.jpg
   caption: |
     <p><a href="sadanundio.htm">Grey knight goby</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/stethophthalmus/020811cjcpd0419m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -186,7 +187,7 @@ club-shaped eggs are stuck onto a surface, usually inside a burrow,
 crevice, empty shell or other safe place. Some species may change
 gender, and a few may be simultaneous hermaprodites (each fish has
 both male and female reproductive organs).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Other tiny gobies found in coral reefs live in close association with
 other animals, taking on the colours and patterns of their 'partners'

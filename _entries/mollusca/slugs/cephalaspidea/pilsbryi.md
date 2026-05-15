@@ -1,10 +1,12 @@
 ---
-title: "Batik tailed-slug "
+title: 'Batik tailed-slug '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tailed, slug, philinopsis, pilsbryi, aglajidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tailed, slug, philinopsis, pilsbryi, aglajidae, cephalaspidea, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
-genus: ""
+genus: ''
 species: Philinopsis
 attributes: []
 inat_id: 49843
@@ -19,43 +21,43 @@ order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 08 Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/081211smkd2798m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/081211smkd2798m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090821chgf3172m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090821chgf3172m3.jpg
   caption: |
     <p>East Coast, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/190801chgmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/190801chgmn2.jpg
   caption: |
     <p>Changi, Aug 19Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10156541536428660&set=a.10156541520033660&type=3&theater&comment_id=10156676800173660&notif_t=comment_mention&notif_id=1569627206584849">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/251207chgmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/251207chgmn1.jpg
   caption: |
     <p>Changi, Dec 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162337998393660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080607bbcck01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080607bbcck01m3.jpg
   caption: |
     <p>Beting Bronok, Jun 08Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/2561126846/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/100614bblks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/100614bblks6m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10Shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4741732067/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/111028chgelks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/111028chgelks5m3.jpg
   caption: |
     <p>Changi East, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/marvellous-finds-from-lost-coast.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090918tmlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/090918tmlks1m3.jpg
   caption: |
     <p>Tanah Merah, Sep 09Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/09/fish-haven-at-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/130623ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/130623ecplks.JPG
   caption: |
     <p>East Coast Park, Jun 13Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24266791534/in/album-72157607719316847/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/151031ecpmblks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/151031ecpmblks.JPG
   caption: |
     <p>East Coast-Marina Bay, Oct 15Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24074307526/in/album-72157607745985508/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/120819cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/120819cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519781387/in/album-72157607718672165/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -100,7 +102,7 @@ of the parapodia.
 **What does it eat?** Some species
 eat [bubble shell snails](hamineoidae.htm), hunting them
 by following their slime trail then swallowing them whole.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

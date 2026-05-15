@@ -1,64 +1,66 @@
 ---
-title: "Smooth branched montipora corals (Montipora sp.) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Smooth branched montipora corals (Montipora sp.) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: montipora, acroporidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5232m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5232m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5484m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5485m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5485m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5518m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5518m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5519m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091205sudd5519m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8481m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8483m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8678m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8693m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/100130brkd8694m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/acroporidae/monbranch/091204pawd5233m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -88,7 +90,7 @@ info on smooth branched montipora corals](monbrsmooth.htm)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

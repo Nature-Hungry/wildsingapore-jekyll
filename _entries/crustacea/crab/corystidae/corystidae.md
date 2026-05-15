@@ -1,12 +1,16 @@
 ---
 title: Masked burrowing crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: masked, burrowing, crab, corystidae, gomeza, bicornis, jonas, formosa, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106]
+attributes:
+- 38
+- 106
 family: Corystidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 507530
 stateofmatter: Life
 kingdom: Animalia
@@ -24,48 +28,48 @@ zoosubsection: Heterotremata
 superfamily: Corystoidea
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
   caption: |
     <p>Gomeza bicornis Labrador, Dec 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9039m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9039m3.jpg
   caption: |
     <p>Carrying eggs on the abdomen.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3b.jpg
   caption: |
     <p>Interlocking hairs on the antennae may form a breathing tube when the crab is underground.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/121018chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/121018chglks.JPG
   caption: |
     <p>Female carrying eggs.</p>
     <p>Changi, Oct 12Photo shared by Lok Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8263310534/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn4m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090720skdmn5m3.jpg
   caption: |
     <p>Photo shared by Marcus Ng on <a href="http://budak.blogs.com/the_annotated_budak/2009/07/shell-shortl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks7m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/110830cyrlks8m3.jpg
   caption: |
     <p>Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy1m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/130809smkhpy2m3.jpg
   caption: |
     <p>Photo shared by Heng Pei Yan on <a href="http://peiyansama.blogspot.sg/2013/08/snakey-and-galloping-national-day-atl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/160724sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/160724sntmn.jpg
   caption: |
     <p>Sentosa, Jul 16 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28533568625/in/album-72157668576417644/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/240820kusky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/240820kusky1.jpg
   caption: |
     <p>Kusu Island, Aug 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169910354110112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090809sjilt1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/090809sjilt1m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 09 Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/08/slugging-at-st-johnsl">her blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/corystidae/corystidae/041215labd9037m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -106,7 +110,7 @@ crab.
 **Status and threats:** The species *Gomeza bicornis* and *Jonas formosae* are listed as 'Vulnerable'
 on the Red List of threatened animals of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

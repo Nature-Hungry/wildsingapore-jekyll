@@ -1,11 +1,13 @@
 ---
 title: Perchlets
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: kops, glass, perchlet, fish, ambassis, kopsii, ambassidae, chandidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Ambassidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 85570
 stateofmatter: Life
@@ -17,27 +19,27 @@ superorder: Acanthomorpha
 order: Mugiliformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
   caption: |
     <p>Kops' glass perchelet (Ambassis kopsii) Dorsal fin deeply notched, with blackish tip.</p>
     <p>Kusu Island, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/040828skdd5497m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg"
+- url: https://live.staticflickr.com/4567/37781483284_ce1cea629d_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/37781483284/ "Kops' glass perchlet (Ambassis kopsii)") What do they eat?</p>
     <p>They eat tiny crustaceans such as ostracods and copepods, insects and sometimes fishes.</p>
     <p>Human uses: Perchlets are eaten in some places and sold fresh or salted.</p>
     <p>Some are used as an ingredient in making fish sauce.</p>
     <p>They are also used as bait.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/160208smkshpy5.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/171010blymn2.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10155054910798660.1073741929.624178659&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ambassidae/kopsii/050410kusg4216m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -90,7 +92,7 @@ tip of the dorsal fin.
 **Sometimes confused with** [Mojarras](../gerreidae/gerreidae.htm) (Family Gerreidae) which have a single dorsal
 fin that is not deeply notched.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 Often seen in large schools. Sungei Buloh Wetland Reserve, Nov 17  

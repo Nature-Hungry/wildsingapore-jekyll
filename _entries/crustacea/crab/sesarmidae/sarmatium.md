@@ -1,9 +1,15 @@
 ---
-title: "Mound crab "
+title: 'Mound crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, mound, crab, sarmatium, germaini, sesarmidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, mound, crab, sarmatium, germaini, sesarmidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Sesarmidae
 genus: Sarmatium
 species: germaini
@@ -24,25 +30,25 @@ zoosubsection: Thoracotremata
 superfamily: Grapsoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
   caption: |
     <p>Kranji, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1.jpg
   caption: |
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251200admrqo1b.jpg
   caption: |
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251231prprqo6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/251231prprqo6.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set?vanity=100075202496320&set=a.902246838958724">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/sesarmidae/sarmatium/110205krjd5938m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +93,7 @@ leaves, dragging these into its burrow to eat them in peace and quiet.
 **Status and threats:** This crab
 is listed as 'Endangered' in the Red List of threatened animals of
 Singapore.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

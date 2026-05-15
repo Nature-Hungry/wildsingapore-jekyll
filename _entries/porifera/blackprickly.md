@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,"
+keywords: spiky, ball, sponge, porifera, echinodictyum, conulosum, raspailiidae, field,
 layout: entry
 shape: blobs
 title: Black prickly sponge
@@ -18,40 +18,40 @@ order: Axinellida
 subfamily: Echinodictyinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/090820ecpd9500m3.jpg
   caption: |
     <p>East Coast Park, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120508skdd1866m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120704chgd6825m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/120410chgd9133m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/blackprickly/091203ubnd5025m3.jpg
 ---
 
 
@@ -84,7 +84,7 @@ Iotrochota purpurea.
 bath sponges](blackbath.htm) (Family Spongiidae) which are usually globular dome-shaped
 or loaf-shaped.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

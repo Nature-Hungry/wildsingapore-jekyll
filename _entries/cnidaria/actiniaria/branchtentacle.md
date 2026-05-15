@@ -1,9 +1,13 @@
 ---
 title: Branched-tentacle mangrove anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, anemone, pelocoetes, exul, haliactiidae, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, anemone, pelocoetes, exul, haliactiidae, actiniaria, anthozoa,
+  cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Haliactiidae
 genus: Pelocoetes
 species: exul
@@ -18,16 +22,16 @@ suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
   caption: |
     <p>Kranji, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/branchtentacle/090705krjd6457m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -68,7 +72,7 @@ narrow white rings where the tentacles branch or attach to the oral
 disk. Oral disk tiny. Body column pale with fine white stripes.  
   
 **Status and threats:** As at 2024, it is listed as Critically Endangered in Singapore.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

@@ -1,9 +1,14 @@
 ---
 title: Ornate rock lobster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lobster, panulirus, ornatus, palinuridae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lobster, panulirus, ornatus, palinuridae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Palinuridae
 genus: Panulirus
 species: ornatus
@@ -21,24 +26,24 @@ suborder: Pleocyemata
 infraorder: Achelata
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
   caption: |
     <p>Lobsters are sometimes seen on the intertidal, sadly, usually in driftnets.</p>
     <p>St John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/090623d4995m6l.jpg
   caption: |
     <p>A lobster released from a driftnet.</p>
     <p>Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/120407lazlks8m3.jpg
   caption: |
     <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kiasl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/220104lazky4.jpg
   caption: |
     <p>Trapped in a net, Lazarus, Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663611780112&set=a.10166663609395112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/250201bsisrk2a.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162086236287906&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/palinuridae/060527sjid2192m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +92,7 @@ may live in pairs and has been found in larger concentrations.
   
 **Human uses:** It is harvested everywhere,
 but on a small scale.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

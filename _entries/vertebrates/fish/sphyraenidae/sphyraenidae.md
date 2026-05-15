@@ -1,12 +1,18 @@
 ---
 title: Barracudas
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: barracuda, sphyraenidae, fish, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Sphyraenidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 47264
 stateofmatter: Life
 kingdom: Animalia
@@ -18,34 +24,34 @@ order: Carangiformes
 suborder: Centropomoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/151129sjimn.jpg
   caption: |
     <p>St John's Island, Nov 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153304236688660.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m6l.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110814smkd8897m3a.jpg
   caption: |
     <p>Upper and lower jaws about the same length.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/100528kusmn.jpg
   caption: |
     <p>Kusu Island, May 10 Photo shared by Marcus Ng on  <a href="https://www.flickr.com/photos/budak/4665555053/in/album-72157624158760720/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/111002bsismn.jpg
   caption: |
     <p>Big Sisters Island, Oct 11 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6276556539/in/album-72157627800986310/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/080422smkmn01m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 08 Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/2433745192/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/241116smkset2.jpg
   caption: |
     <p>Pulau Semakau (South), Dec 24Photo shared by Eugene Tan on <a href="https://www.facebook.com/media/set/?set=a.10162754972094274&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/110731trylks5m6l.jpg
   caption: |
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sphyraenidae/sphyraenidae/090806tmd8369m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +98,7 @@ are far apart and well separated.
 Halfbeaks have an upper jaw that is much shorter than the lower jaw. Here's more on [how
 to tell apart stick-like fishes](../cfstick) commonly seen on our shores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,15 @@
 ---
 title: Mangrove jingle clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, jingle, shell, enigmonia, aenigmatica, anomiidae,  bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [2, 33, 34, 73]
+attributes:
+- 2
+- 33
+- 34
+- 73
 family: Anomiidae
 genus: Enigmonia
 species: aenigmatica
@@ -18,16 +24,16 @@ order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
   caption: |
     <p>Lim Chu Kang, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/020615sltard0555m3.jpg
   caption: |
     <p>Seletar, Jun 02</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/anomiidae/enigmonia/040101lckd0024m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,7 +83,7 @@ Sometimes called the tree-climbing clam, the young animal is more mobile and can
 move around by using its extendible foot. A young animal is
 relatively broader than a more mature animal.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

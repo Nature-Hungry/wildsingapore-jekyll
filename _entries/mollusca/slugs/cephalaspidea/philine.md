@@ -1,10 +1,12 @@
 ---
-title: "'Attap-chee' slug "
+title: '''Attap-chee'' slug '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "philine, orientalis, philinidae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: philine, orientalis, philinidae, cephalaspidea, gastropod, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Philinidae
-genus: ""
+genus: ''
 species: Philine
 attributes: []
 inat_id: 49852
@@ -19,22 +21,22 @@ order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
   caption: |
     <p>Changi East, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2713m3.jpg
   caption: |
     <p>Burrowing, with the head in the sand.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3b.jpg
   caption: |
     <p>East Coast, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/120704chglks1m2.JPG
   caption: |
     <p>Changi, Jul 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/07/predawn-surprises-at-changi-shore.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/090207tmlks1m3.JPG
   caption: |
     <p>East Coast Park, Feb 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/03/weird-blob-is-sea-slug.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/philine/111028chged2710m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +82,7 @@ internal shell.
 to feed on small bivalves. Studies suggest this slug is seasonally
 abundant and voracious predators of clams, although it will also feed
 on algae and scavenge.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

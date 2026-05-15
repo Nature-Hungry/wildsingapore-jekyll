@@ -1,7 +1,9 @@
 ---
 title: Japanese bonnet snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bonnet, helmet, phalium, semicassis, bisulcata, cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bonnet, helmet, phalium, semicassis, bisulcata, cassidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Cassidae
 genus: Phalium/Semicassis
@@ -9,50 +11,50 @@ species: bisulcata
 attributes: []
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6142m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6144m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2598m3.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110520chgd2591m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/251205cjccn3.jpg
   caption: |
     <p>Dead one.</p>
     <p>Chek Jawa, Dec 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?set=a.10163385153718654&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
   caption: |
     <p>Changi, Feb 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/changi-beach-with-mgs-girls.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/180104chgay1.jpg
   caption: |
     <p>Changi, Jan 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212389142975911&set=a.10211958779177085&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1.jpg
   caption: |
     <p>East Coast PCN, Aug 23Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10230670665892821&set=a.10230674469667913">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/230804ecpcnta1b.jpg
   caption: |
     <p>East Coast PCN, Aug 23Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10230670665892821&set=a.10230674469667913">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrlks06m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/03/cyrene-never-fails-to-amaze.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090309cyrcck1m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 09Photo shared by Chim Chee Kong on <a href="http://www.flickr.com/photos/chimck/3340751579/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk2.JPG
   caption: |
     <p>Cyrene Reef, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/110606cyrlk3.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5803595897/in/album-72157607718672165/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/120621cyrd6131m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -97,7 +99,7 @@ is fan-shaped and pale yellow.
 Gosliner, it presumably feeds on heart urchins including the [Tiny
 maretia heart urchin](../../../echinodermata/echinoidea/hearturchin/planulata.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

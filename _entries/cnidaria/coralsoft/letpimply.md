@@ -1,11 +1,13 @@
 ---
 title: Pimply leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: Lobophytum
-species: ""
+species: ''
 attributes: []
 inat_id: 416177
 stateofmatter: Life
@@ -16,70 +18,70 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
   caption: |
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2447m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntd1291m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntd1291m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/060415hntg5647m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/200310bbbmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/200310bbbmn1.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 20Photo shared by Marcus Ng on <a href="http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply.htm">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6954m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6954m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6951m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6951m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6953m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091231biod6953m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8892m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8892m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100131slud8895m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8651m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8651m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8653m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100130brkd8653m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5246m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5246m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/091204pawd5247m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100613sngd5520m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4738m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4738m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/100601slud4739m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpimply/050917smkg2448m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -136,7 +138,7 @@ leathery soft coral](letsmooth.htm) (*Sinularia* sp.) which does not have
 siphonozooids and thus has a smooth common tissue.  
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

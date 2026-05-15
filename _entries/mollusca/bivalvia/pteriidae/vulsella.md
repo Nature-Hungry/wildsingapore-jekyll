@@ -1,7 +1,8 @@
 ---
 title: Sponge finger oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: sponge, oyster, vulsella, pteriidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Pteriidae
 genus: Vulsella
@@ -18,18 +19,18 @@ order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
   caption: |
     <p>Embedded in a <a href="../../../porifera/encrustprickly.htm">Yellow prickly branching sponge</a>.</p>
     <p>Terumbu Pempang Laut, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3a.jpg
   caption: |
     <p>A slit in the sponge is the only sign of the clam.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/111225tmskd4863m3.jpg
   caption: |
     <p>Embedded in a <a href="../../../porifera/blackbath.htm">Black bath sponge</a>.</p>
     <p>Terumbu Semakau, Dec 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/vulsella/120511tpld3152m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -66,7 +67,7 @@ was previously in [Family Malleidae](../malleidae/malleidae.htm) (Hammer oysters
 clam is generally not seen outside a sponge in the wild. It has been
 seen in several kinds of sponges in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

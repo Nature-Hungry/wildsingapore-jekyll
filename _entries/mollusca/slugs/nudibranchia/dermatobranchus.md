@@ -1,12 +1,20 @@
 ---
 title: Tiny striped nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tiny, armina, dermatobranchus, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tiny, armina, dermatobranchus, arminidae, arminacea nudibranchia, slug,
+  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 29, 30, 33, 90]
+attributes:
+- 14
+- 22
+- 29
+- 30
+- 33
+- 90
 family: Arminidae
 genus: Dermatobranchus
-species: ""
+species: ''
 inat_id: 50431
 stateofmatter: Life
 kingdom: Animalia
@@ -21,76 +29,76 @@ suborder: Arminina
 superfamily: Arminoidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
   caption: |
     <p>Labrador, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/070317sntg8138m3.jpg
   caption: |
     <p>Sentosa, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240821skdch6.jpg
   caption: |
     <p>Pulau Sekudu, Aug 24Photo shared by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161804173833713&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/181224sntlks4.jpg
   caption: |
     <p>Sentosa, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156864204063158&set=a.10156864202778158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/160314lazlis1.jpg
   caption: |
     <p>Lazarus Island, Mar 16Photo shared by Law Ing Sind on <a href="https://www.facebook.com/law.ingsind/media_set?set=a.1238950662786007.1073741856.100000132558559&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150605kustch3m3.jpg
   caption: |
     <p>Kusu Island, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153369005738713.1073741960.619308712&type=1&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/090809sjijk.jpg
   caption: |
     <p>St John's Island, Aug 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3802731849/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201019sjijll3.jpg
   caption: |
     <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806534681295&set=a.10157806532326295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/201115tkkjll3.jpg
   caption: |
     <p>Pulau Tekukor, Nov 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157865070256295&set=a.10157865069206295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/180519sissdc1.jpg
   caption: |
     <p>Small Sisters Island, May 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1588496161267154&set=a.1588495367933900&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/170611bsismn1.jpg
   caption: |
     <p>Big Sisters Island, Jun 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154729383778660&set=a.10154515554383660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/240211bigsistch3.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10161408200308713&set=a.10161408222498713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/200209cyrlks3.jpg
   caption: |
     <p>Cyrene, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157964169638158&set=a.10157964167633158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/260201cyrjll1.jpg
   caption: |
     <p>Cyrene, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162602846021295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150718smketch2m3.jpg
   caption: |
     <p>Pulau Semakau East, Jul 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210402tmskjll4.jpg
   caption: |
     <p>Terumbu Semakau, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158178673076295&set=a.10158178663866295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210501tbtch3.jpg
   caption: |
     <p>Terumbu Bemban, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159415588443713&set=a.10159415623518713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220103tplky2.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jan 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166663482075112&set=a.10166663476025112">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/150524tplhpy4m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, May 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/210502tpttch1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159420062498713&set=a.10159420118948713">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/100528tbrkmn.jpg
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4651690003/in/album-72157624164673134/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/220102biolks6.jpg
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159649732598158&set=a.10159649733953158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/dermatobranchus/080621labd6179m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -138,7 +146,7 @@ gill on its back.
 **Sometimes confused with** [Armina
 nudibranchs](semperi.htm) *(Armina* sp.) which are much larger.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

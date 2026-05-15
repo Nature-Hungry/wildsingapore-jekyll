@@ -1,9 +1,13 @@
 ---
 title: Sea mat zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sea, mat, colonial, anemone, zoanthid, palythoa, tuberculosa, zoanthidae,
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Zoanthidae
 genus: Palythoa
 species: tuberculosa*
@@ -17,89 +21,89 @@ order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
   caption: |
     <p>Coating a rock in a rubbery mat.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1357m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1357m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060527sjid2197m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3.jpg
   caption: |
     <p>Sisters Island, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/060728sisd5314m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/240821skdmn1.jpg
   caption: |
     <p>Pulau Sekudu, Aug 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10160439575403660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101106tburjk.JPG
   caption: |
     <p>Terumbu Buran, Nov 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5150729531/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091231biod6950m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8497m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091204pawd5265m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0066m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100811slud0094m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100810sngd9990m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100131slud8787m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100613sngd5448m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/091205sudlks2m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168112561/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100530tbkd4220m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/100130brkd8498m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101010scyrc7836m3.jpg
   caption: |
     <p>South Cyrene, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/101108bkoms00629m3a.jpg
   caption: |
     <p>Terumbu Bukom, Nov 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/tuberculosa/110517tptd1356m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -152,7 +156,7 @@ out of water, the tentacles and oral disks are tucked into the body
 column, leaving on small puckered holes on the surface of the common
 tissue. Colours seen include brown, cream and yellow.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

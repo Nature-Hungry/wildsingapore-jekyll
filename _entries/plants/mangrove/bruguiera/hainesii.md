@@ -1,9 +1,18 @@
 ---
 title: Bakau mata buaya
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bakau, bruguiera, hainesiirhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bakau, bruguiera, hainesiirhizophoraceae, tree, mangrove, mangroves, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 32, 36, 57, 68]
+attributes:
+- 16
+- 18
+- 21
+- 32
+- 36
+- 57
+- 68
 family: Rhizophoraceae
 genus: Bruguiera
 species: hainesii
@@ -17,37 +26,37 @@ hybrid: Bruguiera × hainesii
 inat_id: 1539958
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
   caption: |
     <p>Pulau Ubin, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110608krjL1000225m3.jpg
   caption: |
     <p>Tassels on petal tips.</p>
     <p>Fresh petals white, turning orange.</p>
     <p>Kranji Nature Trail, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4258m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/101230krjd4324m3a.jpg
   caption: |
     <p>Lenticles on buttress roots.</p>
     <p>Kranji Nature Trail, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090614ubnd4261m3.jpg
   caption: |
     <p>Sepals held away from the propagule.</p>
     <p>Pulau Ubin, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubnd4822m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubnd4822m3.jpg
   caption: |
     <p>Crab spider lurks to pounce on insect visitors.</p>
     <p>Pulau Ubin, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090704ubnd6331m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/090704ubnd6331m3.jpg
   caption: |
     <p>Insect visitor to flower.</p>
     <p>Pulau Ubin, Jul 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Cambridge University Press.</p>
     <p>USA.</p>
@@ -61,7 +70,7 @@ page_images:
     <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/bruguiera/hainesii/110109ubns02866m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -133,7 +142,7 @@ scatter a cloud of pollen over the head of the visiting insect.
 is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore, as well as globally on the IUCN Red List.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

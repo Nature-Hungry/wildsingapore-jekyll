@@ -1,12 +1,12 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: sucker, sponge, cliona, utricularis, porifera, field, guide, seashore, sea,
 layout: entry
 shape: encrusting
 title: Sucker sponge
 family: Clionaidae
 genus: Cliona
-species: ""
+species: ''
 attributes: []
 inat_id: 62615
 stateofmatter: Life
@@ -17,25 +17,25 @@ subclass: Heteroscleromorpha
 order: Clionaida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240100.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240100.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3.jpg
   caption: |
     <p>Pulau Semakau (East),</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/260629smkeal3a.jpg
   caption: |
     <p>Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161778773828693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks.JPG
   caption: |
     <p>Pulau Semakau,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/cliona/110620smklks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5861316423/in/album-72157607751329669/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/cliona/160424smkno4240098.jpg
 ---
 
 
@@ -55,7 +55,7 @@ seen?** Looking like a sprinkle of orange coins, this sponge is sometimes seen o
  **Features:** Most of this burrowing sponge is hidden. The sponge can bore holes in calcium carbonate skeletons, snail shells to make a home where they live. What is seen on the outside are small sucker-like disks (0.2-1cm).  
   
 *Cliona* *utricularis* are bright reddish orange. Other *Cliona* species may be yellow.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

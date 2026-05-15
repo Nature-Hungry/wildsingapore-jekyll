@@ -1,9 +1,17 @@
 ---
-title: "Api-api ludat "
+title: 'Api-api ludat '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "api, ludat, avicennia, officinalis, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: api, ludat, avicennia, officinalis, acanthaceae, avicenniaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 83]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 83
 family: Acanthaceae
 genus: Avicennia
 species: officinalis
@@ -17,37 +25,37 @@ subfamily: Avicennioideae
 inat_id: 189587
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg
   caption: |
     <p>Pulau Ubin, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg
   caption: |
     <p>Leaves glossy and smooth.</p>
     <p>Chek Jawa, Jul 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090413blyd9961m3.jpg
   caption: |
     <p>Seedling starting to grow.</p>
     <p>Berlayar Creek, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
   caption: |
     <p>Large flowers, crowded together.</p>
     <p>Pulau Ubin, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
   caption: |
     <p>Fruits rounded with pointed tip.</p>
     <p>Chek Jawa, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090214sbwrd7157m3.jpg
   caption: |
     <p>Salt crystals on upper surface in hot weather.</p>
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0012m3.jpg
   caption: |
     <p>Pollinated by flies?</p>
     <p>Chek Jawa, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4319m3a.jpg
   caption: |
     <p>Pulau Ubin, Jun 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090614ubnd4313m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -103,7 +111,7 @@ Fruit oval slightly beaked (2-3cm long) smooth velvety.
 the fruits are eaten, and timber used as fuel while the bark resin
 is used in traditional medicine as a contraceptive.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

@@ -1,12 +1,29 @@
 ---
-title: "Paper bubble snail "
+title: 'Paper bubble snail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bubble, shell, snail, hydatinidae, aplustridae, cephalaspidea, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 23, 30, 33, 64, 65, 71, 90, 100, 105, 111, 123, 125, 126]
+attributes:
+- 14
+- 22
+- 23
+- 30
+- 33
+- 64
+- 65
+- 71
+- 90
+- 100
+- 105
+- 111
+- 123
+- 125
+- 126
 family: Aplustridae
 genus: Hydatina
-species: ""
+species: ''
 inat_id: 246454
 stateofmatter: Life
 kingdom: Animalia
@@ -18,16 +35,16 @@ subterclass: Acteonimorpha
 superfamily: Acteonoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
   caption: |
     <p>Chek Jawa, Apr 08 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2409238425/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/181222prpcp.jpg
   caption: |
     <p>Pasir Ris Park, Dec 18 Photo shared by Carol Phillips on <a href="https://www.facebook.com/carol.phillips.1044186/media_set?set=a.10161170432345023&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/140104cjlks2m3.jpg
   caption: |
     <p>Chek Jawa, Jan 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/hydatinidae/080412cjtchm3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,7 +86,7 @@ lacks an operculum. The animal can withdraw completely or almost completely into
   
 **What does it eat?**  It feeds exclusively on [Spaghetti worms](../../../worm/polychaeta/spaghetti.htm) (Family Cirratulidae), swallowing them whole and incorporating the
 toxins of their prey for their own defence.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

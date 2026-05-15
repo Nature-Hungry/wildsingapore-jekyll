@@ -1,12 +1,19 @@
 ---
-title: "Whitings "
+title: 'Whitings '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, whiting, sillago, sillaginidae, fish, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 69, 70, 106, 108]
+attributes:
+- 25
+- 47
+- 69
+- 70
+- 106
+- 108
 family: Sillaginidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 86068
 stateofmatter: Life
 kingdom: Animalia
@@ -17,10 +24,10 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
   caption: |
     <p>East Coast, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/040425cjd0109m6l.jpg
   caption: |
     <p>Chek Jawa, Apr 04 The Silver sillago (Sillago sihama) is commonly seen in coastal areas and even recorded in freshwater.</p>
     <p>It can grow to about 30cm.</p>
@@ -32,44 +39,44 @@ page_images:
     <p>Adults bury themselves in sand when disturbed.</p>
     <p>The young fish live out in the open sea, feeding on plankton.</p>
     <p>In Singapore, this fish is also called 'pasir', which means 'sand' in Malay.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/121117hntd1524m6l.jpg
   caption: |
     <p>Pulau Hantu, Nov 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/100912kusd1441m3.jpg
   caption: |
     <p>Kusu Island, Sep 10 What do they eat?</p>
     <p>They eat small animals found on the sea bottom such as worms, small shrimps and prawns.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/220616chgedc5.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5017112048405531&set=a.5017125578404178">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090512tmjk5m3.jpg
   caption: |
     <p>Tanah Merah, May 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/3524387912/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/170822labjll5.jpg
   caption: |
     <p>Labrador, Aug 17 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154966496831295.1073741899.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/151001blymn2m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/201019sjijll11.jpg
   caption: |
     <p>St John's Island, Oct 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806535511295&set=a.10157806532326295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/251011ssistl3.jpg
   caption: |
     <p>St John's Island, Oct 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/090628lazlt3m3.jpg
   caption: |
     <p>Seringat-Kias, Jun 09 Photo shared by Liana Tan on <a href="http://nearly-lucid.blogspot.com/2009/07/life-in-man-made-bay-on-lazarus-islandl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/250810bsisrk1.jpg
   caption: |
     <p>Big Sisters, Aug 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162879113892906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/140810smkmn.jpg
   caption: |
     <p>Pulau Semakau, Aug 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/33548171443/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/110830cyrlks3m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/09/last-morning-trip-of-2011-cyrene-reefl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/sillaginidae/sillaginidae/081117ecpmd2360m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -111,7 +118,7 @@ Pacific.  **Features:** To about 30cm, those seen about 6-8cm. Long,
 slender silvery fishes with a torpedo-shaped body, large eyes and
 small mouth on a conical, sharp snout. Often without obvious markings,
 the various species of *Sillago* appear very similar in the field.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 The **Trumpeter sillago** (*Sillago maculata*) is found in
 deeper coastal waters but also in river mouths and mangrove creeks.

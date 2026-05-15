@@ -1,11 +1,13 @@
 ---
 title: Barbatia ark clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: barbatia, cockle, ark, shell, clam, arcidae,  bivalve, mollusc, clam, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Arcidae
 genus: Barbatia
-species: ""
+species: ''
 attributes: []
 inat_id: 196279
 stateofmatter: Life
@@ -18,35 +20,35 @@ order: Arcida
 superfamily: Arcoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
   caption: |
     <p>St John's Island, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5721m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/060326tusd0662m3.jpg
   caption: |
     <p>Tuas, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/141010lablks.JPG
   caption: |
     <p>Labrador, Oct 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23473478503/in/album-72157607725272449/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/201215bsrpvc4.jpg
   caption: |
     <p>Sentosa Serapong, Dec 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158140897817945&set=a.10158140917142945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210812jngvc6.jpg
   caption: |
     <p>Pulau Jong, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158645191697945&set=a.10158645270727945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/210501tbvc5.jpg
   caption: |
     <p>Terumbu Bemban, May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158441853877945&set=a.10158441969957945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/200709bbbvc3.jpg
   caption: |
     <p>Beting Bemban Besar, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157786569762945&set=a.10157785669142945&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/arcidae/barbatia/110203sjid5630m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -86,7 +88,7 @@ thickly towards the shell opening. The animal is usually firmly attached
 to the underside of stones and rubble, usually with the shell opening
 facing the hard surface.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

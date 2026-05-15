@@ -1,30 +1,34 @@
 ---
 title: Spotted mangrove anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: burgundy, anemone, bunodosoma, goanense, actiniidae, anthozoa, cnidarian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
-family: ""
-genus: ""
+attributes:
+- 6
+- 88
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
   caption: |
     <p>Chek Jawa, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4642m3.jpg
   caption: |
     <p>Kranji, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110621nemsd4648m3a.jpg
   caption: |
     <p>Kranji, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/160125obsll1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/160125obsll1a.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Lisa Lim on <a href="https://www.facebook.com/media/set/?set=a.10153672023638964.1073741872.716233963&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/beadspot/110703cjd5400m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -66,7 +70,7 @@ it resembles a spotted bead.
 rows of eye-like spots: dark centre with white and orange edges. Tentacles
 short, tapering translucent.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,13 @@
 ---
 title: Feather star worms
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "feather star, crinoid, scaleworm, scale, worm, bristleworm, myzostomidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: feather star, crinoid, scaleworm, scale, worm, bristleworm, myzostomidae,
+  polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Myzostomidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 1628529
 stateofmatter: Life
@@ -14,34 +16,34 @@ phylum: Annelida
 order: Myzostomida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg
   caption: |
     <p>Sisters Island, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0906m3.jpg
   caption: |
     <p>Sisters Island, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120606bbjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120606bbjk.JPG
   caption: |
     <p>Beting Bronok, Jun 12Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/7428965428/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/171104chg1lks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/171104chg1lks.jpg
   caption: |
     <p>Changi, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10155841046588158.1073741959.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/201117chg7lks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/201117chg7lks1.jpg
   caption: |
     <p>Changi, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158772052823158&set=a.10158772054638158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100103sislks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100103sislks5m3.jpg
   caption: |
     <p>Sisters Island, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4246935199/">his flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sislks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sislks1m3.jpg
   caption: |
     <p>Sisters Island, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4247791904/">his flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sisjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/100102sisjk1m3.jpg
   caption: |
     <p>Sisters Island, Jan 10Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4240698027/">his flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/210428slulks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/210428slulks4.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162467273158&set=a.10159162473618158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/myzostomidae/120820sisd0867m3.jpg
 ---
 
 
@@ -73,7 +75,7 @@ worms are usually flat and broad with tiny 'feet' which can hardly be seen. Thei
   
 **What do they eat?** They are considered to be parasites on the feather star host.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 ---

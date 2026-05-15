@@ -1,9 +1,14 @@
 ---
 title: Petai jawa
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "leucaena, leucocephala, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: leucaena, leucocephala, fabaceae, plant, tree, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 37]
+attributes:
+- 18
+- 21
+- 36
+- 37
 family: Fabaceae
 genus: Leucaena
 species: leucocephala
@@ -18,35 +23,35 @@ subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3a.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9059m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9063m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9067m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090809sjid8862m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -59,7 +64,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -67,13 +72,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/leucaena/leucocephala/090405smkd9068m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -126,7 +131,7 @@ causing them to lose their mane, tail and ultimately if the horse
 cattle and goats can eat it without harm. The wood is strong but can
 only be used for small objects, such as fish-traps.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

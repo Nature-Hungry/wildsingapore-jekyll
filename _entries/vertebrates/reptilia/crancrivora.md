@@ -1,7 +1,9 @@
 ---
-title: "Crab-eating frog "
+title: 'Crab-eating frog '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: crab, eating, frog, fejervarya, rana, crancrivora, amphibian, vertebrate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Dicroglossidae
 genus: Fejervarya
@@ -9,19 +11,19 @@ species: crancrivora
 attributes: []
 updated: Dec 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
   caption: |
     <p>Pasir Ris Park, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251200admrqo4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251200admrqo4.jpg
   caption: |
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251231prprqo7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/251231prprqo7.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
     <p>What does it eat?</p>
     <p>It can tolerate brackish water and is a carnivore.</p>
     <p>As its common name suggests, it does eat crabs!</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/crancrivora/120318prpd7822m3.jpg
 ---
 
 
@@ -51,7 +53,7 @@ which have webbed toes. It has ridges on its back. It is greyish brown
 with irregular blackish blotches and a slanting yellowish stripe on
 the sides. Adult males have a white throat with dark grey patches
 at the corners of the jaw.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Baby frogs:** Tadpoles are large
 (3cm) and often seen in shallow pools in the back mangroves as well

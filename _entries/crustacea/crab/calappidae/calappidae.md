@@ -1,11 +1,13 @@
 ---
 title: Box crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spotted, box, crab, calappa, philargius, calappidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Calappidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 121190
 stateofmatter: Life
@@ -24,22 +26,22 @@ zoosubsection: Heterotremata
 superfamily: Calappoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3.jpg
   caption: |
     <p>Underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1255m3b.jpg
   caption: |
     <p>Two different kinds of pincers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
   caption: |
     <p><a href="hepatica">Reef box crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/philargius/060529cftd2530m3.jpg
   caption: |
     <p><a href="philargius">Spotted box crab</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/calappidae/hepatica/100417hntd1243m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -91,7 +93,7 @@ Singapore. Like other creatures of the intertidal zone, they are affected by
 human activities such as reclamation and pollution.  Trampling
 by careless visitors also have an impact on local populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,12 @@
 ---
 title: Elbow crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Parthenopidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 52582
 stateofmatter: Life
@@ -24,21 +25,21 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
   caption: |
     <p>Pincers many times longer than its body.</p>
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgg6293m3.jpg
   caption: |
     <p>Underside of the Domed elbow crab.</p>
     <p>Changi, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
   caption: |
     <p><a href="common">Common elbow crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/fornicata/060711chgd4013m3.jpg
   caption: |
     <p><a href="fornicata">Domed elbow crab</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502chgg5971m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -83,7 +84,7 @@ Like other creatures of the intertidal zone, they are affected by
 human activities such as reclamation and pollution. Trampling by careless
 visitors also have an impact on local populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

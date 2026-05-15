@@ -1,12 +1,18 @@
 ---
 title: Needlefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: needlefish, needle, fish, belonidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Belonidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 52461
 stateofmatter: Life
 kingdom: Animalia
@@ -17,43 +23,43 @@ superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
   caption: |
     <p>Chek Jawa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m6lb.jpg
   caption: |
     <p>Chek Jawa, Nov 09 Camouflage in the open: Like other fishes that live near the water surface, they are usually darker coloured from above, and silvery from below.</p>
     <p>Thus they are camouflaged from predators both above and below the water.</p>
-- url: "https://live.staticflickr.com/697/23083752273_7b02985f61_z.jpg"
+- url: https://live.staticflickr.com/697/23083752273_7b02985f61_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/23083752273/ "Needlefishes (Family Belonidae) from the Chek Jawa boardwalk") Baby needlefishes: Their eggs have entangling tendrils so the eggs cling to one another or to objects in the water.</p>
     <p>Juveniles of some species shelter in mangroves, moving out to deeper waters when they mature.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc1b.jpg
   caption: |
     <p>Chek Jawa, Oct 16Photo shared by James Chua on <a href="https://www.facebook.com/photo.php?fbid=10154133359049195&set=a.10151553471109195.1073741834.644094194&type=3&theater&notif_t=like&notif_id=1476095722244805">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161010cjjc2.jpg
   caption: |
     <p>Chek Jawa, Oct 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/260218meky1a.jpg
   caption: |
     <p>Dead fish.</p>
     <p>Marina East, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174373985000112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/150829lazlks.JPG
   caption: |
     <p>Seringat-Kias, Aug 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/23472402964/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/161213sjimn.jpg
   caption: |
     <p>St John's Island, Dec 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/45822273155/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/251207hntlvo1.jpg
   caption: |
     <p>Pulau Hantu, Dec 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122150193404927700&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/130808cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24889021225/in/album-72157607718672165/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/belonidae/belonidae/091128cjd4669m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -106,7 +112,7 @@ while the upper jaw is very short. In needlefishes, both the upper
 and lower jaws are of equal length and usually filled with sharp teeth.
 Here's more on [how to tell apart stick-like
 fishes](../cfstick) commonly seen on our shores.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Jumping Needles:** These fishes tend to skitter or make shallow leaps out at the water
 surface. They appear to be attracted to lights at night and there

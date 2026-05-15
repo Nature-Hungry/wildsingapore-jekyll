@@ -1,12 +1,19 @@
 ---
 title: Tiny black gymnodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: orange, spot, gymnodoris, nudibranch, slug, seaslug, opisthobranch, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 90, 110]
+attributes:
+- 14
+- 22
+- 33
+- 90
+- 110
 family: Gymnodorididae
 genus: Gymnodoris
-species: ""
+species: ''
 inat_id: 50308
 stateofmatter: Life
 kingdom: Animalia
@@ -23,38 +30,38 @@ superfamily: Polyceroidea
 subfamily: Polycerinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
   caption: |
     <p>Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/060430skdg5862m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/060430skdg5862m3.jpg
   caption: |
     <p>A pair of nudibranchs.</p>
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/130127cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/130127cjlks.JPG
   caption: |
     <p>Chek Jawa, Jan 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8457117581/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdtch09m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdtch09m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 06 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090426skdmn.jpg
   caption: |
     <p>Pulau Sekudu, Apr 09 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3487581586/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/100612chgtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/100612chgtch1m3.jpg
   caption: |
     <p>Changi, Jun 10 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/glance-of-changi-shore.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/080702prptch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/080702prptch.jpg
   caption: |
     <p>Pasir Ris Park, Jul 08 Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2646510658/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/190519prpjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/190519prpjll1.jpg
   caption: |
     <p>Pasir Ris Park, May 2019Photo s hared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156384874376295&set=a.10156384873701295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/200805sntjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/200805sntjll3.jpg
   caption: |
     <p>Sentosa Tg Rimau, Aug 20Photo s hared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157625824871295&set=a.10157625821591295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090921kusjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/090921kusjk1m3.jpg
   caption: |
     <p>Kusu Island, Sep 09Photo s hared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/kusu-island-gymnodoris-on-desolate.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/gymnodorisblack/110705chgd5898m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -96,7 +103,7 @@ with yellow spots.
   
 **What do they eat?** Gymnodoris species
 are said to be 'voracious predators' of other sea slugs.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

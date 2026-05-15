@@ -1,12 +1,16 @@
 ---
 title: Button zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: button, colonial, anemone, zoanthid, zoanthus, zoanthidae, anthozoa, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Zoanthidae
 genus: Zoanthus
-species: ""
+species: ''
 inat_id: 54439
 stateofmatter: Life
 kingdom: Animalia
@@ -17,77 +21,77 @@ order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3b.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3d.jpg
   caption: |
     <p>Pulau Sekudu, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/060625bbd3512m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/060625bbd3512m3.jpg
   caption: |
     <p>Long body column.</p>
     <p>Beting Bronok, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050330labg3938m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050330labg3938m3b.jpg
   caption: |
     <p>Some have longer tentacles.</p>
     <p>Labrador, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050708labg9175m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050708labg9175m3b.jpg
   caption: |
     <p>Others have shorter tentacles.</p>
     <p>Labrador, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100811slud0082m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100811slud0082m3a.jpg
   caption: |
     <p>With their tentacles tucked in, they look like blobs or little sausages.</p>
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/050526cj6886m3.jpg
   caption: |
     <p>Sometimes packed so tightly that each polyp is polygonal.</p>
     <p>Thus mistaken for hard corals.</p>
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/160208smkstch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/160208smkstch1.jpg
   caption: |
     <p>A nudibranch (Baeolidia rieae?) found among these zoanthids.</p>
     <p>Pulau Semakau South, Feb 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153934852983713.1073742004.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100130brkd8511m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091231biod7025m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100601slud4702m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5225m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5225m3a.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5213m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091204pawd5213m3a.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091205sudd5442m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/091205sudd5442m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100131slud8842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100131slud8842m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100530tbkd4352m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/100530tbkd4352m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/151001blylks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/151001blylks4m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/zoanthus/040804skdd4111m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -145,7 +149,7 @@ generally pale blue but oral disk and tentacles in a wide range of
 colours, often the oral disk is a contrasting colour from the tentacles. Andy Dinesh
 took a [video clip of some zoanthids flourescing](zoanthus1v) under black light!
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

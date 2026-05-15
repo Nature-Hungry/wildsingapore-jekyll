@@ -1,11 +1,12 @@
 ---
 title: Venus clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, clam, veneridae, shell, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veneridae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50588
 stateofmatter: Life
@@ -20,15 +21,15 @@ order: Venerida
 superfamily: Veneroidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
   caption: |
     <p>Venus clams being harvested.</p>
     <p>Pulau Sekudu, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/020908cjd5785m3.jpg
   caption: |
     <p>Half buried under a stone.</p>
     <p>Chek Jawa, Sep 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/others/020227chgd7581m3.jpg
   caption: |
     <p>Siphon sticking out.</p>
     <p>Changi, Feb 02 Human uses: Many of the commercially important clams are venus clams.</p>
@@ -36,27 +37,27 @@ page_images:
     <p>Venus clams are among the favourite seafood of people everywhere.</p>
     <p>Like other filter-feeding clams, however, venus clams may be affected by <a href="../../../plants/seaweed/redtide.htm">red tide and other harmful algal blooms</a>.</p>
     <p>Such clams can then be harmful to eat.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/070323skdg8233m3.jpg
   caption: |
     <p><a href="forked.htm">Forked venus clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/scripta/090510hntd1230m3.jpg
   caption: |
     <p><a href="scripta.htm">Script venus clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/bean/060612cftd2894m3.jpg
   caption: |
     <p><a href="bean.htm">Bean-shaped venus clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
   caption: |
     <p><a href="ribbed.htm">Ribbed venus clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/white/070323skdg8230m3.jpg
   caption: |
     <p><a href="white.htm">White venus clam</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/forked/030717skdd0098m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -115,7 +116,7 @@ Clams in this and related families, have a
 folded gill structure that is well developed for filtering out tiny
 food particles. The Gladys Archerd Shell Collection website has a [drawing
 of this complex filter](http://shells.tricity.wsu.edu/ArcherdShellCollection/Illustrations/Venus_Gilll.html).   
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Status and threats:** None of our
 venus clams are listed among the threatened animals of Singapore.

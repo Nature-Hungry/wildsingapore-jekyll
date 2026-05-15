@@ -1,11 +1,13 @@
 ---
 title: Lettuce coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lettuce, pavona, agariciidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lettuce, pavona, agariciidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Agariciidae
 genus: Pavona
-species: ""
+species: ''
 attributes: []
 inat_id: 90878
 stateofmatter: Life
@@ -16,134 +18,134 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1315m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1315m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1315m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1315m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0788m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0788m3a.jpg
   caption: |
     <p><a href="../../../vertebrates/fish/chaetodontidae/rostrarus.htm">Butterflyfish</a> hiding among the 'leaves'.</p>
     <p>Pulau Hantu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3b.jpg
   caption: |
     <p><a href="../../../worm/polychaeta/sabellidae.htm">Fanworm</a> between two 'leaves' Sisters Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/220618tmftlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/220618tmftlks8.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159943824143158&set=a.10159943838013158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/220618tmftky5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/220618tmftky5.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167135086995112&set=a.10167135084985112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks11a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks11a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks11b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks11b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482801868158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090512tmlks13m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090512tmlks13m3.jpg
   caption: |
     <p>Tanah Merah,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090512tmlks13m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090512tmlks13m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100615tmlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100615tmlks1m3.jpg
   caption: |
     <p>Tanah Merah,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100615tmlks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100615tmlks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703319140/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/150618tmftlks10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/150618tmftlks10m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/150618tmftlks12m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/150618tmftlks12m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks14.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/2007024pcnlks14.jpg
   caption: |
     <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482802148158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/240527srplks13.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/240527srplks13.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/250714srpky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/250714srpky1.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172594516380112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/160409sjilks8.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/160409sjilks8.JPG
   caption: |
     <p>St Johns Island, Apr 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100617tsmklks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100617tsmklks2m3.jpg
   caption: |
     <p>Terumbu Semakau, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/more-bleaching-at-terumbu-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2861m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2863m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/070630sisd2863m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040703sisg0974m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040703sisg0974m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040703sisg0974m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040703sisg0974m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0788m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0788m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0778m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060401ulrd0778m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100201hntd9055m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100201hntd9055m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100201hntd9055m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100201hntd9055m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100812tpld0386m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100812tpld0386m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100812tpld0388m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100812tpld0388m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090209tryd6844m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090209tryd6844m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090209tryd6844m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/090209tryd6844m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/120509tsmkd2521m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/120509tsmkd2521m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/120509tsmkd2521m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/120509tsmkd2521m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/210502tptlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/210502tptlks5.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159171384273158&set=a.10159171388568158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/110717tbd7188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/110717tbd7188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/110717tbd7191m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/110717tbd7191m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040507rlhad0121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040507rlhad0121m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040507rlhad0121m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/040507rlhad0121m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100530tbkd4392m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100530tbkd4392m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100530tbkd4392m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/100530tbkd4392m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/210428slulks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/210428slulks12.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468243158&set=a.10159162473618158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/agariciidae/pavona/060415hntd1311m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -192,7 +194,7 @@ the tentacles give the colony a prickly appearance. Long sweeper tentacles
 may be produced. Colours seen include brown, blue sometimes with tinges
 of other colours.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

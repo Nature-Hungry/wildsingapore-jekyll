@@ -1,11 +1,13 @@
 ---
 title: Cerberilla nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cerberilla, asamusiensis, aeolid, aeolidinia, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cerberilla, asamusiensis, aeolid, aeolidinia, nudibranch, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aeolidiidae
 genus: Cerberilla
-species: ""
+species: ''
 attributes: []
 inat_id: 50427
 stateofmatter: Life
@@ -21,72 +23,72 @@ suborder: Aeolidina
 superfamily: Aeolidioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
   caption: |
     <p>Pasir Ris, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
   caption: |
     <p>Yellow colour is inside, and are the digestive glands in the cerata.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3a.jpg
   caption: |
     <p>Long oral tentacles and short rhinophores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6202m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6202m3.jpg
   caption: |
     <p>Burrowing into the ground.</p>
     <p>Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6203m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/060624skdg6203m3.jpg
   caption: |
     <p>Cerata 'bristling' when disturbed.</p>
     <p>Pulau Sekudu, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3b.jpg
   caption: |
     <p>Yellow colour is inside, and are the digestive glands in the cerata.</p>
-- url: "https://live.staticflickr.com/4404/36469803576_5149b68755_z.jpg"
+- url: https://live.staticflickr.com/4404/36469803576_5149b68755_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/36469803576/ "Cerberilla asamusiensis")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120510chgjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120510chgjk1m3.jpg
   caption: |
     <p>Changi, May 12Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/05/10/120510-changi/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140529chgsafhpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140529chgsafhpy1m3.jpg
   caption: |
     <p>Changi, May 14Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10152398393139000.1073741905.589418999&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/080720cjtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/080720cjtch01m3.jpg
   caption: |
     <p>Chek Jawa, Jul 08 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2684665380/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/030203cjd7118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/030203cjd7118m3.jpg
   caption: |
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/210626cjtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/210626cjtch1.jpg
   caption: |
     <p>Chek Jawa, Jun 21 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159555802588713&set=a.10159555848543713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks1m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120731prpd8758m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120731prpd8758m3.jpg
   caption: |
     <p>Pasir Ris, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/090426skdtch08m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/090426skdtch08m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 09Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2009/04/taking-stuff-after-stuff-pulau-sekudu.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140615skdlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/140615skdlks.JPG
   caption: |
     <p>Pulau Sekudu, Jun 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24901351913/in/album-72157607907125005/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/111030skdlks2m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/10/slugs-galore-at-pulau-sekudu.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/190704bbay5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/190704bbay5.jpg
   caption: |
     <p>Beting Bronok, Jul 19Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254617370355&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/110508cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/110508cyrlks.JPG
   caption: |
     <p>Cyrene Reef, May 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5702613870/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120819cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/120819cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520893636/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/170812cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/170812cyrlks1.jpg
   caption: |
     <p>Cyrene Reef, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155604767598158&set=pcb.10155604767643158&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/cerberilla/081216prpd3552m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -132,7 +134,7 @@ sides like a moustache. The oral tentacles have a black stripe that
 runs across the front of the 'face' too. Young nudibranchs have longer
 oral tentacles relative to their body size. The foot is quite broad.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

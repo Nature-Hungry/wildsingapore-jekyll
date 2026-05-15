@@ -1,11 +1,12 @@
 ---
-title: "Columnar hexagonal  corals "
+title: 'Columnar hexagonal  corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, hard, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, hard, merulinidae, scleractinia, cnidaria, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Faviidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 503799
 stateofmatter: Life
@@ -16,129 +17,129 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3673m3.jpg
   caption: |
     <p>Sisters Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/060102sisg3674m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3.jpg
   caption: |
     <p>Pulau Hantu, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/030802hntd0143m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040703sisd1779m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3.jpg
   caption: |
     <p>Sisters Island, Nov 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2989m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2989m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/051105sisg2988m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070618rlhg0512m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3.jpg
   caption: |
     <p>Terumbu Semakau, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/110323tsmkd7699m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3.jpg
   caption: |
     <p>Pulau Jong,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/070704jngg1165m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/090512tmlks9m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/090512tmlks9m3.JPG
   caption: |
     <p>Tanah Merah, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100615tmlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100615tmlks2m3.jpg
   caption: |
     <p>Tanah Merah, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4702317039/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6986m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6986m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6987m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod6987m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7119m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7119m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7120m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091231biod7120m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091204pawd5235m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/091205sudd5512m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100613sngd5592m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100131slud8818m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8527m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100130brkd8466m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3a.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100531biod4485m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4246m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4246m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4330m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/100530tbkd4330m3.jpg
   caption: |
     <p>Bleaching.</p>
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/hexa/hexacolumn/040901sjid6076m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -192,7 +193,7 @@ here by large external features for convenience of display.
 Merulinid corals with small hexagonal corallites that form smoother boulder
 shaped colonies without protruding lumps and bumps are grouped under [Small hexagonal corals](hexasmall.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

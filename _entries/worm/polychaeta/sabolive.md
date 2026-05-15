@@ -1,10 +1,12 @@
 ---
 title: Olive fanworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "olive, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: olive, fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Sabellidae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 49282
@@ -17,20 +19,20 @@ infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3a.jpg
   caption: |
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/090722chgd7801m3.jpg
   caption: |
     <p>Sometimes appears 'untidy'.</p>
     <p>Changi, Jul 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/olive/091009tmd2683m3.jpg
 ---
 
 
@@ -60,7 +62,7 @@ Included in this page are those with a fan generally olive brown sometimes
 with tinges of black. Often it has a rather 'untidy' look. Usually
 found alone in sand.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

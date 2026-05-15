@@ -1,11 +1,13 @@
 ---
 title: True cockles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: true, cockle, shell, clam, cardiidae bivalve, mollusc, clam, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Cardiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50597
 stateofmatter: Life
@@ -20,22 +22,22 @@ order: Cardiida
 superfamily: Cardioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
   caption: |
     <p><a href="cardissa.htm">Heart cockle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/large/091104sntd3546m3.jpg
   caption: |
     <p><a href="large.htm">Large cockle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/fragum/100629pdrd7618m3.jpg
   caption: |
     <p><a href="fragum.htm">Strawberry cockle</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
   caption: |
     <p><a href="squamosa.htm">Fluted giant clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/crocea/050312hntg3342m3.jpg
   caption: |
     <p><a href="crocea.htm">Burrowing giant clam</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -88,7 +90,7 @@ eaten by coastal dwellers.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

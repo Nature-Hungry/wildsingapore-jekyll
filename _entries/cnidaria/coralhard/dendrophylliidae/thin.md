@@ -1,11 +1,13 @@
 ---
 title: Thin disk coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, turbinaria, dendrophylliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
-species: ""
+species: ''
 attributes: []
 inat_id: 92703
 stateofmatter: Life
@@ -16,44 +18,44 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0930m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0926m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/120505sisd0929m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3.jpg
   caption: |
     <p>Tuas, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040409tusad0074m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/100615tmlks3m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4703259000/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8859m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8860m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/080802sjid8860m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3.jpg
   caption: |
     <p>Tuas, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/040803tusd3981m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/060712tusd4103m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -99,7 +101,7 @@ green and bluish, edges may be pale or in a different colour.
 *Turbinaria reniformis, Turbinaria mesenterina* and *Turbinaria
 frondens* may have these features.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,13 +1,18 @@
 ---
-title: "Cotton candy red seaweed "
+title: 'Cotton candy red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, bonnemaisoniaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fluffy, cotton, candy, red, seaweed, weed, algae, asparagopsis, bonnemaisoniaceae,
+  rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Ceramiaceae
-genus: ""
-species: ""
-attributes: [97, 98, 114]
+genus: ''
+species: ''
+attributes:
+- 97
+- 98
+- 114
 inat_id: 68613
 stateofmatter: Life
 kingdom: Plantae
@@ -18,23 +23,23 @@ subclass: Rhodymeniophycidae
 order: Ceramiales
 updated: Oct 15
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/101106burd2507m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/251205cj1.jpg
   caption: |
     <p>Bloom on seagrasses Chek Jawa, Dec 25 \Seaweed species are difficult to positively identify without microscopic examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/fluffy/040507rlhad0084m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -73,7 +78,7 @@ to maroon.
   
 A variety of species in the Family Ceriamaceae have this form including *Centroceras*, *Corallophila* and *Gayliella*. *Polysiphonia* (Family Rhodomelaceae) also has this form. One stage
 in the life cycle of the [Cat's tail red seaweed](catstail) also has a similar form.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

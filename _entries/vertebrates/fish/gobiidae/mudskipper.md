@@ -1,11 +1,12 @@
 ---
 title: Mudskippers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mudskipper, mud, skipper, fish, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mudskipper, mud, skipper, fish, gobiidae, goby, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Gobiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47308
 stateofmatter: Life
@@ -18,15 +19,15 @@ order: Gobiiformes
 suborder: Gobioidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
   caption: |
     <p>Bulbous eyes high on the head.</p>
     <p>Kusu Island, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/091226cjd6306m3a.jpg
   caption: |
     <p>Dorsal fin often colourful and raised to communicate with other mudskippers.</p>
     <p>Chek Jawa, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/071021cjd7025m3a.jpg
   caption: |
     <p>These fishes can be quite quarrelsome.</p>
     <p>Chek Jawa, Oct 07 Masters of the mudflats: The mudskipper has other interesting features that enables it to rule the mud!</p>
@@ -35,39 +36,39 @@ page_images:
     <p>The pectoral fins are used like crutches to crawl over mud.</p>
     <p>In some mudskippers, the pelvic fins are fused to form a sucker so they can better cling to rocks and mangrove tree roots.</p>
     <p>Some have colourful dorsal fins that can be raised to signal other mudskippers on the sand or mudflats.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6794m3.jpg
   caption: |
     <p>A tunnel at the base of the 'swimming pool'.</p>
     <p>Sungei Buloh Wetland Reserve, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/120215sbwrd6785m6l.jpg
   caption: |
     <p>Mudskipper tracks on the mud.</p>
     <p>Sungei Buloh Wetland Reserve, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/110220lazd6337m3.jpg
   caption: |
     <p><a href="chrysospilos.htm">Gold-spotted mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/schlosseri/150313deadfishd2601m3.jpg
   caption: |
     <p><a href="schlosseri.htm">Giant mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091121cjd4533m3.jpg
   caption: |
     <p><a href="walailakae.htm">Yellow-spotted mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/091226cjd6307m3.jpg
   caption: |
     <p><a href="histophorus.htm">Bearded mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/boddarti/130614cjd7164m3.jpg
   caption: |
     <p><a href="boddarti.htm">Blue-spotted mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3.jpg
   caption: |
     <p><a href="argentilineatus.htm">Silver lined mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
   caption: |
     <p><a href="gracilis.htm">Slender mudskipper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
   caption: |
     <p><a href="variabilis.htm">Dusky-gilled mudskipper</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/chrysospilos/050611kusg7778m3d.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -124,7 +125,7 @@ breathe out of water? Just as divers breathe underwater through tanks of air, th
 The mudskipper is in
 fact more comfortable crawling around on the mud than submerged in
 water!
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **How do mudskippers skip?** They
 curl their muscular body sideways then push against the mud to spring

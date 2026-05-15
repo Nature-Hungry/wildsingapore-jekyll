@@ -1,12 +1,12 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: leafy
 title: Higgin's sponge
 family: Heteroxyidae
 genus: Higginsia
-species: ""
+species: ''
 attributes: []
 inat_id: 247180
 stateofmatter: Life
@@ -17,16 +17,16 @@ subclass: Heteroscleromorpha
 order: Axinellida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3c.jpg
   caption: |
     <p>Covered with long thin stiff hairs.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3a.jpg
   caption: |
     <p>Trapped sediments hides bright orange colour.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/higginsia/150802bbd8873m3.jpg
 ---
 
 
@@ -46,7 +46,7 @@ Oct 2016*
 seen?**
 This bright orange hairy sponge is sometimes seen at Beting Bronok off Pulau Tekong. **Features:** Fat but flattened leaf-like branches or lobes (10-15cm) covered with long thin stiff hairs that traps sediments so the sponge is often obscured. Colour uniform bright orange.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

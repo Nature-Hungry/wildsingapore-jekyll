@@ -1,11 +1,13 @@
 ---
 title: Turrid snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "turrid, turricula, turridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: turrid, turricula, turridae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Turridae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 86125
 stateofmatter: Life
@@ -17,19 +19,19 @@ order: Neogastropoda
 superfamily: Conoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
   caption: |
     <p><a href="javana.htm">Turricula javana</a> Chek Jawa, Sep 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/100926cjd1660m3.jpg
   caption: |
     <p><a href="javana.htm">Turricula javana</a> Chek Jawa, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8.jpg
   caption: |
     <p>Turris nadaensis Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450076853158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/180616bblks8a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turridae/turridae/030914cjd0075m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,7 +70,7 @@ radula or stab with detachable needle-like teeth charged with venom.
   
 **Human uses:** They are not actively
 harvested although they are occasionally caught by shrimp trawlers.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

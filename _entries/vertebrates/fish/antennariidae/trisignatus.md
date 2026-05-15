@@ -1,9 +1,15 @@
 ---
 title: Spotted-tail frogfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spot, tail, frog, angler, fish, frogfish, anglerfish, lophiocharon, trisignatus, antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spot, tail, frog, angler, fish, frogfish, anglerfish, lophiocharon, trisignatus,
+  antennariidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Antennariidae
 genus: Lophiocharon
 species: trisignatus
@@ -18,124 +24,124 @@ order: Lophiiformes
 subfamily: Histiophryninae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
   caption: |
     <p>Changi, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3b.jpg
   caption: |
     <p>A lure that draws prey closer to the mouth</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110409smks09390m3.jpg
   caption: |
     <p>'Climbing' on Tape seagrass.</p>
     <p>Pulau Semakau, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0247m6l.jpg
   caption: |
     <p>Labrador, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/050725labg0262m3.jpg
   caption: |
     <p>Clasping pelvic fins on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/141012sisvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/141012sisvc1.jpg
   caption: |
     <p>Sisters Island (diving), Oct 14From video shared by Vincent Choo on <a href="https://fb.watch/w3z7NVFvn_/">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/170625bbtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/170625bbtch2.jpg
   caption: |
     <p>Beting Bronok, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155512058758713.1073742095.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/180616bbjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/180616bbjll1.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155688356871295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/250627bbky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/250627bbky1.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230704chgsafmn3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230704chgsafmn3a.jpg
   caption: |
     <p>Changi Creek, Jul 23</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230704chgsafmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230704chgsafmn3.jpg
   caption: |
     <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159688639973660&set=a.10159688657118660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/210527chg4lks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/210527chg4lks1.jpg
   caption: |
     <p>Changi Carpark 4, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159229967623158&set=a.10159229976888158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230803skdrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230803skdrk1.jpg
   caption: |
     <p>Pulau Sekudu, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160647990447906&set=a.10160647988087906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk4m3.jpg
   caption: |
     <p>Tanah Merah, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorsesl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk5m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090918tmjk6m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200805sntjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200805sntjll2.jpg
   caption: |
     <p>Sentosa Tg Rimau, Aug 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157625824406295&set=a.10157625821591295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200805sntlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200805sntlks4.jpg
   caption: |
     <p>Sentosa Tg Rimau, Aug 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158518722558158&set=a.10158518725458158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220419sjijll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220419sjijll3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158871215531295&set=a.10158871195486295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230831sjiaks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/230831sjiaks1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 23Photo shared by Arjun Sai Krishnan on <a href="https://www.facebook.com/photo/?fbid=3489511407965589&set=a.3489518747964855">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/130512bsismn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/130512bsismn.jpg
   caption: |
     <p>Big Sisters Island, May 13 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8730230469/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/100104ssisjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/100104ssisjk.jpg
   caption: |
     <p>Small Sisters Island, Jan 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4241482646/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/190520hnttch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/190520hnttch1.jpg
   caption: |
     <p>Pulau Hantu, May 19Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10157391134188713&set=a.10157391128423713&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200707hntdc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200707hntdc1.jpg
   caption: |
     <p>Pulau Hantu, Jul 20 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2949552181828205&set=a.2949753721808051&type=3&theater">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220814thnttl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220814thnttl1.jpg
   caption: |
     <p>Terumbu Hantu, Aug 22 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10160000370019264&set=a.10160000362039264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090510hntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090510hntlks.JPG
   caption: |
     <p>Pulau Hantu, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3541039889/in/album-72157607719695102/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110122hntjk1m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110122hntjk1m6.jpg
   caption: |
     <p>Pulau Hantu, Jan 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/01/110122-pulau-hantul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220814thntjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/220814thntjt1.jpg
   caption: |
     <p>Terumbu Hantu, Aug 22 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10160154164998119&set=a.10160154169583119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080606cyrtch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080606cyrtch.jpg
   caption: |
     <p>Cyrene Reef, Jun 08 Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2599904380/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/100711cyrjk4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/100711cyrjk4m3.jpg
   caption: |
     <p>Cyrene Reef, Sep 10 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/07/100711-cyrene-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/241116smksl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/241116smksl1.jpg
   caption: |
     <p>Pulau Semakau (South), Nov 24 Photo shared by Lon on <a href="https://www.facebook.com/photo/?fbid=122125433798468741&set=a.122125432778468741">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080322smktch01m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080322smktch01m6l.jpg
   caption: |
     <p>Pulau Semakau, Mar 08Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2371260836/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090209trymn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/090209trymn.jpg
   caption: |
     <p>Terumbu Raya, Feb 09 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3267579825/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/240511tryjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/240511tryjll2.jpg
   caption: |
     <p>Terumbu Raya, May 24 Photo shared byJianlin LIu on <a href="https://www.facebook.com/photo?fbid=10160216103146295&set=a.10160216105926295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110731trylks2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/110731trylks2m6l.jpg
   caption: |
     <p>Terumbu Raya, Jul 11Photo shared by Lok Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/back-to-great-reef-terumbu-rayal">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/150606trymn3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/150606trymn3m3.jpg
   caption: |
     <p>Terumbu Raya, Jun 15 Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152965513123660.1073741863.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200626tptky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/200626tptky1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10164415146955112&set=a.10164415147495112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/140909tptjll1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/140909tptjll1m3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Sep 14Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10152381963996295.1073741841.542241294&type=1">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/antennariidae/trisignatus/080619chgd5686m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -194,7 +200,7 @@ on the inside of the mouth, perhaps this also lures prey to come closer?
 and scorpionfishes. Here's more on [how
 to tell apart fishes that look like stones](../cfstonefish).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

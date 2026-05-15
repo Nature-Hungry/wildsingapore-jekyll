@@ -1,11 +1,12 @@
 ---
-title: "Shore cricket "
+title: 'Shore cricket '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: cricket, insect, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info
 layout: entry
 family: Gryllidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 52884
 stateofmatter: Life
@@ -20,17 +21,17 @@ infraorder: Gryllidea
 superfamily: Grylloidea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
   caption: |
     <p>East Coast, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/insecta/cricket/111001sjid1841.jpg"
+- url: http://www.wildsingapore.com/wildfacts/insecta/cricket/111001sjid1841.jpg
   caption: |
     <p>St John's Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/arachnida/desis/040829kusd5626m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arachnida/desis/040829kusd5626m3.jpg
   caption: |
     <p>Caught by a <a href="../arachnida/desis.htm">Marine spider</a>.</p>
     <p>Kusu Island, Apr 08</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/insecta/cricket/090820ecpd9469m3a.jpg
 ---
 arthropods [text
 index](../arthropoda/arthropodaindex.htm) | [photo index](../arthropoda/arthropodafi.htm)
@@ -52,7 +53,7 @@ more active at night.
 A fat bodied insect with long back legs and very long antennae. Usually
 crawls slowly and only hops to escape
 predators. The [Marine spider](../arachnida/desis.htm) (*Desis martensi*) has been seen preying on these crickets.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
  
 

@@ -1,45 +1,50 @@
 ---
 title: Elegant cerianthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [4, 6, 88]
-family: ""
-genus: ""
+attributes:
+- 4
+- 6
+- 88
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
   caption: |
     <p>The elegant cerianthid (lower left) compared to a common peacock anemone (upper right) Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4705m3a.jpg
   caption: |
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/080801chgd8645m3.jpg
   caption: |
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/251012chgal6.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162242368023693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/160704cjmn.jpg
   caption: |
     <p>Chek Jawa, Jul 16 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28123055232/in/album-72157667787864163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/100614bblks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4699575326/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/141224tusmn3m3.jpg
   caption: |
     <p>Tuas, Dec 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprise.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/250726cyrtl4.jpg
   caption: |
     <p>Cyrene, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/elegant/070731chgd4704m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -85,7 +90,7 @@ colour as the outer tentacles. Others are paler with white long tentacles
 and pink short tentacles. Body column pale often darker at the top
 edge near the base of the tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

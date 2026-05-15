@@ -1,11 +1,13 @@
 ---
 title: Feather mushroom  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "long, mushroom, ctenactis, fungiidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: long, mushroom, ctenactis, fungiidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Ctenactis
-species: ""
+species: ''
 attributes: []
 inat_id: 87725
 stateofmatter: Life
@@ -16,88 +18,88 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3c.jpg
   caption: |
     <p>Large, triangular, evenly spaced 'teeth'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3a.jpg
   caption: |
     <p>Prominent central furrow.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3.jpg
   caption: |
     <p>Underside concave.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4338m3b.jpg
   caption: |
     <p>Underside and sides.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/140518tmlks7m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/140518tmlks7m3.JPG
   caption: |
     <p>Tanah Merah, May 14Photo shared of Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/230608tmftlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/230608tmftlks1.jpg
   caption: |
     <p>Tanah Merah ferry Terminal, Jun 23Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160717496368158&set=a.10160717509253158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/250714srpal10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/250714srpal10.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared of Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/210625kusrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/210625kusrk2.jpg
   caption: |
     <p>Kusu Island, Jun 21Photo shared of Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10159181562352906&set=a.10159181555287906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/160409sjilks7.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/160409sjilks7.JPG
   caption: |
     <p>St John's Island, Apr 16Photo shared of Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/210430sjilks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/210430sjilks2.jpg
   caption: |
     <p>St John's Island, Apr 21Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159166991413158&set=a.10159166993588158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/260217bsislks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/260217bsislks8.jpg
   caption: |
     <p>Big Sisters' Island, Feb 26Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/201215smkelks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/201215smkelks1.jpg
   caption: |
     <p>Pulau Semakau (East), Dec 20Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158831045983158&set=a.10158831062073158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/230903smknmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/230903smknmn2.jpg
   caption: |
     <p>Pulau Semakau (North), Sep 23Photo shared of Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159804658758660&set=a.10159804652108660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/250629smkelks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/250629smkelks6.jpg
   caption: |
     <p>Pulau Semakau East, Jun 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/130428tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/130428tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Apr 13Photo shared of Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749328573/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/240623hntlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/240623hntlks8.jpg
   caption: |
     <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/160313trymn7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/160313trymn7.jpg
   caption: |
     <p>Terumbu Raya, Mar 16Photo shared of Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/100502trylks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/100502trylks1m3.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared of Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4570202241/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/141108bbblks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/141108bbblks5m3.jpg
   caption: |
     <p>Beting Bemban Besar, Nov 14Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10152839284378158.1073741863.547198157&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/220503tptlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/220503tptlks3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 22Photo shared of Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159859134803158&set=a.10159859138168158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5793m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5793m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060811rlhd5794m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060714rlhg6509m3b.jpg
   caption: |
     <p>Mouth in the central furrow.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7197m3.jpg
   caption: |
     <p>Terumbu Bemban, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7198m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/110717tbd7198m3b.jpg
   caption: |
     <p>Tiny tentacles, very sparse.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/ctenactis/060713rlhd4335m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -151,7 +153,7 @@ apart elongated mushroom hard corals](cflong.htm).
 **Status and threats:** *Ctenactis
 albitentaculata* is listed as globally Near Threatened [by
 the IUCN](http://www.iucnredlist.org/).  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

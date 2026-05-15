@@ -1,11 +1,13 @@
 ---
 title: Little black mussel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "little, black, horse, mussel, clam, xenostrobus, mytilidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: little, black, horse, mussel, clam, xenostrobus, mytilidae, bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Mytilidae
 genus: Xenostrobus
-species: ""
+species: ''
 attributes: []
 inat_id: 340585
 stateofmatter: Life
@@ -19,27 +21,27 @@ superfamily: Mytiloidea
 subfamily: Xenostrobinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
   caption: |
     <p>Shiny black ones on a large boulder among oysters.</p>
     <p>Chek Jawa, Jan 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/050809lckg1048m3.jpg
   caption: |
     <p>Greyish ones on mangrove roots Lim Chu Kang, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080704skdd6838m3a.jpg
   caption: |
     <p>Pulau Sekudu, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9039m3a.jpg
   caption: |
     <p>Byssus threads form a kind of nest.</p>
     <p>Chek Jawa, Jan 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101207ubnd3208m3b.jpg
   caption: |
     <p>Pulau Ubin, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/101216pgllks.JPG
   caption: |
     <p>Punggol, Dec 10Shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5268501204/in/album-72157625372847848/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mytilidae/xenostrobus/080122cjd9042m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +82,7 @@ produce byssus threads, sometimes these form a kind of nest in which
 the tiny mussels are embedded. But the 'nest' is not as thick and
 spongy as the mats created by [Nest mussels](musculista.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

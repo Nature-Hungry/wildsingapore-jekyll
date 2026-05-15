@@ -1,11 +1,13 @@
 ---
-title: "Sand collars of moon snails "
+title: 'Sand collars of moon snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "moon, snail, naticidae, natica, policines, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: moon, snail, naticidae, natica, policines, gastropod, mollusc, sand, collar,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Naticidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 48923
 stateofmatter: Life
@@ -17,16 +19,16 @@ order: Littorinimorpha
 superfamily: Naticoidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/041127cjd8603m3.jpg
   caption: |
     <p>Chek Jawa, Nov 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/pink/080704sekd6848m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 08</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/sandcollar/030703skdd0250m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -83,7 +85,7 @@ the sand collars.
   
 **Unique collars:** Can we tell which kind of moon snail laid the sand collar? One study suggests that each species of moon snail lays a consistently distinctive sand collar. With differences in the overall shape and size, number of coils, capsule size and packing density in different species.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

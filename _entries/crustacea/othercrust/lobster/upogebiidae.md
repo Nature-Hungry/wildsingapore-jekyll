@@ -1,12 +1,16 @@
 ---
 title: Mud shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mud, shrimp, upogebia, upogebiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mud, shrimp, upogebia, upogebiidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Upogebiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 117664
 stateofmatter: Life
 kingdom: Animalia
@@ -21,67 +25,67 @@ suborder: Pleocyemata
 infraorder: Gebiidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
   caption: |
     <p>Mandai, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8409m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8409m3b.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1760m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1760m6l.jpg
   caption: |
     <p>Tuas, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1758m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/101008tusd1758m3a.jpg
   caption: |
     <p>Close up of flared tail.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/100615tustch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/100615tustch1m3.jpg
   caption: |
     <p>Tuas, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/it-has-been-three-yearsl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjll2c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjll2c.jpg
   caption: |
     <p>Pasir Ris Park, May 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156384874716295&set=a.10156384873701295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190519prpjc1.jpg
   caption: |
     <p>Pasir Ris Park, May 19Photo shared by Jesselyn Chua on <a href="https://www.facebook.com/jesselyn.chuajiaxin/media_set?set=a.10158632294839517&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/260103prplks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/260103prplks5.jpg
   caption: |
     <p>Moult Pasir Ris Park, Jan 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163789590103158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110520chglks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110520chglks5m3.jpg
   caption: |
     <p>Changi, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-beach-just-so-much-to-discoverl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/071003chgtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/071003chgtch01m3.jpg
   caption: |
     <p>Changi, Oct 07Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/1484989564/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251012chgal1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251012chgal1.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162242368023693&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/120508skdrom6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/120508skdrom6l.jpg
   caption: |
     <p>Pulau Sekudu, May 12Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.351919961534375.80774.133291903397183&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251205cjrqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/251205cjrqo2.jpg
   caption: |
     <p>Chek Jawa, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.897733489410059&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/240625bbtt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/240625bbtt1.jpg
   caption: |
     <p>Beting Bronok, Jun 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/photo/?fbid=10234446720527536&set=a.10234446723647614">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/170625bblks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/170625bblks6.jpg
   caption: |
     <p>Beting Bronok, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155490537633158.1073741949.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/140616bbmn3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/140616bbmn3m3.jpg
   caption: |
     <p>Beting Bronok, Jun 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10152209637738660.1073741839.624178659&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190704bbay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/190704bbay1.jpg
   caption: |
     <p>Beting Bronok, Jul 19Photo shared by Able Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254636570835&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/111126bblks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/111126bblks1.JPG
   caption: |
     <p>Beting Bronok, Nov 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/090626bbmnm6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/090626bbmnm6l.jpg
   caption: |
     <p>Beting Bronok, May 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/3600470964/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/250727smkwml3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/250727smkwml3.jpg
   caption: |
     <p>Pulau Semakau (West), Jul 25Photo shared by Mathias Luk on <a href="https://www.facebook.com/media/set/?set=a.122174317976554640&type=3&ref=embed_post">fcebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/upogebiidae/110401mndd8415m6lb.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -122,7 +126,7 @@ Its burrows in the mangrove mud can be 200cm deep and complex. Its
 burrows are believed to help aerate the ground and allow other kinds
 of smaller creatures to settle nearby.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

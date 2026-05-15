@@ -1,15 +1,20 @@
 ---
-title: "Smooth ribbon seagrass "
+title: 'Smooth ribbon seagrass '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ribbon, grass, cymodocea, rotundata, cymodoceaceae, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ribbon, grass, cymodocea, rotundata, cymodoceaceae, potamogetonaceae, cymodoceaceae,
+  seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Smooth ribbon seagrass
 family: Cymodoceaceae
 genus: Cymodocea
 species: rotundata
-summary: "Narrow and shorter ribbon-like leaves with rounded or squarish tips without serrations. Rhizomes thick and smooth. Seen on Chek Jawa, Tanah Merah and Cyrene Reef."
-coverimg: "https://live.staticflickr.com/1066/5178347250_281e1f910c_s.jpg"
+summary: Narrow and shorter ribbon-like leaves with rounded or squarish tips without
+  serrations. Rhizomes thick and smooth. Seen on Chek Jawa, Tanah Merah and Cyrene
+  Reef.
+coverimg: https://live.staticflickr.com/1066/5178347250_281e1f910c_s.jpg
 inat_id: 50379
 stateofmatter: Life
 kingdom: Plantae
@@ -19,29 +24,28 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/090627cjd5679m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/090627cjd5679m6l.jpg
   caption: |
     <p>This seagrass grows quite near the Chek Jawa boardwalk.Chek Jawa, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100602tmd5158m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100602tmd5158m3.jpg
   caption: |
     <p>Patches growing on an artificial beach Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/060114cjg3880m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/060114cjg3880m3.jpg
   caption: |
     <p>Thick rhizomes with 2-7 leaves.</p>
     <p>Chek Jawa, Nov 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100605tmc4731m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/100605tmc4731m6l.jpg
   caption: |
     <p>After the oil spill in May 10.</p>
     <p>Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/120806tmfts02206m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/120806tmfts02206m6l.jpg
   caption: |
     <p>Tanah Merah, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6la.jpg
   caption: |
     <p>Tanah Merah, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6l.jpg"
-  caption: |
-    <p>Tanah Merah, Sep 11</p>
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/rotundata/110929tmftd1579m6l.jpg
+  caption: <p>Tanah Merah, Sep 11</p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -120,7 +124,7 @@ not available.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

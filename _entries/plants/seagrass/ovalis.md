@@ -9,7 +9,8 @@ family: Hydrocharitaceae
 genus: Halophila
 species: ovalis
 summary: "Spoon shaped leaves, 0.5-1cm wide, 1-4cm long, emerging in pairs. Common on many of our shores."
-coverimg: "https://live.staticflickr.com/65535/50611818666_1c78bf4646_n.jpg"
+coverimg: https://live.staticflickr.com/65535/48023149497_46f702ca38_c.jpg
+smallcoverimg: "https://live.staticflickr.com/65535/50611818666_1c78bf4646_n.jpg"
 inat_id: 50371
 stateofmatter: Life
 kingdom: Plantae
@@ -33,6 +34,7 @@ page_images:
 - url: "https://live.staticflickr.com/65535/50727458948_4897666367.jpg"
   caption: |
       <p>Meadow of Spoon seagrass.</p>
+  col_span: 2
 - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/060115sntg3922m3.jpg"
   caption: |
     <p>Sentosa, Jan 06</p>
@@ -47,6 +49,7 @@ page_images:
   caption: |
     <p>Fruits</p>
     <p>Labrador, Nov 12</p>
+  col_span: 2
 - url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/ovalis/050428cftg5289m3.jpg"
   caption: |
     <p>Spindly female flower of the spoon seagrass?</p>
@@ -60,6 +63,58 @@ page_images:
   caption: |
     <p>Burnt leaves.</p>
     <p>Pulau Sekudu, Jun 06</p>
+
+
+links_references: |
+  **Links**  
+
+  - [Fan
+    seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108) Tan, Leo W. H. & Ng, Peter K.
+    L., 1988. *[A
+    Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
+    Singapore. 160 pp.
+  - McKenzie,
+    L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
+    Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
+    Proceedings of a training workshop, National Parks Board, Biodiversity
+    Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
+  - [Identifying
+    seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
+  - [The
+    genus *Halophila*](http://wwwscience.murdoch.edu.au/centres/others/seagrass/halophilal) at The Western Australian Seagrass
+    Web Page on the Murdoch University website: species, life history
+    and distribution in Australia.
+
+  **References**
+
+  - Tan, Hugh
+    T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
+    Natural Heritage of Singapore*.
+    Second edition. Prentice Hall. 271 pp.
+  - Davison,
+    G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
+    Red Data Book: Threatened plants and animals of Singapore*.
+    Nature Society (Singapore). 285 pp.
+  - Waycott,
+    Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
+    the Indo-West Pacific.* 2004. James Cook University. 72 pp.
+  - Calumpong,
+    H. P. & Menez, E. G., 1997.*Field
+    Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
+    Bookmark, Inc., the Philippines. 197 pp.
+  - Lim, S.,
+    P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
+    and Times of Labrador Beach*. Division of Biology, School of
+    Science, Nanyang Technological University & Department of Zoology,
+    the National University of Singapore. 160 pp.
+  - Huisman,
+    John M. 2000. *Marine
+    Plants of Australia*
+    University of Western Australia Press. 300pp.
+  - Hsuan Keng,
+    S.C. Chin and H. T. W. Tan.1998, *The
+    Concise Flora of Singapore II: Monoctyledons*
+    Singapore University Press. 215 pp.
 ---
 
 
@@ -122,58 +177,6 @@ It is listed as 'Vulnerable' on the Red List of threatened plants of Singapore.
 
 
 
-{% include img-wrap-group.html items=page.page_images %}
 
-
-
-**Links**  
-
-- [Fan
-  seagrass (*Halophila*)](http://mangrove.nus.edu.sg/pub/seashore/text/108) Tan, Leo W. H. & Ng, Peter K.
-  L., 1988. *[A
-  Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre,
-  Singapore. 160 pp.
-- McKenzie,
-  L.J., Yaakub, S.M., and Yoshida, R.L. (2007). *[Seagrass-Watch:
-  Guidelines for TeamSeagrass Singapore Participants](http://www.seagrasswatch.org/Training/proceedings/TeamSeagrass_Singapore_workshop_Mar07.pdf)* (PDF).
-  Proceedings of a training workshop, National Parks Board, Biodiversity
-  Centre, Singapore, 24th-25th March 2007 (DPI&F, Cairns). 32pp.
-- [Identifying
-  seagrasses](http://www.seagrasswatch.org/id_seagrassl) on the Seagrass-Watch website.
-- [The
-  genus *Halophila*](http://wwwscience.murdoch.edu.au/centres/others/seagrass/halophilal) at The Western Australian Seagrass
-  Web Page on the Murdoch University website: species, life history
-  and distribution in Australia.
-
-**References**
-
-- Tan, Hugh
-  T.W. L.M. Chou, Darren C. J. Yeo and Peter K.L. Ng. 2007. *The
-  Natural Heritage of Singapore*.
-  Second edition. Prentice Hall. 271 pp.
-- Davison,
-  G.W. H. and P. K. L. Ng and Ho Hua Chew, 2008. *The Singapore
-  Red Data Book: Threatened plants and animals of Singapore*.
-  Nature Society (Singapore). 285 pp.
-- Waycott,
-  Michelle (et. al). 2004. *A Guide to Tropical Seagrasses of
-  the Indo-West Pacific.* 2004. James Cook University. 72 pp.
-- Calumpong,
-  H. P. & Menez, E. G., 1997.*Field
-  Guide to the Common Mangroves, Seagrasses and Algae of the Philippines*.
-  Bookmark, Inc., the Philippines. 197 pp.
-- Lim, S.,
-  P. Ng, L. Tan, & W. Y. Chin, 1994. *Rhythm of the Sea: The Life
-  and Times of Labrador Beach*. Division of Biology, School of
-  Science, Nanyang Technological University & Department of Zoology,
-  the National University of Singapore. 160 pp.
-- Huisman,
-  John M. 2000. *Marine
-  Plants of Australia*
-  University of Western Australia Press. 300pp.
-- Hsuan Keng,
-  S.C. Chin and H. T. W. Tan.1998, *The
-  Concise Flora of Singapore II: Monoctyledons*
-  Singapore University Press. 215 pp.
 
 

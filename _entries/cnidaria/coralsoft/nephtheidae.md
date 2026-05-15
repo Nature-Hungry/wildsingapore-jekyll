@@ -1,11 +1,13 @@
 ---
-title: "Flowery soft corals "
+title: 'Flowery soft corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: omelette, dendronephthya, nephtheidae,  alcyonacea, soft, coral, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Nephtheidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 141945
 stateofmatter: Life
@@ -16,78 +18,78 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcoralsoft.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
   caption: |
     <p>When the brown polyps are retracted, the colony can appear different.</p>
     <p>Pulau Hantu, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/120123hntd5532m3b.jpg
   caption: |
     <p>Polyps tiny with eight branched tentacles.</p>
     <p>Pulau Hantu, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/111222tusd4717m3a.jpg
   caption: |
     <p>Polyps reinforced with large sclerites.</p>
     <p>Tuas, Dec 11 What do they eat?</p>
     <p>Some flowery soft corals harbour microscopic, single-celled symbiotic algae (zooxanthellae) within their bodies.</p>
     <p>The algae undergo photosynthesis to produce food from sunlight.</p>
     <p>The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
   caption: |
     <p>Tiny <a href="../../crustacea/othercrust/shrimp/rednose.htm">red nose shrimp</a> in Spiky flowery soft coral.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/alphballsoft/110518bbd1955m3.jpg
   caption: |
     <p>A pair of <a href="../../crustacea/othercrust/shrimp/alphballsoft.htm">white snapping shrimps</a> in a ball flowery soft coral.</p>
     <p>Beting Bronok, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/110518bbd1755m3.jpg
   caption: |
     <p><a href="../../mollusca/gastropoda/ovulidae/softcoral.htm">False cowrie snail</a> in a pink flowery soft coral.</p>
     <p>Beting Bronok, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/white/160606chg1d3845m3.jpg
   caption: |
     <p>Large <a href="../../echinodermata/ophiuroidea/white.htm">ghost brittle star</a> in Ball flowery soft coral.</p>
     <p>Changi, Jun 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinyorange/161012cj.jpg
   caption: |
     <p><a href="../../echinodermata/ophiuroidea/tinycolourful.htm">Tiny colourful brittle star</a> and <a href="../../echinodermata/ophiuroidea/tinyorange.htm">tiny orange brittle star</a>  Chek Jawa, Oct 16 In Spiky flowery soft coral</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tuscd0030m3b.jpg
   caption: |
     <p>Tiny <a href="../../echinodermata/ophiuroidea/tinycolourful.htm">colourful brittle star</a> in Spiky flowery soft coral.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040605kusg0314m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110802smkd8178m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/110802smkd8178m3.jpg
   caption: |
     <p>Bushy, don't have spikes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/060625bbd3316m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
   caption: |
     <p>Pink bushy, don't have spikes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3.jpg
   caption: |
     <p><a href="nepsmooth.htm">Smooth flowery soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepsmooth/050510tusg6107m3e.jpg
   caption: |
     <p>Long branches, without spikes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3.jpg
   caption: |
     <p><a href="nepspiky.htm">Spiky flowery soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031124tusbd0074m3b.jpg
   caption: |
     <p>Long branches, with spikes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3.jpg
   caption: |
     <p><a href="nepball.htm">Ball flowery soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepball/060625bbd3408m3b.jpg
   caption: |
     <p>Spherical, with spikes.</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -98,7 +100,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

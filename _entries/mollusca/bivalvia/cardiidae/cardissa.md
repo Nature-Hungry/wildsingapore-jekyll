@@ -1,9 +1,14 @@
 ---
 title: Heart cockle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: heart, cockle, shell, clam, corculum, cardissa, cardiidae bivalve, mollusc,
+  clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [2, 33, 73]
+attributes:
+- 2
+- 33
+- 73
 family: Cardiidae
 genus: Corculum
 species: cardissa
@@ -21,68 +26,68 @@ superfamily: Cardioidea
 subfamily: Fraginae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
   caption: |
     <p>Concave on upperside, convex on underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3a.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6281m3a.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3.jpg
   caption: |
     <p>Upperside with translucent 'windows'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6286m3a.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6644m3.jpg
   caption: |
     <p>Convex side.</p>
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6642m3.jpg
   caption: |
     <p>Flat side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090208smkd6646m3.jpg
   caption: |
     <p>Side view.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/220302hntky1.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10166832156360112&set=a.10166832167835112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/201018smksvc2b.jpg
   caption: |
     <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158019845687945&set=a.10158019861547945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks01m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/080223smklks02m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/02/training-at-semakau-intertidal.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks1m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/100613snglks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719160589/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/190608bbbll1.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 19 Photo shared by Lisa Lim on <a href="https://www.facebook.com/lim.lisa/media_set?set=a.10157015629228964&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/200626tptdc1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2920686454714778&set=a.2920978031352287&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/150524tplhpy5m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, May 15 Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153249455599000.1073741958.589418999&type=1">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/cardiidae/cardissa/090207smkd6289m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -122,7 +127,7 @@ the centre of the 'heart'. The colour may be dull yellowish, pinkish to white, s
 bright flecks of red and yellow. Sometimes with bright blue underside and rose-pink upperside. The clam attaches itself to a hard
 surface with small byssus threads from the underside.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Discrepant venus clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, shell, clam, gafrarium, dispar, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, shell, clam, gafrarium, dispar, veneridae, bivalve, mollusc, clam,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Veneridae
 genus: Gafrarium
@@ -21,10 +23,10 @@ superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: Nov 11
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
   caption: |
     <p>Tuas, May 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/dispar/050510tusg6133m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -60,7 +62,7 @@ Elsewhere, they are found on intertidal shores with sand.
 4-6cm. Shell thick with fine ribs and usually a pattern of fine broken
 lines.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
   
 *\*Species are difficult

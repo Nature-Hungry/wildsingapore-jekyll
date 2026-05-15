@@ -1,9 +1,16 @@
 ---
 title: Platydoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "platydoris, scabra, dorididae, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: platydoris, scabra, dorididae, nudibranchia, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 90, 124]
+attributes:
+- 14
+- 22
+- 33
+- 90
+- 124
 family: Discodorididae
 genus: Platydoris
 species: scabra
@@ -22,73 +29,73 @@ infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
   caption: |
     <p>Pulau Hantu, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3d.jpg
   caption: |
     <p>Orange edge to side of the body.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3b.jpg
   caption: |
     <p>Orange edge to opening where feathery gills emerge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3c.jpg
   caption: |
     <p>Orange edge to opening where rhinophore emerges.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3.jpg
   caption: |
     <p>White underside with narrow foot.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0772m3a.jpg
   caption: |
     <p>Tiny oral tentacles tipped orange, and foot also edged orange.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/100710tmnml1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/100710tmnml1m3.jpg
   caption: |
     <p>Tanah Merah, Jul 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/07/reef-walk-with-smu-and-check-up-on.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210625vc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210625vc1.jpg
   caption: |
     <p>Kusu Island, Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158548177332945&set=a.10158548257772945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks1.JPG
   caption: |
     <p>St John's Island, Feb 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567763133/in/album-72157607929563969/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/130211sjilks3.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/090809sjijk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/090809sjijk1m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/st-johns-island-this-type-of-seaweed.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/220419sjijt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/220419sjijt1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10159951263883119&set=a.10159951265878119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/240212sjitjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/240212sjitjll1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Feb 24Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10160088466566295&set=a.10160088476676295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/160625tkklks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/160625tkklks10.jpg
   caption: |
     <p>Pulau Tekukor, Jun 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/160625tkklks10b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/160625tkklks10b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210824tkktch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210824tkktch2.jpg
   caption: |
     <p>Pulau Tekukor, Aug 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159674280513713&set=a.10159674306913713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080620smklks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080620smklks1m3.jpg
   caption: |
     <p>Pulau Semakau, Jun 08 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/2930691158/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210823smkelks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/210823smkelks2.jpg
   caption: |
     <p>Pulau Semakau (East), Aug 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159409348433158&set=a.10159409353158158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/090723tmrjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/090723tmrjk3m3.jpg
   caption: |
     <p>Terumbu Raya, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/07/terumbu-raya-nemos-are-everywhere.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/230221tryky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/230221tryky3.jpg
   caption: |
     <p>Terumbu Raya, Feb 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168072521720112&set=a.10168072524345112">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/platydoris/080920hntd0770m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -137,7 +144,7 @@ it.
 **What does it eat?** It probably
 eats [sponges](../../../porifera/porifera.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

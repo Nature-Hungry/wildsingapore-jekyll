@@ -1,66 +1,71 @@
 ---
 title: Small-mouth cerianthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: peacock, tube, anemone, cerianthus, ceriantharia, anthozoa, cnidaria, phoronis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [4, 6, 88]
-family: ""
-genus: ""
+attributes:
+- 4
+- 6
+- 88
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
   caption: |
     <p>Beting Bronok, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3b.jpg
   caption: |
     <p>Inner tentacles very short around tiny mouth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090621hntd4573m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090621hntd4573m3.jpg
   caption: |
     <p>Pulau Hantu, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090621hntd4576m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090621hntd4576m3.jpg
   caption: |
     <p>Pulau Hantu, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080506chgd2184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080506chgd2184m3.jpg
   caption: |
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/071002chgtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/071002chgtch01m3.jpg
   caption: |
     <p>Changi, Oct 07 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/1485157780/">her flikr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/170625bblks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/170625bblks4.jpg
   caption: |
     <p>Beting Bronok, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155490537633158.1073741949.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/180616bblks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/180616bblks4.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450074788158&set=a.10156450071873158&type=3&theater">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/240625bbtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/240625bbtch1.jpg
   caption: |
     <p>Beting Bronok, Jun 24Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?vanity=ilmare77&set=a.10161648044993713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/091009tmd2638m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/091009tmd2638m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090607tmftd3393m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090607tmftd3393m3.jpg
   caption: |
     <p>Tanah Merah, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090918tmjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/090918tmjk1m3.jpg
   caption: |
     <p>Tanah Merah, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/tanah-merah-thing-for-seahorses.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080508cyrtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080508cyrtch01m3.jpg
   caption: |
     <p>Cyrene Reef, May 08 Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/2476136752/">her flikr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/110702lzrlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/110702lzrlks4m3.jpg
   caption: |
     <p>Seringat Kias, Jul 11Shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/07/anemone-hunt-at-seringat-kias.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/120407lazlks10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/120407lazlks10m3.jpg
   caption: |
     <p>Seringat Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/091205sudtch5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/091205sudtch5m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4187700864/">her blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/ceriantharia/smallmouth/080705bbd6967m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -99,7 +104,7 @@ sometimes banded. The inner tentacles are very short, tapering to
 sharp tips and usually held closed with the tips touching, forming
 a cone around a tiny mouth. Body column slender, may be pale or dark.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,18 @@
 ---
 title: Thorny sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "thorny, cucumber, seacucumber, colochirus, quadrangularis, cucumariidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: thorny, cucumber, seacucumber, colochirus, quadrangularis, cucumariidae,
+  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 92, 101]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 92
+- 101
 family: Cucumariidae
 genus: Colochirus
 species: quadrangularis
@@ -17,69 +26,69 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg
   caption: |
     <p>Changi, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3a.jpg
   caption: |
     <p>Feeding tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/030814skdd0082m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/030814skdd0082m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/030814skdd0082m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/030814skdd0082m3d.jpg
   caption: |
     <p>Teeth-like projections around the anus.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050726chgg0350m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050726chgg0350m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050726chgg0350m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050726chgg0350m3b.jpg
   caption: |
     <p>Three rows of tube feet on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/101008tusd1746m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/101008tusd1746m3.jpg
   caption: |
     <p>Sometimes seen in large numbers clusterd together.</p>
     <p>Tuas, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050724bbg0212m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050724bbg0212m3.jpg
   caption: |
     <p>Sometimes with blue stripes.</p>
     <p>Beting Bronok, Jul 05.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/060502chgd1782m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/060502chgd1782m3.jpg
   caption: |
     <p>This one was tinier than a seagrass leaf.</p>
     <p>Changi, May 06 Living on a cucumber Sometimes small creatures are seen on the sea cucumber.</p>
     <p>Such as parasitic snails and tiny shrimps.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090623ecpjk3m3.jpg
   caption: |
     <p><a href="../../mollusca/gastropoda/eulimidae/eulimidae">Ulimid snails</a> found on the sea cucumber.</p>
     <p>East Coast, Jun 09Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/3652682482/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/050821bbg1857m3b.jpg
   caption: |
     <p><a href="../../crustacea/othercrust/shrimp/periclimenes">Commensal shrimp</a> seen on the sea cucumber.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190422cnyrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190422cnyrk3.jpg
   caption: |
     <p>Coney Island, Apr 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156989306332906&set=a.10156989301812906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190206prpll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/190206prpll2.jpg
   caption: |
     <p>Pasir Ris Park, Feb 19Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2129423080414353&set=a.2129422790414382&type=3&theater">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/091203ubnjk4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/091203ubnjk4m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090821tmlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090821tmlks1m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/08/new-sandy-stretch-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/110220lazrl14m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/110220lazrl14m3.jpg
   caption: |
     <p>Seringat-Kias, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/160509srpik10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/160509srpik10.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="holothuroidea/colochirus">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090510sntik8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/090510sntik8m3.jpg
   caption: |
     <p>Sentosa Siloso, May 09Photo shared by Ivan Kwan on <a href="http://lazy-lizard-tales.blogspot.com/2009/05/finds-with-spines-on-silosol">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/171104cyrlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/171104cyrlks4.jpg
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155830726053158&set=a.10155830725878158&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/colochirus/031226chgd0003m3.jpg
 ---
 
 
@@ -119,7 +128,7 @@ the length. Feeding tentacles yellow with tiny brown speckles and branched tips 
 warty sea cucumber](cercodemas) which looks similar
 and is found in the same habitat often next to the Thorny sea cucumber. The Pink warty sea cucumber has pink warty bumps instead of soft thorns and has yellow on its body, which the Thorny sea cucumber usually lacks.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

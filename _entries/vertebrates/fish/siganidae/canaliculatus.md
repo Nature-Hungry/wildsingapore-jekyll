@@ -1,9 +1,15 @@
 ---
 title: White-spotted rabbitfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "white, spot, spotted, rabbitfish, rabbit, fish, siganus, canaliculatus, siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: white, spot, spotted, rabbitfish, rabbit, fish, siganus, canaliculatus,
+  siganidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Siganidae
 genus: Siganus
 species: canaliculatus
@@ -17,75 +23,75 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg
   caption: |
     <p>Dark blotch behind the gill cover.</p>
     <p>Changi, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusud4023m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100529kusud4023m6l.jpg
   caption: |
     <p>Kusu Island, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/060527sjid2276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/060527sjid2276m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090721skdd7652m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090721skdd7652m3.jpg
   caption: |
     <p>White bar across the forehead from eye to eye.</p>
     <p>Pulau Sekudu, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110123sisd5272m3.jpg
   caption: |
     <p>Juveniles often seen among Sargassum.</p>
     <p>There are two here, can you spot them?</p>
     <p>Changi, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/201118pglvc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/201118pglvc7.jpg
   caption: |
     <p>In a fish trap, Punggol, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158086360847945&set=a.10158086509267945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/220616chgelks19.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/220616chgelks19.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940592503158&set=a.10159940599688158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/080603tmlks04m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/080603tmlks04m3.jpg
   caption: |
     <p>Tanah Merah, Jun 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/sandflat-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100615tmlks1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100615tmlks1m6l.jpg
   caption: |
     <p>Tanah Merah, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4702986698/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090609ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090609ecplks.JPG
   caption: |
     <p>East Coast Park, Jun 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4173739572/in/album-72157663938916840/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110704srplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110704srplks.JPG
   caption: |
     <p>Sentosa Serapong, Jul 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5917319286/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/250714srpky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/250714srpky3.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172594516380112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100913kusrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100913kusrl.jpg
   caption: |
     <p>Kusu Island, Sep 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.125801204137947.32829.109257872458947/125804257470975/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/240820kustt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/240820kustt2.jpg
   caption: |
     <p>Kusu Island, Aug 24Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10234988852560498&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100710sisrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100710sisrl.jpg
   caption: |
     <p>Sisters Islands, Jul 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.109263899125011.9436.109257872458947/109264685791599/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100528tkkjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/100528tkkjk.jpg
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4647289956/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110619tslgrl1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110619tslgrl1m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.193758294008904.64196.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110421jngrl2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110421jngrl2m6l.jpg
   caption: |
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/130428tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/130428tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Apr 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749320557/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110422tbmro4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110422tbmro4m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/fbx/?set=a.161983543861352.37680.133291903397183">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110422tplrl2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/110422tplrl2m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179832528734814.57296.109257872458947">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/siganidae/canaliculatus/090622cftd4669m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -134,7 +140,7 @@ scared, it displays a 'fright pattern' that is mottled with pale cream
 and 6-7 dark diagonal bars. *Siganus fuscescens* may appear very similar but the body colour
 generally more uniform, usually lacks or has much fewer spots and
 the edge of the gill cover is darkly outlined.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Painful sting!** The rabbitfish has spines on its fins
 that are grooved and contain venom glands. These spines may be found

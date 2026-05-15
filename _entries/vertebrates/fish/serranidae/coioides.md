@@ -1,9 +1,15 @@
 ---
 title: Orange-spotted grouper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: orange, spotted, grouper, fish, epinephalus, coioides, serranidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Serranidae
 genus: Epinephelus
 species: coioides
@@ -18,22 +24,22 @@ order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
   caption: |
     <p>Beting Bronok, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/140502chgmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/140502chgmn.jpg
   caption: |
     <p>Changi, May 14 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/14122758510/in/album-72157644515755803/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/060430skdg5868m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/180616bblks18.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/180616bblks18.jpg
   caption: |
     <p>Beting Bronok, Jun 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450079358158&set=a.10156450071873158&type=3&theater">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120609bbrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120609bbrl.jpg
   caption: |
     <p>Beting Bronok, Jun 12Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.397549506963114.103141.109257872458947/397556670295731/?type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -71,7 +77,7 @@ Northern shores, among rubble. Small ones sometimes seen among seagrasses.
 Juveniles seen are much smaller. The adult is brown with darker bars
 and small orange spots on the sides. It is found in coastal areas
 including estuaries, usually alone.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  

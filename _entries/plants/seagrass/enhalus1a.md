@@ -1,36 +1,38 @@
 ---
-title: "Tape seagrasses (Enhalus acoroides) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Tape seagrasses (Enhalus acoroides) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: tape, enhalus, acoroides, hydrocharitaceae, seagrass, grass, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 englishname: Tape seagrass
 family: Hydrocharitaceae
 genus: Enhalus
 species: acoroides
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
   caption: |
     <p>Pulau Hantu, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/081030sntd1456m3a.jpg
   caption: |
     <p><a href="../seaweed/rhodophyta/encrust">Encrusting red algae.</a> Sentosa, Oct 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9338m3.jpg
   caption: |
     <p>Egg capsules of <a href="../../mollusca/gastropoda/neritidae/oualaniensis">Dubious nerites</a>.</p>
     <p>Tanah Merah, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090621hntd4484m3.jpg
   caption: |
     <p>Egg capsules?</p>
     <p>Pulau Hantu, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/100213tmd9339m3.jpg
   caption: |
     <p>Egg capsules?</p>
     <p>Tanah Merah, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/enhalus/090207smkd6437m3a.jpg
   caption: |
     <p>Unidentified organisms.</p>
     <p>Pulau Semakau, Feb 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/060312hntd0129m3c.jpg
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -59,7 +61,7 @@ back to [general info on tape seagrass](enhalus)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

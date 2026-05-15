@@ -1,12 +1,13 @@
 ---
-title: "Sand dollars "
+title: 'Sand dollars '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, dollar, clypeasteroida, echinoidea, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Clypeasteridae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 47546
 stateofmatter: Life
 kingdom: Animalia
@@ -21,18 +22,18 @@ order: Clypeasteroida
 suborder: Clypeasterina
 updated: Apr 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngechinoidea)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6113m3.jpg
   caption: |
     <p>A sand dollar can move quite far under wet sand.</p>
     <p>Lazarus Island, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/090628lazd6115m3.jpg
   caption: |
     <p>Living sand dollars, not moving under sand.</p>
     <p>Lazarus Island, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/080720cjd8021m3.jpg
   caption: |
     <p>Cake sand dollars are often found in huge numbers.</p>
     <p>Chek Jawa, Jan 09 Flat skeleton: Sand dollars have an internal skeleton (called the test) formed out of large ossicles (pieces made of calcium carbonate) fused together into plates in multiples of five.</p>
@@ -40,39 +41,39 @@ page_images:
     <p>To grow larger, each ossicle is enlarged, and new ossicles added near the anus.</p>
     <p>In some sand dollars, there is internal buttressing to support the test.</p>
     <p>Nevertheless, sand dollars are still quite fragile so please handle live ones with care.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/081117ecpmd2310m3.jpg
   caption: |
     <p>A living sand dollar is covered with spines!</p>
     <p>East Coast, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3.jpg
   caption: |
     <p>Upperside of test of Ceke sand dollar</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3.jpg
   caption: |
     <p>Underside of test</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/090628lazd5991m3.jpg
   caption: |
     <p>Shape and features of a sand dollar is often more obvious in a dead one.</p>
     <p>Seringat-Kias, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2851m3a.jpg
   caption: |
     <p>The petalloid is made up of holes where tube feet emerge.</p>
     <p>This is more obvious in the skeleton of a dead sand dollar.</p>
     <p>Changi, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/060612chgd2852m3b.jpg
   caption: |
     <p>The central mouth is on the underside.</p>
     <p>Changi, Jun 06 Picky eaters: Most sand dollars are deposit feeders and process sand to feed on detritus in the sediments.</p>
     <p>They don't just process any sand.</p>
     <p>The dense layer of tiny spines keep out larger particles and only let in fine ones.</p>
     <p>Tiny tube feet and cilia (minute beating hairs) move these fine particles to the food grooves and along these grooves to the mouth in the center.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
   caption: |
     <p>Upperside of living sand dollar Chek Jawa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3c.jpg
   caption: |
     <p>Slot in a Keyhole sand dollar.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/031122cjd0023m3.jpg
   caption: |
     <p>A dead sand dollar has no spines.</p>
     <p>Chek Jawa, Nov 02 Why do some sand dollars have holes in them?</p>
@@ -84,21 +85,21 @@ page_images:
     <p>They are sometimes seen on top of a sand dollar.</p>
     <p>A <a href="../../asteroidea/protoreaster">Knobbly sea star</a> was seen with its stomach stuck to a sand dollar.</p>
     <p>A <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a> was also seen in the process of engulfing one.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/protoreaster/110508cyrmng5m3.jpg
   caption: |
     <p>Being eaten by a <a href="../../asteroidea/protoreaster">Knobbly sea star</a>?</p>
     <p>Cyrene Reef, May 11Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157626681285094/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/040218cjd0004m3.jpg
   caption: |
     <p>Cake sand dollar being swallowed by a <a href="../../../cnidaria/actiniaria/haddoni">Haddon's carpet anemone</a>.</p>
     <p>Chek Jawa Feb 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
   caption: |
     <p><a href="../../../mollusca/gastropoda/cassidae/glaucum">Grey bonnet snail</a> eating a Cake sand dollar.</p>
     <p>Cyrene, Aug 11 Damaged dollars: Like other echinoderms, sand dollars can repair minor damage.</p>
     <p>If you come across an 'uneven' sand dollar with a part of its body obviously chewed off, look closely and you might see spines growing on the chewed edge.</p>
     <p>But if a large part of the sand dollar is broken, it will probably die.</p>
-- url: "http://www.wildsingapore.com/wildfacts/concepts/pix/i020e4.gif"
+- url: http://www.wildsingapore.com/wildfacts/concepts/pix/i020e4.gif
   caption: |
     <p>Sand dollars undergo metamorphosis and their larvae look nothing like their adults.</p>
     <p>The form that first hatches from the eggs are bilaterally symmetrical and free-swimming, drifting with the plankton.</p>
@@ -106,25 +107,25 @@ page_images:
     <p>They eventually settle down and develop into a more sand dollar-like shape.</p>
     <p>One species of sand dollars (Dendraster excentricus of the US) is known to settle in response to a substance released by adults.</p>
     <p>This might explain why so many sand dollars of the same species may be found in one place.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/arachnoides/030927cjd0033m3.jpg
   caption: |
     <p><a href="arachnoides">Cake sand dollar</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/echinodiscus/080720cjd7995m3.jpg
   caption: |
     <p><a href="echinodiscus">Keyhole sand dollar</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/peronella/080704sekd6788m3.jpg
   caption: |
     <p><a href="peronella">Pink sand dollar</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/sandollar/depressum/070420sntrd0301m3.jpg
   caption: |
     <p><a href="depressum">Thick-edged sand dollar</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
     <p>963 - Pechenik, Jan A., 2005.</p>
     <p>Biology</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>5th edition.</p>
@@ -135,14 +136,14 @@ page_images:
     <p>Pawson and Porter M.</p>
     <p>Kier, 1995.</p>
     <p>Sea Stars, Sea Urchins, and Allies: Echinoderms of Florida and the</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Smithsonian Institution Press.</p>
     <p>390 pp.</p>
     <p>- Schoppe, Sabine, 2000.</p>
     <p>Echinoderms of the Philippines: A guide to common shallow water sea stars,</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Times Edition, Singapore.</p>
@@ -152,7 +153,7 @@ page_images:
     <p>Sea Stars of Australasia and their relatives.</p>
     <p>Neville Coleman's World of Water, Australia.</p>
     <p>64pp.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -163,7 +164,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

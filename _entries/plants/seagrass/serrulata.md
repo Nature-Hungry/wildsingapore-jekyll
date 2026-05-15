@@ -1,15 +1,19 @@
 ---
-title: "Serrated ribbon seagrass "
+title: 'Serrated ribbon seagrass '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: serrated, ribbon, grass, cymodocea, serrulata, cymodoceaceae, potamogetonaceae,
+  cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Serrated ribbon seagrass
 family: Cymodoceaceae
 genus: Cymodocea
 species: serrulata
-summary: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations. Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
-coverimg: "https://live.staticflickr.com/65535/51332275630_0c22a3145b_c.jpg"
+summary: Narrow and shorter ribbon-like leaves with rounded tips with fine serrations.
+  Rhizomes thick and smooth. Seen on some of our Southern reefs and shores.
+coverimg: https://live.staticflickr.com/65535/51332275630_0c22a3145b_c.jpg
 inat_id: 904027
 stateofmatter: Life
 kingdom: Plantae
@@ -19,38 +23,37 @@ class: Liliopsida
 order: Alismatales
 updated: Sep 2017
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/111030skdd3364m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/111030skdd3364m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3.jpg
   caption: |
     <p>Pulau Semakau, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/090503sgwwd0997m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3a.jpg
   caption: |
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/110830cyrd0552m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2974m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2974m3a.jpg
   caption: |
     <p>Flattened leaf sheath.</p>
     <p>Cyrene Reef, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/120624cyrs09444m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/120624cyrs09444m6l.jpg
   caption: |
     <p>Sometimes seen with reddish bands.</p>
     <p>Cyrene, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2969m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/081212cyrd2969m3.jpg
   caption: |
     <p>Cyrene Reef, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt1.jpg
   caption: |
     <p>Seringat Kias, Sep 17 Photo shared by Jonathan Tan.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg"
-  caption: |
-    <p></p>
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/serrulata/170908lazjt2.jpg
+  caption: <p></p>
 ---
 [![](../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -126,7 +129,7 @@ not available.
 **Status and threats:** It is listed
 as 'Endangered' on the Red List of threatened plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

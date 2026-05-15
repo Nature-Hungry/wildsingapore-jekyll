@@ -1,12 +1,15 @@
 ---
 title: Common elbow crabs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: elbow, crab, parthenopidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106]
+attributes:
+- 38
+- 106
 family: Parthenopidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 52582
 stateofmatter: Life
 kingdom: Animalia
@@ -24,63 +27,63 @@ zoosubsection: Heterotremata
 superfamily: Parthenopoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
   caption: |
     <p>Pincers many times longer than its body.</p>
     <p>Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090821chgd9613m3.jpg
   caption: |
     <p>Changi, Aug 09 The pincers are large, relative to the crab, and look like they can do some serious damage to small prey.</p>
     <p>The inner surface of the pincers have a row of coloured bumps and spots that are probably used to startle predators.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/030525cjd0053m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/030525cjd0053m3a.jpg
   caption: |
     <p>Just moulted.</p>
     <p>Pulau Ubin, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090625cyd5542m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/090625cyd5542m3.jpg
   caption: |
     <p>Pair about to mate?</p>
     <p>Cyrene Reef, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/050621skdg7974m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/050621skdg7974m3.jpg
   caption: |
     <p>Mama crab with egg mass on her abdomen.</p>
     <p>Pulau Sekudu, Jun 05</p>
-- url: "https://live.staticflickr.com/3931/32545405384_300b189f35_z.jpg"
+- url: https://live.staticflickr.com/3931/32545405384_300b189f35_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32545405384/ "Common elbow crab (Rhinolambrus pelagicus)") Two crabs, about to mate?</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/190206prpll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/190206prpll3.jpg
   caption: |
     <p>Pasir Ris-Loyang, Feb 19Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2129456280411033&set=a.2129422790414382&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/100614bblks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/100614bblks.JPG
   caption: |
     <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/06/annual-beting-bronok-checkupl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/250627bbky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/250627bbky4.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/200706skdlks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/200706skdlks9.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431587863158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/200819ecptvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/200819ecptvc1.jpg
   caption: |
     <p>East Coast Park, Aug 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157884336767945&set=a.10157884335157945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/160725sntmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/160725sntmn2.jpg
   caption: |
     <p>Sentosa, Jul 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/171009blyay4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/171009blyay4.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/160508kuslks4.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/160508kuslks4.JPG
   caption: |
     <p>Kusu Island, May 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154177861293158&set=a.10152578284848158.1073741857.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/251207hntlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/251207hntlks1.jpg
   caption: |
     <p>Pulau Hantu, Dec 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163673083073158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/130211sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/130211sjilks.JPG
   caption: |
     <p>St John's Island, Feb 13Photo shared by Loh Kok Sheng on his blog.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/110203sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/110203sjilks.JPG
   caption: |
     <p>St John's Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/02/lunar-new-year-day-1-st-johns-islandl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/parthenopidae/common/060502cftd1785m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -132,7 +135,7 @@ The thin walking legs are small and have pointed tips. Body somewhat
 triangular or pentangonal, with eyes at the pointed tip. The crab's
 body and claws may be fuzzy or bumpy and coloured the same as mud
 or sand. Some have fluffy growths and other encrustations, even [keelworms](../../../worm/polychaeta/serpulidae) growing on the body and arms.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Elbow crabs commonly seen on our shores could belong to various species
 including *Parthenope* sp. and *Rhinolambrus* sp. They are

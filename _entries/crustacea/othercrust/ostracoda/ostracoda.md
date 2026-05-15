@@ -1,26 +1,27 @@
 ---
-title: "Mussel shrimps "
+title: 'Mussel shrimps '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: mussel, shrimp, ostracod, crustacea, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
   caption: |
     <p>Eating or being eaten by a worm?</p>
     <p>Pulau Sekudu, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050722cjg9869m3.jpg
   caption: |
     <p>Again seen with a worm.</p>
     <p>Chek Jawa, Jul 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ostracoda/ostracoda/050806skdg0510m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -74,7 +75,7 @@ by Japanese soldiers.
 **What
 do they eat?** The
 various species may be filter feeders, herbivores, predators and scavengers.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 
 ---

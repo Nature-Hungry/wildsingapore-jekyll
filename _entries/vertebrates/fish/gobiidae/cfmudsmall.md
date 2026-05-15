@@ -1,11 +1,12 @@
 ---
-title: "Small mudskippers "
+title: 'Small mudskippers '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "small, mudskipper, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: small, mudskipper, gobiidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Synanceiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 64494
 stateofmatter: Life
@@ -18,43 +19,43 @@ order: Perciformes
 suborder: Scorpaenoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/walailakae/091019prpd2908m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/variabilis/051019smkg2790m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +94,7 @@ how to tell them apart.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [**Dusky-gilled
 mudskipper**](variabilis.htm)  

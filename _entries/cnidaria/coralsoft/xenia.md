@@ -1,11 +1,13 @@
 ---
 title: Xenia soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: xenia, soft, coral, heteroxenia, xeniidae, aclyonacea, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Xeniidae
 genus: Heteroxenia
-species: ""
+species: ''
 attributes: []
 inat_id: 155022
 stateofmatter: Life
@@ -16,43 +18,43 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8258m3a.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9762m3.jpg
   caption: |
     <p>Contracted polyps look like lumps.</p>
     <p>Terumbu Bemban, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3a.jpg
   caption: |
     <p>Star-shaped siphonozooids.</p>
     <p>Terumbu Bemban, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120412tbd9780m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2974m6l.jpg
   caption: |
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/111029smkd2971m3.jpg
   caption: |
     <p>Small star-shaped siphonozooids.</p>
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120414thntrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/120414thntrl.jpg
   caption: |
     <p>Terumbu Hantu, Apr 12Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.359060104145388.96868.109257872458947/359060317478700/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2.jpg
   caption: |
     <p>Pulau Semakau (North), Apr 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/160424smknmn2a.jpg
   caption: |
     <p>Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/140718tsmkrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/140718tsmkrl.jpg
   caption: |
     <p>Terumbu Semakau, Jul 14Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.769958719722189.1073741838.109257872458947/769960919721969/?type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -109,7 +111,7 @@ study found](http://wildshores.blogspot.sg/2013/04/why-do-some-soft-corals-pulsa
 **Sometimes mistaken for** the more
 common [Broad feathery soft corals](feabroad.htm) which are usually blue and don't pulse.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

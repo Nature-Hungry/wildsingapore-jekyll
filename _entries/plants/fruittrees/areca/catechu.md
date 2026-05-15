@@ -1,9 +1,17 @@
 ---
-title: "Pinang palm "
+title: 'Pinang palm '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: betel, nut, betelnut, areca, catechu, aracaceae, palmae, palm, plant, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [8, 18, 20, 21, 36, 82]
+attributes:
+- 8
+- 18
+- 20
+- 21
+- 36
+- 82
 family: Arecaceae
 genus: Areca
 species: catechu
@@ -19,31 +27,31 @@ subtribe: Arecinae
 inat_id: 83108
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3a.jpg
   caption: |
     <p>Flowers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3c.jpg
   caption: |
     <p>Fruits.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2244m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2246m6l.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2247m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -55,7 +63,7 @@ page_images:
     <p><a href="http://www.amazon.com/gp/product/0196382424?ie=UTF8&tag=wildsingapo08-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0196382424">Palms of Malaya.</a> .</p>
     <p>White Lotus.</p>
     <p>136 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/areca/catechu/091005cjd2240m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -109,7 +117,7 @@ by the Chinese to expel tapeworms and roundworms, to treat diabetes,
 indigestion, lumbago and urinary problems. The Malays use the leaves
 in a treatment for diarrhoea in children.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,13 @@
 ---
-title: " Nyireh"
+title: ' Nyireh'
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nyireh, bunga, xylocarpus, polygalaceae, meliaceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Meliaceae
 genus: Xylocarpus
-species: ""
+species: ''
 attributes: []
 inat_id: 182183
 stateofmatter: Life
@@ -18,64 +20,64 @@ subfamily: Cedreloideae
 tribe: Xylocarpeae
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9861m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090711sjid7167m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6461m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8891m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6016m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090809sjid8713m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090126ubnd6191m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8875m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090124ubnd6015m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/090401sntd8897m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090411lckd9438m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/rumphii/100321sntd9690m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/granatum/090208smkd6456m6.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +119,7 @@ and threats:** *Xylocarpus moluccensis* is listed as
 'Endangered', while *Xylocarpus rumphii* is listed as 'Critically
 Endangered' on the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

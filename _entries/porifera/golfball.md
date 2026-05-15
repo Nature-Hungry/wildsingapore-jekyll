@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,"
+keywords: golf, ball, sponge, porifera, cinachyrella, australiensis, tetillidae, field,
 layout: entry
 shape: ball
 title: Golf ball sponge
@@ -18,81 +18,81 @@ order: Tetractinellida
 suborder: Spirophorina
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/090412hntd9690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/090412hntd9690m3.jpg
   caption: |
     <p>Regular circular indentations makes it resemble a golf ball.</p>
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070101cjd7268m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/070101cjd7268m3.jpg
   caption: |
     <p>Possibly a dead golfball sponge?</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/070804smkg1884m3b.jpg
   caption: |
     <p>Broken ones reveal the yellow radiating internal skeleton.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100908chgd0646m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/121216ubnd2603m3a.jpg
   caption: |
     <p>Tiny blobs at the filament tips: buds that fall off to become new sponges?</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/201117labrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/201117labrk1.jpg
   caption: |
     <p>Labrador, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158655116427906&set=a.10158655096007906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/210822ssisvc6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/210822ssisvc6.jpg
   caption: |
     <p>Small Sisters Island, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648326562945&set=a.10158648464857945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8709m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091231biod6937m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/091231biod6937m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/091205pawlks9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/091205pawlks9m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166011664/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8647m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100130brkd8647m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8786m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8786m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8863m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100131slud8863m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4815m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4815m3b.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100530tbkd4301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100530tbkd4301m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4704m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/golfball/100601slud4704m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/golfball/120123hntd5473m3.jpg
 ---
 
 
@@ -136,7 +136,7 @@ sponge](ballprickly.htm) which has fewer fine spines sometimes with bulbous tips
 and anchored to the surface with stringy tissues. Golf ball sponges
 lack these bulbous tips and stringy anchors.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

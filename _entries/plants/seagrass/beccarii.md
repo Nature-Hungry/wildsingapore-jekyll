@@ -1,15 +1,19 @@
 ---
-title: "Beccari's seagrass "
+title: 'Beccari''s seagrass '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: beccari, beccarii, halophila, ovalis, minor, hydrocharitaceae, seagrass,
+  grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Beccari's seagrass
 family: Hydrocharitaceae
 genus: Halophila
 species: beccarii
-summary: "Seagrass with the smallest leaves, 0.5cm wide, emerging in a rosette of 5-10 leaves. Common on Chek Jawa."
-coverimg: "https://live.staticflickr.com/5051/5534139131_cb5be6fac8_n.jpg"
+summary: Seagrass with the smallest leaves, 0.5cm wide, emerging in a rosette of 5-10
+  leaves. Common on Chek Jawa.
+coverimg: https://live.staticflickr.com/5051/5534139131_cb5be6fac8_n.jpg
 inat_id: 50373
 stateofmatter: Life
 kingdom: Plantae
@@ -19,37 +23,36 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/130728mnds02897m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/130728mnds02897m6l.jpg
   caption: |
     <p>Mandai mangroves, Jul 2013</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1175m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1175m3.jpg
   caption: |
     <p>Emerges in a rosette of 5-10 leaves.</p>
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090502cjf0882m3b.jpg
   caption: |
     <p>Seen growing next to byssus nests created by <a href="../../mollusca/bivalvia/mytilidae/musculista">Nest mussels</a>.</p>
     <p>Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/030913cjd0097m3.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110916cjd1181m3b.jpg
   caption: |
     <p>Chek Jawa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/090816sbwrd9032m6l.jpg
   caption: |
     <p>Lush carpets of this tiny seagrass grow under the Sungei Buloh mangrove boardwalk.</p>
     <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/070803cjd5024m6.jpg
   caption: |
     <p>Patches of this tiny seagrass sometimes grow near the Chek Jawa boardwalk.</p>
     <p>Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3b.jpg"
-  caption: |
-    <p></p>
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/beccarii/110317mndd7384m3b.jpg
+  caption: <p></p>
 ---
 
 
@@ -116,7 +119,7 @@ in many regions.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

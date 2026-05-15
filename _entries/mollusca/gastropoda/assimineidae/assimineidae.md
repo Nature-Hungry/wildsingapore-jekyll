@@ -1,10 +1,12 @@
 ---
 title: Red berry snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: red, berry, snail, sphaerassiminea, assiminea, miniata, assimineidae, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Assimineidae
-genus: ""
+genus: ''
 species: Assiminea
 attributes: []
 inat_id: 50701
@@ -17,32 +19,32 @@ order: Littorinimorpha
 superfamily: Truncatelloidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
   caption: |
     <p>Lim Chu Kang, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/050809lckg0995m3.jpg
   caption: |
     <p>Underside and operculum.</p>
     <p>Lim Chu Kang, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/110406sbbd8767m3.jpg
   caption: |
     <p>Sungei Buloh Besar, Apr 11</p>
-- url: "https://live.staticflickr.com/7859/46120433674_769c339836_z.jpg"
+- url: https://live.staticflickr.com/7859/46120433674_769c339836_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/46120433674/in/photolist-2dgvh7W-dSKHXU-d4jZuu-cRBavE-cRBanQ-cRBah5-9z7ykF-9z7yit-96E9cW-96E99Y-9119d8-9119b6-7mSngE-5Wzo8b "Red berry snail (Assiminea sp.)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1.jpg
   caption: |
     <p>Sg Pang Sua, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.913753374474737&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/251228spgrqo1b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/161228cjmn.jpg
   caption: |
     <p>Chek Jawa, Dec 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/31946815565/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/260218merqo3.jpg
   caption: |
     <p>Marina East, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955899723593435&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/assimineidae/assimineidae/040101lckd0019m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -84,7 +86,7 @@ other marine snails). Many members of the Family Assimineidae are adapted to bra
 **What does it eat?** It probably
 grazes on the algae growing on mangrove mud.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

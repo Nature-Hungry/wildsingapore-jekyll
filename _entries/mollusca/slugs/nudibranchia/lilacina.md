@@ -1,7 +1,9 @@
 ---
 title: Spotted foot nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spot, foot, tayuva, discodoris, lilacina, fragilis, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spot, foot, tayuva, discodoris, lilacina, fragilis, nudibranchia, slug,
+  seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Discodorididae
 genus: Tayuva
@@ -22,89 +24,89 @@ infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3b.jpg
   caption: |
     <p>Feathery gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3a.jpg
   caption: |
     <p>Rhinophore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120508skdd2073m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120508skdd2073m3a.jpg
   caption: |
     <p>Tiny oral tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120508skdd2073m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120508skdd2073m3.jpg
   caption: |
     <p>Brown spots on the underside.</p>
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9223m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9223m3.jpg
   caption: |
     <p>Laying eggs.</p>
     <p>Pulau Sekudu, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9225m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9225m3.jpg
   caption: |
     <p>Eggs.</p>
     <p>Pulau Sekudu, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9232m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050709skdg9232m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200706skdlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200706skdlks5.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431584733158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/170625bbtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/170625bbtch3.jpg
   caption: |
     <p>Beting Bronok, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155512058758713.1073742095.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/210530epcnvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/210530epcnvc4.jpg
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158495738567945&set=a.10158495877737945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200210blyjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200210blyjll1.jpg
   caption: |
     <p>Berlayar Creek, Jan 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157077556731295&set=a.10157077555081295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120408sjimn2m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/120408sjimn2m6l.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 12 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150659762048660&set=a.10150592871748660.378920.624178659&type=3">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/170611bsistyc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/170611bsistyc2.jpg
   caption: |
     <p>Big Sisters Island, Jun 17Photo shared by Tay Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156246897980263.1073741832.575545262&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/240211bigsisvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/240211bigsisvc1.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224110387945&set=a.10160224174947945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200705kusjll6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/200705kusjll6.jpg
   caption: |
     <p>Kusu Island, Jul 20Photo shared byJianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157541501956295&set=a.10157541499231295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100711cyrlks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100711cyrlks5m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/cyrene-in-dark.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/151226cyrnn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/151226cyrnn1m3.jpg
   caption: |
     <p>Cyrene Reef, Dec 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/141011hnttch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/141011hnttch2m3.jpg
   caption: |
     <p>Pulau Hantu, Oct 14Photo shared by Toh Chay Hoon on facebook.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/160424smknlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/160424smknlks1.JPG
   caption: |
     <p>Pulau Semakau (North), Apr 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154145560278158&set=a.10152578284848158.1073741857.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100626cyrtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100626cyrtch1m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100626cyrtch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/100626cyrtch2m3.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/first-predawn-trip-to-cyrene-reef.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/111029smkjp1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/111029smkjp1m3.jpg
   caption: |
     <p>Pulau Semakau, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/111029smkjp2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/111029smkjp2m3.jpg
   caption: |
     <p>Photo shared by Jerome Pang on <a href="https://www.facebook.com/media/set/?set=a.10150354042961523.353073.614016522&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/110521smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/110521smklks.JPG
   caption: |
     <p>Pulau Semakau, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/110521smklks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/110521smklks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5761057485/in/album-72157607751329669/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/lilacina/050623cjg8377m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -157,7 +159,7 @@ do produce a LOT of slime which is really hard to wipe off afterwards.
 Dr Bill Rudman considers the older name *Discodoris lilacina* more suitable for all the animals that might be called *Discodoris
 fragilis*.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

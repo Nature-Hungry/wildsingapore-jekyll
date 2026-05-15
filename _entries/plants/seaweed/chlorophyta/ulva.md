@@ -1,13 +1,17 @@
 ---
-title: "Sea lettuce "
+title: 'Sea lettuce '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ulva, lettuce, seaweed, weed, green, ulvaceae, enteromorpha, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Ulvaceae
 genus: Ulva
-species: ""
-attributes: [97, 99]
+species: ''
+attributes:
+- 97
+- 99
 inat_id: 54644
 stateofmatter: Life
 kingdom: Plantae
@@ -16,39 +20,39 @@ class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngseaweed)</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/090110cjd4696m3.jpg
   caption: |
     <p>May sometimes form a thick green carpet on shores.</p>
     <p>Chek Jawa, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050311labd1637m3.jpg
   caption: |
     <p>Labrador, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050513labg6446m3.jpg
   caption: |
     <p>Transparent blade: reproducing?</p>
     <p>Labrador, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/temnopleurus/080703chgd6690m3.jpg
   caption: |
     <p>Tiny <a href="../../../echinodermata/echinoidea/urchin/temnopleurus">black sea urchin</a> in sea lettuce.</p>
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/050426cftg5087m3d.jpg
   caption: |
     <p><a href="../../../vertebrates/fish/syngnathidae/seagrass">Pipefish</a> camouflaged on sea lettuce.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/050426cftd2745m3.jpg
   caption: |
     <p>Some form sheets.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/040620skdd0716m3.jpg
   caption: |
     <p>Others are ribbon-like or net-like.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/ulva/070614chgg0190m3.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/shrimp/rednose">Tiny shrimp</a> on sea lettuce.</p>
     <p>Changi, Jun 07</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -59,7 +63,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

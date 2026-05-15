@@ -1,12 +1,18 @@
 ---
 title: Sponge crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sponge, crab, sponge crab, cryptodromia, dromiidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Dromiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 51168
 stateofmatter: Life
 kingdom: Animalia
@@ -23,68 +29,68 @@ zoosection: Dromiacea
 superfamily: Dromioidea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
   caption: |
     <p>From above, looks like just another uninteresting blob.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
   caption: |
     <p>The crab is underneath!</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3a.jpg
   caption: |
     <p>Pink tips on the pincers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3b.jpg
   caption: |
     <p>Last two pairs of legs bent over its back to grip the disguise.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3.jpg
   caption: |
     <p>Pasir Ris Park, Jul 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-risl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/080707prplksm3a.jpg
   caption: |
     <p>Pasir Ris Park, Jul 08Photo shared by Loh Kok Sheng on  <a href="http://wondercreation.blogspot.com/2008/06/checking-sand-stars-out-at-pasir-risl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/171204chglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/171204chglks2.jpg
   caption: |
     <p>Changi, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155911535398158&set=a.10155911533538158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210628ecpBvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210628ecpBvc2.jpg
   caption: |
     <p>East Coasr Park (B), Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557371152945&set=a.10158557647212945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/100615tustch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/100615tustch2m3.jpg
   caption: |
     <p>Tuas, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/it-has-been-three-yearsl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/200210blylks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/200210blylks7.jpg
   caption: |
     <p>Berlayar Creek, Feb 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157967184398158&set=a.10157967182933158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3.jpg
   caption: |
     <p>Sentosa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/091104sntlks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/11/under-rocks-and-among-seaweed-inl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110830cyrjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110830cyrjk2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110830cyrjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110830cyrjk1m3.jpg
   caption: |
     <p>Photo shared byJames Koh on <a href="http://sgn090608.blogspot.com/2011/08/110830-cyrenel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3.JPG
   caption: |
     <p>Terumbu Selegie, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3a.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/110619tslglk3m3a.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/06/virgin-trip-to-terumbu-selegil">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/121215sislks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/121215sislks4.jpg
   caption: |
     <p>Sisters Island, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8459771101/in/album-72157607605631877/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/170212bsismn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/170212bsismn.jpg
   caption: |
     <p>Sisters Island, Feb 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154385638638660&set=a.10154384580548660.1073741913.624178659&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210822cyrjll5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/210822cyrjll5.jpg
   caption: |
     <p>Small Sisters, Aug 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158470463271295&set=a.10158470457921295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/180815bbbjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/180815bbbjll3.jpg
   caption: |
     <p>Beting Bemban Besar, Aug 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155823573666295&set=a.10155823572731295&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1661m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -152,7 +158,7 @@ on the underside. The eggs of some species hatch into young
 crabs instead of free-swimming larvae. These young shelter for
 some time under their mother's abdomen.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  

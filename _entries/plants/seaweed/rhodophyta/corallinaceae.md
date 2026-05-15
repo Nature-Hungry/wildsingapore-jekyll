@@ -1,12 +1,14 @@
 ---
-title: "Coralline red algae "
+title: 'Coralline red algae '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "encrusting, coralline, red, seaweed, weed, algae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: encrusting, coralline, red, seaweed, weed, algae, rhodophyta, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 division: Rhodophyta
 family: Corallinaceae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 117828
 stateofmatter: Life
@@ -19,13 +21,13 @@ order: Corallinales
 suborder: Corallinineae
 updated: Aug 08
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
   caption: |
     <p>[Encrusting</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/maculatus/040817sntd4622m3.jpg
   caption: |
     <p>Growing on a shell of a living snail Sentosa, Aug 04</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
@@ -33,7 +35,7 @@ page_images:
     <p>- Huisman, John M.</p>
     <p>2000.</p>
     <p>[Marine</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>University of Western Australia Press.</p>
     <p>300pp.</p>
@@ -41,12 +43,12 @@ page_images:
     <p>C.</p>
     <p>Jr., 1997.</p>
     <p>[Field</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/encrust/050610sntg7603m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -99,7 +101,7 @@ together, encrusting red seaweeds help to maintain and build up the
 reef. The algae also provide hiding places for tiny creatures and
 larvae.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

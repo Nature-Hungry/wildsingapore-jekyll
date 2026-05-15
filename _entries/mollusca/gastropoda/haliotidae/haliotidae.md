@@ -1,11 +1,12 @@
 ---
 title: Abalone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: abalone, haliotidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 86122
 stateofmatter: Life
@@ -17,50 +18,50 @@ order: Trochida
 superfamily: Trochoidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
   caption: |
     <p>Terumbu Pempang Kecil, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3b.jpg
   caption: |
     <p>A row of holes at the top of the shell.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9145m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9145m3.jpg
   caption: |
     <p>Large foot.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks2.jpg
   caption: |
     <p>Big Sisters Island, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8373418318/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks1.jpg
   caption: |
     <p>Human uses: Temperate climate species grow much larger than tropical species, and are harvested for their shell, used for shell crafts, and the animal is eaten as a delicacy in Asia.</p>
     <p>Due to the high value of the animal in the food trade, even smaller tropical species are threatened with over collection.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3.jpg
   caption: |
     <p>Sisters Islands, May 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/140503sislks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/05/living-reefs-of-big-sisters-island.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4a.jpg
   caption: |
     <p>Sisters Island, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/121215bsislks4b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8373419380/">flickr</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/210228lazjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/210228lazjll4.jpg
   caption: |
     <p>Lazarus island, Feb 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158106044176295&set=a.10158106040091295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll1.jpg
   caption: |
     <p>Pulau Semakau East, Jul 2018</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/180717smkejll2.jpg
   caption: |
     <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10155757430726295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628tpklksm6l.jpg
   caption: |
     <p>Terumbu Pempang Kecil, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24777083122/in/album-72157664453928665/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/haliotidae/haliotidae/130628thntd9138m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -101,7 +102,7 @@ of long tentacles. The inside of the shell is shiny and pearly, the
 outside is often well camouflaged with encrustations.  
   
 **Sometimes confused with** [limpets](../limpets/limpet.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

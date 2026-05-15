@@ -1,11 +1,12 @@
 ---
-title: "Helmet and Bonnet snails "
+title: 'Helmet and Bonnet snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cassidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cassidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 128130
 stateofmatter: Life
@@ -17,37 +18,37 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
   caption: |
     <p>On top of a Cake sand dollar.</p>
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0365m3.jpg
   caption: |
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0370m3.jpg
   caption: |
     <p>Thick strong foot.</p>
     <p>Cyrene Reef, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/150731nsrccd8371.jpg
   caption: |
     <p>Half buried next to a Cake sand dollar.</p>
     <p>East Coast Park, Jul 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
   caption: |
     <p>The 'burn' marks on the test of this <a href="../../../echinodermata/echinoidea/urchin/salmacis.htm">recently dead sea urchin</a> might have been made by a Helmet snail!</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
   caption: |
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/bisulcata/090208chglks03m3.jpg
   caption: |
     <p><a href="bisulcata.htm">Japanese bonnet snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/111028chged2772m3.jpg
   caption: |
     <p><a href="glaucum.htm">Grey bonnet snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3b.jpg
   caption: |
     <p>Changi, May 08</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cassidae/glaucum/110830cyrd0374m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -84,7 +85,7 @@ helmet-shaped with a large body whorl and tiny spire. All have a small,
 elongated operculum made of a horny material. In *Phalium*, it
 is fan-shaped.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

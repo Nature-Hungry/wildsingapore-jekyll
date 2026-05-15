@@ -1,10 +1,11 @@
 ---
 title: Fluffy hydroid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: orange, fluffy, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,43 +13,43 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
   caption: |
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8442m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3a.jpg
   caption: |
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3.jpg
   caption: |
     <p>Keppel Bay, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/091011mkbd2732m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3.jpg
   caption: |
     <p>Tuas, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080409tusd0786m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
   caption: |
     <p>Tuas, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421399228158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/251009sjilks2b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/080731chgd8445m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +88,7 @@ transparent tentacles. When the polyps are expanded the colony has
 a fluffy look. Colours seen usually bright orange. The colony is often
 covered with encrusting organisms.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

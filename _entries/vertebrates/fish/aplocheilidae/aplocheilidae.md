@@ -1,9 +1,15 @@
 ---
 title: Rivulines
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: white, spot, tin, head, killifish, killi, aplocheilus, panchax, aplocheilidae,
+  fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 106, 108]
+attributes:
+- 25
+- 47
+- 106
+- 108
 family: Aplocheilidae
 genus: Aplocheilus
 species: panchax*
@@ -18,14 +24,14 @@ order: Cyprinodontiformes
 suborder: Aplocheiloidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
   caption: |
     <p>Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9744m6l.jpg
   caption: |
     <p>Whitespot toothcarp (Aplocheilus panchax) Admiralty Park, Mar 11 What do they eat?</p>
     <p>According to FishBase, they feed mainly on insects and have been used for mosquito control.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/aplocheilidae/aplocheilidae/110822admd9757m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,7 +73,7 @@ or floating plants.
 **The non-native:** According to Yeo and Lim, the **Striped panchax** (*Aplocheilus
 lineatus*) is non-native and found in freshwater in Bukit Batok Nature Park and Singapore Botanic Gardens, probably introduced by humans. These fishes are popular in home aquariums. Looks similar to the Whitespot toothcarp (*Aplocheilus
 panchax*) but has narrow black bars, irridescent yellow spots on the side of the body and filamentous extensions on the pelvic fins.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** They are said to be a
 popular aquarium fish although they are also reported to be difficult

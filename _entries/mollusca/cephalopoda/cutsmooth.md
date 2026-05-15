@@ -1,10 +1,11 @@
 ---
 title: Smooth cuttlefish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spot, edged, cuttlefish, sepiidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spot, edged, cuttlefish, sepiidae, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiidae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 67960
@@ -19,19 +20,19 @@ suborder: Sepiina
 superfamily: Sepioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
   caption: |
     <p>Chek Jawa, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/110418tmftd9109m3.jpg
   caption: |
     <p>Tanah Merah, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/100302ecplks.JPG
   caption: |
     <p>East Coast Park, Mar 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4405225567/in/album-72157663938916840/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/120511tpljk2m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, May 12Photo shared by James Koh on <a href="https://singaporenature.wordpress.com/2012/06/03/120511/">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cutsmooth/030518cjd0026m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -70,7 +71,7 @@ form into bumps or pimples.
   
 Cuttlefishes are difficult to distinguish in the field. The cuttlefishes
 on this page may not all be of the same species.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
  *\*Species are difficult
 to positively identify without close examination.  

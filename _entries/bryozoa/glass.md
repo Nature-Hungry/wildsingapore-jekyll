@@ -1,10 +1,11 @@
 ---
 title: Glassy branching bryozoan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: glass, branching, bryozoa, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,29 +13,29 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
   caption: |
     <p>Pulau Sekudu, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3349m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3349m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3347m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3347m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9021m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9021m3.jpg
   caption: |
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9304m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9304m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9305m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/120410chgd9305m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/130112pgllks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/bryozoa/glass/130112pgllks.JPG
   caption: |
     <p>Okenia pellucida, a nudibranch that is seen on this Bryozoan.</p>
     <p>Punggol, Jan 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8567658318/in/album-72157625372847848/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/bryozoa/glass/111030skdd3345m3.jpg
 ---
  
 
@@ -62,7 +63,7 @@ branches.
   
 **Sometimes mistaken for** a [hydroid](../cnidaria/others/hydrozoa/hydrozoa).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

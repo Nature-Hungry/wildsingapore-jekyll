@@ -1,9 +1,15 @@
 ---
-title: "Mangrove wax plant "
+title: 'Mangrove wax plant '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "wax, hoya, apocynaceae, asclepiadaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: wax, hoya, apocynaceae, asclepiadaceae, creeper, plant, bush, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Apocynaceae
 genus: Hoya
 species: sp.
@@ -18,26 +24,26 @@ tribe: Marsdenieae
 inat_id: 804837
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
   caption: |
     <p>Lim Chu Kang, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3.jpg
   caption: |
     <p>Admiralty</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/110822admd9843m3a.jpg
   caption: |
     <p>Hoya diversifolia</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011215cjcpd2329m3.jpg
   caption: |
     <p>Chek Jawa, Dec 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011216cjcpd2455m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/011216cjcpd2455m3.jpg
   caption: |
     <p>Hoya verticillata</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/verticillata/030517cjad0042m6.jpg
   caption: |
     <p>Fruits.</p>
     <p>Chek Jawa, May 03</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/hoya/diversifolia/090411lckd9480m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -96,7 +102,7 @@ to cure coughs and asthma.
 hoyas are listed in the Red List of threatened plants of Singapore.
 The mangrove *Hoya diversifolia* is listed as 'Critically Endangered'.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -7,7 +7,7 @@ layout: none
 {
   "title": {{ post.title | jsonify }},
   "url": {{ post.url | jsonify }},
-  "coverimg": {{ post.coverimg | jsonify }},
+  "coverimg": {{ post.smallcoverimg | default: post.coverimg | jsonify }},
   "keywords": {{ post.keywords | jsonify }},
   "summary": {{ post.summary | jsonify }},
   "kingdom": {{ post.kingdom | jsonify }},

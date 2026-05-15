@@ -1,123 +1,132 @@
 ---
 title: Ovum cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cowrie, cypraeidae, ovum, cypraea, erronea, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cowrie, cypraeidae, ovum, cypraea, erronea, gastropod, mollusc, snail, shell,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 100, 111, 123, 127]
+attributes:
+- 23
+- 33
+- 71
+- 100
+- 111
+- 123
+- 127
 family: Cypraeidea
-genus: ""
+genus: ''
 species: Erronea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9814m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
   caption: |
     <p>'Teeth' are coloured.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/031011cjd0069m3.jpg
   caption: |
     <p>Mama cowrie with her egg mass.</p>
     <p>Chek Jawa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/120605lygd3994m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/120605lygd3994m3.jpg
   caption: |
     <p>Mama cowrie protecting her egg mass with her foot.</p>
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/160509srpik5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/160509srpik5.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/201020prpalks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/201020prpalks6.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706824588158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/160210nsrcclks4.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/160210nsrcclks4.JPG
   caption: |
     <p>East Coast Park, Feb 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/02/cny-day-3-tanah-merah-sandflat.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/171009blyay2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/171009blyay2.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110702lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110702lazlks.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110702lazlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110702lazlks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5990031314/in/album-72157612002594170/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250909laztt1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250909laztt1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250909laztt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250909laztt1.jpg
   caption: |
     <p>Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251009sjiky1.jpg
   caption: |
     <p>\ Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173327367295112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6a.jpg
   caption: |
     <p>Terumbu Selegie, May 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240528tslrk6b.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161168216927906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1a.jpg
   caption: |
     <p>Pulau Jong, Aug 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250811jngrk1.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162882795202906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251207hntky6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251207hntky6a.jpg
   caption: |
     <p>Pulau Hantu, Dec 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251207hntky6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/251207hntky6.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173789043915112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6.jpg
   caption: |
     <p>Pulau Semakau (West), Jul 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250727smkwrk6a.jpg
   caption: |
     <p>Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162822850792906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/250812tbtt2.jpg
   caption: |
     <p>Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10239868479588124&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5.jpg
   caption: |
     <p>Terumbu Pempang Laut, Mar 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/240310tplvc5b.jpg
   caption: |
     <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253358942945&set=a.10160254104782945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110517tptlks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengah.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110522bbblks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/110522bbblks2m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/knobblies-at-beting-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/100502trytch5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/100502trytch5m3.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/05/mollusca-day-terumbu-raya.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/161117rlhlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/161117rlhlks6.jpg
   caption: |
     <p>Raffles Lighthouse, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154735020723158.1073741927.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/091204pawjk2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/091204pawjk2m3a.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171808812/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/091205sudlks13m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/091205sudlks13m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168911352/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/100130brklks15m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/100130brklks15m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352603333/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/ovum/070602sjig9811m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -180,7 +189,7 @@ mistaken for a [sea slug](../../slug.htm). Here's more
 on [how to tell apart
 slugs and animals that look like slugs](../../../glossary/flatwormslug.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

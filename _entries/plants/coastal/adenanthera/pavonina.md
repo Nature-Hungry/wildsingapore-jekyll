@@ -1,9 +1,15 @@
 ---
 title: Saga tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "saga, adenanthera, pavonina, fabaceae, leguminosae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: saga, adenanthera, pavonina, fabaceae, leguminosae, plant, tree, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 37]
+attributes:
+- 18
+- 21
+- 36
+- 37
 family: Fabaceae
 genus: Adenanthera
 species: pavonina
@@ -18,25 +24,25 @@ subfamily: Mimosoideae
 tribe: Mimoseae
 updated: Sep 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
   caption: |
     <p>Wild at Berlayar Creek, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0038m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0038m3.jpg
   caption: |
     <p>Wild at Berlayar</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0038m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0038m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0033m3a.jpg
   caption: |
     <p>Wild at Berlayar Creek, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyd0040m3.jpg
   caption: |
     <p>Wild at Berlayar Creek, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090511chgd1413m3.jpg
   caption: |
     <p>Changi, May 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/adenanthera/pavonina/090413blyo0297m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -115,7 +121,7 @@ the leaves are used to treat rheumatism and gout.
 Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=article&id=96&Itemid=79) is found at the Singapore Botanic Gardens, near Lady
 on a Hammock sculpture. It has a girth of 4.8m and height of 24m.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

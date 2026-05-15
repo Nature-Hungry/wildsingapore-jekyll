@@ -1,9 +1,14 @@
 ---
 title: Mangrove whipray
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, whip, whipray, sting, ray, stingray, himantura, walga, fish, rajiformes,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 118]
+attributes:
+- 25
+- 47
+- 118
 family: Dasyatidae
 genus: Himantura
 species: walga
@@ -19,41 +24,41 @@ order: Myliobatiformes
 subfamily: Urogymninae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
   caption: |
     <p>This one seems to have a broken tail.</p>
     <p>Pulau Sekudu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030517cjd0334.jpg
   caption: |
     <p>Small one.</p>
     <p>Chek Jawa, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
   caption: |
     <p><a href="kuhlii">Blue-spotted stingrays</a> and Mangrove whiprays in a sandy lagoon.</p>
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
   caption: |
     <p>Often seen trapped in fishing nets.</p>
     <p>Changi, Jul 11 Human uses: It is harvested commercially as a food fish.</p>
     <p>According to <a href="http://www.fishbase.org/Summary/SpeciesSummary.php?ID=15484">FishBase</a>: It is caught in large quantities as by-catch of bottom trawl and trammel net fisheries.</p>
     <p>It is often seen among the fishes trapped in abandoned fishing nets and traps on our shores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201116cnyrk3.jpg
   caption: |
     <p>Coney Island, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158651297032906&set=a.10158651280122906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090626bbmn2m3.jpg
   caption: |
     <p>Beting Bronok, May 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/sets/72157618738163225/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/201020prpalks10.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706824918158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/150830hntmn.jpg
   caption: |
     <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/38901279845/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/090426skdd0533m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -101,7 +106,7 @@ crab](../../../arthropoda/limulidae/limulidae) and visa versa. In murky waters, 
 do have a similar profile, both being round and flat with a long tail.
 But the horseshoe crab moves very differently- creeping slowly, while the stingray can dash away quickly.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

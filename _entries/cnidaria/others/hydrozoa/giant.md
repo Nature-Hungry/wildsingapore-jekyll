@@ -1,10 +1,11 @@
 ---
 title: Giant hydroid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "giant, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: giant, hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,30 +13,30 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
   caption: |
     <p>Terumbu Pempang Kecil, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/160628tpklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/160628tpklks.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24868695566/in/album-72157664453928665/">flickr</a>.</p>
     <p>\Species are difficult to positively identify without close examination.</p>
     <p>On this website, the animals are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6144m3.jpg
   caption: |
     <p>Tuas, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6145m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/050510tusg6145m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/090724cyrf2729m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/090724cyrf2729m6l.jpg
   caption: |
     <p>One sample that got caught in the boat anchor.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/210429hntvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/210429hntvc3.jpg
   caption: |
     <p>Pulau Hantu, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437642997945&set=a.10158431262127945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/130628tpklks.JPG
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,7 +73,7 @@ commonly encountered by divers.
 unbranched with feathery side branches. Colour beige.  
   
 Tiny nudibranchs are often seen on this colonial animal.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

@@ -1,9 +1,19 @@
 ---
 title: Rodong snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod, mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rodong, telescopium, creeper, shell, snail, cerithiidae, potamididae, gastropod,
+  mollusc, snail, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 64, 71, 100, 111, 123, 125]
+attributes:
+- 23
+- 33
+- 64
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Potamididae
 genus: Telescopium
 species: telescopium
@@ -16,26 +26,26 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5519m3.jpg
   caption: |
     <p>Mating?</p>
     <p>Sungei Buloh Wetland Reserve, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5564m3.jpg
   caption: |
     <p>Laying eggs?</p>
     <p>Sungei Buloh Wetland Reserve, Mar 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/251219cnyrqo1.jpg
   caption: |
     <p>Coney Island, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Graham Brash, Singapore.</p>
     <p>145 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/telescopium/060317sbwrg5518m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -89,7 +99,7 @@ There is a third eye on its mantle margin, in addition to a pair of
 eyes at the tentacles. It can stay out of water for long periods of
 time.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

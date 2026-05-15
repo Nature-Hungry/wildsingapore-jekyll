@@ -1,9 +1,16 @@
 ---
-title: "Yellowtail "
+title: 'Yellowtail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yellow, tail, yellowtail, vermiculated, angel, fish, angelfish, chaetodontoplus, mesoleucus, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yellow, tail, yellowtail, vermiculated, angel, fish, angelfish, chaetodontoplus,
+  mesoleucus, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [7, 9, 25, 42, 47]
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
 family: Pomacanthidae
 genus: Chaetodontoplus
 species: mesoleucus
@@ -17,16 +24,16 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
   caption: |
     <p>An adult caught in a fish trap.</p>
     <p>Kusu Island, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/120721tptlks6l.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519768153/in/album-72157626616274147/">flickr</a>.</p>
     <p>What does it eat?</p>
     <p>It eats sponges, ascidians and filamentous algae.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/mesoleucus/040605kusbd0137m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -65,7 +72,7 @@ oval with yellow tail, blackish, purplish brown rear portion and dorsal
 and anal fins, and a black bar on the head over the eyes. Large spine
 on the gill cover. Juveniles are bluish-black with white and blue
 narrow bars on the sides.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** It is frequently sold
 in the aquarium trade.

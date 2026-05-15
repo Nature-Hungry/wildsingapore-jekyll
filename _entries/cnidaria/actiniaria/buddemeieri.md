@@ -1,7 +1,9 @@
 ---
 title: Pink-spotted bead anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: banded, bead, anemone, anthopleura, actiniidae, actiniaria, anthozoa, cnidarian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Actiniidae
 genus: Anthopleura
@@ -18,23 +20,23 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcactiniaria.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1809m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/111001sjid1798m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/120407lazlksm3.jpg
   caption: |
     <p>Lazarus Island, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/04/lobster-at-seringat-kias.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/buddemeieri/240212sjilks1.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161195585133158&set=a.10161195589918158">facebook</a>.</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -45,7 +47,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

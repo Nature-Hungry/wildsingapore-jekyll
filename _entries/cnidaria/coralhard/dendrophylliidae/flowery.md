@@ -1,7 +1,9 @@
 ---
 title: Flowery disk coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, turbinaria, peltata, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, turbinaria, peltata, dendrophylliidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Dendrophyllidae
 genus: Turbinaria
@@ -16,79 +18,79 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
   caption: |
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070517sntrd0910m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070517sntrd0910m3.jpg
   caption: |
     <p>Small colony.</p>
     <p>Sentosa, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/080608cyrd5460m3.jpg
   caption: |
     <p>Small colony.</p>
     <p>Cyrene Reef, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/060131sjid6679m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/060131sjid6679m3a.jpg
   caption: |
     <p>Columns in the centre of the disk.</p>
     <p>St John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/190802chgjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/190802chgjll3.jpg
   caption: |
     <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156578311466295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/200622chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/200622chglks1.jpg
   caption: |
     <p>Changi, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158386043493158&set=a.10158386046153158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/240706ubnlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/240706ubnlks8.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/170626skdlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/170626skdlks2.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/250501skdlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/250501skdlks8.jpg
   caption: |
     <p>Pulau Sekudu, May 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/171009blyay6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/171009blyay6.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/media/set/?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/110619tslgrl5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/110619tslgrl5m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.193758294008904.64196.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091204pawjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091204pawjk5m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171820388/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100810sngd9909m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100530tbkd4211m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00447m3.jpg
   caption: |
     <p>Terumbu Buran,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00448m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/101106burs00448m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/091231biod7085m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100131slud8821m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/100131slud8821m3a.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Australian Institute of Marine Science, Australia.</p>
     <p>3 volumes.</p>
@@ -100,14 +102,14 @@ page_images:
     <p>- Erhardt, Harry and Daniel Knop.</p>
     <p>2005.</p>
     <p>Corals:</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>305 pp.</p>
     <p>- Borneman, Eric H.</p>
     <p>2001.</p>
     <p>Aquarium</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>T.F.</p>
     <p>H Publications.</p>
@@ -126,12 +128,12 @@ page_images:
     <p>C.</p>
     <p>Wee, 1994.</p>
     <p>The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -176,7 +178,7 @@ betweeen them so the colony appears 'furry'. Colony may be flat and
 disk-shaped, sometimes folded thus resembling a cabbage, or with columns
 growing from the centre.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

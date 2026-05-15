@@ -1,9 +1,16 @@
 ---
-title: "Nipah     palm "
+title: 'Nipah     palm '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nypa, fruticans, nipah, palm,  mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [8, 18, 20, 21, 36, 82]
+attributes:
+- 8
+- 18
+- 20
+- 21
+- 36
+- 82
 family: Arecaceae
 genus: Nypa
 species: fruticans
@@ -17,50 +24,50 @@ subfamily: Nypoideae
 inat_id: 83106
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
   caption: |
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0248m6la.jpg
   caption: |
     <p>Ball-shaped female flower with long yellow spikes of male flowers.</p>
     <p>Admiralty Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5971m3.jpg
   caption: |
     <p>Growing fruit.</p>
     <p>Chek Jawa, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/100110cjd7870m6lb.jpg
   caption: |
     <p>Underground stem.</p>
     <p>Pulau Ubin, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/070422cjg8991m3.jpg
   caption: |
     <p>Fruits, most have fallen off.</p>
     <p>Chek Jawa, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/030719cjad0005m3.jpg
   caption: |
     <p>Female flowering cone.</p>
     <p>Chek Jawa, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020224cjcpd6961m3.jpg
   caption: |
     <p>Attap chee.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/020116cjcpd5051m3.jpg
   caption: |
     <p>Growing fruit.</p>
     <p>Chek Jawa, Nov 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0239m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0239m3.jpg
   caption: |
     <p>Male flowers with pollinators.</p>
     <p>Admiralty Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0234m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0234m3.jpg
   caption: |
     <p>Male flowers with pollinators.</p>
     <p>Admiralty Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0277m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090418admd0277m3.jpg
   caption: |
     <p>Male flowers with pollinators.</p>
     <p>Admiralty Park, Apr 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/nypa/nypa/090124ubnd5977m6.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -163,7 +170,7 @@ is not in protected areas, so there is the danger of development wiping
 out populations. Only populations at Sungei Buloh, Pulau Ubin and
 Pulau Tekong are protected.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

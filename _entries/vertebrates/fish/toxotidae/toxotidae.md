@@ -1,11 +1,12 @@
 ---
 title: Archerfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: acherfish, archer, fish, toxotidae, toxotes, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Toxotidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 86105
 stateofmatter: Life
@@ -18,11 +19,11 @@ order: Carangiformes
 suborder: Toxotoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
   caption: |
     <p>Archerfishes hanging under the main bridge.</p>
     <p>Sungei Buloh Wetland Reserve, Nov 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/110205krjd5875m6l.jpg
   caption: |
     <p>Swimming at the surface among floating debris.</p>
     <p>Kranji, Feb 11 Shooting fish: Archerfishes are famed for their ability to shoot down insects and small creatures resting on foliage or mangrove roots.</p>
@@ -35,24 +36,24 @@ page_images:
     <p>Water is powerfully forced through this tube by snapping the gills shut.</p>
     <p>The tip of the tongue acts as a valve.</p>
     <p>The Australian Museum Fish Site has a <a href="http://www.amonline.net.au/fishes/fishfacts/fish/tchatar">photo of the inside of an archerfish's mouth</a> to show the groove on the roof of the mouth and shape of the tongue.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/031008sbwrd0038m6l.jpg
   caption: |
     <p>A large upward facing mouth.</p>
     <p>Sungei Buloh Wetland Reserve, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/170820kusmn.jpg
   caption: |
     <p>Juvenile.</p>
     <p>Kusu Island, Aug 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49100315031/">flickr</a>.</p>
     <p>Other ways to get their lunch: Archerfishes, however, prefer to leap out of water to grab the prey in their jaws when it is close enough.</p>
     <p>When the leap fails, they may then resort to spitting.</p>
     <p>Why is this so?</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/051208sbwrd0532m3.jpg
   caption: |
     <p><a href="jaculatrix">Banded archerfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/chatareus/050225sbwrd1096m3.jpg
   caption: |
     <p><a href="chatareus">Spotted archerfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/toxotidae/jaculatrix/040110sbwrd0029m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -98,7 +99,7 @@ the Philippines, Australia and Polynesia. **Features:** To about 20cm long. Body
 shaped like a knife with a pointed snout and broad rear end. Large
 scales. Large eyes near the top of the head and large upward-facing
 mouth.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 To get a good jet of water, the snout sticks out of the water, but
 the rest of the fish remains underwater. The jet of water is directed

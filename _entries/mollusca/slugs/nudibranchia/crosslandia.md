@@ -1,9 +1,16 @@
 ---
 title: Sargassum nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "crosslandia, daedali, sargassum, nudibranch, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: crosslandia, daedali, sargassum, nudibranch, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 30, 33, 90]
+attributes:
+- 14
+- 22
+- 30
+- 33
+- 90
 family: Scyllaeidae
 genus: Crosslandia
 species: daedali
@@ -21,29 +28,29 @@ suborder: Dendronotina
 superfamily: Dendronotoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4511m3a.jpg
   caption: |
     <p>Tiny brush-like rhinophore at the tip of long rhinophore stalk.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch1m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch2m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/111001sjitch3m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 11 Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/10/sargassum-nudibranch-st-johns-island.html">her blog</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Western Australian Museum.</p>
@@ -52,7 +59,7 @@ page_images:
     <p>2001.</p>
     <p>1001 Nudibranchs: Catalogue of Indo-Pacific Sea Slugs.</p>
     <p>Neville Coleman's Underwater Geographic Pty Ltd, Australia.144pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -99,7 +106,7 @@ bright blue spots and white spikes.
 **What does it eat?** This nudibranch
 grazes tiny [hydroids](../../../cnidaria/others/hydrozoa/hydrozoa.htm) that grow on seaweeds.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,13 +1,17 @@
 ---
 title: Pleated fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pleated, fan, seaweed, weed, green, rhipidosiphon. udotea, javensis, udoteacea,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Rhipidosiphon
 species: javensis
-attributes: [44, 97]
+attributes:
+- 44
+- 97
 inat_id: 1392156
 stateofmatter: Life
 kingdom: Plantae
@@ -16,28 +20,28 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jul 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
   caption: |
     <p>Beting Bronok, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3.jpg
   caption: |
     <p>Labrador,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050708labg9158m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/050526cjg6876m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/250726cyrtl2.jpg
   caption: |
     <p>Cyrene, Jul 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10162877678904264&set=a.10162877640164264">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/rhipidosiphon/080705bbd6961m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -85,7 +89,7 @@ seaweeds](cffan).
 **Human uses:** Some species have
 anti-bacterial and anti-tumor properties.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

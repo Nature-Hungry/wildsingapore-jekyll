@@ -1,58 +1,61 @@
 ---
 title: Lavender hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lavender, hermit, crab, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lavender, hermit, crab, anomura, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 54]
-family: ""
-genus: ""
+attributes:
+- 38
+- 54
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
   caption: |
     <p>Tanah Merah, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8013m3.jpg
   caption: |
     <p>Tanah Merah, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8015m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050608cftg7343m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050608cftg7343m3.jpg
   caption: |
     <p>With a sea anemone on its shell.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070419chgg8686m3.jpg
   caption: |
     <p>With a sea anemone on its shell.</p>
     <p>Changi, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050426cftg5066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050426cftg5066m3.jpg
   caption: |
     <p>With a sea anemone on its shell.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/240723chgerk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/240723chgerk1.jpg
   caption: |
     <p>Changi East (Lost Coast), Jul 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161288903157906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/hermitsmall/150617ecpbsmn2m3.jpg
   caption: |
     <p>East Coast Park, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153414339573158.1073741881.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/200705kusvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/200705kusvc1.jpg
   caption: |
     <p>Kusu Island, Jul 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157776436517945&set=a.10157776430272945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/250726cyrrk1.jpg
   caption: |
     <p>With a sea anemone on its shell.</p>
     <p>Cyrene, Jul 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/050427tmg5127m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -103,7 +106,7 @@ usually taken from the wild. Hermit crabs, however, belong in their
 habitats and not in our homes. More about the [impact
 of keeping hermit crabs as pets](hermit#pets).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

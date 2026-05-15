@@ -1,9 +1,14 @@
 ---
 title: Beaded corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "corallimorph, discosoma, nummiforme, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: corallimorph, discosoma, nummiforme, discosomidae, corallimorpharia, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Discosomidae
 genus: Discosoma
 species: nummiforme
@@ -16,51 +21,51 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3d.jpg
   caption: |
     <p>Upturned mouth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjid2177m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjid2177m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjid2177m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjid2177m3b.jpg
   caption: |
     <p>Smooth underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100710sisd8097m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100710sisd8097m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100710sisd8107m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100710sisd8107m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/090822sisd9743m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/090822sisd9743m3.jpg
   caption: |
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/090822sisd9743m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/090822sisd9743m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100103jngjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100103jngjk.JPG
   caption: |
     <p>Pulau Jong, Jan 10Photo shared by James Koh on <a href="https://flic.kr/p/7su7gN">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/130628thntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/130628thntlks.JPG
   caption: |
     <p>Terumbu Hantu, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24268085593/in/album-72157664453928665/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/210402tmskjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/210402tmskjk2.jpg
   caption: |
     <p>Terumbu Semakau, Apr 21Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/51089066379/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/200626tptdc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/200626tptdc2.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2920707318046025&set=a.2920978031352287&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100629tpdjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/100629tpdjk1m3.jpg
   caption: |
     <p>Terumbu Pempang Darat, Jun 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/06/100629-terumbu-pempang-darat.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/beaded/060527sjig6070m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -108,7 +113,7 @@ A study found that *Discosoma nummiforme* can also look like [Stubby corallimorp
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

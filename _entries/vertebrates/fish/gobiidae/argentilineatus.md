@@ -1,9 +1,17 @@
 ---
 title: Silver-lined mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "silver, lined, mudskipper, mud, skipper, fish, periophthalmus, argentilineatus, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: silver, lined, mudskipper, mud, skipper, fish, periophthalmus, argentilineatus,
+  gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Periophthalmus
 species: argentilineatus*
@@ -19,32 +27,32 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
   caption: |
     <p>St John's Island, Jun 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/090229smkd7272m6l.jpg
   caption: |
     <p>Pulau Semakau, Mar 09 What does it eat?</p>
     <p>It feeds on worms, crustaceans and insects.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/110109ubnjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/110109ubnjk.jpg
   caption: |
     <p>Pulau Ubin, Jan 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5338927323/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/240527srplks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/240527srplks4.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/100404lazjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/100404lazjk.jpg
   caption: |
     <p>Lazarus Island, Apr 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4488907566/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/250909lazio2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/250909lazio2.jpg
   caption: |
     <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Isaac Ong on <a href="https://www.facebook.com/media/set?vanity=61567026176318&set=a.122205149114567539">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/240211bigsisll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/240211bigsisll1.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Liz Lim on <a href="https://www.facebook.com/photo/?fbid=7277506428939300&set=a.7277442678945675">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/200111smksll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/200111smksll2.jpg
   caption: |
     <p>Pulau Semakau (South), Jan 20Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=2755471381142850&set=a.2755471284476193&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/argentilineatus/020628sjicpd0956m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -87,7 +95,7 @@ mud flats in mangrove and nipa palm areas. Occasionally in the lower
 parts of freshwater streams. It actively moves back and forth between
 rock pools and air and is said to be able to stay out of water for
 more than a day if it is kept moist.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Silver-lined babies:** According
 to Gianluca Polgar, the male mudskipper digs a burrow in mudflats

@@ -1,10 +1,12 @@
 ---
 title: Fern hydroid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: feathery, hydroid, sertularella, sertulariidae, hydrozoa, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,47 +14,47 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Aug 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
   caption: |
     <p>Beting Bronok, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
   caption: |
     <p>Tiny polyps of the hydroid.</p>
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
   caption: |
     <p><a href="../../../mollusca/slugs/nudibranchia/sibogae">Cuthona nudibranch</a> Beting Bronok, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks3.jpg
   caption: |
     <p>Pulau Sekudu, Jun 22</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942209493158&set=a.10159942212483158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks4.jpg
   caption: |
     <p>Pulau Sekudu, Jun 22</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/220617skdlks4a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942206273158&set=a.10159942212483158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3.jpg
   caption: |
     <p>Beting Bronok, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/110518bbd1818m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3.jpg
   caption: |
     <p>East Coast, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/060613ecpd2942m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3.jpg
   caption: |
     <p>East Coast, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/090623ecpd4882m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +94,7 @@ shape. Usually bright orange, but sometimes covered with encrusting
 organisms. This hydroid is eaten by the [Cuthona
 nudibranch](../../../mollusca/slugs/nudibranchia/sibogae).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

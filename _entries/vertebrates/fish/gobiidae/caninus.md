@@ -1,9 +1,15 @@
 ---
 title: Green-shouldered goby
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: green, shoulder, goby, acentrogobius, caninus, fish, gobiidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [25, 47, 106, 108]
+attributes:
+- 25
+- 47
+- 106
+- 108
 family: Gobiidae
 genus: Acentrogobius
 species: caninus*
@@ -19,17 +25,17 @@ suborder: Gobioidei
 subfamily: Gobiinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
   caption: |
     <p>Changi, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/100913prpd1556m6l.jpg
   caption: |
     <p>Large dark spot on its 'shoulder'.</p>
     <p>Pasir Ris, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/251009sjiccn2.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10163153532268654">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/caninus/070616chgg0370m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -67,7 +73,7 @@ seagrasses and mangroves.
 seen about 3-5cm. It is identified by the large dark spot on its 'shoulder',
 above its pectoral fins.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  *\*Species are difficult

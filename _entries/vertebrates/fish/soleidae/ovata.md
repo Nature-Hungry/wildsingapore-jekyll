@@ -1,9 +1,16 @@
 ---
 title: Ovate sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ovate, flat, fish, flatfish, sole, solea, ovata, soleidae, pleuronectiformes,  field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [9, 25, 47, 49, 81]
+attributes:
+- 9
+- 25
+- 47
+- 49
+- 81
 family: Soleidae
 genus: Solea
 species: ovata
@@ -18,25 +25,25 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
   caption: |
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050818cftg1318m6l.jpg
   caption: |
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
   caption: |
     <p>Eyes on the right side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
   caption: |
     <p>Tail fin separate from the dorsal and anal fins.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/240114kusrk1a.jpg
   caption: |
     <p>Kusu Island, Jan 24 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160943180917906&set=a.10160943176927906">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -75,7 +82,7 @@ right side. Small, highly curved mouth. Body oval and very flat. Tail
 fin joined to the dorsal and anal fins only at the base. Dark pectoral
 fin. Sand-coloured with speckles and spots.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

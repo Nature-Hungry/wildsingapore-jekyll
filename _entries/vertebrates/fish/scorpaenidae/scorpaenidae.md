@@ -1,11 +1,12 @@
 ---
 title: Scorpionfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: scorpionfish, scorpion, fish, scorpaenidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Scorpaenidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47285
 stateofmatter: Life
@@ -18,45 +19,45 @@ order: Perciformes
 suborder: Scorpaenoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
   caption: |
     <p>Perfectly camouflaged!</p>
     <p>Tanah Merah, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
   caption: |
     <p>The Lionfish doesn't bother to hide!</p>
     <p>Pulau Hantu, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl">his blog</a>.</p>
     <p>Scorpionfish mimic: The <a href="../centrogenyidae/vaigiensis">False scorpionfish</a> (Centrogenys vaigiensis) looks and behaves like a scorpionfish but belong to the Family Serranidae which includes groupers.</p>
     <p>By mimicking the more venomous scorpionfishes, the false scorpionfish probably manages to discourage most predators.</p>
     <p>Here's more on <a href="../cfstonefish">how to tell apart fishes that look like stones</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/synanceiidae/horrida/060312hntd0311m3.jpg
   caption: |
     <p><a href="../synanceiidae/horrida">The Stonefish</a> is from a different family.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centrogenyidae/vaigiensis/031029sntcd0014m3.jpg
   caption: |
     <p>The <a href="../centrogenyidae/vaigiensis">False scorpionfish</a> is from a dffierent family.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/longispinis/050623cjg8365m3.jpg
   caption: |
     <p>The <a href="longispinis">Long-spined waspfish</a> is now in a different family What do they eat?</p>
     <p>Most scorpionfishes skulk on or near the bottom, staying motionless for hours to ambush passing prey.</p>
     <p>They will eat any prey that can fit into the large mouth including fishes and crustaceans.</p>
     <p>Some species may specialise in a particular kind of prey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3a.jpg
   caption: |
     <p><a href="picta">Painted scorpionfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3c.jpg
   caption: |
     <p><a href="diabolus">False stonefish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3.jpg
   caption: |
     <p><a href="pterois">Lionfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/090923labd1778m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/diabolus/120818lazd0164m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/picta/110730tmftd7492m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -128,7 +129,7 @@ A scorpionfish uses its venom only for protection and not to catch
 or kill prey. The scorpionfish is not aggressive and prefers to hide
 or swim away, using its venom only as a last resort. The best way
 to avoid being stung is simply not to disturb or touch one.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Scorpionfish babies:** Most scorpionfishes
 reproduce through internal fertilisation. Some species lay their eggs

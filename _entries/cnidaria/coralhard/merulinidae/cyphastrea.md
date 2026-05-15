@@ -1,11 +1,13 @@
 ---
 title: Meteor  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, hard, merulinidae, cyphastrea, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, hard, merulinidae, cyphastrea, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Merulinidae
 genus: Cyphastrea
-species: ""
+species: ''
 attributes: []
 inat_id: 503576
 stateofmatter: Life
@@ -16,55 +18,55 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
   caption: |
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5996m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5993m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6653m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/110715cyrd6652m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5927m3.jpg
   caption: |
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5926m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5282m3.jpg
   caption: |
     <p>Labrador, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5284m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/060228labg5284m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/170430thnt2o4300142m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8551m3.jpg
   caption: |
     <p>Terumbu</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8553m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100130brkd8553m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3.jpg
   caption: |
     <p>Terumbu</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/100131slud8886m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Australian Institute of Marine Science, Australia.</p>
     <p>3 volumes.</p>
@@ -76,19 +78,19 @@ page_images:
     <p>- Erhardt, Harry and Daniel Knop.</p>
     <p>2005.</p>
     <p>Corals:</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>305 pp.</p>
     <p>- Borneman, Eric H.</p>
     <p>2001.</p>
     <p>Aquarium</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>T.F.</p>
     <p>H Publications.</p>
     <p>464 pp</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/cyphastrea/120124sisd5992m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -138,7 +140,7 @@ Colours seen include brown, yellow, orange and green.
 close examination of small features and they are grouped here by large
 external features for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

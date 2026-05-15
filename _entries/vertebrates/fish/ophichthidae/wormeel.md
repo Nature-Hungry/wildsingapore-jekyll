@@ -1,9 +1,16 @@
 ---
 title: Worm-eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "worm, eel, fish, scolecenchelys, muraenichthys, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: worm, eel, fish, scolecenchelys, muraenichthys, ophichthidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Ophichthidae
 genus: Scolecenchelys
 species: macroptera
@@ -19,67 +26,67 @@ suborder: Congroidei
 subfamily: Myrophinae
 updated: Apr 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
   caption: |
     <p>Has no pectoral fins.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3b.jpg
   caption: |
     <p>The tail tip is sharp and bony.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m6l.jpg
   caption: |
     <p>Sentosa, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/170822labjll3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/170822labjll3.jpg
   caption: |
     <p>Labrador, Aug 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154966496831295.1073741899.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210401sntvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210401sntvc3.jpg
   caption: |
     <p>Sentosa Tg Rimau, Apr 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158373657167945&set=a.10158373695697945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/220104tkkvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/220104tkkvc4.jpg
   caption: |
     <p>Pulau Tekukor, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158869374437945&set=a.10158869425132945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201019sjijll9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201019sjijll9.jpg
   caption: |
     <p>St John's Island, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157806533721295&set=a.10157806532326295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/070303sjimn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/070303sjimn.jpg
   caption: |
     <p>St John's Island, Mar 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/409720874/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/090624jnglt2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/090624jnglt2m3.jpg
   caption: |
     <p>Pulau Jong, Jun 09 Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/06/wet-on-jong.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/20070724thntrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/20070724thntrk4.jpg
   caption: |
     <p>Terumbu Hantu, Jul 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158359597632906&set=a.10158359570117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201018smksjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/201018smksjll2.jpg
   caption: |
     <p>Pulau Semakau South, Oct 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157803496576295&set=a.10157803493231295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210113smkwjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210113smkwjll2.jpg
   caption: |
     <p>Pulau Semakau (West), Jan 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157988349126295&set=a.10157988367216295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100519tsmjk12m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100519tsmjk12m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/110522bbbrl3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/110522bbbrl3m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.186568514727882.60905.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/251008bbbal1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/251008bbbal1.jpg
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?vanity=nekomun&set=a.10162231387783693&__cft__[0]=AZVkMecgUHxGVMntTLQAh65C1uGrPGZdA3JAg7W2wyaR5U1VbuOPj6D6hq7q3o29TIeRGM8gP_wpVV-r2_lDMwEUqZU_hmocgcHOGt0vGkJ_YEHu0rCS8Mb8w7l-QHliszM&__tn__=-UC%2CP-R">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250812tbal1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250812tbal1.jpg
   caption: |
     <p>Terumbu Bemban, Aug 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10162006252268693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250712tpljt5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/250712tpljt5.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162930972213119&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/160312tptjtm1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/160312tptjtm1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509281398660&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100130brklks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/100130brklks7m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4352523253/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210428slutch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/210428slutch1.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159407081968713&set=a.10159407302613713">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/wormeel/040817sntd4718m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -131,7 +138,7 @@ by moving the body in S-shapes, rather like a sea snake.
 **Sometimes mistaken for** [worms](../../../worm/worm.htm) or [sea snakes](../../snakes/hydrophiidae/laticauda.htm).
 Here's more on [how to tell
 apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
  
 Worm eel caught a small fish!  

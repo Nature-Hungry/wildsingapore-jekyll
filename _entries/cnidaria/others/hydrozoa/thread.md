@@ -1,12 +1,15 @@
 ---
-title: "Thread-tentacled jellyfish "
+title: 'Thread-tentacled jellyfish '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "jellyfish, jelly, fish, jellies, aequora, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: jellyfish, jelly, fish, jellies, aequora, hydrozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [56]
+attributes:
+- 56
 family: Aequoreidae
 genus: Aequorea
-species: ""
+species: ''
 inat_id: 191502
 stateofmatter: Life
 kingdom: Animalia
@@ -16,47 +19,47 @@ subclass: Hydroidolina
 order: Leptothecata
 updated: Aug 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
   caption: |
     <p>Tuas, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/020406cjd8025m3.jpg
   caption: |
     <p>Washed ashore.</p>
     <p>Chek Jawa, Apr 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/071027cjd7258m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/071027cjd7258m3.jpg
   caption: |
     <p>Chek Jawa, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/200115prpky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/200115prpky1.jpg
   caption: |
     <p>Pasir Ris Park, Jan 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163462160270112&set=pcb.10163462161605112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/250501skdlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/250501skdlks5.jpg
   caption: |
     <p>Pulau Sekudu, May 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162643307838158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/100614bblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/100614bblks1m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4699594028/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/260628pcnal5a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/260628pcnal5a.jpg
   caption: |
     <p>East Ciast PCN, Jun 25Photo shared by Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161774632608693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/191127lazky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/191127lazky3.jpg
   caption: |
     <p>Lazarus Island, Nov 19Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163217687710112&set=a.10163217683870112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/250402tsmkjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/250402tsmkjll1.jpg
   caption: |
     <p>Terumbu Semakau, Apr 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?vanity=marinelife90&set=a.10161327178256295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/170402smknhpy.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/170402smknhpy.jpg
   caption: |
     <p>Pulau Semakau North, Apr 17Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/photo.php?fbid=10155062669884000&set=a.10155062669864000.1073742003.589418999&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/110422tbmlks10m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/110422tbmlks10m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/corals-galore-at-terumbu-bembanl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -96,7 +99,7 @@ the bell 10-15cm long. Bell has radiating white patterns. Those washed ashore lo
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,"
+keywords: orange, sprawling, sponge, clathria, reinwardti, microcionidae, porifera,
 layout: entry
 shape: branching
 title: Orange sprawling sponge
@@ -18,52 +18,52 @@ order: Poecilosclerida
 subfamily: Microcioninae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090510hntd1160m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090510hntd1160m3a.jpg
   caption: |
     <p>Cone with holes at the tip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090510hntd1160m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090510hntd1160m3e.jpg
   caption: |
     <p>Hole with membranous lips and water channels radiating out from the hole.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/070520smkg9497m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/070520smkg9497m3.jpg
   caption: |
     <p>Pulau Semakau, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/080608cyrd5375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/080608cyrd5375m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090625bsrd5220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/090625bsrd5220m3.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100519tsmc3990m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100519tsmc3990m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/091204pawd0023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/091204pawd0023m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/091204pawd0023m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/091204pawd0023m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100130brkd8505m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100130brkd8505m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100130brkd8505m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100130brkd8505m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100530tbkd4380m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100530tbkd4380m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100530tbkd4380m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100530tbkd4380m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100613sngd5432m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100613sngd5432m6l.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100131slud8867m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/100131slud8867m3b.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/sprawlorange/050309smkd1535m3.jpg
 ---
 
 
@@ -98,7 +98,7 @@ are more obvious when the sponge is submerged. Out of water, the hole
 are closed as the lips collapse, and the area around it puckers into
 rdiges. Colour usually bright orange, also paler orange.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

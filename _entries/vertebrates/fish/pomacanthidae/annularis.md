@@ -1,9 +1,16 @@
 ---
 title: Bluering angelfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bluering, blue, ring, angel, fish, angelfish, pomacanthus, annularis, pomacanthidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [7, 9, 25, 42, 47]
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
 family: Pomacanthidae
 genus: Pomacanthus
 species: annularis
@@ -17,18 +24,18 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
   caption: |
     <p>In an aquarium at a seafood restaurant.</p>
     <p>Pulau Ubin, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/110418tmftd9010m6l.jpg
   caption: |
     <p>The juvenile looks very different.</p>
     <p>Tanah Merah, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/200820ssismn3.jpg
   caption: |
     <p>Small Sisters Island, Aug 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10157639264703660&set=a.10157639263998660">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacanthidae/annularis/060114cjg3805m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,7 +76,7 @@ ring behind the eye. The tail fin is white with bright yellow margin.
 Juveniles are bluish-black with a series of white and blue narrow
 bars on the sides. Juveniles found in shallow areas with short filamentous
 algae growing on rocks or dead corals. Adults often found in pairs.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **What does it eat?** It eats sponges,

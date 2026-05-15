@@ -1,9 +1,15 @@
 ---
-title: "Putat laut "
+title: 'Putat laut '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "poison, barringtonia, asiatica, lecythidaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: poison, barringtonia, asiatica, lecythidaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 62]
+attributes:
+- 18
+- 21
+- 36
+- 62
 family: Lecythidaceae
 genus: Barringtonia
 species: asiatica
@@ -16,26 +22,26 @@ class: Magnoliopsida
 order: Ericales
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
   caption: |
     <p>Bark pinkish grey.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/070803cjd5053m3b.jpg
   caption: |
     <p>Young leaves pinkish.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/020120sbwrcp5221m6.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/030910sbwrad0078m3.jpg
   caption: |
     <p>Showy pom-pom shaped flower.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9435m3.jpg
   caption: |
     <p>Squarish fruits that resemble lanterns.</p>
     <p>Flowers very showy with four white petals and lots of fine, pink-tipped stamens forming a pom-pom shape (10-15cm).</p>
     <p>According to Corners "the buds beging to swell at noon, but the petals and stamens do not unfold until nearly sunset when the heavy perfume becomes noticeable".</p>
     <p>By sunrise the next day, the entire circle of stamens and petals fall off the tree.</p>
     <p>Corners says, "The ring of stamens floating downstream and the stale perfume of the night used to be a morning feature of Malayan rivers".</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/barringtonia/asiatica/090410ubnd9434m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -78,7 +84,7 @@ Leaves oval (20-30cm long), waxy glossy somewhat fleshy, edge smooth
 (not toothed). Young leaves may be pinkish olive with pink veins.
 Older leaves wither yellow or pale orange.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

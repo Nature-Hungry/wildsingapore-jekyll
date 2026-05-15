@@ -1,12 +1,17 @@
 ---
 title: Porcupinefishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pufferfish, puffer, fish, tetraodontidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Diodontidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 49270
 stateofmatter: Life
 kingdom: Animalia
@@ -18,13 +23,13 @@ order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
   caption: |
     <p>Freckled porcupinefish (Diodon holacanthus) Changi, Apr 20 Photo shared by Adib Adris on Singapore Biodiversity Records.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200209cyrjt.jpg
   caption: |
     <p>Black-blotched porcupinefish (Diodon liturosus) Cyrene, Feb 20Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10157973767393119&set=a.10157973767323119">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/diodontidae/diodontidae/200623chgsbr.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -61,7 +66,7 @@ similar fishes belong to different families: boxfishes and cowfishes
 to [Family Ostraciidae](../ostraciidae/ostraciidae),
 and pufferfished to [Family Tetraodontidae](../tetraodontidae/tetraodontidae).  
  **Features:** About 15cm but can grow to 50cm. Like more familiar pufferfishes, the porcupinefish can also inflate its body which is covered in well-developed sharp spines. In some species the spines erect only when the body is inflated. Jaws with 2 fused teeth (parrotlike). They are poor swimmers.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 **What do they eat?** They eat mainly hard-shelled invertebrates like snails, crabs, sea urchins, crushing these with their beak-like teeth. Some are only active at night.
  

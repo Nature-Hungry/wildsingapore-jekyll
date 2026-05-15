@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,"
+keywords: orange, prickly, sponge, mycale,parishi, myclaidae, porifera, field, guide,
 layout: entry
 shape: encrusting
 title: Orange prickly sponge
@@ -18,28 +18,28 @@ order: Poecilosclerida
 subgenus: Zygomycale
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3a.jpg
   caption: |
     <p>Large hole where water is expelled.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130723bbd0085m3a.jpg
   caption: |
     <p>Prickly surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/180617skdm3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/160125obslks2.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153901896228158.1073741909.547198157&type=3&pnref=story">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/orangeprickly/130623chgd7605m3.jpg
 ---
 
 
@@ -66,7 +66,7 @@ orange.
 Bright orange sponges which are encrusting may come from a variety
 of species and families including *Tedania* sp. and *Hymerhabdia* sp. They are difficult to tell apart in the field.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

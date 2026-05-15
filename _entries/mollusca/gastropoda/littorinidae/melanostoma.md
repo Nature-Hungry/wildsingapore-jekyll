@@ -1,7 +1,9 @@
 ---
 title: Black-mouth mangrove periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, periwinkle, littoraria, melanostoma,  littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, periwinkle, littoraria, melanostoma,  littorinidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Littorinidae
 genus: Littoraria
@@ -18,23 +20,23 @@ superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
   caption: |
     <p>Berlayar Creek, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5302m3.jpg
   caption: |
     <p>Black edge on the shell opening.</p>
     <p>Berlayar Creek, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/031128sbwrad0068m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2a.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/251229prprqo2b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/melanostoma/090114labd5301m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,7 +79,7 @@ of a horn-like material. The animal is yellowish with short fat tentacles.
 to Tan, it releases egg capsules into the sea every two weeks during
 the spring tides when the sea level rises to reach it.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

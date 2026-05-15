@@ -1,11 +1,12 @@
 ---
-title: "Sea slaters "
+title: 'Sea slaters '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: seaslater, slater, ligia, ligiidae, isopod, crustacea,  field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Ligiidae
 genus: Ligia
-species: ""
+species: ''
 attributes: []
 inat_id: 55358
 stateofmatter: Life
@@ -21,42 +22,42 @@ suborder: Oniscidea
 infraorder: Diplocheta
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
   caption: |
     <p>Mating?</p>
     <p>Kranji, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200706skd.jpg
   caption: |
     <p>Just moulted.</p>
     <p>Empty skin on the left.</p>
     <p>Pulau Sekudu, Jul 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090513labd1684m3a.jpg
   caption: |
     <p>Body very flat.</p>
     <p>Labrador, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/041018sntd7584m3.jpg
   caption: |
     <p>Sentosa, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/050126cjd9795m3.jpg
   caption: |
     <p>Chek Jawa, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090820ecpd9480m3.jpg
   caption: |
     <p>Feeding on recently destroyed barnacles?</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/160125obsmn12.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153386204128660.1073741893.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/210822ssisvc3.jpg
   caption: |
     <p>Small Sisters Island, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648322517945&set=a.10158648464857945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/090510hntmn.jpg
   caption: |
     <p>Captured by a <a href="../../crab/grapsidae/metopograpsus">Purple climbing crab</a>.</p>
     <p>Pulau Hantu May 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3524330760/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/200822jngjc4.jpg
   caption: |
     <p>Pulau Jong, Aug 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo?fbid=10158476140771310&set=a.10158476213361310">facebook</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
@@ -75,7 +76,7 @@ page_images:
     <p>A Field Guide to Crustaceans of Australian Waters.</p>
     <p>Reed New Holland.</p>
     <p>224 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/ligia/060627krjd3707m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -123,7 +124,7 @@ are not insects! They are [crustaceans](../../crustacea) like crabs and prawns; 
 move very fast! They have huge eyes and very long antennae. They are
 well adapted for life out of water, breathing air directly through
 'pseudo-lungs'.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

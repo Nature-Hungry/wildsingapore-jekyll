@@ -1,9 +1,14 @@
 ---
 title: Ketapang pasir
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "guettarda, speciosa, rubiaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: guettarda, speciosa, rubiaceae, plant, tree, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 62]
+attributes:
+- 18
+- 21
+- 36
+- 62
 family: Rubiaceae
 genus: Guettarda
 species: speciosa
@@ -18,31 +23,31 @@ subfamily: Cinchonoideae
 tribe: Guettardeae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9085m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9080m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3a.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9077m3d.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9090m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9081m3.jpg
   caption: |
     <p>Pulau Semakau, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090412hntd9865m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -67,7 +72,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -75,13 +80,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/guettarda/speciosa/090405smkd9088m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -155,7 +160,7 @@ in traditional medicine in some places.
 is listed as 'Endangered' in the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

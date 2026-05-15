@@ -1,11 +1,13 @@
 ---
 title: Whelks
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: whelk, nassarius, nassariidae, gastropod, mollusc, shell, snail, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Nassariidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 50764
 stateofmatter: Life
@@ -17,53 +19,53 @@ order: Neogastropoda
 superfamily: Buccinoidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
   caption: |
     <p>With a large barnacle on the shell.</p>
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
   caption: |
     <p>Burrowing just beneath the sand with siphon sticking out.</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/040425cjd0095m3.jpg
   caption: |
     <p>With a pair of <a href="../../../cnidaria/actiniaria/snail.htm">tiny sea anemone</a> hitch-hikers.</p>
     <p>Chek Jawa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/lavender/070218tmd8085m3a.jpg
   caption: |
     <p>Whelks cleaning out a recently dead snail while a hermit crab waits patiently.</p>
     <p>Tanah Merah, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/030913cjd0102m3.jpg
   caption: |
     <p>Whelk Joy!</p>
     <p>Dead fish!</p>
     <p>Chek Jawa, Sep 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/noid/100103sisd7635m3.jpg
   caption: |
     <p>A small fish all to itself.</p>
     <p>Sisters Island, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/jackonianus/050511cftg6345m3.jpg
   caption: |
     <p><a href="jacksonianus.htm">Mud whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/livescens/050524cftg6541m3.jpg
   caption: |
     <p><a href="livescens.htm">Common whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/pullus/060212sisg4807m3.jpg
   caption: |
     <p><a href="pullus.htm">Black whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
   caption: |
     <p><a href="olivaceus.htm">Olive whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/lined/070104chgd7442m3.jpg
   caption: |
     <p><a href="lined.htm">Lined whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
   caption: |
     <p><a href="prickly.htm">Prickly whelk</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/limnaeiformis/130330cyrd4898m3.jpg
   caption: |
     <p><a href="limnaeiformis.htm">Speckled whelk</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -117,7 +119,7 @@ in the sand. They have long slender tentacles bearing eyes, and the
 back of the large foot has a pair of tentacles. Whelks can also drill
 through shells.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

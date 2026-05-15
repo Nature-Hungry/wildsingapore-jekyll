@@ -1,11 +1,13 @@
 ---
-title: "Triton snails "
+title: 'Triton snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ranellidae, cymatiidae, gastropod, mollusc, snail, shell, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ranellidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 86039
 stateofmatter: Life
@@ -17,13 +19,13 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
   caption: |
     <p><a href="gyrineum.htm">Common triton snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/cymatium/120510chgd2996m3.jpg
   caption: |
     <p><a href="cymatium.htm">Leopard triton snail</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
@@ -33,7 +35,7 @@ page_images:
     <p>Seashells of South East Asia.</p>
     <p>Graham Brash, Singapore.</p>
     <p>145 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ranellidae/gyrineum/070902skdd6596m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -87,7 +89,7 @@ specimens were used a trumpets. Thus another common name for them is Trumpet she
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 
 ---

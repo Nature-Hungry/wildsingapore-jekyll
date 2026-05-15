@@ -1,9 +1,13 @@
 ---
 title: Glass shrimp
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "glass, palaemon, shrimp, palaemonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: glass, palaemon, shrimp, palaemonidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [103, 104]
+attributes:
+- 103
+- 104
 family: Palaemonidae
 genus: Palaemon
 species: sp.*
@@ -22,51 +26,51 @@ infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/031128sbwrbd0036m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/110812prpd8673m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/081231sisd4427m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/151127cnylks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/151127cnylks2.JPG
   caption: |
     <p>Coney Island, Nov 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24148321645/in/album-72157662420076169/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/171009blymn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/171009blymn4.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/posts/10155054911478660?pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/200820ssismn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/200820ssismn1.jpg
   caption: |
     <p>Small Sisters Island, Aug 20 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157639265923660&set=a.10157639263998660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/201019sjilks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/201019sjilks8.jpg
   caption: |
     <p>Several with eggs.</p>
     <p>St John's Island, Oct 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158704035063158&set=a.10158704042413158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/070701hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/070701hntmn.jpg
   caption: |
     <p>Pulau Hantu, Jul 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/683914653/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/palaemon/060527sjig6099m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -112,7 +116,7 @@ of yellow or orangey dots near the tail.
   
 Several different species of shrimps might have this appearance.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

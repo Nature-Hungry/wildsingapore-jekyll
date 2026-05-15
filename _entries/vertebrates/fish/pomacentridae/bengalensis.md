@@ -1,9 +1,19 @@
 ---
-title: "Bengal sergeant "
+title: 'Bengal sergeant '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bengal, sergeant, abudefduf, bengalensis, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bengal, sergeant, abudefduf, bengalensis, damsel, fish, damselfish, pomacentridae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60, 69, 70, 106, 108]
+attributes:
+- 25
+- 47
+- 58
+- 60
+- 69
+- 70
+- 106
+- 108
 family: Pomacentridae
 genus: Abudefduf
 species: bengalensis
@@ -18,51 +28,51 @@ order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
   caption: |
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110601tmnbd3146m6l.jpg
   caption: |
     <p>Tanah Merah, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110418tmftd9066m6l.jpg
   caption: |
     <p>Tanah Merah, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110505tmnbd0705m3.jpg
   caption: |
     <p>Tanah Merah, May 11 What does it eat?</p>
     <p>It feeds on seaweeds, snails and small crabs.</p>
     <p>The fishes are said to be highly territorial.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180911pgldc2.jpg
   caption: |
     <p>Punggol, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1746136855503083&set=a.1746136788836423&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171108ecpmblks2.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/180812nsrtlks12.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550001608158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/171009blyay11.jpg
   caption: |
     <p>Berlayar Creek, Oct 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110619tslgjp1m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by Jerome Pang on <a href="http://www.facebook.com/media/set/?set=a.10150218843596523.321373.614016522">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250714srpal7.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared of Adriane Lee on <a href="https://www.facebook.com/media/set/?set=a.10161898252813693&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/240820kusmn2.jpg
   caption: |
     <p>Kusu Island, Aug 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10160432626088660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/250810bsisjk3.jpg
   caption: |
     <p>Big Sisters, Aug 25Photo shared by Jayden Kang on <a href="https://www.facebook.com/jeidun/posts/30698691466446309?ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110421jngrl1m3.jpg
   caption: |
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/110220lazrl9m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/bengalensis/080831sisd0180m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -106,7 +116,7 @@ body white, with 6-7 black narrow bars across a yellowish body. Sometimes
 grey bars. The tail has rounded lobes (not pointed) and is plain (there
 are no horizontal black stripes). There is no spot near the base of
 the tail. More on [how to tell apart sergeants](pomacentridae.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

@@ -1,11 +1,15 @@
 ---
 title: Banded penaeid prawn
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Penaeidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 51042
 stateofmatter: Life
@@ -21,40 +25,40 @@ suborder: Dendrobranchiata
 superfamily: Penaeoidea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
   caption: |
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/040605kusg0375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/040605kusg0375m3.jpg
   caption: |
     <p>Kusu Island, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/060611cjd2816m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/060611cjd2816m3.jpg
   caption: |
     <p>Chek Jawa, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/201020prpalks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/201020prpalks9.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158706824343158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/171108ecpmblks18.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/171108ecpmblks18.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251011lablks13.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251011lablks13.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251010blyll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/251010blyll2.jpg
   caption: |
     <p>Berlayar Creek, Oct 25 Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.24923990770530927&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/220521bbbccn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/220521bbbccn4.jpg
   caption: |
     <p>Beting Bemban Besar, May 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159726923118654&set=a.10159726900588654">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -99,7 +103,7 @@ The Black tiger prawn (*Penaeus monodon*) as well as other members
 of the Family Penaeidae may have this appearance. Species are difficult
 to positively identify without close examination.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

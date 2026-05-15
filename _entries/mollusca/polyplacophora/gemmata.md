@@ -1,9 +1,10 @@
 ---
 title: Jewelled chiton
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "acanthopleura, gemmata, chiton, polyplacophora, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: acanthopleura, gemmata, chiton, polyplacophora, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
+family: ''
 genus: Acanthopleura
 species: gemmata
 attributes: []
@@ -19,61 +20,61 @@ superfamily: Chitonoidea
 subfamily: Acanthopleurinae
 updated: Jun 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/190123lazm6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/190123lazm6l.jpg
   caption: |
     <p>A large and small one found on artificial seawalls.</p>
     <p>Seringat-Kias, Jan 19</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/220618tmftvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/220618tmftvc3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10159145163932945&set=a.10159145289027945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/210530epcnvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/210530epcnvc5.jpg
   caption: |
     <p>East Coast (PCN), May 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497035302945&set=a.10158495877737945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/201117labvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/201117labvc2.jpg
   caption: |
     <p>Labrador, Nov 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158083940802945&set=a.10158084785112945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/251010blytl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/251010blytl1.jpg
   caption: |
     <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/201119sntrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/201119sntrk3.jpg
   caption: |
     <p>Sentosa Tg Rimau, Nov 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10158660756797906&set=a.10158659639977906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/251011tgrlks13.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/251011tgrlks13.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/171108lazro.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/171108lazro.jpg
   caption: |
     <p>Lazarus Island, Nov 17Photo shared by Rene Ong on <a href="https://www.facebook.com/photo.php?fbid=10155246744186848&set=pcb.10155246744321848&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240113lazky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240113lazky1.jpg
   caption: |
     <p>Lazarus Island, Jan 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169130255205112&set=a.10169130251430112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120818lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/120818lazlks.JPG
   caption: |
     <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519800885/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/230831sjirk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/230831sjirk1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo?fbid=10160700869722906&set=a.10160700864147906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/230901kusky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/230901kusky2.jpg
   caption: |
     <p>Kusu Island, Sep 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168716652365112&set=a.10168716640065112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240211bigsisky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240211bigsisky1.jpg
   caption: |
     <p>Big Sisters Island, Feb 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169202001300112&set=a.10169201997770112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240528tslrk7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/240528tslrk7.jpg
   caption: |
     <p>Terumbu Selegie, May 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161168216927906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/220303tkkvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/220303tkkvc2.jpg
   caption: |
     <p>Pulau Tekukor, Mar 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158961887147945&set=a.10158961943452945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/180912tkkll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/180912tkkll2.jpg
   caption: |
     <p>Pulau Tekukor, Sep 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1931208116902518&set=a.1931206303569366&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/polyplacophora/chiton/090922sjid1569m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -113,7 +114,7 @@ worm](../../worm/polychaeta/scaleworm.htm) which is a polychaete worm that also 
 but has well developed tentacles and rows of bristles along the sides
 of the body.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **What do they eat?** Like snails,

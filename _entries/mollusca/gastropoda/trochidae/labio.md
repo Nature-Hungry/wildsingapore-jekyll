@@ -1,7 +1,9 @@
 ---
 title: Toothed top shell snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "toothed, monodonta, labio, top, trochus, maculatus,  trochidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: toothed, monodonta, labio, top, trochus, maculatus,  trochidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Trochidae
 genus: Monodonta
@@ -18,26 +20,26 @@ superfamily: Trochoidea
 subfamily: Monodontinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
   caption: |
     <p>Kusu Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kus58911m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050807sjig0794m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/210628ecpBvc5.jpg
   caption: |
     <p>East Coast Park (B), Jun 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158557374067945&set=a.10158557647212945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/160509srpik1.jpg
   caption: |
     <p>Sentosa Serapong, May 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/media/set/?set=a.10153598263081179.1073741848.602806178&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/091205sudikw1m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Ivan Kwan on <a href="http://www.flickr.com/photos/hai_ren/4160866040/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/trochidae/labio/050508kusg5899m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -91,7 +93,7 @@ more conical shell and a thin operculum made of a horn-like material.
 Here's more on [how to tell apart turban
 and top shell snails](../topturban.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: branching
 title: Mustard sponge
@@ -18,19 +18,19 @@ order: Dictyoceratida
 subfamily: Thorectinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3.jpg
   caption: |
     <p>Pulau Semakau, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/110323smkd7707m3b.jpg
   caption: |
     <p>Submerged.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3a.jpg
   caption: |
     <p>Out of water.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/dactylospongia/100518bbbd3074m3.jpg
 ---
 
 
@@ -54,7 +54,7 @@ This encrusting sponge is sometimes seen on coral rubble on our Southern shores.
 Family Pseudoceratinidae) which looks very similar. The two kinds of sponges
 are difficult to tell apart in the field.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

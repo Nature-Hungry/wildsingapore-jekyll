@@ -1,12 +1,14 @@
 ---
 title: Flowery sea pen
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flowery, pen, seapen, veretilllidae, pennatulacea, anthozoa, cnidaria, pteroides,
+  cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Veretillidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 176052
 stateofmatter: Life
 kingdom: Animalia
@@ -17,64 +19,64 @@ order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
   caption: |
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3a.jpg
   caption: |
     <p>Autzooids with long columns and eight branched tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/210621bb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/210621bb.jpg
   caption: |
     <p>'Uprooted' flowery sea pen showing 'foot' that is usually buried, and stiff internal 'bone'.</p>
     <p>Beting Bronok, Jun 21</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/201020prp.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/201020prp.jpg
   caption: |
     <p>May look like a 'sausage'.</p>
     <p>Pasir Ris Park, Oct 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m3.jpg
   caption: |
     <p>A <a href="../../../mollusca/slugs/nudibranchia/semperi">nudibranch that eats sea pens</a> is lurking near this one.</p>
     <p>Changi, Aug 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524cftg6598m3b.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/shrimp/palaemonidae">Commensal shrimp</a> on the sea pen.</p>
     <p>All that can often be seen are a pair of eyes!</p>
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/190422cnyrk6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/190422cnyrk6.jpg
   caption: |
     <p>Coney Island, Apr 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156989308837906&set=a.10156989301812906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/201019cnyrk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/201019cnyrk3.jpg
   caption: |
     <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158588708347906&set=a.10158588678307906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090823cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090823cjlks.JPG
   caption: |
     <p>Chek Jawa, Aug 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4173424276/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/091203ubnjk7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/091203ubnjk7m3.jpg
   caption: |
     <p>An uprooted sea pen with flowery secondary polyps retracted.</p>
     <p>Pulau Ubin, Dec 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/12/pulau-ubin-new-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/090526bbd2536m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050609chgg7516m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/100516skdd2640m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/100516skdd2640m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/100516skdd2641m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/100516skdd2641m3c.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/veretillidae/050524chgg6589m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -118,7 +120,7 @@ the body column may match the colour of the 'stem'. Colours seen include
 white, maroon, purple and orange. The colony also has another kind
 of polyp that sucks in water (siphonozooids) and which are minute,
 numerous and crowded.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

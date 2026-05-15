@@ -1,13 +1,17 @@
 ---
 title: Ruffled fan green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "frilly, fan, seaweed, weed, green, udotea, udoteacea, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: frilly, fan, seaweed, weed, green, udotea, udoteacea, chlorophyta, algae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Udoteaceae
 genus: Udotea
-species: ""
-attributes: [44, 97]
+species: ''
+attributes:
+- 44
+- 97
 inat_id: 131341
 stateofmatter: Life
 kingdom: Plantae
@@ -16,31 +20,31 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/050411tusd2298m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080916tusd0495m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/080409tusd0008m3c.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/udotea/101008tusd1766m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -92,7 +96,7 @@ seaweeds](cffan).
 **Human uses:** Some species have
 anti-bacterial and anti-tumor properties.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

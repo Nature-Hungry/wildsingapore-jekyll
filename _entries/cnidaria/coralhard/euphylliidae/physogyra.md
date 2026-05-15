@@ -1,7 +1,9 @@
 ---
-title: "Pearl bubble coral "
+title: 'Pearl bubble coral '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: branching, anchor, euphyllia, paraancora, euphylliidae, caryophyliidae,
+  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Physogyra
@@ -16,25 +18,25 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Oct 15
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
   caption: |
     <p>Brain-like meandering valleys, made up of large coin-like plates</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
   caption: |
     <p>During the day covered in bubbles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150720smknlks4m3.jpg
   caption: |
     <p>Pulau Semakau North, Jul 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ is not listed amont the threatened animals of
 Singapore. But it is listed globally Vulnerable [by
 the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0). Although it is widespread and common throughout its range, it is heavily harvested for the aquarium trade and has suffered extensive reduction of coral reef habitat due to a combination of threats.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

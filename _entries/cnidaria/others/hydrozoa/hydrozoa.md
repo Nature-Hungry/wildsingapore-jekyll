@@ -1,11 +1,12 @@
 ---
 title: Hydroids
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Bougainvilliidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 63663
 stateofmatter: Life
@@ -17,28 +18,28 @@ order: Anthoathecata
 suborder: Filifera
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
   caption: |
     <p>Colourful <a href="candy">Candy hydroids</a>.</p>
     <p>Tuas, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/140420sisd4964.jpg
   caption: |
     <p>Blue button jellyfish (Porpita porpita) Sisters Island, Apr 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tuscd0019m3.jpg
   caption: |
     <p><a href="thread">This jellyfish</a> belongs to Class Hydrozoa.</p>
     <p>Tuas, Apr 04 The colony may be made up of two different kinds of polyps.</p>
     <p>Feeding polyps look like sea anemones with tentacles armed with <a href="../../cnidaria">stingers like other Cnidrians</a>.</p>
     <p>These stingers are used to gather food particles from the water.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/100614bbd6022m3.jpg
   caption: |
     <p>Tiny polyps of the <a href="sertularella">fern hydroid</a>.</p>
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/120410chgd9302m3.jpg
   caption: |
     <p>Polyp of <a href="fluffy">fluffy hydroid</a>.</p>
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/120508skdd2318m3.jpg
   caption: |
     <p>Capsules of <a href="candy">candy hydroids</a>.</p>
     <p>Pulau Sekudu, May 12 What do they eat?</p>
@@ -47,39 +48,39 @@ page_images:
     <p>Some hydroids such as Fire corals (Millepora sp.) harbour symbiotic algae (zooxanthellae) in their bodies.</p>
     <p>The algae undergo photosynthesis to produce food from sunlight.</p>
     <p>The food produced is shared with the host, which in return provides the algae with shelter and minerals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050821bbg1938m3.jpg
   caption: |
     <p>Grass-like pale <a href="stinging">stinging hydroids</a>.</p>
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/120803chgd9398m3.jpg
   caption: |
     <p>Tiny tentacles of <a href="stinging">stinging hydroids</a>.</p>
     <p>Changi, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/sibogae/060812bbd6062m3.jpg
   caption: |
     <p>Cuthona nudibranch on <a href="sertularella">Fern hydroid</a> Beting Bronok, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/stinging/050411tusd2333m3.jpg
   caption: |
     <p><a href="stinging">Stinging hydroids</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/020629chgd1211m3.jpg
   caption: |
     <p><a href="candy">Candy hydroids</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/fluffy/040409tusad0129m3.jpg
   caption: |
     <p><a href="fluffy">Fluffy hydroids</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/sertularella/030714bbd0074m3.jpg
   caption: |
     <p><a href="sertularella">Fern hydroids</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/delicate/050819cjg1531m3a.jpg
   caption: |
     <p><a href="delicate">Delicate hydroids</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
   caption: |
     <p><a href="seagrass">Seagrass hydroids</a>grows on seagrasses.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/giant/100812tpld0425m6l.jpg
   caption: |
     <p><a href="giant">Giant hydroids</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/candy/040409tusad0141m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -129,7 +130,7 @@ exoskeleton is made of). In some, each polyp lives in a bell-shaped
 'container' with a lid. The colony often takes on feathery, branching
 plant-like forms. The branches arise from a central stalk that is
 attached to a hard surface.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Other polyps function as reproductive organs and often don't have
 tentacles. Some hydroids have defensive polyps, usually club-shaped

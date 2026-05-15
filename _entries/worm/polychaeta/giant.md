@@ -1,7 +1,9 @@
 ---
 title: Giant reef worm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: giant, reef, bristle, worm, eunice, aphroditois, eunicid, bristleworm, polychaete,
+  annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Eunicidae
 genus: Eunice
@@ -16,123 +18,123 @@ subclass: Errantia
 order: Eunicida
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070303sjig7850m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070303sjig7850m3a.jpg
   caption: |
     <p>A face that only a mother could love.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/080919sntd0656m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/080919sntd0656m3.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/080919sntd0656m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/080919sntd0656m3b.jpg
   caption: |
     <p>Features: The giant reef worm can reach up to 1.5m.</p>
     <p>Indeed, such long ones are commonly encountered on our shores.</p>
     <p>It has a white ring around the fourth body segment, short pointed bristles on the sides of the body, and long tentacles and other gruesome-looking appendages on its head.</p>
     <p>Although it does have a face that only a mother could love, it is beautiful in some ways: with glistening iridescent body segments.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/110203sjid5659m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/110203sjid5659m6l.jpg
   caption: |
     <p>Grabbing a piece of Sargassum seaweed.</p>
     <p>St John's Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/040410sisbd0011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/040410sisbd0011m3.jpg
   caption: |
     <p>Snatching a mouthful of seaweed.</p>
     <p>Sisters Island, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100102tkkd7168m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100102tkkd7168m6l.jpg
   caption: |
     <p>Pulau Tekukor, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/120124sisd5808m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/120124sisd5808m3.jpg
   caption: |
     <p>A young worm?</p>
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/210528lygjll9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/210528lygjll9.jpg
   caption: |
     <p>Changi Loyang, May 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158304968976295&set=a.10158300364091295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240528tslvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240528tslvc4.jpg
   caption: |
     <p>Terumbu Selegie, May 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/media/set/?set=a.10160387281292945">facebook</a>.</p>
-- url: "https://live.staticflickr.com/7413/27778398601_446cf929f1_z.jpg"
+- url: https://live.staticflickr.com/7413/27778398601_446cf929f1_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/27778398601/ "Giant reef worm (Eunice aphroditois)") \Tentative identification.</p>
     <p>Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/140518tmlks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/140518tmlks2m3.JPG
   caption: |
     <p>Tanah Merah, May 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2014/05/coral-overdose-at-tanah-merahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251108ecpblks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251108ecpblks8.jpg
   caption: |
     <p>East Coast Park (B), Nov 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163545987708158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/170822labjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/170822labjll1.jpg
   caption: |
     <p>Labrador, Aug 17Photo shared by Jianlin Liu <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154966496831295.1073741899.542241294&type=3">on facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251011lablks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251011lablks6.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on  <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/210712srpvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/210712srpvc3.jpg
   caption: |
     <p>Sentosa Serapong, Jul 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158582285462945&set=a.10158582306727945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251011tgrlks18.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251011tgrlks18.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251009sjitl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/251009sjitl1.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070801kuslks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070801kuslks01m3.jpg
   caption: |
     <p>Kusu Island, Aug 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/08/anemones-co-at-kusul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/191127lazjll4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/191127lazjll4.jpg
   caption: |
     <p>Lazarus Island, Nov 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156874805291295&set=a.10156874802806295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/090628lazlt1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/090628lazlt1m3.jpg
   caption: |
     <p>Lazarus Island, Jun 09Photo shared by Liana Tang on <a href="http://nearly-lucid.blogspot.com/2009/07/rock-and-reflexology-on-lazarus-islandl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240528tsllks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240528tsllks5.jpg
   caption: |
     <p>Terumbu Selegie, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161378187758158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101106tbrnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/101106tbrnlks.JPG
   caption: |
     <p>Terumbu Buran, Jan 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5152986128/in/album-72157625202884091/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250811jngll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250811jngll1.jpg
   caption: |
     <p>Pulau Jong, Aug 25Photo shared by Liz Lim on <a href="https://www.facebook.com/media/set/?set=a.24402623539334322&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240623hntky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/240623hntky4.jpg
   caption: |
     <p>Pulau Hantu, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169619874670112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/090626cyrjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/090626cyrjk1m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/06/cyrene-blue-dragons-in-grassl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250726cyrjt3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250726cyrjt3.jpg
   caption: |
     <p>Cyrene, Jul 25Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10162605146328119&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/110423tplro2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/110423tplro2m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/fbx/?set=a.162365297156510.38516.133291903397183">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/200626tptky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/200626tptky3.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Jun 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10164415149535112&set=a.10164415147495112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250812tbmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250812tbmn1.jpg
   caption: |
     <p>Terumbu Bemban, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/150720smknlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/150720smknlks1m3.jpg
   caption: |
     <p>Pulau Semakau North, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153498818898158.1073741889.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/160313trymn6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/160313trymn6.jpg
   caption: |
     <p>Terumbu Raya, Mar 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153509319788660.1073741899.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250713tryky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250713tryky4.jpg
   caption: |
     <p>Terumbu Raya, Jul 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10172582589125112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/180520tsmk1rk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/180520tsmk1rk.jpg
   caption: |
     <p>Terumbu Semakau, Jun 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/posts/10156195107107906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250402tsmkky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/250402tsmkky1.jpg
   caption: |
     <p>Terumbu Semakau, Apr 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?vanity=yongszeyuenkelvin&set=a.10171782031380112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100131slulks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100131slulks8m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4350442141/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100130brkblks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/100130brkblks2m3.jpg
   caption: |
     <p>Terumbu Berkas Besar, Jan 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4353317744/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070303sjig7850m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/giant/070303sjig7850m3a.jpg
 ---
 
 
@@ -168,7 +170,7 @@ can reach 6m with more than a thousand segments! These worms can live
 for several years. Most Eunicids are carnivorous. Some live in tubes,
 others may live in rocky habitats, burrow into coralline rock or limestone,
 or burrow into sand and mud.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Young giant reef worms crawl about freely, but as they get older,
 they make a simple papery tube to live in. Giant reef worms live among

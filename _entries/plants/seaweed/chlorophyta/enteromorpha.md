@@ -1,13 +1,17 @@
 ---
 title: Turf green seaweeds
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seaweed, weed, green, enteromorpha, ulvaceae, chlorophyta, algae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Ulvaceae
 genus: Enteromorpha
-species: ""
-attributes: [97, 99]
+species: ''
+attributes:
+- 97
+- 99
 inat_id: 54644
 stateofmatter: Life
 kingdom: Plantae
@@ -16,31 +20,31 @@ class: Ulvophyceae
 order: Ulvales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmftd4991m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/070420sntd0150m3.jpg
   caption: |
     <p>Sheets of Ulva with filamentous Enteromorpha</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9210m6l.jpg
   caption: |
     <p>Changi, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/100202chgd9209m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7853m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7852m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/020328cjd7852m3.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>University of Western Australia Press.</p>
     <p>300pp.</p>
@@ -48,7 +52,7 @@ page_images:
     <p>P.</p>
     <p>& Menez, E.</p>
     <p>G., 1997.[Field</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
@@ -57,12 +61,12 @@ page_images:
     <p>C.</p>
     <p>Jr., 1997.</p>
     <p>[Field</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/enteromorpha/050711tmd4976m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -126,7 +130,7 @@ mossy ones used to garnish dishes in Japan and some parts of China.
 They are also used as animal feed, fertiliser and as medicine for
 their antibacterial properties.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

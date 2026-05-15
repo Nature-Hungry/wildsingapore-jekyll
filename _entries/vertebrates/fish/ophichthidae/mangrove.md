@@ -1,12 +1,18 @@
 ---
 title: Mangrove snake-eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: mangrove, snake, eel, fish, ophichthidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Ophichthidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 49249
 stateofmatter: Life
 kingdom: Animalia
@@ -18,29 +24,29 @@ order: Anguilliformes
 suborder: Congroidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
   caption: |
     <p>Large head, small eyes, pectoral fins.</p>
     <p>Pasir Ris Park, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2811m6l.jpg
   caption: |
     <p>Pasir Ris Park, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/191214cjal5.jpg
   caption: |
     <p>Chek Jawa, Dec 19Photo shared by Adrianne Lee on <a href="https://www.facebook.com/photo.php?fbid=10157016714053693&set=a.10157016713653693&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/170528chglks2.jpg
   caption: |
     <p>Changi, May 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155349694313158&set=pcb.10155349682483158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/150618tmftlks1m3a.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/evermann/150618tmftlks1m3b.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/ophichthidae/mangrove/121227prpd2805m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +88,7 @@ near the tip of the head. It has a pointed tail. Body pattern uniform, those see
 **Sometimes mistaken for** [worms](../../../worm/worm.htm) or [sea snakes](../../snakes/hydrophiidae/laticauda.htm).
 Here's more on [how to tell
 apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

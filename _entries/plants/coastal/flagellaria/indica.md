@@ -1,9 +1,15 @@
 ---
-title: "Rotan tikus "
+title: 'Rotan tikus '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rotan, tikus, flagellaria, indica, flagellariaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rotan, tikus, flagellaria, indica, flagellariaceae, plant, tree, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Flagellariaceae
 genus: Flagellaria
 species: indica
@@ -16,53 +22,53 @@ order: Poales
 inat_id: 360343
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8597m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090328sbwrd8594m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8222m3.jpg
   caption: |
     <p>Pulau Ubin, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8217m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8217m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3.jpg
   caption: |
     <p>Pulau Ubin, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090802ubind8225m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3.jpg
   caption: |
     <p>Sungei Cina, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/100321sgcd0246m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flagellaria/indica/090111smkd4873m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -112,7 +118,7 @@ of the plants are also used for other traditional medicinal uses.
 According to Giesen, it is considered inferior to true rattan. The
 leaves may be used as a plaster on wounds.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Ribbed venus clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, shell, gafrarium, veneridae, bivalve, mollusc, clam, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, shell, gafrarium, veneridae, bivalve, mollusc, clam, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Veneridae
 genus: Gafrarium
@@ -21,59 +23,59 @@ superfamily: Veneroidea
 subfamily: Gouldiinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
   caption: |
     <p>Gafrarium pectinatum?</p>
     <p>Pulau Hantu, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7549m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9114m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070505kusg9115m3.jpg
   caption: |
     <p>Kusu Island, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9682m3.jpg
   caption: |
     <p>Gafrarium pectinatum?</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9683m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/100729tmd9683m3.jpg
   caption: |
     <p>Tanah Merah, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks4m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110220lazlks5m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5464452195/in/datetaken/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/210530epcnvc7.jpg
   caption: |
     <p>East Coast (PCN), May 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158497027332945&set=a.10158495877737945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/260218merqo2.jpg
   caption: |
     <p>Marina East, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955899723593435&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/171009brlay.jpg
   caption: |
     <p>Berlayar Creek, Oct 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211764752726545.1073741908.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/0914104sntlks.JPG
   caption: |
     <p>Sentosa, Dec 09 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4076757586/in/album-72157607923545583/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5a.jpg
   caption: |
     <p>St John's Island, Oct 25 Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163222679594264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/251009sjitl5b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/110326sjilks.JPG
   caption: |
     <p>St John's Island, Mar 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5560423633/in/album-72157607929563969/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/181027smksjt1.jpg
   caption: |
     <p>Pulau Semakau South, Oct 18 Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10155982554353576&set=a.10155982553933576&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/veneridae/ribbed/070204hntg7547m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -117,7 +119,7 @@ to be discoloration or algae growth.
 ribs. *Gafrarium pectinatum* is 'flatter' with finer ribs. It's
 difficult to be sure without looking more closely at the animal.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

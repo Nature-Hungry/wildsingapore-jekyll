@@ -1,9 +1,15 @@
 ---
 title: Yelloweye pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yelloweye, yellow, eye, pufferfish, puffer, arothron, immaculatus, fish,
+  tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Tetraodontidae
 genus: Arothron
 species: immaculatus
@@ -18,28 +24,28 @@ order: Tetraodontiformes
 suborder: Tetraodontoidei
 updated: Nov 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
   caption: |
     <p>SIsters Island, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/120407lazd8057m6l.jpg
   caption: |
     <p>Seringat-Kias, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/180811chglks2.jpg
   caption: |
     <p>Changi, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156547443268158&set=a.10156547440993158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/140713bblks1m3.jpg
   caption: |
     <p>Beting Bronok, Jul 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070701hntmn.jpg
   caption: |
     <p>Pulau Hantu, Jul 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/683902525/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/110517tptlks20m3c.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/first-visit-to-terumbu-pempang-tengahl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/080510smktsj02m3.jpg
   caption: |
     <p>Pulau Semakau, May 08Photo shared by Tan Sijie on <a href="http://naturescouter.blogspot.com/2008/05/team-seagrass-at-pulau-semakaul">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/immaculatus/070219sisd8189m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -74,7 +80,7 @@ seen?** This fat plain pufferfish is sometimes seen on some of our shores, near 
 about 30cm, those seen 8-10cm. Body rather plain without markings,
 tail fin yellowish with a dark brown edge. Sometimes, the eyes are yellow. Sometimes, they are found in small
 groups.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

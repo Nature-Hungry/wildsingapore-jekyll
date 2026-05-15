@@ -138,7 +138,7 @@ Be a responsible visitor to our wild places:
   monkeys. People who feed monkeys usually mean well and will usually
   eventually understand and stop feeding them.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
   

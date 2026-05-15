@@ -1,9 +1,17 @@
 ---
-title: "Scissortail sergeant "
+title: 'Scissortail sergeant '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: scissor, tail, sergeant, abudefduf, sexfasciatus, damsel, fish, damselfish,
+  pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60, 69, 70]
+attributes:
+- 25
+- 47
+- 58
+- 60
+- 69
+- 70
 family: Pomacentridae
 genus: Abudefduf
 species: sexfasciatus
@@ -18,14 +26,14 @@ order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
   caption: |
     <p>Tanah Merah, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110602tmftd3507m6l.jpg
   caption: |
     <p>Sisters Island, Jan 10What does it eat?</p>
     <p>It feeds on tiny zooplankton and algae.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sexfasciatus/110418tmftd9063m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,7 +73,7 @@ about 15cm. It is identified by the black horizontal stripes on the pointed tail
 so the tail resembles scissors. Like other sergeants, it
 has 4-5 broad black bars across a yellowish body. More on [how
 to tell apart sergeants](pomacentridae).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

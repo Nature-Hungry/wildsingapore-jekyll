@@ -1,13 +1,17 @@
 ---
 title: Y-branch brown seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: strap,  brown, seaweed, weed, dictyota, dictyotaceae, phaeophyta, algae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Phaeophyta
 family: Dictyotaceae
 genus: Dictyota
-species: ""
-attributes: [97, 98]
+species: ''
+attributes:
+- 97
+- 98
 inat_id: 51021
 stateofmatter: Life
 kingdom: Chromista
@@ -18,37 +22,37 @@ order: Dictyotales
 tribe: Dictyoteae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3.jpg
   caption: |
     <p>Pulau Sekudu, Aug 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/060809skdd5554m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050429cftg5397m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/120209blyd6238m3.jpg
   caption: |
     <p>Berlayar Creek, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050624tusg8538m3.jpg
   caption: |
     <p>Tuas, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/070615sntrd2173m3.jpg
   caption: |
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/230608tmftvc4.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 23Photo shared by Vincent Choo on facebook.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
@@ -56,7 +60,7 @@ page_images:
     <p>- Huisman, John M.</p>
     <p>2000.</p>
     <p>[Marine</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>University of Western Australia Press.</p>
     <p>300pp.</p>
@@ -64,12 +68,12 @@ page_images:
     <p>C.</p>
     <p>Jr., 1997.</p>
     <p>[Field</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Bookmark, Inc., the Philippines.</p>
     <p>306 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/050413labd2529m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -121,7 +125,7 @@ in meat and flavour sauces, milk shakes, pastries and salad dressings.
 Extracts from it are also used in industry as emulsifiers, gelling
 agents, stabilisers.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

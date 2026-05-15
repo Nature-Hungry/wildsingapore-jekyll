@@ -1,11 +1,13 @@
 ---
-title: "Horseshoe crabs "
+title: 'Horseshoe crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate, arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: horseshoe, king, crab, limulidae,  xiphosura, merostomata, chelicerate,
+  arthropod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Limulidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 326110
 stateofmatter: Life
@@ -16,16 +18,16 @@ class: Merostomata
 order: Xiphosurida
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
   caption: |
     <p>Often seen in a pair, the smaller male on top and behind the larger female.</p>
     <p>Pulau Sarimbun, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/070803cjg1768m3.jpg
   caption: |
     <p>Using its tail to flip over to the right side.</p>
     <p>Note the white slipper snails stuck on the underside.</p>
     <p>Chek Jawa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6891m3.jpg
   caption: |
     <p>Often entangled in abandoned drift nets.</p>
     <p>Changi, Oct 07 # Horsing around Horseshoes mate during high spring tides when they can reach the highest part of the beach.</p>
@@ -38,57 +40,66 @@ page_images:
     <p>Eggs hatch at the next full moon when the tide is at its highest again.</p>
     <p>The hatchlings (called trilobite larvae) look like miniature adults but without tails, and are bright green!</p>
     <p>The larvae burrow into the sand and after a few moults begins to develop tails.</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3.jpg
   caption: |
     <p>Males have modified front legs to hold on to the female.</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07483m3a.jpg
   caption: |
     <p>Chek Jawa, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110320cjs07484m3a.jpg
   caption: |
     <p>Chek Jawa, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
   caption: |
     <p>Juvenile horseshoe crab.</p>
     <p>Kranji, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110410mndd09563m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/110410mndd09563m3.jpg
   caption: |
     <p>Horseshoe crab eggs seen in sand.</p>
     <p>Mandai, Apr 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0361m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/071002chgd6898m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/050726chgg0358m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/090428chgd0767m3d.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/tachypleus/050527srbg6987m3.jpg
+links_references: |-
+  **Links**
+
+
+
+  **References**
+
+
+  - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
 ---
 
 arthropods
@@ -146,7 +157,7 @@ A horseshoe crab has a lot of eyes! It has a pair of compound eyes at the top of
 # In a Tailspin
 The sharp tail of the horseshoe crab is is connected to the body in a ball-and-socket joint so it is very mobile. The tail is not venomous and is not used as a weapon. It is merely used as a lever to right itself if it is overturned. If you see an upside down horseshoe crab struggling with its tail waving around, do give it a helping hand. It will not hurt you. The tail (called a telson or caudal spike) is also used as a rudder when moving underwater. If a horseshoe loses its tail, it is doomed. So please be gentle with its tail and don't dangle a horseshoe crab by its tail.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 
@@ -218,8 +229,6 @@ in red are those listed among the threatened animals of Singapore from Ng, P. K.
  
 *[Carcinoscopius rotundicauda](carcinoscorpius)* (Mangrove horseshoe crab) (VU: Vulnerable) *[Tachypleus gigas](tachypleus)*(Coastal horseshoe crab) (EN: Endangered)
 
-# Links  
-
 # About horseshoe crabs in general**
 
 - [Tai   Ho Wan: breeding and nursery ground of horseshoe crabs](http://www.hku.hk/ecology/porcupine/por20/arthropods) by Terence Ching-wai Fong on the University of Hong Kong website: a study of breeding of *Tachypleus* and *Carcinoscorpius*.
@@ -251,7 +260,3 @@ in red are those listed among the threatened animals of Singapore from Ng, P. K.
 
 - [US bans harvest of horseshoe crabs to save rare shore bird](http://wildsingaporenews.blogspot.com/2008/03/us-bans-harves-of-horseshoe-crabs-tol) Jon Hurdle, Reuters 25 Mar 08;
 - [East coast horseshoe crabs poised for recovery](http://wildsingaporenews.blogspot.com/2008/05/east-coast-horseshoe-crabs-poised-forl) Jon Hurdle, Reuters 27 May 08;
-
-# References
-
-- Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.

@@ -1,13 +1,18 @@
 ---
-title: "Flat   crunchy pom-pom red seaweed "
+title: 'Flat   crunchy pom-pom red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pom, pom, red, seaweed, weed, algae, corallinaceae, galaxauraceae, rhodophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Corallinaceae
 genus: Jania
-species: ""
-attributes: [52, 97, 98]
+species: ''
+attributes:
+- 52
+- 97
+- 98
 inat_id: 131377
 stateofmatter: Life
 kingdom: Plantae
@@ -21,59 +26,59 @@ subfamily: Corallinoideae
 tribe: Janieae
 updated: Oct 15
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1024m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/110903sntd1022m3.jpg
   caption: |
     <p>Sentosa, Sep 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3.jpg
   caption: |
     <p>Sisters Island, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/060716sisd4601m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3.jpg
   caption: |
     <p>Sentosa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/091104sntd3603m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100130brkd8628m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100530tbkd4318m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100810sngd9927m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100531biod4521m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/100131slud8870m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/pomflat/070602sjig9819m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -121,7 +126,7 @@ out. Colours pink or lilac.
 **May be confused with** other [pinkish seaweeds with a pom
 pom shape.](pompom)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

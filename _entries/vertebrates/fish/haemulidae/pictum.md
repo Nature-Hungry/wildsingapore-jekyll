@@ -1,9 +1,16 @@
 ---
 title: Painted sweetlips
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: painted, sweetlips, fish, diagramma, pictum, haemulidae,  field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Haemulidae
 genus: Diagramma
 species: pictum
@@ -18,25 +25,25 @@ order: Acanthuriformes
 subfamily: Plectorhinchinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
   caption: |
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9038m6l.jpg
   caption: |
     <p>Juvenile.</p>
     <p>Changi, Apr 12 Wiggly swimmer: Like some other young sweetlips species, the juvenile Painted sweetlips typically swims by 'wagging' its large tails resulting in a twisting motion.</p>
     <p>What does it eat?</p>
     <p>It eats small bottom-dwelling animals and fishes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/161126chgay1.jpg
   caption: |
     <p>Changi, Nov 16 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10209067746223068&set=a.10208831078666527&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/181027smksmn1.jpg
   caption: |
     <p>Pulau Semakau, Oct 18 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155937362323660&set=a.10155937361183660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/131104smkmn.jpg
   caption: |
     <p>Pulau Semakau, Nov 13 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/15413132157/in/album-72157637303861923/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,7 +77,7 @@ seen?** The stripy yellow and black juveniles are sometimes seen on some of our 
 are seen on sandy and silty bottoms near reefs.  
   
 **Features:** Juveniles about 10cm. Slender long body yellow with black stripe through the eye across the body and the tail. And a black stripe above including the dorsal fin. Adults to 90cm, uniformly silvery grey.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

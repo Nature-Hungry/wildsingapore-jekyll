@@ -1,54 +1,55 @@
 ---
-title: "Brown seaweeds "
+title: 'Brown seaweeds '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: brown, seaweed, weed, algae, phaeophyceae, phaeophyta, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 division: Phaeophyta
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngseaweed)</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/others/040423snted0087m3.jpg
   caption: |
     <p>Various brown seaweeds Sentosa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/padina/040423sntd0023m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/sargassum/040423snted0054m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/dictyota/031226chgd0017m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/colpomenia/051103sisg2851m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/ybranched/040818sntd4759m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/veinedbranch/040919sntd7025m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/noveinbranch/060115sntg3912m.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/phaeophyta/turbinaria/040507flhcd0150ma.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/crosslandia/060131sjig4508m3.jpg
   caption: |
     <p>The <a href="../../../mollusca/slugs/nudibranchia/crosslandia">Crosslandia nudibranch</a> looks just like sargassum!</p>
     <p>St.</p>
     <p>John's Island, Jan 06</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -59,7 +60,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

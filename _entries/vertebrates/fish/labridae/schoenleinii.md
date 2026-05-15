@@ -1,9 +1,15 @@
 ---
-title: "Black-spot tuskfish "
+title: 'Black-spot tuskfish '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, spot, tuskfish, tusk, fish, choerodon, schoenleinii, labridae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Labridae
 genus: Choerodon
 species: schoenleinii
@@ -19,27 +25,27 @@ suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/050720sntg9598m6l.jpg
   caption: |
     <p>Sentosa, Jul 05 What does it eat?</p>
     <p>It rests on the bottom during the day and forages at night, often by overturning large stones.</p>
     <p>It is a solitary hunter, eating hard-shelled prey such as crabs, snails and sea urchins.</p>
     <p>Human uses: It heavily fished for for the live seafood trade.</p>
     <p>It is also highly sought after by recreational fishermen throughout its distribution.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230605chg7lks3.jpg
   caption: |
     <p>Changi Carpark 7, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160711615978158&set=a.10160711621108158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/230902smkccn1.jpg
   caption: |
     <p>Pulau Semakau, Sep 23Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/794658653/videos/a.10160686763968654/999549714429673">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/170823tsmkjt2.jpg
   caption: |
     <p>Juvenile?</p>
     <p>Terumbu Semakau, Aug 17Photo shared by Jonathan Tan on <a href="https://www.facebook.com/media/set/?set=a.10155614374353119.1073741947.696593118&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/schoenleinii/100614bbd5938m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,7 +85,7 @@ weigh 9kgs! Those seen about 20cm long. It has a black spot
 at the middle of the dorsal fin base. Juveniles have a large white
 saddle spot after the black spot. Body scales each with a blue centre
 forming a horizontal row of spots along the side of the body.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Status and threats:** The Black-spot
 tuskfish is currently being considered for listing on the IUCN Red

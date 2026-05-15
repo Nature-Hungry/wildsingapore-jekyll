@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,"
+keywords: smooth, blue, sponge, neopetrosia, exigua, petrosiidae, porifera, field,
 layout: entry
 shape: encrusting
 title: Smooth brown sponge
@@ -17,58 +17,58 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2267m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2267m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2268m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100502tryd2268m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100130brkd8584m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/070322cyrd9184m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100531biod4508m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100131slud8867m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100613sngd5627m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/100530tbkd4320m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/smoothbrown/060501labd1704m3.jpg
 ---
 
 
@@ -102,7 +102,7 @@ uses:** The sponge is sticky when crushed and fishermen
 in Micronesia use this sponge to caulk (waterproof) their
 canoes.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

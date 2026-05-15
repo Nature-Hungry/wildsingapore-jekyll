@@ -1,42 +1,51 @@
 ---
 title: Tiny red sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cucumber, sea, cucumber,  cucumarid, holothuroidea, echinoderm, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 92, 101]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 92
+- 101
 family: Cucumariidae
 genus: awating
 species: identification*
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050526cjg6806m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/150618tmftlks2m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/081214ecmlks02m3.JPG
   caption: |
     <p>East Coast, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/wow-shore-explorationl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/190706skdlks2.jpg
   caption: |
     <p>Pulau Sekudu, Jul 19 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157329284813158&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/tinyred/050623cjg8359m3.jpg
 ---
 
 
@@ -61,7 +70,7 @@ encrusting organisms covering the coral rubble.
 Often mistaken for worms, each has all the features that bigger sea
 cucumbers have. Body bright red, squarish or quadrangular in cross-section, backside tip translucent white. Tiny tube feet, very long, white. Feeding
 tentacles dark at the base becoming yellowish at tips, branched tips translucent white.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

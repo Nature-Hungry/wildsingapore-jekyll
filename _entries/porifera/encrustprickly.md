@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: encrusting
 title: Yellow prickly branching sponge
@@ -17,71 +17,71 @@ subclass: Verongimorpha
 order: Verongiida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2806m3.jpg
   caption: |
     <p>Usually dark with yellow tips.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2805m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2805m3a.jpg
   caption: |
     <p>Many tiny holes on a bumpy surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3a.jpg
   caption: |
     <p>A <a href="../mollusca/bivalvia/pteriidae/vulsella.htm">Sponge finger oyster</a> embedded in the sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/111001sjid2044m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/120124sisd5828m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/040901sjid6066m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/051204sisg3279m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100811slud0122m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091204pawd0058m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/091231biod6926m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/100130brkd8606m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/encrustprickly/110522bbbd2803m3.jpg
 ---
 
 
@@ -132,7 +132,7 @@ of several components of the processing machinery in cancer cells,
 preventing them from growing and dividing. [More
 details](http://wildshores.blogspot.com/2011/02/anti-cancer-drugs-from-sponge-commonly.html).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

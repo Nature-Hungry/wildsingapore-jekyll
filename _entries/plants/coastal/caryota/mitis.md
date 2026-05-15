@@ -1,9 +1,17 @@
 ---
-title: "Fishtail palm "
+title: 'Fishtail palm '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fishtail, caryota, mitis, aracaceae, palmae, palm, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fishtail, caryota, mitis, aracaceae, palmae, palm, plant, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 18, 20, 21, 36, 82]
+attributes:
+- 8
+- 18
+- 20
+- 21
+- 36
+- 82
 family: Arecaceae
 genus: Caryota
 species: mitis
@@ -18,37 +26,37 @@ tribe: Caryoteae
 inat_id: 160169
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
   caption: |
     <p>Sungei Cina, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6421m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6421m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6425m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6425m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6420m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6467m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6439m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc0340m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc0340m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc339m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100116cjc339m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/091227kntd6434m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caryota/mitis/100321sgcd0210m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -100,7 +108,7 @@ flame'. According to Burkill and Whitmore, the inflorescence is tapped
 for toddy and the pith of the trunk extracted for a kind of sago flour.
 The fruit wall and sap contains irritant needle-like crystals.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

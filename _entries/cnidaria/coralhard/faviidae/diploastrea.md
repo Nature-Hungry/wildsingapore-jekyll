@@ -131,7 +131,7 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

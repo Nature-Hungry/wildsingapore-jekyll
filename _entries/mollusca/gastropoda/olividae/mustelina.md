@@ -1,10 +1,12 @@
 ---
 title: Weasel olive snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "olive, snail, shell, oliva, mustelina, olividae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: olive, snail, shell, oliva, mustelina, olividae, gastropod, mollusc, sand,
+  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Olividae
-genus: ""
+genus: ''
 species: Oliva
 attributes: []
 inat_id: 61805
@@ -17,24 +19,24 @@ order: Neogastropoda
 superfamily: Olivoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
   caption: |
     <p>Changi, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3.jpg
   caption: |
     <p>Shell opening violet.</p>
     <p>East Coast Park, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/090820ecpd9455m3b.jpg
   caption: |
     <p>Short conical spire.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/080720cjd8009.jpg
   caption: |
     <p>Typical trail of a burrowing olive snail in wet sand.</p>
     <p>Chek Jawa, Jul 08</p>
-- url: "https://live.staticflickr.com/908/27728472268_7084b0f9c3_z.jpg"
+- url: https://live.staticflickr.com/908/27728472268_7084b0f9c3_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/27728472268/ "Weasel olive snail (Oliva mustelina)")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/olividae/mustelina/060612cftd2912m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,7 +78,7 @@ beige with closely set fine dark brown zig-zag lines. Shell opening
 violet. Body large beige with brownish spots all
 over. A long siphon sticks out of the notch in the shell.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

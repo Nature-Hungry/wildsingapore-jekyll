@@ -1,7 +1,8 @@
 ---
 title: Penaeid prawns
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: penaeid, penaeidae, prawn, shrimp, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Penaeidae
 genus: Family
@@ -9,40 +10,40 @@ species: Penaeidae
 attributes: []
 updated: Feb 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngshrimps)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/050721cjg9666m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/070615sntrg0335m3.jpg
   caption: |
     <p>Like other shrimps, it contracts its abdomen to quickly swim backwards.</p>
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0023m3.jpg
   caption: |
     <p>Some hide in the sand with only the 'nose' and eyes sticking out.</p>
     <p>Chek Jawa, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbluetail/030716cjd0025m3.jpg
   caption: |
     <p><a href="penbluetail">Blue-tailed penaeid prawns</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penbanded/080731chgd8379m3.jpg
   caption: |
     <p><a href="penbanded">Banded penaeid prawns</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penslender/041019labd7633m3.jpg
   caption: |
     <p><a href="penslender">Slender penaid prawns</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/penspeckled/091106smkd3846m3.jpg
   caption: |
     <p><a href="penspeckled">Speckled penaeid prawns</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
     <p>- Ong, Jin Eong & Gong, Wooi Khoon (eds.), 2001.</p>
     <p>The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Didier Millet, Malaysia.</p>
     <p>144 pp.</p>
@@ -54,7 +55,7 @@ page_images:
     <p>224 pp.</p>
     <p>- Debelius, Helmut, 2001.</p>
     <p>Crustacea</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>321 pp.</p>
@@ -63,11 +64,11 @@ page_images:
     <p>Williams.</p>
     <p>1996.</p>
     <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Sea Challengers.</p>
     <p>314pp.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -78,7 +79,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

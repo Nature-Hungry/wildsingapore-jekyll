@@ -1,9 +1,16 @@
 ---
-title: "Tripletail "
+title: 'Tripletail '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: triple, tail, tripletail, lobotes, surinamensis, lobotidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [7, 9, 25, 42, 47]
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
 family: Lobotidae
 genus: Lobotes
 species: surinamensis
@@ -17,17 +24,17 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
   caption: |
     <p>Tanah Merah, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090606tmftd3242m6l.jpg
   caption: |
     <p>Tanah Merah, Jun 09 What does it eat?</p>
     <p>It feeds on small fishes and crustaceans that live on the bottom.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/110221tmmn.jpg
   caption: |
     <p>Tanah Merah, Feb 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8708915959/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/lobotidae/surinamensis/090607tmftd3410m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,7 +80,7 @@ darker than body; caudal fin with yellow margin.
   
 **May be mistaken for** the [Brown
 sweetlips](../haemulidae/gibbosus).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** It is eaten in some
 places.

@@ -1,13 +1,18 @@
 ---
-title: "Curled-tip red seaweed "
+title: 'Curled-tip red seaweed '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: red, seaweed, weed, algae, portieria, hornemannii, rhizophyllidaceae, rhodophyta,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Rhizophyllidaceae
 genus: Portieria
 species: hornemannii*
-attributes: [52, 97, 98]
+attributes:
+- 52
+- 97
+- 98
 inat_id: 704150
 stateofmatter: Life
 kingdom: Plantae
@@ -18,28 +23,28 @@ subclass: Rhodymeniophycidae
 order: Gigartinales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
   caption: |
     <p>Cyrene, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9933m3b.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100810sngd9935m3b.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3.jpg
   caption: |
     <p>Sisters Island, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/120506sisd1142m3b.jpg
   caption: |
     <p>Tips are curled.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/portieria/100809cyrd9738m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +92,7 @@ there are 8 species of *Portieria*.
   
 **Features:** This seaweed is much studied because it contains a substance that may supress human tumors.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

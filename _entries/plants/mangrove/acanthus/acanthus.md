@@ -1,12 +1,17 @@
 ---
-title: "Jeruju "
+title: 'Jeruju '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: holly, acanthus, acanthaceae, mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Acanthaceae
 genus: Acanthus
-species: ""
+species: ''
 stateofmatter: Life
 kingdom: Plantae
 phylum: Tracheophyta
@@ -19,38 +24,38 @@ subtribe: Acanthinae
 inat_id: 70046
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
   caption: |
     <p>Sometimes the same plant may have spiky as well as smooth leaves.</p>
     <p>Kranji Nature Trail, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8345m3.jpg
   caption: |
     <p>Exploded fruit capsule.</p>
     <p>Kranji Canal, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/130102kntd3007m3.jpg
   caption: |
     <p>Flower structure to allow the flower to pick up pollen from insect visitors before deposting pollen as they depart.</p>
     <p>Kranji Nature Trail, Jan 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090913kntd0812m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090322krjd8344m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6092m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6092m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090816ubind9154m6la.jpg
   caption: |
     <p>Sometimes scrambling up trees.</p>
     <p>Pulau Ubin, Aug 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acanthus/acanthus/090125kntd6093m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -151,7 +156,7 @@ and *A. volubilis* are listed as 'Vulnerable' in the Red List
 of threatened plants of Singapore.
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
   

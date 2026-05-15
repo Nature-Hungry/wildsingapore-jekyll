@@ -1,11 +1,12 @@
 ---
 title: Sweetlips
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sweetlips, fish, haemulidae, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Haemulidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49263
 stateofmatter: Life
@@ -17,16 +18,16 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
   caption: |
     <p><a href="gibbosus.htm">Brown sweetlips</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/chaetodonoides/111030skdd3323m3.jpg
   caption: |
     <p><a href="chaetodonoides.htm">Harlequin sweetlips</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/pictum/120410chgd9036m3.jpg
   caption: |
     <p><a href="pictum.htm">Painted sweetlips</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/haemulidae/gibbosus/090806tmd8315m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -85,7 +86,7 @@ on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

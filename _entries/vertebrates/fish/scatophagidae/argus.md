@@ -1,9 +1,15 @@
 ---
 title: Spotted scat
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spotted, scat, fish, scatophagus, argus, scatophagidae, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [7, 9, 25, 42, 47]
+attributes:
+- 7
+- 9
+- 25
+- 42
+- 47
 family: Scatophagidae
 genus: Scatophagus
 species: argus
@@ -17,35 +23,35 @@ superorder: Acanthomorpha
 order: Acanthuriformes
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
   caption: |
     <p>Chek Jawa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/100602tmd5032.jpg
   caption: |
     <p>Tanah Merah, May 10 What does it eat?</p>
     <p>It eats detritus and algae from the sea bottom as well as worms, insects and small crustaceans.</p>
     <p>It also eats droppings of other animals including ours.</p>
     <p>Its scientific name 'scatophagus' means 'shit-eater'.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/140616bbrl.jpg
   caption: |
     <p>Beting Bronok, Jun 14Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.751583111559750.1073741836.109257872458947/751584771559584/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/160706skdlks4.jpg
   caption: |
     <p>Pulau Sekudu, Jul 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/baby-knobblies-at-pulau-sekudul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk2m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-listl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/091008tmjk3m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/10/tanah-merah-add-stingray-to-listl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/161017wcpsbr.jpg
   caption: |
     <p>Juvenile.</p>
     <p>West Coast Park, Oct 16Photo shared on the Singapore Biodiversity Records</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/200707hntjt3.jpg
   caption: |
     <p>Pulau Hantu, Jul 20Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10157563299803576&set=pcb.10157563301188576&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scatophagidae/argus/031012cjad0011m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -99,7 +105,7 @@ or greenish with dark round spots on the sides. Juveniles have a
 few large roundish blotches about the size of the eye with 5-6 broad,
 dark vertical bars and reddish upperside. In large adults, the spots may be faint.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Spotted scats are
 a popular catch among anglers. They are also marketed fresh and

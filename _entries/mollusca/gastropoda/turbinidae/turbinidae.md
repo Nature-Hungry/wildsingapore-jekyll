@@ -1,11 +1,12 @@
 ---
-title: "Turban snails "
+title: 'Turban snails '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: turban, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 86122
 stateofmatter: Life
@@ -17,59 +18,59 @@ order: Trochida
 superfamily: Trochoidea
 updated: Oct 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fnggastropods.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2101m3.jpg
   caption: |
     <p>Sisters Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/111002sisd2100m3.jpg
   caption: |
     <p>Two different kinds of turban snails.</p>
     <p>More easily distinguished by their operculum.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/120620sntd5829m3.jpg
   caption: |
     <p>Sometimes, only the operculum is seen on the shore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/120722cyrd8426m3.jpg
   caption: |
     <p>Spurred turban snail Cyrene Reef, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/091008tmd2543m3.jpg
   caption: |
     <p>Dolphin shell snail Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6474m3.jpg
   caption: |
     <p>Ribbed turban snail Labrador, May 05 Sometimes confused with the <a href="../trochidae/trochidae.htm">Top shell snail</a> (Family Trochidae) has a more pyramidal shell and a thin operculum made of a horn-like material.</p>
     <p>While the turban shell snail has a shell with more distinct whorls and a thick, chalky operculum.</p>
     <p>Here's more on <a href="../topturban.htm">how to tell apart turban and top shell snails</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3a.jpg
   caption: |
     <p><a href="intercostalis.htm">Ribbed turban snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6469m3b.jpg
   caption: |
     <p>Operculum smooth, green centre with white and yellow margins,</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/intercostalis/050513labg6477m3a.jpg
   caption: |
     <p>Spiral ribs smooth without scales.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3a.jpg
   caption: |
     <p><a href="bruneus.htm">Dwarf turban snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9445m3b.jpg
   caption: |
     <p>Operculum bumpy, green centre with white and greyish margins.</p>
     <p>No yellow.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/bruneus/080208hntd9446m3b.jpg
   caption: |
     <p>Spiral ribs rough with tiny scales.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/angaria/100602tmd5119m3.jpg
   caption: |
     <p><a href="angaria.htm">Dolphin snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/calcar/090308blyd7605m3.jpg
   caption: |
     <p><a href="calcar.htm">Spurred turban snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
   caption: |
     <p><a href="petholatus.htm">Tapestry turban snail</a></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +81,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

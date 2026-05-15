@@ -1,57 +1,58 @@
 ---
 title: Marine isopods
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: isopod, crustacea, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
   caption: |
     <p>Some unidentified beach isopods swarming over rotting fruit.</p>
     <p>East Coast, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5267m3.jpg
   caption: |
     <p>Sisters Island, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110123sisd5273m3.jpg
   caption: |
     <p>Sisters Island, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/110715cyrd6725m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m6l.jpg
   caption: |
     <p>Fish isopod.</p>
     <p>Chek Jawa, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3.jpg
   caption: |
     <p>Chek Jawa, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130721cjd9586m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m6.jpg
   caption: |
     <p>Fish isopod.</p>
     <p>Terumbu Pempang Tengah, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/130427tptd5711m3a.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/121029rmbr1.jpg
   caption: |
     <p>12 Oct, photo from <a href="https://www.facebook.com/rafflesmuseum/photos/a.177299485654641/460209304030323/?type=3&theater">Raffles Museum of Biodiversity Research</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/081016cyrmn.jpg
   caption: |
     <p>Cyrene Reef, Aug 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2946766671/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/isopoda/isopoda/090820ecpd9495m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -93,7 +94,7 @@ are terrestrial (these are usually called wood lice or pill bugs).
 Most marine isopods are tiny (5-15mm long). But one deep sea isopod *Bathynomus giganteus* can grow to 40cm long! Many may be parasites
 on other marine creatures.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 **Features:** 1cm or less.

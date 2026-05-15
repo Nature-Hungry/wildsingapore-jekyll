@@ -1,9 +1,18 @@
 ---
 title: Tiny maretia heart urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida, echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: heart, urchin, maretia, planulata, maretiidae, spatangidae, spatangoida,
+  echinoidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 92, 93, 94]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 92
+- 93
+- 94
 family: Maretiidae
 genus: Maretia
 species: planulata*
@@ -21,43 +30,43 @@ suborder: Brissidina
 superfamily: Spatangoidea
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3b.jpg
   caption: |
     <p>A few long banded spines, many more short spines.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6364m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6364m3.jpg
   caption: |
     <p>This one seemed to have popped out of the sand, leaving a hole of the same shape.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6370m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6370m3.jpg
   caption: |
     <p>Side view.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6368m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6368m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/120508skdjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/120508skdjk1m3.jpg
   caption: |
     <p>Pulau Sekudu, May 12Photo shared by James Koh on <a href="http://singaporenature.wordpress.com/2012/05/08/120508-sekudu/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/180301cyll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/180301cyll2.jpg
   caption: |
     <p>Cyrene Reef, Apr 18Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1694014063955259&set=a.1694010773955588&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp17m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp17m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp18m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090208smklksp18m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/02/first-2009-semakau-guided-walkl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/200111smksjll3b.jpg
   caption: |
     <p>Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10156995139506295&set=a.10156995136911295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/220201brklks10.jpg
   caption: |
     <p>Pulau Berkas, Feb 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159700482923158&set=a.10159700487188158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/hearturchin/planulata/090207smkd6372m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -98,7 +107,7 @@ mostly white. The sparse long spines directed backwards and are banded
 orange and white, while there are more white short spines. The petaloid
 is brownish with brownish patches on the upperside. On the underside,
 there is a pale orange patten of five petals around the mouth.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

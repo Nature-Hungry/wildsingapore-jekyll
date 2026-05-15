@@ -1,9 +1,14 @@
 ---
 title: Blue-spotted stingray
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blue, spotted, sting, ray, stingray, neotrygon, dasyatis, kuhlii, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blue, spotted, sting, ray, stingray, neotrygon, dasyatis, kuhlii, fish,
+  rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 118]
+attributes:
+- 25
+- 47
+- 118
 family: Dasyatidae
 genus: Neotrygon
 species: kuhlii
@@ -19,27 +24,27 @@ order: Myliobatiformes
 subfamily: Neotrygoninae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
   caption: |
     <p>East Coast PCN, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155257710348158.1073741940.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m6l.jpg
   caption: |
     <p>Body kite shaped with rounded snout.Black-and-white bands on the tail.</p>
     <p>Changi, Dec 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3c.jpg
   caption: |
     <p>Blue spots are tiny and sparse.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3d.jpg
   caption: |
     <p>Dark 'mask' across the eyes</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/060430skdd1550m3a.jpg
   caption: |
     <p>A gathering of Blue-spotted stingrays and  <a href="walga">Mangrove whiprays</a> in a sandy lagoon.</p>
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170429epcnay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170429epcnay1.jpg
   caption: |
     <p>East Coast PCN, Apr 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10210451271050324&set=a.10210451242049599&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/170428ecpcnlks8.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +97,7 @@ The [Blue-spotted fantail ray](lymma) (*Taeniura
 lymma*) has bright and prominent spots and is more commonly seen
 near reefs.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

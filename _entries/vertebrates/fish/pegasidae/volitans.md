@@ -1,9 +1,17 @@
 ---
 title: Slender seamoth
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: slender, seamoth, moth, robin, fish, pegasus, volitans, pegasidae, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 74]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 74
 family: Pegasidae
 genus: Pegasus
 species: volitans
@@ -18,75 +26,75 @@ order: Syngnathiformes
 suborder: Dactylopteroidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
   caption: |
     <p>Changi, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100429prpd1875m6l.jpg
   caption: |
     <p>Pasir Ris, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgd2165m6l.jpg
   caption: |
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/050524cftg6552m3.jpg
   caption: |
     <p>Changi, May 05 Seamoth babies: Seamoths are believed to have social behaviour and form monogamous pair bonds.</p>
     <p>Unlike seahorses, they don't brood their young.</p>
     <p>They spawn in open water near the surface, and the juveniles may float on open waters for some time before settling down in a sheltered place near the shore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/200125prpAky2.jpg
   caption: |
     <p>Pasir Ris Park, Jan 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163513744165112&set=a.10163513743360112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/141223tushpy1m3.jpg
   caption: |
     <p>Tuas, Dec 14Photo shared by Heng Pei Yan on <a href="http://peiyansesarma.blogspot.sg/2014/12/first-visit-to-tuas-merawangl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160110cjmn.jpg
   caption: |
     <p>Chek Jawa, Jan 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/40986334251/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/120801chgmn.jpg
   caption: |
     <p>Changi, Aug 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7733251838/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks2m3.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/080506chgtch.jpg
   caption: |
     <p>Changi, May 08Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/2471151220/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110519chglks1m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/changi-shore-is-packed-with-lifel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/090807tmjk6m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishesl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180812nsrtch3.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734551968713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/240212sjimn2.jpg
   caption: |
     <p>St John's Island, Feb 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10160067037348660&set=a.10160067038553660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100301hntjk.jpg
   caption: |
     <p>Pulau Hantu, Mar 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4395172807/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/150605kusmn.jpg
   caption: |
     <p>Kusu Island, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/18631372648/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/100912kuslks1m6la.jpg
   caption: |
     <p>Kusu Island, Sep 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/09/kusu-island-anemone-cityl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/110830cyrlks.JPG
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6119783673/in/album-72157607718672165/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/180419cyray1.jpg
   caption: |
     <p>Cyrene Reef, Apr 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213182027397526&set=a.10211347438093940&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/230423cyrlks2.jpg
   caption: |
     <p>Cyrene Reef, Apr 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160612790848158&set=a.10160612798858158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/190322smksay1.jpg
   caption: |
     <p>Pulau Semakau South, Mar 19Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10215509896192791&set=a.10210205888515914&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/160208smkstch4.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10153934852983713.1073742004.619308712&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pegasidae/volitans/030812chgd0049.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -160,7 +168,7 @@ A study of captive specimens observed the fish to shed its skin in
 one piece with a rapid jump, to get rid of unwanted parasites or encrusting
 algae on their skin. One species can bury themselves in the sand and
 change colours to match their surroundings.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **What do they eat?** They are predators,
 feeding on tiny creatures on the sea bottom. These are sucked up with

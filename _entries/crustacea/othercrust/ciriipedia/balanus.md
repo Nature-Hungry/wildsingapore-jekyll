@@ -1,11 +1,12 @@
 ---
 title: Acorn barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: acorn, barnacle, balanus, cirripedia, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Balanidae
 genus: Balanus
-species: ""
+species: ''
 attributes: []
 inat_id: 49129
 stateofmatter: Life
@@ -22,49 +23,49 @@ order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3a.jpg
   caption: |
     <p>Acorn barnacles on a seawall.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050108cjd9209m3a.jpg
   caption: |
     <p>On a rock</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160110cjo1100049m3b.jpg
   caption: |
     <p>On mangrove roots.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/090622chgd4692m3a.jpg
   caption: |
     <p>On a living <a href="../../crab/portunidae/pelagicus">flower crab</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/grapsidae/metopograpsus/090820ecpd9482m3a.jpg
   caption: |
     <p>On a living <a href="../../crab/grapsidae/metopograpsus">Purple climber crab</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3.jpg
   caption: |
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050823chgg2303m3a.jpg
   caption: |
     <p>Acorn barnacles on a living snail.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/150619sntmn.jpg
   caption: |
     <p>Sentosa, Jun 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/20788145149/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/160705ecplks4a.jpg
   caption: |
     <p>East Coast Park, Jul 16 on a sea fan.Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/07/my-favourites-on-east-coasts-reclaimedl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/balanus/050510tusg6179m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -107,7 +108,7 @@ it is drier.
 **Features:** To about 1 cm across,
 conical outer shell made up of several wall plates.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

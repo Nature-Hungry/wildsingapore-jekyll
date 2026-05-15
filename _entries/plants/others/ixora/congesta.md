@@ -1,9 +1,14 @@
 ---
 title: Jarum-jarum
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ixora, congesta, rubiaceae, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ixora, congesta, rubiaceae, plant, bush, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Rubiaceae
 genus: Ixora
 species: congesta
@@ -18,40 +23,40 @@ subfamily: Ixoroideae
 tribe: Ixoreae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1830m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1827m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1832m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1832m6l.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1846m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3.jpg
   caption: |
     <p>Chek Jawa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4614m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4610m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/091128cjd4610m6l.jpg
   caption: |
     <p>Chek Jawa, Nov 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ixora/congesta/090926cjd1848m6la.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -96,7 +101,7 @@ ripening red then purple or black, with 1-2 large seeds.
  **Human uses:** Burkill indicates that there are no known uses
 for this plant.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

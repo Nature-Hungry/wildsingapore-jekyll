@@ -1,13 +1,17 @@
 ---
 title: Round sea grapes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: round, grapes, caulerpa, lentillifera, caulerpaceae, seaweed, weed, green,
+  chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: lentillifera*
-attributes: [97, 115]
+attributes:
+- 97
+- 115
 inat_id: 472002
 stateofmatter: Life
 kingdom: Plantae
@@ -16,52 +20,52 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3a.jpg
   caption: |
     <p>Tightly packed 'grapes' form a sausage-like shape.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100403tbbd0650m3a.jpg
   caption: |
     <p>Constriction where the 'grape' attached to the stalk.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/090513labd1640m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3.jpg
   caption: |
     <p>Pulau Semakau, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/080510smkd3052m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100810sngd9919m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8604m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100130brkd8605m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100601slud4773m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100811slud0078m3b.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/lentillifera/100519tsmc4126m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -125,7 +129,7 @@ and rheumatism. However, some *Caulerpa* species produce toxins
 to protect themselves from browsing fish. This also makes them toxic
 to humans.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

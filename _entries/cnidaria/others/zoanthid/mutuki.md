@@ -1,9 +1,13 @@
 ---
 title: Broad zoanthid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: broad, colonial, anemone, zoanthid, mutuki, palythoa, zoanthidae, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88]
+attributes:
+- 6
+- 88
 family: Zonathidae
 genus: Palythoa
 species: mutuki
@@ -17,78 +21,78 @@ order: Zoantharia
 suborder: Brachycnemina
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
   caption: |
     <p>Labrador, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3b.jpg
   caption: |
     <p>Oral disk has furrows.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/080621labd6003m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/080621labd6003m3a.jpg
   caption: |
     <p>Long body column that is rough to the touch.</p>
     <p>Labrador, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050822cjd5877m3.jpg
   caption: |
     <p>At low tide with their tentacles retracted they look like a clump of sausages.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/060728sisd5346m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/060728sisd5346m3.jpg
   caption: |
     <p>Sisters Island, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/060728sisd5346m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/060728sisd5346m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050410kusg4283m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050410kusg4283m3.jpg
   caption: |
     <p>Kusu Island, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050410kusg4283m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050410kusg4283m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/090824tusd0027m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/090824tusd0027m3.jpg
   caption: |
     <p>Tuas, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/090824tusd0027m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/090824tusd0027m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/110814smkd8952m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/110814smkd8952m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/110814smkd8952m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/110814smkd8952m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091204pawd5255m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091204pawd5255m3a.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091205sudd5471m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091205sudd5471m3a.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100601slud4781m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100601slud4781m3a.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100601slud4787m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100601slud4787m3a.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100811slud0074m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100811slud0074m3a.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100811slud0063m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100811slud0063m3a.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100130brkd8434m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100130brkd8434m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100530tbkd4289m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100530tbkd4289m3a.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100613sngd5486m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/100613sngd5486m3a.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091231biod7090m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091231biod7090m3a.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091231biod6935m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/091231biod6935m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/zoanthid/mutuki/050708labg9179m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -138,7 +142,7 @@ that radiate from the mouth to the edge of the disk. Sometimes with
 one white furrow so the disk appears to have one split. Relatively
 short tapered tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

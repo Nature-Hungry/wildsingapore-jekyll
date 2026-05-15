@@ -1,9 +1,19 @@
 ---
 title: Durian sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber,  holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: selenka, stichopus, horrens, stichopodidae, cucumber, seacucumber,  holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Stichopodidae
 genus: Stichopus
 species: horrens*
@@ -17,37 +27,37 @@ subclass: Actinopoda
 order: Synallactida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m3.jpg
   caption: |
     <p>Close up of 'thorns'</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m3.jpg
   caption: |
     <p>Tube feet on the flat underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8115m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/100617tbtch9m3.jpg
   caption: |
     <p>Terumbu Bemban, Jun 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/patch-reef-hoppingl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/230902smkntl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/230902smkntl1.jpg
   caption: |
     <p>Pulau Semakau North, Sep 23Photo shared by Tammy Lim on <a href="https://www.facebook.com/photo/?fbid=10160810229484264&set=a.10160810211744264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks.JPG
   caption: |
     <p>Pulau Semakau, Oct 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5067120170/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/101009smklks3.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks1.JPG
   caption: |
     <p>Pulau Semakau, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25548557875/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/150719smklks3.JPG
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/horrens/110802smkd8110m6l.jpg
 ---
 
 
@@ -83,7 +93,7 @@ it is removed from water or otherwise stressed.
 **Baby cucumbers:** It reaches sexual maturity at 16-18cm. It
 has also been known to undergoe asexual reproduction by dividing into two (fission).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

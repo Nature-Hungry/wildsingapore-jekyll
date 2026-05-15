@@ -1,7 +1,9 @@
 ---
 title: Brain anchor coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: brain, anchor, euphyllia, ancora, euphylliidae, caryophyliidae, coral, hard,
+  scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Euphylliidae
@@ -16,64 +18,64 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
   caption: |
     <p>Terumbu Raya, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3b.jpg
   caption: |
     <p>Tentacles with U-shaped tips</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0655m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
   caption: |
     <p>Brain-like meandering valleys.</p>
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3a.jpg
   caption: |
     <p>Wide, deep gaps between corallite walls.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/150606tryo6060262m3.jpg
   caption: |
     <p>Fanworms in a living colony.</p>
     <p>Terumbu Raya, Jun 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/080830kusd9987m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/090209tryd6798m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7819m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7821m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110323tsmkd7821m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100515sjilks5m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/colourful-st-johns-reef.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3.jpg
   caption: |
     <p>St.</p>
     <p>John's</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120408sjilks2m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2012/04/easter-sunday-at-st-johns-island.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120721tptlks.JPG
   caption: |
     <p>Terumbu Pempang Laut, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8519769935/in/album-72157626616274147/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/120411thntsy3m3.jpg
   caption: |
     <p>Terumbu Hantu, Apr 12Photo shared by Sam Yeo on <a href="https://www.facebook.com/media/set/?set=a.10150809396683140.474611.580878139&type=1">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/110324tryas07803m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -129,7 +131,7 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

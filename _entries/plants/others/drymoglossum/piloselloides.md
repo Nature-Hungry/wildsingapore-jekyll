@@ -1,9 +1,15 @@
 ---
-title: "Dragon scales "
+title: 'Dragon scales '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "drymoglossum, piloselloides, polypodiaceae, fern, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: drymoglossum, piloselloides, polypodiaceae, fern, plant, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [8, 18, 21, 36, 96]
+attributes:
+- 8
+- 18
+- 21
+- 36
+- 96
 family: Polypodiaceae
 genus: Drymoglossum
 species: piloselloides
@@ -18,25 +24,25 @@ subfamily: Platycerioideae
 inat_id: 345927
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
   caption: |
     <p>Woodlands Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3a.jpg
   caption: |
     <p>Brown spores on the fertile frond.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3.jpg
   caption: |
     <p>Fertile frond.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9129m3b.jpg
   caption: |
     <p>Sterile frond.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8055m6l.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/110328mndd8056m6l.jpg
   caption: |
     <p>Mandai, Mar 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/drymoglossum/piloselloides/090408wdld9130m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +98,7 @@ trunks and branches of trees by creating more conducive micro-habitats.
 to Giersen, the leaves are used to treat rashes, whilst a decoction
 is used in a lotion for smallpox, and used in a poultice for headaches.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

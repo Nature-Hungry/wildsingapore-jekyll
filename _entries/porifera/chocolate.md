@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,"
+keywords: chocolate, sponge, spheciospongia, vagabunda, clionaidae, porifera, field,
 layout: entry
 shape: blobs
 title: Chocolate sponge
@@ -10,77 +10,77 @@ species: cf.
 attributes: []
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg
   caption: |
     <p>The sponge can be found over a large area.</p>
     <p>Terumbu Pempang Darat, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3.jpg
   caption: |
     <p>Sentosa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/050808sntg0806m3a.jpg
   caption: |
     <p>Low irregular mass with lumps growing on the sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/060211hntd6778m3a.jpg
   caption: |
     <p>Stout cones on an irregular mass.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/051203smkg3180m3a.jpg
   caption: |
     <p>Large globular lump on a stalk.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinysponge/040730skdd3214m3a.jpg
   caption: |
     <p>Various kinds of <a href="../echinodermata/ophiuroidea/tinysponge.htm">brittle stars</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8033m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8034m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/spionidae/110731tryd8034m3a.jpg
   caption: |
     <p><a href="../worm/polychaeta/spionidae.htm">Spionid sponge worms</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3.jpg
   caption: |
     <p>Sentosa, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/040521sntad0105m3d.jpg
   caption: |
     <p>Tiny <a href="../echinodermata/ophiuroidea/tinysponge.htm">brittle stars</a> and <a href="../crustacea/othercrust/ciriipedia/sponge.htm">sponge barnacles</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091205sudd5557m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/091205sudd5557m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8445m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8445m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8638m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100130brkd8638m3b.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100131slud8755m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/091204pawd5290m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100811slud0094m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100810sngd9991m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100810sngd9991m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/chocolate/100629tpdd7404m6l.jpg
 ---
 
 
@@ -119,7 +119,7 @@ feeding 'feet' of these barnacles.Tiny [spinoid
 worms](../worm/polychaeta/spionidae.htm) may encrust the outer surface of the sponge, spacing themselves
 out regularly, at a distance equalling the length of their tentacles.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

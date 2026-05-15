@@ -1,9 +1,15 @@
 ---
 title: Smallhead dragonet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dragonet, fish, callionymidae, callionymus, erythraeus, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 25, 47, 49, 81]
+attributes:
+- 9
+- 25
+- 47
+- 49
+- 81
 family: Callionymidae
 genus: Callionymus
 species: erythraeus
@@ -18,35 +24,35 @@ order: Syngnathiformes
 suborder: Callionymoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
   caption: |
     <p>Changi, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6828m6l.jpg
   caption: |
     <p>Male.</p>
     <p>Changi, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/110519chgd2047m6l.jpg
   caption: |
     <p>Male.</p>
     <p>Changi, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/091020chgd2942m3a.jpg
   caption: |
     <p>Underside of a dead specimen.</p>
     <p>Tanah Merah, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/200622chgdc1.jpg
   caption: |
     <p>Changi, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2912101548906602&set=a.2912214035562020&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/120801chgmn.jpg
   caption: |
     <p>Tiny, about 1cm.</p>
     <p>Changi, Aug 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7729337268/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/230607chgemn1.jpg
   caption: |
     <p>Changi East, Jun 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10159643137598660&set=a.10159640772768660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/180812nsrtlks7.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550000353158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/090709chgd6825m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -101,7 +107,7 @@ lack this.
   
 **Sometimes mistaken** for [flatheads](../platycephalidae/platycephalidae) (Family Platycephalidae). Here's more on [how
 to tell apart fish with flat heads](../cfflatheads).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,12 @@
 ---
 title: Purple-and-white ring  coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, hard, faviidae, merulinidae, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Faviidae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 503799
@@ -16,52 +18,52 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
   caption: |
     <p>Sentosa, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3.jpg
   caption: |
     <p>Kusu Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/050528kusg7048m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3.jpg
   caption: |
     <p>Sisters Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/031224sised0098m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3.jpg
   caption: |
     <p>Kusu Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/040606kusd0204m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5504m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5503m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/091205sudd5505m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/faviidae/ring/ringpurplewhite/070420sntrd0236m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../index.html)
 
@@ -110,7 +112,7 @@ The corals on this page may not actually be of the same species. It's
 hard to distinguish them without close examination of small features
 and they are grouped here together for convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

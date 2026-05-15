@@ -1,9 +1,14 @@
 ---
 title: Glass anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "glass, anemone, dofleinia, armata, actiniidae, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: glass, anemone, dofleinia, armata, actiniidae, anthozoa, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [6, 88, 113]
+attributes:
+- 6
+- 88
+- 113
 family: Actiniidae
 genus: Dofleinia
 species: armata
@@ -18,53 +23,53 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
   caption: |
     <p>Beting Bronok, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3a.jpg
   caption: |
     <p>Rings of long tentacles and short tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3.jpg
   caption: |
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/050821bbg1882m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3.jpg
   caption: |
     <p>Beting Bronok, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/060625bbd3345m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/121216ubnlks.JPG
   caption: |
     <p>Pulau Ubin, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8524190136/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/250627bbky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/250627bbky3.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10172409988145112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210531chg6jt2.jpg
   caption: |
     <p>Changi Carpark 6, May 21Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo/?fbid=10159364078628119&set=a.10159364135288119">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/190801chgjll1.jpg
   caption: |
     <p>Caught a small fish!</p>
     <p>Changi, Aug 19Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10156575898416295&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/200706skdlks1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431581733158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/180616bbtch1.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156581479058713&set=a.10156581443943713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/230804ecpcnky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/230804ecpcnky1.jpg
   caption: |
     <p>East Coast Park (PCN), Aug 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168623895785112&set=a.10168623886845112">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/210529ecpgtch4.jpg
   caption: |
     <p>East Coast Park (G), May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo?fbid=10159487217113713&set=a.10159487267278713">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/241019lazlks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/241019lazlks9.jpg
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/dofleinia/100614bbd5984m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -120,7 +125,7 @@ that is said to take months to heal.
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

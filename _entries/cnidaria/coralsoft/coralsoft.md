@@ -1,11 +1,12 @@
 ---
-title: "Soft corals "
+title: 'Soft corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, soft, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: coral, soft, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Nephtheidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 141945
 stateofmatter: Life
@@ -16,84 +17,84 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Aug 2025
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcoralsoft.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/neppink/080705bbd6921m3b.jpg
   caption: |
     <p>Polyps of a <a href="neppink.htm">flowery soft coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/060528bbd2416m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/candelabra/111222tusd4656m3.jpg
   caption: |
     <p>Polyps of a <a href="../others/gorgonacea/gorgonacea.htm">sea fan</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/110802smkd8149m3a.jpg
   caption: |
     <p>Polyps of a <a href="alcyoniidae.htm">leathery coral</a> What do they eat?</p>
     <p>Most soft corals feed on plankton, some also feed on finer particles.</p>
     <p>Like other cnidarians, soft coral polyps have tentacles with stingers to capture food.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/tinycolourful/080507skdd2477m3.jpg
   caption: |
     <p><a href="../../echinodermata/ophiuroidea/tinycolourful.htm">Tiny colourful brittle stars</a> are sometimes seen in soft corals.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/softcoral/120508skdd2250m3.jpg
   caption: |
     <p>Often seen in a pair.</p>
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepspiky/031126tusad0068m3.jpg
   caption: |
     <p>Tiny <a href="../../crustacea/othercrust/shrimp/rednose.htm">red nose shrimp</a> are sometimes seen in numbers in flowery soft coral.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letomelette/050807sjig0617m3.jpg
   caption: |
     <p><a href="alcyoniidae.htm">Leathery soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/nepasparagus/040411hntd0107m3.jpg
   caption: |
     <p><a href="nephtheidae.htm">Flowery soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/others/040604bbad0081m3.jpg
   caption: |
     <p><a href="../others/gorgonacea/gorgonacea.htm">Sea fans</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
   caption: |
     <p><a href="knobbly.htm">Knobbly soft corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/060402ulrd1105m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/heliopora/heliopora/060402ulrd1105m3.jpg
   caption: |
     <p><a href="../others/heliopora/heliopora.htm">Blue corals</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/xenia/110802smkd8256m3.jpg
   caption: |
     <p><a href="xenia.htm">Xenia soft coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0759m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feafine/120124sisd5837m3b.jpg
   caption: |
     <p><a href="feafine.htm">Fine feathery soft coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabroad/050807sjig0760m3.jpg
   caption: |
     <p><a href="feabroad.htm">Broad feathery soft coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/feabrown/050329sntg3905m3b.jpg
   caption: |
     <p><a href="feabrown.htm">Brown feathery soft coral</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>T.F.</p>
     <p>H Publications.</p>
     <p>464 pp - Fabricius, Katharina and Philip Alderslade, 2001.</p>
     <p>Soft</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Australian Institute of Marine Science and the Museum and Art Gallery of the Northern Territoriy.</p>
@@ -102,13 +103,13 @@ page_images:
     <p>Fox, Robert D.</p>
     <p>Barnes.</p>
     <p>2004.Invertebrate</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
     <p>963 - Pechenik, Jan A., 2005.</p>
     <p>Biology</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>5th edition.</p>
@@ -129,12 +130,12 @@ page_images:
     <p>C.</p>
     <p>Wee, 1994.</p>
     <p>The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>The Nature Society (Singapore), Singapore.</p>
     <p>343 pp.</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -145,7 +146,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

@@ -1,12 +1,19 @@
 ---
 title: Razorfishes
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "razorfish, razor, fish, aeoliscus, strigatus, centriscidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: razorfish, razor, fish, aeoliscus, strigatus, centriscidae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Centriscidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 47247
 stateofmatter: Life
 kingdom: Animalia
@@ -18,83 +25,83 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg
   caption: |
     <p>In a group, head down.</p>
     <p>Pulau Hantu, Feb 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/120618tmnbd5248m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/120618tmnbd5248m3.jpg
   caption: |
     <p>Tanah Merah, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/120618tmnbd5248m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/120618tmnbd5248m3a.jpg
   caption: |
     <p>Hinged dorsal spine.</p>
     <p>Tiny, transparent fin.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/080523cyrd4056m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/080523cyrd4056m6l.jpg
   caption: |
     <p>Cyrene, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/230606cjky6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/230606cjky6.jpg
   caption: |
     <p>Chek Jawa, Jun 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168426582110112&set=a.10168426590055112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150619tuso6190042m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150619tuso6190042m3.jpg
   caption: |
     <p>One, next to a sea fan.</p>
     <p>Tuas, Jun 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/250401smknrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/250401smknrk1.jpg
   caption: |
     <p>Seen among spines of <a href="../../../echinodermata/echinoidea/urchin/diadema.htm">Diadema urchin</a>.</p>
     <p>Pulau Semakau North, Apr 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162278086662906&type=3&ref=embed_post">facebook</a>.</p>
     <p>What do they eat?</p>
     <p>Razorfishes eat tiny planktonic crustaceans and zoo plankton, sucking these up with the small toothless mouth.</p>
     <p>The mouth is at the tip of a long, tube-like snout.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/210626cjlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/210626cjlks2.jpg
   caption: |
     <p>Chek Jawa, Jun 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159298711378158&set=a.10159298723568158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/210626cjlks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/210626cjlks2a.jpg
   caption: |
     <p>Chek Jawa, Jun 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159298711428158&set=a.10159298723568158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/090807tmjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/090807tmjk5m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-more-and-more-fishes.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/091008tmmn3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/091008tmmn3m3.jpg
   caption: |
     <p>Tanah Merah, Oct 09Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4000725127/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/2007024pcnlks23.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/2007024pcnlks23.jpg
   caption: |
     <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482804018158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/250714srplvo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/250714srplvo3.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122111410316927700&type=3&ref=embed_post">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/110716kusjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/110716kusjk.jpg
   caption: |
     <p>Kusu Island, Jul 11Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/5942976086/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/190901labll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/190901labll1.jpg
   caption: |
     <p>Labrador, Sep 19Photo shared by Liz Lim on <a href="https://www.facebook.com/liz.lim.568/media_set?set=a.2478340892189235&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150830hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150830hntmn.jpg
   caption: |
     <p>Pulau Hantu, Aug 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/21050891195/in/album-72157657947312911/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/200707hntvc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/200707hntvc3.jpg
   caption: |
     <p>Pulau Hantu, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157778623307945&set=a.10157778621147945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150606trytch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/150606trytch3m3.jpg
   caption: |
     <p>Terumbu Raya, Jun 15Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153373106483713.1073741961.619308712&type=3&notif_t=mention">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/121115tsmklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/121115tsmklks.JPG
   caption: |
     <p>Terumbu Semakau, Nov 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8233797867/in/album-72157624104220316/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/2007025smknlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/2007025smknlks5.jpg
   caption: |
     <p>Pulau Semakau North, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158485854963158&set=a.10158485859383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/170514bbbtch4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/170514bbbtch4.jpg
   caption: |
     <p>Beting Bemban Besar, May 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155368581973713.1073742086.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/251008bbblvo5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/251008bbblvo5.jpg
   caption: |
     <p>Beting Bemban Besar, Oct 25Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122136761492927700&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/230806tbrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/230806tbrk2.jpg
   caption: |
     <p>Terumbu Bemban, Aug 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160653907722906&set=a.10160653901047906">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/centriscidae/centriscidae/060211hntg4683m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -141,7 +148,7 @@ dorsal spine is fixed and rigid. Razorfishes have fins, but these are tiny and t
 Here's more on [how to tell apart stick-like
 fishes](../cfstick.htm) commonly seen on our shores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,13 @@
 ---
-title: "Onch slugs "
+title: 'Onch slugs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pulmonata, pulmonate, slug, seaslug, onch, onchidium, peronium, onchidiidae,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Onchidiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 54928
 stateofmatter: Life
@@ -20,74 +22,74 @@ order: Systellommatophora
 superfamily: Onchidioidea
 updated: Jun 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngslugs.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
   caption: |
     <p>Pulau Sarimbun, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3a.jpg
   caption: |
     <p>Eyes on long thin stalks</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
   caption: |
     <p>Broad foot on the underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6623m3b.jpg
   caption: |
     <p>Leaving behind a grazed patch, and a trail of 'processed algae' Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/060714rlhg6624m3a.jpg
   caption: |
     <p>One pair of tentacles and a pair of oral flaps at the mouth on the underside.</p>
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/100726chgd9184m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0069m3.jpg
   caption: |
     <p><a href="bigpimply.htm">Big pimply onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0065m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/bigpimply/050723labg0065m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7003m3.jpg
   caption: |
     <p><a href="smooth.htm">Smooth little onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/smooth/050527srbg7006m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1053m3.jpg
   caption: |
     <p><a href="long.htm">Long onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1057m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/long/050809lckg1057m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0948m3.jpg
   caption: |
     <p><a href="griseum.htm">Orange-footed mangrove onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0951m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/griseum/050809lckg0951m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3712m3.jpg
   caption: |
     <p><a href="platyvindex.htm">Grey-footed mangrove onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/platyvindex/060627krjd3713m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6113m3.jpg
   caption: |
     <p><a href="ornate.htm">Ornate onch slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/onchidiidae/ornate/090125kntd6114m3.jpg
   caption: |
     <p></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -98,7 +100,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

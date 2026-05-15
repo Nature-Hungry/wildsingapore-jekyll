@@ -1,9 +1,15 @@
 ---
-title: "Yellow flame "
+title: 'Yellow flame '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yellow, flame, yellowflame, peltophorum, pterocarpum, fabaceae, leguminosae, caesalpiniaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yellow, flame, yellowflame, peltophorum, pterocarpum, fabaceae, leguminosae,
+  caesalpiniaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 37]
+attributes:
+- 18
+- 21
+- 36
+- 37
 family: Fabaceae
 genus: Peltophorum
 species: pterocarpum
@@ -17,61 +23,61 @@ order: Fabales
 subfamily: Caesalpinioideae
 updated: Aug 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
   caption: |
     <p>Growing at the base of</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7157m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7159m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/081206smkd2630m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/081206smkd2630m3.jpg
   caption: |
     <p>Growing</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/081206smkd2634m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/081206smkd2634m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090922sjid1567m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090922sjid1567m3.jpg
   caption: |
     <p>St.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090922sjid1566m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090922sjid1566m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8071m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8071m3.jpg
   caption: |
     <p>Chek</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8191m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8191m3.jpg
   caption: |
     <p>Lazarus, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/100124cjd8072m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8184m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8184m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8189m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/120407lazd8188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
@@ -91,7 +97,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -99,13 +105,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/peltophorum/pterocarpum/090711sjid7156m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -175,7 +181,7 @@ Tree status](http://www.nparks.gov.sg/cms/index.php?option=com_content&view=arti
 Hotel with a girth of 3.07m and height 20m; and at Renci Hospital
 car-park, Bassein Rd with a girth of 5.6m and height 25m.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

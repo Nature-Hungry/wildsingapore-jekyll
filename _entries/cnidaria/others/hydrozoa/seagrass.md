@@ -1,10 +1,11 @@
 ---
 title: Seagrass hydroid
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hydroid, hydrozoa, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
+family: ''
+genus: ''
 species: identification*
 attributes: []
 inat_id: 1
@@ -12,25 +13,25 @@ stateofmatter: Life
 kingdom: Animalia
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3a.jpg
   caption: |
     <p>On <a href="../../../plants/seagrass/enhalus">Tape seagrass</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/080208hntd9427m3a.jpg
   caption: |
     <p>On <a href="../../../plants/seagrass/enhalus">Tape seagrass</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/101011chgd2154m3a.jpg
   caption: |
     <p>On <a href="../../../plants/seagrass/ovalis">Spoon seagrass</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/seagrass/081213smkd3067m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -65,7 +66,7 @@ of seagrasses.
 **Features:** 0.5cm long or shorter.
 Growing in rows on the leaf blades of seagrasses. Usually translucent beige or white.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

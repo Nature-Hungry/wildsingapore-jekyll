@@ -1,11 +1,12 @@
 ---
 title: Jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: jellyfish, jelly, fish, jellies,scyphozoa, cnidaria, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cassiopeidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 128143
 stateofmatter: Life
@@ -18,43 +19,43 @@ suborder: Kolpophorae
 infraorder: Kampylomyaria
 updated: Aug 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
   caption: |
     <p>The Ribbon jellyfish has thin tentacles and thick ruffled long arms.</p>
     <p>Terumbu Semakau, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7815m3.jpg
   caption: |
     <p>Terumbu Semakau, Mar 11</p>
-- url: "https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg"
+- url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)") Don't play with jellyfish!</p>
     <p>Like other cnidarians, jellyfish can sting and some, very painfully.</p>
     <p>In the water, a jellyfish is translucent and easily overlooked, until you brush against one of its stinging arms with bare skin.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn5.jpg
   caption: |
     <p>Pulau Jong, Jun 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/160610jngmn4.jpg
   caption: |
     <p>Small fishes swimming near the jellyfish.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
   caption: |
     <p><a href="mangrove">Mangrove jellyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/fatarm/050426cftg5076m3.jpg
   caption: |
     <p><a href="catostylus">Fat-armed jellyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/050624tusg8515m3.jpg
   caption: |
     <p><a href="ribbon">Ribbon jellyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/upsidedown/080321smkd0421m3.jpg
   caption: |
     <p><a href="upsidedown">Upsidedown jellyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/huge/060516chgd2021m3.jpg
   caption: |
     <p><a href="huge">Huge jellyfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tusad0160m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/hydrozoa/thread/040409tusad0160m3.jpg
   caption: |
     <p><a href="../hydrozoa/thread">Thread-tentacled jellyfish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/ribbon/110323tsmkd7813m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -121,7 +122,7 @@ The body has eight-fold symmetry. Like other cnidarians, the jellyfish
 does not have an anus and wastes are eliminated through the same opening
 where food is taken in.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 The animal moves by contracting its bell. Some may have long thin

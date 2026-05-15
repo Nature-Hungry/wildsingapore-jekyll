@@ -1,9 +1,16 @@
 ---
 title: Peria laut
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "peria, laut, colubrina, asiatica, rhamnaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: peria, laut, colubrina, asiatica, rhamnaceae, creeper, plant, bush, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36, 121]
+attributes:
+- 18
+- 21
+- 35
+- 36
+- 121
 family: Rhamnaceae
 genus: Colubrina
 species: asiatica
@@ -16,43 +23,43 @@ order: Rosales
 inat_id: 51593
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
   caption: |
     <p>Pulau Semakau,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3b.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9855m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9854m6l.jpg
   caption: |
     <p>Pulau Hanu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9847m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9856m6l.jpg
   caption: |
     <p>Pulau Hanu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9853m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2670m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9857m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/090412hntd9858m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/110220lazd6241m3a.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -67,13 +74,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/colubrina/asiatica/081206smkd2624m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -138,7 +145,7 @@ drunk to alleviate stomach disorders. Medicinal oil is prepared from
 seeds along with other ingredients, which is used to treat rheumatism
 and numbness in adults and also in treating weak legs in children.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

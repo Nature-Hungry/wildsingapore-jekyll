@@ -1,7 +1,9 @@
 ---
 title: Elephant-nose plate
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: elephant, nose, plate, mycedium, elephantotus, merulinidae, pectiniidae,
+  coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Mycedium
@@ -16,46 +18,46 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
   caption: |
     <p>Terumbu Bemban, Apr 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tb.jpg
   caption: |
     <p>Terumbu Bemban, Jun 19</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/190607tbm3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks2.JPG
   caption: |
     <p>Tanah Merah, May 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25160885029/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/140518tmlks1a.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 22 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5020268444756558&set=a.5020288291421240">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/220618tmftdc4a.jpg
   caption: |
     <p>Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5020268444756558&set=a.5020288291421240">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8a.jpg
   caption: |
     <p>East Coast PCN, Jul 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/2007024pcnlks8b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16.jpg
   caption: |
     <p>Pulau Semakau East, Jun 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/260629smkelk16a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/mycedium/160410tbo14100193.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -90,7 +92,7 @@ seen?** This hard coral forms a thick plate with large bumps. It is rarely encou
   
 **Features:** Colonies 20-30cm. Encrusting plate, thick. Large cup-shaped corallites (about 1.5cm) that look like a nose. Polyp tentacles are only extended
 at night.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

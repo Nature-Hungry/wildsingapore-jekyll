@@ -1,7 +1,9 @@
 ---
 title: Banded-leg swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: banded, ring, leg, legged, swimming, crab, charybdis, annulata, portunidae,
+  decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Portunidae
 genus: Charybdis
@@ -26,28 +28,28 @@ subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
   caption: |
     <p>Sentosa, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/090820ecplkh1m3.jpg
   caption: |
     <p>East Coast, Aug 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/08/new-east-coast-shore-new-surprisesl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/110504nsrccd0574m3.jpg
   caption: |
     <p>East Coast, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks1.JPG
   caption: |
     <p>Changi, Jun 16</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27215282870/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/160606chglks3.JPG
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/noid/annulata/080719sntd7851m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +94,7 @@ greenish grey, orange. The legs have alternating bands of dark brown
 and bright blue. The tips of the pincers are also banded dark brown
 and bright blue. There is a fine network of brown lines on the pincers.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

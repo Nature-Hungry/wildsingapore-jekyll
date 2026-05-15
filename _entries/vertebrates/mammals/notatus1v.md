@@ -1,7 +1,9 @@
 ---
-title: "Plantain squirrel (Callosciurus notatus) at the Shores of Singapore"
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: Plantain squirrel (Callosciurus notatus) at the Shores of Singapore
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: plantain, squirrel, callosciurus, notatus, sciuridae, vertebrate, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 ---
 [![](../../../Templates/wildfactsheet3.gif)](../../indexl)

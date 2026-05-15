@@ -1,9 +1,17 @@
 ---
 title: Two-toned salmacis urchin
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: white, urchin, salmacis, bicolor, echinoid, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 92, 93, 94]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 92
+- 93
+- 94
 family: Temnopleuridae
 genus: Salmacis
 species: bicolor
@@ -20,22 +28,22 @@ order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
   caption: |
     <p>East Coast Park, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
   caption: |
     <p>Long banded spines:</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3c.jpg
   caption: |
     <p>Close up of spines and tube feet.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
   caption: |
     <p>Mouth on underside.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,7 +80,7 @@ was seen once along an East Coast Park shore that has since been affected by coa
 on the upper side are sharp. Spines on the underside have spade-like
 tips. It has long tube feet.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

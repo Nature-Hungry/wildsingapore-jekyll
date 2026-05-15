@@ -1,9 +1,15 @@
 ---
 title: Raffles' pitcher plant
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pitcher, pitcherplant, nepenthes, rafflesiana, nepenthaceae, climber, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pitcher, pitcherplant, nepenthes, rafflesiana, nepenthaceae, climber, plant,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Nepenthaceae
 genus: Nepenthes
 species: rafflesiana
@@ -16,30 +22,30 @@ order: Caryophyllales
 inat_id: 123555
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
   caption: |
     <p>Sentosa, Jun</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8810m6l.jpg
   caption: |
     <p>Leaf modified into a pitcher.</p>
     <p>Sentosa, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3e.jpg
   caption: |
     <p>Female flowers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3f.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/070408sntg8586m3f.jpg
   caption: |
     <p>Sentosa, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/101223sntd3927m6l.jpg
   caption: |
     <p>Male flowers.</p>
     <p>Sentosa, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3.jpg
   caption: |
     <p>Ripe capsules split, releasing thread-like seeds..</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090809sjid8806m3c.jpg
   caption: |
     <p>St John's Island, Aug 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
@@ -55,13 +61,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/nepenthes/rafflesiana/090609sntd3596m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -146,7 +152,7 @@ The stem may be used to treat coughs and fevers.
 is listed as 'Vulnerable' in the Red List of threatened plants of
 Singapore.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

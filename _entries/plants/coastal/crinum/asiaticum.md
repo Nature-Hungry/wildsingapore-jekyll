@@ -1,9 +1,15 @@
 ---
-title: "Bakung "
+title: 'Bakung '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: spider, lily, crinum, asiaticum, amaryllidaceae, creeper, plant, bush, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 53]
+attributes:
+- 18
+- 21
+- 36
+- 53
 family: Amaryllidaceae
 genus: Crinum
 species: asiaticum
@@ -19,32 +25,32 @@ subtribe: Crininae
 inat_id: 161124
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090307blyd7421m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/110317mndd7375m3.jpg
   caption: |
     <p>Wild plant.</p>
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3322m3.jpg
   caption: |
     <p>Chek Jawa, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090829cjf3323m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7063m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090818sbwrd7494m6l.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
@@ -56,7 +62,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -71,7 +77,7 @@ page_images:
     <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/crinum/asiaticum/090214sbwrd7060m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -134,7 +140,7 @@ Mixed with honey they are applied to wounds and abscesses.
 It is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

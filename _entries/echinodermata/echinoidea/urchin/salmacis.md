@@ -1,11 +1,12 @@
 ---
 title: Salmacis sea urchins
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: white, urchin, salmacis, echinoid, echinoderm, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Temnopleuridae
 genus: Salmacis
-species: ""
+species: ''
 attributes: []
 inat_id: 348169
 stateofmatter: Life
@@ -20,64 +21,64 @@ order: Camarodonta
 infraorder: Temnopleuridea
 updated: Apr 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngechinoidea)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/070421cyrd0440m3.jpg
   caption: |
     <p>Sometimes gathered in large numbers.</p>
     <p>Cyrene Reef, Apr 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/060528bbd2322m3.jpg
   caption: |
     <p>Carrying stuff.</p>
     <p>Beting Bronok, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2299m3.jpg
   caption: |
     <p>Hole with 'burn' mark suggests the urchin was attacked by a <a href="../../../mollusca/gastropoda/cassidae/cassidae">Helmet snail</a>.</p>
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/101011chgd2159m3.jpg
   caption: |
     <p>Worm-like thing seen on the underside.</p>
     <p>Changi, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170527cyrsbr.jpg
   caption: |
     <p>Parasitic snails seen on the urchin Cyrene, May 17Photo shared on Singapore Biodiversity Records.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/170625chgsbr.jpg
   caption: |
     <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
     <p>Changi, Jun 17Photo shared on Singpaore Biodiversity Records.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/210530ecpglks3a.jpg
   caption: |
     <p>Zebra crab (Zebrida adamsii) seen on the urchin.</p>
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235740598158&set=a.10159235746118158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2260m3.jpg
   caption: |
     <p><a href="sphaeroides">White salmacis urchin</a> (Salmacis sphaeroides)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/080506chgd2263m3b.jpg
   caption: |
     <p>Spines shorter, mostly white, banded with green or maroon.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/salmacis/050524chgg6575m3a.jpg
   caption: |
     <p>Underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3.jpg
   caption: |
     <p><a href="virgulata">Passion salmacis urchin</a> (Salmacis virgulata)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2487m3d.jpg
   caption: |
     <p>Spines shorter, all maroon, not banded .</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/virgulata/060529chgd2490m3a.jpg
   caption: |
     <p>Underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3.jpg
   caption: |
     <p><a href="bicolor">Two-toned salmacis urchin</a> (Salmacis bicolor)</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2807m3b.jpg
   caption: |
     <p>Spines longer, banded white and maroon</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/echinoidea/urchin/bicolor/090528mecpd2814m3a.jpg
   caption: |
     <p>Underside</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -88,7 +89,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

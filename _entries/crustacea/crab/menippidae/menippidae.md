@@ -1,11 +1,13 @@
 ---
 title: Stone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: stone, thunder, crab, myomenippe, hardwickii, eriphiidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Menippidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 128829
 stateofmatter: Life
@@ -24,25 +26,25 @@ zoosubsection: Heterotremata
 superfamily: Eriphioidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
   caption: |
     <p>With eggs Pulau Sekudu, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/060528bbd2348m3.jpg
   caption: |
     <p>Eating a jellyfish Beting Bronok, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3.jpg
   caption: |
     <p><a href="hardwickii">Stone crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3.jpg
   caption: |
     <p><a href="rumphii">Maroon stone crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050110skdd9348m3b.jpg
   caption: |
     <p>Green eyes ringed with red.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/rumphii/120618tmnbd5423m3a.jpg
   caption: |
     <p>Eyes not green.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/menippidae/hardwickii/050806skdg0458m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -97,7 +99,7 @@ egg crabs](../xanthidae/integerrimus) (*Atergatis integerrimus*), especially Sto
 that are rather reddish. Here's
 more on how to tell apart [big crabs
 with big pincers](../../bigpincer) seen on the rocky shores and coral rubble.
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 
 ---

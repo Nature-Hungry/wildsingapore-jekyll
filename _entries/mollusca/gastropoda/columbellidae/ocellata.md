@@ -1,10 +1,12 @@
 ---
 title: Lightning dove snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lightning, dove, shell, snail, pictocolumbella, ocellata, pyrene, fulgurans, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lightning, dove, shell, snail, pictocolumbella, ocellata, pyrene, fulgurans,
+  columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
-genus: ""
+genus: ''
 species: Pictocolumbella
 attributes: []
 inat_id: 50704
@@ -17,29 +19,29 @@ order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
   caption: |
     <p>Usually black, but sometimes also red or orange.</p>
     <p>Pulau Tekukor, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/120407lazd8092m3a.jpg
   caption: |
     <p>Lazarus, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
   caption: |
     <p>Kusu Island, Dec 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/251009sjirk3.jpg
   caption: |
     <p>St John's Island, Oct 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10163159501127906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/151001blyjt7m3.jpg
   caption: |
     <p>Kusu Island, Dec 04 Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278213119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/160124smkerk2.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10153760529257906.1073741854.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/091202sudik.jpg
   caption: |
     <p>Pulau Sudong, Dec 09 Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/4160163645/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/100102tkkd7153.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ orange or red ones can be seen among the black ones. The lip of the narrow shell
 opening is thickened and is often purplish on the inner side. The
 foot is narrow and strong, and the siphon very long.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

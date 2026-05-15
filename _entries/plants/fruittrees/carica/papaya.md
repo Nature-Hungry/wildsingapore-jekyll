@@ -1,9 +1,14 @@
 ---
-title: "Papaya tree "
+title: 'Papaya tree '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "carica, papaya, caricaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: carica, papaya, caricaceae, tree, plant, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [8, 10, 20, 21]
+attributes:
+- 8
+- 10
+- 20
+- 21
 family: Caricaceae
 genus: Carica
 species: papaya
@@ -16,28 +21,28 @@ class: Magnoliopsida
 order: Brassicales
 updated: Dec 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3.jpg
   caption: |
     <p>Male flowers on long stalks.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5804m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5807m3a.jpg
   caption: |
     <p>Female flowers on from the main stem.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5802m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -46,7 +51,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -54,13 +59,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/fruittrees/carica/papaya/091213ubnd5806m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +122,7 @@ papain, is now commercially harvested from papayas and sold as meat
 tenderiser. Various parts of the plant are also used in traditional
 treatment of skin ailments and seeds used to expel parasitic worms.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

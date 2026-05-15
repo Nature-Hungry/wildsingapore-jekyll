@@ -1,11 +1,16 @@
 ---
 title: Porcelain fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: porcelain, fiddler, crab, uca, austruca, annulipes, ocypodidae, decapod,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Ocypodidae
-genus: ""
+genus: ''
 species: Austruca
 inat_id: 51932
 stateofmatter: Life
@@ -24,48 +29,48 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngfiddlers)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3.jpg
   caption: |
     <p>Male displaying, waving his legs and enlarged pincer.</p>
     <p>St John's Island, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0059m3a.jpg
   caption: |
     <p>Smooth on the outer side of the pincer.</p>
     <p>St John's Island, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040103sjid0061m3a.jpg
   caption: |
     <p>Bumpy ridge on the inside 'palm' of the pincer</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0068m3.jpg
   caption: |
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040411hntd0126m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/040120cjd0084m3.jpg
   caption: |
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmn.jpg
   caption: |
     <p>Pulau Ubin Jun, 09Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3625130322/in/photolist-6wkJWW-72YosC-yGnJM-8fZzm4-72UpzP-AFmBdT-72Uo5x-6yumS1-3kCpFh-8fZzkH-6yqe2x-2cf2Vo-4WRimc-TuLu1-8fZzkR-5zGp2n-5zLF5N-2pgugE-5o7VN9-6EGK6W-5Jn11c-6wkHdC-rpE25J-4Bbj8d-qqMEAp-5phTyh-5oyf8f-72YobQ-72Uquk-72Uq4p-5o4oen-52JKDj-52JL67-52EwcM-auYt6T-6ZhCRY-o3FVDT-anJDnd-eN2veR-4wTzm3-6E3dQj-eNdUPj-7uysgK-219o1D-4HDTv8-4ff2we-2GrYFb-bVNwfk-29o5ZZ-vufgp">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/090614ubnmna.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/260103merqo1.jpg
   caption: |
     <p>Marina East, Jan 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.917591004090974">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160208smkshpy3.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/160806tplmn1.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/annulipes/091204pawjk7m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171059945/">his flickr</a>.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -76,7 +81,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

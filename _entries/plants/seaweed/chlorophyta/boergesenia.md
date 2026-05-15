@@ -1,13 +1,17 @@
 ---
 title: Bubble green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bubble, seaweed, weed, green, boergesenia, forbesii, siphonocladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bubble, seaweed, weed, green, boergesenia, forbesii, siphonocladaceae, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Siphonocladaceae
 genus: Boergesenia
 species: forbesii*
-attributes: [97, 115]
+attributes:
+- 97
+- 115
 inat_id: 556938
 stateofmatter: Life
 kingdom: Plantae
@@ -16,30 +20,30 @@ class: Ulvophyceae
 order: Cladophorales
 updated: Sep 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3a.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/060727jngd5253m3.jpg
   caption: |
     <p>Pulau Jong, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/171108ecpmblks.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100913kusrl.jpg
   caption: |
     <p>Kusu Island, Sep 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.125801204137947.32829.109257872458947/125803747471026/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100130brkd8480m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/100811slud0115m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boergesenia/120408sjid8637m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +94,7 @@ cushion green seaweed](valonia) (*Valonia* sp.) which has tinier bubbles
 packed closely together. Here's more on [how
 to tell apart some green seaweeds](cfgrapes).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

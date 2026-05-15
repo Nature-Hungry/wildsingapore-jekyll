@@ -1,9 +1,19 @@
 ---
 title: Remarkable sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "notable, cucumber, seacucumber, holothuria, notabilis, holothuriidae, holothuroidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: notable, cucumber, seacucumber, holothuria, notabilis, holothuriidae, holothuroidae,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 66, 89, 92]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 66
+- 89
+- 92
 family: Holothuriidae
 genus: Holothuria
 species: notabilis
@@ -18,74 +28,74 @@ order: Holothuriida
 subgenus: Theelothuria
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9701m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9701m3.jpg
   caption: |
     <p>Underside pale with paler markings.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/070505kusg9037m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/070505kusg9037m3.JPG
   caption: |
     <p>Kusu Island, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9697m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9697m3b.jpg
   caption: |
     <p>Few stumpy tube feet.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100419chgd1369m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100419chgd1369m3.jpg
   caption: |
     <p>Changi, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100419chgd1371m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100419chgd1371m3.jpg
   caption: |
     <p>Opening at the tapered end is the anus.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/110814smkd9061m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/110814smkd9061m6l.jpg
   caption: |
     <p>Can produce Cuvierian tubules but rarely does so.</p>
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/071027cjlks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/071027cjlks01m3.jpg
   caption: |
     <p>Chek Jawa, Oct 07 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/08/changi-shore-with-lunar-eclipsel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic6a.jpg
   caption: |
     <p>Ossicles of the sea cucumber Photos shared Robin Ngiam Wen Jiang, see also <a href="http://singaporefauna.blogspot.com/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic7a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/pic7a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/210528chg7lks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/210528chg7lks6.jpg
   caption: |
     <p>Changi Carpark 7, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159231444903158&set=a.10159231448318158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100612chglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100612chglks2m3.jpg
   caption: |
     <p>Changi, Jun 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/06/changi-still-as-charming-as-everl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/230605chg7lks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/230605chg7lks6.jpg
   caption: |
     <p>Changi Carpark 7, Jun 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160711619253158&set=a.10160711621108158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/160605tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/160605tmlks.JPG
   caption: |
     <p>Tanah Merah, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/26867920223/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/180812nsrtch7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/180812nsrtch7.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156734583788713&set=a.10156734548003713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks1.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24502572049/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blylks2.JPG
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24502570859/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blyjt15m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/151001blyjt15m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Jonathan Tan on <a href="https://www.facebook.com/photo.php?fbid=10153609278308119&set=a.10153609277128119.1073741872.696593118&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/120818lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/120818lazlks.JPG
   caption: |
     <p>Seringat-Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520910312/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/240608kusmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/240608kusmn3.jpg
   caption: |
     <p>Kusu Island, Jun 24 Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160254051743660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100713cyrtch3m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100713cyrtch3m6l.jpg
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/07/predawn-trip-to-cyrene-reef-againl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100711cyrlks8m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/100711cyrlks8m6l.jpg
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/07/cyrene-in-darkl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/notabilis/080817chgd9698m3.jpg
 ---
 
 
@@ -119,7 +129,7 @@ women and children by wading at low tide
 and by men snorkeolling at coastal sites
 from canoes.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

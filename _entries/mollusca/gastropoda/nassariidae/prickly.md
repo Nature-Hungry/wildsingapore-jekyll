@@ -1,7 +1,9 @@
 ---
 title: Prickly whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "whelk, nassarius, echinatus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: whelk, nassarius, echinatus, nassariidae, gastropod, mollusc, shell, snail,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info
 layout: entry
 family: Nassariidae
 genus: Nassarius
@@ -18,19 +20,19 @@ superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0555m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/120112smbmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/120112smbmn.jpg
   caption: |
     <p>Sembawang Park, Jan 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6830091329/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/prickly/080919sntd0554m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -71,7 +73,7 @@ with neat pattern of regular fine bumps and fine brown lines. Body
 pale with white spots, very long siphon, short tentacles. Operculum thin
 yellowish often with a dark or black blotch.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

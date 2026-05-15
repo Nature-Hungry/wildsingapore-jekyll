@@ -1,12 +1,17 @@
 ---
 title: Window-pane clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "window, pane, shell, placuna, placunidae, anomiidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: window, pane, shell, placuna, placunidae, anomiidae, bivalve, mollusc, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [2, 33, 59]
+attributes:
+- 2
+- 33
+- 59
 family: Placunidae
 genus: Placuna
-species: ""
+species: ''
 inat_id: 50574
 stateofmatter: Life
 kingdom: Animalia
@@ -18,59 +23,59 @@ order: Pectinida
 superfamily: Anomioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
   caption: |
     <p>View of both upper and underside.</p>
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6308m3.jpg
   caption: |
     <p>View of concave underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6310m3.jpg
   caption: |
     <p>View of convex upperside usually encrusted with other animals.</p>
     <p>It is hard to believe that there is a living animal in such thin, translucent shells!</p>
     <p>You can see the outline of the animal if you hold the shells up against the light.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110519chgd2299m3a.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/020129cjcpd5761m3.jpg
   caption: |
     <p>The living animal can be seen when the paper-thin shell is held up against the light.</p>
     <p>Chek Jawa, Jan 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110520chgd2430m3.jpg
   caption: |
     <p>Tiny baby window-pane clams?</p>
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/150519chgcp1d4494.jpg
   caption: |
     <p><a href="../../cephalopoda/bigseagrass.htm">Octopus</a> hiding under a WIndow-pane clam/ Changi, May 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/120510chgd2870m3.jpg
   caption: |
     <p><a href="../../../cnidaria/coralhard/faviidae/oulastrea.htm">Zebra coral</a> growing on a window pane shell.</p>
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
   caption: |
     <p><a href="../pectinidae/pectinidae.htm">Scallop</a> stuck on a living Window-pane clam while some hermit crabs find shelter too .</p>
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251206chgerqo6.jpg
   caption: |
     <p>Changi East (Lost Coast), Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.897750219408386&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/171108ecpmblks7.jpg
   caption: |
     <p>East Coast-Marina Bay, Nov 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155843410803158.1073741960.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/200710mevc3.jpg
   caption: |
     <p>East Coast-Marina Bay, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811089757945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/251208meky2.jpg
   caption: |
     <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro3m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.168415093218197.41399.133291903397183">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/110522bbbro2m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.168415093218197.41399.133291903397183">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/050511cftg6311m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -123,7 +128,7 @@ covered with encrusting plants and animals. Its foot is long, narrow
 and cylindrical. Unlike most bivalves, Window-pane clams often lie freely on the sand
 (usually on the right valve) and are not attached to the ground. However,
 they cannot swim about. Sometimes they are seen partially buried.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
  *Placuna placenta* has a shell that is thin, circular, translucent
 (10-18cm). In dead shells, the legs of tiny V-shape on the inside of the shell

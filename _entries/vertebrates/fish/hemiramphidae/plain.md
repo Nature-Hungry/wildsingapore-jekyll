@@ -1,11 +1,17 @@
 ---
 title: Plain halfbeak
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "plain, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: plain, halfbeak, half, beak, hemiramphidae, fish, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 47, 116]
+attributes:
+- 9
+- 15
+- 25
+- 47
+- 116
 family: Hemiramphidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 57298
 stateofmatter: Life
@@ -17,26 +23,26 @@ superorder: Acanthomorpha
 order: Beloniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
   caption: |
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/031030sntd0034m6l.jpg
   caption: |
     <p>Sentosa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/110716kusd6882m6l.jpg
   caption: |
     <p>Kusu Island, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/060713rlhd4211m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/060713rlhd4211m3.jpg
   caption: |
     <p>Sometimes seen in a small group.</p>
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/240706ubnlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/240706ubnlks3.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/250909laztt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/250909laztt4.jpg
   caption: |
     <p>Seringat-Kias mangrove lagoon, Sep 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10240230542679475&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/hemiramphidae/plain/080831sisd0179.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -76,7 +82,7 @@ tapers to a sharp point, the tip paler. Grouped here are those with unmarked bod
 forked.  
   
 The fishes grouped here may be different species.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  *\*Species are difficult

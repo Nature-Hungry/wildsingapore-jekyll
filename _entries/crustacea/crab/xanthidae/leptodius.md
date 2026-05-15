@@ -1,12 +1,18 @@
 ---
-title: "Rock crab "
+title: 'Rock crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rock, crab, leptodius, xanthidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rock, crab, leptodius, xanthidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
 family: Xanthidae
 genus: Leptodius
-species: ""
+species: ''
 inat_id: 248553
 stateofmatter: Life
 kingdom: Animalia
@@ -25,30 +31,30 @@ superfamily: Xanthoidea
 subfamily: Xanthinae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
   caption: |
     <p>Pincers with bumpy elbows.</p>
     <p>St.</p>
     <p>John's Island, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3.jpg
   caption: |
     <p>Sentosa, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/040919sntd7033m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/200706skdmn1.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157522789758660&set=a.10157522494898660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/210822ssisvc2.jpg
   caption: |
     <p>Small Sisters Island, Aug 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158648326482945&set=a.10158648464857945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100528tkkjk2m3.jpg
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100528-pulau-tekukorl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/100612sngmn.jpg
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695059099/in/album-72157624263311376/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/xanthidae/leptodius/090922sjid1621m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -95,7 +101,7 @@ long hairs and end in pointed tips.
 **Sometimes confused with** [Smooth
 spooner crab](laevimanus) (*Etisus laevimanus*) which have pincers that
 are longer, more slender and smooth (without bumps).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

@@ -1,9 +1,14 @@
 ---
 title: Carpet corallimorph
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: corallimorph, rhodactis, indosinensis, discosomidae, corallimorpharia, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 102]
+attributes:
+- 6
+- 88
+- 102
 family: Discosomidae
 genus: Rhodactis
 species: indosinensis
@@ -16,55 +21,55 @@ subclass: Hexacorallia
 order: Corallimorpharia
 updated: Jul 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
   caption: |
     <p>Sisters Islands, Dec 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0126m3.jpg
   caption: |
     <p>Underside smooth and brown, edge fringed with short tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3b.jpg
   caption: |
     <p>Upturned mouth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3.jpg
   caption: |
     <p>Pulau Hantu, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/070701hntg0879m3a.jpg
   caption: |
     <p>Each tentacle appears to be branched at the tips.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3.jpg
   caption: |
     <p>Sisters Island, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120506sisd1112m3a.jpg
   caption: |
     <p>Can retract into the body column.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3.jpg
   caption: |
     <p>Pulau Semakau, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/080510smkd3053m3b.jpg
   caption: |
     <p>Tips rounded often white.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5116m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5116m3a.jpg
   caption: |
     <p>Terumbu Semakau, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5117m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/120609tsmkd5117m3b.jpg
   caption: |
     <p>Unidentifed purple strings: eggs?</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8601m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8602m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100130brkd8602m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100403tbbjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100403tbbjk1m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/04/100403-terumbu-bemban-besar.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100519tsmjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/100519tsmjk5m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2010/05/100519-terumbu-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/250812tbmn3.jpg
   caption: |
     <p>Terumbu Bemban, Aug 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161862664708660&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/corallimorphs/carpet/031224sisd0121m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -104,7 +109,7 @@ on many of our Southern shores, on coral rubble.
 in diameter. Sometimes seen in large numbers, carpeting an area of
 30-50cm square.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

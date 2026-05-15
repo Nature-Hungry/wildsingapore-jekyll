@@ -1,11 +1,13 @@
 ---
-title: "Bobtail squids "
+title: 'Bobtail squids '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bobtail, bob, tail, bottletail, bottle, squid, sepiolidae, sepiadariidae,
+  cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Sepiolidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 143626
 stateofmatter: Life
@@ -18,70 +20,70 @@ order: Sepiolida
 superfamily: Sepioloidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4090m3a.jpg
   caption: |
     <p>Pair of rounded fins.</p>
     <p>Squids in this group tend to be found mostly on the sea bottom, generally in sandy or muddy habitats where they lie buried during the day.</p>
     <p>They use their broad fins to bury themselves, and use their funnel to blow sand and arms to rake sand over their head.</p>
     <p>At night, they come out to hunt.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7631m3.jpg
   caption: |
     <p>Changi, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7634m3.jpg
   caption: |
     <p>Changi, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/071126chgd7635m3.jpg
   caption: |
     <p>Changi, Nov 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck02m3.jpg
   caption: |
     <p>Pasir Ris Park, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/081107prplck03m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/stars-without-five-arms-at-pasir-ris.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/030608cjd0095m3.jpg
   caption: |
     <p>Chek Jawa, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170530chg1mn1.jpg
   caption: |
     <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622chgg8185m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170625bbtch1.jpg
   caption: |
     <p>Beting Bronok, Jun 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155512058758713.1073742095.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180616bblks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180616bblks7.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450074588158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/170626skdtch2.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17 Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155516469018713.1073742096.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/200819ecptch6.jpg
   caption: |
     <p>East Coast Park, Aug 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158759127488713&set=a.10158759137988713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11.jpg
   caption: |
     <p>East Coast Park, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550001568158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/180812nsrtlks11b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090818tmjk2m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-never-disappoints.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/090806tmjk11m3.jpg
   caption: |
     <p>Tanah Merah, Jul 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tanah-merah-day-of-scorpionfish.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/sepiolida/050622cftd4092m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -123,7 +125,7 @@ are generally rather spherical with a pair of rounded fins that make
 them look a little like an aquatic version of Dumbo the Flying Elephant!
 These squids can only be positively identified by examining the arm
 and suckers of the males. Females are difficult to identify.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Some bobtail squids from the Family Sepiolidae have a rudimentary
 shell, many have light-emitting organs so that they glow in the dark.

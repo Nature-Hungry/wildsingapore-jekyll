@@ -1,5 +1,4 @@
 ---
-title: "aspera"
+title: aspera
 layout: entry
 ---
-

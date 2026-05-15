@@ -1,11 +1,13 @@
 ---
 title: Goose barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: goose, barnacle, lepas, lepadidae, cirripedia, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Lepadidae
 genus: Lepas
-species: ""
+species: ''
 attributes: []
 inat_id: 48780
 stateofmatter: Life
@@ -22,16 +24,16 @@ order: Scalpellomorpha
 superfamily: Lepadoidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3b.jpg
   caption: |
     <p>Leathery stalk attaches the clam-like shell to a hard surface.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3c.jpg
   caption: |
     <p>No operculum to seal the shell opening.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>321 pp.</p>
@@ -41,7 +43,7 @@ page_images:
     <p>A Field Guide to Crustaceans of Australian Waters.</p>
     <p>Reed New Holland.</p>
     <p>224 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/lepas/040703sisd1824m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -86,7 +88,7 @@ in their shells. Like other barnacles, feeds with its feathery feet.
 Some species of Goose barnacles can grow very large, with shells 5cm
 long and a stalk 20cm long!
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Olive flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, worm, flatworm, tytthosoceros, lizardensis, polyclad, polycladida,
+  turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Tytthosoceros
@@ -16,55 +18,55 @@ order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
   caption: |
     <p>Beting Bronok, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450072813158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6588m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6588m3.jpg
   caption: |
     <p>Tanah Merah, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6586m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090706tmftd6586m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/170331chg7mn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/170331chg7mn.jpg
   caption: |
     <p>Changi, Mar 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10154515561088660&set=a.10154515554383660.1073741918.624178659&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/200821cjjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/200821cjjll2.jpg
   caption: |
     <p>Chek Jawa, Aug 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157666421021295&set=a.10157666417776295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090526bblks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/090526bblks1m3.JPG
   caption: |
     <p>Beting Bronok, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/struck-at-beting-bronokl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/110518bblks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/110518bblks1m3.JPG
   caption: |
     <p>Beting Bronok, May 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/05/pretty-creatures-of-beting-bronokl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/111126bblks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/111126bblks1m3.JPG
   caption: |
     <p>Beting Bronok, Nov 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/11/sunny-day-out-at-beting-bronokl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro1.jpg
   caption: |
     <p>Beting Bronok, Jun 16Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/160607bbro2.jpg
   caption: |
     <p>Beting Bronok, Jun 16Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127273513999012.1073741882.133291903397183&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/181225kuslks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/181225kuslks8.jpg
   caption: |
     <p>Kusu Island, Dec 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156868568598158&set=a.10156868565383158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/240211bigsisrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/240211bigsisrk1.jpg
   caption: |
     <p>Big Sisters' Island, Feb 2024Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160985949887906&set=a.10160985945677906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/241116smkslks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/241116smkslks4.jpg
   caption: |
     <p>Pulau Semakau (South), Nov 24 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10161880739353158&set=a.10161880742313158">facebook</a>.</p>
-- url: "https://live.staticflickr.com/916/41532824292_c6d87fd7d7_z.jpg"
+- url: https://live.staticflickr.com/916/41532824292_c6d87fd7d7_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/41532824292/ "Olive flatworm (Tytthosoceros lizardensis)")</p>
-- url: "https://live.staticflickr.com/4518/38813741652_69bffb77e9_z.jpg"
+- url: https://live.staticflickr.com/4518/38813741652_69bffb77e9_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/38813741652/ "Olive flatworm (Tytthosoceros lizardensis)")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/olive/180616bblks1.jpg
 ---
 
 
@@ -91,7 +93,7 @@ pseudotentacles that are pointed, ear-like made up of simple folded edges of
 the body, with white tips. It can swim by
 undulating its body edges.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

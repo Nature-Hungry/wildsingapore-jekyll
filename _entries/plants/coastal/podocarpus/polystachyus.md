@@ -1,9 +1,15 @@
 ---
-title: "Sea teak "
+title: 'Sea teak '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sea, teak, seateak, podocarpus, polystachyus, podocarpaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sea, teak, seateak, podocarpus, polystachyus, podocarpaceae, plant, tree,
+  bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 37]
+attributes:
+- 18
+- 21
+- 36
+- 37
 family: Podocarpaceae
 genus: Podocarpus
 species: polystachyus
@@ -15,35 +21,35 @@ class: Pinopsida
 order: Pinales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
   caption: |
     <p>Growing wild on a natural cliff.</p>
     <p>Sentosa, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8839m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8839m3b.jpg
   caption: |
     <p>Sentosa, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3314m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3314m3.jpg
   caption: |
     <p>Green seed on top of swollen receptacle.</p>
     <p>Sentosa, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/080511sntd3315m3.jpg
   caption: |
     <p>Female cones Sentosa, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/130107blyd3209m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/130107blyd3209m3.jpg
   caption: |
     <p>Young female cones Berlayar Creek, Jan 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090413blyd0130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090413blyd0130m3.jpg
   caption: |
     <p>Swollen red receptacle attracts birds and bats.</p>
     <p>Labrador Park, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/070831sntd6389m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/070831sntd6389m3a.jpg
   caption: |
     <p>Male cones.</p>
     <p>Sentosa, Aug 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8840m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401sntd8840m3.jpg
   caption: |
     <p>Sentosa, Apr 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/podocarpus/polystachyus/090401snto4011691m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -126,7 +132,7 @@ the Red Data Book, it is also found at St. John's Island. On the mainland,
 it is only found in the Sungei Mandai area. But the tree is now widely
 planted in many of our coastal parks.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

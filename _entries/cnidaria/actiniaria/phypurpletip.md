@@ -1,12 +1,17 @@
 ---
 title: Purple-tip frilly anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: purple, tip, frilly, anemone, phymanthus, phymantidae, actiniaria, cnidrian,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 51, 88]
+attributes:
+- 6
+- 51
+- 88
 family: Phymantidae
 genus: Phymanthus
-species: ""
+species: ''
 inat_id: 361297
 stateofmatter: Life
 kingdom: Animalia
@@ -18,46 +23,46 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
   caption: |
     <p>Sisters Islands, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3a.jpg
   caption: |
     <p>Fine white lines radiating from the mouth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3b.jpg
   caption: |
     <p>Purple or violet tips.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/110220lazlks1m3.JPG
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/5464481815/in/datetaken/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100516jngmn1m3.jpg
   caption: |
     <p>Pulau Jong, May 10Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/4629756927/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/180715thndc5.jpg
   caption: |
     <p>Terumbu Hantu, Jul 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1659336540849782&set=a.1659334347516668&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/160806tplmn4.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10153713985548660.1073741906.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/120721tptlks.JPG
   caption: |
     <p>Terumbu Pempang Laut, Jul 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520880690/in/album-72157626616274147/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/100529pbrkmn.jpg
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4652305174/in/album-72157624164673134/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091231biod7020m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/091205pawlks18m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4165996256/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/phymanthus/purpletip/060102sisg3682m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -98,7 +103,7 @@ brown, greenish
 or greyish with violet tips. Oral disk
 pale or white when contracted, when expanded it is dark with fine
 white lines radiating from the mouth.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

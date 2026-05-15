@@ -1,7 +1,9 @@
 ---
 title: Patridge sundial snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "partridge, sundial, architectonica, perdix, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: partridge, sundial, architectonica, perdix, architectonicidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: Architectonica
@@ -16,28 +18,28 @@ subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
   caption: |
     <p>Dead specimen.</p>
     <p>Terumbu Pempang Tengah, Apr 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010157.jpg
   caption: |
     <p>Underside.</p>
     <p>Terumbu Pempang Tengah, Apr 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/200723nrsccrk2.jpg
   caption: |
     <p>East Coast Park, Jul 20 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158355543737906&set=a.10158355526527906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks.JPG
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8749240411/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/130427tptlks2.JPG
   caption: |
     <p>Terumbu Pempang Tengah, Apr 13 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8750364568/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/120330cjtch1m3.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10151523309613713.1073741829.619308712&type=3">facebook</a>.</p>
     <p>Chek Jawa, Mar 13</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Graham Brash, Singapore.</p>
@@ -47,11 +49,11 @@ page_images:
     <p>Williams.</p>
     <p>1996.</p>
     <p>Coral Reef Animals of the Indo-Pacific: Animal life from Africa to Hawaii</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Sea Challengers.</p>
     <p>314pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perdix/170401tpto4010158.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -92,7 +94,7 @@ of a horn-like material.
 eat burrowing sea anemones and sea pens. The mouth region is lined
 with a tough cuticle as a protection against stings of their prey.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

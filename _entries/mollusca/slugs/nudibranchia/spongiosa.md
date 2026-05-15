@@ -1,9 +1,16 @@
 ---
 title: Sponge nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "purple, foot, ategema, trippa, spongiosa, nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: purple, foot, ategema, trippa, spongiosa, nudibranchia, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 33, 90, 124]
+attributes:
+- 14
+- 22
+- 33
+- 90
+- 124
 family: Discodorididae
 genus: Atagema
 species: spongiosa
@@ -22,66 +29,66 @@ infraorder: Doridoidei
 superfamily: Doridoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
   caption: |
     <p>Well camouflaged.</p>
     <p>Pulau Sekudu, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m6l.jpg
   caption: |
     <p>Pulau Sekudu, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3a.jpg
   caption: |
     <p>Rhinophores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9723m3.jpg
   caption: |
     <p>Feathery gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9726m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9726m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3.jpg
   caption: |
     <p>Pulau Sekudu, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2517m3a.jpg
   caption: |
     <p>Feathery gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2509m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/080507skdd2509m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3.jpg
   caption: |
     <p>Laying eggs.</p>
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3b.jpg
   caption: |
     <p>Rhinophore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/050623cjg8302m3d.jpg
   caption: |
     <p>Feathery gills.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210528lygjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210528lygjll1.jpg
   caption: |
     <p>Changi Loyang, May 21Photo by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158300368836295&set=a.10158300364091295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set?vanity=yongszeyuenkelvin&set=a.10169672419380112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/240706ubnky2a.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set?vanity=yongszeyuenkelvin&set=a.10169672419380112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155608394878158&set=a.10155608393858158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/160704cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/160704cjmn.jpg
   caption: |
     <p>Chek Jawa, Jul 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/28084289655/in/album-72157667787864163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170723ubnlks1.jpg
   caption: |
     <p>Chek Jawa, May 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162508093442906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170626skdlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/170626skdlks2.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155493335808158&set=a.10155493331973158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210527prpvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/210527prpvc1.jpg
   caption: |
     <p>Pasir Ris Park, May 21Photo by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158490105517945&set=a.10158490211547945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/spongiosa/130722skdd9737m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -123,7 +130,7 @@ Gills large feathery, rhinophores smooth, large when fully extended. The undersi
 of the body is dark to deep purple. When disturbed, it can drop off
 parts of its body. Its egg mass looks like rosette of frilly ribbon.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

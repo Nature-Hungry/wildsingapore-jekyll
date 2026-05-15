@@ -1,61 +1,63 @@
 ---
 title: Feathery green seaweeds compared
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: caulerpa, sertularioides, mexicana, taxifolia, seaweed, algae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info
 layout: entry
 division: Chlorophyta
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/041116labd8420m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/mexicana/040901sjid6072m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/scalpelliformis/050428cftg5309m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050623cjd4103m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/sertularioides/050621skdg7890m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/cupressoides/050621skdg7924m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/serrulata/050610sntg7630m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/070716chgd4197m3.jpg
   caption: |
     <p><a href="../../seagrass/spinulosa">Fern seagrass</a> Halophila spinulosa</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/spinulosa/030928cjd0024m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/taxifolia/040703sisd1564m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -88,7 +90,7 @@ them apart.
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

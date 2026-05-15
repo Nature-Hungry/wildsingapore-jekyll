@@ -1,9 +1,13 @@
 ---
 title: Haddon's carpet anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: haddon's, carpet, anemone, stichodactyla, haddoni, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [6, 88, 113]
+attributes:
+- 6
+- 88
+- 113
 family: Stichodactylidae
 genus: Stichodactyla
 species: haddoni
@@ -18,60 +22,60 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "../../../Templates/fornatureguides.gif"
+- url: ../../../Templates/fornatureguides.gif
   caption: |
     <p>](../fngcactiniaria.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3a.jpg
   caption: |
     <p>Verrucae invisible.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjg8256m3b.jpg
   caption: |
     <p>Distinctive alternating 'long' and 'short' tentacles at the circumference.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3.jpg
   caption: |
     <p>Cyrene, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070324cyrd9315m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3.jpg
   caption: |
     <p>Pulau Sekudu, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070217skdg7655m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/050623cjd4123m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddonieat/020228cjd7682m3.jpg
   caption: |
     <p>Capturing small fishes by folding the oral disk over the prey.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/carpet/050621skdg8007m3.jpg
   caption: |
     <p><a href="../../crustacea/othercrust/shrimp/carpet.htm">Tiny anemone shrimps</a> are often found in these anemones.</p>
     <p>Pulau Sekudu, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/brevicarpalis/040731kusd3491m3.jpg
   caption: |
     <p><a href="../../crustacea/othercrust/shrimp/brevicarpalis.htm">Peacock-tail anemone shrimps</a> are often found in these anemones.</p>
     <p>Kusu Island, Jul 04 Should I 'save' animals trapped in a carpet anemone?</p>
     <p>If you do, you will be depriving the anemone of a meal.</p>
     <p>It might not get so lucky again for a while.</p>
     <p>The animal that you 'saved' might also not survive if it was badly stung by the carpet anemone.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7259m3.jpg
   caption: |
     <p>Some carpet anemones out on the hot dry sand bar at low tide.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/020225cjd7429m3.jpg
   caption: |
     <p>They can survive out of water for a short time by shrinking their oral disk.</p>
     <p>Chek Jawa, Feb 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/030518cjd0312m3.jpg
   caption: |
     <p>They can also tuck the oral disk into the body column.</p>
     <p>Chek Jawa, May 03 Carpet of Death: On Chek Jawa, you might notice that there are many carpet anemones on the hot, dry sand bar at low tide.</p>
@@ -80,62 +84,62 @@ page_images:
     <p>As fishes and other animals enter the lagoon with the incoming tide, or leave with the outgoing tide, they have to negotiate this minefield of anemones.</p>
     <p>Some unlucky creatures might blunder into a Carpet anemone.</p>
     <p>Carpet anemones on the sand bar may thus have a better chance of a meal.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/061108cjd6616.jpg
   caption: |
     <p>An uprooted and upside down anemone which is otherwise healthy.</p>
     <p>Chek Jawa, Nov 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7673.jpg
   caption: |
     <p>Bleaching and ballooning due to prolonged extreme fall in salinity.</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070120cjd7636.jpg
   caption: |
     <p>Bleaching and exploded anemone due to prolonged extreme fall in salinity.</p>
     <p>Chek Jawa, Jan 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/201020prpalks1.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706823563158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/080507ecplks06m3.jpg
   caption: |
     <p>East Coast, May 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/210115mevc5.jpg
   caption: |
     <p>East Coast-Marina Bay, Jan 21Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158202473002945&set=a.10158202634262945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/170822lablks7.jpg
   caption: |
     <p>Labrador, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155646581903158.1073741953.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260104trmlvo7.jpg
   caption: |
     <p>Sentosa Tg Rimau, Jan 26Photo shared by Lon Voon Ong on <a href="https://www.facebook.com/media/set/?set=a.122157034406927700&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/150706srplks.JPG
   caption: |
     <p>Sentosa Serapong, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/19308418599/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/250714srptt1.jpg
   caption: |
     <p>Sentosa Serapong, Jul 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162732123038654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/070902sjilks02m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/09/evening-with-saint.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260217bsislks1.jpg
   caption: |
     <p>Big Sister's Island, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/260201cyrtt2.jpg
   caption: |
     <p>Cyrene, Feb 26Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?set=a.10242225234465523&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/110423tpllks4m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-laut.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/100810snglks2m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889326595/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd0005m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/haddoni/091204pawd5201m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-coverimg: "../../../Templates/fornatureguides.gif"
+coverimg: ../../../Templates/fornatureguides.gif
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -146,7 +150,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../animals.htm)
 | [all plants](../../plants.htm)

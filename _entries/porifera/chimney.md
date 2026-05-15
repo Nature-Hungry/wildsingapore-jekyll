@@ -1,12 +1,12 @@
 ---
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: chimney, sponge, petrosia, porifera, field, guide, seashore, sea, shore,
 layout: entry
 shape: ball
 title: Colourful chimney sponge
 family: Petrosiidae
 genus: Petrosia
-species: ""
+species: ''
 attributes: []
 inat_id: 131797
 stateofmatter: Life
@@ -17,28 +17,28 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
   caption: |
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/100518tbbd3081m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3.jpg
   caption: |
     <p>Berlayar Creek, Apr 23 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160614712083158&set=a.10160614719623158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/230424blylks3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/chimney/170401tptrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/chimney/170401tptrl.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Apr 17 Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.1427699207281467.1073741856.109257872458947/1427700547281333/?type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/chimney/120508skdd1842m3.jpg
 ---
 
 
@@ -61,7 +61,7 @@ on some of our shores. **Features:** Ball shaped sponge 10-15cm, with regularly 
 chimneys about 1cm in diameter, 1-2cm tall. Orange, olive-yellow,
 brown.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

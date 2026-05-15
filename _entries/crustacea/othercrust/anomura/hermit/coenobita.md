@@ -1,9 +1,13 @@
 ---
 title: Land hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: land, hermit, crab, coenobita, cavipes, violascens, coenobitidae, anomura,
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 54]
+attributes:
+- 38
+- 54
 family: Coenobitidae
 genus: Coenobita
 species: sp.
@@ -22,67 +26,67 @@ infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
   caption: |
     <p>Sentosa, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0098m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080802sjid8711m3.jpg
   caption: |
     <p>Some are very purple.</p>
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6530m3.jpg
   caption: |
     <p>Some have a dark patch on the outside of the left pincer.</p>
     <p>Sisters Islands, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/060102sisd6545m3.jpg
   caption: |
     <p></p>
-- url: "https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg"
+- url: https://live.staticflickr.com/1882/42821197550_e5e95d8ac1_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/42821197550/) Pulau Tekukor, Sep 2018</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/211207chgerk1.jpg
   caption: |
     <p>Changi East (Lost Coast), Dec 21Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159477570477906&set=a.10159477562707906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/171008srglks2.jpg
   caption: |
     <p>Seringat-Kias, Oct 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155760682578158&set=pcb.10155760682683158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250430sjiml4.jpg
   caption: |
     <p>St John's Island, Apr 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0VfBpa8APbdSrnjXuZ9iMwog4k34gE3dHb32Xd41SAaiSz3scLWEdDtL5NP3VqfoXl&id=61566639210004&__cft__[0]=AZXmqsNG08ZP9qhI9QByIwL6EgcaYok4rzMuWBQ7Sc3BNXFuLxUdyjpteHUE4igmE-eco3q3w0vD7SQB73FY8nFWOb_WCqb71ZkCJTD6IYvMrpAmiB8HIMGpuvk9hJ5ZRkd_wvxcaphBoJJUbUkfUPoO39u24qLQqfcV3wPxGt2-tw&__tn__=%2CO%2CP-R">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky4.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0rtNVXh4nvcdk6TC4XSGxVVUEyNeP7oSHfzvMPXPBLMS4BVx4gyddQHBXUwzch5b8l?__cft__[0]=AZV7ANJIyPUnn-jDZRS8ZteREMsGdNizSi1C2pWvq3m-_8ge2NVAHqQojJyi6VoPNu_swGpf4_Oc90q3fFBkhzKAO7kbZwz2Py9-lqNITe2ArNkQbxmfWgUiVrc14iFy-CErYJpVQRFTNLM-TguGcdm2fEsY63qJ64RUuhN0sblqvA&__tn__=%2CO%2CP-R">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/250201bsisky5.jpg
   caption: |
     <p>Big Sisters Island, Feb 25Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/posts/pfbid0rtNVXh4nvcdk6TC4XSGxVVUEyNeP7oSHfzvMPXPBLMS4BVx4gyddQHBXUwzch5b8l?__cft__[0]=AZV7ANJIyPUnn-jDZRS8ZteREMsGdNizSi1C2pWvq3m-_8ge2NVAHqQojJyi6VoPNu_swGpf4_Oc90q3fFBkhzKAO7kbZwz2Py9-lqNITe2ArNkQbxmfWgUiVrc14iFy-CErYJpVQRFTNLM-TguGcdm2fEsY63qJ64RUuhN0sblqvA&__tn__=%2CO%2CP-R">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/251011ssistl5.jpg
   caption: |
     <p>Small Sisters Island, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163238359729264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4.jpg
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160600854408660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/241019lazmn4a.jpg
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?vanity=marcus.ng.54738&set=a.10160600854408660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110220lazro2m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/110421jngrl1m3.jpg
   caption: |
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/150422jngnml2m3.jpg
   caption: |
     <p>Pulau Jong, Apr 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152858652653660.1073741862.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/091204pawd5419m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/coenobita/080222sntd0091m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -149,7 +153,7 @@ into a small hermit crab, it finds an empty shell then heads landward.
 The Family Coenobitidae includes the largest hermit crab, the Robber
 or Coconut crab (*Birgus latro*) which doesn't live in a shell.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

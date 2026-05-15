@@ -1,11 +1,12 @@
 ---
 title: Api-api
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: avicennia, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Avicenniaceae
 genus: Avicennia
-species: ""
+species: ''
 attributes: []
 inat_id: 62865
 stateofmatter: Life
@@ -17,56 +18,56 @@ order: Lamiales
 subfamily: Avicennioideae
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m3a.jpg
   caption: |
     <p>Pencil</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/general/031122cjd0051m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/general/031122cjd0051m3.jpg
   caption: |
     <p>Germinating Avicennia seedlings.</p>
     <p>Chek Jawa, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
   caption: |
     <p>Leaves very white underneath.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
   caption: |
     <p>Small flowers, not so crowded.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
   caption: |
     <p>Fruits with long pointed tips smooth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9885m3.jpg
   caption: |
     <p>Leaves not so white underneath.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/111022smkd2528m3b.jpg
   caption: |
     <p>Large flowers, crowded together.</p>
     <p>Flower stalk squarish to leaf-bearing portions.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/110827smkd9918m3.jpg
   caption: |
     <p>Fruits oval smooth.</p>
     <p>Bluish never yellowish.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3.jpg
   caption: |
     <p>Leaves underneath white and velvety.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/090118smkd5726m3a.jpg
   caption: |
     <p>Large flowers, crowded together.</p>
     <p>Flower stalk squarish NOT to leaf-bearing portions.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/rumphiana/030914cjd0030m3b.jpg
   caption: |
     <p>Fruits oval usually wrinkly.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/020727cjcpd4363m3.jpg
   caption: |
     <p>Leaves glossy and smooth.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/090517ubnd1980m3a.jpg
   caption: |
     <p>Large flowers, crowded together.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/officinalis/030817cjd0005m3.jpg
   caption: |
     <p>Fruits oval with pointed tip smooth.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/marina/090118smkd5783m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -156,7 +157,7 @@ alkali in it.
 marina* is listed as 'Critically Endangered' in the Red List of
 threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

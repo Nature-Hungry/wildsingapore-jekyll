@@ -1,7 +1,9 @@
 ---
 title: Cabbage coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "cabbage, banana, trachyphyliidae, siderastretidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: cabbage, banana, trachyphyliidae, siderastretidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Trachyphyllia
@@ -16,79 +18,79 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
   caption: |
     <p>Beting Bronok, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3a.jpg
   caption: |
     <p>Many mouths located in the valleys.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160605tmlks.JPG
   caption: |
     <p>Tanah Merah, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/27475534165/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130527tmlks.JPG
   caption: |
     <p>Tanah Merah, Mar 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14172366311/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200707hntjt2a.jpg
   caption: |
     <p>Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10157563298053576&set=pcb.10157563301188576&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/240623hnttl2a.jpg
   caption: |
     <p>Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?vanity=tammy.lim.137&set=a.10161307820474264">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/252531thntlks2.jpg
   caption: |
     <p>Terumbu Hantu (Cigar Reef), May 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162762968398158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/160609thntro5.jpg
   caption: |
     <p>Terumbu Hantu, Jun 16Photo shared by Rene Ong on <a href="https://www.facebook.com/media/set/?set=a.1127362260656804.1073741883.133291903397183&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/110620smklks.JPG
   caption: |
     <p>Pulau Semakau, Jun 11Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5861314751/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/130503smklks.JPG
   caption: |
     <p>Pulau Semakau, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4573493785/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/200623smkedc1.jpg
   caption: |
     <p>Pulau Semakau East, Jun 20Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=2912399438876813&set=a.2912497798866977&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/260629smkelks3.jpg
   caption: |
     <p>Pulau Semakau East, Jun 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162899100973158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/2007025smknjll2.jpg
   caption: |
     <p>Pulau Semakau North, Jul 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157596597206295&set=a.10157596595111295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/230221trylks2.jpg
   caption: |
     <p>Terumbu Raya, Feb 23Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10160490622068158&set=a.10160490628508158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/210629bbblks1.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159304112113158&set=a.10159304131363158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/071225smkmn01m3b.jpg
   caption: |
     <p>Photo shared by Marcus Ng on <a href="http://www.flickr.com/photos/budak/2135319907/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/100403tbblks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4539779959/in/datetaken/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/070618rlhg0722m3c.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/geoffroyi/050724bbg0203m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -144,7 +146,7 @@ affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,16 @@
 ---
-title: "Yellow cuskeel "
+title: 'Yellow cuskeel '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "yellow, cusk, eel, cuskeel, dinematichthys, iluocoeteoides, bythitidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: yellow, cusk, eel, cuskeel, dinematichthys, iluocoeteoides, bythitidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Bythitidae
 genus: Dinematichthys
 species: iluocoeteoides
@@ -17,43 +24,43 @@ superorder: Acanthomorpha
 order: Ophidiiformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
   caption: |
     <p>Labrador, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/070728sisd4531m6l.jpg
   caption: |
     <p>Sisters Island, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3d.jpg
   caption: |
     <p>Tiny tail fin separated from long dorsal and anal fins.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks1.JPG
   caption: |
     <p>Pulau Sekudu, Jun 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/25528012195/in/album-72157607907125005/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/140612skdlks2.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200706skdlks4.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158431581658158&set=a.10158431591203158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/230705ssismn1.jpg
   caption: |
     <p>Small Sisters Island, Jul 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159694616378660&set=a.10159694664528660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/251011tgrlks24a.jpg
   caption: |
     <p>Sentosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/200918cyrjll1.jpg
   caption: |
     <p>Cyrene, Sep 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157733349836295&set=a.10157733347506295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210501tbrl1.jpg
   caption: |
     <p>Terumbu Bemban, May 21Photo shared by Russel Low on <a href="https://www.facebook.com/photo?fbid=10158979588916273&set=pcb.10158979643251273">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/210428slulks5.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162471348158&set=a.10159162473618158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/bythitidae/iluocoeteoides/060531labd2675m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -95,7 +102,7 @@ and she gives birth to live young (ovoviviparous). Embryos are retained in the o
 **Sometimes mistaken for** other eel-like
 fishes. Here's more on [how
 to tell apart sea snakes, eels and eel-like animals](../../../glossary/eelsnake).
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
  
 

@@ -1,57 +1,58 @@
 ---
 title: Egg strings on Singapore shores
-description: "Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin"
-keywords: "encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+description: Fact sheet with photos on flora and fauna of Chek Jawa, Pulau Ubin
+keywords: encrusting, sponge, porifera, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg
   caption: |
     <p>Among seaweeds.</p>
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/080722cyrd8262m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050611kusg7835m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050611kusg7835m3.jpg
   caption: |
     <p>Among</p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050611kusg7835m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050611kusg7835m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050726chgg0399m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050726chgg0399m3.jpg
   caption: |
     <p>Laid on seagrass</p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050726chgg0399m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/050726chgg0399m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/101222chgd3867m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/101222chgd3867m3c.jpg
   caption: |
     <p>Laid on seawall, probably by <a href="../mollusca/gastropoda/limpets/limpet">limpets</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/eggs/eggs/101222chgd3867m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/eggs/eggs/101222chgd3867m3b.jpg
   caption: |
     <p>Changi, Dec 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3.jpg
   caption: |
     <p><a href="../mollusca/gastropoda/strombidae/canarium">Gong gong snail</a> laying fine beige egg string.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/strombidae/canarium/100728tmd9438m3b.jpg
   caption: |
     <p>Tanah Merah, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3b.jpg
   caption: |
     <p><a href="limpets/limpet">Limpet</a> with its egg capsule.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/javanica/110829ecpd0209m3a.jpg
   caption: |
     <p>East Coast Park, Aug 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/eggs/eggs/050917smkg2414m3.jpg
 ---
 eggs [text
 index](eggindex) | [photo index](eggfi)
@@ -81,7 +82,7 @@ among seagrasses and seaweeds, on on rocks and hard surfaces. Others
 may be very tiny, laid in neat spirals on seagrass blades.
 Possible animals responsible for laying these eggs include [seahares](../mollusca/slugs/anaspidae/anaspidea) and [snails](../mollusca/gastropoda).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

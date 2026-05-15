@@ -1,10 +1,12 @@
 ---
-title: "Big plain armina nudibranch "
+title: 'Big plain armina nudibranch '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "armina, babai, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: armina, babai, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info
 layout: entry
 family: Arminidae
-genus: ""
+genus: ''
 species: Armina
 attributes: []
 inat_id: 47501
@@ -21,25 +23,25 @@ suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
   caption: |
     <p>Changi, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4002m3.jpg
   caption: |
     <p>Rhinophores.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3a.jpg
   caption: |
     <p>Shovel-shaped oral veil.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4005m3.jpg
   caption: |
     <p>Burrowing.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3.jpg
   caption: |
     <p>Underside: gills under the mantle skirt.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd3992m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/babai/060711chgd4001m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -93,7 +95,7 @@ eat [soft
 corals](../../../cnidaria/coralsoft/coralsoft.htm) and [sea
 pens](../../../cnidaria/others/pennatulacea/pennatulacea.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

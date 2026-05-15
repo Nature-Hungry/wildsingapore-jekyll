@@ -1,38 +1,40 @@
 ---
-title: "Bubble ascidians (Ascidiacea) "
+title: 'Bubble ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
   caption: |
     <p>Clavelina sp.?</p>
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1967m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1967m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1969m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1969m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3.jpg
   caption: |
     <p>Ecteinascidia thurstoni?</p>
     <p>Sisters Island, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120820sisd0781m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3.jpg
   caption: |
     <p>Ecteinascidia thurstoni?</p>
     <p>Pulau Sekudu, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156414549708158&set=a.10156414549313158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/180617skdlks3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/bubble/120508skdd1962m3.jpg
 ---
  
 
@@ -58,7 +60,7 @@ with a colourful ring around the openings. Many bubbles are found clustered toge
   
 The ones with the blue lines look like *Clavelina* sp., Family Clavelinidae in The Biodiversity of Singapore.
 The ones with an orange rings look like the photos of *Ecteinascidia thurstoni*, Family Perophoridae in The Biodiversity of Singapore and Serina Lee's article.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

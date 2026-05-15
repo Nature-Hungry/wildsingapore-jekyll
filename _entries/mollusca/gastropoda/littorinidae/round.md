@@ -1,12 +1,20 @@
 ---
 title: Round periwinkle snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "round, periwinkle, echinolittorina, nodilittorina, littorinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: round, periwinkle, echinolittorina, nodilittorina, littorinidae, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 75, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 75
+- 100
+- 111
+- 123
 family: Littorinidae
 genus: Echinolittorina
-species: ""
+species: ''
 inat_id: 246650
 stateofmatter: Life
 kingdom: Animalia
@@ -18,16 +26,16 @@ superfamily: Littorinoidea
 subfamily: Littorininae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
   caption: |
     <p>Sentosa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3116m3.jpg
   caption: |
     <p>East Coast Park, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/060613ecpd3115m3.jpg
   caption: |
     <p>East Coast Park, Jun 06</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/littorinidae/round/031028sntad0048m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -69,7 +77,7 @@ of a horn-like material.
 Several species of periwinkles have round shells including *Echinolittorina
 vidua* and *Echinolittorina melanacme*.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

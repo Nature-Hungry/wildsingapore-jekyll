@@ -1,7 +1,9 @@
 ---
 title: Solitary tubeworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: solitary, tube, worm, tubeworm, diopatra, sbristle, polychaete, annelida,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Onuphidae
 genus: Diopatra
@@ -17,44 +19,44 @@ order: Eunicida
 subfamily: Onuphinae
 updated: Oct 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
   caption: |
     <p>Thick leathery tube Chek Jawa, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/050823chgg2333m3.jpg
   caption: |
     <p>Tube washed ashore Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/040702chgg0938m3.jpg
   caption: |
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1812m3.jpg
   caption: |
     <p>Reaching out to grab a mangrove propagule.</p>
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1822m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1822m3.jpg
   caption: |
     <p>Got it!</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1828m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/100429prpd1828m3.jpg
   caption: |
     <p>A closer look at the worm.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251107chgmn3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251107chgmn3a.jpg
   caption: |
     <p>Changi Point, Nov 25Shared by <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">Marcus Ng</a> on facebook.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7841m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7841m3.jpg
   caption: |
     <p>Changi, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3.jpg
   caption: |
     <p>Photos shared by Michell Ng.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/081115chg7842m3a.jpg
   caption: |
     <p>More photos of these worms <a href="long">out of their tubes</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/110611cjlks.JPG
   caption: |
     <p>Being eaten by a mudskipper Chek Jawa, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/great-day-guiding-at-chek-jawal">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251010blytl5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/251010blytl5.jpg
   caption: |
     <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/diopatra/060114cjg3809m3a.jpg
 ---
 
 
@@ -122,7 +124,7 @@ them with large tentacle-like appendages on their heads.
 of Solitary tubeworm, *Diopatra bulohensis*, is named after our
 very own Sungei Buloh!
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

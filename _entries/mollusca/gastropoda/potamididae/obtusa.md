@@ -1,7 +1,9 @@
 ---
 title: Red chut-chut snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: chut, cerithidea, obtusa, quadrata, obtuse, cerith, snail, shell, potamididae,
+  gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Potamididae
 genus: Cerithidea
@@ -16,26 +18,26 @@ subclass: Caenogastropoda
 superfamily: Cerithioidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
   caption: |
     <p>Sungei Buloh, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090816ubnd9136m3b.jpg
   caption: |
     <p>Pulau Ubin, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/090612pndd3991m3a.jpg
   caption: |
     <p>The animal has red eyes!</p>
     <p>Sungei Pandan, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251200admrqo5.jpg
   caption: |
     <p>Admiralty Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.910838368099571&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo2.jpg
   caption: |
     <p>Pandan Mangroves, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.908956731621068&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/251221pndrqo3.jpg
   caption: |
     <p>Pandan Mangroves, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.908956731621068&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/potamididae/obtusa/050327sbwrg3834m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +84,7 @@ living snail does indeed have red eyes! As well as a reddish margin around the f
 chut-chut](quadrata.htm) and [Belitong](sulcata.htm). More on [how
 to tell these snails apart](cfpotamids.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,12 +1,17 @@
 ---
 title: Leaf oyster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: leaf, tree, oyster, isognomon, epipphium, pteriidae, isognominidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [2, 33, 59]
+attributes:
+- 2
+- 33
+- 59
 family: Pteriidae
 genus: Isognomon
-species: "ephippium,"
+species: ephippium,
 inat_id: 706014
 stateofmatter: Life
 kingdom: Animalia
@@ -18,28 +23,28 @@ order: Ostreida
 superfamily: Pterioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/031128sbwrbd0035m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050327sbwrg3830m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2376m3.jpg
   caption: |
     <p>Growing along a muddy mangrove creek.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/170515chgsafd2375m3.jpg
   caption: |
     <p>Changi Creek mangroves, May 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/200125prpAhd1.jpg
   caption: |
     <p>Pasir Ris Park, Jan 20Photo shared by Nurulhuda on <a href="https://www.facebook.com/photo.php?fbid=2827011994009331&set=a.2826977530679444&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pteriidae/ephippium/050809lckg1060m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +87,7 @@ thus giving the common name of tree oyster. Often found in clusters.
 **Human uses:** In Thailand, they
 are regularly collected for food and marketed.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Dalmation spindle cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nectar, spindle, ovulid, cowrie, ovulidae, phenacovolva, barbieri, gastropod,
+  mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ovulidae
 genus: Phenacovolva
@@ -18,16 +20,16 @@ superfamily: Cypraeoidea
 subfamily: Ovulinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
   caption: |
     <p>Changi, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/030521bbd0202m3.jpg
   caption: |
     <p>Beting Bronok, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130526chglks1.JPG
   caption: |
     <p>Changi, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14036437133/in/album-72157607622389163/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ovulidae/barbieri/130626chg1d8841ml.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,7 +70,7 @@ and pointed at the ends. Shell colour orange, yellow (also red to violet) with a
   
 Similar looking spindle cowrie species include *Phenacovolva rosea* and *Cuspivolva formosa*
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
   

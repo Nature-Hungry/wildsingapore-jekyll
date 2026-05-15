@@ -1,9 +1,14 @@
 ---
 title: Rosy fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rosy, fiddler, crab, uca, tubuca, rosea, ocypodidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Ocypodidae
 genus: Tubuca
 species: rosea*
@@ -26,34 +31,34 @@ subfamily: Gelasiminae
 tribe: Gelasimini
 updated: Dec 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngfiddlers)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3.jpg
   caption: |
     <p>Sungei Buloh, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/090905sbwrd0144m3a.jpg
   caption: |
     <p>Sungei Buloh, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1064m3.jpg
   caption: |
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/120317prpnhcd7762m3.jpg
   caption: |
     <p>Pasir Ris Park, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/091226cjd6256m3.jpg
   caption: |
     <p>Chek Jawa, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1058m3.jpg
   caption: |
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/100411prpd1060m3.jpg
   caption: |
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/rosea/021008cjd6155m3.jpg
   caption: |
     <p>Chek Jawa, Oct 02</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,7 +69,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

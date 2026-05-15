@@ -1,9 +1,16 @@
 ---
 title: Birds' nest fern
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "birds, nest, fern, asplenium, nidus, aspleniaceae, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: birds, nest, fern, asplenium, nidus, aspleniaceae, plant, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 18, 21, 36, 96]
+attributes:
+- 8
+- 18
+- 21
+- 36
+- 96
 family: Aspleniaceae
 genus: Asplenium
 species: nidus
@@ -18,29 +25,29 @@ section: Thamnopteris
 inat_id: 84356
 updated: Aug 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg
   caption: |
     <p>Growing on a mangrove tree.</p>
     <p>Admiralty Park, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3.jpg
   caption: |
     <p>Sungei Buloh</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090905sbwrd0142m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3.jpg
   caption: |
     <p>Admiralty</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4178m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/091213ubnd5814m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/asplenium/nidus/090613admd4177m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -96,7 +103,7 @@ of the 'skirt' of dead leaves to create a cosy 'umbrella' for themselves. The Sp
 labour pains by a tribe in Malaysia. The Malays use the leaves for
 a lotion to treat fever.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

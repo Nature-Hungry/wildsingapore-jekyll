@@ -1,12 +1,17 @@
 ---
-title: "Basket star "
+title: 'Basket star '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: basket, star, ophiuroidea, euryalidae, echinoderm, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 31, 92]
+attributes:
+- 0
+- 1
+- 31
+- 92
 family: Euryalidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 195674
 stateofmatter: Life
 kingdom: Animalia
@@ -19,88 +24,88 @@ superorder: Euryophiurida
 order: Euryalida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
   caption: |
     <p>Sisters Island, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3.jpg
   caption: |
     <p>Upper side.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6018m3a.jpg
   caption: |
     <p>Conical structures at the end of tendrils.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6027m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3.jpg
   caption: |
     <p>On a <a href="../../cnidaria/others/gorgonacea/gorgonacea">sea fan</a> growing on a jetty leg.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130625ecpd8186m3a.jpg
   caption: |
     <p>Beting Bronok, Jul 13.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3.jpg
   caption: |
     <p>On a <a href="../../cnidaria/coralsoft/neppink">Flowery soft coral</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/130723bbd0060m3a.jpg
   caption: |
     <p>Beting Bronok, Jul 13.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk5m3.jpg
   caption: |
     <p>On seagrass.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk6m3.jpg
   caption: |
     <p>Pulau Hantu, Nov 09 Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/11/091107-hantu-pooping-slugl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2a.jpg
   caption: |
     <p>Changi CP7, Jan 21</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210114chg7vc2b.jpg
   caption: |
     <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158198889847945&set=a.10158199512532945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210724chgjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/210724chgjll1.jpg
   caption: |
     <p>Changi, Jul 21 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158416016141295&set=a.10158416005666295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch4m3.jpg
   caption: |
     <p>Beting Bronok,</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100614bbtch5m3.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/06/return-to-beting-bronokl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks5m3.jpg
   caption: |
     <p>Beting Bronok,</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/140713bblks6m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/08/hows-beting-bronok-over-two-yearsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks1.jpg
   caption: |
     <p>Beting Bronok,</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/170625bblks2.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155490537633158.1073741949.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11.jpg
   caption: |
     <p>Beting Bronok, Jun 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450077893158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/180616bblks11a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3.jpg
   caption: |
     <p>Terumbu Berkas,</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/100130brktch2m3a.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/4316606136/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk7m3.jpg
   caption: |
     <p>Pulau Hantu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/091108hntjk8m3.jpg
   caption: |
     <p>The underside.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/ophiuroidea/basket/120124sisd6015m3e.jpg
 ---
 
 
@@ -128,7 +133,7 @@ flexible. These eventually form a complex basket-like tangle that
 is used to filter feed in the water. Each 'tendril' may be tipped
 with a conical structure. Mouth on the underside. Some produced a
 great deal of slime when handled.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

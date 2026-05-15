@@ -1,11 +1,13 @@
 ---
 title: Trumpet coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "trumpet, caulastraea, faviidae, merulinidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: trumpet, caulastraea, faviidae, merulinidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Merulinidae
 genus: Caulastraea
-species: ""
+species: ''
 attributes: []
 inat_id: 1115926
 stateofmatter: Life
@@ -16,40 +18,40 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
   caption: |
     <p>Kusu Island, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusad0062m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3f.jpg
   caption: |
     <p>Raffles Lighthouse,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/060713rlhg6334m3e.jpg
   caption: |
     <p>Tentacles peeping out.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3.jpg
   caption: |
     <p>Kusu Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040606kusg0480m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3.jpg
   caption: |
     <p>Beting Bemban Besar, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/090625bsrd5344m3a.jpg
   caption: |
     <p>Trumpet shaped corallites.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/130527tmlks.JPG
   caption: |
     <p>Tanah Merah, May 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14152525406/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/240527srplks6.jpg
   caption: |
     <p>Sentosa Serapong, May 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10161375044483158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/merulinidae/caulastraea/040522kusbd0064m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -112,7 +114,7 @@ the IUCN](http://www.iucnredlist.org/apps/redlist/details/133453/0). Like other 
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: Dove snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dove, shell, snail, columbellidae, gastropod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
-genus: ""
+genus: ''
 species: Family
 attributes: []
 inat_id: 50704
@@ -17,32 +18,32 @@ order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fnggastropods.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/041212kusd8725m3.jpg
   caption: |
     <p>Kusu Island, Dec 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
   caption: |
     <p>Sentosa, Oct 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/050610sntg7562m3b.jpg
   caption: |
     <p>Narrow opening in a thick shell.</p>
     <p>What do they eat?</p>
     <p>The dove snails commonly seen on our shores graze on algae.</p>
     <p>Those that live on seagrass are grazers, chomping up diatoms, sponges and other tiny animals on the seagrass blades, while also scraping some of the seagrass itself.</p>
     <p>Elsewhere, other species are carnivorous and may eat other molluscs, polychaete worms, crustaceans and ascidians.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/netted/111128sntd3999m3.jpg
   caption: |
     <p><a href="netted.htm">Turtle dove snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/ocellata/080802sjid8928m3.jpg
   caption: |
     <p><a href="ocellata.htm">Lighting dove snail</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
   caption: |
     <p><a href="dotted.htm">Dotted dove snail</a></p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -53,7 +54,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

@@ -1,11 +1,13 @@
 ---
 title: Lobed brain coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lobed, brain, mussidae, lobophylliidae, lobophyllia, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Lobophylliidae
 genus: Lobophyllia
-species: ""
+species: ''
 attributes: []
 inat_id: 503597
 stateofmatter: Life
@@ -16,70 +18,70 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusd3539m3.jpg
   caption: |
     <p>Kusu Island, May 05 Those with smaller circular corallites sometimes mistaken for <a href="../merulinidae/caulastraea">Trumpet corals</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/050528kusg7047m3b.jpg
   caption: |
     <p>Lobed brain corals have bigger 'teeth' than <a href="../merulinidae/caulastraea">Trumpet corals</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3.jpg
   caption: |
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/040705sisd2169m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
   caption: |
     <p>Raffles Lighthouse, Jul 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/150706srplks.JPG
   caption: |
     <p>Sentosa Serapong, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/19307076228/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4263m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100530tbkd4396m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091204pawd5317m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100613snglks2m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719550566/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/091205pawlks8m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4166014368/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3.jpg
   caption: |
     <p>Terumbu Semakau, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100616tsmmn1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/budak/4708133539/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/130824smkd2605m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -139,7 +141,7 @@ corals](../merulinidae/caulastraea) (*Caulastraea* sp.) as both have branching c
 with circular openings. More on how to tell apart [hard
 corals with big rings and fleshy tissue](../cfbigring).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

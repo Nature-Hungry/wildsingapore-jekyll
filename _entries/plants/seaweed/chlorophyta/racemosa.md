@@ -1,13 +1,17 @@
 ---
 title: Oval sea grapes seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "oval, grapes, seaweed, weed, green, caulerpa, racemosa, caulerpaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: oval, grapes, seaweed, weed, green, caulerpa, racemosa, caulerpaceae, chlorophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Chlorophyta
 family: Caulerpaceae
 genus: Caulerpa
 species: racemosa*
-attributes: [97, 115]
+attributes:
+- 97
+- 115
 inat_id: 50926
 stateofmatter: Life
 kingdom: Plantae
@@ -16,52 +20,52 @@ class: Ulvophyceae
 order: Bryopsidales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6601m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/050625labd4351m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/110715cyrd6602m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/170723ubnay7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/170723ubnay7.jpg
   caption: |
     <p>Pulau Ubin, Jul 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211189580467598.1073741898.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/081129ecpmlks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/081129ecpmlks01m3.jpg
   caption: |
     <p>East Coast, Nov 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/11/intricate-and-fanciful-snailsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/160124smkegl3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/160124smkegl3.jpg
   caption: |
     <p>Pulau Semakau East, Jan 16Photo shared by Geraldine Lee on <a href="https://www.facebook.com/geraldine.lee.9081/media_set?set=a.10154477811788448.1073741834.611888447&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100531biod4524m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100130brkd8609m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/100810sngd9888m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/racemosa/070704jngg1230m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -128,7 +132,7 @@ makes them toxic to humans.
   
 This seaweed is considered an alien invasive species in the Mediterranean.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

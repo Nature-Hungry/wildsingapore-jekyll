@@ -1,7 +1,9 @@
 ---
 title: Dotted dove snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "dotted, dove, shell, snail, euplica, scripta, columbellidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: dotted, dove, shell, snail, euplica, scripta, columbellidae, gastropod,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Columbellidae
 genus: Euplica
@@ -17,31 +19,31 @@ order: Neogastropoda
 superfamily: Buccinoidea
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
   caption: |
     <p>Pulau Sekudu, Jul 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/080816sisd9513.jpg
   caption: |
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/041018sntd7462m3.jpg
   caption: |
     <p>Sentosa, Oct 04rs.</p>
     <p>St.</p>
     <p>John's Island, Sep 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2112.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/111030skdd3263m3.jpg
   caption: |
     <p>Sometimes seen in groups.</p>
     <p>Pulau Sekudu, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/070901sjig2116m3.jpg
   caption: |
     <p>Eating the algae growing on seaweed.</p>
     <p>St.</p>
     <p>John's Island, Sep 07</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/columbellidae/dotted/200706skd.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -89,7 +91,7 @@ snails that live on seagrasses, it is probably a grazer, chomping
 up diatoms, sponges and other tiny animals on the seagrass blades,
 while also scraping some of the seagrass itself.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

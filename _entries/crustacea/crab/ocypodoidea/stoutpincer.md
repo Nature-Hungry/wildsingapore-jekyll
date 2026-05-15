@@ -1,11 +1,15 @@
 ---
 title: Stout pincered fiddler crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fiddler, crab, uca, ocypodidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106, 112]
+attributes:
+- 38
+- 106
+- 112
 family: Ocypodidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 51932
 stateofmatter: Life
@@ -24,31 +28,31 @@ zoosubsection: Thoracotremata
 superfamily: Ocypodoidea
 updated: Dec 2019
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngfiddlers)</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0180m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090816sbwrd9021m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090926cjd1900m3e.jpg
   caption: |
     <p>Chek Jawa, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/091226cjd6274m3.jpg
   caption: |
     <p>Chek Jawa, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/100411prpd1059m3.jpg
   caption: |
     <p>Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090905sbwrd0179m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/ocypodoidea/uca/stoutpincer/090829cjjk1m3.jpg
   caption: |
     <p>Chek Jawa, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/pulau-ubin-with-nhcl">his blog</a>.</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -59,7 +63,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals)
 | [all plants](../../../plants)

@@ -1,7 +1,9 @@
 ---
 title: Sponge barnacle
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sponge, barnacle, membranobalanus, longirostrum, archaeobalanidae, cirripedia,
+  crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Archaeobalanidae
 genus: Membranobalanus
@@ -22,28 +24,28 @@ order: Balanomorpha
 superfamily: Balanoidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080919sntd0612m3b.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/080519sisd3438m3b.jpg
   caption: |
     <p>Sisters Island, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/120819cyrmn.jpg
   caption: |
     <p>Cyrene Reef, Aug 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/17002137606/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/180912tkkmn1.jpg
   caption: |
     <p>Pulau Tekukor, Sep 19Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10155838276313660&set=a.10155838276003660&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/230522tptmn1.jpg
   caption: |
     <p>Terumbu Pempang Tengah, May 23Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159605789398660&set=a.10159605794908660">facebook</a>.</p>
-- url: "https://live.staticflickr.com/8288/7812367154_acf8fbfb05_z.jpg"
+- url: https://live.staticflickr.com/8288/7812367154_acf8fbfb05_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/budak/7812367154 "Sponge commensals")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/sponge/050509hntg5946m3b.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -80,7 +82,7 @@ seen?** The tiny feathery feet of this barnacle is sometimes seen in Chocolate s
 **Features:** Feet 0.5cm long extended out of holes in the sponge, transparent with tiny white spots.
 Shell embedded in the sponge and not visible.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,"
+keywords: thick, pink, branching, sponge, callyspongia, diffusa, callyspongiidae,
 layout: entry
 shape: branching
 title: Champagne  sponge
@@ -17,67 +17,67 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg
   caption: |
     <p>Pulau Hantu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/111225tmskd4881m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/111225tmskd4881m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/111225tmskd4881m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/111225tmskd4881m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/080220smkd9826m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/080220smkd9826m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/080220smkd9826m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/080220smkd9826m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/070615sntrd2202m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/070615sntrd2202m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/070615sntrd2202m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/070615sntrd2202m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/070701hntd3029m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/070701hntd3029m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/070701hntd3029m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/070701hntd3029m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100131slud8873m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100131slud8873m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100131slud8873m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100131slud8873m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/151001blylks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/151001blylks7m3.jpg
   caption: |
     <p>Berlayar Creek, )ct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8544m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8544m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8544m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8544m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/091205sudlks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/091205sudlks8m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/091205sudlks8m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/091205sudlks8m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4168122397/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100601slud4950m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100601slud4950m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100530tbkd4277m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100530tbkd4277m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8487m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100130brkd8487m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/thickpink/100627hntd7322m3.jpg
 ---
 
 
@@ -108,7 +108,7 @@ along the length of the branch.
 pink sponge](lumppink.htm) which has deeper holes, a more encrusting form and
 smoother texture and is usually bright pink or bright purple.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

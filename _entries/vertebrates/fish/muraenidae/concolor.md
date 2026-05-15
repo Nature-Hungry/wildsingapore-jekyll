@@ -1,9 +1,16 @@
 ---
 title: Brown       moray eel
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brown, unicolor, unicolour, snake, moray, eel, fish, uropterygius, concolor, muraenidae , field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: brown, unicolor, unicolour, snake, moray, eel, fish, uropterygius, concolor,
+  muraenidae , field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 25, 43, 47]
+attributes:
+- 9
+- 15
+- 25
+- 43
+- 47
 family: Muraenidae
 genus: Uropterygius
 species: concolor*
@@ -20,28 +27,28 @@ subfamily: Uropterygiinae
 complex: Uropterygius concolor
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
   caption: |
     <p>No pelvic fins</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m6la.jpg
   caption: |
     <p>Tuas, Apr 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m6l.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120409tptd8719m3b.jpg
   caption: |
     <p>Fins mostly towards the tail.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6l.jpg
   caption: |
     <p>Pulau Sekudu, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/120508skdsy1m6la.jpg
   caption: |
     <p>Photo shared by Sam Yeo on <a href="https://www.facebook.com/media/set/?set=a.10150951886968140.482862.580878139&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/080819cymn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/080819cymn.jpg
   caption: |
     <p>Cyrene, Aug 08 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/2789307821/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/muraenidae/concolor/040409tusad0048m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -89,7 +96,7 @@ in S-shapes, rather like a snake.
 on [how to tell apart sea
 snakes, eels and eel-like animals](../../../glossary/eelsnake.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,11 +1,13 @@
 ---
 title: Pinwheel leathery soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lobophytum, alcyoniidae, alcyonacea, leathery, soft, coral, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Alcyoniidae
 genus: Lobophytum
-species: ""
+species: ''
 attributes: []
 inat_id: 416177
 stateofmatter: Life
@@ -16,67 +18,67 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
   caption: |
     <p>Pulau Hantu, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/181223tplm3.jpg
   caption: |
     <p>Often resembles a pinwheel.</p>
     <p>Terumbu Pempang Laut, Dec 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/040705sisd2235m3.jpg
   caption: |
     <p>Upper disk and base diameter usually about the same diameter.</p>
     <p>Sisters Island, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0877m3.jpg
   caption: |
     <p>Sentosa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0866m3a.jpg
   caption: |
     <p>Sentosa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050808sntg0878m3a.jpg
   caption: |
     <p>Sentosa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091231biod6944m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5280m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5281m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/091204pawd5281m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3.jpg
   caption: |
     <p>Terumbu Salu, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100131slud8764m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8571m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8573m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100130brkd8573m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0067m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100811slud0068m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4219m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100601slud4727m3.jpg
   caption: |
     <p>Pulau Salu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/100530tbkd4207m3a.jpg
   caption: |
     <p>Bleaching.</p>
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/letpinwheel/050312hntg3315m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -132,7 +134,7 @@ completely into the common tissue. Out of water, the surface of the
 common tissue has two different kinds of holes; bigger one where the
 retracted autozooids are, and smaller ones where the siphonozooids
 are.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

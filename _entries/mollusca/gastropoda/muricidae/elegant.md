@@ -1,9 +1,17 @@
 ---
 title: Elegant drill
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: drill, muricidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 76, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 71
+- 76
+- 100
+- 111
+- 123
 family: Muricidae
 genus: Thais
 species: sp.*
@@ -18,37 +26,37 @@ superfamily: Muricoidea
 subfamily: Rapaninae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
   caption: |
     <p>Chek Jawa, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3834m3.jpg
   caption: |
     <p>Underside</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050502cjg5704m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060516chgd2071m3.jpg
   caption: |
     <p>Changi, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3a.jpg
   caption: |
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0441m3b.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3.jpg
   caption: |
     <p>Changi, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/050726chgg0439m3c.jpg
   caption: |
     <p>Yellow capsules yet to hatch, Hatched capsules purple.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/091217sbglks.JPG
   caption: |
     <p>Sembawang, Dec 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4197553492/in/album-72157622905436345/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/190423pglsg1.jpg
   caption: |
     <p>Punggol, Apr 19Photo shared by Shawne Goh on <a href="https://www.facebook.com/photo.php?fbid=10218934950674116&set=a.10218934947194029&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/muricidae/elegant/060114cjg3840m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -97,7 +105,7 @@ of shells. They are difficult to distinguish with certainty in the
 field. On this website, they are grouped by external features for
 convenience of display.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

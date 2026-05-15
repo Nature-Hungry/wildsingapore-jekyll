@@ -1,9 +1,17 @@
 ---
 title: Flower crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flower, crab, crustacea, portunidae, portunus, pelagicus, decapod, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112, 119]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
+- 119
 family: Portunidae
 genus: Portunus
 species: pelagicus
@@ -25,53 +33,53 @@ superfamily: Portunoidea
 subfamily: Portuninae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/tiny/040719sntd2861m3.jpg
   caption: |
     <p>Flower crab (top) next to its moulted shell (bottom) Sentosa, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050621skdg8000m3.jpg
   caption: |
     <p>Mating crabs, male on top.</p>
     <p>Pulau Sekudu, Jun 05 <a href="tiny">Smaller juvenile flower crabs</a> (1-2cm) may have a wide variety of colours and patterns including bold bars and blotches.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/ciriipedia/parasitic/060429skdd1418m3.jpg
   caption: |
     <p>Those infected with <a href="../../othercrust/ciriipedia/thompsonia">parasitic barnacles</a> tend to be covered with seaweeds.</p>
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/101008tusd1761m3.jpg
   caption: |
     <p>Buried in sand.</p>
     <p>Tuas, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050428cftd2923m3.jpg
   caption: |
     <p><a href="tiny">Tiny ones</a> are also seen.</p>
     <p>This one is hardly bigger than a Button snail.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/201020prpalks4.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706825243158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100528tkknml5m3.jpg
   caption: |
     <p>Pulau Tekukor , May 10Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2010/05/land-of-all-zoanthids-includes-somel">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/110423tpllks1m3.jpg
   caption: |
     <p>Terumbu Pempang Laut, Apr 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/04/first-visit-to-terumbu-pempang-lautl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/151001blylks11m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100130brkd8464m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/100810snglks4m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4889338305/">his flickr</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Brooks/Cole of Thomson Learning Inc., 7th Edition.</p>
     <p>pp.</p>
     <p>963.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/pelagicus/050622cftg8190m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -146,7 +154,7 @@ sponge) to her abdomen where she cares for them until they hatch.
 They hatch into free-swimming larvae that drift with the plankton,
 changing into yet another form before settling down and developing
 into miniature flower crabs. 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **What does it eat?** The flower crab
 is a predator. In other parts of the world, it has been reported to

@@ -1,7 +1,9 @@
 ---
 title: Banded file snake
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: banded, file, snake, watersnake, acrochordus, granulatus, acrochordidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Acrochordidae
 genus: Acrochordus
@@ -17,73 +19,73 @@ order: Squamata
 suborder: Serpentes
 updated: Oct 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3a.jpg
   caption: |
     <p>Loose, granulated skin Pulau Sekudu, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9361m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9361m3.jpg
   caption: |
     <p>Central fold on the underside Pulau Sekudu, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3c.jpg
   caption: |
     <p>Small eyes (clouded, suggesting the snake is about to moult)</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/090721skdd7645m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/090721skdd7645m3.jpg
   caption: |
     <p>Loose skin and the tail is not paddle-shaped.</p>
     <p>Pulau Sekudu, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/170626skdlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/170626skdlks4.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155493331973158.1073741950.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/180617skdlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/180617skdlks2.jpg
   caption: |
     <p>Pulau Sekudu, Jun 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10156414549313158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/250501skddc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/250501skddc1.jpg
   caption: |
     <p>Pulau Sekudu, May 25Photo shared by Dayna Cheah on <a href="https://www.facebook.com/media/set/?set=a.9538001149649909&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/130824smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/130824smklks.JPG
   caption: |
     <p>Covered with algae!</p>
     <p>Pulau Semakau North, Aug 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul">his blog.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/181027smksjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/181027smksjll1.jpg
   caption: |
     <p>Covered with algae!</p>
     <p>Pulau Semakau South, Oct 18Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10155981328771295&set=a.10155981326811295&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/140810smkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/140810smkmn.jpg
   caption: |
     <p>Covered with algae!</p>
     <p>Pulau Semakau, Aug 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6908739259/in/photolist-azZC3r-bwv6u8-6GF3LA-6GAYm8-6GF2BY-6GF2Md-6GAXpn-6GAYax-6GF3wf-6GAY1e-6GAXUt-6GAXdZ-6GAWYg-6GAX8e-opLeGC">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/111029smkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/111029smkmn.jpg
   caption: |
     <p>A pair of snakes mating.</p>
     <p>Pulau Semakau, Oct 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/6291897909/in/photolist-azZC3r-bwv6u8-6GF3LA-6GAYm8-6GF2BY-6GF2Md-6GAXpn-6GAYax-6GF3wf-6GAY1e-6GAXUt-6GAXdZ-6GAWYg-6GAX8e-opLeGC">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/071103smkljh1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/071103smkljh1m3.jpg
   caption: |
     <p>Covered with algae!</p>
     <p>Pulau Semakau, Nov 07Photo shared by Lin Juanhui on <a href="http://flickr.com/photos/juanicths/816882567/">her flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/110814smkjk3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/110814smkjk3m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2011/08/110814-semakaul">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/221225smksmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/221225smksmn2.jpg
   caption: |
     <p>Pulau Semakau (South), Dec 22Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10159320169588660&set=a.10159320171603660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1.jpg
   caption: |
     <p>Pulau Semakau East, Jun 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654">facebook</a>.<a href="http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul">.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/260629smkeccn1a.jpg
   caption: |
     <p>Pulau Semakau East, Jun 25Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/media/set?vanity=checheng.neo&set=a.10162609140773654">facebook</a>.<a href="http://wondercreation.blogspot.sg/2013/08/reefy-splendor-of-northern-semakaul">.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2a.jpg
   caption: |
     <p>Terumbu Semakau, Aug 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/240822tsmkl2.jpg
   caption: |
     <p>Photo shared by Lon on <a href="https://www.facebook.com/media/set/?set=a.122107862744468741&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/200708tsmkmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/200708tsmkmn2.jpg
   caption: |
     <p>Terumbu Semakau, Jul 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10157528082573660&set=a.10157528078183660&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/snakes/granulatus/050710skdg9354m3.jpg
 ---
 
 
@@ -138,7 +140,7 @@ a small mouth.
   
 **File Babies:** Mama snake does not
 lay eggs and instead, gives birth to live young in litters of 5-10.  
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

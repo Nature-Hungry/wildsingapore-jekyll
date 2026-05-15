@@ -1,9 +1,16 @@
 ---
 title: Galloping sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "galloping, sea star, seastar, starfish, star, fish, stellaster, childreni, equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: galloping, sea star, seastar, starfish, star, fish, stellaster, childreni,
+  equestris, goniasteridae, asteroidea, echinoderm, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 91, 92, 106]
+attributes:
+- 0
+- 1
+- 91
+- 92
+- 106
 family: Goniasteridae
 genus: Stellaster
 species: childreni
@@ -17,37 +24,37 @@ superorder: Valvatacea
 order: Valvatida
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9084m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3.jpg
   caption: |
     <p>Sentosa, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1471m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3.jpg
   caption: |
     <p>Pale underside with colourful markings</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/100420sntd1475m3a.jpg
   caption: |
     <p>Tube feet with sucker tips.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4.jpg
   caption: |
     <p>Berlayar Creek, Oct 25Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10163226156649264&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4c.jpg
   caption: |
     <p>Tiny conical points on upperside</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/20251010blytl4b.jpg
   caption: |
     <p>Underside</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/equestris/110814smkd9075m3.jpg
 ---
 
 
@@ -80,7 +87,7 @@ synchronised stepping action of its tube feet.
 **Where
 seen?** According to Marsh and Fromont, the stomach has been seen filled with sand, mud and foraminfera.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

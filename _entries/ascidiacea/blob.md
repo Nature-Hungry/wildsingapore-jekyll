@@ -1,26 +1,28 @@
 ---
-title: "Blob ascidians (Ascidiacea) "
+title: 'Blob ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: blob, ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/060516chgd2023m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/120604pgld3538m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/120604pgld3538m6l.jpg
   caption: |
     <p>Punggol, Jun 12</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/blob/091203ubnd4985m3.jpg
 ---
  
 
@@ -49,7 +51,7 @@ of black, red, yellow, brown and beige.
 These blob ascidians look like the ones that are sometimes used by
 some [sponge crabs](../crustacea/crab/dromiidae/dromiidae) for camouflage and protection.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,12 @@
 ---
 title: Pong pong tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pong, cerbera, odollam, manghas, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pong, cerbera, odollam, manghas, apocynaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Apocynaceae
-genus: ""
+genus: ''
 species: Cerbera
 attributes: []
 inat_id: 47362
@@ -16,45 +18,45 @@ class: Magnoliopsida
 order: Gentianales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
   caption: |
     <p>Growing wild.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7241m3.jpg
   caption: |
     <p>Planted in a park.</p>
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090822sisd9810m3.jpg
   caption: |
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9388m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9388m3.jpg
   caption: |
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/091115ubnd4199m6l.jpg
   caption: |
     <p>Fruit germinating on the high shore.</p>
     <p>Pulau Ubin, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/081206smkd2445m3.jpg
   caption: |
     <p><a href="odollam">Yellow-eyed pong pong tree</a> (Cerbera odollam)</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090410ubnd9387m3.jpg
   caption: |
     <p>Flower with yellow eye.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/odollam/090208smkd6467m3a.jpg
   caption: |
     <p>Fruits globular, round.</p>
     <p>Solitary.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/070623cjd2701m3b.jpg
   caption: |
     <p><a href="manghas">Pink-eyed pong pong tree</a> (Cerbera manghas)</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1325m3.jpg
   caption: |
     <p>Flower with pink eye.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3a.jpg
   caption: |
     <p>Fruits oblong, mango-shaped.</p>
     <p>Often paired.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -75,7 +77,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -83,7 +85,7 @@ page_images:
     <p>- Tomlinson, P.</p>
     <p>B., 1986.</p>
     <p>[The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Cambridge University Press.</p>
     <p>USA.</p>
@@ -91,7 +93,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -111,7 +113,7 @@ page_images:
     <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4853m6.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -179,7 +181,7 @@ odollam* is listed as 'Vulnerable' while *Cerbera manghas*
 is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

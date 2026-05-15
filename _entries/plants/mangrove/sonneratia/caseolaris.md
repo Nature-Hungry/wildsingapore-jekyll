@@ -1,9 +1,17 @@
 ---
-title: "Berembang "
+title: 'Berembang '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "beremban, sonneratia, caseolaris, lythraceae, sonneratiaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: beremban, sonneratia, caseolaris, lythraceae, sonneratiaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 61, 68]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 61
+- 68
 family: Lythraceae
 genus: Sonneratia
 species: caseolaris
@@ -16,51 +24,51 @@ order: Myrtales
 inat_id: 196662
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
   caption: |
     <p>Planted in the Park Pasir Ris Park, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6485m3.jpg
   caption: |
     <p>Red petals on unopened flower.</p>
     <p>Pasir Ris Park, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6480m3.jpg
   caption: |
     <p>Calyx lobes flat, spreading out horizontally.</p>
     <p>Pasir Ris Park, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/110311prpd7026m3.jpg
   caption: |
     <p>Calyx sepals greenish on the inside.</p>
     <p>Pasir Ris Park, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2739m3.jpg
   caption: |
     <p>Petals red, stamens pinkish at the base.</p>
     <p>Woodland Park, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6131m6l.jpg
   caption: |
     <p>Wild tree.</p>
     <p>Woodland Park, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6135m3.jpg
   caption: |
     <p>Woodland Park, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/121227prpd2726m6l.jpg
   caption: |
     <p>Young branches hang down like those of the weeping willow.</p>
     <p>Pasir Ris Park, Dec 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091220wdld6136m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6475m3.jpg
   caption: |
     <p>Mating Atlas moths on the tree.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6472m3.jpg
   caption: |
     <p>Atlas moth cocoon on the tree.</p>
     <p>Pasir Ris Park, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/091230prpd6477m3.jpg
   caption: |
     <p>Sunbird nesting in Berembang.</p>
     <p>Pasir Ris Park, Jan 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/caseolaris/100411prpd0907m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -146,7 +154,7 @@ soles of shoes.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

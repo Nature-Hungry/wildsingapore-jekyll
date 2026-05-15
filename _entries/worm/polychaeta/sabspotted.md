@@ -1,10 +1,12 @@
 ---
 title: Spotted fanworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fan, worm, fanworm, sabellid, sabellidae, polychaete, annelid, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Sabellidae
-genus: ""
+genus: ''
 species: identification*
 attributes: []
 inat_id: 49282
@@ -17,31 +19,31 @@ infraclass: Canalipalpata
 order: Sabellida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
   caption: |
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090529prpd2885m3.jpg
   caption: |
     <p>Pasir Ris, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3b.jpg
   caption: |
     <p>Tiny black spots on the feathery tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3.jpg
   caption: |
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/040702chgd1528m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090824tusjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090824tusjk1m3.jpg
   caption: |
     <p>Tuas, Aug 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/08/tuas-soft-coral-and-zoanthidsl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/140616bbrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/140616bbrl.jpg
   caption: |
     <p>Beting Bronok, Jun 14Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.751583111559750.1073741836.109257872458947/751585138226214/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/251206chgerqo4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/251206chgerqo4.jpg
   caption: |
     <p>Changi East (Lost Coast), Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.897750219408386&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polychaeta/sabellidae/spotted/090427chgd0664m3.jpg
 ---
 
 
@@ -75,7 +77,7 @@ Sometimes this fanworm is seen at low tide with the fan still out
 of the tube and the fan 'feathers' stuck together into 'petals' so
 that it looks like a bizarre flower!  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

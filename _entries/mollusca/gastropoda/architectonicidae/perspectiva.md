@@ -1,7 +1,9 @@
 ---
 title: Clear sundial snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sundial, architectonica, perspectiva, architectonicidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sundial, architectonica, perspectiva, architectonicidae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Architectonicidae
 genus: Architectonica
@@ -16,39 +18,39 @@ subclass: Heterobranchia
 superfamily: Architectonicoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
   caption: |
     <p>Sisters Island, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/1003021hntd9633m3.jpg
   caption: |
     <p>Pulau Hantu, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks1m3.jpg
   caption: |
     <p>Laying egg string.</p>
     <p>St.</p>
     <p>John's Island, May 09 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/090529sjilks2m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/dialling-sun-at-saint-johns.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chg6mn3.jpg
   caption: |
     <p>Changi, May 17Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10154515554383660.1073741918.624178659&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170528chglks1.jpg
   caption: |
     <p>Changi, May 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155349681998158&set=pcb.10155349682483158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/170820kusrk1.jpg
   caption: |
     <p>Kusu Island, Aug 17 Photo shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10155471084577906.1073741896.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/240212sjimn3.jpg
   caption: |
     <p>St John's Island, Feb 24 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo/?fbid=10160067037948660&set=a.10160067038553660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/171104cyrlks2.jpg
   caption: |
     <p>Cyrene Reef, Nov 17 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10155830725878158.1073741955.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/architectonicidae/perspectiva/100103sisd7573m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -90,7 +92,7 @@ flat base. Shell pattern of spirals in white, black and shades
 of brown. Body and fat tentacles are striped too, to match the
 shell. The operculum thin, flat and made of a horn-like material.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

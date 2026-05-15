@@ -1,9 +1,15 @@
 ---
 title: Velcro crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info,  photo"
+keywords: velcro, crab, camposcia, retusa, majidae, decapod, crustacea, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info,  photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Inachidae
 genus: Camposcia
 species: retusa
@@ -24,96 +30,96 @@ zoosubsection: Heterotremata
 superfamily: Majoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
   caption: |
     <p>Upperside Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2131m3a.jpg
   caption: |
     <p>Pincers are undecorated.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/080704sekd6776m3.jpg
   caption: |
     <p>Pulau Sekudu, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030716cjd0013m3.jpg
   caption: |
     <p>Chek Jawa, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/030615cjd0196m3.jpg
   caption: |
     <p>Chek Jawa, Jun 03</p>
-- url: "https://live.staticflickr.com/4580/23979805717_50c817cf46_z.jpg"
+- url: https://live.staticflickr.com/4580/23979805717_50c817cf46_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/23979805717/ "Velcro crab (Camposcia retusa)") Upside down crab (showing its small undecorated pincers) righting itself.</p>
     <p>Changi, Dec 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd2.jpg
   caption: |
     <p>Crabs decorated with <a href="../../../cnidaria/others/hydrozoa/stinging">Stinging hydroids</a>.</p>
     <p>Pulau Sekudu, Aug 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/240821skd1.jpg
   caption: |
     <p>Pulau Sekudu, Aug 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/201020swgvc8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/201020swgvc8.jpg
   caption: |
     <p>Sembawang, Oct 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158025500957945&set=a.10158025536362945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/251012chgmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/251012chgmn2.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/171205ubnay2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/171205ubnay2.jpg
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10212160291854776&set=a.10211189580467598&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2a.jpg
   caption: |
     <p>Beting Bronok, Jun 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/180616bblks2.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156450072328158&set=a.10156450071873158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/121017tuslks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/121017tuslks.JPG
   caption: |
     <p>Tuas, Oct 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8262252005/in/album-72157618623639729/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170429epcnlks1.jpg
   caption: |
     <p>East Coast Park, Apr 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155257710433158&set=a.10155257710348158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/220519ecpbky2.jpg
   caption: |
     <p>East Coast Park-Marina East, May 22Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10167054739020112&set=a.10167054736560112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/130427sntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/130427sntmn.jpg
   caption: |
     <p>Sentosa, Apr 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8684190437/in/album-72157633345351507/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120818lazlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120818lazlks2.JPG
   caption: |
     <p>Seringat Kias, Aug 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/08/exploring-new-stretch-of-seringat-kiasl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/170726lsisjll1.jpg
   caption: |
     <p>Little Sisters Island, Jul 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154892679621295.1073741896.542241294&type=3&pnref=story.unseen-section">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/101224sislks2m3.JPG
   caption: |
     <p>Sisters Island, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/12/christmas-eve-with-big-sisterl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/110123sislks1m3.JPG
   caption: |
     <p>Sisters Island, Jan 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/01/colours-of-big-sisters-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100710sistch3m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jul 10Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2010/07/hawksbill-turtle-big-sisters-islandl">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070902sjilks01m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/09/evening-with-saintl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070901sjimn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/070901sjimn.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 07Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/1300529486/">flickr.</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100528tkkjk.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/100528tkkjk.JPG
   caption: |
     <p>Pulau Tekukor, May 10Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4647293242/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120411hntmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/120411hntmn.jpg
   caption: |
     <p>Pulau Hantu, Apr 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8194873493/in/album-72157632034330795/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/140715tryhpy.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/140715tryhpy.jpg
   caption: |
     <p>Terumbu Raya, Jul 14Photo shared by Heng Pei Yan on <a href="https://www.flickr.com/photos/29889221@N00/15355479439/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/majoidea/retusa/050822cjg2135m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -161,7 +167,7 @@ areas. But it requires a keen eye to spot!
 sides. Often all you can see are its tiny eyes on long curved eyestalks
 at the tip of its pointed head. Pincers short cylindrical, claws slender
 and curving.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

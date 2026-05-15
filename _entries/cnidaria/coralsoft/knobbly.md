@@ -1,11 +1,12 @@
 ---
 title: Knobbly soft coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "knobbly, carijoa, alcyonacea, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: knobbly, carijoa, alcyonacea, cnidaria, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Clavulariidae
 genus: Carijoa
-species: ""
+species: ''
 attributes: []
 inat_id: 51010
 stateofmatter: Life
@@ -16,40 +17,40 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
   caption: |
     <p>Keppel Bay, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3a.jpg
   caption: |
     <p>Secondary polyps emerge from a capsule.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3b.jpg
   caption: |
     <p>Eight branched tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/060430skdg5827m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3.jpg
   caption: |
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/070604chgg0134m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/120704chgd6877m3a.jpg
   caption: |
     <p>Growing on a living sea fan.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/170723ubnlks4.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608393858158.1073741951.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/160806tpllks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/160806tpllks7.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10154410920778158&set=a.10154410914668158&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralsoft/knobbly/091011mkbd2708m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -98,7 +99,7 @@ water and dark places.
 **Sometimes mistaken for** a [sea
 fan](../others/gorgonacea/gorgonacea.htm) (Order Gorgonacea) or a [hydroid](../others/hydrozoa/hydrozoa.htm) (Order Hydrozoa).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

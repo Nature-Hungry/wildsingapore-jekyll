@@ -1,9 +1,15 @@
 ---
 title: Seashore bat lily
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: batlily, bat, lily, tacca, leontopetaloides, taccaceae, plant, tree, bush,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 53]
+attributes:
+- 18
+- 21
+- 36
+- 53
 family: Taccaceae
 genus: Tacca
 species: leontopetaloides
@@ -16,26 +22,26 @@ order: Dioscoreales
 inat_id: 140999
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
   caption: |
     <p>Pulau Semakau, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2502m3.jpg
   caption: |
     <p>Grows in shady spots under coastal forest trees near the shoreline.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2488m3.jpg
   caption: |
     <p>Fruits.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/081206smkd2489m3.jpg
   caption: |
     <p>Flower cluster with 'whiskers'.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/051018smkg2756m3.jpg
   caption: |
     <p>Flower cluster with 'whiskers'.</p>
     <p>Pulau Semakau, May 10</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
@@ -51,13 +57,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/tacca/leontopetaloides/110820smkd9675m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -122,7 +128,7 @@ plants of Singapore. It is mainly threatened by the loss of its preferred
 habitats of undisturbed coastal forest. Even in the past only recorded
 from Pulau Semakau and Pulau Senang.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 

@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
+keywords: black, spiky, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: branching
 title: Black antler sponge
@@ -17,31 +17,31 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3.jpg
   caption: |
     <p>Pulau Sekudu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/050806skdd5505m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/100727chgd9359m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/260103prplks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/260103prplks4.jpg
   caption: |
     <p>Pasir Ris Park, Jan 26 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163789590103158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/160208smkshpy1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/branchblack/160208smkshpy1.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/branchblack/070716chgd4288m3.jpg
 ---
 
 
@@ -67,7 +67,7 @@ points. Also with low knobs. Holes at the top of knobs, and along
 the length of the 'stems'. Colour usually a deep black, but when exposed
 out of water may be greyish.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

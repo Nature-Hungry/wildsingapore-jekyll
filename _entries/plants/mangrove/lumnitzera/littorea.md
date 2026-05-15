@@ -1,9 +1,15 @@
 ---
-title: "Teruntum merah "
+title: 'Teruntum merah '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "teruntum, merah, lumnitzera, littorea, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: teruntum, merah, lumnitzera, littorea, combretaceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Combretaceae
 genus: Lumnitzera
 species: littorea
@@ -16,33 +22,33 @@ order: Myrtales
 inat_id: 196656
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9122m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9122m3b.jpg
   caption: |
     <p>Small gland at the leaf tip.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090410ubnd9278m3.jpg
   caption: |
     <p>Bark deeply fissured.</p>
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3b.jpg
   caption: |
     <p>Stamens much longer than petals.</p>
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090315smkd8194m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090112smkd4965m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/091115ubnd4139m3.jpg
   caption: |
     <p>Pulau Semakau, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/081213smkd3025m3a.jpg
   caption: |
     <p>Pulau Semakau, Dec 12</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/littorea/090816ubind9120m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +123,7 @@ also used as firewood.
 **Status and threats:** It is listed
 as 'Endangered' on the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

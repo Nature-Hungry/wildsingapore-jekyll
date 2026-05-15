@@ -1,9 +1,14 @@
 ---
-title: "Kuku tupai "
+title: 'Kuku tupai '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "caesalpinia, crista, fabacea, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: caesalpinia, crista, fabacea, plant, tree, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Fabacea
 genus: Caesalpinia
 species: crista
@@ -18,38 +23,38 @@ tribe: Caesalpinieae
 inat_id: 1533609
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
   caption: |
     <p>Kranji Nature Trail, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6495m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6495m3.jpg
   caption: |
     <p>Kranji Nature Trail, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6503m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6503m6l.jpg
   caption: |
     <p>Leaf is bipinnate.</p>
     <p>Kranji Nature Trail, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6504m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6504m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6503m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6503m3a.jpg
   caption: |
     <p>Kranji Nature Trail, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6501m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6501m3.jpg
   caption: |
     <p>Kranji Nature Trail, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6501m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6501m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6517m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6517m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110207krjd6054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110207krjd6054m3.jpg
   caption: |
     <p>Kranji Nature Trail, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/091115ubnd4176m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/091115ubnd4176m3.jpg
   caption: |
     <p>Pulau Ubin, Nov 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/caesalpinia/crista/110301sbwrd6481m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -118,7 +123,7 @@ A. The seeds are also used by children as marbles.
 is listed as 'Vulnerable' in the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

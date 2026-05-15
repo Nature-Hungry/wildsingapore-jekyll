@@ -1,11 +1,13 @@
 ---
 title: Boulder pore coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: goniopora, anemone, poritidae, coral, hard, scleractinia, cnidaria, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Poritidae
 genus: Porites
-species: ""
+species: ''
 attributes: []
 inat_id: 47530
 stateofmatter: Life
@@ -16,111 +18,111 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
   caption: |
     <p>Pore coral forming a ring-shaped microatoll with another colony in the middle.</p>
     <p>Cyrene Reef, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg
   caption: |
     <p>Tiny hexagonal corallites.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg
   caption: |
     <p>Tiny polyps.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg
   caption: |
     <p>A burrowing animal?</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/120506sisd1104m3a.jpg
   caption: |
     <p>A bristleworm?</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080816sisd9553m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080816sisd9553m3.jpg
   caption: |
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080816sisd9554m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080816sisd9554m3a.jpg
   caption: |
     <p>Tiny spotted <a href="../../../worm/polycladida/acoel">acoel flatworms</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3.jpg
   caption: |
     <p>South Cyrene, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/101010scyrd2074m3a.jpg
   caption: |
     <p>Marks made by fishes grazing on the coral.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
   caption: |
     <p>Sisters Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080220smkd9810m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080220smkd9810m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080220smkd9812m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080220smkd9812m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/151001blylks8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/151001blylks8m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153670768683158.1073741895.547198157&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3.jpg
   caption: |
     <p>Pulau Biola,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091231biod7118m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3.jpg
   caption: |
     <p>Pulau Pawai,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/091204pawd0049m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3.jpg
   caption: |
     <p>Terumbu Berkas,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8590m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3.jpg
   caption: |
     <p>Terumbu Berkas,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100130brkd8460m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd0005m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3.jpg
   caption: |
     <p>Terumbu Salu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8899m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3.jpg
   caption: |
     <p>Terumbu Salu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100131slud8847m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100811slud0059m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100811slud0059m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd9942m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100810sngd9942m3.jpg
   caption: |
     <p>Pulau Senang, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100530tbkd4255m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100530tbkd4255m3.jpg
   caption: |
     <p>Pulau Berkas, May 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/110715cyrd6582m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -172,7 +174,7 @@ called micro atolls due to the low water level on the intertidal which
 restricts upward growth. Sometimes, another colony of corals may grow
 in the space within the ring.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

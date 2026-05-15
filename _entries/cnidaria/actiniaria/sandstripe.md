@@ -1,9 +1,14 @@
 ---
 title: Striped sand anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, hertwigi, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, anemone, actiniaria, cnidaria, actiniidae, paracondylactis, hertwigi,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [6, 67, 88]
+attributes:
+- 6
+- 67
+- 88
 family: Actiniidae
 genus: Paracondylactis
 species: hertwigi
@@ -18,34 +23,34 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
   caption: |
     <p>Pulau Sekudu, Apr 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/180811chglks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/180811chglks4.jpg
   caption: |
     <p>Changi, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156547443843158&set=a.10156547440993158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201019cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201019cnyrk1.jpg
   caption: |
     <p>Coney Island, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158588708217906&set=a.10158588678307906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/260216cnyrqo2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/260216cnyrqo2.jpg
   caption: |
     <p>Coney Island, Oct 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.955892726927468&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/101011chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/101011chglks.JPG
   caption: |
     <p>Changi, Oct 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5078461352/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201118nsrcssjk3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/201118nsrcssjk3.jpg
   caption: |
     <p>East Coast NSRCC, Nov 20Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/50622477796/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/251208melks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/251208melks7.jpg
   caption: |
     <p>Marina East, Dec 2025Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/220103tpljk1.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jan 22Photo shared by James Koh on <a href="https://www.facebook.com/photo/?fbid=5367307826615878&set=a.5367311406615520">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/sandstripe/060429skdd1375m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -87,7 +92,7 @@ stripes and white bars. The edge of the mouth has dark-and-light bars. Body colu
   
 **Status and threats:** As at 2024, it is assessed not to be approaching the criteria for being listed among the threatened animals in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

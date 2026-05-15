@@ -1,12 +1,17 @@
 ---
-title: "Paddler crab "
+title: 'Paddler crab '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "paddler, crab, varuna, varunidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: paddler, crab, varuna, varunidae, decapod, crustacea, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 69, 106, 112]
+attributes:
+- 38
+- 69
+- 106
+- 112
 family: Varunidae
 genus: Varuna
-species: ""
+species: ''
 inat_id: 371161
 stateofmatter: Life
 kingdom: Animalia
@@ -25,40 +30,40 @@ superfamily: Grapsoidea
 subfamily: Varuninae
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
   caption: |
     <p>Changi Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1.jpg
   caption: |
     <p>Clinging onto a floating coconut.</p>
     <p>Beting Bemban Besar, May 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/240526bbb2.jpg
   caption: |
     <p>Clinging onto floating trash.</p>
     <p>Beting Bemban Besar, May 24</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250627bbio5a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250627bbio5a.jpg
   caption: |
     <p>On floating trash.</p>
     <p>Beting Bronok, Jun 25 Photo shared by Isaac Ong on <a href="https://www.facebook.com/media/set/?set=a.122190233690567539&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/251009sjiky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/251009sjiky3.jpg
   caption: |
     <p>On a Nipah palm fruit.</p>
     <p>St.</p>
     <p>John's Island, Oct 25 Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173327367295112&type=3&ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250503cyrml2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/250503cyrml2.jpg
   caption: |
     <p>On floating trash.</p>
     <p>Cyrene, May 25 Photo shared by Mathias Luk on <a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02YUTX1JRu7m9p7J93C9CKLfnVVuCy8GaUr59cr4hHhpkb3HDj8B2FutwT3DiLQDRal&id=61566639210004&__cft__[0]=AZVvtYI7-_dfQKUoV8XeRX3LAZtbZOxYMSsBfFydeQKFdSMhD1OklSbAMUUOYNtO8Hs2qcn4DJCEdImG6evzEU6HQ9_GO-AkOcrSnK1M5fhtI0xIAUrXax0WORtCYuZ-nDI_4f44GsUflSD-RDYSml2cy4mckTne6Slb2J5riRRqhQ&__tn__=%2CO%2CP-R">facebook</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/varunidae/varuna/070604chgg0129m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -106,7 +111,7 @@ to the sea to hatch their eggs.
 Asia, these little crabs are harvested as food. The females with eggs
 are particularly relished.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

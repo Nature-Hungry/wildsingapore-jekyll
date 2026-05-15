@@ -1,9 +1,16 @@
 ---
 title: Lionfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: lion, fish, lionfish, pterois, scorpaenidae, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 74]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 74
 family: Scorpaenidae
 genus: Pterois
 species: sp.
@@ -19,19 +26,19 @@ suborder: Scorpaenoidei
 subfamily: Pteroinae
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
   caption: |
     <p>Pulau Hantu, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m6l.jpg
   caption: |
     <p>Russel's scorpionfish (Pterois russelii) Pulau Hantu, Aug 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/lionfish-on-lion-citys-birthday-atl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2b.jpg
   caption: |
     <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/240623hntlks2.jpg
   caption: |
     <p>Pulau Hantu, Jun 24 Shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161432229708158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/scorpaenidae/pterois/140809hntlks3m3b.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -67,7 +74,7 @@ seen?** This magnificent fish is sometimes seen on our Southern shores. Elsewher
   
 **Russel's lionfish** (*Pterois russelii*) does not have spots on the median fins.  
 **Volitans lionfish** (*Pterois volitans*) has spots on the median fins.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

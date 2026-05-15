@@ -1,12 +1,15 @@
 ---
-title: "Pebble crabs "
+title: 'Pebble crabs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pebble, crab, leucosiidae, decapod, crustacea, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106]
+attributes:
+- 38
+- 106
 family: Leucosiidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 122202
 stateofmatter: Life
 kingdom: Animalia
@@ -24,60 +27,60 @@ zoosubsection: Heterotremata
 superfamily: Leucosioidea
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
   caption: |
     <p>Changi, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/020127cjcpd5405m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/020127cjcpd5405m3.jpg
   caption: |
     <p>Seulocia vittata Chek Jawa, Jan 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/050726chgg0311m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/050726chgg0311m3.jpg
   caption: |
     <p>Leucosia anatum Mating pebble crabs Changi, Jul 05 According to the Singapore Red Data Book, the Rubble crab (Favus granulatus) is known only from Singapore and was a new genus and species discovered from Singapore and is not yet known elsewhere.</p>
     <p>It was found on Siloso Beach of Sentosa which has since been 'improved', and Pulau Semakau.</p>
     <p>Alox somphos, a related species in another genus was also first described from Singapore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7240m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7240m3.jpg
   caption: |
     <p>Leucosia anatum</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7238m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080706chg7238m3.jpg
   caption: |
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3045m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3045m3.jpg
   caption: |
     <p>Leucosia anatum</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3046m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120510chgd3046m3.jpg
   caption: |
     <p>Changi, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6687m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6687m3.jpg
   caption: |
     <p>Leucosia anatum</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6690m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/120703chgd6690m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/130624chglks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/130624chglks.JPG
   caption: |
     <p>Changi, Jun 13Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24794677901/in/album-72157607622389163/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/191214cjal6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/191214cjal6.jpg
   caption: |
     <p>Chek Jawa, Dec 19Photo shared by Adrianne Lee on <a href="https://www.facebook.com/photo.php?fbid=10157016714078693&set=a.10157016713653693&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/150618tmfthpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/150618tmfthpy1m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153322164199000.1073741963.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/210529ecpblks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/210529ecpblks5.jpg
   caption: |
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159233457623158&set=a.10159233461703158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/251011tgrlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/251011tgrlks2.jpg
   caption: |
     <p>Semtosa Tg Rimau, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163426739298158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/170429kustch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/170429kustch2.jpg
   caption: |
     <p>Kusu Island, Apr 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10155318560448713.1073742080.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/090529sjilks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/090529sjilks.jpg
   caption: |
     <p>St John's Island, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2009/05/my-first-st-johns-intertidal-guidedl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080310smklksm3.jpg
   caption: |
     <p>Leucosia craniolaris Pulau Semakau, Mar 08Photo shared by Loh Kok Sheng on  <a href="http://wondercreation.blogspot.com/2008/03/my-first-ojt-at-semakaul">his blog</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/leucosiidae/leucosiidae/080408chgd0009m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -118,7 +121,7 @@ forms a blunt pointed tip with a pair of tiny eyes. In this way, its
 eyes can peep out while the rest of the crab is buried underground.
 It has powerful long flat pincers with pointed claws. The crab can
 bury itself in the sand very rapidly. Some may be colourful.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Status and threats:** Some of our
 pebble crabs are listed as 'Endangered' on the Red List of threatened

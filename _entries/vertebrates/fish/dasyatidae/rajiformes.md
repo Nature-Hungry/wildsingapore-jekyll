@@ -1,11 +1,12 @@
 ---
-title: "Skates, rays and stingrays"
+title: Skates, rays and stingrays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: skate, sting, ray, stingray, fish, rajiformes, field, guide, seashore, sea,
+  shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dasyatidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47271
 stateofmatter: Life
@@ -18,52 +19,52 @@ infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
   caption: |
     <p>Swimming with undulations of the enlarged pectoral fins.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
   caption: |
     <p>Cute but shocking: the Electric ray.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
   caption: |
     <p>Gill openings behind the eyes.</p>
     <p>Stinging encounter!</p>
     <p>Stingrays are not aggressive animals and prefer to flee from danger.</p>
     <p>Most stingray injuries are the result of carelessness, generally when someone accidentally steps on a stingray that is lying harmlessly on the bottom.</p>
     <p>Stingray spines can penetrate through booties!</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
   caption: |
     <p>A commonly encountered stingray.</p>
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
   caption: |
     <p>Spine near the end of the tail.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
   caption: |
     <p><a href="lymma">Blue-spotted fantail ray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
   caption: |
     <p><a href="walga">Mangrove whipray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
   caption: |
     <p><a href="kuhlii">Blue-spotted stingray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
   caption: |
     <p><a href="uarnak">Honeycomb whipray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3.jpg
   caption: |
     <p><a href="../narcinidae/narcine">Numbfish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/myliobatidae/narinari/110506tmftd0849m6l.jpg
   caption: |
     <p><a href="../myliobatidae/narinari">Spotted eagle ray</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -119,7 +120,7 @@ The water is then expelled through gill slits on the underside of
 the body. The snout may function as an electroreceptive organ, sensitive
 to electric charges of prey buried in the ground.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 Most rays have a long tail, with a sting - usually near where the tail

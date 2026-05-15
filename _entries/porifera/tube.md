@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,"
+keywords: tubular, sponge, haliclona, chalinidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage
 title: Tubular sponge
@@ -17,37 +17,37 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
   caption: |
     <p>Pulau Semakau, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/030418cjd0097m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/030418cjd0097m3.jpg
   caption: |
     <p>Chek Jawa, Apr 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/050820bbd5730m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/050820bbd5730m3.jpg
   caption: |
     <p>Beting Bronok, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/110518bbd1866m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubeyellow/110518bbd1994m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/060528bbd2371m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tube/161116ecpbslks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tube/161116ecpbslks.jpg
   caption: |
     <p>East Coast Park, Nov 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154729015418158.1073741926.547198157&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/tube/050626smkd4449m3.jpg
 ---
 
 
@@ -77,7 +77,7 @@ tubular sponges](tubespiky.htm) (*Gelliodes* sp.) which have neat spikes
 regularly arranged around their hollow tubes forming a star-like shape
 around the large hole at the tibe of the tube.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

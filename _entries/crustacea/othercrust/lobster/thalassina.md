@@ -1,12 +1,17 @@
 ---
 title: Mud lobster
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mud, lobster, thalassina, anomala, gracilis, thalassinidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [84, 103, 104]
+attributes:
+- 84
+- 103
+- 104
 family: Thalassinidae
 genus: Thalassina
-species: ""
+species: ''
 inat_id: 342937
 stateofmatter: Life
 kingdom: Animalia
@@ -21,44 +26,44 @@ suborder: Pleocyemata
 infraorder: Gebiidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
   caption: |
     <p>Chek Jawa, Nov 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/120314cjd7720m3.jpg
   caption: |
     <p>Fresh mud from a mound suggests an active mud lobster deep underground.</p>
     <p>Chek Jawa, Mar 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/m321c.gif"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/m321c.gif
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/081109cjtch01m3.jpg
   caption: |
     <p>Shared by Toh Chay Hoon on <a href="http://www.flickr.com/photos/ilmare77/3018565289/">her flickr</a>.</p>
     <p>Chek Jawa, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/071008cjd6944m3.jpg
   caption: |
     <p>Mudlobster in its burrow.</p>
     <p>Chek Jawa, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090816sbwrd9070m3.jpg
   caption: |
     <p><a href="../../../plants/mangrove/acrostichum/acrostichum">Mangrove ferns</a> growing on a mound.</p>
     <p>Sungei Buloh Wetland Reserve, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090612pndd4034m3.jpg
   caption: |
     <p>Mudlobster mounds Sungei Pandan, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/091005cjd2220m6l.jpg
   caption: |
     <p>Mudlobster mounds Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/090829cjmn.jpg
   caption: |
     <p>Chek Jawa, Aug 09 Shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/3969350894/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/251213prprqo1.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?vanity=100075202496320&set=a.902246838958724">facebook</a>.</p>
-- url: "https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1"
+- url: https://farm4.staticflickr.com/3491/3869824396_53c75a7ba7_z.jpg?zz=1
   caption: |
     <p>](https://www.flickr.com/photos/micamonkey/3869824396/ "Mud Lobster at Chek Jawa!")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/lobster/thalassina/011114cjd689m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -120,7 +125,7 @@ water to penetrate the otherwise oxygen-poor ground. All this digging
 also eventually results in a distinctive volcano-shaped mound that
 can reach impressive proportions.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

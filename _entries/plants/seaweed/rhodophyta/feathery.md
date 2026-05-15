@@ -1,13 +1,18 @@
 ---
 title: Feathery red seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: feathery, seaweed, weed, spyridia, filamentosa, spyridiaceae, rhodophyta,
+  algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 division: Rhodophyta
 family: Spyridiaceae
 genus: Spyridia
 species: filamentosa*
-attributes: [97, 98, 114]
+attributes:
+- 97
+- 98
+- 114
 inat_id: 183101
 stateofmatter: Life
 kingdom: Plantae
@@ -20,38 +25,38 @@ subfamily: Spyridioideae
 tribe: Spyridieae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
   caption: |
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091218tmd5943m3.jpg
   caption: |
     <p>Tanah Merah, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/091205sudd5482m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3.jpg
   caption: |
     <p>Pulau Semakau, Sep 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050918smkg2684m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/080802sjid8693m3b.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/feathery/050525hntd3357m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -91,7 +96,7 @@ attached to hard things on sandy areas including tubeworm tubes.
 filaments that result in a feathery appearance. Usually reddish-brown,
 maroon sometimes with greenish tinge.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

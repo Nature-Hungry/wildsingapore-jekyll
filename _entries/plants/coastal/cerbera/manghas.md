@@ -1,9 +1,14 @@
 ---
 title: Pink-eyed pong pong tree
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pong, cerbera, manghas, apocynaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pong, cerbera, manghas, apocynaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 62]
+attributes:
+- 18
+- 21
+- 36
+- 62
 family: Apocynaceae
 genus: Cerbera
 species: manghas
@@ -19,40 +24,40 @@ tribe: Plumerieae
 subtribe: Thevetiinae
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
   caption: |
     <p>Near the high water mark on a natural rocky shore.</p>
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4856m3.jpg
   caption: |
     <p>Pulau Semakau, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4852m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090726smkf2939m3.jpg
   caption: |
     <p>Pulau Semakau, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090208smkd6477m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090111smkd4851m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090711sjid7247m3.jpg
   caption: |
     <p>Planted in park.</p>
     <p>St.</p>
     <p>John's Island, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/080412cjd1322m3.jpg
   caption: |
     <p>Chek Jawa, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/090627cjd5855m3.jpg
   caption: |
     <p>Chek Jawa, Jun 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -68,7 +73,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -76,7 +81,7 @@ page_images:
     <p>- Tomlinson, P.</p>
     <p>B., 1986.</p>
     <p>[The</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Cambridge University Press.</p>
     <p>USA.</p>
@@ -84,7 +89,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -104,7 +109,7 @@ page_images:
     <p><a href="http://www.science.edu.sg/ssc/prog.jsp?type=5&root=87&parent=87&cat=102">A Guide to Medicinal Plants</a>.</p>
     <p>The Singapore Science Centre.</p>
     <p>160pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cerbera/manghas/091005cjd2320m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -168,7 +173,7 @@ uses:** See the fact sheets on *[Cerbera](cerbera)*[species in general](cerbera)
 is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

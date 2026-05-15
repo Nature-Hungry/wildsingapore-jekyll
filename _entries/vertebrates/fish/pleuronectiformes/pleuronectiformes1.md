@@ -1,11 +1,12 @@
 ---
-title: "Flatfishes: how to tell apart some common families"
+title: 'Flatfishes: how to tell apart some common families'
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, fish, flatfish, sole, flounder, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cynoglossidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 85721
 stateofmatter: Life
@@ -18,53 +19,53 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m4.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/ovata/050511cftg6220m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/paralichthyidae/paralichthyidae/050917smkg2477m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050529cjg6776m3.jpg
   caption: |
     <p>Some <a href="../../../mollusca/nudibranchia">nudibranchs</a> are large.</p>
     <p>They are snails without shells.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/villosa/050526cj6777m3.jpg
   caption: |
     <p>On the underside of a nudibranch is a broad foot.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brkd8439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/acanthozoon/100130brkd8439m3.jpg
   caption: |
     <p>Some <a href="../../../worm/polycladida/polycladida">flatworms</a> are large and fast moving.</p>
-- url: "http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/arthropoda/limulidae/carcinoscopius/060627krjd3660m3.jpg
   caption: |
     <p><a href="../../../arthropoda/limulidae/carcinoscorpius">Horseshoe crab</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/platycephalidae/nematophthalmus/040730skdd3246m3.jpg
   caption: |
     <p><a href="../platycephalidae/platycephalidae">Flathead</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/050511cftg6206m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/callionymidae/erythraeus/050511cftg6206m3.jpg
   caption: |
     <p><a href="../callionymidae/callionymidae">Dragonet</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -99,7 +100,7 @@ seen on our shores
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

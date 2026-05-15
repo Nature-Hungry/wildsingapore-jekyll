@@ -1,9 +1,14 @@
 ---
-title: "Misi "
+title: 'Misi '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "misi, gutta, pouteria, obovata, sapotaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: misi, gutta, pouteria, obovata, sapotaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 109]
+attributes:
+- 18
+- 21
+- 36
+- 109
 family: Sapotaceae
 genus: Pouteria
 species: obovata
@@ -16,79 +21,79 @@ class: Magnoliopsida
 order: Ericales
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3b.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0597m6l.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m6l.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5820m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5816m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5816m3.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5816m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091213ubnd5816m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9794m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9794m6l.jpg
   caption: |
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9797m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9797m3.jpg
   caption: |
     <p>Sisters Island, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9797m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090822sisd9797m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/100420sntd1511m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/100420sntd1511m3.jpg
   caption: |
     <p>Sentosa, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/100420sntd1514m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/100420sntd1514m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2350m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2350m6l.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2353m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2353m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2353m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/091005cjd2353m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7238m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7238m6l.jpg
   caption: |
     <p>Labrador, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7246m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7246m3.jpg
   caption: |
     <p>Labrador, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7240m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7240m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7238m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7238m3.jpg
   caption: |
     <p>Labrador, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7240m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/110316labd7240m3.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -97,7 +102,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -105,13 +110,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/obovata/090912chgbwd0590m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -163,7 +168,7 @@ to Burkill, the timber is heavy, pinkish brown and used for cabinet
 making and carving. The leaves are used in treatment for stomach ache,
 chest pains and poultices for lumbago.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

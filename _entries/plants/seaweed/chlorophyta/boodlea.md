@@ -1,13 +1,18 @@
 ---
 title: Fuzzy green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "boodlea, boodleaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: boodlea, boodleaceae, seaweed, weed, green, chlorophyta, algae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 division: Chlorophyta
 family: Boodleaceae
-genus: ""
+genus: ''
 species: Boodlea
-attributes: [46, 97, 99]
+attributes:
+- 46
+- 97
+- 99
 inat_id: 462172
 stateofmatter: Life
 kingdom: Plantae
@@ -16,37 +21,37 @@ class: Ulvophyceae
 order: Cladophorales
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/240211bigsisvc7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/240211bigsisvc7.jpg
   caption: |
     <p>Big Sisters Island, Feb 24 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160224110252945&set=a.10160224174947945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210429hntvc8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210429hntvc8.jpg
   caption: |
     <p>Pulau Hantu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158437638292945&set=a.10158431262127945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/150718smketch3m3a.jpg
   caption: |
     <p>Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153473816923713.1073741967.619308712&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/200708tsmkvc1a.jpg
   caption: |
     <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157782922207945&set=a.10157780993587945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/2007026tplvc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/2007026tplvc4.jpg
   caption: |
     <p>Terumbu Pempang Laut, Jul 20 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157827826557945&set=a.10157827824732945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210428sluvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/210428sluvc1.jpg
   caption: |
     <p>Pulau Salu, Apr 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158429562037945&set=a.10158429573917945">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/boodlea/070322cyrd9149m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -85,7 +90,7 @@ of fine, short filaments that branch in all directions. They form a spongy mass 
 According to [AlgaeBase](http://www.algaebase.org/search/genus/detail/?genus_id=35931),
 there are about 6 current *Boodlea* species.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
  *\*Species are difficult to positively identify

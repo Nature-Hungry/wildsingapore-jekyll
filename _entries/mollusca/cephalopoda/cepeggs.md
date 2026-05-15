@@ -1,84 +1,85 @@
 ---
 title: Cephalapod eggs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "squid, cuttlefish, octopus, cephalopod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: squid, cuttlefish, octopus, cephalopod, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
   caption: |
     <p>String of black egg capsules</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3.jpg
   caption: |
     <p>Developing babies</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/030701chgd0073m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080208hntd9473m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3.jpg
   caption: |
     <p>Changi, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3a.jpg
   caption: |
     <p>Carrying eggs?</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/bigseagrass/080801chgd8632m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/160125obsjt4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/160125obsjt4.jpg
   caption: |
     <p>Pulau Ubin OBS, Jan 16Photo shared by Jonathan Tan on <a href="https://www.facebook.com/Geppenguin/media_set?set=a.10153851748833119.1073741887.696593118&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/171206ubnlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/171206ubnlks5.jpg
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914553033158&set=a.10155914547808158&type=3&theater">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/171206ubnlks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/171206ubnlks7.jpg
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914552278158&set=a.10155914547808158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/210529ecpblks12.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/210529ecpblks12.jpg
   caption: |
     <p>East Coast Park, May 21 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233456273158&set=a.10159233461703158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/100302tmlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/100302tmlks3m3.jpg
   caption: |
     <p>East Coast Park, Mar 10 Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4405219873/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/090528ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/090528ecplks.JPG
   caption: |
     <p>East Coast Park, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3573335492/in/album-72157607719316847/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/200919bsisvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/200919bsisvc2.jpg
   caption: |
     <p>Big Sisters Island, Sep 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10157957419232945&set=a.10157957417432945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/100502trylks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/100502trylks2m3.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4570833078/">his flickr</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080509smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/080509smklks.JPG
   caption: |
     <p>Pulau Semakau, May 08Photo shared by Loh Kok Sheng on  <a href="https://www.flickr.com/photos/koksheng/2930681250/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/160312tptjtm2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/160312tptjtm2.jpg
   caption: |
     <p>Terumbu Pempang Tengah, Mar 16Photo shared by Juria Toramae on <a href="https://www.facebook.com/media/set/?set=a.10153566178448576.1073741927.518238575&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/170311bbbjt.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/170311bbbjt.jpg
   caption: |
     <p>Beting Bemban Besar, Mar 17Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10154499935208576.1073741934.518238575&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/091204pawd5287m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/091204pawd5287m3.jpg
   caption: |
     <p>Pulau Pawai, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/091205sudjk8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/091205sudjk8m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by James Koh on <a href="http://www.flickr.com/photos/37823682@N04/4171956496/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/cephalopoda/cepeggs/020715chgd3359m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -134,7 +135,7 @@ Other egg capsules look like white sausage-shaped capsules 6-8cm long.
 Usually seen in a bunch of several 'sausages' attached to large masses
 of seaweeds.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

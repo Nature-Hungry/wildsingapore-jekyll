@@ -1,12 +1,19 @@
 ---
 title: Tongue-soles
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tongue, sole, flat, fish, flatfish, cynoglossidae, pleuronectiformes, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [9, 25, 47, 49, 81]
+attributes:
+- 9
+- 25
+- 47
+- 49
+- 81
 family: Cynoglossidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 85721
 stateofmatter: Life
 kingdom: Animalia
@@ -18,41 +25,41 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
   caption: |
     <p>A tiny one.</p>
     <p>Changi, Oct 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/050622cftd4074m6l.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/110220lazd6353m6l.jpg
   caption: |
     <p>Seringat-Kias, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180714prprk1.jpg
   caption: |
     <p>Pasir Ris, Jul 18 Shared by Richard Kuah on <a href="https://www.facebook.com/richard.k.tiong/media_set?set=a.10156322112797906.1073741903.563787905&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/210114chg7mn1.jpg
   caption: |
     <p>Changi CP7, Jan 21 Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157977742513660&set=a.10157977751103660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/090428chglks.jpg
   caption: |
     <p>Changi, Apr 09 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3509619597/in/photolist-6m8HCH">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/220616chgedc3.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22 Shared by Dayna Cheah on <a href="https://www.facebook.com/photo/?fbid=5017107165072686&set=a.5017125578404178">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
   caption: |
     <p>East Coast, Aug 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550000138158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081214ecmlks04m6l.JPG
   caption: |
     <p>East Coast, Dec 08 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/wow-shore-exploration.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/180812nsrtlks6.jpg
   caption: |
     <p>East Coast, Aug 18 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156550000138158&set=a.10156549999868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/100105tmjk.jpg
   caption: |
     <p>Tanah Merah, Jan 10 Photo shared by James Koh on <a href="https://www.flickr.com/photos/jameskoh/4245331960/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/cynoglossidae/cynoglossidae/081019chgd1321m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -110,7 +117,7 @@ photographs without closer examination of small features on the body.
 Here's more on [how
 to tell apart the flatfish families](../pleuronectiformes/pleuronectiformes1.htm) commonly seen. Tiny, flat
 and fast, they are also sometimes mistaken for [flatworms](../../../worm/polycladida/polycladida.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
  
 **What do they eat?**  Like other flatfishes, they are ambush predators. Lying in wait for prey, just beneath the sediment or
 sand, with only the eyes sticking out.  

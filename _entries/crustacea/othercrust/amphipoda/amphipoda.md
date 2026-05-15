@@ -1,11 +1,12 @@
 ---
-title: "Amphipods "
+title: 'Amphipods '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info"
+keywords: sand, beach, flea, amphipod, crustacea,  field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info
 layout: entry
 family: Caprellidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47626
 stateofmatter: Life
@@ -23,38 +24,38 @@ parvorder: Caprellidira
 superfamily: Caprelloidea
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
   caption: |
     <p>Kusu Island, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1160m6la.jpg
   caption: |
     <p>Sisters, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1161m3a.jpg
   caption: |
     <p>Sisters, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3638m3.jpg
   caption: |
     <p>Sentosa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/091104sntd3650m3.jpg
   caption: |
     <p>Sentosa, Nov 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120803chgd9400m6l.jpg
   caption: |
     <p>Skeleton shrimp on <a href="../../../cnidaria/others/hydrozoa/stinging">Stinging hydroids</a>.</p>
     <p>Changi, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120505sisjk1m3.jpg
   caption: |
     <p>Sisters Island, May 12Photo shared by James Koh on <a href="http://singaporenature.wordpress.com/2012/05/07/120506-little-sisters/">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/120506sisd1130m3.jpg
   caption: |
     <p>Sisters, May 12</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/amphipoda/amphipoda/050508kusg5881m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -100,7 +101,7 @@ and in mating. The remainder are walking legs. Amphipoda means 'different
 feet' while Isopoda meaning 'same feet'. Many can hop long distances
 by flexing their long abdomens.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

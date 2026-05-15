@@ -1,11 +1,13 @@
 ---
 title: Tailed-slugs
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tailed, slug, seaslug, bubble, shell, snail, aglajidae, cephalaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tailed, slug, seaslug, bubble, shell, snail, aglajidae, cephalaspidea, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aglajidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49843
 stateofmatter: Life
@@ -19,32 +21,32 @@ order: Cephalaspidea
 superfamily: Philinoidea
 updated: May 2020
 page_images:
-- url: "../../../../Templates/fornatureguides.gif"
+- url: ../../../../Templates/fornatureguides.gif
   caption: |
     <p>](../../fngslugs.htm)</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1306m6l.jpg
   caption: |
     <p>A pair of tails, one longer than the other.</p>
     <p>Cyrene Reef, Feb 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/reticulata/110319cyrs07381m6la.jpg
   caption: |
     <p><a href="reticulata.htm">Reticulated tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/lineolata/150219cyrlks2m3.JPG
   caption: |
     <p><a href="lineolata.htm">Lined tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/black/150219cyrd1308m3.jpg
   caption: |
     <p><a href="black.htm">Black tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/pilsbryi/080819cyrd9842m3.jpg
   caption: |
     <p><a href="pilsbryi.htm">Batik tailed-slug</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/150219cyrlks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/150219cyrlks1m3.JPG
   caption: |
     <p>Philinopsis speciosa Cyrene Reef, Feb 16 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/02/cny-day-1-cyrene-reef.html">his blog</a> Identified by Toh Chay Hoon on <a href="https://www.facebook.com/ilmare77/media_set?set=a.10153098967238713.1073741940.619308712&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/071124smkd7509m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/cephalaspidea/aglajidae/071124smkd7509m3.jpg
   caption: |
     <p>Chelidonura pallida Pulau Semakau, Nov 07</p>
-coverimg: "../../../../Templates/fornatureguides.gif"
+coverimg: ../../../../Templates/fornatureguides.gif
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -55,7 +57,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../../../animals.htm)
 | [all plants](../../../plants.htm)

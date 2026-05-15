@@ -1,9 +1,13 @@
 ---
-title: "Little red-nosed shrimp "
+title: 'Little red-nosed shrimp '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "little, red, nose, shrimp, periclimenes, paleomonidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: little, red, nose, shrimp, periclimenes, paleomonidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [103, 104]
+attributes:
+- 103
+- 104
 family: Palaemonidae
 genus: Periclimenes
 species: sp.*
@@ -22,60 +26,60 @@ infraorder: Caridea
 superfamily: Palaemonoidea
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
   caption: |
     <p>Sentosa, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
   caption: |
     <p>Female with pincers which are not so long and body with white markings.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/111001sjid1881m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/111001sjid1881m3.jpg
   caption: |
     <p>Male with very long pincers and transparent body.</p>
     <p>St.</p>
     <p>John's Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3.jpg
   caption: |
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0026m3e.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031030sntd0027m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031030sntd0027m3.jpg
   caption: |
     <p>Among seaweeds.</p>
     <p>Sentosa, Oct 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060131sjig4529m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060131sjig4529m3.jpg
   caption: |
     <p>On sand.</p>
     <p>St.</p>
     <p>John's Island, Jan 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060613ecpd3067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060613ecpd3067m3.jpg
   caption: |
     <p>On sea fan.</p>
     <p>East Coast, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0015m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/080830kusd0015m3.jpg
   caption: |
     <p>On hard coral.</p>
     <p>Kusu Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/060527sjig6054m3.jpg
   caption: |
     <p>On hard coral.</p>
     <p>St.</p>
     <p>John's Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/031126tusad0069m3.jpg
   caption: |
     <p>Among soft corals.</p>
     <p>Tuas, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110220lazrl6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110220lazrl6m3.jpg
   caption: |
     <p>Lazarus Island, Feb 11Photo shared by Russel Low on <a href="http://www.facebook.com/album.php?fbid=165010616883672&id=109257872458947&aid=48717">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110421jngrl3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/110421jngrl3m3.jpg
   caption: |
     <p>Pulau Jong, Apr 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/fbx/?set=a.179471578770909.56323.109257872458947">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/rednose/040919sntd7078m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -125,7 +129,7 @@ larger animals such as hard corals, sea fans, leathery soft
 corals, flowery soft corals. As well as seaweeds, or just
 gathered in a sandy pool.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,10 +1,15 @@
 ---
 title: Tiger anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "macrodactyla, fautinae, tiger, anemone, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: macrodactyla, fautinae, tiger, anemone, anthozoa, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [5, 6, 88]
-family: ""
+attributes:
+- 5
+- 6
+- 88
+family: ''
 genus: Macrodactyla
 species: fautinae
 inat_id: 1488821
@@ -18,52 +23,52 @@ suborder: Enthemonae
 superfamily: Actinioidea
 updated: Jul 2023
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
   caption: |
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/080703chgd6670m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/080703chgd6670m3.jpg
   caption: |
     <p>Red bumps on the body column.</p>
     <p>Changi, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/130626chg1d8518,jpg.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/130626chg1d8518,jpg.jpg
   caption: |
     <p>Looks like a bizarre strawberry!</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/110714chgd6369m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/110714chgd6369m3.jpg
   caption: |
     <p>Eating a crab?</p>
     <p>Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040702chgd1517m6l.jpg
   caption: |
     <p>Attempting to swallow a sea pen!</p>
     <p>Changi, Jul 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/190604chg4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/190604chg4.jpg
   caption: |
     <p>Throat everted into a blob - a trap for large prey?</p>
     <p>Changi, Jun 19</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/110325cyrs08012m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/110325cyrs08012m3.jpg
   caption: |
     <p>Small one.</p>
     <p>Cyrene Reef, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/200627cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/200627cnyrk1.jpg
   caption: |
     <p>Coney Island, Jun 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10158281494432906&set=a.10158281486542906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/171206ubnlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/171206ubnlks2.jpg
   caption: |
     <p>Pulau Ubin, Dec 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155914553173158&set=a.10155914547808158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/240706ubnrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/240706ubnrk4.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10161250202327906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/171105cjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/171105cjll1.jpg
   caption: |
     <p>Chek Jawa, Nov 17Photo shared by Liz Lim on <a href="https://www.facebook.com/photo.php?fbid=1581326225224044&set=a.1581322325224434&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/230706bbrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/230706bbrk1.jpg
   caption: |
     <p>Beting Bronok, Jul 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160592004207906&set=a.10160591997097906">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/tiger/040701chgd1362m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -110,7 +115,7 @@ tucked into its rounded body, the anemone looks like a bizarre
 strawberry - so it is sometimes also called the Strawberry anemone.  
   
 **What does it eat?** There has been several observations of the anemone partially swallowing a large sea pen! The anemone is often seen to protrude a large portion its 'throat' out of its body. Sometimes, so extensively that its tentacles are hidden and it appears to be a blob or jellyfish. Dr Nicholas Yap comments that perhaps it is this behaviour that allows it to capture large prey!
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

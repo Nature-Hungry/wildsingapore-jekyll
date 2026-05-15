@@ -1,12 +1,21 @@
 ---
 title: Tun shell snails
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tun, tonnidae, gastropod, mollusc, snail, shell, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 64, 71, 100, 111, 123, 125]
+attributes:
+- 23
+- 33
+- 64
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Tonnidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 245591
 stateofmatter: Life
 kingdom: Animalia
@@ -17,29 +26,29 @@ order: Littorinimorpha
 superfamily: Tonnoidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
   caption: |
     <p>Possibly the Spotted tun.</p>
     <p>Changi, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0573m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/120605cjlks.JPG
   caption: |
     <p>Empty shell.</p>
     <p>Chek Jawa, Jun 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6856375226/in/album-72157607712316054/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/130808cyrlks1m3.jpg
   caption: |
     <p>Empty shell.</p>
     <p>Cyrene, Aug 13Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2013/08/first-living-sighting-of-deadly-cone.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/110804cyrL1070318m3.jpg
   caption: |
     <p>Shell occupied by a hemit crab.</p>
     <p>Cyrene, Aug 11</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/tonnidae/tonnidae/100117chgec0574m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -86,7 +95,7 @@ broad spiralling brown bands. It is found on fine sand and muddy bottoms.
 The Spotted tun (*Tonna dolium*) is about 13cm and found on find
 sand and muddy bottoms.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,13 +1,17 @@
 ---
 title: Beaded cushion green seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: valonia, valoniaceae, seaweed, weed, green, chlorophyta, algae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 division: Chlorophyta
 family: Valoniaceae
-genus: ""
+genus: ''
 species: Valonia
-attributes: [97, 115]
+attributes:
+- 97
+- 115
 inat_id: 59739
 stateofmatter: Life
 kingdom: Plantae
@@ -16,22 +20,22 @@ class: Ulvophyceae
 order: Cladophorales
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
   caption: |
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3.jpg
   caption: |
     <p>Kusu Island, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/100912kusd1448m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/040812labcpd0702m3.jpg
   caption: |
     <p>Labrador, Aug 04</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/chlorophyta/valonia/070615sntrg0285m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](wildfactsheet3.gif)
 
@@ -84,7 +88,7 @@ there are more than 10 current *Valonia* species.
 **Human uses:** Some species are eaten
 by people.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

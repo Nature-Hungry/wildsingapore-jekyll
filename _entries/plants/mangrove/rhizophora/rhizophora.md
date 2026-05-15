@@ -1,11 +1,12 @@
 ---
 title: Bakau
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rhizophora, rhizophoraceae, tree, mangrove, mangroves, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Rhizophoraceae
 genus: Rhizophora
-species: ""
+species: ''
 attributes: []
 inat_id: 60338
 stateofmatter: Life
@@ -16,64 +17,64 @@ class: Magnoliopsida
 order: Malpighiales
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
   caption: |
     <p>Prop roots from branches, stilt roots from trunk.</p>
     <p>Pulau Semakau, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkg9537m3e.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkg9537m3e.jpg
   caption: |
     <p>Cork warts on the underside of the leaf.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkg9537m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkg9537m3d.jpg
   caption: |
     <p>Pulau Semakau, May 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkd1226m3.jpg
   caption: |
     <p>Often with a 'skirt' of many prop roots.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090802ubind8187m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/070520smkd1221m3.jpg
   caption: |
     <p>With looping stilt roots that can extend some distance from the tree.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/070520smkg9543m3.jpg
   caption: |
     <p>Flower on very short stalks.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090517ubnd1957m3.jpg
   caption: |
     <p>Flowers on long branching stalks.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8828m3.jpg
   caption: |
     <p>Flowers on long branching stalks.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/030622cjd0054m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8011m3b.jpg
   caption: |
     <p>Shorter style</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/120219smkd7218m3a.jpg
   caption: |
     <p>Longer style.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/040131sbwrd0106m3a.jpg
   caption: |
     <p>Fruit on very short stalk, almost stuck to the branch.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090809sjid8838m3a.jpg
   caption: |
     <p>Fruit on stalks.</p>
     <p>Fruit large compared to sepals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090809sjid8827m3a.jpg
   caption: |
     <p>Fruit on stalks.</p>
     <p>Fruit not so large compared to sepals.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/apiculata/090315smkd8295m6la.jpg
   caption: |
     <p>Usually a bent hypocotyl.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/mucronata/090801prpd8013m6l.jpg
   caption: |
     <p>Very long hypocotyl.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/stylosa/090315smkd8283m6l.jpg
   caption: |
     <p>Hypocotyl not so long.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/rhizophora/091005cjd2271m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -147,7 +148,7 @@ swamps. As well as for building fishtraps.
 is listed as 'Vulnerable' on the Red List of endangered plants in
 Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 ---

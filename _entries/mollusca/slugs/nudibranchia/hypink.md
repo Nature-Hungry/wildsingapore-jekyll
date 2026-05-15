@@ -1,7 +1,9 @@
 ---
 title: Pink-gilled hypselodoris nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hypselodoris, infucata, nudibranchia, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hypselodoris, infucata, nudibranchia, slug, seaslug, chromodoridae, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Hypselodoris
@@ -23,62 +25,62 @@ superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
   caption: |
     <p>Changi, Jun 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3973m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3973m3.jpg
   caption: |
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3.jpg
   caption: |
     <p>Mating and laying eggs.</p>
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/120605lygd3940m3a.jpg
   caption: |
     <p>Closer look at egg ribbon.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/180911pgldc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/180911pgldc1.jpg
   caption: |
     <p>Punggol, Sep 18 Photo shared by Dayna Cheah on <a href="https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.1746136788836423&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/220517pglrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/220517pglrk1.jpg
   caption: |
     <p>Punggol, May 22 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10159747258502906&set=a.10159747254492906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/201217prpjll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/201217prpjll1.jpg
   caption: |
     <p>Pasir Ris Park, Dec 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10157929844196295&set=a.10157929872306295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/200622chgjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/200622chgjll2.jpg
   caption: |
     <p>Changi, Jun 20 Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo.php?fbid=10157499314566295&set=a.10157499312631295&type=1&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/121216ubnlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/121216ubnlks.JPG
   caption: |
     <p>Pulau Ubin, Dec 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8523080291/in/album-72157607906657391/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250627bbjjl6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250627bbjjl6.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10161666315596295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140104cjlks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140104cjlks3m3.jpg
   caption: |
     <p>Chek Jawa, Jan 14 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10152122674133158.1073741848.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250529cjlks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/250529cjlks.jpg
   caption: |
     <p>Chek Jawa, May 25 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10162754444488158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmjk2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmjk2.jpg
   caption: |
     <p>Tanah Merah, Dec 11 Photo shared by James Koh on <a href="https://www.flickr.com/photos/koksheng/6503003807/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/111212tmlks.JPG
   caption: |
     <p>Tanah Merah, Dec 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/6503003807/in/album-72157664044624940/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/210530epcnvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/210530epcnvc2.jpg
   caption: |
     <p>East Coast (PCN), May 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158495740572945&set=a.10158495877737945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140616bblks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/140616bblks1.jpg
   caption: |
     <p>Beting Bronok, Jun 14 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24906606125/in/album-72157607605004155/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/190704bbay2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/190704bbay2.jpg
   caption: |
     <p>Beting Bronok, Jul 19 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10216254629050647&set=a.10210920255494642&type=3&theater">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -121,7 +123,7 @@ on the back and large rhinophores (relative to the body size). Gills
 are frilly and edged in bright pink, without spots. See also [Dr
 Bill Rudman's comments](http://www.seaslugforum.net/factsheet/hypssp8) on this nudibranch.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

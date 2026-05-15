@@ -1,22 +1,24 @@
 ---
-title: "Bearded mudskippers (Scartelaos histophorus) "
-description: "Fact sheet with photos on flora and fauna of Singapore's intertidal shores"
-keywords: "bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae, goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+title: 'Bearded mudskippers (Scartelaos histophorus) '
+description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
+keywords: bearded, mudskipper, mud, skipper, fish, scartelaos, histophorus, gobiidae,
+  goby, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
   caption: |
     <p>Pasir Ris, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks02m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks02m3.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/pasir-ris-quickly.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3.jpg
   caption: |
     <p>Pasir Ris,</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/090317prplks01m3b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/12/pasir-ris-quickly.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/histophorus/081217prplks01m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -44,7 +46,7 @@ info on bearded mudskippers](histophorus.htm)
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 back to [general

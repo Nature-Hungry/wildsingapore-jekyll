@@ -1,7 +1,9 @@
 ---
 title: Singapore scallop
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "coral, scallop, clam, shell, volachlamys, singaporina, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: coral, scallop, clam, shell, volachlamys, singaporina, pectinidae, bivalve,
+  mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Pectinidae
 genus: Volachlamys
@@ -20,26 +22,26 @@ subfamily: Pectininae
 tribe: Aequipectinini
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
   caption: |
     <p>When submerged, tentacles and tiny eyes can be seen.</p>
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
   caption: |
     <p>Changi, May 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/180813chgay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/180813chgay1.jpg
   caption: |
     <p>Changi Aug 18Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10213954183900956&set=a.10211958779177085&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/190121cjro1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/190121cjro1.jpg
   caption: |
     <p>Chek Jawa, Jan 19Photo shared by Rene Ong on <a href="https://www.facebook.com/133291903397183/photos/a.2187240964668923/2187241958002157/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/210530ecpglks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/210530ecpglks7.jpg
   caption: |
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159235741628158&set=a.10159235746118158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -80,7 +82,7 @@ is covered with encrusting organisms. When submerged, a fringe of tentacles emer
 many short tentacles, with many tiny, well developed eyes along the
 mantle edge.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

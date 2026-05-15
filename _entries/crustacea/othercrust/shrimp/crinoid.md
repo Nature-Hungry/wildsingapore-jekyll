@@ -1,27 +1,30 @@
 ---
 title: Crinoid shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: shrimp, decapod, crustacea, field, guide, seashore, sea, shore, marine,
+  coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [103, 104]
-family: ""
-genus: ""
+attributes:
+- 103
+- 104
+family: ''
+genus: ''
 species: identification*
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
   caption: |
     <p>Pulau Hantu, Jan 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120407sjilks.JPG
   caption: |
     <p>St John's Island, Apr 12Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2012/04/easter-sunday-at-st-johns-islandl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120408hntmn3.jpg
   caption: |
     <p>St John's Island, Apr 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7614911698/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/crinoid/120123hntd5749m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -56,7 +59,7 @@ seen?** Tiny shrimps live in [feather stars](../../../echinodermata/crinoidea/cr
   
 **Features:** 1-2cm long. The shrimps generally have colours and patterns that closely resemble the feather star that they live in.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

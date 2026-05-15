@@ -1,9 +1,14 @@
 ---
 title: Petal-mouthed mangrove anemone
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mangrove, anemone, stephensonactis, ornata, haliactiidae, actiniaria, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mangrove, anemone, stephensonactis, ornata, haliactiidae, actiniaria, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [5, 6, 88]
+attributes:
+- 5
+- 6
+- 88
 family: Haliactiidae
 genus: Stephensonactis
 species: ornata
@@ -18,31 +23,31 @@ suborder: Enthemonae
 superfamily: Metridioidea
 updated: Dec 2024
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3a.jpg
   caption: |
     <p>Mouth ringed with petal-like structures.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081216prpd3508m3.jpg
   caption: |
     <p>Pasir Ris Park, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0060m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Nov 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/081228smbd4194m3.jpg
   caption: |
     <p>Sembawang, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/080718wdld7674m3.jpg
   caption: |
     <p>Woodlands, Jul 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/250528chsafmn1.jpg
   caption: |
     <p>Changi SAF chalet, May 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10161500310283660&type=3&ref=embed_post">facebook</a>..</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/260222ubnrqo1.jpg
   caption: |
     <p>Pulau Ubin, Feb 26Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.958460750003999&type=3&ref=embed_post">facebook</a>..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/actiniaria/mangrove/031128sbwrad0012m3.jpg
 ---
 [![](../../../wildfactsheet3.gif)](../../index.html)
 
@@ -88,7 +93,7 @@ with fine white stripes. It can tuck its tentacles into its body column.
   
 **Status and threats:** There is inadequate information as at 2024 to make an informed assesment of its conservation status in Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

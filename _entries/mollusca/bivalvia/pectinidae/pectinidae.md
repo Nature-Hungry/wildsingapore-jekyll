@@ -1,10 +1,11 @@
 ---
 title: Scallops
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: scallop, clam, shell, pectinidae, bivalve, mollusc, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pectinidae
-genus: ""
+genus: ''
 species: Family
 attributes: []
 inat_id: 54525
@@ -18,28 +19,28 @@ order: Pectinida
 superfamily: Pectinoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
   caption: |
     <p>Changi, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7021m3b.jpg
   caption: |
     <p>When submerged, tentacles and tiny eyes can be seen.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6136m3.jpg
   caption: |
     <p>'Swimming' backwards with clap of valves Swimming scallops: Some scallops are free living.</p>
     <p>A scallop can swim by flapping its valves and using jet propulsion.</p>
     <p>It sucks in water and then forces out a jet of water from either sides of the shell hinge.</p>
     <p>A scallop can change the direction of its movement by using the velum.</p>
     <p>The velum is a curtain-like fold of the mantle that works like lips to direct the jet of water and thus control its movement.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/110601tmnbd3211m3.jpg
   caption: |
     <p>Scallop in a living coral.</p>
     <p>Tanah Merah, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100130brkd8540.jpg
   caption: |
     <p>Scallop in a living coral.</p>
     <p>Pulau Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/placunidae/placuna/080507chd2321.jpg
   caption: |
     <p>Scallop stuck on a living <a href="../placunidae/placuna.htm">Window-pane clam</a>.</p>
     <p>Changi, May 08 Human uses: Larger scallop species are harvested for seafood.</p>
@@ -47,16 +48,16 @@ page_images:
     <p>Our wild scallops are much too small to yield the kind of scallops you can buy at the supermarket.</p>
     <p>The flesh of the adductor muscle is sweet because it contains a high amount of gylcogen.</p>
     <p>Like other filter-feeding clams, however, scallops may be affected by <a href="../../../plants/seaweed/redtide.htm">red tide and other harmful algal blooms</a> when they are then harmful to eat.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/coral/100215sisd9445m3.jpg
   caption: |
     <p><a href="coral.htm">Coral clam</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/080506chgd2321m3.jpg
   caption: |
     <p><a href="singapore.htm">Singapore scallop</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/large/080621labd6133m3.jpg
   caption: |
     <p><a href="large.htm">Large scallop</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/pectinidae/singapore/120704chgd7018m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -94,7 +95,7 @@ eaten in seafood, see below). The foot is greatly reduced and there
 is usually no siphon. They have a fringe of tentacles, some long and
 many short tentacles, with many tiny, well developed eyes along the
 mantle edge.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Stick-on scallops:** Some scallops such as the *Chlamys* species, attach themselves
 to stones, rocks and other hard surfaces with byssus threads. [Tiny

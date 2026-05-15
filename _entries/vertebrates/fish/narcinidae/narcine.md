@@ -1,12 +1,14 @@
 ---
 title: Electric rays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narcinidae, fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: electric, sting, ray, stingray, numbfish, narcine, torpedinidae, narcinidae,
+  fish, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 attributes: []
 family: Narcinidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 85914
 stateofmatter: Life
 kingdom: Animalia
@@ -18,20 +20,20 @@ infraclass: Batoidea
 order: Torpediniformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
   caption: |
     <p>Gill openings behind the eyes.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m6l.jpg
   caption: |
     <p>Narcine maculataShort fat tail with round dorsal and tail fins.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/040704cjlcp.jpg
   caption: |
     <p>Narcine maculata Chek Jawa, Jul 04Photo shared by Lim Cheng Puay.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/120605chgmn.jpg
   caption: |
     <p>Narcine maculata Changi, Jun 12Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/7156284007/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/narcinidae/narcine/090622cftd4655m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ lacks stinging barbs..
   
 The Dark-spotted numbfish  *(Narcine maculata)* has a round body about 10cm in diameter. Beige with large maroon spots of varying sizes.
 Short fat tail with two round (circular) dorsal fins and a round tail fin.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Shocking!** Electric rays have a pair of kidney-shaped electric organs
 at the base of the pectoral fins that can produce mild to strong electric

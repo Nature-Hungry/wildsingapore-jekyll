@@ -1,11 +1,13 @@
 ---
-title: "Brain corals "
+title: 'Brain corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: brain, mussidae, lobophylliidae, lobophyllia, symphyllia, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Lobophylliidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 503525
 stateofmatter: Life
@@ -16,25 +18,25 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/100201hntd8950m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080508cyrd2664m3d.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/symphyllia/080816sisd9640m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/mussidae/lobophyllia/060714rlhg6536m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -92,7 +94,7 @@ corals on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

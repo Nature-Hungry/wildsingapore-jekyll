@@ -1,11 +1,13 @@
 ---
 title: Flat branch sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: seafan, fan, subergorgia, subergorgiidae, gorgonian, gorgonacea, anthozoa,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Subergorgiidae
 genus: Subergorgia
-species: ""
+species: ''
 attributes: []
 inat_id: 357442
 stateofmatter: Life
@@ -16,40 +18,40 @@ subclass: Octocorallia
 order: Malacalcyonacea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
   caption: |
     <p>Tuas, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3.jpg
   caption: |
     <p>Beting Bronok, Jul 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/030714bbd0070m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3.JPG
   caption: |
     <p>East Coast Park, Jul 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3a.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/090723ecplks6m3a.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/07/east-coast-is-packed-with-sea-fansl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4438m3.jpg
   caption: |
     <p>Tuas, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4447m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14.jpg
   caption: |
     <p>East Coast Park, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159233459078158&set=a.10159233461703158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/210529ecpblks14a.jpg
   caption: |
     <p>An ovulid snail on the sea fan.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/flatbranch/050411tusg4454m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -91,7 +93,7 @@ tree-like silhouette on one plane, with some branches overlapping.
 The stems are flattened, often with a groove along the length. Dull
 brown-orange, to orange or red. Relatively large white polyps emerge
 along two sides of the flattened stem, not in the grooves.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,12 +1,12 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,"
+keywords: tubular, sponge, gelliodes, niphatidae, porifera, field, guide, seashore,
 layout: entry
 shape: sausage
 title: Spiky tubular sponge
 family: Niphatidae
 genus: Gelliodes
-species: ""
+species: ''
 attributes: []
 inat_id: 604341
 stateofmatter: Life
@@ -17,38 +17,38 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/130723bbd0031m3b.jpg
   caption: |
     <p>Transparent 'lip' around large opening.</p>
     <p>Tiny shrimp and brittle star on sponge.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd6068m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/110518bbd1835m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/120508skdd1919m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/tubespiky/100614bbd5961m3.jpg
 ---
 
 
@@ -78,7 +78,7 @@ Colour lilac to bluish.
 sponges](tube.htm) (*Haliclona* sp.) which may have spikes around their
 hollow tubes but the spikes are not as regular or neat.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

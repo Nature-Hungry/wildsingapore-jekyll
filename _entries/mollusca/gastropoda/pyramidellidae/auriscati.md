@@ -1,7 +1,9 @@
 ---
 title: Cat's ear pyramid snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pyramid, snail, otopleura auriscati, pyramidellidae, gastropod, mollusc, mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pyramid, snail, otopleura auriscati, pyramidellidae, gastropod, mollusc,
+  mangrove, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Pyramidellidae
 genus: Otopleura
@@ -19,20 +21,20 @@ superorder: Pylopulmonata
 superfamily: Pyramidelloidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
   caption: |
     <p>Tanah Merah, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110220lazd6332m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110220lazd6332m3.jpg
   caption: |
     <p>Lazarus, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110126hntd5220m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/110126hntd5220m3.jpg
   caption: |
     <p>Mating?</p>
     <p>Pulau Hantu, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/120618tmmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/120618tmmn1m3.jpg
   caption: |
     <p>Tanah Merah, Jun 12Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo.php?fbid=10150891779053660&set=a.10150868048393660.403268.624178659&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/pyramidellidae/otopleura/091206tmd5714m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -77,7 +79,7 @@ orange. Operculum oval, thin, made of a horn-like material, yellowish.
 Body white, with large thin foot and a triangular shaped head with
 short slender tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

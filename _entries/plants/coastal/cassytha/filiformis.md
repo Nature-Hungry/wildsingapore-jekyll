@@ -1,9 +1,15 @@
 ---
-title: "Rambut putri "
+title: 'Rambut putri '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "rambut, putri, cassytha, filiformis, lauraceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: rambut, putri, cassytha, filiformis, lauraceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Lauraceae
 genus: Cassytha
 species: filiformis
@@ -16,21 +22,21 @@ order: Laurales
 inat_id: 160172
 updated: Jan 13
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/081206smkd2679m3a.jpg
   caption: |
     <p>Tiny flowers on short stalk.</p>
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090405smkd8982m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090405smkd8982m3.jpg
   caption: |
     <p>Small globular berries.</p>
     <p>Pulau Semakau, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/090412hntd9877m3.jpg
   caption: |
     <p>Pulau Hantu, Apr 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -38,13 +44,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/cassytha/filiformis/110220lazd6172m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -108,7 +114,7 @@ In Java, the pounded stems are used for intestinal ailments. According
 to Giersen, the plant is sometimes cultivated for its medicinal uses
 in parts of Indonesia.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

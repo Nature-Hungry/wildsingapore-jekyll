@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,"
+keywords: orange, sprawling, sponge, gelliodes, fibulata, niphatidae, porifera, field,
 layout: entry
 shape: branching
 title: Thorny stem sponge
@@ -17,34 +17,34 @@ subclass: Heteroscleromorpha
 order: Haplosclerida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg
   caption: |
     <p>Sentosa Serapong,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3.jpg
   caption: |
     <p>Kusu Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120607kusd4886m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3.jpg
   caption: |
     <p>Beting Bemban</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090625bbbd5261m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks1.JPG
   caption: |
     <p>Tuas, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/090310tuslks2.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3559364250/in/album-72157618623639729/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/080609hnttsj.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/thornystem/080609hnttsj.JPG
   caption: |
     <p>Pulau Hantu, Jun 08Photo shared by Tan Sijjie on <a href="https://www.flickr.com/photos/ivantsj/2563553805/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/thornystem/120507sntspgd1360m3.jpg
 ---
 
 
@@ -67,7 +67,7 @@ of a few stems long (10-20cm), sparsely branched, cylindrical covered
 with small spiny 'thorns'. Many small holes unevenly scattered over
 the surface. Colour blue or greenish blue.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

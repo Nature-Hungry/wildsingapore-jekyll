@@ -1,7 +1,9 @@
 ---
-title: "Lithophyllon mushroom  coral "
+title: 'Lithophyllon mushroom  coral '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: bracket, mushroom, lithophyllon, undulatum, fungidae, coral, hard, scleractinia,
+  cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Fungiidae
 genus: Lithophyllon
@@ -16,52 +18,52 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
   caption: |
     <p>Cyrene Reef, Mar 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9368m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 23</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/230608tmftta1a.jpg
   caption: |
     <p>Photo shared by Tommy Arden on <a href="https://www.facebook.com/photo/?fbid=10230327147345072&set=a.10230339959105358">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks2.JPG
   caption: |
     <p>Tanah Merah,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/100615tmlks3.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4702611355/sizes/l">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/170529srpay1a.jpg
   caption: |
     <p>Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10210693425944045.1073741890.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/150220lsislks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/150220lsislks2m3.JPG
   caption: |
     <p>Little Sisters Island, Feb 15 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/02/cny-day-2-little-sisters-island.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2.jpg
   caption: |
     <p>Pulau Semakau West, Jul 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163074845368158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/250727smkwlks2a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/120721tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/120721tptlks.JPG
   caption: |
     <p>Terumbu Pempang Tengah, Jul 12 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8520885806/in/album-72157626616274147/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/fungiidae/lithophyllon/070324cyrd9365m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -109,7 +111,7 @@ May be confused with [Bracket mushroom coral](bracket.htm) (*Podabacia* sp.) whi
 as globally Near Threatened [by
 the IUCN](http://www.iucnredlist.org/).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

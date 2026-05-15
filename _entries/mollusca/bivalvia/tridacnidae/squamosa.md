@@ -1,7 +1,9 @@
 ---
 title: Fluted giant clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fluted, giant, clam, tridacna, squamosa, tridacnidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fluted, giant, clam, tridacna, squamosa, tridacnidae, bivalve, mollusc,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Tridacnidae
 genus: Tridacna
@@ -21,98 +23,98 @@ superfamily: Cardioidea
 subfamily: Tridacninae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
   caption: |
     <p>Sisters Island, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100531biod4461m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100531biod4461m3.jpg
   caption: |
     <p>Thick fleshy 'lips' when submerged.</p>
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130628thntd9014m3.jpg
   caption: |
     <p>Terumbu Hantu, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/260217bsislks7c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/260217bsislks7c.jpg
   caption: |
     <p>Gills seen through enlarged siphon.</p>
     <p>Big Sisters Island, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/260217bsislks7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/260217bsislks7.jpg
   caption: |
     <p>Gills through enlarged siphon.</p>
     <p>Big Sisters Island, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/130717bsisd0581m3.jpg
   caption: |
     <p>Big Sisters Island, Jul 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/120509tsmkd2567m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/120509tsmkd2567m3.jpg
   caption: |
     <p>Young Fluted giant clam.</p>
     <p>Terumbu Semakau, May 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/250503cyrrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/250503cyrrk1.jpg
   caption: |
     <p>Tiny one about 4cm long Cyrene, May 25Photo by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162404146747906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/251011lablks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/251011lablks1.jpg
   caption: |
     <p>Labrador, Oct 25Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163421695718158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/140519srplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/140519srplks.JPG
   caption: |
     <p>Sentosa Serapong, May 14Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/14219856984/in/album-72157627005920441/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/160314lazlks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/160314lazlks2.JPG
   caption: |
     <p>Lazarus Island, Mar 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/03/lazarus-trekking-with-giant-clam-find.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/170130lazlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/170130lazlks2.jpg
   caption: |
     <p>Lazarus Island, Jan 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154979939158158.1073741933.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/160625tkklks9.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/160625tkklks9.jpg
   caption: |
     <p>Pulau Tekukor, Jun 16Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10154296607228158.1073741915.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/081113jngd1820m3.jpg
   caption: |
     <p>Pulau Jong, Nov 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/170812cyray2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/170812cyray2.jpg
   caption: |
     <p>Cyrene, Aug 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10211347438093940.1073741904.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100503smklks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100503smklks1m3.jpg
   caption: |
     <p>Pulau Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/hot-and-scorching-at-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/090501smklks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/090501smklks01m3.jpg
   caption: |
     <p>Pulau Semakau, 1 May 09 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/semakau-walk-on-labour-day.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/141107smkelks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/141107smkelks2m3.jpg
   caption: |
     <p>Pulau Semakau East, Nov 14Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100519tsmklks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100519tsmklks5m3.jpg
   caption: |
     <p>Terumbu Semakau, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/virgin-trip-to-terumbu-semakau.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100502trylks3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100502trylks3m3.jpg
   caption: |
     <p>Terumbu Raya, May 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2010/05/great-reef-lives-up-to-its-name.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/110422tbmtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/110422tbmtch1m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/110422tbmtch2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/110422tbmtch2m3.jpg
   caption: |
     <p>Terumbu Bemban, Apr 11Photo shared by Toh Chay Hoon on <a href="http://colorclouds.blogspot.com/2011/04/clammies-terumbu-bemban.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100403tbblks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100403tbblks5m3.jpg
   caption: |
     <p>Beting Bemban Besar, Apr 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4540468878/in/datetaken/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100811slud0144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100811slud0144m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/210428slulks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/210428slulks5.jpg
   caption: |
     <p>Pulau Salu, Aug 10 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162470883158&set=a.10159162473618158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100531biod4544m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100531biod4544m3.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100613snglks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100613snglks1m3.jpg
   caption: |
     <p>Pulau Senang, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100613snglks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100613snglks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4719559376/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100530pbklks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/100530pbklks5m3.jpg
   caption: |
     <p>Pulau Berkas, May 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4655425167/">his flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/tridacnidae/squamosa/040123sisd0129m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -169,7 +171,7 @@ Singapore Red Data Book: "Large specimens have virtually disappeared
 from our shores. Young specimens are occasionally but infrequently
 seen".
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

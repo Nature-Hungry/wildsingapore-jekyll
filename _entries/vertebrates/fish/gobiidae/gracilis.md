@@ -1,9 +1,17 @@
 ---
 title: Slender mudskipper
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, gracilis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mudskipper, mud, skipper, fish, gobiidae, goby, periophthalmus, gracilis,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 72]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 72
 family: Gobiidae
 genus: Periophthalmus
 species: gracilis*
@@ -19,13 +27,13 @@ suborder: Gobioidei
 subfamily: Oxudercinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
   caption: |
     <p>Chek Jawa, Jun 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/090114labd5309m6l.jpg
   caption: |
     <p>Large gap between the first dorsal fin and second dorsal fin Labrador, Jan 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/gobiidae/gracilis/130614cjd7195m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -68,7 +76,7 @@ lacks a white margin, lacks a red tint and is relatively small in
 size, with a wide interdorsal gap (distance between the first dorsal
 fin, and the longer dorsal fin further back on the top of the body).
 More about [how to tell apart small mudskippers](cfmudsmall.htm) commonly found on our shores.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 *\*Species are
 difficult to positively identify without close examination.  

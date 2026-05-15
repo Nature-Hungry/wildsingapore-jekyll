@@ -1,7 +1,9 @@
 ---
 title: Red-lined flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, maritigrella, virgulata, euryleptidae, polyclad, turbellaria, platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, worm, flatworm, maritigrella, virgulata, euryleptidae, polyclad, turbellaria,
+  platyhelminthes, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Euryleptidae
 genus: Maritigrella
@@ -16,40 +18,40 @@ order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg
   caption: |
     <p>Pulau Semakau, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/10/semakau-on-weekendl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/070704jngg1090m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/070704jngg1090m3.jpg
   caption: |
     <p>Pulau Jong, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150220lsislks3m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150220lsislks3m3.JPG
   caption: |
     <p>Little Sisters Island, Feb 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/02/cny-day-2-little-sisters-islandl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/090922sjijk1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/090922sjijk1m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 09Photo shared by James Koh on <a href="http://sgn090608.blogspot.com/2009/09/st-johns-sargassum-seasonl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/200112sjijc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/200112sjijc1.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Jan 20Photo shared by Joleen Chan on <a href="https://www.facebook.com/photo.php?fbid=10157800339131310&set=a.10157800212501310&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/220419sjijll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/220419sjijll2.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 22Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo/?fbid=10158871214606295&set=a.10158871195486295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150422jngnml1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/150422jngnml1m3.jpg
   caption: |
     <p>Pulau Jong, Apr 15Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2015/04/happy-earth-day-on-pulau-jongl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190622jnglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190622jnglks1.jpg
   caption: |
     <p>Pulau Jong, Jun 19\Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10157293065148158&set=a.10157293063933158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190902trydc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/190902trydc1.jpg
   caption: |
     <p>Terumbu Raya, Sep 19Photo shared by Dayna Cheah on <a href="https://www.facebook.com/dayna.polarbearvilness/media_set?set=a.2276330342483729&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/virgulata/091018smklks1m3.jpg
 ---
 
 
@@ -79,7 +81,7 @@ orange or red line along the centre. Has a pair of tentacles that extend like fl
 part of the gut) that can be pushed out through the mouth to engulf
 the prey.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

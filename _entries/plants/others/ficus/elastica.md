@@ -1,9 +1,15 @@
 ---
-title: "India-rubber tree "
+title: 'India-rubber tree '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "india, rubber, fig, ficus, elastica, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: india, rubber, fig, ficus, elastica, moraceae, tree, plant, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 17, 20, 21]
+attributes:
+- 8
+- 17
+- 20
+- 21
 family: Moraceae
 genus: Ficus
 species: elastica
@@ -17,28 +23,28 @@ order: Rosales
 tribe: Ficeae
 updated: Mar 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
   caption: |
     <p>Pulau Ubin, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5014m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3a.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5012m3.jpg
   caption: |
     <p>Pulau Ubin,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5018m3.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -47,7 +53,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -55,13 +61,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/elastica/091203ubnd5067m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +122,7 @@ contain honey or to bail out water. When the Europeans discovered
 the latex, thousands of India-rubber trees were planted in Malaysia
 in an effort to produce the latex in commercial quantities.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

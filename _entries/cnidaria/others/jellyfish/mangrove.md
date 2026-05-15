@@ -1,11 +1,13 @@
 ---
 title: Mangrove jellyfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "jellyfish, jelly, fish, jellies, acromitus, rhizostomeae, scyphozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: jellyfish, jelly, fish, jellies, acromitus, rhizostomeae, scyphozoa, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Catosylidae
 genus: Acromitus
-species: ""
+species: ''
 attributes: []
 inat_id: 502402
 stateofmatter: Life
@@ -17,22 +19,22 @@ order: Rhizostomeae
 suborder: Dactyliophorae
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Feb 09Photo shared by <a href="http://www.brandonphotography.blogspot.com?">Brandon Chia</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090410ubnd9384m3.jpg
   caption: |
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/080412cjd1238m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/080412cjd1238m3.jpg
   caption: |
     <p>Chek Jawa, Apr 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/121110cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/121110cjlks.JPG
   caption: |
     <p>Chek Jawa, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8171907955/in/album-72157607712316054/">flickr</a>.</p>
-- url: "https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg"
+- url: https://live.staticflickr.com/3821/32623276364_f8a05dc678_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/32623276364/ "Bloom of Mangrove jellyfish (Acromitus sp.)")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/jellyfish/mangrove/090214sbwrbc1m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -72,7 +74,7 @@ small bell.
   
 **Status:** It is listed as Vulnerable at 2024 in the Singapore Red Data Book.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

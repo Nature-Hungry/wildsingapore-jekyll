@@ -51,7 +51,7 @@ Jala](http://hungerhunger.blogspot.sg/2008/03/roti-jala-net-pancakes.html). It i
 in diameter, in a tangled jumble that may be 20cm wide. On rubbly
 areas or tangled on other encrusting organisms. Although the surface
 may appear smooth, it is rather rough. The strings are fragile.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

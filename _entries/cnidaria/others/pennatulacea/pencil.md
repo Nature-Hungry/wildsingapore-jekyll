@@ -1,11 +1,13 @@
 ---
-title: "Sea pencil "
+title: 'Sea pencil '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria, pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pencil, pen, seapen, lituaria, veretillidae, pennatulacea, anthozoa, cnidaria,
+  pteroides, cavernularia, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Veretillidae
 genus: Lituaria
-species: ""
+species: ''
 attributes: []
 inat_id: 645145
 stateofmatter: Life
@@ -17,49 +19,49 @@ order: Scleralcyonacea
 superfamily: Pennatuloidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2484m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2484m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/050722cjg9824m3b.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3.jpg
   caption: |
     <p>Half dead specimen washed ashore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/060502cftd1783m3a.jpg
   caption: |
     <p>Skeleton of the central stalk Changi, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/picta/071002chngtch.jpg
   caption: |
     <p><a href="../../../crustacea/othercrust/anomura/porcellanidae/picta">Painted porcelain crab</a> seen on a Sea pencil.</p>
     <p>Changi, Oct 07Photo shared by Toh Chay Hoon on <a href="https://www.flickr.com/photos/ilmare77/1485157754/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/bumpyface/050622chgg8137m3.jpg
   caption: |
     <p><a href="../../../mollusca/slugs/nudibranchia/bumpyface">Armina nudibranch</a> next to a sea pencil.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
   caption: |
     <p><a href="../../../mollusca/slugs/nudibranchia/semperi">Armina nudibranchs</a> next to a Sea pencil.</p>
     <p>Changi, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/180603cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/180603cnyrk1.jpg
   caption: |
     <p>Coney Island, Jun 18Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156225822517906&set=a.10156225820857906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/170723ubnlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/170723ubnlks1.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10155608393858158.1073741951.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/090821tmlks4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/090821tmlks4m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/3841568723/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/150618tmftlks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/150618tmftlks6m3.jpg
   caption: |
     <p>Tanah Merah Ferry Terminal, Jun 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10153416967613158.1073741882.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/141224tusmn4m3.jpg
   caption: |
     <p>Tuas, Dec 14Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/12/tuas-shore-with-stars-surprisel">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/pennatulacea/pencil/110520chgd2414m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -101,7 +103,7 @@ structures. The secondary polyps emerge directly from the primary
 polyp and are transparent with long body columns (about 1cm) and long
 branched tentacles.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

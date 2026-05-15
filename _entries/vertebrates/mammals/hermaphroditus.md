@@ -1,7 +1,9 @@
 ---
 title: Common palm civet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: toddycat, palm, civet, cat, paradoxurus, hermaphroditus, viverridae, vertebrate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Viverridae
 genus: Paradoxurus
@@ -20,17 +22,17 @@ order: Carnivora
 subfamily: Paradoxurinae
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
   caption: |
     <p>Chek Jawa, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/090517ubnd1906m3.jpg
   caption: |
     <p>Civet poop?</p>
     <p>Pulau Ubin, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7391m6l.jpg
   caption: |
     <p>Chek Jawa, Oct 07</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/mammals/hermaphroditus/071028cjd7399m3.jpg
 ---
 
 
@@ -79,7 +81,7 @@ eater, it helps to disperse seeds and contributes to the regeneration
 of forests.  
   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 
 It

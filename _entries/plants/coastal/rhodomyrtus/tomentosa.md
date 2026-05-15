@@ -1,9 +1,15 @@
 ---
 title: Kemunting
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "kemunting, rhodomyrtus, tomentosa, myrtaceae, plant, shrub, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: kemunting, rhodomyrtus, tomentosa, myrtaceae, plant, shrub, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Myrtaceae
 genus: Rhodomyrtus
 species: tomentosa
@@ -19,49 +25,49 @@ tribe: Myrteae
 subtribe: Decasperminae
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0510m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0507m3a.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0508m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0508m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
   caption: |
     <p>Changi, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3a.jpg
   caption: |
     <p>Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3074m3b.jpg
   caption: |
     <p>Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3072m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3072m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090531cjd3075m6la.jpg
   caption: |
     <p>Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3.jpg
   caption: |
     <p>Growing wild on the natural cliff.</p>
     <p>St.</p>
     <p>John's Island, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090922sjid1554m3a.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Sep 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -70,7 +76,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -78,13 +84,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/rhodomyrtus/tomentosa/090912chgbwd0518m6la.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -145,7 +151,7 @@ to treat heartburn and seeds in a tonic for digestion, and to treat
 snake bites. In Malaysia, the roots, fruits and leaves are used to
 treat diarrhoea. In Indonesia, the leaves are used to treat wounds.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

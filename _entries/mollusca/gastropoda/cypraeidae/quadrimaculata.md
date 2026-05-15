@@ -1,7 +1,9 @@
 ---
 title: Four-spot cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, gastropod, mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: four, spot, cowrie, cypraeidae, quadrimaculata, cypraea, eclogavena, gastropod,
+  mollusc, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Cypraeidea
 genus: Eclogavena
@@ -19,43 +21,43 @@ subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
   caption: |
     <p>Beting Bemban Besar, Aug 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9817m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9816m3.jpg
   caption: |
     <p>Raised 'teeth' on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2227m3.jpg
   caption: |
     <p>Sisters Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2236.jpg
   caption: |
     <p>Sisters Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/111002sisd2234.jpg
   caption: |
     <p>Sisters Island, Oct 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0628m3.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080919sntd0639m3.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/080920hntd0734m3.jpg
   caption: |
     <p>Sentosa, Sep 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/220812ssisccn2.jpg
   caption: |
     <p>Small Sisters Island, Aug 22 Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo/?fbid=10159863222878654&set=a.10159863197898654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/110521smklks.JPG
   caption: |
     <p>Pulau Semakau, May 11 Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5761591250/in/album-72157607751329669/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/140811trylks1m3.JPG
   caption: |
     <p>Terumbu Raya, Aug 14 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2014/08/coral-health-check-at-terumbu-raya.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/quadrimaculata/120804bbbd9813m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -103,7 +105,7 @@ mistaken for a [sea slug](../../slug.htm). Here's more
 on [how to tell apart
 slugs and animals that look like slugs](../../../glossary/flatwormslug.htm).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

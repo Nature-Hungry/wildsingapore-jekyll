@@ -1,9 +1,15 @@
 ---
 title: Five-armed Luidia sea star
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, luidiidae, asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sand, sea star, seastar, starfish, star, fish, luidia, hardwicki, luidiidae,
+  asteroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 58, 92]
+attributes:
+- 0
+- 1
+- 58
+- 92
 family: Luidiidae
 genus: Luidia
 species: hardwicki
@@ -17,25 +23,25 @@ superorder: Valvatacea
 order: Paxillosida
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
   caption: |
     <p>Changi, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3.jpg
   caption: |
     <p>Underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8658m3d.jpg
   caption: |
     <p>Pointed tube feet.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/170710chgay1.jpg
   caption: |
     <p>Changi, Jul 17 Photo shared by Abel Yeo on <a href="https://www.facebook.com/photo.php?fbid=10211066888320371&set=a.10208831078666527&type=3&theater">facebook</a>..</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/asteroidea/lhardwicki/080801chgd8657m3.jpg
 ---
 
 
@@ -66,7 +72,7 @@ Underside pale without markings. Tube feet large, translucent with pointed tips,
   
 **What does it eat?** According to Marsh and Fromont, it eats predominantly clams and snails. But it also eats other echinoderms, crustaceans and foraminifera. It also scavenges on dead animals and may also be cannibals. Prey are swallowed whole.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

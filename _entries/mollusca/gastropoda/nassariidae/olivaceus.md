@@ -1,9 +1,17 @@
 ---
 title: Olive whelk
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "olive, whelk, nassarius, olivaceus, nassariidae, gastropod, mollusc, shell, snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: olive, whelk, nassarius, olivaceus, nassariidae, gastropod, mollusc, shell,
+  snail, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 87, 100, 111, 123]
+attributes:
+- 23
+- 33
+- 87
+- 100
+- 111
+- 123
 family: Nassariidae
 genus: Nassarius
 species: olivaceus
@@ -18,63 +26,63 @@ superfamily: Buccinoidea
 subfamily: Nassariinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
   caption: |
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050429cftg5485m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050429cftg5485m3.jpg
   caption: |
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1443m3.jpg
   caption: |
     <p>Burrowing just beneath the sand with siphon sticking out.</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/100202chgd9259m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/100202chgd9259m3.jpg
   caption: |
     <p>Eating a bristleworm.</p>
     <p>Changi, Feb 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/080209kusd9628m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/080209kusd9628m3.jpg
   caption: |
     <p>With a tiny <a href="../../../cnidaria/actiniaria/snail.htm">sea anemone</a> on the shell.</p>
     <p>Kusu Island, Feb 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050609cftg7531m3.jpg
   caption: |
     <p>Sometimes with large barnacles on the shell.</p>
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/180911pgldc5.jpg
   caption: |
     <p>Punggol, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1746136962169739&set=a.1746136788836423&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/260103prpyls7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/260103prpyls7.jpg
   caption: |
     <p>Pasir Ris Park, Dec 25Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?vanity=61581884764116&set=a.122118127263062825">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/201020prpark2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/201020prpark2.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10158587302592906&set=a.10158587281627906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/200722chgvc1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/200722chgvc1.jpg
   caption: |
     <p>Mating?</p>
     <p>Changi, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157816236012945&set=a.10157816232477945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/090124ubntch.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/090124ubntch.jpg
   caption: |
     <p>Pulau Ubin, Dec 09Photo shared by Toh Chay Hoon on <a href="https://flic.kr/p/5UWVVX">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/141224tusmn1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/141224tusmn1m3.jpg
   caption: |
     <p>Tuas, Dec 14Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10152588475018660.1073741853.624178659&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/080507ecplks06m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/080507ecplks06m3.jpg
   caption: |
     <p>East Coast Park, May 08Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2008/05/seafans-return-to-east-coast.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/251208melks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/251208melks8.jpg
   caption: |
     <p>Marina East, Dec 2025Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163676414033158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/151001blymn8m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/151001blymn8m3.jpg
   caption: |
     <p>Berlayar Creek, Oct 15Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153210424748660.1073741880.624178659&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/190321sjifl1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/190321sjifl1.jpg
   caption: |
     <p>St John's Island, Mar 19Photo shared by Frances Loke on <a href="https://www.facebook.com/littlegreenmensg/photos/a.2229727340689310/2229736170688427/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/241020hnttl1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/241020hnttl1a.jpg
   caption: |
     <p>Pulau Hantu, Oct 24Photo shared by Tammy Lim on <a href="https://www.facebook.com/media/set/?set=a.10161644181639264&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/nassariidae/olivaceaus/050818cftg1447m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -117,7 +125,7 @@ edge on the foot, very long siphon and short
 tentacles. Operculum thin, orange. It has been seen burrowing just beneath the sand,
 with its siphon sticking out.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

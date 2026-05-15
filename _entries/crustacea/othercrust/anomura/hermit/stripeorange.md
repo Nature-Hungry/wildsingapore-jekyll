@@ -1,9 +1,13 @@
 ---
 title: Orange-striped hermit crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "orange, striped, hermit, crab, clibanarius, infraspinatus, diogenidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: orange, striped, hermit, crab, clibanarius, infraspinatus, diogenidae, anomura,
+  decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 54]
+attributes:
+- 38
+- 54
 family: Diogenidae
 genus: Clibanarius
 species: infraspinatus*
@@ -22,43 +26,43 @@ infraorder: Anomura
 superfamily: Paguroidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
   caption: |
     <p>East Coast Park, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504nsrccd0525m3.jpg
   caption: |
     <p>East Coast Park, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/201020prpalks2.jpg
   caption: |
     <p>Pasir Ris-Loyang, Oct 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158706822928158&set=a.10158706826698158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/170723ubnjll2.jpg
   caption: |
     <p>Pulau Ubin, Jul 17Photo shared by Jianlin Liu on <a href="https://www.facebook.com/marinelife90/media_set?set=a.10154885469751295.1073741895.542241294&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/190218cnyrk1.jpg
   caption: |
     <p>Coney Island, Feb 19Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo.php?fbid=10156856806322906&set=a.10156856799117906&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/251208melks6.jpg
   caption: |
     <p>Marina East, Dec 2025Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10173796051135112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/120407lazlks.JPG
   caption: |
     <p>Seringat-Kias, Apr 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/7052549203/in/album-72157625976409015/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/200707hntjt1.jpg
   caption: |
     <p>Pulau Hantu, Jul 20Photo shared by Juria Toramae on <a href="https://www.facebook.com/photo.php?fbid=10157563297568576&set=pcb.10157563301188576&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/160208smksjt1.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Juria Toramae on <a href="https://www.facebook.com/media/set/?set=a.10153469983508576.1073741922.518238575&type=3">facbook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110522bbbro1m3.jpg
   caption: |
     <p>Beting Bemban Besar, May 11Photo shared by Rene Ong on <a href="http://www.facebook.com/media/set/?set=a.168415093218197.41399.133291903397183">facebook</a>.</p>
-- url: "https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg"
+- url: https://farm5.staticflickr.com/4152/4982626659_680dc1bac4_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/budak/4982626659/ "hermit")</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/110504ecpd0529m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -119,7 +123,7 @@ legs.
   
 More on how to tell apart [*Clibanarius* hermit crabs](clibanarius).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

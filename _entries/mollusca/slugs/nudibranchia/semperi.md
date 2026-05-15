@@ -1,9 +1,17 @@
 ---
 title: Semper's armina nudibranch
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seaslug, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: semper, armina, semperi, arminidae, arminacea nudibranchia, slug, seaslug,
+  opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [14, 22, 29, 30, 33, 90]
+attributes:
+- 14
+- 22
+- 29
+- 30
+- 33
+- 90
 family: Arminidae
 genus: Armina
 species: semperi
@@ -21,51 +29,51 @@ suborder: Arminina
 superfamily: Arminoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
   caption: |
     <p>Changi, May 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/060612chgg6146m3a.jpg
   caption: |
     <p>Colourful oral veil without bumps.</p>
     <p>Changi, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/071001chgd6757m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Changi, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/050623cjg8415m6l.jpg
   caption: |
     <p>Gills under the mantle skirt.</p>
     <p>Chek Jawa, Jun 05 Sometimes mistaken for the <a href="bumpyface.htm">bumpy-faced armina nudibranch</a>, that has a plain oral veil and foot and has bumps on its 'face'.</p>
     <p>The <a href="dermatobranchus.htm">Tiny striped nudibranch</a> (Dermatobranchus sp.) is also striped but is much smaller.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140812chg4d8582m6l.jpg
   caption: |
     <p>About to eat this <a href="../../../cnidaria/others/pennatulacea/veretillidae.htm">Flowery sea pen</a>?</p>
     <p>Changi, Aug 14</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/180616chgm3.jpg
   caption: |
     <p>About to eat this <a href="../../../cnidaria/others/pennatulacea/spiky.htm">Spiky sea pen</a>?</p>
     <p>Beting Bronok, Jun 18</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/190802chglks2.jpg
   caption: |
     <p>About to eat this <a href="../../../cnidaria/others/pennatulacea/veretillidae.htm">Flowery sea pen</a>?</p>
     <p>Changi, Aug 19Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/200722chgtch1.jpg
   caption: |
     <p>Eating a <a href="../../../cnidaria/others/pennatulacea/pencil.htm">Sea pencil</a>?</p>
     <p>Changi, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158679096808713&set=a.10158679165568713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/201020chgsafmn5.jpg
   caption: |
     <p>Changi, Oct 20Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10157788230638660&set=a.10157785574688660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/251107chgmn7.jpg
   caption: |
     <p>Changi Carpark 1, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162229111963660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/120508skdtch1m3.jpg
   caption: |
     <p>Pulau Sekudu, May 12Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10150864191998713.434799.619308712&type=1">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/070714bblks01m3.jpg
   caption: |
     <p>Beting Bronok, Jul 07Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2007/07/beting-bronok-discoveries.html">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/semperi/140529chgsafd5565m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -112,7 +120,7 @@ Rudman](http://www.seaslugforum.net/showall/armisemp), the coloured wiggly lines
 body are not gills although gas exchange may take place. These act
 like the cerata of aeolids, a place where the digestive gland can
 expand. These lines often are the same colour of their sea pen food.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **What does it eat?** As a group,
 the armina nudibranchs eat [soft

@@ -1,12 +1,17 @@
 ---
 title: Groupers
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: grouper, fish, serranidae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Serranidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 inat_id: 47765
 stateofmatter: Life
 kingdom: Animalia
@@ -18,19 +23,19 @@ order: Perciformes
 suborder: Percoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
   caption: |
     <p><a href="boenak">Chocolate hind</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/coioides/120606bbd4364m3.jpg
   caption: |
     <p><a href="coioides">Orange-spotted grouper</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/formosa/150520ecplks2.jpg
   caption: |
     <p><a href="formosa">Bluelined hind</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/quoyanus/110418tmftd9031m3.jpg
   caption: |
     <p><a href="quoyanus">Honeycomb grouper</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/serranidae/boenak/100527tmd3431m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -126,7 +131,7 @@ on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

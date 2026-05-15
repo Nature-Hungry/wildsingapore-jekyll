@@ -1,51 +1,56 @@
 ---
-title: "Nyatoh "
+title: 'Nyatoh '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nyatoh, pouteria, liggensis, sapotaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nyatoh, pouteria, liggensis, sapotaceae, plant, tree, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 109]
+attributes:
+- 18
+- 21
+- 36
+- 109
 family: Sapotaceae
 genus: Pouteria
 species: liggensis
 updated: Aug 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg
   caption: |
     <p>Chek Jawa, Jun 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8978m3a.jpg
   caption: |
     <p>Tiny flowers.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/070422cjg8979m3b.jpg
   caption: |
     <p>Fruits.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3.jpg
   caption: |
     <p>Chek Jawa,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/011106cjd395m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3.jpg
   caption: |
     <p>Chek Jawa, Oct 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/091005cjd2284m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3.jpg
   caption: |
     <p>Chek Jawa, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/101009cjd1972m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pouteria/linggensis/030614cjd0270m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +92,7 @@ green ripening to purple.
 as 'Critically Endangered' in the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

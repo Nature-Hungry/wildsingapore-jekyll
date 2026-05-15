@@ -1,7 +1,9 @@
 ---
 title: Geographic sea hare
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae, anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: geographic, seahare, hare, syphonota, paraplysia, geographica, aplysiidae,
+  anaspidea, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Aplysiidae
 genus: Syphonota
@@ -19,44 +21,44 @@ order: Aplysiida
 superfamily: Aplysioidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
   caption: |
     <p>Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3a.jpg
   caption: |
     <p>Tiny rhinophores near one another, held between parapodia.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/070614chgd2152m3.jpg
   caption: |
     <p>Thin internal shell.</p>
     <p>Changi, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050622cftd4094m3.jpg
   caption: |
     <p>Laying egg string Changi, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/120410chgd9081m3.jpg
   caption: |
     <p>Half buried in soft sediment.</p>
     <p>Changi, Apr 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/111124cyrs00191m3.jpg
   caption: |
     <p>Swimming sea hare!</p>
     <p>Cyrene Reef, Nov 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/160510ecpbsyj2.jpg
   caption: |
     <p>East Coast Park, May 16Photo shared by Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/150320tuslks2m3.JPG
   caption: |
     <p>Tuas, Mar 15Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2015/03/underwater-fantasy-at-tuas.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/110830cyrnml1m3.JPG
   caption: |
     <p>Cyrene Reef, Aug 11Photo shared by Neo Mei Lin on <a href="http://psychedelic-nature.blogspot.com/2011/08/more-surprises-at-cyrene-reefs.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/200627cyrlks2.jpg
   caption: |
     <p>Cyrene, Jun 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158405641258158&set=a.10158405653668158&type=3&theater">facebook</a>.</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Sea Challengers.</p>
     <p>314pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/anaspidae/geographica/050608cftg7393m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -106,7 +108,7 @@ with fine line horizontal lines along the body.
   
 **Sometimes confused with** the [Spotted sea hare](spotted.htm) which has a pattern of tiny white spots that form patches and doesn't have fine horizontal lines.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,0 +1,48 @@
+<style>
+
+    .img-grid{
+        display:grid;
+        grid-template-columns:  repeat(5, 1fr);
+        gap:1rem;
+        margin:2rem 0;
+    }
+    .img-grid .img-container{
+        width:100%;
+        justify-self: stretch;
+        max-width: none;
+        display: flex;
+        flex-direction: column;
+    }
+    .img-grid .img-container .caption{
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        text-align:center;
+        font-size:0.8rem;
+    }
+    .img-grid .img-container .caption p{
+        margin:0;
+    }
+</style>
+
+<div class="img-grid">
+    {% for item in include.items %}
+        {% assign style = "" %}
+
+        {% if item.row_span %}
+            {% assign style = style | append: "grid-row: span " | append: item.row_span | append: ";" %}
+        {% endif %}
+
+        {% if item.col_span %}
+            {% assign style = style | append: "grid-column: span " | append: item.col_span | append: ";" %}
+        {% endif %}
+
+    <div class="img-container" style="{{style}}">
+        <img src="{{item.url}}" alt="">
+        <div class="caption">
+        {{item.caption}}
+        </div>
+    </div>
+    {% endfor %}
+
+</div>

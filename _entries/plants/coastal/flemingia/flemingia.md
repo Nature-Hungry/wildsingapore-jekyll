@@ -1,9 +1,15 @@
 ---
-title: "Serengan "
+title: 'Serengan '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: serengan, flemingia, strobilifera, fabaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Fabaceae
 genus: Flemingia
 species: strobilifera
@@ -19,49 +25,49 @@ tribe: Phaseoleae
 subtribe: Cajaninae
 updated: Aug 09
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
   caption: |
     <p>Planted specimen Chek Jawa, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3069m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4782m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3064m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3067m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3067m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0003m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0005m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/100314cjd0009m6l.jpg
   caption: |
     <p>Chek Jawa, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/091128cjd4784m6l.jpg
   caption: |
     <p>Chek Jawa, Nov 09</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/flemingia/strobilifera/090531cjd3066m3.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -118,7 +124,7 @@ and does not work on cotton.
 This plant is considered an invasive in some places where it has been
 introduced.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

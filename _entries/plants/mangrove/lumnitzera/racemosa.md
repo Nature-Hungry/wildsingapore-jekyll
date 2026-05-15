@@ -1,9 +1,15 @@
 ---
-title: "Teruntum putih "
+title: 'Teruntum putih '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "teruntum, putih, lumnitzera, racemosa, combretaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: teruntum, putih, lumnitzera, racemosa, combretaceae, tree, mangrove, mangroves,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 120]
+attributes:
+- 18
+- 21
+- 36
+- 120
 family: Combretaceae
 genus: Lumnitzera
 species: racemosa
@@ -16,23 +22,23 @@ order: Myrtales
 inat_id: 164873
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0005m3.jpg
   caption: |
     <p>Pulau Ubin, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3021m3d.jpg
   caption: |
     <p>PulauSemakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/081213smkd3022m3a.jpg
   caption: |
     <p>Pulau Semakau, Dec 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/030809ubnd0006m3b.jpg
   caption: |
     <p>White flowers, stamens same length as petals.</p>
     <p>Pulau Ubin, Aug 03</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/lumnitzera/racemosa/110317mndd7431m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -98,7 +104,7 @@ littorea*) but because it is a smaller plant it is less useful.
 **Status and threats:** It is listed
 as 'Endangered' on the Red List of threatened plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

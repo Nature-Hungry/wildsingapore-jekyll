@@ -1,27 +1,33 @@
 ---
 title: Reticulated pufferfish
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "starry, pufferfish, puffer, fish, arothon, reticularis, tetraodontidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: starry, pufferfish, puffer, fish, arothon, reticularis, tetraodontidae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [11, 25, 47, 85]
+attributes:
+- 11
+- 25
+- 47
+- 85
 family: Tetraodontidae
 genus: Arothon
 species: reticularis
 updated: Nov 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
   caption: |
     <p>Photo by Dr Tan Heok Hui from Singapore Biodiversity Records 2016: 102-103</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/161228cjik.jpg
   caption: |
     <p>Juvenile  Chek Jawa, Dec 16Photo shared by Ivan Kwan on <a href="https://www.facebook.com/photo.php?fbid=10154149210371179&set=a.10154149196226179.1073741851.602806178&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/260105prpezxh3.jpg
   caption: |
     <p>Dead Pasir Ris Park, Jan 26Photo shared by Zen Xuan He on <a href="https://www.facebook.com/chen.octavius/posts/2081297236002397?ref=embed_post">facebook</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/081101chgik.jpg
   caption: |
     <p>Dead Changi, Nov 08Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/2998478849/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/tetraodontidae/reticularis/sbr2018-091.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -53,7 +59,7 @@ Nov 2020*
 **Where
 seen?** A live one was seen once at Chek Jawa, while a dead one had washed ashore at Changi. Elsewhere, juveniles usually seen on muddy and estuarine shores. Adults in deeper water near coral reefs. **Features:**  To
 about 45cm. Body covered with fine prickles. Body greyish brown with whitish stripes on its snout, cheeks and belly. Brown and whitish lines circle the eye. Whitish rounded spots on the dorsal surface, giving a net-like appearance. Large blackish blotch on the gill flap and on the base of the pectoral fin. Tail fin is spotted and the other fins are translucent yellowish-brown.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

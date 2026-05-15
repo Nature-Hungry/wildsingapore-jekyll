@@ -1,9 +1,14 @@
 ---
-title: "Belalang puak "
+title: 'Belalang puak '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pittosporum, ferrugineum, pittosporaceae, tree, plant, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 109]
+attributes:
+- 18
+- 21
+- 36
+- 109
 family: Pittosporaceae
 genus: Pittosporum
 species: ferrugineum
@@ -16,19 +21,19 @@ class: Magnoliopsida
 order: Apiales
 updated: Feb 11
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
   caption: |
     <p>Growing also the natural shore Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3a.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3c.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6171m3b.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>Singapore University Press.</p>
     <p>215 pp.</p>
@@ -36,7 +41,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -44,7 +49,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -59,7 +64,7 @@ page_images:
     <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/pittosporaceae/ferrugineum/110220lazd6170m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +122,7 @@ used as fish poison.
 is listed as 'Vulnerable' in the Red List of threatened plants of
 Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

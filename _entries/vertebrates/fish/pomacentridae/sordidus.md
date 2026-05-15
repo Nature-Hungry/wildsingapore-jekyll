@@ -1,9 +1,17 @@
 ---
-title: "Black-spot sergeant "
+title: 'Black-spot sergeant '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, pomacentridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, spot, sergeant, abudefduf, sordidus, damsel, fish, damselfish, pomacentridae,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [25, 47, 58, 60, 69, 70]
+attributes:
+- 25
+- 47
+- 58
+- 60
+- 69
+- 70
 family: Pomacentridae
 genus: Abudefduf
 species: sordidus
@@ -18,14 +26,14 @@ order: Blenniiformes
 subfamily: Glyphisodontinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
   caption: |
     <p>Sisters Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9504m6l.jpg
   caption: |
     <p>Sisters Island, Aug 08 What does it eat?</p>
     <p>It is said to feed on algae, crustaceans and other invertebrates during the day.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/sordidus/080816sisd9502m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -64,7 +72,7 @@ seen about 8cm long. Head and body white. It is identified by the
 prominent black spot at the top of the tail just before the tail fin.
 Like other sergeants, it has about 6 dark or grey bars. More on [how
 to tell apart sergeants](pomacentridae).
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** It is considered a
 food fish in Hawaii.

@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,"
+keywords: blue, spatula, sponge, lamellodysidea, herbacea, thorectidae, porifera,
 layout: entry
 shape: leafy
 title: Silvery blue  sponge
@@ -17,76 +17,76 @@ subclass: Keratosa
 order: Dictyoceratida
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3a.jpg
   caption: |
     <p>Labrador, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3.jpg
   caption: |
     <p>Labrador,</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/050413labg4698m3a.jpg
   caption: |
     <p>Labrador, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/080425cyrd1755m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/070420sntrg8812m3a.jpg
   caption: |
     <p>A young sponge may look like a cabbage.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/040606kusd0305m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks.JPG
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/110517tptlks1.JPG
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/5729978596/in/album-72157626616274147/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/110220lazro7m3a.jpg
   caption: |
     <p>Photo shared by Rene Ong on <a href="http://www.facebook.com/album.php?aid=29792&id=133291903397183&ref=mf">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/201019sjilks5b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158704040913158&set=a.10158704042413158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/160208smksjt2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/160208smksjt2.jpg
   caption: |
     <p>Pulau Semakau South, Feb 16Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153825357884000.1073741984.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/091204pawd5217m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/100613sngd5636m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/spatula/100530tbkd4270m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/spatula/050311labg3265m3.jpg
 ---
 
 
@@ -115,7 +115,7 @@ to the [cyanobacteria](../plants/seaweed/cyanobacteria/cyanobacteria.htm) that i
 that is used to capture light for photosynthesis. They also contain
 chlorophyll.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

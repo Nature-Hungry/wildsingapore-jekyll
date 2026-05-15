@@ -1,11 +1,13 @@
 ---
 title: Belongkeng snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ellobium, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ellobium, belongkeng, snail, ellobiidae, gastropod, mollusc, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Ellobiidae
 genus: Ellobium
-species: ""
+species: ''
 attributes: []
 inat_id: 149843
 stateofmatter: Life
@@ -21,55 +23,55 @@ superfamily: Ellobioidea
 subfamily: Ellobiinae
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
   caption: |
     <p>Pasir Ris, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8913m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8916m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8917m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6996m3.jpg
   caption: |
     <p>Pulau Semakau, Feb 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd7000m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090212smkd6998m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3a.jpg
   caption: |
     <p>Pasir Ris Park,</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo3.jpg
   caption: |
     <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6a.jpg
   caption: |
     <p>Pasir Ris Park,</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251228spgrqo6b.jpg
   caption: |
     <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.902246838958724&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1a.jpg
   caption: |
     <p>Pandan mangroves,</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251221pndrqo1.jpg
   caption: |
     <p>Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.908956731621068&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/251219cnyrqo3.jpg
   caption: |
     <p>Coney Island, Dec 25 Photo shared by Rui Quan Oh on <a href="https://www.facebook.com/media/set/?set=a.905833675266707&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/121110cjlks.JPG
   caption: |
     <p>Chek Jawa, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8171935772/in/album-72157607712316054/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/ellobiidae/ellobium/090810prpd8922m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -111,7 +113,7 @@ oval or elongated, plain brown. White at the shell opening. The
 animal is large with a fleshy pale body and short tentacles, some with
 pretty white patterns.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

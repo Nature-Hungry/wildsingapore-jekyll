@@ -1,11 +1,18 @@
 ---
-title: "Piai raya "
+title: 'Piai raya '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "fern, acrostichum, aureum, pteridaceae, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: fern, acrostichum, aureum, pteridaceae, mangrove, mangroves, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [8, 18, 21, 36, 96]
+attributes:
+- 8
+- 18
+- 21
+- 36
+- 96
 family: Pteridaceae
-genus: ""
+genus: ''
 species: Acrostichum
 stateofmatter: Life
 kingdom: Plantae
@@ -17,21 +24,21 @@ suborder: Pteridineae
 inat_id: 48437
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd8453m3.jpg
   caption: |
     <p>Young fronds are red.</p>
     <p>Sungei Buloh Wetland Reserve, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/130202mndd3842m3.jpg
   caption: |
     <p>Sterile leaves have blunt tips sometimes with a small sharp point.</p>
     <p>Pasir Ris, Sep 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090425prpd0411m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090425prpd0411m3.jpg
   caption: |
     <p>Fertile fronds with spores.Pasir Ris, Apr 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/acrostichum/aureum/090328sbwrd0006m6.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -79,7 +86,7 @@ tip sometimes with a small sharp point.
 See the [main page on mangrove ferns](acrostichum)
 for their human uses.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

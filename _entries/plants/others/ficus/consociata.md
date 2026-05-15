@@ -1,7 +1,9 @@
 ---
-title: "Brown-scurfy fig "
+title: 'Brown-scurfy fig '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "brown, scurfy, fig, ficus, consociata, moraceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: brown, scurfy, fig, ficus, consociata, moraceae, tree, plant, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Moraceae
 genus: Ficus
@@ -17,31 +19,31 @@ order: Rosales
 tribe: Ficeae
 updated: Feb 11
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/090628lazd6098m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/090628lazd6098m3.jpg
   caption: |
     <p>Lazarus Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/090628lazd6100m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/090628lazd6100m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6195m3.jpg
   caption: |
     <p>Lazarus Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6195m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6195m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3a.jpg
   caption: |
     <p>Lazarus Island,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6188m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -50,7 +52,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -58,13 +60,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/others/ficus/consociata/110220lazd6196m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -125,7 +127,7 @@ Sumatra.
 var *murtoni* is listed as 'Critically Endangered' in the Red
 List of threatened plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

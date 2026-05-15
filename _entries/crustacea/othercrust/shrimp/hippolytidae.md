@@ -1,11 +1,12 @@
 ---
 title: Hippolytoid shrimps
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: shrimp, hippolytidae, decapod, crustacea, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Hippolytidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 51200
 stateofmatter: Life
@@ -22,16 +23,16 @@ infraorder: Caridea
 superfamily: Alpheoidea
 updated: Jan 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
   caption: |
     <p><a href="saron">Saron shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/lysmata/031225skdd0066m3.jpg
   caption: |
     <p><a href="lysmata">Cleaner shrimp</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/humped/111002sisd2124m3.jpg
   caption: |
     <p><a href="humped">Humpbacked shrimp</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/shrimp/saron/090918tmd0927m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -74,7 +75,7 @@ shrimps on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

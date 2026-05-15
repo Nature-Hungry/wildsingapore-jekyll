@@ -1,7 +1,9 @@
 ---
 title: Scintillating flatworm
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "flat, worm, flatworm, pseudoceros, scintillatus, polyclad, turbellaria, platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: flat, worm, flatworm, pseudoceros, scintillatus, polyclad, turbellaria,
+  platyhelminthes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Pseudocerotidae
 genus: Pseudoceros
@@ -16,16 +18,16 @@ order: Polycladida
 suborder: Cotylea
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 18Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10156583847473713&set=a.10156583843858713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180714cjcyf1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180714cjcyf1.jpg
   caption: |
     <p>Chek Jawa, Jul 18Photo shared by Choo Yi Feng on <a href="https://www.facebook.com/choo.eggstasy/media_set?set=a.2307422875939429.1073741838.100000152180164&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/150422jngmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/150422jngmn.jpg
   caption: |
     <p>Pulau Jong, Apr 15Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/17059053489/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/worm/polycladida/scintillatus/180617skdtch1.jpg
 ---
 
 
@@ -50,7 +52,7 @@ seen?** More often seen by divers. On the intertidal, this tiny flatworm is some
 **Features:** 1cm long. Body black with white ovals and blobs of various random sizes from large to smaller dots to tiny spots. The ovals have a brighter white outer edge. Body margin
 bright orange. Some of the smaller white ovals overlap on the orange margin. Has a pair of pseudotentacles made up of simple folds of the body edge.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

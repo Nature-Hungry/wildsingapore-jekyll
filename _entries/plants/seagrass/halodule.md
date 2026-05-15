@@ -1,15 +1,20 @@
 ---
 title: Needle seagrass
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "needle, grass, halodule, uninervis, pinifolia, cymodoceaceae, potamogetonaceae, cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: needle, grass, halodule, uninervis, pinifolia, cymodoceaceae, potamogetonaceae,
+  cymodoceaceae, seagrass, grass, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [95]
+attributes:
+- 95
 englishname: Needle seagrass
 family: Cymodoceaceae
 genus: Halodule
-species: ""
-summary: "Thin ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin. Sometimes seen on some our shores, especially on sand bars. Luxuriant growths seen on seaward sandbars on Chek Jawa."
-coverimg: "https://live.staticflickr.com/5474/29515985924_2d2b987385_n.jpg"
+species: ''
+summary: Thin ribbon-like leaves up to 15cm long and 3.5mm wide. Rhizomes thin. Sometimes
+  seen on some our shores, especially on sand bars. Luxuriant growths seen on seaward
+  sandbars on Chek Jawa.
+coverimg: https://live.staticflickr.com/5474/29515985924_2d2b987385_n.jpg
 inat_id: 50378
 stateofmatter: Life
 kingdom: Plantae
@@ -19,41 +24,41 @@ class: Liliopsida
 order: Alismatales
 updated: Mar 14
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/100419chgc2643m6l.jpg
   caption: |
     <p>Large stretches of Halodule.</p>
     <p>Changi, Apr 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9934m3.jpg
   caption: |
     <p>Halodule with very broad blades.</p>
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050623cjg8439m3.jpg
   caption: |
     <p>Chek Jawa, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050822cjg2120m3c.jpg
   caption: |
     <p>Long skinnyHalodule.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/070603sntrg9935m3.jpg
   caption: |
     <p>Long broad Halodule.</p>
     <p>Sentosa, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/050315cjg3392m3.jpg
   caption: |
     <p>Short skinny Halodule.</p>
     <p>Chek Jawa, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3.jpg
   caption: |
     <p>Pulau Semakau, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/090503sgwwd1004m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6lb.jpg
   caption: |
     <p>Broad Halodule.</p>
     <p>Cyrene Reefs, Aug 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg"
-  caption: |
+- url: http://www.wildsingapore.com/wildfacts/plants/seagrass/halodule/110830cyrd0555m6la.jpg
+  caption: |-
     <p>Skinny Halodule.</p>
     <p>Cyrene Reefs, Aug 11</p>
 ---
@@ -147,7 +152,7 @@ pinifolia* is listed as 'Critically Endangered' while *Halodule
 uninervis* is listed as 'Vulnerable' on the Red List of threatened
 plants of Singapore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
   
 

@@ -1,11 +1,13 @@
 ---
-title: "Dendrophylliid corals "
+title: 'Dendrophylliid corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "disk, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: disk, dendrophylliidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Dendrophylliidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 51800
 stateofmatter: Life
@@ -16,22 +18,22 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
   caption: |
     <p><a href="flowery.htm">Flowery disk coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/tubastraea/060713rlhg6356m3.jpg
   caption: |
     <p><a href="tubastrea.htm">Cave corals</a><a href="thin.htm">l</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/ruffled/110717tbd7128m3.jpg
   caption: |
     <p><a href="ruffled.htm">Ruffled disk coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/thin/031124tuscd0065m3.jpg
   caption: |
     <p><a href="thin.htm">Thin disk coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/encrust/111001sjid1937m3.jpg
   caption: |
     <p><a href="encrust.htm">Encrusting disk coral</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/dendrophylliidae/flowery/070615sntd2188m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +83,7 @@ corals on Singapore shores**
 
 ---
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

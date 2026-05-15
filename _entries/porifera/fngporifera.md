@@ -1,22 +1,22 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal,"
+keywords: seaweed, weed, algae, field, guide, seashore, sea, shore, marine, coastal,
 layout: entry
-shape: ""
+shape: ''
 title: Introducing sponges
-family: ""
-genus: ""
-species: ""
+family: ''
+genus: ''
+species: ''
 attributes: []
 inat_id: 1
 stateofmatter: Life
 kingdom: Animalia
 updated: Aug 08
 page_images:
-- url: "../../Templates/fornatureguides.gif"
+- url: ../../Templates/fornatureguides.gif
   caption: |
     <p>](../forguides/index.html)</p>
-coverimg: "../../Templates/fornatureguides.gif"
+coverimg: ../../Templates/fornatureguides.gif
 ---
 
 
@@ -30,7 +30,7 @@ homepage](http://www.wildsingapore.com/)
 [wild shores of singapore
 blog](http://wildshores.blogspot.com/)
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 [all animals](../animals.htm)
 | [all plants](../plants.htm)

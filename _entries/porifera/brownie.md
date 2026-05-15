@@ -1,6 +1,6 @@
 ---
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,"
+keywords: sponge, pseudoceratina, purpurea, pseudoceratinidae, porifera, field, guide,
 layout: entry
 shape: blobs
 title: Brownie sponge
@@ -10,22 +10,22 @@ species: tubaria*
 attributes: []
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
   caption: |
     <p>Terumbu Raya, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1818m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1818m3.jpg
   caption: |
     <p>Chek Jawa, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1819m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/brownie/130822cjd1819m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/porifera/brownie/240708smkeky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/porifera/brownie/240708smkeky2.jpg
   caption: |
     <p>Pulau Semakau, Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169681682290112">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/porifera/brownie/120708tryd7520m3.jpg
 ---
 
 
@@ -45,7 +45,7 @@ Oct 2016*
 seen?**
 This rather untidy sponge is sometimes seen on some of our Nothern and Southern shores. **Features:** Untidy lumpy mass, or thick irregular branches (10-15cm), porous. Surface lumpy and crumbly looking, resembling brownies. Colour greyish brown.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

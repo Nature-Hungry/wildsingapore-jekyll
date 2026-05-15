@@ -1,9 +1,18 @@
 ---
 title: Plasticky sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "beige, cucumber, seacucumber, cladolabes, hamatus, sclerodactylidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: beige, cucumber, seacucumber, cladolabes, hamatus, sclerodactylidae, holothuroidea,
+  echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 92, 101]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 92
+- 101
 family: Sclerodactylidae
 genus: Cladolabes
 species: hamatus*
@@ -17,47 +26,47 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
   caption: |
     <p>Half buried in silty sand.</p>
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3.jpg
   caption: |
     <p>Changi, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/100712chgd8504m3a.jpg
   caption: |
     <p>Tube feet short, stiff, conical with orange tips.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160804chg4ll1.jpg
   caption: |
     <p>Changi, Aug 16 Photo shared by Lisa Lim on <a href="https://www.facebook.com/lim.lisa/media_set?set=a.10154140494663964.1073741886.716233963&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/180910chg4dc4.jpg
   caption: |
     <p>Changi, Sep 18Photo shared by Dayna Cheah on <a href="https://www.facebook.com/photo.php?fbid=1744990062284429&set=a.1744988158951286&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/210528chg7lks10.jpg
   caption: |
     <p>Changi Carpark 6, May 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159231445748158&set=a.10159231448318158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230704chg1rk5.jpg
   caption: |
     <p>Changi Carpark 1, Jul 23Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160587841932906&set=a.10160587835882906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200622chglks3.jpg
   caption: |
     <p>Changi, Jun 20 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158386045213158&set=a.10158386046153158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/251012chgmn10.jpg
   caption: |
     <p>Changi, Oct 25Photo shared by Marcus Ng on <a href="https://www.facebook.com/media/set/?set=a.10162108762528660&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/200723bbtch2.jpg
   caption: |
     <p>Beting Bronok, Jul 20Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10158682184153713&set=a.10158682253873713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/230706bbky1.jpg
   caption: |
     <p>Beting Bronok, Jul 23Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10168526815865112&set=a.10168526808550112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/190704bbvc2.jpg
   caption: |
     <p>Beting Bronok, Jul 19 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10156721307532945&set=a.10156721306377945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/160510ecpbsyj1.jpg
   caption: |
     <p>East Coast Park, May 16Photo shared by Ywee Chieh on <a href="https://www.facebook.com/yujie.zheng.16/media_set?set=a.10156866018560263.1073741840.575545262&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/hamatus/110519chgd2253m3.jpg
 ---
 
 
@@ -78,7 +87,7 @@ our Northern shores half buried in silty sand among seagrasses.
   
 **Features:** 6-12cm long. Body rounded, usually U-shaped when just dug up, hard and stiff, smooth. Colour pale bluish or greyish with irregular darker blotchy lines along the body length. Evenly covered with lots of short stiff conical smooth tube feet with bright orange or yellow tips. Feeding tentacles thin bushy.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

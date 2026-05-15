@@ -1,9 +1,15 @@
 ---
-title: "Pelir musang "
+title: 'Pelir musang '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pelir, musang, fagraea, auriculata, gentianaceae, loganiaceae, tree, plant, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pelir, musang, fagraea, auriculata, gentianaceae, loganiaceae, tree, plant,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 36, 62]
+attributes:
+- 18
+- 21
+- 36
+- 62
 family: Gentianaceae
 genus: Fagraea
 species: auriculata
@@ -18,35 +24,35 @@ tribe: Potalieae
 subtribe: Potaliinae
 updated: Feb 11
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6221m3a.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3.jpg
   caption: |
     <p>A pair of 'ears' at the base of the leaf stalk.</p>
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6224m3a.jpg
   caption: |
     <p>Lazarus Island, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4654m6l.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100531biod4665m3a.jpg
   caption: |
     <p>Pulau Biola, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3981m6l.jpg
   caption: |
     <p>Pulau Tekukor, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3986m3.jpg
   caption: |
     <p>Pulau Tekukor,</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3989m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/100528tkkd3989m3.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -55,7 +61,7 @@ page_images:
     <p>J.</p>
     <p>H., 1997.</p>
     <p>[Wayside</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Fourth edition, Malayan Nature Society, Kuala Lumpur.</p>
@@ -63,7 +69,7 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
@@ -78,7 +84,7 @@ page_images:
     <p>The Singapore Red Data Book: Threatened plants and animals of Singapore.</p>
     <p>Nature Society (Singapore).</p>
     <p>285 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/fagraea/auriculata/110220lazd6220m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../indexl)
 
@@ -135,7 +141,7 @@ is considered very good.
 is listed as 'Critically Endangered' in the Red List of threatened
 plants of Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

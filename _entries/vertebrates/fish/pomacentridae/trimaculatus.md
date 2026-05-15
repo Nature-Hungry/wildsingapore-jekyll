@@ -1,9 +1,18 @@
 ---
-title: "Three-spot dascyllus "
+title: 'Three-spot dascyllus '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae, amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: black, anemonefish, three, spot, dascyllus, trimaculatus, pomacentridae,
+  amphiprion,  amphiprioninae, field, guide, seashore, sea, shore, marine, coastal,
+  intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 15, 19, 25, 47, 48, 79]
+attributes:
+- 9
+- 15
+- 19
+- 25
+- 47
+- 48
+- 79
 family: Pomacentridae
 genus: Dascyllus
 species: trimaculatus
@@ -18,21 +27,21 @@ order: Blenniiformes
 subfamily: Chrominae
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
   caption: |
     <p>Often seen together with <a href="../../../crustacea/othercrust/shrimp/brevicarpalis">Peacock anemoneshrimps</a>.</p>
     <p>Terumbu Selegie, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m6l.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11 What does it eat?</p>
     <p>It feeds on algae, copepods, and other planktonic crustaceans.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/140420sismn.jpg
   caption: |
     <p>Sisters Island, Apr 14Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/13982559484/in/album-72157644171393224/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110508cyrlks2m3.jpg
   caption: |
     <p>Juvenile fish in Giant carpet anemone Cyrene Reef, May 11 Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2011/05/lovely-surprises-from-cyrene-reefl">his blog</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/pomacentridae/trimaculatus/110619tslgd4444m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -73,7 +82,7 @@ jet black with white blotch on forehead and on the sides near the
 upperside of the body. As they age, the spots fade. Adults are greyish
 with variable 'spottiness', some with no spot on forehead; or very
 reduced side spot.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** Unfortunately, these
 fishes are taken from the wild for the aquarium trade. The harvest

@@ -1,11 +1,12 @@
 ---
-title: "Pipefishes "
+title: 'Pipefishes '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pipefish, pipe, fish, syngnathidae, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Syngnathidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 49106
 stateofmatter: Life
@@ -18,10 +19,10 @@ order: Syngnathiformes
 suborder: Syngnathoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
   caption: |
     <p>Changi, Oct 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/140812chg4d8517m3.jpg
   caption: |
     <p>Long tube-like toothless snout.</p>
     <p>Tiny tubular nostrils.</p>
@@ -35,20 +36,20 @@ page_images:
     <p>In some species, 'pregnant' males may hang out together in small groups.</p>
     <p>The eggs develop safely on dad's body.</p>
     <p>The father 'gives birth' to live young, which emerge as miniatures of the adults.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/050627smkg8911m3.jpg
   caption: |
     <p>Carrying eggs on the underside Pulau Semakau, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/090427chgd0639m6l.jpg
   caption: |
     <p>Very pregnant papa with a bulging pouch on the underside.</p>
     <p>Changi, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/120510chgd2756m3.jpg
   caption: |
     <p><a href="seagrass">Seagrass pipefish</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/biaculeatus/080523cyrd3932m3.jpg
   caption: |
     <p><a href="biaculeatus">Alligator pipefish</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/syngnathidae/seagrass/071001chgd6784m6la.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -113,7 +114,7 @@ and patterns.
 **What do they eat?** Pipefishes feed
 on tiny creatures. To suck these up, they use their long tube-like
 snouts tipped with a small toothless mouth.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 Some pipefishes may perform courtship dances before mating. Unlike
 seahorses, a mating pair of pipefishes may not remain faithful only

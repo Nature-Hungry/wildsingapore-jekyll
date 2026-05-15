@@ -1,7 +1,9 @@
 ---
 title: Asparagus sea fan
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "asparagus, fan, dichotella, gemmacea, ellisellidae, gorgonian, gorgonacea, anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: asparagus, fan, dichotella, gemmacea, ellisellidae, gorgonian, gorgonacea,
+  anthozoa, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Ellisellidae
 genus: Dichotella
@@ -9,55 +11,55 @@ species: cf.
 attributes: []
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
   caption: |
     <p>Beting Bronok, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbg0157m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbg0157m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3.jpg
   caption: |
     <p>Beting Bronok, Jun 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/040604bbg0219m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0232m3.jpg
   caption: |
     <p>Beting Bronok, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0234m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/030521bbd0234m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161462282273158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/190802chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/190802chglks1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/190802chglks1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/190802chglks1a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/lohkoksheng/media_set?set=a.10157406245013158&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/200722lyglks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/200722lyglks2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/200722lyglks2a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/200722lyglks2a.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158477544463158&set=a.10158477547983158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/240706ubnlks6a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/230617lygrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/230617lygrk1.jpg
   caption: |
     <p>Changi Loyang, Jun 23 Photo shared by Richard Kuah on <a href="https://www.facebook.com/photo/?fbid=10160560446807906&set=a.10160560437997906">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/230617lygrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/230617lygrk1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/220617skdlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/220617skdlks1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159942205713158&set=a.10159942212483158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/others/gorgonacea/asparagus/050724bbd5359m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -102,7 +104,7 @@ also white, yellowish or orange.
 There are also long unbranched [sea whips](whip) that
 look like asparagus sea fans.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

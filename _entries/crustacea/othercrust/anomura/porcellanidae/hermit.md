@@ -1,11 +1,15 @@
 ---
 title: Hermit porcelain crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hermit, porcelain, crab, porcellanidae, anomura, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hermit, porcelain, crab, porcellanidae, anomura, decapod, crustacea, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [38, 122]
+attributes:
+- 38
+- 122
 family: Porcellanidae
-genus: ""
+genus: ''
 species: identification*
 inat_id: 47805
 stateofmatter: Life
@@ -22,17 +26,17 @@ infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
   caption: |
     <p>In a shell occupied by a <a href="../hermit/clibanarius">Striped hermit crab</a>.</p>
     <p>Changi, Apr 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/hermit/050315cjd1820m3.jpg
   caption: |
     <p>Chek Jawa, Mar 05</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/hermit/stripeorange/050428cftg5276m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -75,7 +79,7 @@ large shells occupied by [hermit crabs](../hermit/hermit) on our Northern shores
 less than 1cm. Drab brown or grey. Usually seen in pairs in large
 shells occupied by a hermit crab.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

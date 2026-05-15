@@ -1,12 +1,16 @@
 ---
 title: Big porcelain crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, crustacea, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: big, red, porcelain, crab, petrolisthes, porcellanidae, decapod, crustacea,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [38, 122]
+attributes:
+- 38
+- 122
 family: Porcellanidae
 genus: Petrolisthes
-species: ""
+species: ''
 inat_id: 47804
 stateofmatter: Life
 kingdom: Animalia
@@ -22,49 +26,49 @@ infraorder: Anomura
 superfamily: Galatheoidea
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3a.jpg
   caption: |
     <p>Feathery mouthparts.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0353m3a.jpg
   caption: |
     <p>Feathery mouthparts.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/080619chgd5783m3b.jpg
   caption: |
     <p>Fourth pair of legs reduced and tucked up next to the body.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110616ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110616ecplks.JPG
   caption: |
     <p>East Coast Park, Jun 11Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2011/06/east-coast-shore-is-still-alivel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/160210ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/160210ecplks.JPG
   caption: |
     <p>East Coast Park, Feb 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/24570065909/in/album-72157663938916840/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/170822lablks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/170822lablks1.jpg
   caption: |
     <p>Labrador, Aug 17Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10155646582653158&set=a.10155646581903158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/101205blylks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/101205blylks.JPG
   caption: |
     <p>Berlayar Creek, Dec 10Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2010/12/first-visit-to-berlayar-shorel">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/070901sjilks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/070901sjilks.JPG
   caption: |
     <p>St Johns Island, Sep 07 Photo shared by Loh Koh Sheng on <a href="https://www.flickr.com/photos/koksheng/2930419677/in/album-72157607929563969/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/210625vc3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/210625vc3.jpg
   caption: |
     <p>Kusu Island, Jun 21 Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158548178142945&set=a.10158548257772945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/100102sislks2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/100102sislks2m3.jpg
   caption: |
     <p>Sisters Island, Jan 10 Photo shared by Loh Koh Sheng on <a href="http://www.flickr.com/photos/koksheng/4247004527/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110619tslgrl3m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/110619tslgrl3m3.jpg
   caption: |
     <p>Terumbu Selegie, Jun 11Photo shared by Russel Low on <a href="http://www.facebook.com/media/set/?set=a.193758294008904.64196.109257872458947">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/othercrust/anomura/porcellanidae/petrolisthes/120818lazd0359m3.jpg
 ---
 [![](../../../../../wildfactsheet3.gif)](../../../../indexl)
 
@@ -113,7 +117,7 @@ crab is reddish or maroon with a pattern of fine stripes. It may have
 spots of bright colour (orange, blue) near the tips of the pincers
 and around the face.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

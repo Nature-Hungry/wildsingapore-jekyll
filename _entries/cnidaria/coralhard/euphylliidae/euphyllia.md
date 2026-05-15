@@ -1,11 +1,13 @@
 ---
-title: "Euphyllia corals "
+title: 'Euphyllia corals '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "euphyllia, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: euphyllia, euphylliidae, caryophyliidae, coral, hard, scleractinia, cnidaria,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 family: Euphylliidae
 genus: Euphyllia
-species: ""
+species: ''
 attributes: []
 inat_id: 50355
 stateofmatter: Life
@@ -16,63 +18,63 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
   caption: |
     <p><a href="../../../worm/polychaeta/sabellidae.htm">Fan worm</a> in the middle of the colony.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/070630sisg0767m3c.jpg
   caption: |
     <p>Mouth in the middle of the tentacles.</p>
     <p>Sisters Island, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100617tsmd6504m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/100617tsmd6504m3a.jpg
   caption: |
     <p>Sadly, these corals are often the first affected during mass coral bleaching.</p>
     <p>Terumbu Semakau, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0581m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0581m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0583m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060811rlhd0583m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/ancora/060714rlhg0654m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/110422tbmd9794m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3165m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/051203smkg3161m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/glabrescens/080707hntd7529m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6849m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/061122smkd6854m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paradivisa/050310smkg3182m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060356m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/plerogyra/150606tryo6060354m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/euphylliidae/paraancora/040801hntd3753m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -144,7 +146,7 @@ the IUCN](http://www.iucnredlist.org/). Like other creatures of the intertidal z
 affected by human activities such as reclamation and pollution. Trampling
 by careless visitors, and over-collection also have an impact on local
 populations.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

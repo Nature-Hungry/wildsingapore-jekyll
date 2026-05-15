@@ -1,13 +1,20 @@
 ---
 title: Holey sponge seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae, rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sponge, seaweed, weed, green, codium, red, ceratodictyon, spongiosum, lomentariaceae,
+  rhodomeniaceae, rhodophyta, algae, porifera, haliclona cymaeformis, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 division: Rhodophyta
 family: Lomentariaceae
 genus: Ceratodictyon
 species: spongiosum
-attributes: [44, 50, 97, 98]
+attributes:
+- 44
+- 50
+- 97
+- 98
 inat_id: 553987
 stateofmatter: Life
 kingdom: Plantae
@@ -18,55 +25,55 @@ subclass: Rhodymeniophycidae
 order: Rhodymeniales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
   caption: |
     <p>Pulau Hantu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1.jpg
   caption: |
     <p>Big Sisters Island, Aug 25</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/250810bsis1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
   caption: |
     <p>Pulau Hantu, Jun 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7146m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100810sngd9915m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/050309smkd1530m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/080222sntd0068m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/130531tkkmn.jpg
   caption: |
     <p>Pulau Tekukor, May 13Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/8902102886/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/160806tplmn.jpg
   caption: |
     <p>Terumbu Pempang Laut, Aug 16Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/30054652130/in/album-72157672071908125/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/seaweed/rhodophyta/spongeholey/100627hntd7144m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -124,7 +131,7 @@ when out of water. This is a green seaweed which also has a symbiotic
 relationship with another kind of sponge. The two organisms are sometimes
 difficult to tell apart in the field.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

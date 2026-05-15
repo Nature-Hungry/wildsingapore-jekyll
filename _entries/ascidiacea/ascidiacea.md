@@ -1,33 +1,35 @@
 ---
-title: "Ascidians (Ascidiacea) "
+title: 'Ascidians (Ascidiacea) '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ascidian, squirt, seasquirt, tunicate, ascidiacea, urochordate, chordate,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
 updated: Nov 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg
   caption: |
     <p><a href="polycarpa">Solitary sea squirt</a> growing on hard surfaces.</p>
     <p>Tuas, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/solitary.gif"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/solitary.gif
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/jelly/100726chgd9196m3.jpg
   caption: |
     <p><a href="jelly">Solitary sea squirt</a> growing under stones.</p>
     <p>Changi, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/greengumdrop/050309smkg3139m3.jpg
   caption: |
     <p><a href="greengumdrop">Colonial ascidians</a> on seagrasses.</p>
     <p>Pulau Semakau, Mar 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/colonial.gif"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/colonial.gif
   caption: |
     <p>Colonial ascidian</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/beige/090623ecpd4904m3.jpg
   caption: |
     <p><a href="beige">Colonial ascidians</a> forming a sheet over hard surfaces.</p>
     <p>East Coast, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/larva.gif"
+- url: http://www.wildsingapore.com/wildfacts/ascidiacea/ascidiaceanoid/larva.gif
   caption: |
     <p>Ascidian babies are like us!</p>
     <p>Ascidians are actually closely related to vertebrates like us!</p>
@@ -35,15 +37,38 @@ page_images:
     <p>These have a stiff notochord (a primitive spinal cord).</p>
     <p>The subphylum they belong to 'Urochordata' means 'tail string'.</p>
     <p>Some also have an eye spot.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/dromiidae/dromiidae/050819cjg1656m3.jpg
   caption: |
     <p><a href="../crustacea/crab/dromiidae/dromiidae">Sponge crab</a> using an ascidian disguise.</p>
     <p>Chek Jawa, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/worm/polycladida/indicus/080619chgd5684m3.jpg
   caption: |
     <p>A <a href="../worm/polycladida/indicus">flatworm</a> eating an ascidian?</p>
     <p>Changi, Jun 08</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/ascidiacea/polycarpa/050510tusg6134m3.jpg
+links_references: |-
+  **Links**
+
+
+  - [Sea   Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
+  - [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php): technical fact sheets
+  - [The Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
+  - [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.
+  - [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidiansl) on [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education Society of Australia website: a fabulous goldmine of a site which covers various kinds of intertidal habitats and their inhabitants. Fact sheet on ascidians with lovely diagrams showing the changes that the larva goes through as it develops into an adult, and details on a species found in Australia.
+  - on the wild shores of singapore blog
+    - [Blobs in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-humanl)
+
+
+  **References**
+
+
+  - Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge of ascidian diversity in South China Sea and new records for Singapore. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
+  - Tan Siong Kiat, Rene Ong & Toh Chay Hoon. 4 December 2015. *Records of Lamellaria snails in Singapore*. Singapore Biodiversity Records 2015: 193-195
+  - Monniot, Claude, Francoise Monniot and Pierre Laboute 1991. *Coral Reef Ascidians of New Caledonia*. Editions de Porstom.pp. 247
+  - Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
+  - Pechenik, Jan A., 2005. *Biology of the Invertebrates*. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
+  - Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
+  - Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.
 ---
  
 ascidians [text index](ascidiaceaindex)
@@ -76,7 +101,7 @@ The entire animal is encased in a little bag. 'Askidion' comes from the Greek wo
 # Squirty surprise
 Some solitary ascidians have bands of muscles along their body. When these muscles contract, water squirts out of the animal. So they are sometimes also called sea squirts. They may do this to get rid of something in them, or when they are disturbed.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 Cross-section of a solitary ascidian
 
@@ -114,23 +139,3 @@ Our ascidians are not listed among the threatened animals of Singapore. However,
 On [wildsingapore flickr](http://www.flickr.com/photos/wildsingapore/)  
 
 - [Photos](https://www.flickr.com/search/?user_id=54527470%40N00&sort=date-posted-desc&view_all=1&text=Unidentified%20ascidian) for free download
-
-# Links
-
-- [Sea   Squirt *Polycarpa*](http://mangrove.nus.edu.sg/pub/seashore/text/226) Tan, Leo W. H. & Ng, Peter K. L., 1988. *[A Guide to Seashore Life](http://mangrove.nus.edu.sg/pub/seashore/)*. The Singapore Science Centre, Singapore. 160 pp.
-- [Ascidiacea World Database](http://www.marinespecies.org/ascidiacea/index.php): technical fact sheets
-- [The Dutch Ascidians Homepage](http://www.ascidians.com/) by Arjan Gittenberger: general introduction and photos of a wide range of ascidians.
-- [Ascidians: Sea Squirts, Tunicates](http://www.seaslugforum.net/ascidian) on the Sea Slug Forum by Dr Bill Rudman: an introduction with close-up photos.
-- [Ascidians](http://www.mesa.edu.au/friends/seashores/ascidiansl) on [Life on Australian Seashores](http://www.mesa.edu.au/friends/seashores/page1l) by Keith Davey on the Marine Education Society of Australia website: a fabulous goldmine of a site which covers various kinds of intertidal habitats and their inhabitants. Fact sheet on ascidians with lovely diagrams showing the changes that the larva goes through as it develops into an adult, and details on a species found in Australia.
-- on the wild shores of singapore blog
-  - [Blobs in the sea help us understand human health issues](http://wildshores.blogspot.com/2011/04/blobs-in-sea-help-us-understand-humanl)
-
-# References
-
-- Serina S-C Lee, Janlin Y-H Chan, Serena L-M Teo & Gretchen Lambert. State of knowledge of ascidian diversity in South China Sea and new records for Singapore. 29 June 2016. Raffles Bulletin of Zoology Supplement No. 34: 718–743.
-- Tan Siong Kiat, Rene Ong & Toh Chay Hoon. 4 December 2015. *Records of Lamellaria snails in Singapore*. Singapore Biodiversity Records 2015: 193-195
-- Monniot, Claude, Francoise Monniot and Pierre Laboute 1991. *Coral Reef Ascidians of New Caledonia*. Editions de Porstom.pp. 247
-- Edward E. Ruppert, Richard S. Fox, Robert D. Barnes. 2004. *Invertebrate Zoology* Brooks/Cole of Thomson Learning Inc., 7th Edition. pp. 963
-- Pechenik, Jan A., 2005. *Biology of the Invertebrates*. 5th edition. McGraw-Hill Book Co., Singapore. 578 pp.
-- Wee Y.C. and Peter K. L. Ng. 1994. *A First Look at Biodiversity in Singapore*. National Council on the Environment. 163pp.
-- Ng, P. K. L. & Y. C. Wee, 1994. *The Singapore Red Data Book: Threatened Plants and Animals of Singapore*. The Nature Society (Singapore), Singapore. 343 pp.

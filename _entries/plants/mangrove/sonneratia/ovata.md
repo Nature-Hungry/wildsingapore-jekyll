@@ -1,9 +1,17 @@
 ---
 title: Gedabu
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "gedabu, sonneratia, ovata, lythraceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: gedabu, sonneratia, ovata, lythraceae, tree, mangrove, mangroves, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 61, 68]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 61
+- 68
 family: Lythraceae
 genus: Sonneratia
 species: ovata
@@ -16,37 +24,37 @@ order: Myrtales
 inat_id: 425792
 updated: Jan 2013
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg
   caption: |
     <p>Kranji Nature</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9315m3.jpg
   caption: |
     <p>Leaves glossy, not narrow at the base.</p>
     <p>Pulau Ubin, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110328mndd8069m3.jpg
   caption: |
     <p>Calyx sepals pinkish inside.</p>
     <p>Mandai, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110428prpd0243m3.jpg
   caption: |
     <p>No petals, only fluffy white stamens.</p>
     <p>Pasir Ris, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110102cjd4650m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110102cjd4650m3a.jpg
   caption: |
     <p>Unopened flower.</p>
     <p>Chek Jawa, Jan 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110311prpd7006m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110311prpd7006m3.jpg
   caption: |
     <p>Young flower buds.Pasir Ris, Mar 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110531krjL1000195m3.jpg
   caption: |
     <p>Ripe fruit falls and splits open releasing seeds.</p>
     <p>Kranji Nature Trail, Jun 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/090410ubnd9310m3.jpg
   caption: |
     <p>Calyx lobes clasp the fruit.</p>
     <p>Pulau Ubin, Apr 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/sonneratia/ovata/110101krjd4411m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -116,7 +124,7 @@ the tree is often cultivated in Malay villages.
 as 'Critically Endangered' on the Red List of threatened plants of
 Singapore.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

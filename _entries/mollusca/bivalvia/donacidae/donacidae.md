@@ -1,11 +1,12 @@
 ---
 title: Surf clams
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: donax, clam, donacidae, bivalve, mollusc, field, guide, seashore, sea, shore,
+  marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Donacidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 59395
 stateofmatter: Life
@@ -20,16 +21,16 @@ order: Cardiida
 superfamily: Tellinoidea
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
   caption: |
     <p>Changi, Oct 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/donacidae/donacidae/101011chgd2129m3a.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -81,7 +82,7 @@ are suspension or deposit feeders.  **Human uses:** Some are collected
 for food by coastal dwellers. In the Philippines, one species
 is collected in fairly large quantities.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

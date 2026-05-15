@@ -1,7 +1,9 @@
 ---
-title: "Hypselodoris nudibranchs "
+title: 'Hypselodoris nudibranchs '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch, gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: hypselodoris, kanga, nudibranch, slug, seaslug, chromodoridae, opisthobranch,
+  gastropod, mollusc, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Chromodorididae
 genus: Hypselodoris
@@ -23,16 +25,16 @@ superfamily: Chromodoridoidea
 subfamily: Miamirinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
   caption: |
     <p><a href="hypink.htm">Pink-gilled hypselodoris</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hymaritima/060429skdg5808m3.jpg
   caption: |
     <p><a href="hymaritima.htm">Hypselodoris maritima</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hykanga/020713cjcpd2511m3.jpg
   caption: |
     <p><a href="hykanga.htm">Hypselodoris kanga</a></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>IKAN-Unterwasserachiv, Frankfurt.</p>
     <p>321 pp.</p>
@@ -41,7 +43,7 @@ page_images:
     <p>Bryce.</p>
     <p>2000.</p>
     <p>Slugs of Western Australia: A guide to the species from the Indian to</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Western Australian Museum.</p>
@@ -57,7 +59,7 @@ page_images:
     <p>- Coleman, Neville, 1989.</p>
     <p>Nudibranchs of the South Pacific Vol 1.</p>
     <p>64 pp.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/slugs/nudibranchia/hypselodoris/020629chgcpd1310m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -131,7 +133,7 @@ glands on their backs where they repel predators.
 
 **Some hypselodoris
 nudibranchs on Singapore shores**
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 ---

@@ -1,9 +1,15 @@
 ---
-title: "Tongkat Ali "
+title: 'Tongkat Ali '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tongkat, ali, eurycoma, longifolia, simaroubaceae, plant, tree, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tongkat, ali, eurycoma, longifolia, simaroubaceae, plant, tree, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [18, 21, 36, 121]
+attributes:
+- 18
+- 21
+- 36
+- 121
 family: Simaroubaceae
 genus: Eurycoma
 species: longifolia
@@ -16,31 +22,31 @@ class: Magnoliopsida
 order: Sapindales
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
   caption: |
     <p>Sentosa, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090401sntd8842m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090401sntd8842m3.jpg
   caption: |
     <p>Sentosa, Apr 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8830m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8830m3a.jpg
   caption: |
     <p>Sentosa, Mar</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8830m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8830m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m3a.jpg
   caption: |
     <p>Sentosa, Mar</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8829m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8829m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/100420sntd1561m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/100420sntd1561m3.jpg
   caption: |
     <p>Sentosa, Apr</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/100420sntd1561m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/100420sntd1561m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/eurycoma/longifolia/090331sntd8824m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -95,7 +101,7 @@ is listed as 'Critically Endangered' on the Red List of threatened
 plants of Singapore. Elsewhere, the plant is also threatened by over-collection
 for the traditional herbal trade.   
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

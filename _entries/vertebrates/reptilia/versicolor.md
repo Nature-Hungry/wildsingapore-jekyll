@@ -1,7 +1,9 @@
 ---
-title: "Changeable lizard "
+title: 'Changeable lizard '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: changeable, lizard, calotes, versicolor, agamidae, vertebrate, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Agamidae
 genus: Calotes
@@ -20,20 +22,20 @@ parvorder: Acrodonta
 subfamily: Draconinae
 updated: Dec 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, May 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030809ubndd0245m6l.jpg
   caption: |
     <p>Pulau Ubin, Aug 03</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/040918sbwrd6805m6l.jpg
   caption: |
     <p>Males develop an orange head with black blotchy cheeks during breeding season.</p>
     <p>Sungei Buloh Wetland Reserve, Sep 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/020111sbwrcpd4606m3.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, Jan 02</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/reptilia/versicolor/030531sbwrd0032m3.jpg
 ---
 
 
@@ -65,7 +67,7 @@ to 37cm. A stout body with small, bumpy (keeled) scales. It has a
 spiny crest on the back of its neck and along the body. There are
 two spines above the ear opening. It has blackish streaks radiating
 from the eyes. Generally brownish to greenish yellow.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,9 +1,17 @@
 ---
 title: Crucifix swimming crab
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, decapod, crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: crucifix, swimming, crab, charybdis, feriata, feriatus, portunidae, decapod,
+  crustrace, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 58, 69, 106, 112, 119]
+attributes:
+- 38
+- 58
+- 69
+- 106
+- 112
+- 119
 family: Portunidae
 genus: Charybdis
 species: feriata*
@@ -26,26 +34,26 @@ subfamily: Thalamitinae
 subgenus: Charybdis
 updated: Dec 2019
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
   caption: |
     <p>Chek Jawa, Jul 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3b.jpg
   caption: |
     <p>5 spines on the body side, white cross pattern on its back</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/111029smkd3158.jpg
   caption: |
     <p>Seen hiding under a <a href="../../../cnidaria/actiniaria/actinodendron">Fire anemone</a>.</p>
     <p>Pulau Semakau, Oct 11 \Species are difficult to positively identify without close examination.</p>
     <p>On this website, they are grouped by external features for convenience of display.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/170402smknhpy.jpg
   caption: |
     <p>Possibly a juvenile.</p>
     <p>Pulau Semakau North, Apr 17Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/photo.php?fbid=10155062670084000&set=a.10155062669864000.1073742003.589418999&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/240723chgerg1.jpg
   caption: |
     <p>Hiding under a <a href="../../../cnidaria/actiniaria/pearly">Pearly anemone</a>.</p>
     <p>Changi East (Lost Coast), Jul 24Photo shared by Rachael Goh on <a href="https://www.facebook.com/photo/?fbid=2975970682545565&set=a.2975971539212146">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/crustacea/crab/portunidae/feriatus/050721cjd5144m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -106,7 +114,7 @@ important of the *Charybdis* species, caught by bottom trawls,
 sometimes by traps and nets. It sells for a premium in East Asia.
 More delicate than Mud crabs (*Scylla* sp.), it is usually sold
 frozen.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 ---
 

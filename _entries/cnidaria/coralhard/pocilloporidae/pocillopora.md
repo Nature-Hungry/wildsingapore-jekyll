@@ -1,12 +1,15 @@
 ---
 title: Cauliflower corals
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pocilloporidae, coral, hard, scleractinia, cnidaria, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [38, 106]
+attributes:
+- 38
+- 106
 family: Pocilloporidae
 genus: Pocillopora
-species: ""
+species: ''
 inat_id: 60547
 stateofmatter: Life
 kingdom: Animalia
@@ -16,105 +19,105 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Feb 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
   caption: |
     <p>Labrador, Jun 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8606m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050509hntg5963m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050509hntg5963m3b.jpg
   caption: |
     <p>Usually covered in mucus.</p>
     <p>Pulau Hantu, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/crustacea/crab/trapezioidea/redcoral/100711cyrd8229m3a.jpg
   caption: |
     <p><a href="../../../crustacea/crab/trapezioidea/redcoral">Red coral crab</a> in bleaching Cauliflower coral.</p>
     <p>Cyrene Reef, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/130511hntd6469m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/130511hntd6469m3.jpg
   caption: |
     <p>Pulau Hantu, Aug 13</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/130511hntd6469m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/130511hntd6469m3a.jpg
   caption: |
     <p>Corallites sunken, ringed by tiny bumps that stick out.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/080220smkd9738m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/080220smkd9738m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/080220smkd9739m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/080220smkd9739m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100617tsmd6479m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100617tsmd6479m3.jpg
   caption: |
     <p>Terumbu Semakau,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100617tsmd6479m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100617tsmd6479m3a.jpg
   caption: |
     <p>Recently dead bleached coral.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/040829kusg1736m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/040829kusg1736m3.jpg
   caption: |
     <p>Kusu Island, Aug 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/040829kusg1736m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/040829kusg1736m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/090512tmlks15m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/090512tmlks15m3.jpg
   caption: |
     <p>Tanah Merah, May 09Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.com/2009/05/probably-best-mainland-reefl">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100615tmlks5m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100615tmlks5m3.jpg
   caption: |
     <p>Tanah Merah, Jun 10Photo shared by Loh Kok Sheng on <a href="http://www.flickr.com/photos/koksheng/4702615673/">his flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/2007024pcnlks21.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/2007024pcnlks21.jpg
   caption: |
     <p>East Coast PCN, Jul 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158482803518158&set=a.10158482804868158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/200210blyky1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/200210blyky1.jpg
   caption: |
     <p>Berlayar Creek, Feb 20Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo.php?fbid=10163609375405112&set=pcb.10163609378800112&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/201116lazlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/201116lazlks8.jpg
   caption: |
     <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158766767403158&set=a.10158766770633158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7091m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7091m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7091m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7091m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091204pawd5266m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091204pawd5266m3.jpg
   caption: |
     <p>Pulau Pawai,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091204pawd5266m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091204pawd5266m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091205sudd5527m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091205sudd5527m3.jpg
   caption: |
     <p>Pulau Sudong,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091205sudd5531m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091205sudd5531m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8514m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8514m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8514m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8514m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8516m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8516m3.jpg
   caption: |
     <p>Terumbu Berkas, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8516m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100130brkd8516m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100530tbkd4274m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100530tbkd4274m3.jpg
   caption: |
     <p>Pulau Berkas,</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100530tbkd4274m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100530tbkd4274m3a.jpg
   caption: |
     <p>Bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100811slud0079m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100811slud0079m3.jpg
   caption: |
     <p>Pulau Salu, Aug 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100811slud0079m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/100811slud0079m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7099m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/091231biod7099m3.jpg
   caption: |
     <p>Pulau Biola, Dec 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/pocilloporidae/pocillopora/050625labg8603m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -188,7 +191,7 @@ cauliflower coral are often kept in captivity and used in laboratory
 conditions. They are sometimes called the coral guinea pigs. They
 are among the best studied corals.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -135,8 +135,13 @@
         %}
         {% endif %}
       </section>
-
-
+        
+        <section>
+            {% include img-grid.html items=page.page_images %}
+        </section>
+        <section>
+            {{page.links_references | markdownify}}
+        </section>
 
     </main>
 

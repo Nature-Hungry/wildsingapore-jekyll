@@ -1,11 +1,12 @@
 ---
 title: Stingrays
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sting, ray, stingray, fish, dasyatidae, rajiformes, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
 family: Dasyatidae
-genus: ""
-species: ""
+genus: ''
+species: ''
 attributes: []
 inat_id: 47271
 stateofmatter: Life
@@ -18,59 +19,59 @@ infraclass: Batoidea
 order: Myliobatiformes
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
   caption: |
     <p>Swimming.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/040509skddd0030m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Pulau Sekudu, May 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8875m3.jpg
   caption: |
     <p>Spine near the end of the tail.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/100502tryd2314m6l.jpg
   caption: |
     <p>Hard to spot under rippling water.</p>
     <p>Terumbu Raya, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/070728sisd4474m3a.jpg
   caption: |
     <p>May be half buried in sand.</p>
     <p>Sisters Island, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/020501cjd8899m3.jpg
   caption: |
     <p>'Craters' left behind by feeding stingrays?</p>
     <p>Chek Jawa, May 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/080524sntd4108m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/selachii/selachii/080524sntd4108m3.jpg
   caption: |
     <p>An egg case laid by a shark or a ray.</p>
     <p>Sentosa, Jun 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110705chgL1060451.jpg
   caption: |
     <p>Often seen trapped in fishing nets.</p>
     <p>Changi, Jul 11 Baby rays:Stingrays practice internal fertilisation.</p>
     <p>Males have a pair of claspers near the pelvic fins with grooves to introduce the sperm into the female.</p>
     <p>Stingrays give birth to live, fully developed young.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/lymma/080802sjid8804m3.jpg
   caption: |
     <p><a href="lymma">Blue-spotted fantail ray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/110520chgd2528.jpg
   caption: |
     <p><a href="walga">Mangrove whipray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/kuhlii/071226chgd8385m3.jpg
   caption: |
     <p><a href="kuhlii">Blue-spotted stingray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/uarnak/030525cjd0112m3.jpg
   caption: |
     <p><a href="uarnak">Honeycomb whipray</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/220618tmftlks2.jpg
   caption: |
     <p>Whitespotted whipray (Himantura gerrardi) Tanah Merah Ferry Terminal, Jun 22Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159943829888158&set=a.10159943838013158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/dasyatidae/walga/030717skdd0039m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -141,7 +142,7 @@ flat teeth are also made of cartilage but are strong enough to crush
 clam shells. This is because the teeth are stiffened and braced with
 struts of different types of cartilage.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 Living close to the silty or sandy bottom, stingrays have a different

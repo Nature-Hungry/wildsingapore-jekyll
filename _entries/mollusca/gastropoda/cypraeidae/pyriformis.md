@@ -1,9 +1,18 @@
 ---
 title: Pear-shaped cowrie
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pyriformis, cowrie, cypraea, erronea, cypraeidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pyriformis, cowrie, cypraea, erronea, cypraeidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [23, 33, 71, 100, 111, 123, 127]
+attributes:
+- 23
+- 33
+- 71
+- 100
+- 111
+- 123
+- 127
 family: Cypraeidea
 genus: Erronea
 species: pyriformis
@@ -19,37 +28,37 @@ subfamily: Erroneinae
 tribe: Erroneini
 updated: Jul 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
   caption: |
     <p>Beting Bronok, Jun 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2333m3.jpg
   caption: |
     <p>Beting Bronok, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060528bbd2335.jpg
   caption: |
     <p>'Teeth' dark.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik3.jpg
   caption: |
     <p>Beting Bronok, Jun 16Photo shared by Ivan Kwan on <a href="https://www.flickr.com/photos/hai_ren/28536558896/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik2.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/160607bbik.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1a.jpg
   caption: |
     <p>Beting Bronok, Jun 25Photo shared by Che Cheng New on <a href="https://www.facebook.com/media/set/?vanity=checheng.neo&set=a.10162604598193654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/250627bbccn1.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks2.JPG
   caption: |
     <p>Beting Bronok, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3590396761/in/photostream/">flickr</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/090526bblks1.JPG
   caption: |
     <p>Beting Bronok, May 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/3590397609/in/photostream/">flickr</a></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/cypraeidae/pyriformis/060625bbd3472m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -87,7 +96,7 @@ Shell
 pear-shaped, generally pale blue with 3 broad pale brown bands, sometimes 1 band darker, or bands are broken up into squares. Underside pale with a few dark spots and small dark 'teeth'. The living animal has a dark
 mottled mantle.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,7 +1,9 @@
 ---
 title: Eggwhite moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "egg, white, moon, snail, neverita, polinices, albumen, naticidae, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: egg, white, moon, snail, neverita, polinices, albumen, naticidae, gastropod,
+  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Polinices
@@ -18,52 +20,52 @@ superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
   caption: |
     <p>Cyrene Reef, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6172m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6172m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6171m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/100104chgc0174m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/100104chgc0174m3.jpg
   caption: |
     <p>Changi, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/100104chgc0173m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/100104chgc0173m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120722cyrd8424m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120722cyrd8424m3.jpg
   caption: |
     <p>Cyrene Reef, Jul 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/180811chglks3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/180811chglks3.jpg
   caption: |
     <p>Changi, Aug 18Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10156547443338158&set=a.10156547440993158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/090428chglks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/090428chglks1.jpg
   caption: |
     <p>Changi, Apr 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4174454692/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/090428chglks1b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/090428chglks1b.jpg
   caption: |
     <p>Changi, Apr 09Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4173698871/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/241019lazlks8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/241019lazlks8.jpg
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/241019lazlks8a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/241019lazlks8a.jpg
   caption: |
     <p>Lazarus Island, Oct 24Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?vanity=lohkoksheng&set=a.10161783515313158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/171104cyrtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/171104cyrtch1.jpg
   caption: |
     <p>Cyrene Reef, Nov 17Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo.php?fbid=10155928427733713&set=a.10155928421028713&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250503cyrrk1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250503cyrrk1.jpg
   caption: |
     <p>Cyrene, Jul 25 Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162818986007906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250503cyrrk1a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250503cyrrk1a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250402tsmktt1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/250402tsmktt1.jpg
   caption: |
     <p>Terumbu Semakau, Apr 25Photo shared by Tommy Tan on <a href="https://www.facebook.com/media/set/?vanity=tommy.tan.1238&set=a.10237905270909134">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/albumen/120621cyrd6210m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -109,7 +111,7 @@ the underside, a deep U-shaped depression. Operculum smooth, made of a thin horn
 yellowish brown. Body huge, opaque white and when expanded
 it does resemble the albumen of a hard boiled egg. Tentacles short, white.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

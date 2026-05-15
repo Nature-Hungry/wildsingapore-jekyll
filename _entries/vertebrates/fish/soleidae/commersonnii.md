@@ -1,9 +1,16 @@
 ---
 title: Commerson's sole
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "commerson, flat, fish, flatfish, sole, synaptura, commersonnii, soleidae, pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: commerson, flat, fish, flatfish, sole, synaptura, commersonnii, soleidae,
+  pleuronectiformes,  field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [9, 25, 47, 49, 81]
+attributes:
+- 9
+- 25
+- 47
+- 49
+- 81
 family: Soleidae
 genus: Synaptura
 species: commersonnii
@@ -18,28 +25,28 @@ order: Carangiformes
 suborder: Pleuronectoidei
 updated: Oct 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
   caption: |
     <p>Changi, Jun 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/050818cftg1401m6l.jpg
   caption: |
     <p>Tail fin joined to the dorsal and anal fins.</p>
     <p>Changi, Aug 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/040120cjd0026m3.jpg
   caption: |
     <p>Big eyes and tentacles around the mouth.</p>
     <p>Chek Jawa, Jan 04</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070702chgd3131m3.jpg
   caption: |
     <p>Swallowing a very LOOONG worm.</p>
     <p>Changi, Jul 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070422cjmn.jpg
   caption: |
     <p>Chek Jawa, Apr 07 Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/469264388/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/220616chgelks21.jpg
   caption: |
     <p>Changi Lost Coast, Jun 22 Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159940594788158&set=a.10159940599688158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/soleidae/commersonnii/070614chgd2121m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -90,7 +97,7 @@ other creatures of the intertidal zone, it is affected by human activities
 such as reclamation and pollution. Over-fishing can also have an impact
 on local populations.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

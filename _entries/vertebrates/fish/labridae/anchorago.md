@@ -1,9 +1,15 @@
 ---
-title: "Anchor   tuskfish "
+title: 'Anchor   tuskfish '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "anchor, tuskfish, tusk, fish, choerodon, anchorago, labridae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: anchor, tuskfish, tusk, fish, choerodon, anchorago, labridae, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
-attributes: [25, 47, 58, 60]
+attributes:
+- 25
+- 47
+- 58
+- 60
 family: Labridae
 genus: Choerodon
 species: anchorago
@@ -19,68 +25,68 @@ suborder: Labroidei
 subfamily: Hypsigenyinae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
   caption: |
     <p>Kusu Island, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110418tmftd9074m6l.jpg
   caption: |
     <p>Tanah Merah, Apr 11 What does it eat?</p>
     <p>It fees mainly on hard-shelled prey including crustaceans, molluscs and sea urchins.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110422mkbmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110422mkbmn.jpg
   caption: |
     <p>Marina Keppel Bay, Apr 11Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/5642216939/in/album-72157626426057351/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/120507sntsrghpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/120507sntsrghpy1m3.jpg
   caption: |
     <p>Sentosa Serapong, May 12Photo shared by Heng Pei Yan on <a href="http://peiyansama.blogspot.sg/2012/05/amazing-serapong.html">her blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/121215sislks.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/121215sislks.jpg
   caption: |
     <p>Sisters Island, Dec 12Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/8459768641/in/album-72157607605631877/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240623hntky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240623hntky3.jpg
   caption: |
     <p>Pulau Hantu, Jun 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169619874670112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100710cyrmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100710cyrmn.jpg
   caption: |
     <p>Cyrene Reef, Jul 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4792485058/in/album-72157624350385777/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/200918cyrjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/200918cyrjll2.jpg
   caption: |
     <p>Cyrene, Sep 20Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10157733348146295&set=a.10157733347506295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210821cyrlks1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210821cyrlks1.jpg
   caption: |
     <p>Cyrene Reef, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159405836888158&set=a.10159405840358158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/220911cyrccn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/220911cyrccn1.jpg
   caption: |
     <p>Cyrene, Sep 22Photo shared by Che Cheng Neo on <a href="https://www.facebook.com/photo?fbid=10159911496098654&set=a.10159911477933654">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240410cyrky5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/240410cyrky5.jpg
   caption: |
     <p>Cyrene, Apr 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/photo/?fbid=10169356963920112&set=a.10169356961615112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/260101cyryls2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/260101cyryls2.jpg
   caption: |
     <p>Cyrene, Apr 26Photo shared by Yan Le Su on <a href="https://www.facebook.com/media/set/?set=a.122121553899062825&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170430thntay.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/170430thntay.jpg
   caption: |
     <p>Terumbu Hantu, Apr 17Photo shared by Abel Yeo on <a href="https://www.facebook.com/abelyeo.mengwei/media_set?set=a.10210466877600478.1073741886.1000600604&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/101107tburrl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/101107tburrl.jpg
   caption: |
     <p>Terumbu Buran, Nov 10Photo shared by Russel Low on <a href="https://www.facebook.com/singaporereefwatch/photos/a.138438626207538.37124.109257872458947/138440279540706/?type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210811trylks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210811trylks2.jpg
   caption: |
     <p>Terumbu Raya, Aug 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10159386710668158&set=a.10159386714328158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/160424smknmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/160424smknmn1.jpg
   caption: |
     <p>Pulau Semakau (North), Apr 16Photo shared by Marcus Ng on <a href="https://www.facebook.com/marcus.ng.54738/media_set?set=a.10153353638593660&type=3&pnref=story">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100612sngmn.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/100612sngmn.jpg
   caption: |
     <p>Pulau Senang, Jun 10Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/4695150547/in/album-72157624263311376/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slujll1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slujll1.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Jianlin Liu on <a href="https://www.facebook.com/photo?fbid=10158234250956295&set=a.10158234241606295">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slumn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slumn1.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Marcus Ng on <a href="https://www.facebook.com/photo?fbid=10158223552248660&set=a.10158223378038660">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slulks4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/210428slulks4.jpg
   caption: |
     <p>Pulau Salu, Apr 21Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10159162468163158&set=a.10159162473618158">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/vertebrates/fish/labridae/anchorago/110716kusd6923m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -124,7 +130,7 @@ also has a white chin and belly, and the head has tiny orange spots.
 Like other wrasses, the fish may have different colours and patterns
 at night. Juveniles may be greenish when in seagrass. It has a pair
 of enlarged canine teeth in front of the jaws.
-{% include img-wrap-group.html items=page.page_images %}
+ 
   
 **Human uses:** It is sold fresh and
 as live seafood in Hong Kong. It

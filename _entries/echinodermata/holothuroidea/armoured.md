@@ -1,9 +1,18 @@
 ---
 title: Armoured sea cucumber
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "armoured, cucumber, sea, cucumber, psolidium, psolidae, holothuroidea, echinoderm, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: armoured, cucumber, sea, cucumber, psolidium, psolidae, holothuroidea, echinoderm,
+  field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts,
+  fact sheet, info, photo
 layout: entry
-attributes: [0, 1, 12, 13, 24, 92, 101]
+attributes:
+- 0
+- 1
+- 12
+- 13
+- 24
+- 92
+- 101
 family: Psolidae
 genus: Psolidium
 species: sp.*
@@ -17,29 +26,29 @@ subclass: Actinopoda
 order: Dendrochirotida
 updated: Apr 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
   caption: |
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3a.jpg
   caption: |
     <p>Mouth (or anus) on conical protrusion.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4237m3a.jpg
   caption: |
     <p>Rows of tube feet on the flat underside.</p>
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3.jpg
   caption: |
     <p>Changi, Jun 12</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3a.jpg
   caption: |
     <p>Short feeding tentacles.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4245m3b.jpg
   caption: |
     <p>Tiny tube feet all over the body and on underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/240706ubntch3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/240706ubntch3.jpg
   caption: |
     <p>Pulau Ubin, Jul 24Photo by Chay Hoon on <a href="https://www.facebook.com/media/set/?set=a.10161672400203713">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/echinodermata/holothuroidea/armoured/120605lygd4011m3.jpg
 ---
 
 
@@ -67,7 +76,7 @@ feet emerge all over the body.
 **Sometimes mistaken for** a tiny
 colony of [hard corals](../../cnidaria/coralhard/coralhard) or a hard [ascidian](../../ascidiacea/ascidiacea).
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

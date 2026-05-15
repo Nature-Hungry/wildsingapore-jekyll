@@ -1,9 +1,14 @@
 ---
-title: "Mengkudu akar "
+title: 'Mengkudu akar '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "mengkudu, morinda, umbellata, rubiaceae, plant, climber, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: mengkudu, morinda, umbellata, rubiaceae, plant, climber, field, guide, seashore,
+  sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo
 layout: entry
-attributes: [18, 21, 35, 36]
+attributes:
+- 18
+- 21
+- 35
+- 36
 family: Rubiaceae
 genus: Morinda
 species: umbellata
@@ -18,28 +23,28 @@ tribe: Morindeae
 inat_id: 1415440
 updated: Nov 10
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
   caption: |
     <p>Labrador, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1670m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1670m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2004m3.jpg
   caption: |
     <p>Pulau Ubin, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090517ubnd2003m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1668m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>Singapore University Press.</p>
@@ -47,13 +52,13 @@ page_images:
     <p>- Burkill, I.</p>
     <p>H., 1993.</p>
     <p>[A</p>
-- url: "http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1"
+- url: http://www.assoc-amazon.com/e/ir?t=wildsingapo08-20&l=ur2&o=1
   caption: |
     <p>.</p>
     <p>3rd printing.</p>
     <p>Publication Unit, Ministry of Agriculture, Malaysia, Kuala Lumpur.</p>
     <p>Volume 1: 1-1240; volume 2: 1241-2444.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/coastal/morinda/umbellata/090513labd1669m6l.jpg
 ---
 [![](../../../../Templates/wildfactsheet3.gif)](../../../index.html)
 
@@ -101,7 +106,7 @@ are used in traditional medicine. In India, the fruits may be eaten
 while green in curries and when raw when ripe. The tough stems are
 used as ropes in Sri Lanka.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

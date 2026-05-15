@@ -1,7 +1,9 @@
 ---
 title: Sunburst carrier-shell snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: sunburst, carrier, stellaria, solaris, xenophoridae, gastropod, mollusc,
+  snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Stellaria
@@ -17,25 +19,25 @@ order: Littorinimorpha
 superfamily: Stromboidea
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
   caption: |
     <p>Tanah Merah, Mar 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3.jpg
   caption: |
     <p>Inside of the shell not shiny.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9864m3a.jpg
   caption: |
     <p>Fine lines on the underside.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0080m3.jpg
   caption: |
     <p>Tuas, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/090824tusd0079m3.jpg
   caption: |
     <p>Tuas, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/101011chgd2128m3.jpg
   caption: |
     <p>Changi, Oct 10</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/xenophoridae/stellaria/100302tmd9866m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -87,7 +89,7 @@ snails do not have shiny mother-of pearl on the inside of the shell.
   
 **Human uses:** Occasionally collected
 in shrimp trawls. The shell is used in shellcraft.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

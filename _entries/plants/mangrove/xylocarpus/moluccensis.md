@@ -1,9 +1,17 @@
 ---
-title: "Nyireh batu "
+title: 'Nyireh batu '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "nyireh, batu, xylocarpus, moluccensis, polygalaceae, meliaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: nyireh, batu, xylocarpus, moluccensis, polygalaceae, meliaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 61, 68]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 61
+- 68
 family: Meliaceae
 genus: Xylocarpus
 species: moluccensis
@@ -18,39 +26,39 @@ tribe: Xylocarpeae
 inat_id: 425825
 updated: Mar 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
   caption: |
     <p>Leaflets eye-shaped with pointed tips.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6182m3.jpg
   caption: |
     <p>Bark with longitudinal fissures.</p>
     <p>Pulau Ubin, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/100110cjd7878m6l.jpg
   caption: |
     <p>Seasonally, all the leaves may turn yellow.</p>
     <p>Pulau Ubin, Jan 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090529prpd3038m3.jpg
   caption: |
     <p>Leaflets underside.</p>
     <p>Pasir Ris Park, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9863m3a.jpg
   caption: |
     <p>Chek Jawa, Aug 09 Compound leaf comprising 2-3 pairs of leaflets (4-12cm long) that are oblong with more pointed tips, thin and leathery.</p>
     <p>The compound leaves are arranged in a spiral and wither to a vivid yellow.</p>
     <p>Seasonally, all the leaves on a tree may turn yellow, giving an autumn feel to the mangrove forest.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3.jpg
   caption: |
     <p>Flowers in clusters.</p>
     <p>Chek Jawa, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090823cjd9874m3a.jpg
   caption: |
     <p>Chek Jawa, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6185m3.jpg
   caption: |
     <p>Fruit elliptical.</p>
     <p>Pulau Ubin, Jan 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/xylocarpus/moluccensis/090126ubnd6188m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -87,7 +95,7 @@ a synonym of *X. moluccensis*.
 with longitudinal fissures. Small buttress roots or no buttress roots, many peg-shaped
 (blunt-tipped, nearly cylindrical) pneumatophores.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

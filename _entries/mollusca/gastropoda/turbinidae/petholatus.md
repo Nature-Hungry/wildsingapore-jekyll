@@ -1,7 +1,9 @@
 ---
 title: Tapestry turban snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: tapestry, turban, turbo, petholatus, turbinidae, gastropod, mollusc, snail,
+  shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Turbinidae
 genus: Turbo
@@ -18,16 +20,16 @@ superfamily: Trochoidea
 subfamily: Turbininae
 updated: Sep 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
   caption: |
     <p>Pulau Hantu, Aug 15</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9869m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9869m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9905m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9905m3.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/turbinidae/petholatus/150830hntd9887m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -70,7 +72,7 @@ a thin operculum made of a horn-like material. While the turban shell
 snail has a shell with more distinct whorls and a thick, chalky operculum.
 Here's more on [how to tell apart turban
 and top shell snails](../topturban.htm).
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

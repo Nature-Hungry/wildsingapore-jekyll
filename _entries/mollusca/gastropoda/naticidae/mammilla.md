@@ -1,7 +1,9 @@
 ---
 title: Oval moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "oval, moon, snail, naticidae, polinices, mammilla, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: oval, moon, snail, naticidae, polinices, mammilla, gastropod, mollusc, sand,
+  collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Polinices
@@ -18,74 +20,74 @@ superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
   caption: |
     <p>Kusu Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7838m3.jpg
   caption: |
     <p>Kusu Island, May 06</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/170812cyrmn2.jpg
   caption: |
     <p>Cyrene, Aug 17Photo shared by Marcus Ng on  <a href="https://www.flickr.com/photos/budak/49394744172/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200726tpl.jpg
   caption: |
     <p>Typical trail created when it burrows just beneath the surface.</p>
     <p>Terumbu Pempang Laut, Jul 20</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090806tmd8343m3.jpg
   caption: |
     <p>Tanah Merah, Aug 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3550m3.jpg
   caption: |
     <p>Sentosa, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/090609sntd3548m3.jpg
   caption: |
     <p>Sentosa, Jun 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/100302ecplks.JPG
   caption: |
     <p>East Coast Park, Mar 10Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/4405982386/in/album-72157663938916840/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/200311blylks2.jpg
   caption: |
     <p>Berlayar Creek, Mar 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo.php?fbid=10158041342578158&set=a.10158041342408158&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201116lazlks5.jpg
   caption: |
     <p>Lazarus Island, Nov 20Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo/?fbid=10158766766628158&set=a.10158766770633158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/252531thntrk4.jpg
   caption: |
     <p>Terumbu Hantu, May 25Photo shared by Richard Kuah on <a href="https://www.facebook.com/media/set/?set=a.10162519522322906&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/150718smkelks6m3.jpg
   caption: |
     <p>Pulau Semakau East, Jul 15Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10153494442908158.1073741888.547198157&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/190902tryky3.jpg
   caption: |
     <p>Terumbu Raya, Sep 19</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/190902tryky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/190902tryky2.jpg
   caption: |
     <p>Photo shared by Kelvin Yong on <a href="https://www.facebook.com/yongszeyuenkelvin/media_set?set=a.10162818045815112&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm1m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/151225tsmkjtm2m3.jpg
   caption: |
     <p>Photo shared by Juria Toramae on <a href="https://www.facebook.com/juria.toramae/media_set?set=a.10153386137468576.1073741918.518238575&type=3&pnref=story.unseen-section">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smkslks4a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smkslks4b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smkslks4b.jpg
   caption: |
     <p>Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/photo?fbid=10158700246478158&set=a.10158700249983158">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smksvc3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smksvc3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/201018smksvc3b.jpg
   caption: |
     <p>Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo?fbid=10158021582137945&set=a.10158019861547945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/220102biotch8.jpg
   caption: |
     <p>Pulau Biola, Jan 22Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159918033643713&set=a.10159918036293713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/091205sudlks7m3.jpg
   caption: |
     <p>Pulau Sudong, Dec 09Photo shared by Loh Kok Sheng on  <a href="http://www.flickr.com/photos/koksheng/4168850620/">flickr</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/mammilla/050611kusg7839m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -134,7 +136,7 @@ into the shell when it is disturbed.
 mistaken for** the [Ball moon snail](didyma.htm) that is easily distinguished by its spherical
 shell which has a brown-coloured blotch on the underside.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

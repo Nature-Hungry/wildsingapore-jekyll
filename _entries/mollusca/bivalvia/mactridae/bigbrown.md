@@ -1,7 +1,9 @@
 ---
 title: Big brown mactra clam
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: venus, clam, mactra, grandis, mera, mactridae, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
 family: Mactridae
 genus: Mactra
@@ -21,54 +23,54 @@ superfamily: Mactroidea
 subfamily: Mactrinae
 updated: May 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
   caption: |
     <p>Changi, Jan</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7741m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7741m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1772m3.jpg
   caption: |
     <p>Pulau Sekudu,</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1782m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120508skdd1782m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3.jpg
   caption: |
     <p>Changi, Aug</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/120802chgd9135m3a.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/110705chgd5864m6l.jpg
   caption: |
     <p>A clam using its foot to leap away from a <a href="../../gastropoda/naticidae/naticidae.htm">Moon snail</a>.</p>
     <p>Changi, Jul 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3a.jpg
   caption: |
     <p>Changi, Jan 07</p>
-- url: "https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg"
+- url: https://live.staticflickr.com/7772/26855158272_842d69af7d_z.jpg
   caption: |
     <p>](https://www.flickr.com/photos/wildsingapore/26855158272/ "Big brown mactra clam (Mactra grandis) escapes from a Noble volute (Cymbiola nobilis)")</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/200710mevc4.jpg
   caption: |
     <p>East Coast-Marina East, Jul 20Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo.php?fbid=10157811089992945&set=a.10157811088932945&type=3&theater">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/240723chgeky2.jpg
   caption: |
     <p>Changi East (Lost Coast), Jul 24Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10169737487400112">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160410blylks5.jpg
   caption: |
     <p>Berlayar Creek, Apr 16Photo shared by Loh Kok Sheng on <a href="https://www.flickr.com/photos/koksheng/26073120670/in/album-72157625545414532/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/160409sjilks1.JPG
   caption: |
     <p>St.</p>
     <p>John's Island, Apr 16Photo shared by Loh Kok Sheng on <a href="http://wondercreation.blogspot.sg/2016/04/st-johns-islands-underwater-garden.html">his blog</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy1m3.jpg
   caption: |
     <p>Sisters Island, Aug 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153466562099000.1073741971.589418999&type=3">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/150815bsishpy2m3.jpg
   caption: |
     <p>Sisters Island, Aug 15Photo shared by Heng Pei Yan on <a href="https://www.facebook.com/heng.pei.yan/media_set?set=a.10153466562099000.1073741971.589418999&type=3">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/bivalvia/mactridae/bigbrown/070122chgd7739m3d.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -108,7 +110,7 @@ to purplish brown. It has a short siphon and usually lies buried just
 beneath the surface with its siphon sticking out. Sometimes, though,
 an unburied individual might be encountered on the shore.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

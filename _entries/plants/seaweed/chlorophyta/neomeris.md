@@ -1,5 +1,5 @@
 ---
-title: 'Taugeh' seaweed
+title: Taugeh seaweed
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
 keywords: "white, stem, sausage, seaweed, weed, green, neomeris, dasycladaceae, chlorophyta, algae, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
 layout: entry
@@ -113,7 +113,7 @@ there are 7 current *Neomeris* species. The species are hard to tell apart in th
   
 Neomeris is the name of one of the 50 Greek nymphs or sea
 goddesses collectively called the Nereides.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

@@ -1,12 +1,24 @@
 ---
 title: Smooth limpet
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: smooth, limpet, cellana, nacellidae, gastropod, mollusc, snail, shell, field,
+  guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact
+  sheet, info, photo
 layout: entry
-attributes: [14, 23, 33, 64, 65, 71, 100, 111, 123, 125]
+attributes:
+- 14
+- 23
+- 33
+- 64
+- 65
+- 71
+- 100
+- 111
+- 123
+- 125
 family: Nacellidae
 genus: Cellana
-species: ""
+species: ''
 inat_id: 64286
 stateofmatter: Life
 kingdom: Animalia
@@ -17,30 +29,30 @@ order: Nacellida
 superfamily: Nacelloidea
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
   caption: |
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5589m3.jpg
   caption: |
     <p>Underside.</p>
     <p>Chek Jawa, May 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050108cjd9188m3.jpg
   caption: |
     <p>Gills form a frilly edge around the body.</p>
     <p>Chek Jawa, Jan 05</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/170626skdmn1.jpg
   caption: |
     <p>Pulau Sekudu, Jun 17Photo shared by Marcus Ng on <a href="https://www.flickr.com/photos/budak/49193185806/">flickr</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/240309tkrvc2.jpg
   caption: |
     <p>Pulau Tekukor, Mar 24Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10160253043187945&set=a.10160253108937945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2.jpg
   caption: |
     <p>Big Sisters Island, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174366637675112&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/260217bsisky2b.jpg
   caption: |
     <p>Big Sisters Island, Feb 26Photo shared by Kelvin Yong on <a href="https://www.facebook.com/media/set/?set=a.10174366637675112&type=3&ref=embed_post">facebook</a>.</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/limpets/cellana/050502cjg5601m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +94,7 @@ shell smooth with fine grooves. There is no hole at the top of the
 shell. Body plain white or yellow. The
 smooth limpet is a true limpet that breathes through gills.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

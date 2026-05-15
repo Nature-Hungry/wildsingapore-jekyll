@@ -1,9 +1,17 @@
 ---
-title: "Api-api putih "
+title: 'Api-api putih '
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "api, putih, puteh, avicennia, alba, acanthaceae, avicenniaceae, tree, mangrove, mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: api, putih, puteh, avicennia, alba, acanthaceae, avicenniaceae, tree, mangrove,
+  mangroves, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore,
+  facts, fact sheet, info, photo
 layout: entry
-attributes: [16, 18, 21, 36, 68, 83]
+attributes:
+- 16
+- 18
+- 21
+- 36
+- 68
+- 83
 family: Acanthaceae
 genus: Avicennia
 species: alba
@@ -17,48 +25,48 @@ subfamily: Avicennioideae
 inat_id: 189583
 updated: Oct 2016
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
   caption: |
     <p>Pasir Ris, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090114labd5287m3.jpg
   caption: |
     <p>Leaves very white underneath.</p>
     <p>Berlayar Creek, Jan 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3.jpg
   caption: |
     <p>Small flowers, spaced apart.</p>
     <p>Sungei Buloh Wetland Reserve, May 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090307blyd7439m3.jpg
   caption: |
     <p>Fruits with long pointed tips.</p>
     <p>Berlayar Creek, Mar 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090517ubnd1913m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090517ubnd1913m3b.jpg
   caption: |
     <p>Pulau Ubin, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/020511sbwrcpd9062m3a.jpg
   caption: |
     <p>Sungei Buloh Wetland Reserve, May 02</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/011107sbwrcpd583m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/011107sbwrcpd583m3a.jpg
   caption: |
     <p>Sungei Buloh, Nov 01</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090529prpd2908m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090529prpd2908m3a.jpg
   caption: |
     <p>Young pneumatophore.</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3845m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3845m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3844m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3844m3.jpg
   caption: |
     <p>Pasir Ris, May 09</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/110207krjd6049m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/110207krjd6049m6l.jpg
   caption: |
     <p>Fallen over tree which recovered.</p>
     <p>Kranji Nature Trail, Feb 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090322krjd8409m3.jpg
   caption: |
     <p>May have stilt roots as well as pencil-like pneumatophores.</p>
     <p>Kranji Canal, Mar 09</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/plants/mangrove/avicennia/alba/090611prpd3840m6l.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -117,7 +125,7 @@ Seedlings form as soon as the fruit drops off the parent plant. In
 *A. alba*, the seedlings have hooked hairs so that the seedlings
 are often seen in entangled clumps.  
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

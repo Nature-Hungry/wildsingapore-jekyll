@@ -1,7 +1,9 @@
 ---
 title: Ball moon snail
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod, mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: ball, moon, snail, naticidae, natica, polinices, neverita, didyma, gastropod,
+  mollusc, sand, collar, field, guide, seashore, sea, shore, marine, coastal, intertidal,
+  singapore, facts, fact sheet, info, photo
 layout: entry
 family: Naticidae
 genus: Neverita
@@ -18,19 +20,19 @@ superfamily: Naticoidea
 subfamily: Polinicinae
 updated: Aug 2020
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
   caption: |
     <p>Tanah Merah, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8019m3.jpg
   caption: |
     <p>Tanah Merah, Feb 07</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m6l.jpg
   caption: |
     <p>Changi, May 11</p>
-- url: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/110520chgd2415m3a.jpg
   caption: |
     <p>Siphon (upper left) and tentcles</p>
-coverimg: "http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/mollusca/gastropoda/naticidae/didyma/070218tmd8018m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../index.html)
 
@@ -82,7 +84,7 @@ moon snail](mammatus.htm) that is easily distinguished
 by its more tear-drop shaped shell which on the underside is completely white (no brown
 patch) and has a bump instead of a depression. The Ball moon snail is less shy and doesn't immediately retract completely into its shell the way the Oval moon snail does.
 
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 

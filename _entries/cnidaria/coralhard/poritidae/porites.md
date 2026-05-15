@@ -1,11 +1,13 @@
 ---
 title: Pore coral
 description: Fact sheet with photos on flora and fauna of Singapore's intertidal shores
-keywords: "pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide, seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet, info, photo"
+keywords: pore, porites, poritidae, coral, hard, scleractinia, cnidaria, field, guide,
+  seashore, sea, shore, marine, coastal, intertidal, singapore, facts, fact sheet,
+  info, photo
 layout: entry
 family: Poritidae
 genus: Porites
-species: ""
+species: ''
 attributes: []
 inat_id: 47530
 stateofmatter: Life
@@ -16,84 +18,84 @@ subclass: Hexacorallia
 order: Scleractinia
 updated: Sep 2025
 page_images:
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
   caption: |
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3b.jpg
   caption: |
     <p>Tiny hexagonal corallites.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3c.jpg
   caption: |
     <p>Tiny polyps.</p>
     <p>Coral feast: The nudibranch Phestilla lugubris feeds on the coral.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/210501tbtch1.jpg
   caption: |
     <p>Phestilla lugubris with egg mass.</p>
     <p>Terumbu Bemban, May 21Photo shared by Toh Chay Hoon on <a href="https://www.facebook.com/photo/?fbid=10159415580908713&set=a.10159415623518713">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2.jpg
   caption: |
     <p>Phestilla lugubris with egg mass.</p>
     <p>Raffles Lighthouse, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158874136767945&set=a.10158874193577945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/220105rlhvc2b.jpg
   caption: |
     <p>Phestilla lugubris.</p>
     <p>Raffles Lighthouse, Jan 22Photo shared by Vincent Choo on <a href="https://www.facebook.com/photo/?fbid=10158874137742945&set=a.10158874193577945">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsisjll2.jpg
   caption: |
     <p>Phestilla sp.</p>
     <p>Big Sisters Island, Feb 26Photo shared by Jianlin Liu on <a href="https://www.facebook.com/media/set/?set=a.10162668128201295&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/260217bsislks2.jpg
   caption: |
     <p>Phestilla sp.</p>
     <p>with egg mass.</p>
     <p>Big Sisters Island, Feb 26Photo shared by Loh Kok Sheng on <a href="https://www.facebook.com/media/set/?set=a.10163989335673158&type=3&ref=embed_post">facebook</a>.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8755m3a.jpg
   caption: |
     <p>A burrowing animal?</p>
     <p>St.</p>
     <p>John's Island, Aug 08</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/170114tkko1130187.jpg
   caption: |
     <p>Bite marks - made by fishes?</p>
     <p>Pulau Tekukor, Jan 17</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3.jpg
   caption: |
     <p>Pulau Tekukor, May 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100528tkkd3682m3a.jpg
   caption: |
     <p>Layer of slime peeling off.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3.jpg
   caption: |
     <p>Tanah Merah, Sep 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100909tmd0869m3a.jpg
   caption: |
     <p>Layer of slime peeling off.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3.jpg
   caption: |
     <p>Sisters Island, Jul 10</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/100710sisd8003m3b.jpg
   caption: |
     <p>Diseased coral after coral bleaching.</p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusd8248m3.jpg
   caption: |
     <p><a href="porbranch">Branching pore coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusg7796m3b.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/070221kusg7796m3b.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntd9742m3.jpg
   caption: |
     <p><a href="porbranch">Branching pore coral</a></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntg2802m3c.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porbranch/050113sntg2802m3c.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3684m3.jpg
   caption: |
     <p></p>
-- url: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg"
+- url: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/060102sisg3685m3a.jpg
   caption: |
     <p></p>
-coverimg: "http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg"
+coverimg: http://www.wildsingapore.com/wildfacts/cnidaria/coralhard/poritidae/porboulder/080802sjid8757m3.jpg
 ---
 [![](../../../../wildfactsheet3.gif)](../../../indexl)
 
@@ -142,7 +144,7 @@ sediments, the corals may produce slime that traps sediments. The
 slime layer is then shed like a skin. Colours seen include yellow,
 brown, green, blue, purplish. Usually the colony is
 of one uniform colour. Pinkish patches usually suggest stressed polyps.
-{% include img-wrap-group.html items=page.page_images %}
+ 
 
 
 
